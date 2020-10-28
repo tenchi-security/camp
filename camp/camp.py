@@ -127,13 +127,19 @@ def summarize(location: str) -> None:
     summary_path = os.path.join(location, "versions_summary.csv")
     num_rows = 0
     with open(summary_path, 'w', newline='') as csvfile:
-        out = csv.DictWriter(csvfile, fieldnames=get_field_names(location), quoting=csv.QUOTE_NONNUMERIC)
+        fieldnames = get_field_names(location)
+        out = csv.DictWriter(csvfile, fieldnames=fieldnames, quoting=csv.QUOTE_NONNUMERIC)
         out.writeheader()
         for policydir in iter_policies(location):
             for versiondir in iter_policy_versions(policydir):
                 num_rows += 1
-                out.writerow(get_version_summary(versiondir))
+                row = get_version_summary(versiondir)
+                for col in fieldnames:
+                    if col not in row:
+                        row[col] = 0
+                out.writerow(row)
     logger.info(f'Wrote {num_rows} rows to {summary_path}')
+
 
 # read v1 of AdministratorAccess to ensure we have all the possible fields
 def get_field_names(location: str) -> List[str]:
@@ -143,7 +149,6 @@ def get_field_names(location: str) -> List[str]:
     with open(os.path.join(location, 'policies', 'AdministratorAccess', 'v1', 'cloudsplaining.json'), 'r') as f:
         cs = json.load(f)
         fieldnames.extend(cs.keys())
-        fieldnames.extend(['PrivilegeEscalation_' + x['type'] for x in cs['PrivilegeEscalation']])
     return fieldnames
 
 
@@ -154,11 +159,7 @@ def get_version_summary(versiondir: str) -> Dict[str, Any]:
     with open(os.path.join(versiondir, 'cloudsplaining.json'), 'r') as f:
         cs: Dict[str, Any] = json.load(f)
         for k, v in cs.items():
-            if k == 'PrivilegeEscalation':
-                for entry in v:
-                    summary['PrivilegeEscalation_' + entry['type']] = len(entry['actions'])
-            else:
-                summary[k] = len(v)
+            summary[k] = len(v)
     if 'PolicyName' not in summary:
         summary['PolicyName'] = versiondir.split(os.sep)[-2]
     return summary
