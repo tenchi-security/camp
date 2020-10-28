@@ -1,15 +1,25 @@
 #!/usr/bin/env python3
-import os, os.path, logging, sys, json, multiprocessing, argparse
+import argparse
+import json
+import logging
+import multiprocessing
+import os
+import os.path
+import sys
 from datetime import datetime
+
 import boto3
 from cloudsplaining.command.scan_policy_file import scan_policy
+from mypy_boto3_iam import Client as IAMClient
+
 
 # download policy files using boto3 IAM APIs
-def download_policies(client, location: str, force: bool =False):
+def download_policies(client: IAMClient, location: str, force: bool = False) -> None:
     logger = logging.getLogger("camp")
     num_policies = 0
     num_versions = 0
     num_skipped = 0
+
     for policy_page in client.get_paginator('list_policies').paginate(Scope='AWS'):
         for policy in policy_page['Policies']:
             policy_path = os.path.join(location, 'policies', policy['PolicyName'])
@@ -34,7 +44,10 @@ def download_policies(client, location: str, force: bool =False):
                     version['CreateDate'] = version['CreateDate'].isoformat()
                     with open(os.path.join(version_path, "metadata.json"), "w") as f:
                         json.dump(version, f, indent=4)
-                    document = client.get_policy_version(PolicyArn=policy['Arn'], VersionId=version['VersionId'])['PolicyVersion']['Document']
+                    document = \
+                        client.get_policy_version(PolicyArn=policy['Arn'], VersionId=version['VersionId'])[
+                            'PolicyVersion'][
+                            'Document']
                     with open(os.path.join(version_path, "policy.json"), "w") as f:
                         json.dump(document, f, indent=4)
                     num_versions += 1
@@ -46,7 +59,10 @@ def download_policies(client, location: str, force: bool =False):
             with open(os.path.join(policy_path, "metadata.json"), "w") as f:
                 json.dump(policy, f, indent=4)
             num_policies += 1
-    logger.info(f'Downloaded {num_versions} versions of {num_policies} policies, skipped {num_skipped} existing downloaded policies.')
+
+    logger.info(
+        f'Downloaded {num_versions} versions of {num_policies} policies, skipped {num_skipped} existing policies.')
+
 
 # generator of policy directory paths
 def iter_policies(location: str) -> str:
@@ -55,6 +71,7 @@ def iter_policies(location: str) -> str:
             continue
         yield policydir.path
 
+
 # generator of policy version paths from a policy directory
 def iter_policy_versions(policydir: str) -> str:
     for versiondir in os.scandir(policydir):
@@ -62,8 +79,9 @@ def iter_policy_versions(policydir: str) -> str:
             continue
         yield versiondir.path
 
+
 # iterates through each policy version and runs CloudSplaining on the policy document
-def scan_policies(location: str, force: bool =False):
+def scan_policies(location: str, force: bool = False) -> None:
     logger = logging.getLogger("camp")
     num_versions = 0
     num_skipped = 0
@@ -83,7 +101,9 @@ def scan_policies(location: str, force: bool =False):
                 num_skipped += 1
     pool.close()
     pool.join()
-    logger.info(f"Scanned {num_versions} policy versions, skipped {num_skipped} policy versions with existing scan results.")
+    logger.info(
+        f"Scanned {num_versions} policy versions, skipped {num_skipped} policy versions with existing scan results.")
+
 
 # helper function that runs CloudSplaining on a policy and saves it to a specific file
 def run_cloudsplaining(input_fname: str, output_fname: str) -> str:
@@ -94,13 +114,14 @@ def run_cloudsplaining(input_fname: str, output_fname: str) -> str:
             json.dump(results, output_file, indent=4)
             return output_fname
 
+
 # help function to execute a single CLI command
-def handle_args(args):
+def handle_args(args) -> None:
     if args['command'] == 'download':
-        client = boto3.Session(profile_name=args['profile']).client('iam')
-        download_policies(client, args['location'], args['force'])
+        download_policies(boto3.Session(profile_name=args['profile']).client('iam'), args['location'], args['force'])
     elif args['command'] == 'scan':
         scan_policies(args['location'], args['force'])
+
 
 # main code when executed as a CLI
 if __name__ == "__main__":
