@@ -1,0 +1,21 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "ec2",
+        "secretsmanager"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "ec2:CreateNetworkInterfacePermission",
+        "secretsmanager:DeleteResourcePolicy",
+        "secretsmanager:PutResourcePolicy"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "ec2:CreateNetworkInterface",
+        "ec2:CreateNetworkInterfacePermission",
+        "secretsmanager:DeleteResourcePolicy",
+        "secretsmanager:PutResourcePolicy"
+    ]
+}

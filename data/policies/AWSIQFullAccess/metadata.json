@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSIQFullAccess",
+    "PolicyId": "ANPAZKAPJZG4P4TAHETXT",
+    "Arn": "arn:aws:iam::aws:policy/AWSIQFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v2",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2019-04-04T23:13:42+00:00",
+    "UpdateDate": "2019-09-25T20:22:34+00:00"
+}

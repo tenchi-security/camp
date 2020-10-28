@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSElementalMediaStoreReadOnly",
+    "PolicyId": "ANPAI4EFXRATQYOFTAEFM",
+    "Arn": "arn:aws:iam::aws:policy/AWSElementalMediaStoreReadOnly",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2018-03-08T19:48:22+00:00",
+    "UpdateDate": "2018-03-08T19:48:22+00:00"
+}

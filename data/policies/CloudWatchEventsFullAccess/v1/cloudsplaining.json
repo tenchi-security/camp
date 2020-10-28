@@ -1,0 +1,29 @@
+{
+    "ServiceWildcard": [
+        "events"
+    ],
+    "ServicesAffected": [
+        "events"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "events:ActivateEventSource",
+        "events:CreateEventBus",
+        "events:CreatePartnerEventSource",
+        "events:DeactivateEventSource",
+        "events:DeleteEventBus",
+        "events:DeletePartnerEventSource",
+        "events:DeleteRule",
+        "events:DisableRule",
+        "events:EnableRule",
+        "events:PutEvents",
+        "events:PutRule",
+        "events:PutTargets",
+        "events:RemoveTargets",
+        "events:TagResource",
+        "events:UntagResource"
+    ]
+}

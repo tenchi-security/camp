@@ -1,0 +1,12 @@
+{
+    "PolicyName": "DAXServiceRolePolicy",
+    "PolicyId": "ANPAJQWMGC67G4DWMREGM",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/DAXServiceRolePolicy",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2018-03-05T17:51:25+00:00",
+    "UpdateDate": "2018-03-05T17:51:25+00:00"
+}

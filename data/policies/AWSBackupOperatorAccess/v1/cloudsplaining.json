@@ -1,0 +1,16 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "backup"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "backup:CreateBackupSelection",
+        "backup:DeleteBackupSelection",
+        "backup:StartBackupJob",
+        "backup:StartRestoreJob"
+    ]
+}

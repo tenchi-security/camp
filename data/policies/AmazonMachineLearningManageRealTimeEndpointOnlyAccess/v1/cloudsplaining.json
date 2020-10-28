@@ -1,0 +1,14 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "machinelearning"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "machinelearning:CreateRealtimeEndpoint",
+        "machinelearning:DeleteRealtimeEndpoint"
+    ]
+}

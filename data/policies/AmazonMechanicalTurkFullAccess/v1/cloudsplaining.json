@@ -1,0 +1,11 @@
+{
+    "ServiceWildcard": [
+        "mechanicalturk"
+    ],
+    "ServicesAffected": [],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": []
+}

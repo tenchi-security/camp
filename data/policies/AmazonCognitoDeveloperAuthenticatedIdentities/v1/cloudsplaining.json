@@ -1,0 +1,19 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "cognito-identity"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "cognito-identity:MergeDeveloperIdentities",
+        "cognito-identity:UnlinkDeveloperIdentity"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [
+        "cognito-identity:GetOpenIdTokenForDeveloperIdentity"
+    ],
+    "InfrastructureModification": [
+        "cognito-identity:MergeDeveloperIdentities",
+        "cognito-identity:UnlinkDeveloperIdentity"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "ServiceWildcard": [
+        "devicefarm"
+    ],
+    "ServicesAffected": [
+        "devicefarm"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "devicefarm:CreateDevicePool",
+        "devicefarm:CreateNetworkProfile",
+        "devicefarm:CreateRemoteAccessSession",
+        "devicefarm:CreateTestGridUrl",
+        "devicefarm:CreateUpload",
+        "devicefarm:DeleteDevicePool",
+        "devicefarm:DeleteInstanceProfile",
+        "devicefarm:DeleteNetworkProfile",
+        "devicefarm:DeleteProject",
+        "devicefarm:DeleteRemoteAccessSession",
+        "devicefarm:DeleteRun",
+        "devicefarm:DeleteTestGridProject",
+        "devicefarm:DeleteUpload",
+        "devicefarm:DeleteVPCEConfiguration",
+        "devicefarm:InstallToRemoteAccessSession",
+        "devicefarm:ScheduleRun",
+        "devicefarm:StopJob",
+        "devicefarm:StopRemoteAccessSession",
+        "devicefarm:StopRun",
+        "devicefarm:TagResource",
+        "devicefarm:UntagResource",
+        "devicefarm:UpdateDeviceInstance",
+        "devicefarm:UpdateDevicePool",
+        "devicefarm:UpdateInstanceProfile",
+        "devicefarm:UpdateNetworkProfile",
+        "devicefarm:UpdateProject",
+        "devicefarm:UpdateTestGridProject",
+        "devicefarm:UpdateUpload",
+        "devicefarm:UpdateVPCEConfiguration"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonCodeGuruReviewerFullAccess",
+    "PolicyId": "ANPAZKAPJZG4ENLFBTHWM",
+    "Arn": "arn:aws:iam::aws:policy/AmazonCodeGuruReviewerFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v3",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2019-12-03T08:33:47+00:00",
+    "UpdateDate": "2020-08-29T04:16:08+00:00"
+}

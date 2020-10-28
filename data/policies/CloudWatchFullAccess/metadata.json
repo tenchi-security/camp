@@ -1,0 +1,12 @@
+{
+    "PolicyName": "CloudWatchFullAccess",
+    "PolicyId": "ANPAIKEABORKUXN6DEAZU",
+    "Arn": "arn:aws:iam::aws:policy/CloudWatchFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v3",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2015-02-06T18:40:00+00:00",
+    "UpdateDate": "2018-08-09T19:10:43+00:00"
+}

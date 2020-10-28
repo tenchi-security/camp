@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonElasticFileSystemReadOnlyAccess",
+    "PolicyId": "ANPAIPN5S4NE5JJOKVC4Y",
+    "Arn": "arn:aws:iam::aws:policy/AmazonElasticFileSystemReadOnlyAccess",
+    "Path": "/",
+    "DefaultVersionId": "v5",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2015-05-27T16:25:25+00:00",
+    "UpdateDate": "2020-07-16T16:46:50+00:00"
+}

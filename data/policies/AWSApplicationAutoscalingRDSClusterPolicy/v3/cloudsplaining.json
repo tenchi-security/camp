@@ -1,0 +1,23 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "cloudwatch",
+        "iam",
+        "rds"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:PassRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "cloudwatch:DeleteAlarms",
+        "cloudwatch:PutMetricAlarm",
+        "iam:PassRole",
+        "rds:AddTagsToResource",
+        "rds:CreateDBInstance",
+        "rds:DeleteDBInstance",
+        "rds:ModifyDBCluster"
+    ]
+}

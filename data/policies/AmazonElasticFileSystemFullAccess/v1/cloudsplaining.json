@@ -1,0 +1,36 @@
+{
+    "ServiceWildcard": [
+        "elasticfilesystem"
+    ],
+    "ServicesAffected": [
+        "ec2",
+        "elasticfilesystem"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "elasticfilesystem:DeleteFileSystemPolicy",
+        "elasticfilesystem:PutFileSystemPolicy"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "ec2:CreateNetworkInterface",
+        "elasticfilesystem:Backup",
+        "elasticfilesystem:ClientRootAccess",
+        "elasticfilesystem:ClientWrite",
+        "elasticfilesystem:CreateAccessPoint",
+        "elasticfilesystem:CreateMountTarget",
+        "elasticfilesystem:CreateTags",
+        "elasticfilesystem:DeleteAccessPoint",
+        "elasticfilesystem:DeleteFileSystem",
+        "elasticfilesystem:DeleteFileSystemPolicy",
+        "elasticfilesystem:DeleteMountTarget",
+        "elasticfilesystem:DeleteTags",
+        "elasticfilesystem:ModifyMountTargetSecurityGroups",
+        "elasticfilesystem:PutBackupPolicy",
+        "elasticfilesystem:PutFileSystemPolicy",
+        "elasticfilesystem:PutLifecycleConfiguration",
+        "elasticfilesystem:Restore",
+        "elasticfilesystem:UpdateFileSystem"
+    ]
+}

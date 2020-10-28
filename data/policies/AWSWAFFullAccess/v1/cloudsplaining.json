@@ -1,0 +1,60 @@
+{
+    "ServiceWildcard": [
+        "waf"
+    ],
+    "ServicesAffected": [
+        "waf"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "waf:DeletePermissionPolicy",
+        "waf:PutPermissionPolicy"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "waf:CreateByteMatchSet",
+        "waf:CreateGeoMatchSet",
+        "waf:CreateIPSet",
+        "waf:CreateRateBasedRule",
+        "waf:CreateRegexMatchSet",
+        "waf:CreateRegexPatternSet",
+        "waf:CreateRule",
+        "waf:CreateRuleGroup",
+        "waf:CreateSizeConstraintSet",
+        "waf:CreateSqlInjectionMatchSet",
+        "waf:CreateWebACL",
+        "waf:CreateWebACLMigrationStack",
+        "waf:CreateXssMatchSet",
+        "waf:DeleteByteMatchSet",
+        "waf:DeleteGeoMatchSet",
+        "waf:DeleteIPSet",
+        "waf:DeleteLoggingConfiguration",
+        "waf:DeletePermissionPolicy",
+        "waf:DeleteRateBasedRule",
+        "waf:DeleteRegexMatchSet",
+        "waf:DeleteRegexPatternSet",
+        "waf:DeleteRule",
+        "waf:DeleteRuleGroup",
+        "waf:DeleteSizeConstraintSet",
+        "waf:DeleteSqlInjectionMatchSet",
+        "waf:DeleteWebACL",
+        "waf:DeleteXssMatchSet",
+        "waf:PutLoggingConfiguration",
+        "waf:PutPermissionPolicy",
+        "waf:TagResource",
+        "waf:UntagResource",
+        "waf:UpdateByteMatchSet",
+        "waf:UpdateGeoMatchSet",
+        "waf:UpdateIPSet",
+        "waf:UpdateRateBasedRule",
+        "waf:UpdateRegexMatchSet",
+        "waf:UpdateRegexPatternSet",
+        "waf:UpdateRule",
+        "waf:UpdateRuleGroup",
+        "waf:UpdateSizeConstraintSet",
+        "waf:UpdateSqlInjectionMatchSet",
+        "waf:UpdateWebACL",
+        "waf:UpdateXssMatchSet"
+    ]
+}

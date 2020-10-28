@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSChatbotServiceLinkedRolePolicy",
+    "PolicyId": "ANPAZKAPJZG4ID4WRYKST",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/AWSChatbotServiceLinkedRolePolicy",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2019-11-18T16:39:50+00:00",
+    "UpdateDate": "2019-11-18T16:39:50+00:00"
+}

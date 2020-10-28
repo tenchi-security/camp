@@ -1,0 +1,21 @@
+{
+    "ServiceWildcard": [
+        "acm"
+    ],
+    "ServicesAffected": [
+        "acm"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "acm:AddTagsToCertificate",
+        "acm:DeleteCertificate",
+        "acm:ImportCertificate",
+        "acm:RemoveTagsFromCertificate",
+        "acm:RenewCertificate",
+        "acm:ResendValidationEmail",
+        "acm:UpdateCertificateOptions"
+    ]
+}

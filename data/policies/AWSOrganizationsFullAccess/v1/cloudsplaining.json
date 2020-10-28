@@ -1,0 +1,33 @@
+{
+    "ServiceWildcard": [
+        "organizations"
+    ],
+    "ServicesAffected": [
+        "organizations"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "organizations:AcceptHandshake",
+        "organizations:AttachPolicy",
+        "organizations:CancelHandshake",
+        "organizations:CreateOrganizationalUnit",
+        "organizations:DeclineHandshake",
+        "organizations:DeleteOrganizationalUnit",
+        "organizations:DeletePolicy",
+        "organizations:DeregisterDelegatedAdministrator",
+        "organizations:DetachPolicy",
+        "organizations:DisablePolicyType",
+        "organizations:EnablePolicyType",
+        "organizations:InviteAccountToOrganization",
+        "organizations:MoveAccount",
+        "organizations:RegisterDelegatedAdministrator",
+        "organizations:RemoveAccountFromOrganization",
+        "organizations:TagResource",
+        "organizations:UntagResource",
+        "organizations:UpdateOrganizationalUnit",
+        "organizations:UpdatePolicy"
+    ]
+}

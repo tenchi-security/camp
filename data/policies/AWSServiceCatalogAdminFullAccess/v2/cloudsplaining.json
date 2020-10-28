@@ -1,0 +1,41 @@
+{
+    "ServiceWildcard": [
+        "servicecatalog"
+    ],
+    "ServicesAffected": [
+        "iam",
+        "servicecatalog"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "servicecatalog:CreatePortfolioShare",
+        "servicecatalog:DeletePortfolioShare",
+        "iam:PassRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "iam:PassRole",
+        "servicecatalog:AcceptPortfolioShare",
+        "servicecatalog:AssociatePrincipalWithPortfolio",
+        "servicecatalog:AssociateServiceActionWithProvisioningArtifact",
+        "servicecatalog:AssociateTagOptionWithResource",
+        "servicecatalog:CreateConstraint",
+        "servicecatalog:CreatePortfolio",
+        "servicecatalog:CreatePortfolioShare",
+        "servicecatalog:CreateProduct",
+        "servicecatalog:CreateProvisioningArtifact",
+        "servicecatalog:DeletePortfolio",
+        "servicecatalog:DeletePortfolioShare",
+        "servicecatalog:DeleteProduct",
+        "servicecatalog:DeleteProvisioningArtifact",
+        "servicecatalog:DisassociatePrincipalFromPortfolio",
+        "servicecatalog:DisassociateServiceActionFromProvisioningArtifact",
+        "servicecatalog:DisassociateTagOptionFromResource",
+        "servicecatalog:ProvisionProduct",
+        "servicecatalog:RejectPortfolioShare",
+        "servicecatalog:UpdatePortfolio",
+        "servicecatalog:UpdateProduct",
+        "servicecatalog:UpdateProvisioningArtifact"
+    ]
+}

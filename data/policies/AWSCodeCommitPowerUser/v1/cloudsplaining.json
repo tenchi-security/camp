@@ -1,0 +1,24 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "codecommit"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "codecommit:CreateBranch",
+        "codecommit:CreateRepository",
+        "codecommit:GitPush",
+        "codecommit:UpdateComment",
+        "codecommit:UpdateDefaultBranch",
+        "codecommit:UpdatePullRequestApprovalRuleContent",
+        "codecommit:UpdatePullRequestApprovalState",
+        "codecommit:UpdatePullRequestDescription",
+        "codecommit:UpdatePullRequestStatus",
+        "codecommit:UpdatePullRequestTitle",
+        "codecommit:UpdateRepositoryDescription",
+        "codecommit:UpdateRepositoryName"
+    ]
+}

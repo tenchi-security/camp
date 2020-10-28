@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonEKSFargatePodExecutionRolePolicy",
+    "PolicyId": "ANPAZKAPJZG4FJRXZH7YQ",
+    "Arn": "arn:aws:iam::aws:policy/AmazonEKSFargatePodExecutionRolePolicy",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2019-11-22T04:34:29+00:00",
+    "UpdateDate": "2019-11-22T04:34:29+00:00"
+}

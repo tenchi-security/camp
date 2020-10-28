@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSIoTConfigReadOnlyAccess",
+    "PolicyId": "ANPAJHENEMXGX4XMFOIOI",
+    "Arn": "arn:aws:iam::aws:policy/AWSIoTConfigReadOnlyAccess",
+    "Path": "/",
+    "DefaultVersionId": "v8",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2015-10-27T21:52:31+00:00",
+    "UpdateDate": "2019-09-27T20:52:40+00:00"
+}

@@ -1,0 +1,12 @@
+{
+    "PolicyName": "CloudWatchAutomaticDashboardsAccess",
+    "PolicyId": "ANPAZKAPJZG4JFCXGSE2Q",
+    "Arn": "arn:aws:iam::aws:policy/CloudWatchAutomaticDashboardsAccess",
+    "Path": "/",
+    "DefaultVersionId": "v2",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2019-07-23T10:01:08+00:00",
+    "UpdateDate": "2019-11-20T12:58:09+00:00"
+}

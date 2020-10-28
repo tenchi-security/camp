@@ -1,0 +1,19 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "AllowsIotToAccessGreengrassOTAUpdateArtifacts",
+            "Effect": "Allow",
+            "Action": [
+                "s3:GetObject"
+            ],
+            "Resource": [
+                "arn:aws:s3:::eu-central-1-greengrass-updates/*",
+                "arn:aws:s3:::us-east-1-greengrass-updates/*",
+                "arn:aws:s3:::ap-northeast-1-greengrass-updates/*",
+                "arn:aws:s3:::us-west-2-greengrass-updates/*",
+                "arn:aws:s3:::ap-southeast-2-greengrass-updates/*"
+            ]
+        }
+    ]
+}

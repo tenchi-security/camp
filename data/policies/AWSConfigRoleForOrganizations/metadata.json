@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSConfigRoleForOrganizations",
+    "PolicyId": "ANPAIEHGYAUTHXSXZAW2E",
+    "Arn": "arn:aws:iam::aws:policy/service-role/AWSConfigRoleForOrganizations",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2018-03-19T22:53:01+00:00",
+    "UpdateDate": "2018-03-19T22:53:01+00:00"
+}

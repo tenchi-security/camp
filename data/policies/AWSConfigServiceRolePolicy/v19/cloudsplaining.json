@@ -1,0 +1,16 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "config"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "config:PutAggregationAuthorization",
+        "config:PutConfigRule",
+        "config:PutConfigurationAggregator",
+        "config:PutRemediationConfigurations"
+    ]
+}

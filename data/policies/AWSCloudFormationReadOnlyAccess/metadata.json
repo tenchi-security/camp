@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSCloudFormationReadOnlyAccess",
+    "PolicyId": "ANPAJWVBEE4I2POWLODLW",
+    "Arn": "arn:aws:iam::aws:policy/AWSCloudFormationReadOnlyAccess",
+    "Path": "/",
+    "DefaultVersionId": "v4",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2015-02-06T18:39:49+00:00",
+    "UpdateDate": "2019-11-13T17:40:07+00:00"
+}

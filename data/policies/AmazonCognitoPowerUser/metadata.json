@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonCognitoPowerUser",
+    "PolicyId": "ANPAJKW5H2HNCPGCYGR6Y",
+    "Arn": "arn:aws:iam::aws:policy/AmazonCognitoPowerUser",
+    "Path": "/",
+    "DefaultVersionId": "v4",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2015-03-24T17:14:56+00:00",
+    "UpdateDate": "2020-07-16T17:25:06+00:00"
+}

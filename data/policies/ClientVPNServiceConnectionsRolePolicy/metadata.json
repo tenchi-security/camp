@@ -1,0 +1,12 @@
+{
+    "PolicyName": "ClientVPNServiceConnectionsRolePolicy",
+    "PolicyId": "ANPAZKAPJZG4PG4VWZTEZ",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/ClientVPNServiceConnectionsRolePolicy",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2020-08-12T19:48:06+00:00",
+    "UpdateDate": "2020-08-12T19:48:06+00:00"
+}

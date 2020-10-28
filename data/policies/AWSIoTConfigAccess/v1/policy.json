@@ -1,0 +1,50 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": [
+                "iot:AcceptCertificateTransfer",
+                "iot:AttachPrincipalPolicy",
+                "iot:AttachThingPrincipal",
+                "iot:CancelCertificateTransfer",
+                "iot:CreateCertificateFromCsr",
+                "iot:CreateKeysAndCertificate",
+                "iot:CreatePolicy",
+                "iot:CreatePolicyVersion",
+                "iot:CreateThing",
+                "iot:CreateTopicRule",
+                "iot:DeleteCertificate",
+                "iot:DeletePolicy",
+                "iot:DeletePolicyVersion",
+                "iot:DeleteThing",
+                "iot:DeleteTopicRule",
+                "iot:DescribeCertificate",
+                "iot:DescribeEndpoint",
+                "iot:DescribeThing",
+                "iot:DetachPrincipalPolicy",
+                "iot:DetachThingPrincipal",
+                "iot:GetLoggingOptions",
+                "iot:GetPolicy",
+                "iot:GetPolicyVersion",
+                "iot:GetTopicRule",
+                "iot:ListCertificates",
+                "iot:ListPolicies",
+                "iot:ListPolicyVersions",
+                "iot:ListPrincipalPolicies",
+                "iot:ListPrincipalThings",
+                "iot:ListThingPrincipals",
+                "iot:ListThings",
+                "iot:ListTopicRules",
+                "iot:RejectCertificateTransfer",
+                "iot:ReplaceTopicRule",
+                "iot:SetDefaultPolicyVersion",
+                "iot:SetLoggingOptions",
+                "iot:TransferCertificate",
+                "iot:UpdateCertificate",
+                "iot:UpdateThing"
+            ],
+            "Resource": "*"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "greengrass",
+        "iam",
+        "iot"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:PassRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "greengrass:CreateCoreDefinitionVersion",
+        "greengrass:CreateDeployment",
+        "greengrass:CreateFunctionDefinitionVersion",
+        "greengrass:CreateGroupVersion",
+        "greengrass:CreateLoggerDefinitionVersion",
+        "greengrass:CreateResourceDefinitionVersion",
+        "greengrass:UpdateCoreDefinition",
+        "greengrass:UpdateFunctionDefinition",
+        "greengrass:UpdateLoggerDefinition",
+        "greengrass:UpdateResourceDefinition",
+        "iam:PassRole",
+        "iot:UpdateThingShadow"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "ServiceWildcard": [
+        "lakeformation"
+    ],
+    "ServicesAffected": [
+        "glue"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "lakeformation:BatchGrantPermissions",
+        "lakeformation:BatchRevokePermissions",
+        "lakeformation:GrantPermissions",
+        "lakeformation:PutDataLakeSettings",
+        "lakeformation:RevokePermissions",
+        "lakeformation:PutDataLakeSettings"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "glue:CreateDatabase",
+        "glue:CreateTable",
+        "glue:DeleteDatabase",
+        "glue:DeleteTable",
+        "glue:UpdateDatabase",
+        "glue:UpdateTable"
+    ]
+}

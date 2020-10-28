@@ -1,0 +1,16 @@
+{
+    "ServiceWildcard": [
+        "polly"
+    ],
+    "ServicesAffected": [
+        "polly"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "polly:DeleteLexicon",
+        "polly:StartSpeechSynthesisTask"
+    ]
+}

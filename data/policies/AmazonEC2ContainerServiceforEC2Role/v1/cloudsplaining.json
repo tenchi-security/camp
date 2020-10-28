@@ -1,0 +1,18 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "ecs"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "ecs:DeregisterContainerInstance",
+        "ecs:Poll",
+        "ecs:RegisterContainerInstance",
+        "ecs:SubmitAttachmentStateChanges",
+        "ecs:SubmitContainerStateChange",
+        "ecs:SubmitTaskStateChange"
+    ]
+}

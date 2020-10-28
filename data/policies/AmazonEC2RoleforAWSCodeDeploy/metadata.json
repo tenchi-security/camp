@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonEC2RoleforAWSCodeDeploy",
+    "PolicyId": "ANPAIAZKXZ27TAJ4PVWGK",
+    "Arn": "arn:aws:iam::aws:policy/service-role/AmazonEC2RoleforAWSCodeDeploy",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v2",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2015-05-19T18:10:14+00:00",
+    "UpdateDate": "2017-03-20T17:14:10+00:00"
+}

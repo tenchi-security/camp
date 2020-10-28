@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSEC2FleetServiceRolePolicy",
+    "PolicyId": "ANPAJCL355O4TC27CPKVC",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/AWSEC2FleetServiceRolePolicy",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v3",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2018-03-21T00:08:55+00:00",
+    "UpdateDate": "2020-05-04T20:10:31+00:00"
+}

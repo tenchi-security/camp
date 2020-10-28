@@ -1,0 +1,39 @@
+{
+    "ServiceWildcard": [
+        "athena"
+    ],
+    "ServicesAffected": [
+        "athena",
+        "glue"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "athena:CreateDataCatalog",
+        "athena:CreateNamedQuery",
+        "athena:CreateWorkGroup",
+        "athena:DeleteDataCatalog",
+        "athena:DeleteNamedQuery",
+        "athena:DeleteWorkGroup",
+        "athena:StartQueryExecution",
+        "athena:StopQueryExecution",
+        "athena:TagResource",
+        "athena:UntagResource",
+        "athena:UpdateDataCatalog",
+        "athena:UpdateWorkGroup",
+        "glue:BatchCreatePartition",
+        "glue:BatchDeletePartition",
+        "glue:BatchDeleteTable",
+        "glue:CreateDatabase",
+        "glue:CreatePartition",
+        "glue:CreateTable",
+        "glue:DeleteDatabase",
+        "glue:DeletePartition",
+        "glue:DeleteTable",
+        "glue:UpdateDatabase",
+        "glue:UpdatePartition",
+        "glue:UpdateTable"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSBackupServiceLinkedRolePolicyForBackupTest",
+    "PolicyId": "ANPAZKAPJZG4KMHRZD5LV",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/AWSBackupServiceLinkedRolePolicyForBackupTest",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2020-05-12T17:37:29+00:00",
+    "UpdateDate": "2020-05-12T17:37:29+00:00"
+}

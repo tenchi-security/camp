@@ -1,0 +1,22 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": [
+                "config:PutConfigRule",
+                "config:DeleteConfigRule"
+            ],
+            "Resource": "arn:aws:config:*:*:config-rule/aws-service-rule/config-multiaccountsetup.amazonaws.com/*"
+        },
+        {
+            "Effect": "Allow",
+            "Action": [
+                "organizations:ListAccounts",
+                "organizations:DescribeOrganization",
+                "organizations:ListAWSServiceAccessForOrganization"
+            ],
+            "Resource": "*"
+        }
+    ]
+}

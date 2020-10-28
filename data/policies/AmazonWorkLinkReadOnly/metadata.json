@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonWorkLinkReadOnly",
+    "PolicyId": "ANPAIANQMFGU4EUUZKFQ4",
+    "Arn": "arn:aws:iam::aws:policy/AmazonWorkLinkReadOnly",
+    "Path": "/",
+    "DefaultVersionId": "v3",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2019-01-23T19:07:10+00:00",
+    "UpdateDate": "2019-09-23T18:37:21+00:00"
+}

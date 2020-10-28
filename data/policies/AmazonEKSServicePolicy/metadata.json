@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonEKSServicePolicy",
+    "PolicyId": "ANPAJFCNXU6HPGCIVXYDI",
+    "Arn": "arn:aws:iam::aws:policy/AmazonEKSServicePolicy",
+    "Path": "/",
+    "DefaultVersionId": "v6",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2018-05-27T21:08:21+00:00",
+    "UpdateDate": "2020-05-27T19:27:03+00:00"
+}

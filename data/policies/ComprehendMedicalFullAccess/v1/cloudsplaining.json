@@ -1,0 +1,11 @@
+{
+    "ServiceWildcard": [
+        "comprehendmedical"
+    ],
+    "ServicesAffected": [],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": []
+}

@@ -1,0 +1,25 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "machinelearning"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "machinelearning:CreateBatchPrediction",
+        "machinelearning:CreateDataSourceFromRDS",
+        "machinelearning:CreateDataSourceFromRedshift",
+        "machinelearning:CreateDataSourceFromS3",
+        "machinelearning:CreateEvaluation",
+        "machinelearning:CreateMLModel",
+        "machinelearning:CreateRealtimeEndpoint",
+        "machinelearning:DeleteBatchPrediction",
+        "machinelearning:DeleteDataSource",
+        "machinelearning:DeleteEvaluation",
+        "machinelearning:DeleteMLModel",
+        "machinelearning:DeleteRealtimeEndpoint",
+        "machinelearning:DeleteTags"
+    ]
+}

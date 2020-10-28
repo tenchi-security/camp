@@ -1,0 +1,40 @@
+{
+    "ServiceWildcard": [
+        "imagebuilder"
+    ],
+    "ServicesAffected": [
+        "imagebuilder"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "imagebuilder:PutComponentPolicy",
+        "imagebuilder:PutImagePolicy",
+        "imagebuilder:PutImageRecipePolicy"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "imagebuilder:CancelImageCreation",
+        "imagebuilder:CreateComponent",
+        "imagebuilder:CreateDistributionConfiguration",
+        "imagebuilder:CreateImage",
+        "imagebuilder:CreateImagePipeline",
+        "imagebuilder:CreateImageRecipe",
+        "imagebuilder:CreateInfrastructureConfiguration",
+        "imagebuilder:DeleteComponent",
+        "imagebuilder:DeleteDistributionConfiguration",
+        "imagebuilder:DeleteImage",
+        "imagebuilder:DeleteImagePipeline",
+        "imagebuilder:DeleteImageRecipe",
+        "imagebuilder:DeleteInfrastructureConfiguration",
+        "imagebuilder:PutComponentPolicy",
+        "imagebuilder:PutImagePolicy",
+        "imagebuilder:PutImageRecipePolicy",
+        "imagebuilder:StartImagePipelineExecution",
+        "imagebuilder:TagResource",
+        "imagebuilder:UntagResource",
+        "imagebuilder:UpdateDistributionConfiguration",
+        "imagebuilder:UpdateImagePipeline",
+        "imagebuilder:UpdateInfrastructureConfiguration"
+    ]
+}

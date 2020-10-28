@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSApplicationAutoscalingSageMakerEndpointPolicy",
+    "PolicyId": "ANPAI5DBEBNRZQ4SXYTAW",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/AWSApplicationAutoscalingSageMakerEndpointPolicy",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2018-02-06T19:58:21+00:00",
+    "UpdateDate": "2018-02-06T19:58:21+00:00"
+}

@@ -1,0 +1,50 @@
+{
+    "ServiceWildcard": [
+        "greengrass"
+    ],
+    "ServicesAffected": [
+        "greengrass"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "greengrass:AssociateServiceRoleToAccount"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "greengrass:AssociateRoleToGroup",
+        "greengrass:CreateConnectorDefinitionVersion",
+        "greengrass:CreateCoreDefinitionVersion",
+        "greengrass:CreateDeployment",
+        "greengrass:CreateDeviceDefinitionVersion",
+        "greengrass:CreateFunctionDefinitionVersion",
+        "greengrass:CreateGroupCertificateAuthority",
+        "greengrass:CreateGroupVersion",
+        "greengrass:CreateLoggerDefinitionVersion",
+        "greengrass:CreateResourceDefinitionVersion",
+        "greengrass:CreateSubscriptionDefinitionVersion",
+        "greengrass:DeleteConnectorDefinition",
+        "greengrass:DeleteCoreDefinition",
+        "greengrass:DeleteDeviceDefinition",
+        "greengrass:DeleteFunctionDefinition",
+        "greengrass:DeleteGroup",
+        "greengrass:DeleteLoggerDefinition",
+        "greengrass:DeleteResourceDefinition",
+        "greengrass:DeleteSubscriptionDefinition",
+        "greengrass:DisassociateRoleFromGroup",
+        "greengrass:ResetDeployments",
+        "greengrass:StopBulkDeployment",
+        "greengrass:TagResource",
+        "greengrass:UntagResource",
+        "greengrass:UpdateConnectivityInfo",
+        "greengrass:UpdateConnectorDefinition",
+        "greengrass:UpdateCoreDefinition",
+        "greengrass:UpdateDeviceDefinition",
+        "greengrass:UpdateFunctionDefinition",
+        "greengrass:UpdateGroup",
+        "greengrass:UpdateGroupCertificateConfiguration",
+        "greengrass:UpdateLoggerDefinition",
+        "greengrass:UpdateResourceDefinition",
+        "greengrass:UpdateSubscriptionDefinition"
+    ]
+}

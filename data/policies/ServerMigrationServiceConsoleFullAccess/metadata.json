@@ -1,0 +1,12 @@
+{
+    "PolicyName": "ServerMigrationServiceConsoleFullAccess",
+    "PolicyId": "ANPAZKAPJZG4IIEMRGEYB",
+    "Arn": "arn:aws:iam::aws:policy/ServerMigrationServiceConsoleFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v2",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2020-05-09T17:18:57+00:00",
+    "UpdateDate": "2020-07-20T22:00:37+00:00"
+}

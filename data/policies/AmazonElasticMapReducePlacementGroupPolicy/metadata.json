@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonElasticMapReducePlacementGroupPolicy",
+    "PolicyId": "ANPAZKAPJZG4LC2KU77YD",
+    "Arn": "arn:aws:iam::aws:policy/AmazonElasticMapReducePlacementGroupPolicy",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2020-09-29T00:37:08+00:00",
+    "UpdateDate": "2020-09-29T00:37:08+00:00"
+}

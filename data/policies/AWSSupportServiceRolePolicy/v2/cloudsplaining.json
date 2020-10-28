@@ -1,0 +1,19 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "lightsail",
+        "ssm"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [
+        "ssm:getParameters"
+    ],
+    "CredentialsExposure": [
+        "lightsail:getInstanceAccessDetails"
+    ],
+    "InfrastructureModification": [
+        "lightsail:GetInstanceAccessDetails",
+        "ssm:GetParameters"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "ec2",
+        "eks",
+        "iam",
+        "logs",
+        "route53"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "ec2:CreateNetworkInterfacePermission",
+        "iam:CreateServiceLinkedRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "ec2:CreateNetworkInterface",
+        "ec2:CreateNetworkInterfacePermission",
+        "eks:UpdateClusterVersion",
+        "iam:CreateServiceLinkedRole",
+        "logs:CreateLogGroup",
+        "route53:AssociateVPCWithHostedZone"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "ServiceWildcard": [
+        "awsconnector"
+    ],
+    "ServicesAffected": [],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": []
+}

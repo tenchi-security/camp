@@ -1,0 +1,56 @@
+{
+    "ServiceWildcard": [
+        "deeplens"
+    ],
+    "ServicesAffected": [
+        "deeplens",
+        "greengrass",
+        "iam",
+        "iot",
+        "s3"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "deeplens:AssociateServiceRoleToAccount",
+        "iam:PassRole",
+        "greengrass:AssociateServiceRoleToAccount"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "deeplens:DeleteModel",
+        "deeplens:DeleteProject",
+        "deeplens:DeployProject",
+        "deeplens:DeregisterDevice",
+        "deeplens:RemoveProject",
+        "deeplens:UpdateProject",
+        "greengrass:AssociateRoleToGroup",
+        "greengrass:CreateCoreDefinitionVersion",
+        "greengrass:CreateDeployment",
+        "greengrass:CreateFunctionDefinitionVersion",
+        "greengrass:CreateGroupCertificateAuthority",
+        "greengrass:CreateGroupVersion",
+        "greengrass:CreateLoggerDefinitionVersion",
+        "greengrass:CreateResourceDefinitionVersion",
+        "greengrass:CreateSubscriptionDefinitionVersion",
+        "greengrass:DeleteCoreDefinition",
+        "greengrass:DeleteFunctionDefinition",
+        "greengrass:DeleteGroup",
+        "greengrass:DeleteLoggerDefinition",
+        "greengrass:DeleteSubscriptionDefinition",
+        "greengrass:DisassociateRoleFromGroup",
+        "greengrass:ResetDeployments",
+        "greengrass:UpdateConnectivityInfo",
+        "greengrass:UpdateCoreDefinition",
+        "greengrass:UpdateDeviceDefinition",
+        "greengrass:UpdateFunctionDefinition",
+        "greengrass:UpdateGroup",
+        "greengrass:UpdateGroupCertificateConfiguration",
+        "greengrass:UpdateLoggerDefinition",
+        "greengrass:UpdateResourceDefinition",
+        "greengrass:UpdateSubscriptionDefinition",
+        "iam:PassRole",
+        "iot:CreatePolicyVersion",
+        "s3:CreateBucket"
+    ]
+}

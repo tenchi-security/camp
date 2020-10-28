@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSServiceCatalogAdminReadOnlyAccess",
+    "PolicyId": "ANPAZKAPJZG4MC6ZR7YFX",
+    "Arn": "arn:aws:iam::aws:policy/AWSServiceCatalogAdminReadOnlyAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2019-10-25T18:53:38+00:00",
+    "UpdateDate": "2019-10-25T18:53:38+00:00"
+}

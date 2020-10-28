@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSOpsWorksInstanceRegistration",
+    "PolicyId": "ANPAJG3LCPVNI4WDZCIMU",
+    "Arn": "arn:aws:iam::aws:policy/AWSOpsWorksInstanceRegistration",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2016-06-03T14:23:15+00:00",
+    "UpdateDate": "2016-06-03T14:23:15+00:00"
+}

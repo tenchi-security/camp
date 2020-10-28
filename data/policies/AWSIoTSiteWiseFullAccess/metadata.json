@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSIoTSiteWiseFullAccess",
+    "PolicyId": "ANPAILUK3XBM6TZ5Q3PX2",
+    "Arn": "arn:aws:iam::aws:policy/AWSIoTSiteWiseFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2018-12-04T20:53:39+00:00",
+    "UpdateDate": "2018-12-04T20:53:39+00:00"
+}

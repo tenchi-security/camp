@@ -1,0 +1,15 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "ec2"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "ec2:ModifySnapshotAttribute"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "ec2:ModifySnapshotAttribute"
+    ]
+}

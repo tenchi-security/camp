@@ -1,0 +1,25 @@
+{
+    "ServiceWildcard": [
+        "codeguru-reviewer"
+    ],
+    "ServicesAffected": [
+        "codecommit",
+        "codeguru-reviewer",
+        "events"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "codecommit:TagResource",
+        "codecommit:UntagResource",
+        "codeguru-reviewer:AssociateRepository",
+        "codeguru-reviewer:DisassociateRepository",
+        "codeguru-reviewer:PutRecommendationFeedback",
+        "events:DeleteRule",
+        "events:PutRule",
+        "events:PutTargets",
+        "events:RemoveTargets"
+    ]
+}

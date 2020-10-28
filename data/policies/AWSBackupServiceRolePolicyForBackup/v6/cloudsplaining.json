@@ -1,0 +1,21 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "kms",
+        "rds"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "kms:CreateGrant"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "kms:CreateGrant",
+        "rds:AddTagsToResource",
+        "rds:CopyDBClusterSnapshot",
+        "rds:CopyDBSnapshot",
+        "rds:CreateDBClusterSnapshot",
+        "rds:CreateDBSnapshot"
+    ]
+}

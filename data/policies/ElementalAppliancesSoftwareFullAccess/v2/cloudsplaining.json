@@ -1,0 +1,19 @@
+{
+    "ServiceWildcard": [
+        "aesop",
+        "elemental-appliances-software"
+    ],
+    "ServicesAffected": [
+        "elemental-appliances-software"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "elemental-appliances-software:CreateQuote",
+        "elemental-appliances-software:TagResource",
+        "elemental-appliances-software:UntagResource",
+        "elemental-appliances-software:UpdateQuote"
+    ]
+}

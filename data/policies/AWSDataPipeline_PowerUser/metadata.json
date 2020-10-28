@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSDataPipeline_PowerUser",
+    "PolicyId": "ANPAIMXGLVY6DVR24VTYS",
+    "Arn": "arn:aws:iam::aws:policy/AWSDataPipeline_PowerUser",
+    "Path": "/",
+    "DefaultVersionId": "v2",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2017-01-19T23:16:46+00:00",
+    "UpdateDate": "2017-08-17T18:49:42+00:00"
+}

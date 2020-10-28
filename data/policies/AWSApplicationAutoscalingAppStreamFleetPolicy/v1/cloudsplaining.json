@@ -1,0 +1,16 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "appstream",
+        "cloudwatch"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "appstream:UpdateFleet",
+        "cloudwatch:DeleteAlarms",
+        "cloudwatch:PutMetricAlarm"
+    ]
+}

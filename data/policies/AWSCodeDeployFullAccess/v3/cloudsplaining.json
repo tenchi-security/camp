@@ -1,0 +1,36 @@
+{
+    "ServiceWildcard": [
+        "codedeploy"
+    ],
+    "ServicesAffected": [
+        "codedeploy",
+        "codestar-notifications"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "codedeploy:AddTagsToOnPremisesInstances",
+        "codedeploy:CreateApplication",
+        "codedeploy:CreateDeployment",
+        "codedeploy:CreateDeploymentConfig",
+        "codedeploy:CreateDeploymentGroup",
+        "codedeploy:DeleteApplication",
+        "codedeploy:DeleteDeploymentConfig",
+        "codedeploy:DeleteDeploymentGroup",
+        "codedeploy:DeregisterOnPremisesInstance",
+        "codedeploy:RegisterApplicationRevision",
+        "codedeploy:RegisterOnPremisesInstance",
+        "codedeploy:RemoveTagsFromOnPremisesInstances",
+        "codedeploy:TagResource",
+        "codedeploy:UntagResource",
+        "codedeploy:UpdateApplication",
+        "codedeploy:UpdateDeploymentGroup",
+        "codestar-notifications:CreateNotificationRule",
+        "codestar-notifications:DeleteNotificationRule",
+        "codestar-notifications:Subscribe",
+        "codestar-notifications:Unsubscribe",
+        "codestar-notifications:UpdateNotificationRule"
+    ]
+}

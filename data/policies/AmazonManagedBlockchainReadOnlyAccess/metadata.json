@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonManagedBlockchainReadOnlyAccess",
+    "PolicyId": "ANPAZKAPJZG4OIIAURVWV",
+    "Arn": "arn:aws:iam::aws:policy/AmazonManagedBlockchainReadOnlyAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2019-04-30T18:17:31+00:00",
+    "UpdateDate": "2019-04-30T18:17:31+00:00"
+}

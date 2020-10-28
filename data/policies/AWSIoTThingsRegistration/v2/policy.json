@@ -1,0 +1,39 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": [
+                "iot:AddThingToThingGroup",
+                "iot:AttachPrincipalPolicy",
+                "iot:AttachThingPrincipal",
+                "iot:CreateCertificateFromCsr",
+                "iot:CreatePolicy",
+                "iot:CreateThing",
+                "iot:DescribeCertificate",
+                "iot:DescribeThing",
+                "iot:DescribeThingGroup",
+                "iot:DescribeThingType",
+                "iot:DetachThingPrincipal",
+                "iot:GetPolicy",
+                "iot:ListPolicyPrincipals",
+                "iot:ListPrincipalPolicies",
+                "iot:ListPrincipalThings",
+                "iot:ListThingGroupsForThing",
+                "iot:ListThingPrincipals",
+                "iot:RegisterCertificate",
+                "iot:RegisterThing",
+                "iot:RemoveThingFromThingGroup",
+                "iot:UpdateCertificate",
+                "iot:UpdateThing",
+                "iot:UpdateThingGroupsForThing",
+                "iot:AddThingToBillingGroup",
+                "iot:DescribeBillingGroup",
+                "iot:RemoveThingFromBillingGroup"
+            ],
+            "Resource": [
+                "*"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSIoTDeviceTesterForGreengrassFullAccess",
+    "PolicyId": "ANPAZKAPJZG4ORKVZSPY7",
+    "Arn": "arn:aws:iam::aws:policy/AWSIoTDeviceTesterForGreengrassFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v4",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2020-02-20T21:21:27+00:00",
+    "UpdateDate": "2020-06-25T17:01:56+00:00"
+}

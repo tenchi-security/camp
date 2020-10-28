@@ -1,0 +1,29 @@
+{
+    "ServiceWildcard": [
+        "rekognition"
+    ],
+    "ServicesAffected": [
+        "rekognition"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "rekognition:CreateCollection",
+        "rekognition:CreateProject",
+        "rekognition:CreateProjectVersion",
+        "rekognition:CreateStreamProcessor",
+        "rekognition:DeleteCollection",
+        "rekognition:DeleteFaces",
+        "rekognition:DeleteProject",
+        "rekognition:DeleteProjectVersion",
+        "rekognition:DeleteStreamProcessor",
+        "rekognition:IndexFaces",
+        "rekognition:StartFaceSearch",
+        "rekognition:StartProjectVersion",
+        "rekognition:StartStreamProcessor",
+        "rekognition:StopProjectVersion",
+        "rekognition:StopStreamProcessor"
+    ]
+}

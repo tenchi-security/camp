@@ -1,0 +1,17 @@
+{
+    "ServiceWildcard": [
+        "freertos"
+    ],
+    "ServicesAffected": [
+        "freertos"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "freertos:CreateSoftwareConfiguration",
+        "freertos:DeleteSoftwareConfiguration",
+        "freertos:UpdateSoftwareConfiguration"
+    ]
+}

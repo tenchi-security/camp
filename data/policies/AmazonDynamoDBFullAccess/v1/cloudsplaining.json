@@ -1,0 +1,45 @@
+{
+    "ServiceWildcard": [
+        "dynamodb"
+    ],
+    "ServicesAffected": [
+        "cloudwatch",
+        "dynamodb",
+        "sns"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "sns:CreateTopic"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "cloudwatch:DeleteAlarms",
+        "cloudwatch:PutMetricAlarm",
+        "dynamodb:BatchWriteItem",
+        "dynamodb:CreateBackup",
+        "dynamodb:CreateGlobalTable",
+        "dynamodb:CreateTable",
+        "dynamodb:CreateTableReplica",
+        "dynamodb:DeleteBackup",
+        "dynamodb:DeleteItem",
+        "dynamodb:DeleteTable",
+        "dynamodb:DeleteTableReplica",
+        "dynamodb:PutItem",
+        "dynamodb:RestoreTableFromBackup",
+        "dynamodb:RestoreTableToPointInTime",
+        "dynamodb:TagResource",
+        "dynamodb:UntagResource",
+        "dynamodb:UpdateContinuousBackups",
+        "dynamodb:UpdateContributorInsights",
+        "dynamodb:UpdateGlobalTable",
+        "dynamodb:UpdateGlobalTableSettings",
+        "dynamodb:UpdateItem",
+        "dynamodb:UpdateTable",
+        "dynamodb:UpdateTableReplicaAutoScaling",
+        "dynamodb:UpdateTimeToLive",
+        "sns:CreateTopic",
+        "sns:DeleteTopic",
+        "sns:Subscribe"
+    ]
+}

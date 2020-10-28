@@ -1,0 +1,80 @@
+{
+    "ServiceWildcard": [
+        "dynamodb"
+    ],
+    "ServicesAffected": [
+        "cloudwatch",
+        "dynamodb",
+        "iam",
+        "lambda",
+        "sns"
+    ],
+    "PrivilegeEscalation": [
+        {
+            "type": "PassExistingRoleToNewLambdaThenTriggerWithNewDynamo",
+            "actions": [
+                "iam:passrole",
+                "lambda:createfunction",
+                "lambda:createeventsourcemapping",
+                "dynamodb:createtable",
+                "dynamodb:putitem"
+            ]
+        },
+        {
+            "type": "PassExistingRoleToNewLambdaThenTriggerWithExistingDynamo",
+            "actions": [
+                "iam:passrole",
+                "lambda:createfunction",
+                "lambda:createeventsourcemapping"
+            ]
+        },
+        {
+            "type": "PassExistingRoleToNewDataPipeline",
+            "actions": [
+                "iam:passrole",
+                "datapipeline:createpipeline"
+            ]
+        }
+    ],
+    "ResourceExposure": [
+        "sns:CreateTopic",
+        "sns:SetTopicAttributes",
+        "iam:PassRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "cloudwatch:DeleteAlarms",
+        "cloudwatch:PutMetricAlarm",
+        "dynamodb:BatchWriteItem",
+        "dynamodb:CreateBackup",
+        "dynamodb:CreateGlobalTable",
+        "dynamodb:CreateTable",
+        "dynamodb:CreateTableReplica",
+        "dynamodb:DeleteBackup",
+        "dynamodb:DeleteItem",
+        "dynamodb:DeleteTable",
+        "dynamodb:DeleteTableReplica",
+        "dynamodb:PutItem",
+        "dynamodb:RestoreTableFromBackup",
+        "dynamodb:RestoreTableToPointInTime",
+        "dynamodb:TagResource",
+        "dynamodb:UntagResource",
+        "dynamodb:UpdateContinuousBackups",
+        "dynamodb:UpdateContributorInsights",
+        "dynamodb:UpdateGlobalTable",
+        "dynamodb:UpdateGlobalTableSettings",
+        "dynamodb:UpdateItem",
+        "dynamodb:UpdateTable",
+        "dynamodb:UpdateTableReplicaAutoScaling",
+        "dynamodb:UpdateTimeToLive",
+        "iam:PassRole",
+        "lambda:CreateFunction",
+        "lambda:DeleteEventSourceMapping",
+        "lambda:DeleteFunction",
+        "sns:CreateTopic",
+        "sns:DeleteTopic",
+        "sns:SetTopicAttributes",
+        "sns:Subscribe"
+    ]
+}

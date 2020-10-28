@@ -1,0 +1,16 @@
+{
+    "ServiceWildcard": [
+        "elemental-activations"
+    ],
+    "ServicesAffected": [
+        "elemental-activations"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "elemental-activations:TagResource",
+        "elemental-activations:UntagResource"
+    ]
+}

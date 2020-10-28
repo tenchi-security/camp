@@ -1,0 +1,18 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "apigateway",
+        "mobilehub"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "apigateway:POST",
+        "mobilehub:DeleteProject",
+        "mobilehub:GenerateProjectParameters",
+        "mobilehub:SynchronizeProject",
+        "mobilehub:UpdateProject"
+    ]
+}

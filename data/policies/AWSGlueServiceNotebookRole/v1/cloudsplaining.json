@@ -1,0 +1,38 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "glue"
+    ],
+    "PrivilegeEscalation": [
+        {
+            "type": "UpdateExistingGlueDevEndpoint",
+            "actions": [
+                "glue:updatedevendpoint"
+            ]
+        }
+    ],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "glue:BatchCreatePartition",
+        "glue:BatchDeleteConnection",
+        "glue:BatchDeletePartition",
+        "glue:BatchDeleteTable",
+        "glue:CreateConnection",
+        "glue:CreateDatabase",
+        "glue:CreatePartition",
+        "glue:CreateTable",
+        "glue:CreateUserDefinedFunction",
+        "glue:DeleteConnection",
+        "glue:DeleteDatabase",
+        "glue:DeletePartition",
+        "glue:DeleteTable",
+        "glue:DeleteUserDefinedFunction",
+        "glue:UpdateConnection",
+        "glue:UpdateDatabase",
+        "glue:UpdatePartition",
+        "glue:UpdateTable",
+        "glue:UpdateUserDefinedFunction"
+    ]
+}

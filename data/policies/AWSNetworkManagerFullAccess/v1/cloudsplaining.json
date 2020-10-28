@@ -1,0 +1,37 @@
+{
+    "ServiceWildcard": [
+        "networkmanager"
+    ],
+    "ServicesAffected": [
+        "iam",
+        "networkmanager"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:CreateServiceLinkedRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "iam:CreateServiceLinkedRole",
+        "networkmanager:AssociateCustomerGateway",
+        "networkmanager:AssociateLink",
+        "networkmanager:CreateDevice",
+        "networkmanager:CreateLink",
+        "networkmanager:CreateSite",
+        "networkmanager:DeleteDevice",
+        "networkmanager:DeleteGlobalNetwork",
+        "networkmanager:DeleteLink",
+        "networkmanager:DeleteSite",
+        "networkmanager:DeregisterTransitGateway",
+        "networkmanager:DisassociateCustomerGateway",
+        "networkmanager:DisassociateLink",
+        "networkmanager:RegisterTransitGateway",
+        "networkmanager:TagResource",
+        "networkmanager:UntagResource",
+        "networkmanager:UpdateDevice",
+        "networkmanager:UpdateGlobalNetwork",
+        "networkmanager:UpdateLink",
+        "networkmanager:UpdateSite"
+    ]
+}

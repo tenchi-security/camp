@@ -1,0 +1,37 @@
+{
+    "ServiceWildcard": [
+        "secretsmanager"
+    ],
+    "ServicesAffected": [
+        "cloudformation",
+        "secretsmanager"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "secretsmanager:DeleteResourcePolicy",
+        "secretsmanager:PutResourcePolicy",
+        "secretsmanager:ValidateResourcePolicy"
+    ],
+    "DataExfiltration": [
+        "secretsmanager:GetSecretValue"
+    ],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "cloudformation:CreateChangeSet",
+        "cloudformation:ExecuteChangeSet",
+        "secretsmanager:CancelRotateSecret",
+        "secretsmanager:CreateSecret",
+        "secretsmanager:DeleteResourcePolicy",
+        "secretsmanager:DeleteSecret",
+        "secretsmanager:GetSecretValue",
+        "secretsmanager:PutResourcePolicy",
+        "secretsmanager:PutSecretValue",
+        "secretsmanager:RestoreSecret",
+        "secretsmanager:RotateSecret",
+        "secretsmanager:TagResource",
+        "secretsmanager:UntagResource",
+        "secretsmanager:UpdateSecret",
+        "secretsmanager:UpdateSecretVersionStage",
+        "secretsmanager:ValidateResourcePolicy"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSRoboMakerServiceRolePolicy",
+    "PolicyId": "ANPAIOSFFLBBLCTKS3ATC",
+    "Arn": "arn:aws:iam::aws:policy/AWSRoboMakerServiceRolePolicy",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2018-11-26T05:33:19+00:00",
+    "UpdateDate": "2018-11-26T05:33:19+00:00"
+}

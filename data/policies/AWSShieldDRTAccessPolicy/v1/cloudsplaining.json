@@ -1,0 +1,18 @@
+{
+    "ServiceWildcard": [
+        "shield",
+        "waf",
+        "waf-regional"
+    ],
+    "ServicesAffected": [
+        "shield"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "shield:CreateProtection",
+        "shield:DeleteProtection"
+    ]
+}

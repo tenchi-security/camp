@@ -1,0 +1,21 @@
+{
+    "ServiceWildcard": [
+        "detective"
+    ],
+    "ServicesAffected": [
+        "detective"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "detective:AcceptInvitation",
+        "detective:CreateMembers",
+        "detective:DeleteGraph",
+        "detective:DeleteMembers",
+        "detective:DisassociateMembership",
+        "detective:RejectInvitation",
+        "detective:StartMonitoringMember"
+    ]
+}

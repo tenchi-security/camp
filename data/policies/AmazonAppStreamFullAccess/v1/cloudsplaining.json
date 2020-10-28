@@ -1,0 +1,39 @@
+{
+    "ServiceWildcard": [
+        "appstream"
+    ],
+    "ServicesAffected": [
+        "appstream"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "appstream:AssociateFleet",
+        "appstream:BatchAssociateUserStack",
+        "appstream:BatchDisassociateUserStack",
+        "appstream:CopyImage",
+        "appstream:CreateFleet",
+        "appstream:CreateImageBuilder",
+        "appstream:CreateImageBuilderStreamingURL",
+        "appstream:CreateStack",
+        "appstream:CreateStreamingURL",
+        "appstream:DeleteFleet",
+        "appstream:DeleteImage",
+        "appstream:DeleteImageBuilder",
+        "appstream:DeleteImagePermissions",
+        "appstream:DeleteStack",
+        "appstream:DisassociateFleet",
+        "appstream:StartFleet",
+        "appstream:StartImageBuilder",
+        "appstream:StopFleet",
+        "appstream:StopImageBuilder",
+        "appstream:Stream",
+        "appstream:TagResource",
+        "appstream:UntagResource",
+        "appstream:UpdateFleet",
+        "appstream:UpdateImagePermissions",
+        "appstream:UpdateStack"
+    ]
+}

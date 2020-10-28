@@ -1,0 +1,42 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "Stmt1477803259000",
+            "Effect": "Allow",
+            "Action": [
+                "ssm:GetAutomationExecution",
+                "ssm:GetParameters",
+                "ssm:ListCommands",
+                "ssm:SendCommand",
+                "ssm:StartAutomationExecution"
+            ],
+            "Resource": [
+                "*"
+            ]
+        },
+        {
+            "Sid": "Stmt1477803259001",
+            "Effect": "Allow",
+            "Action": [
+                "lambda:InvokeFunction"
+            ],
+            "Resource": [
+                "arn:aws:lambda:*:*:function:SSM*",
+                "arn:aws:lambda:*:*:function:*:SSM*"
+            ]
+        },
+        {
+            "Sid": "Stmt1477803259002",
+            "Effect": "Allow",
+            "Action": [
+                "states:DescribeExecution",
+                "states:StartExecution"
+            ],
+            "Resource": [
+                "arn:aws:states:*:*:stateMachine:SSM*",
+                "arn:aws:states:*:*:execution:SSM*"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "ServiceWildcard": [
+        "honeycode"
+    ],
+    "ServicesAffected": [
+        "honeycode"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "honeycode:InvokeScreenAutomation"
+    ]
+}

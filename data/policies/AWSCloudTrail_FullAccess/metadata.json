@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSCloudTrail_FullAccess",
+    "PolicyId": "ANPAZKAPJZG4CA4SIJQAM",
+    "Arn": "arn:aws:iam::aws:policy/AWSCloudTrail_FullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2020-10-08T23:41:15+00:00",
+    "UpdateDate": "2020-10-22T02:13:50+00:00"
+}

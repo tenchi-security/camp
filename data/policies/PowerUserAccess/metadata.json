@@ -1,0 +1,12 @@
+{
+    "PolicyName": "PowerUserAccess",
+    "PolicyId": "ANPAJYRXTHIB4FOVS3ZXS",
+    "Arn": "arn:aws:iam::aws:policy/PowerUserAccess",
+    "Path": "/",
+    "DefaultVersionId": "v4",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2015-02-06T18:39:47+00:00",
+    "UpdateDate": "2019-03-20T22:19:03+00:00"
+}

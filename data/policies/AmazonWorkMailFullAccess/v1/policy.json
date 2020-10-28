@@ -1,0 +1,42 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": [
+                "ds:AuthorizeApplication",
+                "ds:CheckAlias",
+                "ds:CreateAlias",
+                "ds:CreateDirectory",
+                "ds:CreateDomain",
+                "ds:DeleteAlias",
+                "ds:DeleteDirectory",
+                "ds:DescribeDirectories",
+                "ds:ExtendDirectory",
+                "ds:GetDirectoryLimits",
+                "ds:ListAuthorizedApplications",
+                "ds:UnauthorizeApplication",
+                "ec2:AuthorizeSecurityGroupEgress",
+                "ec2:AuthorizeSecurityGroupIngress",
+                "ec2:CreateNetworkInterface",
+                "ec2:CreateSecurityGroup",
+                "ec2:CreateSubnet",
+                "ec2:CreateTags",
+                "ec2:CreateVpc",
+                "ec2:DeleteSecurityGroup",
+                "ec2:DeleteSubnet",
+                "ec2:DeleteVpc",
+                "ec2:DescribeAvailabilityZones",
+                "ec2:DescribeDomains",
+                "ec2:DescribeRouteTables",
+                "ec2:DescribeSubnets",
+                "ec2:DescribeVpcs",
+                "kms:DescribeKey",
+                "kms:ListAliases",
+                "ses:*",
+                "workmail:*"
+            ],
+            "Resource": "*"
+        }
+    ]
+}

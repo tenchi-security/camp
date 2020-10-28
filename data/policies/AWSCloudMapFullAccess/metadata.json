@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSCloudMapFullAccess",
+    "PolicyId": "ANPAIZPIMAQZJS3WUXUJM",
+    "Arn": "arn:aws:iam::aws:policy/AWSCloudMapFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v2",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2018-11-28T23:57:31+00:00",
+    "UpdateDate": "2020-07-29T19:15:35+00:00"
+}

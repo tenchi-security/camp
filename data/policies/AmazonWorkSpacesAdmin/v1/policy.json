@@ -1,0 +1,18 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Action": [
+                "workspaces:CreateWorkspaces",
+                "workspaces:DescribeWorkspaces",
+                "workspaces:RebootWorkspaces",
+                "workspaces:RebuildWorkspaces",
+                "workspaces:TerminateWorkspaces",
+                "workspaces:DescribeWorkspaceDirectories",
+                "workspaces:DescribeWorkspaceBundles"
+            ],
+            "Effect": "Allow",
+            "Resource": "*"
+        }
+    ]
+}

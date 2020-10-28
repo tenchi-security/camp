@@ -1,0 +1,39 @@
+{
+    "ServiceWildcard": [
+        "robomaker"
+    ],
+    "ServicesAffected": [
+        "iam",
+        "robomaker",
+        "s3"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:CreateServiceLinkedRole"
+    ],
+    "DataExfiltration": [
+        "s3:GetObject"
+    ],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "iam:CreateServiceLinkedRole",
+        "robomaker:CancelDeploymentJob",
+        "robomaker:CancelSimulationJob",
+        "robomaker:CancelSimulationJobBatch",
+        "robomaker:CreateRobotApplicationVersion",
+        "robomaker:CreateSimulationApplicationVersion",
+        "robomaker:DeleteFleet",
+        "robomaker:DeleteRobot",
+        "robomaker:DeleteRobotApplication",
+        "robomaker:DeleteSimulationApplication",
+        "robomaker:DeregisterRobot",
+        "robomaker:RegisterRobot",
+        "robomaker:RestartSimulationJob",
+        "robomaker:SyncDeploymentJob",
+        "robomaker:TagResource",
+        "robomaker:UntagResource",
+        "robomaker:UpdateRobotApplication",
+        "robomaker:UpdateSimulationApplication",
+        "s3:GetObject"
+    ]
+}

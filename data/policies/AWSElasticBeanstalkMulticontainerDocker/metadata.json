@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSElasticBeanstalkMulticontainerDocker",
+    "PolicyId": "ANPAJ45SBYG72SD6SHJEY",
+    "Arn": "arn:aws:iam::aws:policy/AWSElasticBeanstalkMulticontainerDocker",
+    "Path": "/",
+    "DefaultVersionId": "v2",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2016-02-08T23:15:29+00:00",
+    "UpdateDate": "2016-06-06T23:45:37+00:00"
+}

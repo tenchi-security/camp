@@ -1,0 +1,19 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "ec2",
+        "ssm"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "ec2:DeleteSnapshot",
+        "ec2:TerminateInstances",
+        "ssm:CreateDocument",
+        "ssm:StartAutomationExecution",
+        "ssm:UpdateDocument",
+        "ssm:UpdateDocumentDefaultVersion"
+    ]
+}

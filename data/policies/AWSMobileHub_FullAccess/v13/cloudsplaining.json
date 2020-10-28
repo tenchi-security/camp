@@ -1,0 +1,20 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "apigateway",
+        "devicefarm",
+        "mobilehub"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "apigateway:POST",
+        "devicefarm:ScheduleRun",
+        "mobilehub:DeleteProject",
+        "mobilehub:GenerateProjectParameters",
+        "mobilehub:SynchronizeProject",
+        "mobilehub:UpdateProject"
+    ]
+}

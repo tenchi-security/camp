@@ -1,0 +1,26 @@
+{
+    "ServiceWildcard": [
+        "athena"
+    ],
+    "ServicesAffected": [
+        "athena"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "athena:CreateDataCatalog",
+        "athena:CreateNamedQuery",
+        "athena:CreateWorkGroup",
+        "athena:DeleteDataCatalog",
+        "athena:DeleteNamedQuery",
+        "athena:DeleteWorkGroup",
+        "athena:StartQueryExecution",
+        "athena:StopQueryExecution",
+        "athena:TagResource",
+        "athena:UntagResource",
+        "athena:UpdateDataCatalog",
+        "athena:UpdateWorkGroup"
+    ]
+}

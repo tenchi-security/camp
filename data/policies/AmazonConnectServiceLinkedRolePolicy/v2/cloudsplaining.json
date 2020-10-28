@@ -1,0 +1,47 @@
+{
+    "ServiceWildcard": [
+        "connect"
+    ],
+    "ServicesAffected": [
+        "connect"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [
+        "connect:GetFederationToken",
+        "connect:GetFederationTokens"
+    ],
+    "InfrastructureModification": [
+        "connect:AssociateRoutingProfileQueues",
+        "connect:CreateContactFlow",
+        "connect:CreateRoutingProfile",
+        "connect:CreateUser",
+        "connect:DeleteUser",
+        "connect:DestroyInstance",
+        "connect:DisassociateRoutingProfileQueues",
+        "connect:GetFederationTokens",
+        "connect:ModifyInstance",
+        "connect:ResumeContactRecording",
+        "connect:StartChatContact",
+        "connect:StartContactRecording",
+        "connect:StartOutboundVoiceContact",
+        "connect:StopContact",
+        "connect:StopContactRecording",
+        "connect:SuspendContactRecording",
+        "connect:TagResource",
+        "connect:UntagResource",
+        "connect:UpdateContactAttributes",
+        "connect:UpdateContactFlowContent",
+        "connect:UpdateContactFlowName",
+        "connect:UpdateRoutingProfileConcurrency",
+        "connect:UpdateRoutingProfileDefaultOutboundQueue",
+        "connect:UpdateRoutingProfileName",
+        "connect:UpdateRoutingProfileQueues",
+        "connect:UpdateUserHierarchy",
+        "connect:UpdateUserIdentityInfo",
+        "connect:UpdateUserPhoneConfig",
+        "connect:UpdateUserRoutingProfile",
+        "connect:UpdateUserSecurityProfiles"
+    ]
+}

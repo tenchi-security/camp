@@ -1,0 +1,33 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "autoscaling",
+        "ecs",
+        "iam",
+        "logs"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:PassRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "autoscaling:CreateAutoScalingGroup",
+        "autoscaling:CreateLaunchConfiguration",
+        "autoscaling:CreateOrUpdateTags",
+        "autoscaling:DeleteAutoScalingGroup",
+        "autoscaling:DeleteLaunchConfiguration",
+        "autoscaling:SetDesiredCapacity",
+        "autoscaling:SuspendProcesses",
+        "autoscaling:UpdateAutoScalingGroup",
+        "ecs:DeleteCluster",
+        "ecs:RunTask",
+        "ecs:StopTask",
+        "ecs:UpdateContainerAgent",
+        "iam:PassRole",
+        "logs:CreateLogGroup",
+        "logs:CreateLogStream",
+        "logs:PutLogEvents"
+    ]
+}

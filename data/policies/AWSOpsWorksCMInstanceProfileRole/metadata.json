@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSOpsWorksCMInstanceProfileRole",
+    "PolicyId": "ANPAICSU3OSHCURP2WIZW",
+    "Arn": "arn:aws:iam::aws:policy/AWSOpsWorksCMInstanceProfileRole",
+    "Path": "/",
+    "DefaultVersionId": "v3",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2016-11-24T09:48:22+00:00",
+    "UpdateDate": "2019-10-22T07:40:17+00:00"
+}

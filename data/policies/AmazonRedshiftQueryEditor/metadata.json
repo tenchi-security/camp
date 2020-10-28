@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonRedshiftQueryEditor",
+    "PolicyId": "ANPAINVFHHP7CWVHTGBGM",
+    "Arn": "arn:aws:iam::aws:policy/AmazonRedshiftQueryEditor",
+    "Path": "/",
+    "DefaultVersionId": "v3",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2018-10-04T22:50:32+00:00",
+    "UpdateDate": "2020-09-11T01:07:22+00:00"
+}

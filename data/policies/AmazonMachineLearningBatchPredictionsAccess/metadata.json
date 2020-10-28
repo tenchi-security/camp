@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonMachineLearningBatchPredictionsAccess",
+    "PolicyId": "ANPAILOI4HTQSFTF3GQSC",
+    "Arn": "arn:aws:iam::aws:policy/AmazonMachineLearningBatchPredictionsAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2015-04-09T17:12:19+00:00",
+    "UpdateDate": "2015-04-09T17:12:19+00:00"
+}

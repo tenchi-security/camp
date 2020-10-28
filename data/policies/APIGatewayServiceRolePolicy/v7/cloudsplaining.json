@@ -1,0 +1,19 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "ec2",
+        "elasticloadbalancing"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "ec2:DeleteNetworkInterfacePermission"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "ec2:CreateNetworkInterface",
+        "elasticloadbalancing:AddListenerCertificates",
+        "elasticloadbalancing:ModifyListener",
+        "elasticloadbalancing:RemoveListenerCertificates"
+    ]
+}

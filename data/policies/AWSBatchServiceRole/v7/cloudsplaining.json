@@ -1,0 +1,51 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "autoscaling",
+        "ec2",
+        "ecs",
+        "iam",
+        "logs"
+    ],
+    "PrivilegeEscalation": [
+        {
+            "type": "CreateEC2WithExistingIP",
+            "actions": [
+                "iam:passrole",
+                "ec2:runinstances"
+            ]
+        }
+    ],
+    "ResourceExposure": [
+        "iam:PassRole",
+        "iam:CreateServiceLinkedRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "autoscaling:CreateAutoScalingGroup",
+        "autoscaling:CreateLaunchConfiguration",
+        "autoscaling:CreateOrUpdateTags",
+        "autoscaling:DeleteAutoScalingGroup",
+        "autoscaling:DeleteLaunchConfiguration",
+        "autoscaling:PutNotificationConfiguration",
+        "autoscaling:SetDesiredCapacity",
+        "autoscaling:SuspendProcesses",
+        "autoscaling:TerminateInstanceInAutoScalingGroup",
+        "autoscaling:UpdateAutoScalingGroup",
+        "ec2:CreateTags",
+        "ec2:RunInstances",
+        "ec2:TerminateInstances",
+        "ecs:DeleteCluster",
+        "ecs:DeregisterContainerInstance",
+        "ecs:RunTask",
+        "ecs:StartTask",
+        "ecs:StopTask",
+        "ecs:UpdateContainerAgent",
+        "iam:CreateServiceLinkedRole",
+        "iam:PassRole",
+        "logs:CreateLogGroup",
+        "logs:CreateLogStream",
+        "logs:PutLogEvents"
+    ]
+}

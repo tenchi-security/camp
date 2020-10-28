@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonDynamoDBReadOnlyAccess",
+    "PolicyId": "ANPAIY2XFNA232XJ6J7X2",
+    "Arn": "arn:aws:iam::aws:policy/AmazonDynamoDBReadOnlyAccess",
+    "Path": "/",
+    "DefaultVersionId": "v10",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2015-02-06T18:40:12+00:00",
+    "UpdateDate": "2019-11-25T19:08:05+00:00"
+}

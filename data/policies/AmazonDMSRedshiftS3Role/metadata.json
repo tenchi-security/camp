@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonDMSRedshiftS3Role",
+    "PolicyId": "ANPAI3CCUQ4U5WNC5F6B6",
+    "Arn": "arn:aws:iam::aws:policy/service-role/AmazonDMSRedshiftS3Role",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v3",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2016-04-20T17:05:56+00:00",
+    "UpdateDate": "2019-07-08T18:19:14+00:00"
+}

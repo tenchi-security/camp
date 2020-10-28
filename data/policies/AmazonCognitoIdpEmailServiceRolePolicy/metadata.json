@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonCognitoIdpEmailServiceRolePolicy",
+    "PolicyId": "ANPAIX7PW362PLAQFKBHM",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/AmazonCognitoIdpEmailServiceRolePolicy",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2019-03-21T21:32:25+00:00",
+    "UpdateDate": "2019-03-21T21:32:25+00:00"
+}

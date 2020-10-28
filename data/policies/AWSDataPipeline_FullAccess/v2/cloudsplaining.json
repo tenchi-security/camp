@@ -1,0 +1,15 @@
+{
+    "ServiceWildcard": [
+        "datapipeline"
+    ],
+    "ServicesAffected": [
+        "sns"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "sns:Subscribe"
+    ]
+}

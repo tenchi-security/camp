@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSEC2SpotServiceRolePolicy",
+    "PolicyId": "ANPAIZJJBQNXQYVKTEXGM",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/AWSEC2SpotServiceRolePolicy",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v4",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2017-09-18T18:51:54+00:00",
+    "UpdateDate": "2018-12-12T00:13:51+00:00"
+}

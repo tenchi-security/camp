@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonMacieServiceRolePolicy",
+    "PolicyId": "ANPAJPLHONRH2HP2H6TNQ",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/AmazonMacieServiceRolePolicy",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v4",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2018-06-19T22:17:38+00:00",
+    "UpdateDate": "2020-07-17T21:31:07+00:00"
+}

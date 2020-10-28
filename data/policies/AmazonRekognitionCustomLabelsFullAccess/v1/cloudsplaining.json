@@ -1,0 +1,16 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "rekognition"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "rekognition:CreateProject",
+        "rekognition:CreateProjectVersion",
+        "rekognition:StartProjectVersion",
+        "rekognition:StopProjectVersion"
+    ]
+}

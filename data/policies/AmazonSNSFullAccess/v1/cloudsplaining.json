@@ -1,0 +1,29 @@
+{
+    "ServiceWildcard": [
+        "sns"
+    ],
+    "ServicesAffected": [
+        "sns"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "sns:AddPermission",
+        "sns:CreateTopic",
+        "sns:RemovePermission",
+        "sns:SetTopicAttributes"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "sns:AddPermission",
+        "sns:ConfirmSubscription",
+        "sns:CreateTopic",
+        "sns:DeleteTopic",
+        "sns:Publish",
+        "sns:RemovePermission",
+        "sns:SetTopicAttributes",
+        "sns:Subscribe",
+        "sns:TagResource",
+        "sns:UntagResource"
+    ]
+}

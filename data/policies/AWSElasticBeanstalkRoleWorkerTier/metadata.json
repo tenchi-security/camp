@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSElasticBeanstalkRoleWorkerTier",
+    "PolicyId": "ANPAZKAPJZG4LTO4NS2Z5",
+    "Arn": "arn:aws:iam::aws:policy/service-role/AWSElasticBeanstalkRoleWorkerTier",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2020-06-05T21:43:37+00:00",
+    "UpdateDate": "2020-06-05T21:43:37+00:00"
+}

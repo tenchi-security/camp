@@ -1,0 +1,12 @@
+{
+    "PolicyName": "Ec2ImageBuilderCrossAccountDistributionAccess",
+    "PolicyId": "ANPAZKAPJZG4PHZOLIXKT",
+    "Arn": "arn:aws:iam::aws:policy/Ec2ImageBuilderCrossAccountDistributionAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2020-09-30T19:22:54+00:00",
+    "UpdateDate": "2020-09-30T19:22:54+00:00"
+}

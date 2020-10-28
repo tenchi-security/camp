@@ -1,0 +1,19 @@
+{
+    "ServiceWildcard": [
+        "ses"
+    ],
+    "ServicesAffected": [
+        "ses"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "ses:SendBulkTemplatedEmail",
+        "ses:SendCustomVerificationEmail",
+        "ses:SendEmail",
+        "ses:SendRawEmail",
+        "ses:SendTemplatedEmail"
+    ]
+}

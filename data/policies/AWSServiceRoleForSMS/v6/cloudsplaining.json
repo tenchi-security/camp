@@ -1,0 +1,33 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "ec2",
+        "iam"
+    ],
+    "PrivilegeEscalation": [
+        {
+            "type": "CreateEC2WithExistingIP",
+            "actions": [
+                "iam:passrole",
+                "ec2:runinstances"
+            ]
+        }
+    ],
+    "ResourceExposure": [
+        "ec2:ModifySnapshotAttribute",
+        "iam:PassRole",
+        "iam:PassRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "ec2:CopySnapshot",
+        "ec2:DeleteSnapshot",
+        "ec2:ModifySnapshotAttribute",
+        "ec2:RunInstances",
+        "ec2:StartInstances",
+        "ec2:StopInstances",
+        "ec2:TerminateInstances",
+        "iam:PassRole"
+    ]
+}

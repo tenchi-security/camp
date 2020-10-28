@@ -1,0 +1,18 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "cloudfront",
+        "ec2",
+        "shield"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "cloudfront:UpdateDistribution",
+        "ec2:CreateSecurityGroup",
+        "shield:CreateProtection",
+        "shield:DeleteProtection"
+    ]
+}

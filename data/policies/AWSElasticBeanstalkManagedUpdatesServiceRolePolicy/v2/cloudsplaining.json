@@ -1,0 +1,45 @@
+{
+    "ServiceWildcard": [
+        "elasticbeanstalk"
+    ],
+    "ServicesAffected": [
+        "elasticbeanstalk",
+        "iam"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:PassRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "elasticbeanstalk:AbortEnvironmentUpdate",
+        "elasticbeanstalk:AddTags",
+        "elasticbeanstalk:ApplyEnvironmentManagedAction",
+        "elasticbeanstalk:AssociateEnvironmentOperationsRole",
+        "elasticbeanstalk:ComposeEnvironments",
+        "elasticbeanstalk:CreateApplication",
+        "elasticbeanstalk:CreateApplicationVersion",
+        "elasticbeanstalk:CreateConfigurationTemplate",
+        "elasticbeanstalk:CreateEnvironment",
+        "elasticbeanstalk:CreatePlatformVersion",
+        "elasticbeanstalk:DeleteApplication",
+        "elasticbeanstalk:DeleteApplicationVersion",
+        "elasticbeanstalk:DeleteConfigurationTemplate",
+        "elasticbeanstalk:DeleteEnvironmentConfiguration",
+        "elasticbeanstalk:DeletePlatformVersion",
+        "elasticbeanstalk:DisassociateEnvironmentOperationsRole",
+        "elasticbeanstalk:PutInstanceStatistics",
+        "elasticbeanstalk:RebuildEnvironment",
+        "elasticbeanstalk:RemoveTags",
+        "elasticbeanstalk:RestartAppServer",
+        "elasticbeanstalk:SwapEnvironmentCNAMEs",
+        "elasticbeanstalk:TerminateEnvironment",
+        "elasticbeanstalk:UpdateApplication",
+        "elasticbeanstalk:UpdateApplicationResourceLifecycle",
+        "elasticbeanstalk:UpdateApplicationVersion",
+        "elasticbeanstalk:UpdateConfigurationTemplate",
+        "elasticbeanstalk:UpdateEnvironment",
+        "iam:PassRole"
+    ]
+}

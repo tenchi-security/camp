@@ -1,0 +1,24 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "Stmt1485992727244",
+            "Action": [
+                "iot:DeleteThingShadow",
+                "iot:GetThingShadow",
+                "iot:UpdateThingShadow"
+            ],
+            "Effect": "Allow",
+            "Resource": "arn:aws:iot:*:*:thing/GG_*"
+        },
+        {
+            "Sid": "Stmt1485992772458",
+            "Action": [
+                "lambda:GetFunction",
+                "lambda:GetFunctionConfiguration"
+            ],
+            "Effect": "Allow",
+            "Resource": "*"
+        }
+    ]
+}

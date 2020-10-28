@@ -1,0 +1,12 @@
+{
+    "PolicyName": "FMSServiceRolePolicy",
+    "PolicyId": "ANPAI62NTGYJB446ACUEA",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/FMSServiceRolePolicy",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v16",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2018-03-28T23:01:12+00:00",
+    "UpdateDate": "2020-09-08T18:03:00+00:00"
+}

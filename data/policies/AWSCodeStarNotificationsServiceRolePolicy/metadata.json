@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSCodeStarNotificationsServiceRolePolicy",
+    "PolicyId": "ANPAZKAPJZG4BGRXOB2GH",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/AWSCodeStarNotificationsServiceRolePolicy",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v4",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2019-11-05T16:10:21+00:00",
+    "UpdateDate": "2020-03-19T16:01:55+00:00"
+}

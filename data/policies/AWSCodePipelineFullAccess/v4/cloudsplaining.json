@@ -1,0 +1,46 @@
+{
+    "ServiceWildcard": [
+        "codepipeline"
+    ],
+    "ServicesAffected": [
+        "codepipeline",
+        "iam",
+        "s3"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:PassRole",
+        "s3:PutBucketPolicy"
+    ],
+    "DataExfiltration": [
+        "s3:GetObject"
+    ],
+    "CredentialsExposure": [
+        "codepipeline:PollForJobs"
+    ],
+    "InfrastructureModification": [
+        "codepipeline:CreateCustomActionType",
+        "codepipeline:CreatePipeline",
+        "codepipeline:DeleteCustomActionType",
+        "codepipeline:DeletePipeline",
+        "codepipeline:DeleteWebhook",
+        "codepipeline:DeregisterWebhookWithThirdParty",
+        "codepipeline:DisableStageTransition",
+        "codepipeline:EnableStageTransition",
+        "codepipeline:PollForJobs",
+        "codepipeline:PutActionRevision",
+        "codepipeline:PutApprovalResult",
+        "codepipeline:PutWebhook",
+        "codepipeline:RegisterWebhookWithThirdParty",
+        "codepipeline:RetryStageExecution",
+        "codepipeline:StartPipelineExecution",
+        "codepipeline:StopPipelineExecution",
+        "codepipeline:TagResource",
+        "codepipeline:UntagResource",
+        "codepipeline:UpdatePipeline",
+        "iam:PassRole",
+        "s3:CreateBucket",
+        "s3:GetObject",
+        "s3:PutBucketPolicy"
+    ]
+}

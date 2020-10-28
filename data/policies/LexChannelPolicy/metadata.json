@@ -1,0 +1,12 @@
+{
+    "PolicyName": "LexChannelPolicy",
+    "PolicyId": "ANPAJKYEISPO63JTBJWPY",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/LexChannelPolicy",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2017-02-17T23:23:24+00:00",
+    "UpdateDate": "2017-02-17T23:23:24+00:00"
+}

@@ -1,0 +1,20 @@
+{
+    "ServiceWildcard": [
+        "synthetics"
+    ],
+    "ServicesAffected": [
+        "synthetics"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "synthetics:DeleteCanary",
+        "synthetics:StartCanary",
+        "synthetics:StopCanary",
+        "synthetics:TagResource",
+        "synthetics:UntagResource",
+        "synthetics:UpdateCanary"
+    ]
+}

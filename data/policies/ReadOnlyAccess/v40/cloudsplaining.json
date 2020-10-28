@@ -1,0 +1,41 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "connect",
+        "ecr",
+        "gamelift",
+        "lightsail",
+        "mobilehub",
+        "s3",
+        "ssm",
+        "sts"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "lightsail:GetRelationalDatabaseMasterUserPassword"
+    ],
+    "DataExfiltration": [
+        "s3:GetObject",
+        "ssm:GetParameter",
+        "ssm:GetParameters",
+        "ssm:GetParametersByPath"
+    ],
+    "CredentialsExposure": [
+        "connect:GetFederationToken",
+        "ecr:GetAuthorizationToken",
+        "gamelift:RequestUploadCredentials",
+        "lightsail:GetInstanceAccessDetails",
+        "lightsail:GetRelationalDatabaseMasterUserPassword",
+        "sts:GetFederationToken",
+        "sts:GetSessionToken"
+    ],
+    "InfrastructureModification": [
+        "lightsail:DownloadDefaultKeyPair",
+        "lightsail:GetInstanceAccessDetails",
+        "mobilehub:GenerateProjectParameters",
+        "s3:GetObject",
+        "ssm:GetParameter",
+        "ssm:GetParameters",
+        "ssm:GetParametersByPath"
+    ]
+}

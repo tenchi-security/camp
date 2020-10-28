@@ -1,0 +1,64 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "iam",
+        "lightsail"
+    ],
+    "PrivilegeEscalation": [
+        {
+            "type": "CreateAccessKey",
+            "actions": [
+                "iam:createaccesskey"
+            ]
+        },
+        {
+            "type": "CreateLoginProfile",
+            "actions": [
+                "iam:createloginprofile"
+            ]
+        },
+        {
+            "type": "AttachUserPolicy",
+            "actions": [
+                "iam:attachuserpolicy"
+            ]
+        },
+        {
+            "type": "AttachGroupPolicy",
+            "actions": [
+                "iam:attachgrouppolicy"
+            ]
+        },
+        {
+            "type": "PutUserPolicy",
+            "actions": [
+                "iam:putuserpolicy"
+            ]
+        }
+    ],
+    "ResourceExposure": [
+        "iam:AttachGroupPolicy",
+        "iam:AttachRolePolicy",
+        "iam:AttachUserPolicy",
+        "iam:ChangePassword",
+        "iam:CreateAccessKey",
+        "iam:CreateInstanceProfile",
+        "iam:CreateLoginProfile",
+        "iam:CreateRole",
+        "iam:CreateUser",
+        "iam:DetachUserPolicy",
+        "iam:PutUserPermissionsBoundary",
+        "iam:PutUserPolicy",
+        "iam:UpdateAccessKey",
+        "iam:UpdateAccountPasswordPolicy",
+        "iam:UpdateUser"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [
+        "iam:CreateAccessKey",
+        "iam:CreateLoginProfile",
+        "iam:UpdateAccessKey",
+        "lightsail:GetInstanceAccessDetails"
+    ],
+    "InfrastructureModification": []
+}

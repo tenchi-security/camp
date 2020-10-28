@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSImageBuilderReadOnlyAccess",
+    "PolicyId": "ANPAZKAPJZG4OD5TC5BXP",
+    "Arn": "arn:aws:iam::aws:policy/AWSImageBuilderReadOnlyAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2019-12-19T22:29:23+00:00",
+    "UpdateDate": "2019-12-19T22:29:23+00:00"
+}

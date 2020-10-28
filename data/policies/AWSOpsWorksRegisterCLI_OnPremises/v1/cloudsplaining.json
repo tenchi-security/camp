@@ -1,0 +1,16 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "opsworks"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "opsworks:AssignInstance",
+        "opsworks:CreateLayer",
+        "opsworks:DeregisterInstance",
+        "opsworks:UnassignInstance"
+    ]
+}

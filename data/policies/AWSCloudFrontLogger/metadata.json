@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSCloudFrontLogger",
+    "PolicyId": "ANPAIOI7RPKLCNINBTRP4",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/AWSCloudFrontLogger",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v2",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2018-06-12T20:15:23+00:00",
+    "UpdateDate": "2019-11-22T19:33:51+00:00"
+}

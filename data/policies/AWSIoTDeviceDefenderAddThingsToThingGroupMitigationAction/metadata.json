@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSIoTDeviceDefenderAddThingsToThingGroupMitigationAction",
+    "PolicyId": "ANPAZKAPJZG4HEHG3RV6B",
+    "Arn": "arn:aws:iam::aws:policy/service-role/AWSIoTDeviceDefenderAddThingsToThingGroupMitigationAction",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2019-08-07T17:55:37+00:00",
+    "UpdateDate": "2019-08-07T17:55:37+00:00"
+}

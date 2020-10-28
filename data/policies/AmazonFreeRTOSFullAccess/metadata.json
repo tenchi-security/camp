@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonFreeRTOSFullAccess",
+    "PolicyId": "ANPAJAN6PSDCOH6HXG2SE",
+    "Arn": "arn:aws:iam::aws:policy/AmazonFreeRTOSFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2017-11-29T15:32:51+00:00",
+    "UpdateDate": "2017-11-29T15:32:51+00:00"
+}

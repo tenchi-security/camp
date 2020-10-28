@@ -1,0 +1,25 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "ds",
+        "logs",
+        "s3",
+        "ssm"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [
+        "s3:GetObject"
+    ],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "ds:CreateComputer",
+        "logs:CreateLogGroup",
+        "logs:CreateLogStream",
+        "logs:PutLogEvents",
+        "s3:AbortMultipartUpload",
+        "s3:GetObject",
+        "s3:PutObject",
+        "ssm:UpdateAssociationStatus"
+    ]
+}

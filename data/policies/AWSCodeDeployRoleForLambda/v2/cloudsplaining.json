@@ -1,0 +1,19 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "lambda",
+        "s3",
+        "sns"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [
+        "s3:GetObject"
+    ],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "lambda:UpdateAlias",
+        "s3:GetObject",
+        "sns:Publish"
+    ]
+}

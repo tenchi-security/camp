@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSLambdaFullAccess",
+    "PolicyId": "ANPAI6E2CYYMI4XI7AA5K",
+    "Arn": "arn:aws:iam::aws:policy/AWSLambdaFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v8",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2015-02-06T18:40:45+00:00",
+    "UpdateDate": "2017-11-27T23:22:38+00:00"
+}

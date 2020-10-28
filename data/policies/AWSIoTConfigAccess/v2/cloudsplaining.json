@@ -1,0 +1,34 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "iot"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iot:AttachPrincipalPolicy",
+        "iot:DetachPrincipalPolicy",
+        "iot:SetDefaultPolicyVersion"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "iot:AttachPrincipalPolicy",
+        "iot:CreatePolicyVersion",
+        "iot:CreateThing",
+        "iot:CreateTopicRule",
+        "iot:DeleteCACertificate",
+        "iot:DeleteCertificate",
+        "iot:DeletePolicy",
+        "iot:DeletePolicyVersion",
+        "iot:DeleteThing",
+        "iot:DeleteTopicRule",
+        "iot:DetachPrincipalPolicy",
+        "iot:RejectCertificateTransfer",
+        "iot:ReplaceTopicRule",
+        "iot:SetDefaultPolicyVersion",
+        "iot:TransferCertificate",
+        "iot:UpdateCACertificate",
+        "iot:UpdateCertificate",
+        "iot:UpdateThing"
+    ]
+}

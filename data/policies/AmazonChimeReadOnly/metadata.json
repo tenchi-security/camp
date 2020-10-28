@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonChimeReadOnly",
+    "PolicyId": "ANPAJLBFZZFABRXVWRTCI",
+    "Arn": "arn:aws:iam::aws:policy/AmazonChimeReadOnly",
+    "Path": "/",
+    "DefaultVersionId": "v9",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2017-11-01T22:04:17+00:00",
+    "UpdateDate": "2019-11-18T18:49:37+00:00"
+}

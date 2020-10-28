@@ -1,0 +1,44 @@
+{
+    "ServiceWildcard": [
+        "codebuild"
+    ],
+    "ServicesAffected": [
+        "codebuild"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "codebuild:DeleteResourcePolicy",
+        "codebuild:DeleteSourceCredentials",
+        "codebuild:ImportSourceCredentials",
+        "codebuild:PutResourcePolicy"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "codebuild:BatchDeleteBuilds",
+        "codebuild:BatchPutCodeCoverages",
+        "codebuild:BatchPutTestCases",
+        "codebuild:CreateProject",
+        "codebuild:CreateReport",
+        "codebuild:CreateReportGroup",
+        "codebuild:CreateWebhook",
+        "codebuild:DeleteBuildBatch",
+        "codebuild:DeleteProject",
+        "codebuild:DeleteReport",
+        "codebuild:DeleteReportGroup",
+        "codebuild:DeleteResourcePolicy",
+        "codebuild:DeleteWebhook",
+        "codebuild:InvalidateProjectCache",
+        "codebuild:PutResourcePolicy",
+        "codebuild:RetryBuild",
+        "codebuild:RetryBuildBatch",
+        "codebuild:StartBuild",
+        "codebuild:StartBuildBatch",
+        "codebuild:StopBuild",
+        "codebuild:StopBuildBatch",
+        "codebuild:UpdateProject",
+        "codebuild:UpdateReport",
+        "codebuild:UpdateReportGroup",
+        "codebuild:UpdateWebhook"
+    ]
+}

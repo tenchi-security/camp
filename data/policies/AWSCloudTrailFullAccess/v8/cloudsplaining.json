@@ -1,0 +1,45 @@
+{
+    "ServiceWildcard": [
+        "cloudtrail"
+    ],
+    "ServicesAffected": [
+        "cloudtrail",
+        "iam",
+        "logs",
+        "s3",
+        "sns"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "sns:AddPermission",
+        "sns:CreateTopic",
+        "sns:SetTopicAttributes",
+        "s3:PutBucketPolicy",
+        "iam:PassRole"
+    ],
+    "DataExfiltration": [
+        "s3:GetObject"
+    ],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "cloudtrail:AddTags",
+        "cloudtrail:CreateTrail",
+        "cloudtrail:DeleteTrail",
+        "cloudtrail:PutEventSelectors",
+        "cloudtrail:PutInsightSelectors",
+        "cloudtrail:RemoveTags",
+        "cloudtrail:StartLogging",
+        "cloudtrail:StopLogging",
+        "cloudtrail:UpdateTrail",
+        "iam:PassRole",
+        "logs:CreateLogGroup",
+        "s3:CreateBucket",
+        "s3:DeleteBucket",
+        "s3:GetObject",
+        "s3:PutBucketPolicy",
+        "sns:AddPermission",
+        "sns:CreateTopic",
+        "sns:DeleteTopic",
+        "sns:SetTopicAttributes"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "ServiceWildcard": [
+        "globalaccelerator"
+    ],
+    "ServicesAffected": [
+        "globalaccelerator"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "globalaccelerator:CreateEndpointGroup",
+        "globalaccelerator:CreateListener",
+        "globalaccelerator:DeleteAccelerator",
+        "globalaccelerator:DeleteEndpointGroup",
+        "globalaccelerator:DeleteListener",
+        "globalaccelerator:TagResource",
+        "globalaccelerator:UntagResource",
+        "globalaccelerator:UpdateAccelerator",
+        "globalaccelerator:UpdateAcceleratorAttributes",
+        "globalaccelerator:UpdateEndpointGroup",
+        "globalaccelerator:UpdateListener"
+    ]
+}

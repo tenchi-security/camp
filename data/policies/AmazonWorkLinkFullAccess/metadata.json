@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonWorkLinkFullAccess",
+    "PolicyId": "ANPAJM4ITL7TEVURHCQSY",
+    "Arn": "arn:aws:iam::aws:policy/AmazonWorkLinkFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v2",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2019-01-23T18:52:09+00:00",
+    "UpdateDate": "2019-09-23T18:37:42+00:00"
+}

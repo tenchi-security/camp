@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonRDSReadOnlyAccess",
+    "PolicyId": "ANPAJKTTTYV2IIHKLZ346",
+    "Arn": "arn:aws:iam::aws:policy/AmazonRDSReadOnlyAccess",
+    "Path": "/",
+    "DefaultVersionId": "v3",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2015-02-06T18:40:53+00:00",
+    "UpdateDate": "2017-08-28T21:36:32+00:00"
+}

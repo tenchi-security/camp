@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonMacieHandshakeRole",
+    "PolicyId": "ANPAJ7CVEIVL347MLOVKI",
+    "Arn": "arn:aws:iam::aws:policy/service-role/AmazonMacieHandshakeRole",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2018-06-28T15:46:10+00:00",
+    "UpdateDate": "2018-06-28T15:46:10+00:00"
+}

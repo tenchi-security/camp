@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonChimeServiceRolePolicy",
+    "PolicyId": "ANPAZKAPJZG4NA5XMV3PI",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/AmazonChimeServiceRolePolicy",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2019-09-30T22:25:06+00:00",
+    "UpdateDate": "2019-09-30T22:25:06+00:00"
+}

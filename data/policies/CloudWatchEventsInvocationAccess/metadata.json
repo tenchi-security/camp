@@ -1,0 +1,12 @@
+{
+    "PolicyName": "CloudWatchEventsInvocationAccess",
+    "PolicyId": "ANPAJJXD6JKJLK2WDLZNO",
+    "Arn": "arn:aws:iam::aws:policy/service-role/CloudWatchEventsInvocationAccess",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2016-01-14T18:36:33+00:00",
+    "UpdateDate": "2016-01-14T18:36:33+00:00"
+}

@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonS3OutpostsReadOnlyAccess",
+    "PolicyId": "ANPAZKAPJZG4PJ2AX4CUB",
+    "Arn": "arn:aws:iam::aws:policy/AmazonS3OutpostsReadOnlyAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2020-10-02T18:55:58+00:00",
+    "UpdateDate": "2020-10-02T18:55:58+00:00"
+}

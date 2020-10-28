@@ -1,0 +1,20 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "ssm"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [
+        "ssm:GetParameter",
+        "ssm:GetParameters"
+    ],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "ssm:GetParameter",
+        "ssm:GetParameters",
+        "ssm:PutComplianceItems",
+        "ssm:UpdateAssociationStatus",
+        "ssm:UpdateInstanceAssociationStatus"
+    ]
+}

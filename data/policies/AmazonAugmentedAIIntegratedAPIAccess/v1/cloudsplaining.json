@@ -1,0 +1,18 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "sagemaker"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "sagemaker:CreateFlowDefinition",
+        "sagemaker:CreateHumanTaskUi",
+        "sagemaker:DeleteFlowDefinition",
+        "sagemaker:DeleteHumanLoop",
+        "sagemaker:StartHumanLoop",
+        "sagemaker:StopHumanLoop"
+    ]
+}

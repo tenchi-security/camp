@@ -1,0 +1,26 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "ec2",
+        "greengrass",
+        "iam",
+        "lambda",
+        "robomaker"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "ec2:CreateNetworkInterfacePermission",
+        "iam:PassRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "ec2:CreateNetworkInterfacePermission",
+        "greengrass:CreateDeployment",
+        "greengrass:CreateFunctionDefinitionVersion",
+        "greengrass:CreateGroupVersion",
+        "iam:PassRole",
+        "lambda:CreateFunction",
+        "robomaker:CancelSimulationJob"
+    ]
+}

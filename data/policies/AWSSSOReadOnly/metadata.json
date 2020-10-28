@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSSSOReadOnly",
+    "PolicyId": "ANPAJBSMEEZXFDMKMY43I",
+    "Arn": "arn:aws:iam::aws:policy/AWSSSOReadOnly",
+    "Path": "/",
+    "DefaultVersionId": "v6",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2018-06-27T20:24:34+00:00",
+    "UpdateDate": "2020-09-10T21:26:29+00:00"
+}

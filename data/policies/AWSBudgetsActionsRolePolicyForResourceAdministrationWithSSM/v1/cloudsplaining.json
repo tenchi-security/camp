@@ -1,0 +1,19 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "ec2",
+        "rds",
+        "ssm"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "ec2:StartInstances",
+        "ec2:StopInstances",
+        "rds:StartDBInstance",
+        "rds:StopDBInstance",
+        "ssm:StartAutomationExecution"
+    ]
+}

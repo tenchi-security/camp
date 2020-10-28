@@ -1,0 +1,12 @@
+{
+    "PolicyName": "QuickSightAccessForS3StorageManagementAnalyticsReadOnly",
+    "PolicyId": "ANPAIFWG3L3WDMR4I7ZJW",
+    "Arn": "arn:aws:iam::aws:policy/service-role/QuickSightAccessForS3StorageManagementAnalyticsReadOnly",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v4",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2017-06-12T18:18:38+00:00",
+    "UpdateDate": "2019-10-08T23:53:11+00:00"
+}

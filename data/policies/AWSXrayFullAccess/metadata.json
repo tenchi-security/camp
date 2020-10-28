@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSXrayFullAccess",
+    "PolicyId": "ANPAJQBYG45NSJMVQDB2K",
+    "Arn": "arn:aws:iam::aws:policy/AWSXrayFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2016-12-01T18:30:55+00:00",
+    "UpdateDate": "2016-12-01T18:30:55+00:00"
+}

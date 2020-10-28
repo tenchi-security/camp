@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSElasticBeanstalkServiceRolePolicy",
+    "PolicyId": "ANPAIID62QSI3OSIPQXTM",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/AWSElasticBeanstalkServiceRolePolicy",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v6",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2017-09-13T23:46:37+00:00",
+    "UpdateDate": "2019-06-06T21:59:51+00:00"
+}

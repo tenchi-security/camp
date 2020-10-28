@@ -1,0 +1,16 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "mobilehub"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "mobilehub:DeleteProject",
+        "mobilehub:GenerateProjectParameters",
+        "mobilehub:SynchronizeProject",
+        "mobilehub:UpdateProject"
+    ]
+}

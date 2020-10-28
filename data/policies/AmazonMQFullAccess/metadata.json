@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonMQFullAccess",
+    "PolicyId": "ANPAJLKBROJNQYDDXOOGG",
+    "Arn": "arn:aws:iam::aws:policy/AmazonMQFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v4",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2017-11-28T15:28:29+00:00",
+    "UpdateDate": "2018-12-18T20:33:17+00:00"
+}

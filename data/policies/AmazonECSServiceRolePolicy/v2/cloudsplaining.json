@@ -1,0 +1,23 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "ec2",
+        "elasticloadbalancing",
+        "servicediscovery"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "ec2:CreateNetworkInterfacePermission",
+        "ec2:DeleteNetworkInterfacePermission"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "ec2:CreateNetworkInterface",
+        "ec2:CreateNetworkInterfacePermission",
+        "elasticloadbalancing:DeregisterTargets",
+        "elasticloadbalancing:RegisterTargets",
+        "servicediscovery:DeregisterInstance",
+        "servicediscovery:RegisterInstance"
+    ]
+}

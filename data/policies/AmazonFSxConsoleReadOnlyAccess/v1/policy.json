@@ -1,0 +1,19 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": [
+                "ds:DescribeDirectories",
+                "ec2:DescribeNetworkInterfaceAttribute",
+                "ec2:DescribeSecurityGroups",
+                "ec2:DescribeSubnets",
+                "ec2:DescribeVpcs",
+                "fsx:Describe*",
+                "fsx:ListTagsForResource",
+                "kms:DescribeKey"
+            ],
+            "Resource": "*"
+        }
+    ]
+}

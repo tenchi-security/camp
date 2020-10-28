@@ -1,0 +1,16 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": [
+                "config:Get*",
+                "config:Describe*",
+                "config:Deliver*",
+                "tag:GetResources",
+                "tag:GetTagKeys"
+            ],
+            "Resource": "*"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "lightsail"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [
+        "lightsail:getInstanceAccessDetails"
+    ],
+    "InfrastructureModification": [
+        "lightsail:GetInstanceAccessDetails"
+    ]
+}

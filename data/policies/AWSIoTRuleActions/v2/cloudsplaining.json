@@ -1,0 +1,30 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "cloudwatch",
+        "dynamodb",
+        "es",
+        "firehose",
+        "iot",
+        "kinesis",
+        "s3",
+        "sns",
+        "sqs"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "cloudwatch:SetAlarmState",
+        "dynamodb:PutItem",
+        "es:ESHttpPut",
+        "firehose:PutRecord",
+        "iot:Publish",
+        "kinesis:PutRecord",
+        "s3:PutObject",
+        "sns:Publish",
+        "sqs:SendMessage",
+        "sqs:SendMessageBatch"
+    ]
+}

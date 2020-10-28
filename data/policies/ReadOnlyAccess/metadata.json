@@ -1,0 +1,12 @@
+{
+    "PolicyName": "ReadOnlyAccess",
+    "PolicyId": "ANPAILL3HVNFSB6DCOWYQ",
+    "Arn": "arn:aws:iam::aws:policy/ReadOnlyAccess",
+    "Path": "/",
+    "DefaultVersionId": "v68",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2015-02-06T18:39:48+00:00",
+    "UpdateDate": "2020-10-16T02:16:47+00:00"
+}

@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonEventBridgeFullAccess",
+    "PolicyId": "ANPAZKAPJZG4BUM4GCASI",
+    "Arn": "arn:aws:iam::aws:policy/AmazonEventBridgeFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2019-07-11T14:08:55+00:00",
+    "UpdateDate": "2019-07-11T14:08:55+00:00"
+}

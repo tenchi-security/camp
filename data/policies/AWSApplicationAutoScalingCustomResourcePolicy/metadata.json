@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSApplicationAutoScalingCustomResourcePolicy",
+    "PolicyId": "ANPAJYTKXPX6DO32Z4XXA",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/AWSApplicationAutoScalingCustomResourcePolicy",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2018-06-04T23:22:44+00:00",
+    "UpdateDate": "2018-06-04T23:22:44+00:00"
+}

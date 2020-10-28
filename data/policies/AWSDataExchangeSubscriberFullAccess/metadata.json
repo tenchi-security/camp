@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSDataExchangeSubscriberFullAccess",
+    "PolicyId": "ANPAZKAPJZG4MAWRW4GF7",
+    "Arn": "arn:aws:iam::aws:policy/AWSDataExchangeSubscriberFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v2",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2019-11-13T19:27:52+00:00",
+    "UpdateDate": "2020-04-27T14:28:00+00:00"
+}

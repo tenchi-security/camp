@@ -1,0 +1,12 @@
+{
+    "PolicyName": "ComprehendDataAccessRolePolicy",
+    "PolicyId": "ANPAJHSDRRKS2Z3MYUPQY",
+    "Arn": "arn:aws:iam::aws:policy/service-role/ComprehendDataAccessRolePolicy",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2019-03-06T22:28:15+00:00",
+    "UpdateDate": "2019-03-06T22:28:15+00:00"
+}

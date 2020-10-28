@@ -1,0 +1,98 @@
+{
+    "ServiceWildcard": [
+        "dax",
+        "dynamodb"
+    ],
+    "ServicesAffected": [
+        "cloudwatch",
+        "dax",
+        "dynamodb",
+        "iam",
+        "lambda",
+        "resource-groups",
+        "sns"
+    ],
+    "PrivilegeEscalation": [
+        {
+            "type": "PassExistingRoleToNewLambdaThenTriggerWithNewDynamo",
+            "actions": [
+                "iam:passrole",
+                "lambda:createfunction",
+                "lambda:createeventsourcemapping",
+                "dynamodb:createtable",
+                "dynamodb:putitem"
+            ]
+        },
+        {
+            "type": "PassExistingRoleToNewLambdaThenTriggerWithExistingDynamo",
+            "actions": [
+                "iam:passrole",
+                "lambda:createfunction",
+                "lambda:createeventsourcemapping"
+            ]
+        },
+        {
+            "type": "PassExistingRoleToNewDataPipeline",
+            "actions": [
+                "iam:passrole",
+                "datapipeline:createpipeline"
+            ]
+        }
+    ],
+    "ResourceExposure": [
+        "sns:CreateTopic",
+        "sns:SetTopicAttributes",
+        "iam:PassRole",
+        "iam:CreateServiceLinkedRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "cloudwatch:DeleteAlarms",
+        "cloudwatch:PutMetricAlarm",
+        "dax:BatchWriteItem",
+        "dax:CreateCluster",
+        "dax:DecreaseReplicationFactor",
+        "dax:DeleteCluster",
+        "dax:DeleteItem",
+        "dax:IncreaseReplicationFactor",
+        "dax:PutItem",
+        "dax:RebootNode",
+        "dax:TagResource",
+        "dax:UntagResource",
+        "dax:UpdateCluster",
+        "dax:UpdateItem",
+        "dynamodb:BatchWriteItem",
+        "dynamodb:CreateBackup",
+        "dynamodb:CreateGlobalTable",
+        "dynamodb:CreateTable",
+        "dynamodb:CreateTableReplica",
+        "dynamodb:DeleteBackup",
+        "dynamodb:DeleteItem",
+        "dynamodb:DeleteTable",
+        "dynamodb:DeleteTableReplica",
+        "dynamodb:PutItem",
+        "dynamodb:RestoreTableFromBackup",
+        "dynamodb:RestoreTableToPointInTime",
+        "dynamodb:TagResource",
+        "dynamodb:UntagResource",
+        "dynamodb:UpdateContinuousBackups",
+        "dynamodb:UpdateContributorInsights",
+        "dynamodb:UpdateGlobalTable",
+        "dynamodb:UpdateGlobalTableSettings",
+        "dynamodb:UpdateItem",
+        "dynamodb:UpdateTable",
+        "dynamodb:UpdateTableReplicaAutoScaling",
+        "dynamodb:UpdateTimeToLive",
+        "iam:CreateServiceLinkedRole",
+        "iam:PassRole",
+        "lambda:CreateFunction",
+        "lambda:DeleteEventSourceMapping",
+        "lambda:DeleteFunction",
+        "resource-groups:DeleteGroup",
+        "sns:CreateTopic",
+        "sns:DeleteTopic",
+        "sns:SetTopicAttributes",
+        "sns:Subscribe"
+    ]
+}

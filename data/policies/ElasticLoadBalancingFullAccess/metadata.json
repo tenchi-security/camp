@@ -1,0 +1,12 @@
+{
+    "PolicyName": "ElasticLoadBalancingFullAccess",
+    "PolicyId": "ANPAIDPMLA3IUIOQCISJ4",
+    "Arn": "arn:aws:iam::aws:policy/ElasticLoadBalancingFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v4",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2018-09-20T20:42:07+00:00",
+    "UpdateDate": "2019-03-25T21:33:12+00:00"
+}

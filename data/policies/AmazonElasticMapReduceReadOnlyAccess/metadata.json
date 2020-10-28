@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonElasticMapReduceReadOnlyAccess",
+    "PolicyId": "ANPAIHP6NH2S6GYFCOINC",
+    "Arn": "arn:aws:iam::aws:policy/AmazonElasticMapReduceReadOnlyAccess",
+    "Path": "/",
+    "DefaultVersionId": "v3",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2015-02-06T18:40:23+00:00",
+    "UpdateDate": "2020-07-29T23:14:09+00:00"
+}

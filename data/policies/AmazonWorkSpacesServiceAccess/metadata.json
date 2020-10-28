@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonWorkSpacesServiceAccess",
+    "PolicyId": "ANPAZKAPJZG4KRXBM753F",
+    "Arn": "arn:aws:iam::aws:policy/AmazonWorkSpacesServiceAccess",
+    "Path": "/",
+    "DefaultVersionId": "v2",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2019-06-27T19:19:09+00:00",
+    "UpdateDate": "2020-03-18T23:32:10+00:00"
+}

@@ -1,0 +1,15 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "secretsmanager"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [
+        "secretsmanager:GetSecretValue"
+    ],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "secretsmanager:GetSecretValue"
+    ]
+}

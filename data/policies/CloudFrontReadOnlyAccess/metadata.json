@@ -1,0 +1,12 @@
+{
+    "PolicyName": "CloudFrontReadOnlyAccess",
+    "PolicyId": "ANPAJJZMNYOTZCNQP36LG",
+    "Arn": "arn:aws:iam::aws:policy/CloudFrontReadOnlyAccess",
+    "Path": "/",
+    "DefaultVersionId": "v4",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2015-02-06T18:39:55+00:00",
+    "UpdateDate": "2020-02-19T19:49:16+00:00"
+}
