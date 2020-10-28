@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import argparse
+import csv
 import json
 import logging
 import multiprocessing
@@ -7,6 +8,7 @@ import os
 import os.path
 import sys
 from datetime import datetime
+from typing import List, Dict, Any
 
 import boto3
 from cloudsplaining.command.scan_policy_file import scan_policy
@@ -38,10 +40,14 @@ def download_policies(client: IAMClient, location: str, force: bool = False) -> 
             # check versions
             for version_page in client.get_paginator('list_policy_versions').paginate(PolicyArn=policy['Arn']):
                 for version in version_page['Versions']:
+                    # fix and add necessary fields
+                    version['PolicyName'] = policy['PolicyName']
+                    version['CreateDate'] = version['CreateDate'].isoformat()
+
+                    # write metadata and policy contents
                     version_path = os.path.join(policy_path, version['VersionId'])
                     logger.info(f"Saving policy {policy['PolicyName']} version at {version['VersionId']}")
                     os.makedirs(version_path, exist_ok=True)
-                    version['CreateDate'] = version['CreateDate'].isoformat()
                     with open(os.path.join(version_path, "metadata.json"), "w") as f:
                         json.dump(version, f, indent=4)
                     document = \
@@ -115,12 +121,57 @@ def run_cloudsplaining(input_fname: str, output_fname: str) -> str:
             return output_fname
 
 
+# create statistics table in CSV
+def summarize(location: str) -> None:
+    logger = logging.getLogger("camp")
+    summary_path = os.path.join(location, "versions_summary.csv")
+    num_rows = 0
+    with open(summary_path, 'w', newline='') as csvfile:
+        out = csv.DictWriter(csvfile, fieldnames=get_field_names(location), quoting=csv.QUOTE_NONNUMERIC)
+        out.writeheader()
+        for policydir in iter_policies(location):
+            for versiondir in iter_policy_versions(policydir):
+                num_rows += 1
+                out.writerow(get_version_summary(versiondir))
+    logger.info(f'Wrote {num_rows} rows to {summary_path}')
+
+# read v1 of AdministratorAccess to ensure we have all the possible fields
+def get_field_names(location: str) -> List[str]:
+    fieldnames = ['PolicyName']
+    with open(os.path.join(location, 'policies', 'AdministratorAccess', 'v1', 'metadata.json'), 'r') as f:
+        fieldnames.extend(json.load(f).keys())
+    with open(os.path.join(location, 'policies', 'AdministratorAccess', 'v1', 'cloudsplaining.json'), 'r') as f:
+        cs = json.load(f)
+        fieldnames.extend(cs.keys())
+        fieldnames.extend(['PrivilegeEscalation_' + x['type'] for x in cs['PrivilegeEscalation']])
+    return fieldnames
+
+
+# creates a summary row for a single policy version
+def get_version_summary(versiondir: str) -> Dict[str, Any]:
+    with open(os.path.join(versiondir, 'metadata.json'), 'r') as f:
+        summary: Dict[str, Any] = json.load(f)
+    with open(os.path.join(versiondir, 'cloudsplaining.json'), 'r') as f:
+        cs: Dict[str, Any] = json.load(f)
+        for k, v in cs.items():
+            if k == 'PrivilegeEscalation':
+                for entry in v:
+                    summary['PrivilegeEscalation_' + entry['type']] = len(entry['actions'])
+            else:
+                summary[k] = len(v)
+    if 'PolicyName' not in summary:
+        summary['PolicyName'] = versiondir.split(os.sep)[-2]
+    return summary
+
+
 # help function to execute a single CLI command
 def handle_args(args) -> None:
     if args['command'] == 'download':
         download_policies(boto3.Session(profile_name=args['profile']).client('iam'), args['location'], args['force'])
     elif args['command'] == 'scan':
         scan_policies(args['location'], args['force'])
+    elif args['command'] == 'summarize':
+        summarize(args['location'])
 
 
 # main code when executed as a CLI
@@ -164,11 +215,17 @@ if __name__ == "__main__":
                             action='store_true')
     org_parser.set_defaults(command="scan")
 
+    # summarize sub-parser
+    org_parser = subparsers.add_parser('summarize',
+                                       help='generate summary CSV of CloudSplaining results',
+                                       description='generate summary CSV of CloudSplaining results')
+    org_parser.set_defaults(command="summarize")
+
     # parse and start execution
     args = vars(parser.parse_args())
     if 'command' not in args:
         args['force'] = False
-        for command in ('download', 'scan'):
+        for command in ('download', 'scan', 'summarize'):
             args['command'] = command
             handle_args(args)
     else:
