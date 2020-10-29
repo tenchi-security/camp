@@ -1,4 +1,6 @@
 cloudsplaining==0.2.3
-boto3-stubs[iam]==1.16.7.0
+boto3-stubs[iam]==1.16.8.0
 jupyter
 pandas
+matplotlib
+data-science-types
