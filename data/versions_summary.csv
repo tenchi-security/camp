@@ -781,7 +781,8 @@
 "AWSApplicationDiscoveryAgentAccess","v1",False,"2016-05-11T21:38:47+00:00",0,0,0,0,0,0,0
 "AWSApplicationDiscoveryAgentAccess","v2",True,"2020-02-24T22:26:45+00:00",0,0,0,0,0,0,0
 "AutoScalingServiceRolePolicy","v1",False,"2018-01-08T23:10:55+00:00",0,5,1,2,0,0,13
-"AutoScalingServiceRolePolicy","v2",True,"2018-10-31T18:19:10+00:00",0,5,1,2,0,0,14
+"AutoScalingServiceRolePolicy","v2",False,"2018-10-31T18:19:10+00:00",0,5,1,2,0,0,14
+"AutoScalingServiceRolePolicy","v3",True,"2020-10-30T00:01:26+00:00",0,6,1,2,0,0,18
 "AmazonSageMakerMechanicalTurkAccess","v1",True,"2019-12-03T16:19:36+00:00",0,1,0,0,0,0,2
 "AmazonCodeGuruReviewerFullAccess","v1",False,"2019-12-03T08:33:47+00:00",1,3,0,0,0,0,9
 "AmazonCodeGuruReviewerFullAccess","v2",False,"2020-05-07T00:43:09+00:00",1,4,0,0,0,0,11

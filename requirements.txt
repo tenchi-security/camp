@@ -4,3 +4,4 @@ jupyter
 pandas
 matplotlib
 data-science-types
+pretty_html_table
