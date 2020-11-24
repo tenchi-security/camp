@@ -1,0 +1,6 @@
+{
+    "VersionId": "v1",
+    "IsDefaultVersion": false,
+    "CreateDate": "2020-11-11T16:51:39+00:00",
+    "PolicyName": "AwsGlueDataBrewFullAccessPolicy"
+}

@@ -1,0 +1,76 @@
+{
+    "ServiceWildcard": [
+        "lambda"
+    ],
+    "ServicesAffected": [
+        "iam",
+        "lambda"
+    ],
+    "PrivilegeEscalation": [
+        {
+            "type": "PassExistingRoleToNewLambdaThenInvoke",
+            "actions": [
+                "iam:passrole",
+                "lambda:createfunction",
+                "lambda:invokefunction"
+            ]
+        },
+        {
+            "type": "PassExistingRoleToNewLambdaThenTriggerWithExistingDynamo",
+            "actions": [
+                "iam:passrole",
+                "lambda:createfunction",
+                "lambda:createeventsourcemapping"
+            ]
+        },
+        {
+            "type": "EditExistingLambdaFunctionWithRole",
+            "actions": [
+                "lambda:updatefunctioncode"
+            ]
+        }
+    ],
+    "ResourceExposure": [
+        "lambda:AddLayerVersionPermission",
+        "lambda:AddPermission",
+        "lambda:DisableReplication",
+        "lambda:EnableReplication",
+        "lambda:RemoveLayerVersionPermission",
+        "lambda:RemovePermission",
+        "iam:PassRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "iam:PassRole",
+        "lambda:AddLayerVersionPermission",
+        "lambda:AddPermission",
+        "lambda:CreateAlias",
+        "lambda:CreateFunction",
+        "lambda:DeleteAlias",
+        "lambda:DeleteEventSourceMapping",
+        "lambda:DeleteFunction",
+        "lambda:DeleteFunctionConcurrency",
+        "lambda:DeleteFunctionEventInvokeConfig",
+        "lambda:DeleteLayerVersion",
+        "lambda:DeleteProvisionedConcurrencyConfig",
+        "lambda:DisableReplication",
+        "lambda:EnableReplication",
+        "lambda:InvokeAsync",
+        "lambda:InvokeFunction",
+        "lambda:PublishLayerVersion",
+        "lambda:PublishVersion",
+        "lambda:PutFunctionConcurrency",
+        "lambda:PutFunctionEventInvokeConfig",
+        "lambda:PutProvisionedConcurrencyConfig",
+        "lambda:RemoveLayerVersionPermission",
+        "lambda:RemovePermission",
+        "lambda:TagResource",
+        "lambda:UntagResource",
+        "lambda:UpdateAlias",
+        "lambda:UpdateEventSourceMapping",
+        "lambda:UpdateFunctionCode",
+        "lambda:UpdateFunctionConfiguration",
+        "lambda:UpdateFunctionEventInvokeConfig"
+    ]
+}

@@ -3,10 +3,10 @@
     "PolicyId": "ANPAIXJ26NUGBA3TCV7EC",
     "Arn": "arn:aws:iam::aws:policy/aws-service-role/AmazonSSMServiceRolePolicy",
     "Path": "/aws-service-role/",
-    "DefaultVersionId": "v8",
+    "DefaultVersionId": "v9",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2017-11-13T19:20:08+00:00",
-    "UpdateDate": "2020-07-31T19:21:40+00:00"
+    "UpdateDate": "2020-11-11T19:27:12+00:00"
 }

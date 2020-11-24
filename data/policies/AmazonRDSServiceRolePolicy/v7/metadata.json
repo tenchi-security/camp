@@ -1,5 +1,6 @@
 {
     "VersionId": "v7",
     "IsDefaultVersion": false,
-    "CreateDate": "2020-07-31T01:14:11+00:00"
+    "CreateDate": "2020-07-31T01:14:11+00:00",
+    "PolicyName": "AmazonRDSServiceRolePolicy"
 }

@@ -3,10 +3,10 @@
     "PolicyId": "ANPAJ36CJAE6OYAR4YEK4",
     "Arn": "arn:aws:iam::aws:policy/aws-service-role/AmazonRDSBetaServiceRolePolicy",
     "Path": "/aws-service-role/",
-    "DefaultVersionId": "v4",
+    "DefaultVersionId": "v5",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2018-05-02T19:41:04+00:00",
-    "UpdateDate": "2020-07-28T19:26:48+00:00"
+    "UpdateDate": "2020-11-18T22:40:34+00:00"
 }

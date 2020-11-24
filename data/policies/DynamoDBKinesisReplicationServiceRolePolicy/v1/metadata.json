@@ -1,0 +1,6 @@
+{
+    "VersionId": "v1",
+    "IsDefaultVersion": true,
+    "CreateDate": "2020-11-12T00:43:25+00:00",
+    "PolicyName": "DynamoDBKinesisReplicationServiceRolePolicy"
+}

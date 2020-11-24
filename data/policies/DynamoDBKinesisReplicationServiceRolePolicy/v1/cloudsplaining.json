@@ -1,0 +1,16 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "kinesis",
+        "kms"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "kinesis:PutRecord",
+        "kinesis:PutRecords",
+        "kms:GenerateDataKey"
+    ]
+}

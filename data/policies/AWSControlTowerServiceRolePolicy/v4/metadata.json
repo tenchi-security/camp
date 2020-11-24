@@ -1,5 +1,6 @@
 {
     "VersionId": "v4",
     "IsDefaultVersion": false,
-    "CreateDate": "2020-05-11T23:04:15+00:00"
+    "CreateDate": "2020-05-11T23:04:15+00:00",
+    "PolicyName": "AWSControlTowerServiceRolePolicy"
 }

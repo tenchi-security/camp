@@ -1,5 +1,6 @@
 {
     "VersionId": "v5",
     "IsDefaultVersion": false,
-    "CreateDate": "2019-02-05T18:20:34+00:00"
+    "CreateDate": "2019-02-05T18:20:34+00:00",
+    "PolicyName": "AWSSSOServiceRolePolicy"
 }

@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSServiceCatalogAppRegistryReadOnlyAccess",
+    "PolicyId": "ANPAZKAPJZG4M3SSCJCST",
+    "Arn": "arn:aws:iam::aws:policy/AWSServiceCatalogAppRegistryReadOnlyAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2020-11-12T22:34:32+00:00",
+    "UpdateDate": "2020-11-12T22:34:32+00:00"
+}

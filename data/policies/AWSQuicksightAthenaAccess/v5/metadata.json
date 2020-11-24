@@ -1,5 +1,6 @@
 {
     "VersionId": "v5",
     "IsDefaultVersion": false,
-    "CreateDate": "2019-08-08T17:51:51+00:00"
+    "CreateDate": "2019-08-08T17:51:51+00:00",
+    "PolicyName": "AWSQuicksightAthenaAccess"
 }

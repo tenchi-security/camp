@@ -1,0 +1,19 @@
+{
+    "ServiceWildcard": [
+        "databrew"
+    ],
+    "ServicesAffected": [
+        "dataexchange",
+        "kms"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "dataexchange:CreateJob",
+        "dataexchange:GetJob",
+        "dataexchange:StartJob",
+        "kms:GenerateDataKey"
+    ]
+}
