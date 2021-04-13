@@ -1,6 +1,0 @@
-{
-    "VersionId": "v10",
-    "IsDefaultVersion": false,
-    "CreateDate": "2019-11-25T19:08:05+00:00",
-    "PolicyName": "AmazonDynamoDBReadOnlyAccess"
-}

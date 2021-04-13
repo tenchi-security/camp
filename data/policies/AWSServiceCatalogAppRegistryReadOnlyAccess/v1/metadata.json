@@ -1,6 +1,0 @@
-{
-    "VersionId": "v1",
-    "IsDefaultVersion": true,
-    "CreateDate": "2020-11-12T22:34:32+00:00",
-    "PolicyName": "AWSServiceCatalogAppRegistryReadOnlyAccess"
-}
