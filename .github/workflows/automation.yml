@@ -1,3 +1,5 @@
+name: 'Camp Automation'
+
 on:
   workflow_dispatch:
 
@@ -22,7 +24,7 @@ jobs:
           aws-region: ${{ secrets.REGION }}
           role-to-assume: ${{ secrets.ROLE_TO_ASSUME }}
           role-duration-seconds: 1200
-          role-session-name: GH-Actions-${{ env.project }}
+          role-session-name: GH-Actions-camp
       
       - name: Who Am I?
         run: aws sts get-caller-identity
