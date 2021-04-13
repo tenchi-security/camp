@@ -1,0 +1,12 @@
+{
+    "PolicyName": "ResourceGroupsandTagEditorFullAccess",
+    "PolicyId": "ANPAJNOS54ZFXN4T2Y34A",
+    "Arn": "arn:aws:iam::aws:policy/ResourceGroupsandTagEditorFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v5",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2015-02-06T18:39:53+00:00",
+    "UpdateDate": "2019-10-02T23:57:57+00:00"
+}

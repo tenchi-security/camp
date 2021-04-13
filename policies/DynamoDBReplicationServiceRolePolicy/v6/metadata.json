@@ -1,0 +1,6 @@
+{
+    "VersionId": "v6",
+    "IsDefaultVersion": true,
+    "CreateDate": "2020-09-09T18:43:04+00:00",
+    "PolicyName": "DynamoDBReplicationServiceRolePolicy"
+}

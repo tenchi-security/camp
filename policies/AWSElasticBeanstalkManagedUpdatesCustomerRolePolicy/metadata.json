@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSElasticBeanstalkManagedUpdatesCustomerRolePolicy",
+    "PolicyId": "ANPAZKAPJZG4AKB7QD2CZ",
+    "Arn": "arn:aws:iam::aws:policy/AWSElasticBeanstalkManagedUpdatesCustomerRolePolicy",
+    "Path": "/",
+    "DefaultVersionId": "v2",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2021-03-03T22:18:00+00:00",
+    "UpdateDate": "2021-03-09T22:36:04+00:00"
+}

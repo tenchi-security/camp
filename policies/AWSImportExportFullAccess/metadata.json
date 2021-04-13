@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSImportExportFullAccess",
+    "PolicyId": "ANPAJCQCT4JGTLC6722MQ",
+    "Arn": "arn:aws:iam::aws:policy/AWSImportExportFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2015-02-06T18:40:43+00:00",
+    "UpdateDate": "2015-02-06T18:40:43+00:00"
+}

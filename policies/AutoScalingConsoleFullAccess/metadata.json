@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AutoScalingConsoleFullAccess",
+    "PolicyId": "ANPAIYEN6FJGYYWJFFCZW",
+    "Arn": "arn:aws:iam::aws:policy/AutoScalingConsoleFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v2",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2017-01-12T19:43:16+00:00",
+    "UpdateDate": "2018-02-06T23:15:36+00:00"
+}

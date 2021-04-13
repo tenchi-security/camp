@@ -1,0 +1,28 @@
+{
+    "ServiceWildcard": [
+        "discovery",
+        "mgh"
+    ],
+    "ServicesAffected": [
+        "iam",
+        "mgh"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:CreateServiceLinkedRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "iam:CreateServiceLinkedRole",
+        "mgh:AssociateCreatedArtifact",
+        "mgh:AssociateDiscoveredResource",
+        "mgh:CreateProgressUpdateStream",
+        "mgh:DeleteProgressUpdateStream",
+        "mgh:DisassociateCreatedArtifact",
+        "mgh:DisassociateDiscoveredResource",
+        "mgh:ImportMigrationTask",
+        "mgh:NotifyMigrationTaskState",
+        "mgh:PutResourceAttributes"
+    ]
+}

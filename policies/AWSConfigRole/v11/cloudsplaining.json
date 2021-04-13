@@ -1,0 +1,21 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "config",
+        "s3"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [
+        "s3:GetObject"
+    ],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "config:PutAggregationAuthorization",
+        "config:PutConfigRule",
+        "config:PutConfigurationAggregator",
+        "config:PutRemediationConfigurations",
+        "config:PutStoredQuery",
+        "s3:GetObject"
+    ]
+}

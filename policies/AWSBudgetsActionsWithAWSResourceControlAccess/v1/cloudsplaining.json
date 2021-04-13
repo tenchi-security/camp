@@ -1,0 +1,23 @@
+{
+    "ServiceWildcard": [
+        "budgets"
+    ],
+    "ServicesAffected": [
+        "budgets",
+        "iam"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:PassRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "budgets:CreateBudgetAction",
+        "budgets:DeleteBudgetAction",
+        "budgets:ExecuteBudgetAction",
+        "budgets:ModifyBudget",
+        "budgets:UpdateBudgetAction",
+        "iam:PassRole"
+    ]
+}

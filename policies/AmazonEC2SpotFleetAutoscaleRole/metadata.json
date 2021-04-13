@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonEC2SpotFleetAutoscaleRole",
+    "PolicyId": "ANPAIMFFRMIOBGDP2TAVE",
+    "Arn": "arn:aws:iam::aws:policy/service-role/AmazonEC2SpotFleetAutoscaleRole",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v3",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2016-08-19T18:27:22+00:00",
+    "UpdateDate": "2019-02-18T19:17:03+00:00"
+}

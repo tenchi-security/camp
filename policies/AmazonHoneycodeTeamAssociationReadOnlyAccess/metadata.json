@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonHoneycodeTeamAssociationReadOnlyAccess",
+    "PolicyId": "ANPAZKAPJZG4KRI4FOLPG",
+    "Arn": "arn:aws:iam::aws:policy/AmazonHoneycodeTeamAssociationReadOnlyAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2020-06-24T20:27:46+00:00",
+    "UpdateDate": "2020-06-24T20:27:46+00:00"
+}

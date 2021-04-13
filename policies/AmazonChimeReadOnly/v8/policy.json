@@ -1,0 +1,50 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Action": [
+                "chime:ListAccounts",
+                "chime:GetAccount",
+                "chime:GetAccountSettings",
+                "chime:ListUsers",
+                "chime:GetUser",
+                "chime:GetUserByEmail",
+                "chime:ListDomains",
+                "chime:GetDomain",
+                "chime:ListGroups",
+                "chime:ListDirectories",
+                "chime:ListCDRBucket",
+                "chime:GetCDRBucket",
+                "chime:ListDelegates",
+                "chime:GetAccountResource",
+                "chime:ListAccountUsageReportData",
+                "chime:GetUserActivityReportData",
+                "chime:GetGlobalSettings",
+                "chime:GetPhoneNumber",
+                "chime:GetPhoneNumberOrder",
+                "chime:GetPhoneNumberSettings",
+                "chime:GetUserSettings",
+                "chime:GetVoiceConnector",
+                "chime:GetVoiceConnectorOrigination",
+                "chime:GetVoiceConnectorTermination",
+                "chime:GetVoiceConnectorTerminationHealth",
+                "chime:GetVoiceConnectorStreamingConfiguration",
+                "chime:GetVoiceConnectorLoggingConfiguration",
+                "chime:GetVoiceConnectorGroup",
+                "chime:ListPhoneNumberOrders",
+                "chime:ListPhoneNumbers",
+                "chime:ListVoiceConnectorTerminationCredentials",
+                "chime:ListVoiceConnectors",
+                "chime:ListVoiceConnectorGroups",
+                "chime:SearchAvailablePhoneNumbers",
+                "chime:GetTelephonyLimits",
+                "chime:ListCallingRegions",
+                "chime:GetBot",
+                "chime:ListBots",
+                "chime:GetEventsConfiguration"
+            ],
+            "Effect": "Allow",
+            "Resource": "*"
+        }
+    ]
+}

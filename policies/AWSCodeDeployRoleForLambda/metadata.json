@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSCodeDeployRoleForLambda",
+    "PolicyId": "ANPAJA3RQZIKNOSJ4ZQSA",
+    "Arn": "arn:aws:iam::aws:policy/service-role/AWSCodeDeployRoleForLambda",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v3",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2017-11-28T14:05:44+00:00",
+    "UpdateDate": "2019-12-03T19:53:10+00:00"
+}

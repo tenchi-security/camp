@@ -1,0 +1,51 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "cognito-idp",
+        "connect",
+        "ec2",
+        "ecr",
+        "gamelift",
+        "lightsail",
+        "redshift",
+        "s3",
+        "ssm",
+        "sts"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "lightsail:GetRelationalDatabaseMasterUserPassword"
+    ],
+    "DataExfiltration": [
+        "s3:GetObject",
+        "ssm:GetParameter",
+        "ssm:GetParameters",
+        "ssm:GetParametersByPath"
+    ],
+    "CredentialsExposure": [
+        "cognito-idp:GetSigningCertificate",
+        "connect:GetFederationToken",
+        "connect:GetFederationTokens",
+        "ec2:GetPasswordData",
+        "ecr:GetAuthorizationToken",
+        "gamelift:RequestUploadCredentials",
+        "gamelift:GetInstanceAccess",
+        "lightsail:GetInstanceAccessDetails",
+        "lightsail:DownloadDefaultKeyPair",
+        "lightsail:GetRelationalDatabaseMasterUserPassword",
+        "redshift:GetClusterCredentials",
+        "sts:GetFederationToken",
+        "sts:GetSessionToken"
+    ],
+    "InfrastructureModification": [
+        "connect:GetFederationTokens",
+        "gamelift:RequestUploadCredentials",
+        "lightsail:DownloadDefaultKeyPair",
+        "lightsail:GetInstanceAccessDetails",
+        "redshift:GetClusterCredentials",
+        "s3:GetObject",
+        "ssm:GetParameter",
+        "ssm:GetParameters",
+        "ssm:GetParametersByPath"
+    ]
+}

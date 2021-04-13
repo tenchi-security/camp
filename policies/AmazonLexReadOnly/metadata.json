@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonLexReadOnly",
+    "PolicyId": "ANPAJGBI5LSMAJNDGBNAM",
+    "Arn": "arn:aws:iam::aws:policy/AmazonLexReadOnly",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2017-04-11T23:13:33+00:00",
+    "UpdateDate": "2017-04-11T23:13:33+00:00"
+}

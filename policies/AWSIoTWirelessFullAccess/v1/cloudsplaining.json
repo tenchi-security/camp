@@ -1,0 +1,39 @@
+{
+    "ServiceWildcard": [
+        "iotwireless"
+    ],
+    "ServicesAffected": [
+        "iotwireless"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "iotwireless:AssociateWirelessDeviceWithThing",
+        "iotwireless:AssociateWirelessGatewayWithCertificate",
+        "iotwireless:AssociateWirelessGatewayWithThing",
+        "iotwireless:CreateDestination",
+        "iotwireless:CreateDeviceProfile",
+        "iotwireless:CreateServiceProfile",
+        "iotwireless:CreateWirelessDevice",
+        "iotwireless:CreateWirelessGateway",
+        "iotwireless:CreateWirelessGatewayTask",
+        "iotwireless:DeleteDestination",
+        "iotwireless:DeleteDeviceProfile",
+        "iotwireless:DeleteServiceProfile",
+        "iotwireless:DeleteWirelessDevice",
+        "iotwireless:DeleteWirelessGateway",
+        "iotwireless:DeleteWirelessGatewayTask",
+        "iotwireless:DisassociateWirelessDeviceFromThing",
+        "iotwireless:DisassociateWirelessGatewayFromCertificate",
+        "iotwireless:DisassociateWirelessGatewayFromThing",
+        "iotwireless:SendDataToWirelessDevice",
+        "iotwireless:TagResource",
+        "iotwireless:TestWirelessDevice",
+        "iotwireless:UntagResource",
+        "iotwireless:UpdateDestination",
+        "iotwireless:UpdateWirelessDevice",
+        "iotwireless:UpdateWirelessGateway"
+    ]
+}

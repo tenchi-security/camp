@@ -1,0 +1,17 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "logs",
+        "organizations",
+        "servicecatalog"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "logs:CreateLogGroup",
+        "organizations:MoveAccount",
+        "servicecatalog:AssociatePrincipalWithPortfolio"
+    ]
+}

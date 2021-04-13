@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonESReadOnlyAccess",
+    "PolicyId": "ANPAJUDMRLOQ7FPAR46FQ",
+    "Arn": "arn:aws:iam::aws:policy/AmazonESReadOnlyAccess",
+    "Path": "/",
+    "DefaultVersionId": "v2",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2015-10-01T19:18:24+00:00",
+    "UpdateDate": "2018-10-03T03:32:56+00:00"
+}

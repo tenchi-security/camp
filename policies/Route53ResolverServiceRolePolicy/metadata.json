@@ -1,0 +1,12 @@
+{
+    "PolicyName": "Route53ResolverServiceRolePolicy",
+    "PolicyId": "ANPAZKAPJZG4AEMJZANMJ",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/Route53ResolverServiceRolePolicy",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2020-08-12T17:47:24+00:00",
+    "UpdateDate": "2020-08-12T17:47:24+00:00"
+}

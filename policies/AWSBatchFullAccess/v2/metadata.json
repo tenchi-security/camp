@@ -1,0 +1,6 @@
+{
+    "VersionId": "v2",
+    "IsDefaultVersion": false,
+    "CreateDate": "2016-12-13T00:38:59+00:00",
+    "PolicyName": "AWSBatchFullAccess"
+}

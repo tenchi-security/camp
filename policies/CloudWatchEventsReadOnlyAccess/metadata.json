@@ -1,0 +1,12 @@
+{
+    "PolicyName": "CloudWatchEventsReadOnlyAccess",
+    "PolicyId": "ANPAIILJPXXA6F7GYLYBS",
+    "Arn": "arn:aws:iam::aws:policy/CloudWatchEventsReadOnlyAccess",
+    "Path": "/",
+    "DefaultVersionId": "v2",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2016-01-14T18:27:18+00:00",
+    "UpdateDate": "2017-08-10T17:25:34+00:00"
+}

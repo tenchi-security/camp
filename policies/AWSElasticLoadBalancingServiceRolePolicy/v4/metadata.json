@@ -1,0 +1,6 @@
+{
+    "VersionId": "v4",
+    "IsDefaultVersion": false,
+    "CreateDate": "2019-10-07T22:55:16+00:00",
+    "PolicyName": "AWSElasticLoadBalancingServiceRolePolicy"
+}

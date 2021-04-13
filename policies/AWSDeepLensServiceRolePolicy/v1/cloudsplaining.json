@@ -1,0 +1,30 @@
+{
+    "ServiceWildcard": [
+        "deeplens"
+    ],
+    "ServicesAffected": [
+        "deeplens",
+        "iam",
+        "iot",
+        "s3"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "deeplens:AssociateServiceRoleToAccount",
+        "iam:PassRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "deeplens:DeleteModel",
+        "deeplens:DeleteProject",
+        "deeplens:DeployProject",
+        "deeplens:DeregisterDevice",
+        "deeplens:RemoveProject",
+        "deeplens:UpdateProject",
+        "iam:PassRole",
+        "iot:CreatePolicy",
+        "iot:CreatePolicyVersion",
+        "s3:CreateBucket"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSMarketplaceManageSubscriptions",
+    "PolicyId": "ANPAJRDW2WIFN7QLUAKBQ",
+    "Arn": "arn:aws:iam::aws:policy/AWSMarketplaceManageSubscriptions",
+    "Path": "/",
+    "DefaultVersionId": "v2",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2015-02-06T18:40:32+00:00",
+    "UpdateDate": "2019-10-28T21:49:43+00:00"
+}

@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSIoTOTAUpdate",
+    "PolicyId": "ANPAJLJYWX53STBZFPUEY",
+    "Arn": "arn:aws:iam::aws:policy/service-role/AWSIoTOTAUpdate",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2017-12-20T20:36:53+00:00",
+    "UpdateDate": "2017-12-20T20:36:53+00:00"
+}

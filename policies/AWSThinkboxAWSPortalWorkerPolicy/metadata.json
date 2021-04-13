@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSThinkboxAWSPortalWorkerPolicy",
+    "PolicyId": "ANPAZKAPJZG4PI3G53MMS",
+    "Arn": "arn:aws:iam::aws:policy/AWSThinkboxAWSPortalWorkerPolicy",
+    "Path": "/",
+    "DefaultVersionId": "v4",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2020-05-27T19:15:05+00:00",
+    "UpdateDate": "2020-12-07T23:27:47+00:00"
+}

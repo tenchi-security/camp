@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonEMRFullAccessPolicy_v2",
+    "PolicyId": "ANPAZKAPJZG4BK4MMWW4W",
+    "Arn": "arn:aws:iam::aws:policy/AmazonEMRFullAccessPolicy_v2",
+    "Path": "/",
+    "DefaultVersionId": "v2",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2021-03-12T01:50:29+00:00",
+    "UpdateDate": "2021-03-23T16:57:10+00:00"
+}

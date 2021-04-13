@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonSageMakerFeatureStoreAccess",
+    "PolicyId": "ANPAZKAPJZG4FO5MQNGJU",
+    "Arn": "arn:aws:iam::aws:policy/AmazonSageMakerFeatureStoreAccess",
+    "Path": "/",
+    "DefaultVersionId": "v2",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2020-12-01T16:24:05+00:00",
+    "UpdateDate": "2021-02-24T02:18:50+00:00"
+}

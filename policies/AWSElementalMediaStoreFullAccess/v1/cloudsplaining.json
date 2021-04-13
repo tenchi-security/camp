@@ -1,0 +1,14 @@
+{
+    "ServiceWildcard": [
+        "mediastore"
+    ],
+    "ServicesAffected": [],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "mediastore:DeleteContainerPolicy",
+        "mediastore:PutContainerPolicy"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": []
+}

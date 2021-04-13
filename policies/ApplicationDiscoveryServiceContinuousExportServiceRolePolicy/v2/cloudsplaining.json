@@ -1,0 +1,20 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "firehose",
+        "glue",
+        "logs"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "firehose:CreateDeliveryStream",
+        "glue:CreateDatabase",
+        "glue:CreateTable",
+        "glue:UpdateDatabase",
+        "glue:UpdateTable",
+        "logs:CreateLogGroup"
+    ]
+}

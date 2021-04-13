@@ -1,0 +1,15 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "machinelearning"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "machinelearning:CreateBatchPrediction",
+        "machinelearning:DeleteBatchPrediction",
+        "machinelearning:UpdateBatchPrediction"
+    ]
+}

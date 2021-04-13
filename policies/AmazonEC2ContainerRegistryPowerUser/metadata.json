@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonEC2ContainerRegistryPowerUser",
+    "PolicyId": "ANPAJDNE5PIHROIBGGDDW",
+    "Arn": "arn:aws:iam::aws:policy/AmazonEC2ContainerRegistryPowerUser",
+    "Path": "/",
+    "DefaultVersionId": "v3",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2015-12-21T17:05:33+00:00",
+    "UpdateDate": "2019-12-10T20:48:08+00:00"
+}

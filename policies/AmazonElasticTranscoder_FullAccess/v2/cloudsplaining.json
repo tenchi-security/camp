@@ -1,0 +1,27 @@
+{
+    "ServiceWildcard": [
+        "elastictranscoder"
+    ],
+    "ServicesAffected": [
+        "elastictranscoder",
+        "iam"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:PassRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "elastictranscoder:CancelJob",
+        "elastictranscoder:CreateJob",
+        "elastictranscoder:CreatePipeline",
+        "elastictranscoder:CreatePreset",
+        "elastictranscoder:DeletePipeline",
+        "elastictranscoder:DeletePreset",
+        "elastictranscoder:UpdatePipeline",
+        "elastictranscoder:UpdatePipelineNotifications",
+        "elastictranscoder:UpdatePipelineStatus",
+        "iam:PassRole"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "ServiceWildcard": [
+        "monitron"
+    ],
+    "ServicesAffected": [
+        "iam",
+        "kms",
+        "monitron"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:CreateServiceLinkedRole",
+        "monitron:AssociateProjectAdminUser",
+        "monitron:DisassociateProjectAdminUser",
+        "monitron:ListProjectAdminUsers",
+        "kms:CreateGrant"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "iam:CreateServiceLinkedRole",
+        "kms:CreateGrant",
+        "monitron:AssociateProjectAdminUser",
+        "monitron:DeleteProject",
+        "monitron:DisassociateProjectAdminUser",
+        "monitron:ListProjectAdminUsers",
+        "monitron:TagResource",
+        "monitron:UntagResource",
+        "monitron:UpdateProject"
+    ]
+}

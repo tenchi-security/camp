@@ -1,0 +1,6 @@
+{
+    "VersionId": "v1",
+    "IsDefaultVersion": true,
+    "CreateDate": "2020-05-19T20:01:21+00:00",
+    "PolicyName": "AWSIoTSiteWiseMonitorPortalAccess"
+}

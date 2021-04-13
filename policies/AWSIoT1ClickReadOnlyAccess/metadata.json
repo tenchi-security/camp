@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSIoT1ClickReadOnlyAccess",
+    "PolicyId": "ANPAI35VTLD3EBNY2JGXS",
+    "Arn": "arn:aws:iam::aws:policy/AWSIoT1ClickReadOnlyAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2018-05-11T21:49:24+00:00",
+    "UpdateDate": "2018-05-11T21:49:24+00:00"
+}

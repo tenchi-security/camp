@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSCodeDeployRoleForCloudFormation",
+    "PolicyId": "ANPAZKAPJZG4CO24UTMFH",
+    "Arn": "arn:aws:iam::aws:policy/service-role/AWSCodeDeployRoleForCloudFormation",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2020-05-19T17:12:52+00:00",
+    "UpdateDate": "2020-05-19T17:12:52+00:00"
+}

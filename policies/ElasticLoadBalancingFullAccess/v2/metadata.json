@@ -1,0 +1,6 @@
+{
+    "VersionId": "v2",
+    "IsDefaultVersion": false,
+    "CreateDate": "2018-12-03T18:07:30+00:00",
+    "PolicyName": "ElasticLoadBalancingFullAccess"
+}

@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSDataPipeline_FullAccess",
+    "PolicyId": "ANPAIXOFIG7RSBMRPHXJ4",
+    "Arn": "arn:aws:iam::aws:policy/AWSDataPipeline_FullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v2",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2017-01-19T23:14:54+00:00",
+    "UpdateDate": "2017-08-17T18:48:39+00:00"
+}

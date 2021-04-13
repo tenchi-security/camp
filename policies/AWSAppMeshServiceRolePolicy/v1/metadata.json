@@ -1,0 +1,6 @@
+{
+    "VersionId": "v1",
+    "IsDefaultVersion": false,
+    "CreateDate": "2019-06-03T18:30:51+00:00",
+    "PolicyName": "AWSAppMeshServiceRolePolicy"
+}

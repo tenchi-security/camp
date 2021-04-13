@@ -1,0 +1,28 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": [
+                "aws-marketplace:CreatePrivateMarketplace",
+                "aws-marketplace:StartPrivateMarketplace",
+                "aws-marketplace:StopPrivateMarketplace",
+                "aws-marketplace:DescribePrivateMarketplaceStatus",
+                "aws-marketplace:AssociateProductsWithPrivateMarketplace",
+                "aws-marketplace:DisassociateProductsFromPrivateMarketplace",
+                "aws-marketplace:ListPrivateMarketplaceProducts",
+                "aws-marketplace:DescribePrivateMarketplaceProducts",
+                "aws-marketplace:ListPrivateMarketplaceRequests",
+                "aws-marketplace:DescribePrivateMarketplaceRequests",
+                "aws-marketplace:UpdatePrivateMarketplaceSettings",
+                "aws-marketplace:DescribePrivateMarketplaceSettings",
+                "aws-marketplace:CreatePrivateMarketplaceProfile",
+                "aws-marketplace:UpdatePrivateMarketplaceProfile",
+                "aws-marketplace:DescribePrivateMarketplaceProfile"
+            ],
+            "Resource": [
+                "*"
+            ]
+        }
+    ]
+}

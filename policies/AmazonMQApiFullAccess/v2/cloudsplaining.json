@@ -1,0 +1,34 @@
+{
+    "ServiceWildcard": [
+        "mq"
+    ],
+    "ServicesAffected": [
+        "ec2",
+        "iam",
+        "mq"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "ec2:CreateNetworkInterfacePermission",
+        "ec2:DeleteNetworkInterfacePermission",
+        "iam:CreateServiceLinkedRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "ec2:CreateNetworkInterface",
+        "ec2:CreateNetworkInterfacePermission",
+        "ec2:DeleteNetworkInterface",
+        "ec2:DetachNetworkInterface",
+        "iam:CreateServiceLinkedRole",
+        "mq:CreateTags",
+        "mq:CreateUser",
+        "mq:DeleteBroker",
+        "mq:DeleteTags",
+        "mq:DeleteUser",
+        "mq:RebootBroker",
+        "mq:UpdateBroker",
+        "mq:UpdateConfiguration",
+        "mq:UpdateUser"
+    ]
+}

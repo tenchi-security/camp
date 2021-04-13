@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonWorkMailReadOnlyAccess",
+    "PolicyId": "ANPAJHF7J65E2QFKCWAJM",
+    "Arn": "arn:aws:iam::aws:policy/AmazonWorkMailReadOnlyAccess",
+    "Path": "/",
+    "DefaultVersionId": "v4",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2015-02-06T18:40:42+00:00",
+    "UpdateDate": "2019-07-25T08:24:50+00:00"
+}

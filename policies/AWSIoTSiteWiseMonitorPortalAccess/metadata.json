@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSIoTSiteWiseMonitorPortalAccess",
+    "PolicyId": "ANPAZKAPJZG4E6CZDALWJ",
+    "Arn": "arn:aws:iam::aws:policy/service-role/AWSIoTSiteWiseMonitorPortalAccess",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2020-05-19T20:01:21+00:00",
+    "UpdateDate": "2020-05-19T20:01:21+00:00"
+}

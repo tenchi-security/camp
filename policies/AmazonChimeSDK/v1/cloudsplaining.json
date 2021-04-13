@@ -1,0 +1,16 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "chime"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "chime:BatchCreateAttendee",
+        "chime:CreateAttendee",
+        "chime:DeleteAttendee",
+        "chime:DeleteMeeting"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonDynamoDBFullAccess",
+    "PolicyId": "ANPAINUGF2JSOSUY76KYA",
+    "Arn": "arn:aws:iam::aws:policy/AmazonDynamoDBFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v15",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2015-02-06T18:40:11+00:00",
+    "UpdateDate": "2021-01-29T17:38:30+00:00"
+}

@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSIoTLogging",
+    "PolicyId": "ANPAI6R6Z2FHHGS454W7W",
+    "Arn": "arn:aws:iam::aws:policy/service-role/AWSIoTLogging",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2015-10-08T15:17:25+00:00",
+    "UpdateDate": "2015-10-08T15:17:25+00:00"
+}

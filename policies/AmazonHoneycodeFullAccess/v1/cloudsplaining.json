@@ -1,0 +1,20 @@
+{
+    "ServiceWildcard": [
+        "honeycode"
+    ],
+    "ServicesAffected": [
+        "honeycode"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "honeycode:BatchCreateTableRows",
+        "honeycode:BatchDeleteTableRows",
+        "honeycode:BatchUpdateTableRows",
+        "honeycode:BatchUpsertTableRows",
+        "honeycode:InvokeScreenAutomation",
+        "honeycode:StartTableDataImportJob"
+    ]
+}

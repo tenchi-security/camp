@@ -1,0 +1,28 @@
+{
+    "ServiceWildcard": [
+        "es"
+    ],
+    "ServicesAffected": [
+        "es"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "es:CreateElasticsearchDomain",
+        "es:UpdateElasticsearchDomainConfig"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "es:AddTags",
+        "es:CreateElasticsearchDomain",
+        "es:CreateOutboundCrossClusterSearchConnection",
+        "es:DeleteElasticsearchDomain",
+        "es:ESHttpDelete",
+        "es:ESHttpPatch",
+        "es:ESHttpPost",
+        "es:ESHttpPut",
+        "es:RemoveTags",
+        "es:UpdateElasticsearchDomainConfig",
+        "es:UpgradeElasticsearchDomain"
+    ]
+}

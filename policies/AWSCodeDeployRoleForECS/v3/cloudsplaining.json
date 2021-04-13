@@ -1,0 +1,29 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "ecs",
+        "elasticloadbalancing",
+        "iam",
+        "lambda",
+        "s3",
+        "sns"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:PassRole"
+    ],
+    "DataExfiltration": [
+        "s3:GetObject"
+    ],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "ecs:DeleteTaskSet",
+        "ecs:UpdateServicePrimaryTaskSet",
+        "elasticloadbalancing:ModifyListener",
+        "elasticloadbalancing:ModifyRule",
+        "iam:PassRole",
+        "lambda:InvokeFunction",
+        "s3:GetObject",
+        "sns:Publish"
+    ]
+}

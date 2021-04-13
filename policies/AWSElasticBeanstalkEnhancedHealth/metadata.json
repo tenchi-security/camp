@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSElasticBeanstalkEnhancedHealth",
+    "PolicyId": "ANPAIH5EFJNMOGUUTKLFE",
+    "Arn": "arn:aws:iam::aws:policy/service-role/AWSElasticBeanstalkEnhancedHealth",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v4",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2016-02-08T23:17:27+00:00",
+    "UpdateDate": "2018-04-09T22:12:53+00:00"
+}

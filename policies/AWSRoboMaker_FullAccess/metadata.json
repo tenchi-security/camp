@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSRoboMaker_FullAccess",
+    "PolicyId": "ANPAZKAPJZG4FACURHLCA",
+    "Arn": "arn:aws:iam::aws:policy/AWSRoboMaker_FullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2020-09-10T18:34:18+00:00",
+    "UpdateDate": "2020-09-10T18:34:18+00:00"
+}

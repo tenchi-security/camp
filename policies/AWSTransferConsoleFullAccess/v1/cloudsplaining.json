@@ -1,0 +1,29 @@
+{
+    "ServiceWildcard": [
+        "transfer"
+    ],
+    "ServicesAffected": [
+        "iam",
+        "transfer"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:PassRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "iam:PassRole",
+        "transfer:CreateUser",
+        "transfer:DeleteServer",
+        "transfer:DeleteSshPublicKey",
+        "transfer:DeleteUser",
+        "transfer:ImportSshPublicKey",
+        "transfer:StartServer",
+        "transfer:StopServer",
+        "transfer:TagResource",
+        "transfer:UntagResource",
+        "transfer:UpdateServer",
+        "transfer:UpdateUser"
+    ]
+}

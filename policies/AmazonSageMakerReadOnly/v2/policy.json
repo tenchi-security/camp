@@ -1,0 +1,27 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": [
+                "sagemaker:DescribeEndpoint",
+                "sagemaker:DescribeEndpointConfig",
+                "sagemaker:DescribeModel",
+                "sagemaker:DescribeTrainingJob",
+                "sagemaker:DescribeNotebookInstance",
+                "sagemaker:ListEndpointConfigs",
+                "sagemaker:ListEndpoints",
+                "sagemaker:ListModels",
+                "sagemaker:ListTags",
+                "sagemaker:ListTrainingJobs",
+                "sagemaker:ListNotebookInstances",
+                "application-autoscaling:DescribeScalableTargets",
+                "application-autoscaling:DescribeScalingActivities",
+                "application-autoscaling:DescribeScalingPolicies",
+                "application-autoscaling:DescribeScheduledActions",
+                "cloudwatch:DescribeAlarms"
+            ],
+            "Resource": "*"
+        }
+    ]
+}

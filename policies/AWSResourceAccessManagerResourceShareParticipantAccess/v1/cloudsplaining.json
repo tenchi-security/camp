@@ -1,0 +1,17 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "ram"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "ram:AcceptResourceShareInvitation",
+        "ram:RejectResourceShareInvitation"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "ram:AcceptResourceShareInvitation",
+        "ram:RejectResourceShareInvitation"
+    ]
+}

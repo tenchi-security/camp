@@ -1,0 +1,6 @@
+{
+    "VersionId": "v1",
+    "IsDefaultVersion": true,
+    "CreateDate": "2021-02-23T00:10:40+00:00",
+    "PolicyName": "AWSGrafanaConsoleReadOnlyAccess"
+}

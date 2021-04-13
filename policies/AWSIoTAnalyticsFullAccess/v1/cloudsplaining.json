@@ -1,0 +1,33 @@
+{
+    "ServiceWildcard": [
+        "iotanalytics"
+    ],
+    "ServicesAffected": [
+        "iotanalytics"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "iotanalytics:BatchPutMessage",
+        "iotanalytics:CancelPipelineReprocessing",
+        "iotanalytics:CreateChannel",
+        "iotanalytics:CreateDataset",
+        "iotanalytics:CreateDatasetContent",
+        "iotanalytics:CreateDatastore",
+        "iotanalytics:CreatePipeline",
+        "iotanalytics:DeleteChannel",
+        "iotanalytics:DeleteDataset",
+        "iotanalytics:DeleteDatasetContent",
+        "iotanalytics:DeleteDatastore",
+        "iotanalytics:DeletePipeline",
+        "iotanalytics:StartPipelineReprocessing",
+        "iotanalytics:TagResource",
+        "iotanalytics:UntagResource",
+        "iotanalytics:UpdateChannel",
+        "iotanalytics:UpdateDataset",
+        "iotanalytics:UpdateDatastore",
+        "iotanalytics:UpdatePipeline"
+    ]
+}

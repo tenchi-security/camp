@@ -1,0 +1,6 @@
+{
+    "VersionId": "v2",
+    "IsDefaultVersion": false,
+    "CreateDate": "2017-02-14T21:25:53+00:00",
+    "PolicyName": "AmazonRoute53FullAccess"
+}

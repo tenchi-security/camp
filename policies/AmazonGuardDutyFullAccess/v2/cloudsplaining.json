@@ -1,0 +1,49 @@
+{
+    "ServiceWildcard": [
+        "guardduty"
+    ],
+    "ServicesAffected": [
+        "guardduty",
+        "iam",
+        "organizations"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:CreateServiceLinkedRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "guardduty:AcceptInvitation",
+        "guardduty:ArchiveFindings",
+        "guardduty:CreateFilter",
+        "guardduty:CreateIPSet",
+        "guardduty:CreateMembers",
+        "guardduty:CreatePublishingDestination",
+        "guardduty:CreateSampleFindings",
+        "guardduty:CreateThreatIntelSet",
+        "guardduty:DeleteDetector",
+        "guardduty:DeleteFilter",
+        "guardduty:DeleteIPSet",
+        "guardduty:DeleteMembers",
+        "guardduty:DeletePublishingDestination",
+        "guardduty:DeleteThreatIntelSet",
+        "guardduty:DisassociateFromMasterAccount",
+        "guardduty:DisassociateMembers",
+        "guardduty:InviteMembers",
+        "guardduty:StartMonitoringMembers",
+        "guardduty:StopMonitoringMembers",
+        "guardduty:TagResource",
+        "guardduty:UnarchiveFindings",
+        "guardduty:UntagResource",
+        "guardduty:UpdateDetector",
+        "guardduty:UpdateFilter",
+        "guardduty:UpdateFindingsFeedback",
+        "guardduty:UpdateIPSet",
+        "guardduty:UpdateOrganizationConfiguration",
+        "guardduty:UpdatePublishingDestination",
+        "guardduty:UpdateThreatIntelSet",
+        "iam:CreateServiceLinkedRole",
+        "organizations:RegisterDelegatedAdministrator"
+    ]
+}

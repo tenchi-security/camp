@@ -1,0 +1,25 @@
+{
+    "ServiceWildcard": [
+        "managedblockchain"
+    ],
+    "ServicesAffected": [
+        "managedblockchain"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "managedblockchain:CreateMember",
+        "managedblockchain:CreateNode",
+        "managedblockchain:CreateProposal",
+        "managedblockchain:DeleteMember",
+        "managedblockchain:DeleteNode",
+        "managedblockchain:RejectInvitation",
+        "managedblockchain:TagResource",
+        "managedblockchain:UntagResource",
+        "managedblockchain:UpdateMember",
+        "managedblockchain:UpdateNode",
+        "managedblockchain:VoteOnProposal"
+    ]
+}

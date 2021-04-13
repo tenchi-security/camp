@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonConnect_FullAccess",
+    "PolicyId": "ANPAZKAPJZG4JXAE7KLRO",
+    "Arn": "arn:aws:iam::aws:policy/AmazonConnect_FullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2020-11-20T19:54:21+00:00",
+    "UpdateDate": "2020-11-20T19:54:21+00:00"
+}

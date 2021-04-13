@@ -1,0 +1,33 @@
+{
+    "ServiceWildcard": [
+        "sqs"
+    ],
+    "ServicesAffected": [
+        "sqs"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "sqs:AddPermission",
+        "sqs:CreateQueue",
+        "sqs:RemovePermission",
+        "sqs:SetQueueAttributes"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "sqs:AddPermission",
+        "sqs:ChangeMessageVisibility",
+        "sqs:ChangeMessageVisibilityBatch",
+        "sqs:CreateQueue",
+        "sqs:DeleteMessage",
+        "sqs:DeleteMessageBatch",
+        "sqs:DeleteQueue",
+        "sqs:PurgeQueue",
+        "sqs:RemovePermission",
+        "sqs:SendMessage",
+        "sqs:SendMessageBatch",
+        "sqs:SetQueueAttributes",
+        "sqs:TagQueue",
+        "sqs:UntagQueue"
+    ]
+}

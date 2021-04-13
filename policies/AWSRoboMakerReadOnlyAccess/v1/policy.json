@@ -1,0 +1,25 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "VisualEditor0",
+            "Effect": "Allow",
+            "Action": [
+                "robomaker:ListDeploymentJobs",
+                "robomaker:BatchDescribeSimulationJob",
+                "robomaker:DescribeFleet",
+                "robomaker:DescribeSimulationApplication",
+                "robomaker:DescribeRobotApplication",
+                "robomaker:ListFleets",
+                "robomaker:ListSimulationJobs",
+                "robomaker:DescribeDeploymentJob",
+                "robomaker:DescribeSimulationJob",
+                "robomaker:DescribeRobot",
+                "robomaker:ListRobots",
+                "robomaker:ListRobotApplications",
+                "robomaker:ListSimulationApplications"
+            ],
+            "Resource": "*"
+        }
+    ]
+}

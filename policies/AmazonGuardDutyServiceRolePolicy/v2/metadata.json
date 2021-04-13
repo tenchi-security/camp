@@ -1,0 +1,6 @@
+{
+    "VersionId": "v2",
+    "IsDefaultVersion": false,
+    "CreateDate": "2020-04-20T16:01:34+00:00",
+    "PolicyName": "AmazonGuardDutyServiceRolePolicy"
+}

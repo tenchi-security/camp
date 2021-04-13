@@ -1,0 +1,30 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "autoscaling",
+        "ec2",
+        "sns"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "autoscaling:AttachLoadBalancers",
+        "autoscaling:CompleteLifecycleAction",
+        "autoscaling:CreateAutoScalingGroup",
+        "autoscaling:DeleteAutoScalingGroup",
+        "autoscaling:DeleteLifecycleHook",
+        "autoscaling:EnableMetricsCollection",
+        "autoscaling:PutLifecycleHook",
+        "autoscaling:PutNotificationConfiguration",
+        "autoscaling:PutScalingPolicy",
+        "autoscaling:PutScheduledUpdateGroupAction",
+        "autoscaling:RecordLifecycleActionHeartbeat",
+        "autoscaling:ResumeProcesses",
+        "autoscaling:SuspendProcesses",
+        "autoscaling:UpdateAutoScalingGroup",
+        "ec2:TerminateInstances",
+        "sns:Publish"
+    ]
+}

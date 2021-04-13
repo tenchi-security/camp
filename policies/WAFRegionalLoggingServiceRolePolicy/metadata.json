@@ -1,0 +1,12 @@
+{
+    "PolicyName": "WAFRegionalLoggingServiceRolePolicy",
+    "PolicyId": "ANPAJE43HAZMEH4CI6SU2",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/WAFRegionalLoggingServiceRolePolicy",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2018-08-24T18:40:55+00:00",
+    "UpdateDate": "2018-08-24T18:40:55+00:00"
+}

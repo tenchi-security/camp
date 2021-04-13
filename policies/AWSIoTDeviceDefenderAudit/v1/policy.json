@@ -1,0 +1,28 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": [
+                "iot:GetLoggingOptions",
+                "iot:GetV2LoggingOptions",
+                "iot:ListCACertificates",
+                "iot:ListCertificates",
+                "iot:DescribeCACertificate",
+                "iot:DescribeCertificate",
+                "iot:ListPolicies",
+                "iot:GetPolicy",
+                "iot:GetEffectivePolicies",
+                "cognito-identity:GetIdentityPoolRoles",
+                "iam:ListRolePolicies",
+                "iam:ListAttachedRolePolicies",
+                "iam:GetPolicy",
+                "iam:GetPolicyVersion",
+                "iam:GetRolePolicy"
+            ],
+            "Resource": [
+                "*"
+            ]
+        }
+    ]
+}

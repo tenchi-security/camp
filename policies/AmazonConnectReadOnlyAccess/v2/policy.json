@@ -1,0 +1,23 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": [
+                "connect:Get*",
+                "connect:Describe*",
+                "connect:List*",
+                "ds:DescribeDirectories"
+            ],
+            "Resource": "*"
+        },
+        {
+            "Effect": "Deny",
+            "Action": [
+                "connect:GetFederationToken",
+                "connect:GetFederationTokens"
+            ],
+            "Resource": "*"
+        }
+    ]
+}

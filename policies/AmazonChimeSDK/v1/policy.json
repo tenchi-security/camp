@@ -1,0 +1,20 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Action": [
+                "chime:CreateMeeting",
+                "chime:DeleteMeeting",
+                "chime:GetMeeting",
+                "chime:ListMeetings",
+                "chime:CreateAttendee",
+                "chime:BatchCreateAttendee",
+                "chime:DeleteAttendee",
+                "chime:GetAttendee",
+                "chime:ListAttendees"
+            ],
+            "Effect": "Allow",
+            "Resource": "*"
+        }
+    ]
+}

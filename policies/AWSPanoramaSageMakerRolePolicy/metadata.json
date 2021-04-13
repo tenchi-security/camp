@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSPanoramaSageMakerRolePolicy",
+    "PolicyId": "ANPAZKAPJZG4O23KYQMI2",
+    "Arn": "arn:aws:iam::aws:policy/service-role/AWSPanoramaSageMakerRolePolicy",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2020-12-01T13:13:54+00:00",
+    "UpdateDate": "2020-12-01T13:13:54+00:00"
+}

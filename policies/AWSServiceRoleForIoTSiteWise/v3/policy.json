@@ -1,0 +1,73 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Action": "iotanalytics:ExecuteQuery",
+            "Effect": "Allow",
+            "Resource": "arn:aws:iotanalytics:*:*:datastore-index/*"
+        },
+        {
+            "Action": [
+                "greengrass:CreateCoreDefinitionVersion",
+                "greengrass:CreateDeployment",
+                "greengrass:CreateFunctionDefinition",
+                "greengrass:CreateFunctionDefinitionVersion",
+                "greengrass:CreateGroupVersion",
+                "greengrass:CreateLoggerDefinition",
+                "greengrass:CreateLoggerDefinitionVersion",
+                "greengrass:CreateResourceDefinition",
+                "greengrass:CreateResourceDefinitionVersion",
+                "greengrass:GetAssociatedRole",
+                "greengrass:GetCoreDefinition",
+                "greengrass:GetCoreDefinitionVersion",
+                "greengrass:GetDeploymentStatus",
+                "greengrass:GetFunctionDefinition",
+                "greengrass:GetFunctionDefinitionVersion",
+                "greengrass:GetGroup",
+                "greengrass:GetGroupVersion",
+                "greengrass:GetLoggerDefinition",
+                "greengrass:GetLoggerDefinitionVersion",
+                "greengrass:GetResourceDefinition",
+                "greengrass:GetResourceDefinitionVersion",
+                "greengrass:ListCoreDefinitions",
+                "greengrass:UpdateCoreDefinition",
+                "greengrass:UpdateFunctionDefinition",
+                "greengrass:UpdateLoggerDefinition",
+                "greengrass:UpdateResourceDefinition"
+            ],
+            "Effect": "Allow",
+            "Resource": "*"
+        },
+        {
+            "Action": [
+                "lambda:CreateAlias",
+                "lambda:CreateFunction",
+                "lambda:GetFunction",
+                "lambda:ListVersionsByFunction",
+                "lambda:UpdateFunctionCode",
+                "lambda:PublishVersion",
+                "lambda:UpdateAlias"
+            ],
+            "Effect": "Allow",
+            "Resource": "arn:aws:lambda:*:*:function:AWSIoTSiteWise*"
+        },
+        {
+            "Action": [
+                "iot:GetThingShadow",
+                "iot:UpdateThingShadow"
+            ],
+            "Effect": "Allow",
+            "Resource": "*"
+        },
+        {
+            "Action": "iam:PassRole",
+            "Effect": "Allow",
+            "Resource": "*",
+            "Condition": {
+                "StringLikeIfExists": {
+                    "iam:PassedToService": "lambda.amazonaws.com"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSCodePipelineFullAccess",
+    "PolicyId": "ANPAJP5LH77KSAT2KHQGG",
+    "Arn": "arn:aws:iam::aws:policy/AWSCodePipelineFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v10",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2015-07-09T16:58:07+00:00",
+    "UpdateDate": "2020-05-21T22:03:13+00:00"
+}

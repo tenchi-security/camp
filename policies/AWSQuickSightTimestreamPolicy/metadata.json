@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSQuickSightTimestreamPolicy",
+    "PolicyId": "ANPAZKAPJZG4CFKVDHQJH",
+    "Arn": "arn:aws:iam::aws:policy/service-role/AWSQuickSightTimestreamPolicy",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2020-09-30T21:47:03+00:00",
+    "UpdateDate": "2020-09-30T21:47:03+00:00"
+}

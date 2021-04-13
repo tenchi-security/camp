@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSMarketplaceMeteringRegisterUsage",
+    "PolicyId": "ANPAZKAPJZG4OIHJX73MZ",
+    "Arn": "arn:aws:iam::aws:policy/AWSMarketplaceMeteringRegisterUsage",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2019-11-21T01:17:54+00:00",
+    "UpdateDate": "2019-11-21T01:17:54+00:00"
+}

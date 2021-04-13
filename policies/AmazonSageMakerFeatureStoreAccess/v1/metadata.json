@@ -1,0 +1,6 @@
+{
+    "VersionId": "v1",
+    "IsDefaultVersion": false,
+    "CreateDate": "2020-12-01T16:24:05+00:00",
+    "PolicyName": "AmazonSageMakerFeatureStoreAccess"
+}

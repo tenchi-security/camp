@@ -1,0 +1,6 @@
+{
+    "VersionId": "v1",
+    "IsDefaultVersion": true,
+    "CreateDate": "2020-12-01T16:34:40+00:00",
+    "PolicyName": "AmazonDevOpsGuruReadOnlyAccess"
+}

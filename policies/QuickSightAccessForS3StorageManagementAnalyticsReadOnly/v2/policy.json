@@ -1,0 +1,23 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": [
+                "s3:GetObject",
+                "s3:GetObjectMetadata"
+            ],
+            "Resource": [
+                "arn:aws:s3:::s3-analytics-export-shared-*"
+            ]
+        },
+        {
+            "Action": [
+                "s3:GetAnalyticsConfiguration",
+                "s3:ListBuckets"
+            ],
+            "Effect": "Allow",
+            "Resource": "*"
+        }
+    ]
+}

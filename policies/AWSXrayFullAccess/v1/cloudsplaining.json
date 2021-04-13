@@ -1,0 +1,24 @@
+{
+    "ServiceWildcard": [
+        "xray"
+    ],
+    "ServicesAffected": [
+        "xray"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "xray:PutEncryptionConfig"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "xray:CreateGroup",
+        "xray:CreateSamplingRule",
+        "xray:DeleteGroup",
+        "xray:DeleteSamplingRule",
+        "xray:TagResource",
+        "xray:UntagResource",
+        "xray:UpdateGroup",
+        "xray:UpdateSamplingRule"
+    ]
+}

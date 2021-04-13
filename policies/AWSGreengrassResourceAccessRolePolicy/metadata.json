@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSGreengrassResourceAccessRolePolicy",
+    "PolicyId": "ANPAJPKEIMB6YMXDEVRTM",
+    "Arn": "arn:aws:iam::aws:policy/service-role/AWSGreengrassResourceAccessRolePolicy",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v5",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2017-02-14T21:17:24+00:00",
+    "UpdateDate": "2018-11-14T00:35:02+00:00"
+}

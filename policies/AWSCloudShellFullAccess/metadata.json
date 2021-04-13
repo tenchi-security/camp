@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSCloudShellFullAccess",
+    "PolicyId": "ANPAZKAPJZG4HEDUXFSA3",
+    "Arn": "arn:aws:iam::aws:policy/AWSCloudShellFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2020-12-15T18:07:44+00:00",
+    "UpdateDate": "2020-12-15T18:07:44+00:00"
+}

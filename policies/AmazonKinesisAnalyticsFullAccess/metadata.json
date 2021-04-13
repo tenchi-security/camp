@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonKinesisAnalyticsFullAccess",
+    "PolicyId": "ANPAJQOSKHTXP43R7P5AC",
+    "Arn": "arn:aws:iam::aws:policy/AmazonKinesisAnalyticsFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2016-09-21T19:01:14+00:00",
+    "UpdateDate": "2016-09-21T19:01:14+00:00"
+}

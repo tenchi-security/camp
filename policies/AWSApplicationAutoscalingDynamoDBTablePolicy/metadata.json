@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSApplicationAutoscalingDynamoDBTablePolicy",
+    "PolicyId": "ANPAJOVQMDI3JFCBW4LFO",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/AWSApplicationAutoscalingDynamoDBTablePolicy",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2017-10-20T21:34:57+00:00",
+    "UpdateDate": "2017-10-20T21:34:57+00:00"
+}

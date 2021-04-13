@@ -1,0 +1,16 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "elastictranscoder"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "elastictranscoder:CancelJob",
+        "elastictranscoder:CreateJob",
+        "elastictranscoder:CreatePreset",
+        "elastictranscoder:DeletePreset"
+    ]
+}

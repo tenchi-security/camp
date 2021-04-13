@@ -1,0 +1,23 @@
+{
+    "ServiceWildcard": [
+        "greengrass"
+    ],
+    "ServicesAffected": [
+        "greengrass",
+        "iot"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "greengrass:CancelDeployment",
+        "greengrass:CreateComponentVersion",
+        "greengrass:DeleteComponent",
+        "greengrass:DeleteCoreDevice",
+        "greengrass:TagResource",
+        "greengrass:UntagResource",
+        "iot:CreatePolicy",
+        "iot:UpdateThingShadow"
+    ]
+}

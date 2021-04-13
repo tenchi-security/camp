@@ -1,0 +1,18 @@
+{
+    "ServiceWildcard": [
+        "braket"
+    ],
+    "ServicesAffected": [
+        "braket"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "braket:CancelQuantumTask",
+        "braket:CreateQuantumTask",
+        "braket:TagResource",
+        "braket:UntagResource"
+    ]
+}

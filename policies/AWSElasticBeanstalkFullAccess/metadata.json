@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSElasticBeanstalkFullAccess",
+    "PolicyId": "ANPAIZYX2YLLBW2LJVUFW",
+    "Arn": "arn:aws:iam::aws:policy/AWSElasticBeanstalkFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v8",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2015-02-06T18:40:18+00:00",
+    "UpdateDate": "2019-07-10T19:27:59+00:00"
+}

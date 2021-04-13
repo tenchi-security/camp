@@ -1,0 +1,12 @@
+{
+    "PolicyName": "ElementalAppliancesSoftwareFullAccess",
+    "PolicyId": "ANPAZKAPJZG4DHARJPIR5",
+    "Arn": "arn:aws:iam::aws:policy/ElementalAppliancesSoftwareFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v4",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2019-07-31T16:28:53+00:00",
+    "UpdateDate": "2021-02-05T21:01:25+00:00"
+}

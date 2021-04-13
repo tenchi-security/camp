@@ -1,0 +1,6 @@
+{
+    "VersionId": "v12",
+    "IsDefaultVersion": true,
+    "CreateDate": "2021-01-19T20:27:15+00:00",
+    "PolicyName": "CloudwatchApplicationInsightsServiceLinkedRolePolicy"
+}

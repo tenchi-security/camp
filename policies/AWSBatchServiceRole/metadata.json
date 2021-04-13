@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSBatchServiceRole",
+    "PolicyId": "ANPAIUETIXPCKASQJURFE",
+    "Arn": "arn:aws:iam::aws:policy/service-role/AWSBatchServiceRole",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v11",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2016-12-06T19:36:24+00:00",
+    "UpdateDate": "2020-11-23T18:19:27+00:00"
+}

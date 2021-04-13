@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonFSxConsoleReadOnlyAccess",
+    "PolicyId": "ANPAJQUISIZNHGLA6YQFM",
+    "Arn": "arn:aws:iam::aws:policy/AmazonFSxConsoleReadOnlyAccess",
+    "Path": "/",
+    "DefaultVersionId": "v2",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2018-11-28T16:35:24+00:00",
+    "UpdateDate": "2019-09-10T13:17:59+00:00"
+}

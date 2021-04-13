@@ -1,0 +1,12 @@
+{
+    "PolicyName": "Health_OrganizationsServiceRolePolicy",
+    "PolicyId": "ANPAZKAPJZG4EZKGOJYHQ",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/Health_OrganizationsServiceRolePolicy",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v2",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2019-12-16T13:28:21+00:00",
+    "UpdateDate": "2020-06-08T12:48:44+00:00"
+}

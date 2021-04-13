@@ -1,0 +1,28 @@
+{
+    "Statement": [
+        {
+            "Action": [
+                "codepipeline:GetPipeline",
+                "codepipeline:GetPipelineState",
+                "codepipeline:ListActionTypes",
+                "codepipeline:ListPipelines",
+                "iam:ListRoles",
+                "s3:GetBucketPolicy",
+                "s3:GetObject",
+                "s3:ListAllMyBuckets",
+                "s3:ListBucket",
+                "codedeploy:GetApplication",
+                "codedeploy:GetDeploymentGroup",
+                "codedeploy:ListApplications",
+                "codedeploy:ListDeploymentGroups",
+                "elasticbeanstalk:DescribeApplications",
+                "elasticbeanstalk:DescribeEnvironments",
+                "lambda:GetFunctionConfiguration",
+                "lambda:ListFunctions"
+            ],
+            "Effect": "Allow",
+            "Resource": "*"
+        }
+    ],
+    "Version": "2012-10-17"
+}

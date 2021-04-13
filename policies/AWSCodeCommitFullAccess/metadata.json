@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSCodeCommitFullAccess",
+    "PolicyId": "ANPAI4VCZ3XPIZLQ5NZV2",
+    "Arn": "arn:aws:iam::aws:policy/AWSCodeCommitFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v9",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2015-07-09T17:02:19+00:00",
+    "UpdateDate": "2020-07-30T23:17:35+00:00"
+}

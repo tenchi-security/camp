@@ -1,0 +1,21 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "autoscaling",
+        "ec2"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "autoscaling:CompleteLifecycleAction",
+        "autoscaling:DetachInstances",
+        "autoscaling:EnterStandby",
+        "autoscaling:ResumeProcesses",
+        "autoscaling:SetInstanceProtection",
+        "autoscaling:SuspendProcesses",
+        "autoscaling:UpdateAutoScalingGroup",
+        "ec2:TerminateInstances"
+    ]
+}

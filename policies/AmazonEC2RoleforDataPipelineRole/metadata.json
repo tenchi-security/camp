@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonEC2RoleforDataPipelineRole",
+    "PolicyId": "ANPAJ3Z5I2WAJE5DN2J36",
+    "Arn": "arn:aws:iam::aws:policy/service-role/AmazonEC2RoleforDataPipelineRole",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v3",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2015-02-06T18:41:25+00:00",
+    "UpdateDate": "2016-02-22T17:24:05+00:00"
+}

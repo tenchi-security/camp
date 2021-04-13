@@ -1,0 +1,35 @@
+{
+    "Statement": [
+        {
+            "Action": [
+                "codepipeline:*",
+                "iam:ListRoles",
+                "iam:PassRole",
+                "s3:CreateBucket",
+                "s3:GetBucketPolicy",
+                "s3:GetObject",
+                "s3:ListAllMyBuckets",
+                "s3:ListBucket",
+                "s3:PutBucketPolicy",
+                "codecommit:ListBranches",
+                "codecommit:ListRepositories",
+                "codedeploy:GetApplication",
+                "codedeploy:GetDeploymentGroup",
+                "codedeploy:ListApplications",
+                "codedeploy:ListDeploymentGroups",
+                "elasticbeanstalk:DescribeApplications",
+                "elasticbeanstalk:DescribeEnvironments",
+                "lambda:GetFunctionConfiguration",
+                "lambda:ListFunctions",
+                "opsworks:DescribeApps",
+                "opsworks:DescribeLayers",
+                "opsworks:DescribeStacks",
+                "cloudformation:DescribeStacks",
+                "cloudformation:ListChangeSets"
+            ],
+            "Effect": "Allow",
+            "Resource": "*"
+        }
+    ],
+    "Version": "2012-10-17"
+}

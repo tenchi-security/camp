@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonElasticFileSystemFullAccess",
+    "PolicyId": "ANPAJKXTMNVQGIDNCKPBC",
+    "Arn": "arn:aws:iam::aws:policy/AmazonElasticFileSystemFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v6",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2015-05-27T16:22:28+00:00",
+    "UpdateDate": "2020-07-16T16:46:23+00:00"
+}

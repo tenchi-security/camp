@@ -1,0 +1,35 @@
+{
+    "ServiceWildcard": [
+        "datasync"
+    ],
+    "ServicesAffected": [
+        "datasync",
+        "ec2",
+        "iam",
+        "logs"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "ec2:CreateNetworkInterfacePermission",
+        "iam:PassRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "datasync:CancelTaskExecution",
+        "datasync:DeleteAgent",
+        "datasync:DeleteLocation",
+        "datasync:DeleteTask",
+        "datasync:StartTaskExecution",
+        "datasync:TagResource",
+        "datasync:UntagResource",
+        "datasync:UpdateAgent",
+        "datasync:UpdateTask",
+        "ec2:CreateNetworkInterface",
+        "ec2:CreateNetworkInterfacePermission",
+        "ec2:DeleteNetworkInterface",
+        "ec2:ModifyNetworkInterfaceAttribute",
+        "iam:PassRole",
+        "logs:CreateLogGroup"
+    ]
+}

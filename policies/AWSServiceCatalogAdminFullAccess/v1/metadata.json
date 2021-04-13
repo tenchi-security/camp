@@ -1,0 +1,6 @@
+{
+    "VersionId": "v1",
+    "IsDefaultVersion": false,
+    "CreateDate": "2018-02-15T17:19:40+00:00",
+    "PolicyName": "AWSServiceCatalogAdminFullAccess"
+}

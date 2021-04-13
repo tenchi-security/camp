@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSArtifactAccountSync",
+    "PolicyId": "ANPAJMVPXRWZJZWDTYDNC",
+    "Arn": "arn:aws:iam::aws:policy/service-role/AWSArtifactAccountSync",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2018-04-10T23:04:33+00:00",
+    "UpdateDate": "2018-04-10T23:04:33+00:00"
+}

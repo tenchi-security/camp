@@ -1,0 +1,22 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "iot"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iot:AttachPrincipalPolicy"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "iot:AddThingToThingGroup",
+        "iot:AttachPrincipalPolicy",
+        "iot:CreatePolicy",
+        "iot:CreateThing",
+        "iot:RemoveThingFromThingGroup",
+        "iot:UpdateCertificate",
+        "iot:UpdateThing",
+        "iot:UpdateThingGroupsForThing"
+    ]
+}

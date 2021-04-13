@@ -1,0 +1,32 @@
+{
+    "ServiceWildcard": [
+        "codestar"
+    ],
+    "ServicesAffected": [
+        "codestar"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "codestar:AssociateTeamMember",
+        "codestar:CreateProject",
+        "codestar:DeleteProject",
+        "codestar:DisassociateTeamMember",
+        "codestar:UpdateTeamMember"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "codestar:AssociateTeamMember",
+        "codestar:CreateUserProfile",
+        "codestar:DeleteExtendedAccess",
+        "codestar:DeleteProject",
+        "codestar:DeleteUserProfile",
+        "codestar:DisassociateTeamMember",
+        "codestar:PutExtendedAccess",
+        "codestar:TagProject",
+        "codestar:UntagProject",
+        "codestar:UpdateProject",
+        "codestar:UpdateTeamMember",
+        "codestar:UpdateUserProfile"
+    ]
+}

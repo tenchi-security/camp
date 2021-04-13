@@ -1,0 +1,6 @@
+{
+    "VersionId": "v1",
+    "IsDefaultVersion": false,
+    "CreateDate": "2018-11-28T16:35:24+00:00",
+    "PolicyName": "AmazonFSxConsoleReadOnlyAccess"
+}

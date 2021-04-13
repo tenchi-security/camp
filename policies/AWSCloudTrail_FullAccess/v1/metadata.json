@@ -1,0 +1,6 @@
+{
+    "VersionId": "v1",
+    "IsDefaultVersion": false,
+    "CreateDate": "2020-10-08T23:41:15+00:00",
+    "PolicyName": "AWSCloudTrail_FullAccess"
+}

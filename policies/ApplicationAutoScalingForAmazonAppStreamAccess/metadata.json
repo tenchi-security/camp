@@ -1,0 +1,12 @@
+{
+    "PolicyName": "ApplicationAutoScalingForAmazonAppStreamAccess",
+    "PolicyId": "ANPAIEL3HJCCWFVHA6KPG",
+    "Arn": "arn:aws:iam::aws:policy/service-role/ApplicationAutoScalingForAmazonAppStreamAccess",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2017-02-06T21:39:56+00:00",
+    "UpdateDate": "2017-02-06T21:39:56+00:00"
+}

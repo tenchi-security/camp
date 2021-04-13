@@ -1,0 +1,31 @@
+{
+    "ServiceWildcard": [
+        "schemas"
+    ],
+    "ServicesAffected": [
+        "schemas"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "schemas:CreateDiscoverer",
+        "schemas:CreateRegistry",
+        "schemas:CreateSchema",
+        "schemas:DeleteDiscoverer",
+        "schemas:DeleteRegistry",
+        "schemas:DeleteResourcePolicy",
+        "schemas:DeleteSchema",
+        "schemas:DeleteSchemaVersion",
+        "schemas:PutCodeBinding",
+        "schemas:PutResourcePolicy",
+        "schemas:StartDiscoverer",
+        "schemas:StopDiscoverer",
+        "schemas:TagResource",
+        "schemas:UntagResource",
+        "schemas:UpdateDiscoverer",
+        "schemas:UpdateRegistry",
+        "schemas:UpdateSchema"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "ServiceWildcard": [
+        "cloudformation"
+    ],
+    "ServicesAffected": [
+        "cloudformation"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "cloudformation:SetStackPolicy"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "cloudformation:CancelUpdateStack",
+        "cloudformation:ContinueUpdateRollback",
+        "cloudformation:CreateChangeSet",
+        "cloudformation:CreateStack",
+        "cloudformation:CreateStackInstances",
+        "cloudformation:DeleteChangeSet",
+        "cloudformation:DeleteStack",
+        "cloudformation:DeleteStackInstances",
+        "cloudformation:DeleteStackSet",
+        "cloudformation:ExecuteChangeSet",
+        "cloudformation:SetStackPolicy",
+        "cloudformation:SignalResource",
+        "cloudformation:StopStackSetOperation",
+        "cloudformation:TagResource",
+        "cloudformation:UntagResource",
+        "cloudformation:UpdateStack",
+        "cloudformation:UpdateStackInstances",
+        "cloudformation:UpdateStackSet",
+        "cloudformation:UpdateTerminationProtection"
+    ]
+}

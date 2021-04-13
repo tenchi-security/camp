@@ -1,0 +1,6 @@
+{
+    "VersionId": "v1",
+    "IsDefaultVersion": false,
+    "CreateDate": "2020-06-24T16:23:14+00:00",
+    "PolicyName": "AWSBackupOrganizationAdminAccess"
+}

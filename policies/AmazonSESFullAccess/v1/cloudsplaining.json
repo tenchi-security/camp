@@ -1,0 +1,54 @@
+{
+    "ServiceWildcard": [
+        "ses"
+    ],
+    "ServicesAffected": [
+        "ses"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "ses:CreateEmailIdentityPolicy",
+        "ses:DeleteEmailIdentityPolicy",
+        "ses:UpdateEmailIdentityPolicy"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "ses:CreateConfigurationSetEventDestination",
+        "ses:CreateContact",
+        "ses:CreateCustomVerificationEmailTemplate",
+        "ses:CreateDeliverabilityTestReport",
+        "ses:CreateEmailIdentityPolicy",
+        "ses:DeleteConfigurationSet",
+        "ses:DeleteConfigurationSetEventDestination",
+        "ses:DeleteContact",
+        "ses:DeleteContactList",
+        "ses:DeleteCustomVerificationEmailTemplate",
+        "ses:DeleteDedicatedIpPool",
+        "ses:DeleteEmailIdentity",
+        "ses:DeleteEmailIdentityPolicy",
+        "ses:DeleteEmailTemplate",
+        "ses:PutConfigurationSetDeliveryOptions",
+        "ses:PutConfigurationSetReputationOptions",
+        "ses:PutConfigurationSetSendingOptions",
+        "ses:PutConfigurationSetSuppressionOptions",
+        "ses:PutConfigurationSetTrackingOptions",
+        "ses:PutDedicatedIpInPool",
+        "ses:PutEmailIdentityConfigurationSetAttributes",
+        "ses:PutEmailIdentityDkimAttributes",
+        "ses:PutEmailIdentityDkimSigningAttributes",
+        "ses:PutEmailIdentityFeedbackAttributes",
+        "ses:PutEmailIdentityMailFromAttributes",
+        "ses:SendCustomVerificationEmail",
+        "ses:SendEmail",
+        "ses:TagResource",
+        "ses:TestRenderEmailTemplate",
+        "ses:UntagResource",
+        "ses:UpdateConfigurationSetEventDestination",
+        "ses:UpdateContact",
+        "ses:UpdateContactList",
+        "ses:UpdateCustomVerificationEmailTemplate",
+        "ses:UpdateEmailIdentityPolicy",
+        "ses:UpdateEmailTemplate"
+    ]
+}

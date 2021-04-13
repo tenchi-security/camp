@@ -1,0 +1,27 @@
+{
+    "ServiceWildcard": [
+        "ecr-public"
+    ],
+    "ServicesAffected": [
+        "ecr-public"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "ecr-public:SetRepositoryPolicy"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "ecr-public:BatchDeleteImage",
+        "ecr-public:CompleteLayerUpload",
+        "ecr-public:CreateRepository",
+        "ecr-public:DeleteRepository",
+        "ecr-public:DeleteRepositoryPolicy",
+        "ecr-public:InitiateLayerUpload",
+        "ecr-public:PutImage",
+        "ecr-public:PutRegistryCatalogData",
+        "ecr-public:PutRepositoryCatalogData",
+        "ecr-public:SetRepositoryPolicy",
+        "ecr-public:UploadLayerPart"
+    ]
+}

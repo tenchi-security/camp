@@ -1,0 +1,12 @@
+{
+    "ServiceWildcard": [
+        "elemental-support-cases",
+        "elemental-support-content"
+    ],
+    "ServicesAffected": [],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": []
+}

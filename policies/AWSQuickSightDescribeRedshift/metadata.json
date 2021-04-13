@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSQuickSightDescribeRedshift",
+    "PolicyId": "ANPAJFEM6MLSLTW4ZNBW2",
+    "Arn": "arn:aws:iam::aws:policy/service-role/AWSQuickSightDescribeRedshift",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2015-11-10T23:25:01+00:00",
+    "UpdateDate": "2015-11-10T23:25:01+00:00"
+}

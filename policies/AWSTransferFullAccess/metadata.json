@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSTransferFullAccess",
+    "PolicyId": "ANPAZKAPJZG4KGELFKPYK",
+    "Arn": "arn:aws:iam::aws:policy/AWSTransferFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2020-12-14T19:37:23+00:00",
+    "UpdateDate": "2020-12-14T19:37:23+00:00"
+}

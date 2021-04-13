@@ -1,0 +1,6 @@
+{
+    "VersionId": "v2",
+    "IsDefaultVersion": true,
+    "CreateDate": "2021-01-06T19:30:35+00:00",
+    "PolicyName": "AWSPanoramaGreengrassGroupRolePolicy"
+}

@@ -1,0 +1,30 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": [
+                "iot:DescribeCertificate",
+                "iot:DescribeCACertificate",
+                "iot:DescribeEndpoint",
+                "iot:DescribeThing",
+                "iot:GetLoggingOptions",
+                "iot:GetPolicy",
+                "iot:GetPolicyVersion",
+                "iot:GetRegistrationCode",
+                "iot:GetTopicRule",
+                "iot:ListCertificates",
+                "iot:ListCertificatesByCA",
+                "iot:ListCACertificates",
+                "iot:ListPolicies",
+                "iot:ListPolicyVersions",
+                "iot:ListPrincipalPolicies",
+                "iot:ListPrincipalThings",
+                "iot:ListThingPrincipals",
+                "iot:ListThings",
+                "iot:ListTopicRules"
+            ],
+            "Resource": "*"
+        }
+    ]
+}

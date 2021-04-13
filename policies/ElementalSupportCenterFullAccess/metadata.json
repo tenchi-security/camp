@@ -1,0 +1,12 @@
+{
+    "PolicyName": "ElementalSupportCenterFullAccess",
+    "PolicyId": "ANPAZKAPJZG4ECPR57WVQ",
+    "Arn": "arn:aws:iam::aws:policy/ElementalSupportCenterFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v2",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2020-11-25T18:08:30+00:00",
+    "UpdateDate": "2021-02-05T21:02:54+00:00"
+}

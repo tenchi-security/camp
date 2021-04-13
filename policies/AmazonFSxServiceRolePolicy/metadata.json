@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonFSxServiceRolePolicy",
+    "PolicyId": "ANPAIVQ24YKVRBV5IYQ5G",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/AmazonFSxServiceRolePolicy",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v3",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2018-11-28T10:38:37+00:00",
+    "UpdateDate": "2020-11-12T20:19:45+00:00"
+}

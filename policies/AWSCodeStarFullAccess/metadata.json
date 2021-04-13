@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSCodeStarFullAccess",
+    "PolicyId": "ANPAIXI233TFUGLZOJBEC",
+    "Arn": "arn:aws:iam::aws:policy/AWSCodeStarFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v2",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2017-04-19T16:23:19+00:00",
+    "UpdateDate": "2018-01-10T21:54:06+00:00"
+}

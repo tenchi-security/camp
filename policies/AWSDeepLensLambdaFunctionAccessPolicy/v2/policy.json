@@ -1,0 +1,62 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "DeepLensS3ObjectAccess",
+            "Effect": "Allow",
+            "Action": [
+                "s3:ListBucket",
+                "s3:GetObject",
+                "s3:ListObjects"
+            ],
+            "Resource": [
+                "arn:aws:s3:::deeplens*/*",
+                "arn:aws:s3:::deeplens*"
+            ]
+        },
+        {
+            "Sid": "DeepLensGreenGrassCloudWatchAccess",
+            "Effect": "Allow",
+            "Action": [
+                "logs:CreateLogStream",
+                "logs:DescribeLogStreams",
+                "logs:PutLogEvents",
+                "logs:CreateLogGroup"
+            ],
+            "Resource": "arn:aws:logs:*:*:log-group:/aws/greengrass/*"
+        },
+        {
+            "Sid": "DeepLensAccess",
+            "Effect": "Allow",
+            "Action": [
+                "deeplens:*"
+            ],
+            "Resource": [
+                "*"
+            ]
+        },
+        {
+            "Sid": "DeepLensAcuityStreamAccess",
+            "Effect": "Allow",
+            "Action": [
+                "acuity:CreateStream",
+                "acuity:DescribeStream",
+                "acuity:DeleteStream",
+                "acuity:PutMedia"
+            ],
+            "Resource": [
+                "arn:aws:acuity:*:*:stream/deeplens*/*"
+            ]
+        },
+        {
+            "Sid": "DeepLensAcuityEndpointAccess",
+            "Effect": "Allow",
+            "Action": [
+                "acuity:GetDataEndpoint"
+            ],
+            "Resource": [
+                "*"
+            ]
+        }
+    ]
+}

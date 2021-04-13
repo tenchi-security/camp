@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSServiceRoleForCloudWatchAlarmsActionSSMServiceRolePolicy",
+    "PolicyId": "ANPAZKAPJZG4M4BX2KX5V",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/AWSServiceRoleForCloudWatchAlarmsActionSSMServiceRolePolicy",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2020-10-01T09:49:01+00:00",
+    "UpdateDate": "2020-10-01T09:49:01+00:00"
+}

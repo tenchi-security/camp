@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonElasticTranscoder_ReadOnlyAccess",
+    "PolicyId": "ANPAI3R3CR6KVEWD4DPFY",
+    "Arn": "arn:aws:iam::aws:policy/AmazonElasticTranscoder_ReadOnlyAccess",
+    "Path": "/",
+    "DefaultVersionId": "v2",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2018-06-07T21:09:56+00:00",
+    "UpdateDate": "2019-06-10T22:48:32+00:00"
+}

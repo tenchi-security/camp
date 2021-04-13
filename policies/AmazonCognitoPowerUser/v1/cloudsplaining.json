@@ -1,0 +1,45 @@
+{
+    "ServiceWildcard": [
+        "cognito-identity",
+        "cognito-sync"
+    ],
+    "ServicesAffected": [
+        "cognito-identity",
+        "cognito-sync"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "cognito-identity:CreateIdentityPool",
+        "cognito-identity:DeleteIdentities",
+        "cognito-identity:DeleteIdentityPool",
+        "cognito-identity:GetId",
+        "cognito-identity:MergeDeveloperIdentities",
+        "cognito-identity:SetIdentityPoolRoles",
+        "cognito-identity:UnlinkDeveloperIdentity",
+        "cognito-identity:UnlinkIdentity",
+        "cognito-identity:UpdateIdentityPool"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [
+        "cognito-identity:GetOpenIdToken",
+        "cognito-identity:GetOpenIdTokenForDeveloperIdentity",
+        "cognito-identity:GetCredentialsForIdentity"
+    ],
+    "InfrastructureModification": [
+        "cognito-identity:DeleteIdentityPool",
+        "cognito-identity:MergeDeveloperIdentities",
+        "cognito-identity:TagResource",
+        "cognito-identity:UnlinkDeveloperIdentity",
+        "cognito-identity:UntagResource",
+        "cognito-identity:UpdateIdentityPool",
+        "cognito-sync:BulkPublish",
+        "cognito-sync:DeleteDataset",
+        "cognito-sync:RegisterDevice",
+        "cognito-sync:SetCognitoEvents",
+        "cognito-sync:SetDatasetConfiguration",
+        "cognito-sync:SetIdentityPoolConfiguration",
+        "cognito-sync:SubscribeToDataset",
+        "cognito-sync:UnsubscribeFromDataset",
+        "cognito-sync:UpdateRecords"
+    ]
+}

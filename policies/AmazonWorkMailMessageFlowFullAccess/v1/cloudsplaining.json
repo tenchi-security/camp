@@ -1,0 +1,11 @@
+{
+    "ServiceWildcard": [
+        "workmailmessageflow"
+    ],
+    "ServicesAffected": [],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": []
+}

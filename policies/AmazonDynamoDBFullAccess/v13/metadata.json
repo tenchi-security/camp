@@ -1,0 +1,6 @@
+{
+    "VersionId": "v13",
+    "IsDefaultVersion": false,
+    "CreateDate": "2020-11-16T18:19:47+00:00",
+    "PolicyName": "AmazonDynamoDBFullAccess"
+}

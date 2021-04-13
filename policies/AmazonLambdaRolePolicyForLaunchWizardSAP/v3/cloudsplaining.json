@@ -1,0 +1,19 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "ec2",
+        "ssm"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "ec2:CreateRoute",
+        "ec2:CreateTags",
+        "ec2:DeleteRoute",
+        "ec2:ModifyInstanceAttribute",
+        "ssm:GetParameter",
+        "ssm:SendCommand"
+    ]
+}

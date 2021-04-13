@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonSNSRole",
+    "PolicyId": "ANPAJK5GQB7CIK7KHY2GA",
+    "Arn": "arn:aws:iam::aws:policy/service-role/AmazonSNSRole",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2015-02-06T18:41:30+00:00",
+    "UpdateDate": "2015-02-06T18:41:30+00:00"
+}

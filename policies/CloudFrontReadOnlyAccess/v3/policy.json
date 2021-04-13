@@ -1,0 +1,18 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Action": [
+                "acm:ListCertificates",
+                "cloudfront:Get*",
+                "cloudfront:List*",
+                "iam:ListServerCertificates",
+                "route53:List*",
+                "waf:ListWebACLs",
+                "waf:GetWebACL"
+            ],
+            "Effect": "Allow",
+            "Resource": "*"
+        }
+    ]
+}

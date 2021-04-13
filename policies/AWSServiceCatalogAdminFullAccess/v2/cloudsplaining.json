@@ -1,0 +1,54 @@
+{
+    "ServiceWildcard": [
+        "servicecatalog"
+    ],
+    "ServicesAffected": [
+        "iam",
+        "servicecatalog"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "servicecatalog:CreatePortfolioShare",
+        "servicecatalog:DeletePortfolioShare",
+        "iam:PassRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "iam:PassRole",
+        "servicecatalog:AcceptPortfolioShare",
+        "servicecatalog:AssociateAttributeGroup",
+        "servicecatalog:AssociatePrincipalWithPortfolio",
+        "servicecatalog:AssociateResource",
+        "servicecatalog:AssociateServiceActionWithProvisioningArtifact",
+        "servicecatalog:AssociateTagOptionWithResource",
+        "servicecatalog:CreateApplication",
+        "servicecatalog:CreateAttributeGroup",
+        "servicecatalog:CreateConstraint",
+        "servicecatalog:CreatePortfolio",
+        "servicecatalog:CreatePortfolioShare",
+        "servicecatalog:CreateProduct",
+        "servicecatalog:CreateProvisioningArtifact",
+        "servicecatalog:DeleteApplication",
+        "servicecatalog:DeleteAttributeGroup",
+        "servicecatalog:DeletePortfolio",
+        "servicecatalog:DeletePortfolioShare",
+        "servicecatalog:DeleteProduct",
+        "servicecatalog:DeleteProvisioningArtifact",
+        "servicecatalog:DisassociateAttributeGroup",
+        "servicecatalog:DisassociatePrincipalFromPortfolio",
+        "servicecatalog:DisassociateResource",
+        "servicecatalog:DisassociateServiceActionFromProvisioningArtifact",
+        "servicecatalog:DisassociateTagOptionFromResource",
+        "servicecatalog:ImportAsProvisionedProduct",
+        "servicecatalog:ProvisionProduct",
+        "servicecatalog:RejectPortfolioShare",
+        "servicecatalog:TagResource",
+        "servicecatalog:UntagResource",
+        "servicecatalog:UpdateApplication",
+        "servicecatalog:UpdateAttributeGroup",
+        "servicecatalog:UpdatePortfolio",
+        "servicecatalog:UpdateProduct",
+        "servicecatalog:UpdateProvisioningArtifact"
+    ]
+}

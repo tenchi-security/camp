@@ -1,0 +1,15 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "connect"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [
+        "connect:GetFederationToken"
+    ],
+    "InfrastructureModification": [
+        "connect:GetFederationTokens"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "ServiceWildcard": [
+        "robomaker"
+    ],
+    "ServicesAffected": [
+        "ec2",
+        "robomaker",
+        "s3"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "ec2:CreateNetworkInterfacePermission"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "ec2:CreateNetworkInterfacePermission",
+        "ec2:DeleteNetworkInterface",
+        "robomaker:CancelDeploymentJob",
+        "robomaker:CancelSimulationJob",
+        "robomaker:CancelSimulationJobBatch",
+        "robomaker:CancelWorldExportJob",
+        "robomaker:CancelWorldGenerationJob",
+        "robomaker:CreateRobotApplicationVersion",
+        "robomaker:CreateSimulationApplicationVersion",
+        "robomaker:CreateWorldExportJob",
+        "robomaker:CreateWorldGenerationJob",
+        "robomaker:DeleteFleet",
+        "robomaker:DeleteRobot",
+        "robomaker:DeleteRobotApplication",
+        "robomaker:DeleteSimulationApplication",
+        "robomaker:DeleteWorldTemplate",
+        "robomaker:DeregisterRobot",
+        "robomaker:RegisterRobot",
+        "robomaker:RestartSimulationJob",
+        "robomaker:SyncDeploymentJob",
+        "robomaker:TagResource",
+        "robomaker:UntagResource",
+        "robomaker:UpdateRobotApplication",
+        "robomaker:UpdateSimulationApplication",
+        "robomaker:UpdateWorldTemplate",
+        "s3:GetObject"
+    ]
+}

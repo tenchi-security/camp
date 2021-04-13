@@ -1,0 +1,19 @@
+{
+    "ServiceWildcard": [
+        "cur"
+    ],
+    "ServicesAffected": [
+        "budgets",
+        "cur"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "budgets:ModifyBudget",
+        "cur:DeleteReportDefinition",
+        "cur:ModifyReportDefinition",
+        "cur:PutReportDefinition"
+    ]
+}

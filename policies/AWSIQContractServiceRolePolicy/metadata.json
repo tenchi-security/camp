@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSIQContractServiceRolePolicy",
+    "PolicyId": "ANPAZKAPJZG4E26ATDUIP",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/AWSIQContractServiceRolePolicy",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2019-08-22T19:28:39+00:00",
+    "UpdateDate": "2019-08-22T19:28:39+00:00"
+}

@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonConnectReadOnlyAccess",
+    "PolicyId": "ANPAIVZMH7VU6YYKRY6ZU",
+    "Arn": "arn:aws:iam::aws:policy/AmazonConnectReadOnlyAccess",
+    "Path": "/",
+    "DefaultVersionId": "v3",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2018-10-17T21:00:44+00:00",
+    "UpdateDate": "2019-11-06T22:10:18+00:00"
+}

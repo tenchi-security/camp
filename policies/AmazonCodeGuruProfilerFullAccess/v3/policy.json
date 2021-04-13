@@ -1,0 +1,27 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Action": [
+                "codeguru-profiler:*",
+                "iam:ListRoles",
+                "iam:ListUsers",
+                "codeguru:*"
+            ],
+            "Effect": "Allow",
+            "Resource": "*"
+        },
+        {
+            "Action": [
+                "iam:CreateServiceLinkedRole"
+            ],
+            "Effect": "Allow",
+            "Resource": "arn:aws:iam::*:role/*AWSServiceRoleForCodeGuruProfiler*",
+            "Condition": {
+                "StringEquals": {
+                    "iam:AWSServiceName": "codeguru-profiler.amazonaws.com"
+                }
+            }
+        }
+    ]
+}

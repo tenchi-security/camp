@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSDataPipelineRole",
+    "PolicyId": "ANPAIKCP6XS3ESGF4GLO2",
+    "Arn": "arn:aws:iam::aws:policy/service-role/AWSDataPipelineRole",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v6",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2015-02-06T18:41:24+00:00",
+    "UpdateDate": "2017-12-22T23:43:28+00:00"
+}

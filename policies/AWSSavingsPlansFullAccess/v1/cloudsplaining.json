@@ -1,0 +1,17 @@
+{
+    "ServiceWildcard": [
+        "savingsplans"
+    ],
+    "ServicesAffected": [
+        "savingsplans"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "savingsplans:DeleteQueuedSavingsPlan",
+        "savingsplans:TagResource",
+        "savingsplans:UntagResource"
+    ]
+}

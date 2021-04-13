@@ -1,0 +1,21 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "license-manager",
+        "ram",
+        "ssm"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "ram:AcceptResourceShareInvitation"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "license-manager:UpdateLicenseSpecificationsForResource",
+        "ram:AcceptResourceShareInvitation",
+        "ssm:CreateAssociation",
+        "ssm:CreateResourceDataSync",
+        "ssm:DeleteResourceDataSync"
+    ]
+}

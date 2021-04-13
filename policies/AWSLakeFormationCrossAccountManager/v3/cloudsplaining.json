@@ -1,0 +1,23 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "glue",
+        "ram"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "ram:CreateResourceShare",
+        "ram:DeleteResourceShare",
+        "ram:UpdateResourceShare",
+        "glue:DeleteResourcePolicy",
+        "glue:PutResourcePolicy"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "glue:DeleteResourcePolicy",
+        "glue:PutResourcePolicy",
+        "ram:DeleteResourceShare",
+        "ram:UpdateResourceShare"
+    ]
+}

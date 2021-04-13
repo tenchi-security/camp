@@ -1,0 +1,6 @@
+{
+    "VersionId": "v1",
+    "IsDefaultVersion": false,
+    "CreateDate": "2015-02-06T18:40:23+00:00",
+    "PolicyName": "AmazonElasticMapReduceReadOnlyAccess"
+}

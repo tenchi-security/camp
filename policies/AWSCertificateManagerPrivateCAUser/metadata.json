@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSCertificateManagerPrivateCAUser",
+    "PolicyId": "ANPAJBXCSJJULLMRWSNII",
+    "Arn": "arn:aws:iam::aws:policy/AWSCertificateManagerPrivateCAUser",
+    "Path": "/",
+    "DefaultVersionId": "v4",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2018-10-23T16:53:33+00:00",
+    "UpdateDate": "2019-06-20T17:42:37+00:00"
+}

@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSMigrationHubDMSAccess",
+    "PolicyId": "ANPAIUQB56VA4JHLN7G2W",
+    "Arn": "arn:aws:iam::aws:policy/service-role/AWSMigrationHubDMSAccess",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v2",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2017-08-14T14:00:06+00:00",
+    "UpdateDate": "2019-10-07T17:51:53+00:00"
+}

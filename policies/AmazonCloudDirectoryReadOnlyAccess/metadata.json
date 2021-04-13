@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonCloudDirectoryReadOnlyAccess",
+    "PolicyId": "ANPAICMSZQGR3O62KMD6M",
+    "Arn": "arn:aws:iam::aws:policy/AmazonCloudDirectoryReadOnlyAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2017-02-28T23:42:06+00:00",
+    "UpdateDate": "2017-02-28T23:42:06+00:00"
+}

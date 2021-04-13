@@ -1,0 +1,21 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Action": [
+                "comprehend:DetectDominantLanguage",
+                "comprehend:BatchDetectDominantLanguage",
+                "comprehend:DetectEntities",
+                "comprehend:BatchDetectEntities",
+                "comprehend:DetectKeyPhrases",
+                "comprehend:BatchDetectKeyPhrases",
+                "comprehend:DetectSentiment",
+                "comprehend:BatchDetectSentiment",
+                "comprehend:DescribeTopicsDetectionJob",
+                "comprehend:ListTopicsDetectionJobs"
+            ],
+            "Effect": "Allow",
+            "Resource": "*"
+        }
+    ]
+}

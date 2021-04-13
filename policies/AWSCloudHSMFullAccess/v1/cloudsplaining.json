@@ -1,0 +1,23 @@
+{
+    "ServiceWildcard": [
+        "cloudhsm"
+    ],
+    "ServicesAffected": [
+        "cloudhsm"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "cloudhsm:CopyBackupToRegion",
+        "cloudhsm:CreateCluster",
+        "cloudhsm:CreateHsm",
+        "cloudhsm:DeleteBackup",
+        "cloudhsm:DeleteCluster",
+        "cloudhsm:InitializeCluster",
+        "cloudhsm:RestoreBackup",
+        "cloudhsm:TagResource",
+        "cloudhsm:UntagResource"
+    ]
+}

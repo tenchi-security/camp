@@ -1,0 +1,27 @@
+{
+    "ServiceWildcard": [
+        "managedblockchain"
+    ],
+    "ServicesAffected": [
+        "ec2",
+        "managedblockchain"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "ec2:CreateVpcEndpoint",
+        "managedblockchain:CreateMember",
+        "managedblockchain:CreateNode",
+        "managedblockchain:CreateProposal",
+        "managedblockchain:DeleteMember",
+        "managedblockchain:DeleteNode",
+        "managedblockchain:RejectInvitation",
+        "managedblockchain:TagResource",
+        "managedblockchain:UntagResource",
+        "managedblockchain:UpdateMember",
+        "managedblockchain:UpdateNode",
+        "managedblockchain:VoteOnProposal"
+    ]
+}

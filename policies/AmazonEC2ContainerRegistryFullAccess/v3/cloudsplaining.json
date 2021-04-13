@@ -1,0 +1,42 @@
+{
+    "ServiceWildcard": [
+        "ecr"
+    ],
+    "ServicesAffected": [
+        "ecr",
+        "iam"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "ecr:DeleteRegistryPolicy",
+        "ecr:DeleteRepositoryPolicy",
+        "ecr:PutRegistryPolicy",
+        "ecr:SetRepositoryPolicy",
+        "iam:CreateServiceLinkedRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [
+        "ecr:GetAuthorizationToken"
+    ],
+    "InfrastructureModification": [
+        "ecr:BatchDeleteImage",
+        "ecr:CompleteLayerUpload",
+        "ecr:CreateRepository",
+        "ecr:DeleteLifecyclePolicy",
+        "ecr:DeleteRepository",
+        "ecr:DeleteRepositoryPolicy",
+        "ecr:InitiateLayerUpload",
+        "ecr:PutImage",
+        "ecr:PutImageScanningConfiguration",
+        "ecr:PutImageTagMutability",
+        "ecr:PutLifecyclePolicy",
+        "ecr:ReplicateImage",
+        "ecr:SetRepositoryPolicy",
+        "ecr:StartImageScan",
+        "ecr:StartLifecyclePolicyPreview",
+        "ecr:TagResource",
+        "ecr:UntagResource",
+        "ecr:UploadLayerPart",
+        "iam:CreateServiceLinkedRole"
+    ]
+}

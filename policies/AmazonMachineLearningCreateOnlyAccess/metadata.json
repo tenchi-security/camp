@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonMachineLearningCreateOnlyAccess",
+    "PolicyId": "ANPAJDRUNIC2RYAMAT3CK",
+    "Arn": "arn:aws:iam::aws:policy/AmazonMachineLearningCreateOnlyAccess",
+    "Path": "/",
+    "DefaultVersionId": "v2",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2015-04-09T17:18:09+00:00",
+    "UpdateDate": "2016-06-29T20:55:03+00:00"
+}

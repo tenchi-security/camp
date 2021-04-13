@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AwsGlueDataBrewFullAccessPolicy",
+    "PolicyId": "ANPAZKAPJZG4ACNRIK7M3",
+    "Arn": "arn:aws:iam::aws:policy/AwsGlueDataBrewFullAccessPolicy",
+    "Path": "/",
+    "DefaultVersionId": "v3",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2020-11-11T16:51:39+00:00",
+    "UpdateDate": "2021-03-30T17:03:07+00:00"
+}

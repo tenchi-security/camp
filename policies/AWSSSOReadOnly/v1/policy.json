@@ -1,0 +1,40 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "AWSSSOReadOnly",
+            "Effect": "Allow",
+            "Action": [
+                "ds:DescribeDirectories",
+                "ds:DescribeTrusts",
+                "iam:ListPolicies",
+                "organizations:DescribeOrganization",
+                "organizations:DescribeAccount",
+                "organizations:ListParents",
+                "organizations:ListChildren",
+                "organizations:ListAccounts",
+                "organizations:ListRoots",
+                "organizations:ListAccountsForParent",
+                "organizations:ListOrganizationalUnitsForParent",
+                "sso:DescribePermissionsPolicies",
+                "sso:GetApplicationTemplate",
+                "sso:GetApplicationInstance",
+                "sso:GetPermissionSet",
+                "sso:GetProfile",
+                "sso:GetPermissionsPolicy",
+                "sso:GetSSOStatus",
+                "sso:GetTrust",
+                "sso:ListPermissionSets",
+                "sso:ListDirectoryAssociations",
+                "sso:ListProfiles",
+                "sso:ListApplicationInstances",
+                "sso:ListApplicationInstanceCertificates",
+                "sso:ListApplicationTemplates",
+                "sso:ListApplications",
+                "sso:ListProfileAssociations",
+                "sso:Search*"
+            ],
+            "Resource": "*"
+        }
+    ]
+}

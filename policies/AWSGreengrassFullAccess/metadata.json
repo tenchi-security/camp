@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSGreengrassFullAccess",
+    "PolicyId": "ANPAJWPV6OBK4QONH4J3O",
+    "Arn": "arn:aws:iam::aws:policy/AWSGreengrassFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2017-05-03T00:47:37+00:00",
+    "UpdateDate": "2017-05-03T00:47:37+00:00"
+}

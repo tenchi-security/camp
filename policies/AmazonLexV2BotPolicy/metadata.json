@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonLexV2BotPolicy",
+    "PolicyId": "ANPAZKAPJZG4DXFCYFGBA",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/AmazonLexV2BotPolicy",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2021-01-13T20:10:29+00:00",
+    "UpdateDate": "2021-01-13T20:10:29+00:00"
+}

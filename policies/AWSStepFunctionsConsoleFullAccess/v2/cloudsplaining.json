@@ -1,0 +1,25 @@
+{
+    "ServiceWildcard": [
+        "states"
+    ],
+    "ServicesAffected": [
+        "states"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "states:CreateActivity",
+        "states:CreateStateMachine",
+        "states:DeleteActivity",
+        "states:DeleteStateMachine",
+        "states:GetActivityTask",
+        "states:StartExecution",
+        "states:StartSyncExecution",
+        "states:StopExecution",
+        "states:TagResource",
+        "states:UntagResource",
+        "states:UpdateStateMachine"
+    ]
+}

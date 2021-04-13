@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonRoute53AutoNamingRegistrantAccess",
+    "PolicyId": "ANPAJKXLG7EKP2O5SVZW6",
+    "Arn": "arn:aws:iam::aws:policy/AmazonRoute53AutoNamingRegistrantAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2018-03-12T22:33:20+00:00",
+    "UpdateDate": "2018-03-12T22:33:20+00:00"
+}

@@ -1,0 +1,6 @@
+{
+    "VersionId": "v11",
+    "IsDefaultVersion": true,
+    "CreateDate": "2020-09-14T16:04:04+00:00",
+    "PolicyName": "AWSCodeBuildReadOnlyAccess"
+}

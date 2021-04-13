@@ -1,0 +1,24 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "ec2",
+        "lightsail",
+        "ssm"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [
+        "ssm:getParameters"
+    ],
+    "CredentialsExposure": [
+        "lightsail:getInstanceAccessDetails"
+    ],
+    "InfrastructureModification": [
+        "ec2:AcceptReservedInstancesExchangeQuote",
+        "ec2:CreateReservedInstancesListing",
+        "ec2:ModifyReservedInstances",
+        "ec2:PurchaseReservedInstancesOffering",
+        "lightsail:GetInstanceAccessDetails",
+        "ssm:GetParameters"
+    ]
+}

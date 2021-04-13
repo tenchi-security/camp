@@ -1,0 +1,50 @@
+{
+    "ServiceWildcard": [
+        "directconnect"
+    ],
+    "ServicesAffected": [
+        "directconnect"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "directconnect:AcceptDirectConnectGatewayAssociationProposal",
+        "directconnect:AllocateConnectionOnInterconnect",
+        "directconnect:AllocateHostedConnection",
+        "directconnect:AllocatePrivateVirtualInterface",
+        "directconnect:AllocatePublicVirtualInterface",
+        "directconnect:AllocateTransitVirtualInterface",
+        "directconnect:AssociateConnectionWithLag",
+        "directconnect:AssociateHostedConnection",
+        "directconnect:AssociateVirtualInterface",
+        "directconnect:ConfirmConnection",
+        "directconnect:ConfirmPrivateVirtualInterface",
+        "directconnect:ConfirmPublicVirtualInterface",
+        "directconnect:ConfirmTransitVirtualInterface",
+        "directconnect:CreateBGPPeer",
+        "directconnect:CreateConnection",
+        "directconnect:CreateDirectConnectGatewayAssociation",
+        "directconnect:CreateDirectConnectGatewayAssociationProposal",
+        "directconnect:CreateInterconnect",
+        "directconnect:CreateLag",
+        "directconnect:CreatePrivateVirtualInterface",
+        "directconnect:CreatePublicVirtualInterface",
+        "directconnect:CreateTransitVirtualInterface",
+        "directconnect:DeleteBGPPeer",
+        "directconnect:DeleteConnection",
+        "directconnect:DeleteDirectConnectGateway",
+        "directconnect:DeleteDirectConnectGatewayAssociation",
+        "directconnect:DeleteInterconnect",
+        "directconnect:DeleteLag",
+        "directconnect:DeleteVirtualInterface",
+        "directconnect:DisassociateConnectionFromLag",
+        "directconnect:StartBgpFailoverTest",
+        "directconnect:StopBgpFailoverTest",
+        "directconnect:TagResource",
+        "directconnect:UntagResource",
+        "directconnect:UpdateLag",
+        "directconnect:UpdateVirtualInterfaceAttributes"
+    ]
+}

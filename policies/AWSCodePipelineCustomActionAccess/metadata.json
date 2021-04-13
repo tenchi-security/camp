@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSCodePipelineCustomActionAccess",
+    "PolicyId": "ANPAJFW5Z32BTVF76VCYC",
+    "Arn": "arn:aws:iam::aws:policy/AWSCodePipelineCustomActionAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2015-07-09T17:02:54+00:00",
+    "UpdateDate": "2015-07-09T17:02:54+00:00"
+}

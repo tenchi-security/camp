@@ -1,0 +1,19 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "codebuild",
+        "codestar-notifications"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "codebuild:StartBuild",
+        "codebuild:StopBuild",
+        "codestar-notifications:CreateNotificationRule",
+        "codestar-notifications:Subscribe",
+        "codestar-notifications:Unsubscribe",
+        "codestar-notifications:UpdateNotificationRule"
+    ]
+}

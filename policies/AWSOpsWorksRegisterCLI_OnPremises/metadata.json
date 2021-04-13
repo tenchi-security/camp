@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSOpsWorksRegisterCLI_OnPremises",
+    "PolicyId": "ANPAZKAPJZG4EZJ5DYEPG",
+    "Arn": "arn:aws:iam::aws:policy/AWSOpsWorksRegisterCLI_OnPremises",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2019-06-18T15:33:16+00:00",
+    "UpdateDate": "2019-06-18T15:33:16+00:00"
+}

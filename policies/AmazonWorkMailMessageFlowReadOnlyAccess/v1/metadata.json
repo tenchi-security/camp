@@ -1,0 +1,6 @@
+{
+    "VersionId": "v1",
+    "IsDefaultVersion": true,
+    "CreateDate": "2021-01-28T12:40:08+00:00",
+    "PolicyName": "AmazonWorkMailMessageFlowReadOnlyAccess"
+}

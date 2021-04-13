@@ -1,0 +1,18 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "route53",
+        "servicediscovery"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "route53:ChangeResourceRecordSets",
+        "route53:DeleteHealthCheck",
+        "route53:UpdateHealthCheck",
+        "servicediscovery:DeregisterInstance",
+        "servicediscovery:RegisterInstance"
+    ]
+}

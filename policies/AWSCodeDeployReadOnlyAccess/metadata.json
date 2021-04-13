@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSCodeDeployReadOnlyAccess",
+    "PolicyId": "ANPAILZHHKCKB4NE7XOIQ",
+    "Arn": "arn:aws:iam::aws:policy/AWSCodeDeployReadOnlyAccess",
+    "Path": "/",
+    "DefaultVersionId": "v3",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2015-05-19T18:21:32+00:00",
+    "UpdateDate": "2020-04-02T16:20:09+00:00"
+}

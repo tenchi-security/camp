@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSCertificateManagerPrivateCAPrivilegedUser",
+    "PolicyId": "ANPAZKAPJZG4EQ6CWU5X5",
+    "Arn": "arn:aws:iam::aws:policy/AWSCertificateManagerPrivateCAPrivilegedUser",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2019-06-20T17:43:13+00:00",
+    "UpdateDate": "2019-06-20T17:43:13+00:00"
+}

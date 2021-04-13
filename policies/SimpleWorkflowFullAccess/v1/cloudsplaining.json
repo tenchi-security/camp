@@ -1,0 +1,44 @@
+{
+    "ServiceWildcard": [
+        "swf"
+    ],
+    "ServicesAffected": [
+        "swf"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "swf:CancelTimer",
+        "swf:CancelWorkflowExecution",
+        "swf:CompleteWorkflowExecution",
+        "swf:ContinueAsNewWorkflowExecution",
+        "swf:DeprecateActivityType",
+        "swf:DeprecateDomain",
+        "swf:DeprecateWorkflowType",
+        "swf:FailWorkflowExecution",
+        "swf:PollForActivityTask",
+        "swf:PollForDecisionTask",
+        "swf:RecordActivityTaskHeartbeat",
+        "swf:RecordMarker",
+        "swf:RegisterActivityType",
+        "swf:RegisterWorkflowType",
+        "swf:RequestCancelActivityTask",
+        "swf:RequestCancelExternalWorkflowExecution",
+        "swf:RequestCancelWorkflowExecution",
+        "swf:RespondActivityTaskCanceled",
+        "swf:RespondActivityTaskCompleted",
+        "swf:RespondActivityTaskFailed",
+        "swf:RespondDecisionTaskCompleted",
+        "swf:ScheduleActivityTask",
+        "swf:SignalExternalWorkflowExecution",
+        "swf:SignalWorkflowExecution",
+        "swf:StartChildWorkflowExecution",
+        "swf:StartTimer",
+        "swf:StartWorkflowExecution",
+        "swf:TagResource",
+        "swf:TerminateWorkflowExecution",
+        "swf:UntagResource"
+    ]
+}

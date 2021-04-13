@@ -1,0 +1,6 @@
+{
+    "VersionId": "v2",
+    "IsDefaultVersion": false,
+    "CreateDate": "2015-07-09T22:12:17+00:00",
+    "PolicyName": "AWSCodePipelineFullAccess"
+}

@@ -1,0 +1,21 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": [
+                "aws-portal:*Billing",
+                "awsbillingconsole:*Billing",
+                "aws-portal:*Usage",
+                "awsbillingconsole:*Usage",
+                "aws-portal:*PaymentMethods",
+                "awsbillingconsole:*PaymentMethods",
+                "budgets:ViewBudget",
+                "budgets:ModifyBudget",
+                "cur:*",
+                "purchase-orders:*PurchaseOrders"
+            ],
+            "Resource": "*"
+        }
+    ]
+}

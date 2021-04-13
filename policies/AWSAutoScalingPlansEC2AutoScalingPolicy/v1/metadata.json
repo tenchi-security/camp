@@ -1,0 +1,6 @@
+{
+    "VersionId": "v1",
+    "IsDefaultVersion": true,
+    "CreateDate": "2018-08-23T22:46:59+00:00",
+    "PolicyName": "AWSAutoScalingPlansEC2AutoScalingPolicy"
+}

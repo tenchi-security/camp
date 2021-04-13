@@ -1,0 +1,19 @@
+{
+    "ServiceWildcard": [
+        "health"
+    ],
+    "ServicesAffected": [
+        "iam"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "health:DisableHealthServiceAccessForOrganization",
+        "health:EnableHealthServiceAccessForOrganization",
+        "iam:CreateServiceLinkedRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "iam:CreateServiceLinkedRole"
+    ]
+}

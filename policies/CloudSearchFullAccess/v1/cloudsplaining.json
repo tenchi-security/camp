@@ -1,0 +1,35 @@
+{
+    "ServiceWildcard": [
+        "cloudsearch"
+    ],
+    "ServicesAffected": [
+        "cloudsearch"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "cloudsearch:UpdateServiceAccessPolicies"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "cloudsearch:AddTags",
+        "cloudsearch:BuildSuggesters",
+        "cloudsearch:CreateDomain",
+        "cloudsearch:DefineAnalysisScheme",
+        "cloudsearch:DefineExpression",
+        "cloudsearch:DefineIndexField",
+        "cloudsearch:DefineSuggester",
+        "cloudsearch:DeleteAnalysisScheme",
+        "cloudsearch:DeleteDomain",
+        "cloudsearch:DeleteExpression",
+        "cloudsearch:DeleteIndexField",
+        "cloudsearch:DeleteSuggester",
+        "cloudsearch:IndexDocuments",
+        "cloudsearch:RemoveTags",
+        "cloudsearch:UpdateAvailabilityOptions",
+        "cloudsearch:UpdateDomainEndpointOptions",
+        "cloudsearch:UpdateScalingParameters",
+        "cloudsearch:UpdateServiceAccessPolicies",
+        "cloudsearch:document"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "cloudfront",
+        "config"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "cloudfront:UpdateDistribution",
+        "config:DeleteConfigRule",
+        "config:PutConfigRule",
+        "config:StartConfigRulesEvaluation"
+    ]
+}

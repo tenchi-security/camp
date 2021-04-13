@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonWorkMailFullAccess",
+    "PolicyId": "ANPAJQVKNMT7SVATQ4AUY",
+    "Arn": "arn:aws:iam::aws:policy/AmazonWorkMailFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v10",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2015-02-06T18:40:41+00:00",
+    "UpdateDate": "2020-12-21T14:13:40+00:00"
+}

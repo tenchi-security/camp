@@ -1,0 +1,12 @@
+{
+    "PolicyName": "VMImportExportRoleForAWSConnector",
+    "PolicyId": "ANPAJFLQOOJ6F5XNX4LAW",
+    "Arn": "arn:aws:iam::aws:policy/service-role/VMImportExportRoleForAWSConnector",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2015-09-03T20:48:59+00:00",
+    "UpdateDate": "2015-09-03T20:48:59+00:00"
+}

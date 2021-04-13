@@ -1,0 +1,18 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "iot"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "iot:Connect",
+        "iot:DeleteThingShadow",
+        "iot:Publish",
+        "iot:Receive",
+        "iot:Subscribe",
+        "iot:UpdateThingShadow"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Action": [
+                "translate:*",
+                "comprehend:DetectDominantLanguage",
+                "cloudwatch:GetMetricStatistics",
+                "cloudwatch:ListMetrics"
+            ],
+            "Effect": "Allow",
+            "Resource": "*"
+        }
+    ]
+}

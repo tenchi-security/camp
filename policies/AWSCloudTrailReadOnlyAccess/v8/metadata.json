@@ -1,0 +1,6 @@
+{
+    "VersionId": "v8",
+    "IsDefaultVersion": false,
+    "CreateDate": "2019-10-31T22:42:54+00:00",
+    "PolicyName": "AWSCloudTrailReadOnlyAccess"
+}

@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonDevOpsGuruServiceRolePolicy",
+    "PolicyId": "ANPAZKAPJZG4LOGPH224B",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/AmazonDevOpsGuruServiceRolePolicy",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2020-12-01T10:24:42+00:00",
+    "UpdateDate": "2020-12-01T10:24:42+00:00"
+}

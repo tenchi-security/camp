@@ -1,0 +1,28 @@
+{
+    "ServiceWildcard": [
+        "panorama"
+    ],
+    "ServicesAffected": [
+        "panorama"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "panorama:CreateAppVersion",
+        "panorama:CreateDataSource",
+        "panorama:CreateInputs",
+        "panorama:CreateStreams",
+        "panorama:DeleteApp",
+        "panorama:DeleteAppVersion",
+        "panorama:DeleteDataSource",
+        "panorama:DeleteDevice",
+        "panorama:DeleteModel",
+        "panorama:TagResource",
+        "panorama:UntagResource",
+        "panorama:UpdateApp",
+        "panorama:UpdateAppConfiguration",
+        "panorama:UpdateDataSource"
+    ]
+}

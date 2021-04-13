@@ -1,0 +1,39 @@
+{
+    "ServiceWildcard": [
+        "personalize"
+    ],
+    "ServicesAffected": [
+        "iam",
+        "personalize"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:PassRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "iam:PassRole",
+        "personalize:CreateBatchInferenceJob",
+        "personalize:CreateCampaign",
+        "personalize:CreateDataset",
+        "personalize:CreateDatasetGroup",
+        "personalize:CreateDatasetImportJob",
+        "personalize:CreateEventTracker",
+        "personalize:CreateFilter",
+        "personalize:CreateSchema",
+        "personalize:CreateSolution",
+        "personalize:CreateSolutionVersion",
+        "personalize:DeleteCampaign",
+        "personalize:DeleteDataset",
+        "personalize:DeleteDatasetGroup",
+        "personalize:DeleteEventTracker",
+        "personalize:DeleteFilter",
+        "personalize:DeleteSchema",
+        "personalize:DeleteSolution",
+        "personalize:PutEvents",
+        "personalize:PutItems",
+        "personalize:PutUsers",
+        "personalize:UpdateCampaign"
+    ]
+}

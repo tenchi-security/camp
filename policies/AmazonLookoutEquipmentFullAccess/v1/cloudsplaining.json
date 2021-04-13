@@ -1,0 +1,35 @@
+{
+    "ServiceWildcard": [
+        "lookoutequipment"
+    ],
+    "ServicesAffected": [
+        "iam",
+        "kms",
+        "lookoutequipment"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:PassRole",
+        "kms:CreateGrant",
+        "kms:RetireGrant"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "iam:PassRole",
+        "kms:CreateGrant",
+        "kms:RetireGrant",
+        "lookoutequipment:CreateDataset",
+        "lookoutequipment:CreateInferenceScheduler",
+        "lookoutequipment:CreateModel",
+        "lookoutequipment:DeleteDataset",
+        "lookoutequipment:DeleteInferenceScheduler",
+        "lookoutequipment:DeleteModel",
+        "lookoutequipment:StartDataIngestionJob",
+        "lookoutequipment:StartInferenceScheduler",
+        "lookoutequipment:StopInferenceScheduler",
+        "lookoutequipment:TagResource",
+        "lookoutequipment:UntagResource",
+        "lookoutequipment:UpdateInferenceScheduler"
+    ]
+}

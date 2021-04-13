@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonTranscribeReadOnlyAccess",
+    "PolicyId": "ANPAJM6JONISXCAZKFCAO",
+    "Arn": "arn:aws:iam::aws:policy/AmazonTranscribeReadOnlyAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2018-04-04T16:05:06+00:00",
+    "UpdateDate": "2018-04-04T16:05:06+00:00"
+}

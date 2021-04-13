@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonElasticMapReduceRole",
+    "PolicyId": "ANPAIDI2BQT2LKXZG36TW",
+    "Arn": "arn:aws:iam::aws:policy/service-role/AmazonElasticMapReduceRole",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v10",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2015-02-06T18:41:20+00:00",
+    "UpdateDate": "2020-06-24T22:24:20+00:00"
+}

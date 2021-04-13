@@ -1,0 +1,6 @@
+{
+    "VersionId": "v6",
+    "IsDefaultVersion": true,
+    "CreateDate": "2021-03-25T18:40:18+00:00",
+    "PolicyName": "CloudWatchSyntheticsFullAccess"
+}

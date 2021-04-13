@@ -1,0 +1,12 @@
+{
+    "PolicyName": "EC2InstanceProfileForImageBuilder",
+    "PolicyId": "ANPAZKAPJZG4EJC2UPLYL",
+    "Arn": "arn:aws:iam::aws:policy/EC2InstanceProfileForImageBuilder",
+    "Path": "/",
+    "DefaultVersionId": "v3",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2019-12-01T19:08:23+00:00",
+    "UpdateDate": "2020-08-27T16:40:50+00:00"
+}

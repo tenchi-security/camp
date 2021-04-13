@@ -1,0 +1,6 @@
+{
+    "VersionId": "v7",
+    "IsDefaultVersion": false,
+    "CreateDate": "2018-07-18T21:22:11+00:00",
+    "PolicyName": "AWSIoTConfigReadOnlyAccess"
+}

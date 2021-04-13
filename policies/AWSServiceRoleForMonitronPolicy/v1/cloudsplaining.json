@@ -1,0 +1,11 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "sso:AssociateProfile"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": []
+}

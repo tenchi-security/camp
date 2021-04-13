@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonMachineLearningReadOnlyAccess",
+    "PolicyId": "ANPAIW5VYBCGEX56JCINC",
+    "Arn": "arn:aws:iam::aws:policy/AmazonMachineLearningReadOnlyAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2015-04-09T17:40:02+00:00",
+    "UpdateDate": "2015-04-09T17:40:02+00:00"
+}
