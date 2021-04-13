@@ -202,7 +202,7 @@ if __name__ == "__main__":
                                        help='download updated policies using AWS IAM API calls',
                                        description='download updated policies using AWS IAM API calls')
     parser.add_argument("-p", "--profile",
-                        help="which profile to obtain AWS credentials for the Organization master account",
+                        help="which profile to obtain AWS credentials from",
                         required=False, default=None)
     org_parser.add_argument("-f", "--force", help='re-download policies even if they are already on disk',
                             action='store_true')
@@ -212,7 +212,7 @@ if __name__ == "__main__":
     org_parser = subparsers.add_parser('scan',
                                        help='process policies using CloudSplaining',
                                        description='process policies using CloudSplaining')
-    org_parser.add_argument("-f", "--force", help='re-download policies even if they are already on disk',
+    org_parser.add_argument("-f", "--force", help='re-process policies even if previous analysis output exists on disk',
                             action='store_true')
     org_parser.set_defaults(command="scan")
 
