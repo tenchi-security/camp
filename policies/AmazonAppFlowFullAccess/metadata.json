@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonAppFlowFullAccess",
+    "PolicyId": "ANPAZKAPJZG4PGBU2ALC4",
+    "Arn": "arn:aws:iam::aws:policy/AmazonAppFlowFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v2",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2020-06-02T23:30:14+00:00",
+    "UpdateDate": "2020-12-07T22:49:15+00:00"
+}

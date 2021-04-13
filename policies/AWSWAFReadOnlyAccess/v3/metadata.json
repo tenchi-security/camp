@@ -1,0 +1,6 @@
+{
+    "VersionId": "v3",
+    "IsDefaultVersion": false,
+    "CreateDate": "2020-01-07T19:27:38+00:00",
+    "PolicyName": "AWSWAFReadOnlyAccess"
+}

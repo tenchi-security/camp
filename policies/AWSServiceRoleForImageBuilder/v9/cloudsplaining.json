@@ -1,0 +1,38 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "ec2",
+        "iam",
+        "kms",
+        "license-manager",
+        "sns",
+        "ssm"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:PassRole",
+        "kms:CreateGrant"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "ec2:CopyImage",
+        "ec2:CreateImage",
+        "ec2:CreateLaunchTemplate",
+        "ec2:CreateTags",
+        "ec2:DeregisterImage",
+        "ec2:ModifyImageAttribute",
+        "ec2:StopInstances",
+        "ec2:TerminateInstances",
+        "iam:PassRole",
+        "kms:CreateGrant",
+        "kms:Decrypt",
+        "kms:Encrypt",
+        "kms:GenerateDataKeyWithoutPlaintext",
+        "kms:ReEncryptFrom",
+        "kms:ReEncryptTo",
+        "license-manager:UpdateLicenseSpecificationsForResource",
+        "sns:Publish",
+        "ssm:AddTagsToResource"
+    ]
+}

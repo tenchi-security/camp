@@ -1,0 +1,6 @@
+{
+    "VersionId": "v5",
+    "IsDefaultVersion": false,
+    "CreateDate": "2017-08-08T20:43:17+00:00",
+    "PolicyName": "AWSCodeDeployRole"
+}

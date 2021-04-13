@@ -1,0 +1,26 @@
+{
+    "ServiceWildcard": [
+        "servicediscovery"
+    ],
+    "ServicesAffected": [
+        "route53",
+        "servicediscovery"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "route53:ChangeResourceRecordSets",
+        "route53:CreateHostedZone",
+        "route53:DeleteHealthCheck",
+        "route53:DeleteHostedZone",
+        "route53:UpdateHealthCheck",
+        "servicediscovery:CreateService",
+        "servicediscovery:DeleteNamespace",
+        "servicediscovery:DeleteService",
+        "servicediscovery:DeregisterInstance",
+        "servicediscovery:RegisterInstance",
+        "servicediscovery:UpdateService"
+    ]
+}

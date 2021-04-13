@@ -1,0 +1,49 @@
+{
+    "ServiceWildcard": [
+        "proton"
+    ],
+    "ServicesAffected": [
+        "iam",
+        "kms",
+        "proton"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "kms:CreateGrant",
+        "iam:PassRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "iam:PassRole",
+        "kms:CreateGrant",
+        "proton:CreateEnvironment",
+        "proton:CreateEnvironmentTemplate",
+        "proton:CreateEnvironmentTemplateMajorVersion",
+        "proton:CreateEnvironmentTemplateMinorVersion",
+        "proton:CreateService",
+        "proton:CreateServiceTemplate",
+        "proton:CreateServiceTemplateMajorVersion",
+        "proton:CreateServiceTemplateMinorVersion",
+        "proton:DeleteEnvironment",
+        "proton:DeleteEnvironmentTemplate",
+        "proton:DeleteEnvironmentTemplateMajorVersion",
+        "proton:DeleteEnvironmentTemplateMinorVersion",
+        "proton:DeleteService",
+        "proton:DeleteServiceTemplate",
+        "proton:DeleteServiceTemplateMajorVersion",
+        "proton:DeleteServiceTemplateMinorVersion",
+        "proton:TagResource",
+        "proton:UntagResource",
+        "proton:UpdateEnvironment",
+        "proton:UpdateEnvironmentTemplate",
+        "proton:UpdateEnvironmentTemplateMajorVersion",
+        "proton:UpdateEnvironmentTemplateMinorVersion",
+        "proton:UpdateService",
+        "proton:UpdateServiceInstance",
+        "proton:UpdateServicePipeline",
+        "proton:UpdateServiceTemplate",
+        "proton:UpdateServiceTemplateMajorVersion",
+        "proton:UpdateServiceTemplateMinorVersion"
+    ]
+}

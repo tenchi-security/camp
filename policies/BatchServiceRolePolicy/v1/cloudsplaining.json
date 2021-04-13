@@ -1,0 +1,29 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "autoscaling",
+        "ec2",
+        "ecs",
+        "iam"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:PassRole",
+        "iam:CreateServiceLinkedRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "autoscaling:CreateOrUpdateTags",
+        "ec2:CancelSpotFleetRequests",
+        "ec2:CreateLaunchTemplate",
+        "ec2:CreateTags",
+        "ec2:DeleteLaunchTemplate",
+        "ec2:ModifySpotFleetRequest",
+        "ec2:RequestSpotFleet",
+        "ec2:TerminateInstances",
+        "ecs:TagResource",
+        "iam:CreateServiceLinkedRole",
+        "iam:PassRole"
+    ]
+}

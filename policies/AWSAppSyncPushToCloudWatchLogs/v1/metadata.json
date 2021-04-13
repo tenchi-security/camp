@@ -1,0 +1,6 @@
+{
+    "VersionId": "v1",
+    "IsDefaultVersion": true,
+    "CreateDate": "2018-04-09T19:38:55+00:00",
+    "PolicyName": "AWSAppSyncPushToCloudWatchLogs"
+}

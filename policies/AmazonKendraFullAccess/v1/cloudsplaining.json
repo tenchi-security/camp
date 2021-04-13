@@ -1,0 +1,35 @@
+{
+    "ServiceWildcard": [
+        "kendra"
+    ],
+    "ServicesAffected": [
+        "iam",
+        "kendra"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:PassRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "iam:PassRole",
+        "kendra:BatchDeleteDocument",
+        "kendra:BatchPutDocument",
+        "kendra:CreateDataSource",
+        "kendra:CreateFaq",
+        "kendra:CreateThesaurus",
+        "kendra:DeleteDataSource",
+        "kendra:DeleteFaq",
+        "kendra:DeleteIndex",
+        "kendra:DeleteThesaurus",
+        "kendra:StartDataSourceSyncJob",
+        "kendra:StopDataSourceSyncJob",
+        "kendra:SubmitFeedback",
+        "kendra:TagResource",
+        "kendra:UntagResource",
+        "kendra:UpdateDataSource",
+        "kendra:UpdateIndex",
+        "kendra:UpdateThesaurus"
+    ]
+}

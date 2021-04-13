@@ -1,0 +1,6 @@
+{
+    "VersionId": "v7",
+    "IsDefaultVersion": false,
+    "CreateDate": "2019-12-03T08:08:37+00:00",
+    "PolicyName": "AWSCodeCommitReadOnly"
+}

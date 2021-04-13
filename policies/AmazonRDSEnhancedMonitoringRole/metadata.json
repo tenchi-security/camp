@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonRDSEnhancedMonitoringRole",
+    "PolicyId": "ANPAJV7BS425S4PTSSVGK",
+    "Arn": "arn:aws:iam::aws:policy/service-role/AmazonRDSEnhancedMonitoringRole",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 1,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2015-11-11T19:58:29+00:00",
+    "UpdateDate": "2015-11-11T19:58:29+00:00"
+}

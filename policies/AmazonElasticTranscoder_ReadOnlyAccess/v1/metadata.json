@@ -1,0 +1,6 @@
+{
+    "VersionId": "v1",
+    "IsDefaultVersion": false,
+    "CreateDate": "2018-06-07T21:09:56+00:00",
+    "PolicyName": "AmazonElasticTranscoder_ReadOnlyAccess"
+}

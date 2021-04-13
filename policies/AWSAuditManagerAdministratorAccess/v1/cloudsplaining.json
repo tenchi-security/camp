@@ -1,0 +1,43 @@
+{
+    "ServiceWildcard": [
+        "auditmanager"
+    ],
+    "ServicesAffected": [
+        "auditmanager",
+        "events",
+        "kms",
+        "organizations"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "kms:CreateGrant"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "auditmanager:AssociateAssessmentReportEvidenceFolder",
+        "auditmanager:BatchAssociateAssessmentReportEvidence",
+        "auditmanager:BatchCreateDelegationByAssessment",
+        "auditmanager:BatchDeleteDelegationByAssessment",
+        "auditmanager:BatchDisassociateAssessmentReportEvidence",
+        "auditmanager:BatchImportEvidenceToAssessmentControl",
+        "auditmanager:CreateAssessmentReport",
+        "auditmanager:DeleteAssessment",
+        "auditmanager:DeleteAssessmentFramework",
+        "auditmanager:DeleteAssessmentReport",
+        "auditmanager:DeleteControl",
+        "auditmanager:DisassociateAssessmentReportEvidenceFolder",
+        "auditmanager:TagResource",
+        "auditmanager:UntagResource",
+        "auditmanager:UpdateAssessment",
+        "auditmanager:UpdateAssessmentControl",
+        "auditmanager:UpdateAssessmentControlSetStatus",
+        "auditmanager:UpdateAssessmentFramework",
+        "auditmanager:UpdateAssessmentStatus",
+        "auditmanager:UpdateControl",
+        "events:PutRule",
+        "kms:CreateGrant",
+        "organizations:DeregisterDelegatedAdministrator",
+        "organizations:RegisterDelegatedAdministrator"
+    ]
+}

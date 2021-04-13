@@ -1,0 +1,25 @@
+{
+    "ServiceWildcard": [
+        "batch"
+    ],
+    "ServicesAffected": [
+        "batch"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "batch:CancelJob",
+        "batch:CreateJobQueue",
+        "batch:DeleteComputeEnvironment",
+        "batch:DeleteJobQueue",
+        "batch:DeregisterJobDefinition",
+        "batch:SubmitJob",
+        "batch:TagResource",
+        "batch:TerminateJob",
+        "batch:UntagResource",
+        "batch:UpdateComputeEnvironment",
+        "batch:UpdateJobQueue"
+    ]
+}

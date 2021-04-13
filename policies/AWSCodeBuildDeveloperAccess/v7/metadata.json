@@ -1,0 +1,6 @@
+{
+    "VersionId": "v7",
+    "IsDefaultVersion": false,
+    "CreateDate": "2019-11-05T22:12:45+00:00",
+    "PolicyName": "AWSCodeBuildDeveloperAccess"
+}

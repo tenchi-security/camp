@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSIoTWirelessReadOnlyAccess",
+    "PolicyId": "ANPAZKAPJZG4FJYYSL3ZA",
+    "Arn": "arn:aws:iam::aws:policy/AWSIoTWirelessReadOnlyAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2020-12-15T15:28:56+00:00",
+    "UpdateDate": "2020-12-15T15:28:56+00:00"
+}

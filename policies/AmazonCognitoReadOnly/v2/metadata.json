@@ -1,0 +1,6 @@
+{
+    "VersionId": "v2",
+    "IsDefaultVersion": false,
+    "CreateDate": "2016-06-02T17:30:24+00:00",
+    "PolicyName": "AmazonCognitoReadOnly"
+}

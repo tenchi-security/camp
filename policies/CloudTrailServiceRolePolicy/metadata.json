@@ -1,0 +1,12 @@
+{
+    "PolicyName": "CloudTrailServiceRolePolicy",
+    "PolicyId": "ANPAJXQJ45EGU6U7NQBW4",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/CloudTrailServiceRolePolicy",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2018-10-24T21:21:44+00:00",
+    "UpdateDate": "2018-10-24T21:21:44+00:00"
+}

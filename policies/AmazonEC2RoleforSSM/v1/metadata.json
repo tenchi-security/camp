@@ -1,0 +1,6 @@
+{
+    "VersionId": "v1",
+    "IsDefaultVersion": false,
+    "CreateDate": "2015-05-29T17:48:35+00:00",
+    "PolicyName": "AmazonEC2RoleforSSM"
+}

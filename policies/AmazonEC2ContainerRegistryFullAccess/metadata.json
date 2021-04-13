@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonEC2ContainerRegistryFullAccess",
+    "PolicyId": "ANPAIESRL7KD7IIVF6V4W",
+    "Arn": "arn:aws:iam::aws:policy/AmazonEC2ContainerRegistryFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v3",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2015-12-21T17:06:48+00:00",
+    "UpdateDate": "2020-12-05T00:04:19+00:00"
+}

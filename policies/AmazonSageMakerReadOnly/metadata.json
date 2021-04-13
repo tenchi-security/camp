@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonSageMakerReadOnly",
+    "PolicyId": "ANPAJTZ2FTFCQ6CFLQA2O",
+    "Arn": "arn:aws:iam::aws:policy/AmazonSageMakerReadOnly",
+    "Path": "/",
+    "DefaultVersionId": "v9",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2017-11-29T13:07:09+00:00",
+    "UpdateDate": "2020-12-08T16:17:08+00:00"
+}

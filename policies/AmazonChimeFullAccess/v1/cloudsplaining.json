@@ -1,0 +1,53 @@
+{
+    "ServiceWildcard": [
+        "chime"
+    ],
+    "ServicesAffected": [
+        "chime"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "chime:DeleteVoiceConnectorTerminationCredentials",
+        "chime:PutVoiceConnectorTerminationCredentials"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [
+        "chime:CreateApiKey"
+    ],
+    "InfrastructureModification": [
+        "chime:BatchCreateAttendee",
+        "chime:CreateAppInstanceAdmin",
+        "chime:CreateAttendee",
+        "chime:CreateChannel",
+        "chime:CreateChannelBan",
+        "chime:CreateChannelMembership",
+        "chime:CreateChannelModerator",
+        "chime:CreateMeetingDialOut",
+        "chime:DeleteAppInstance",
+        "chime:DeleteAppInstanceAdmin",
+        "chime:DeleteAppInstanceStreamingConfigurations",
+        "chime:DeleteAppInstanceUser",
+        "chime:DeleteAttendee",
+        "chime:DeleteChannel",
+        "chime:DeleteChannelBan",
+        "chime:DeleteChannelMembership",
+        "chime:DeleteChannelMessage",
+        "chime:DeleteChannelModerator",
+        "chime:DeleteMeeting",
+        "chime:PutAppInstanceRetentionSettings",
+        "chime:PutAppInstanceStreamingConfigurations",
+        "chime:RedactChannelMessage",
+        "chime:SendChannelMessage",
+        "chime:TagAttendee",
+        "chime:TagMeeting",
+        "chime:TagResource",
+        "chime:UntagAttendee",
+        "chime:UntagMeeting",
+        "chime:UntagResource",
+        "chime:UpdateAppInstance",
+        "chime:UpdateAppInstanceUser",
+        "chime:UpdateChannel",
+        "chime:UpdateChannelMessage",
+        "chime:UpdateChannelReadMarker"
+    ]
+}

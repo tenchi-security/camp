@@ -1,0 +1,44 @@
+{
+    "ServiceWildcard": [
+        "events"
+    ],
+    "ServicesAffected": [
+        "events"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "events:PutPermission",
+        "events:RemovePermission"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "events:ActivateEventSource",
+        "events:CancelReplay",
+        "events:CreateApiDestination",
+        "events:CreateArchive",
+        "events:CreateConnection",
+        "events:CreateEventBus",
+        "events:CreatePartnerEventSource",
+        "events:DeactivateEventSource",
+        "events:DeauthorizeConnection",
+        "events:DeleteApiDestination",
+        "events:DeleteArchive",
+        "events:DeleteConnection",
+        "events:DeleteEventBus",
+        "events:DeletePartnerEventSource",
+        "events:DeleteRule",
+        "events:DisableRule",
+        "events:EnableRule",
+        "events:PutEvents",
+        "events:PutRule",
+        "events:PutTargets",
+        "events:RemoveTargets",
+        "events:StartReplay",
+        "events:TagResource",
+        "events:UntagResource",
+        "events:UpdateApiDestination",
+        "events:UpdateArchive",
+        "events:UpdateConnection"
+    ]
+}

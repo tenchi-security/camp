@@ -1,0 +1,6 @@
+{
+    "VersionId": "v3",
+    "IsDefaultVersion": false,
+    "CreateDate": "2017-08-14T10:09:49+00:00",
+    "PolicyName": "AmazonElasticFileSystemReadOnlyAccess"
+}

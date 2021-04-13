@@ -1,0 +1,68 @@
+{
+    "ServiceWildcard": [
+        "glue"
+    ],
+    "ServicesAffected": [
+        "glue"
+    ],
+    "PrivilegeEscalation": [
+        {
+            "type": "UpdateExistingGlueDevEndpoint",
+            "actions": [
+                "glue:updatedevendpoint"
+            ]
+        }
+    ],
+    "ResourceExposure": [
+        "glue:DeleteResourcePolicy",
+        "glue:PutResourcePolicy"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "glue:BatchCreatePartition",
+        "glue:BatchDeleteConnection",
+        "glue:BatchDeletePartition",
+        "glue:BatchDeleteTable",
+        "glue:BatchDeleteTableVersion",
+        "glue:CancelMLTaskRun",
+        "glue:CreateConnection",
+        "glue:CreateDatabase",
+        "glue:CreatePartition",
+        "glue:CreateRegistry",
+        "glue:CreateSchema",
+        "glue:CreateTable",
+        "glue:CreateUserDefinedFunction",
+        "glue:DeleteConnection",
+        "glue:DeleteDatabase",
+        "glue:DeleteMLTransform",
+        "glue:DeletePartition",
+        "glue:DeleteRegistry",
+        "glue:DeleteResourcePolicy",
+        "glue:DeleteSchema",
+        "glue:DeleteSchemaVersions",
+        "glue:DeleteTable",
+        "glue:DeleteTableVersion",
+        "glue:DeleteUserDefinedFunction",
+        "glue:ImportCatalogToGlue",
+        "glue:PutResourcePolicy",
+        "glue:PutSchemaVersionMetadata",
+        "glue:RegisterSchemaVersion",
+        "glue:RemoveSchemaVersionMetadata",
+        "glue:StartExportLabelsTaskRun",
+        "glue:StartImportLabelsTaskRun",
+        "glue:StartMLEvaluationTaskRun",
+        "glue:StartMLLabelingSetGenerationTaskRun",
+        "glue:TagResource",
+        "glue:UntagResource",
+        "glue:UpdateConnection",
+        "glue:UpdateDatabase",
+        "glue:UpdateMLTransform",
+        "glue:UpdatePartition",
+        "glue:UpdateRegistry",
+        "glue:UpdateSchema",
+        "glue:UpdateTable",
+        "glue:UpdateUserDefinedFunction",
+        "glue:UseMLTransforms"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "ServiceWildcard": [
+        "medialive"
+    ],
+    "ServicesAffected": [
+        "medialive"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "medialive:AcceptInputDeviceTransfer",
+        "medialive:BatchDelete",
+        "medialive:BatchStart",
+        "medialive:BatchStop",
+        "medialive:BatchUpdateSchedule",
+        "medialive:CancelInputDeviceTransfer",
+        "medialive:CreateChannel",
+        "medialive:CreateInput",
+        "medialive:CreateInputSecurityGroup",
+        "medialive:CreateMultiplex",
+        "medialive:CreateMultiplexProgram",
+        "medialive:CreateTags",
+        "medialive:DeleteChannel",
+        "medialive:DeleteInput",
+        "medialive:DeleteInputSecurityGroup",
+        "medialive:DeleteMultiplex",
+        "medialive:DeleteMultiplexProgram",
+        "medialive:DeleteReservation",
+        "medialive:DeleteSchedule",
+        "medialive:DeleteTags",
+        "medialive:PurchaseOffering",
+        "medialive:RejectInputDeviceTransfer",
+        "medialive:StartChannel",
+        "medialive:StartMultiplex",
+        "medialive:StopChannel",
+        "medialive:StopMultiplex",
+        "medialive:TransferInputDevice",
+        "medialive:UpdateChannel",
+        "medialive:UpdateChannelClass",
+        "medialive:UpdateInput",
+        "medialive:UpdateInputDevice",
+        "medialive:UpdateInputSecurityGroup",
+        "medialive:UpdateMultiplex",
+        "medialive:UpdateMultiplexProgram",
+        "medialive:UpdateReservation"
+    ]
+}

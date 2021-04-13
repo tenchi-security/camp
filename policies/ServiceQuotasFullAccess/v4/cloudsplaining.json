@@ -1,0 +1,23 @@
+{
+    "ServiceWildcard": [
+        "servicequotas"
+    ],
+    "ServicesAffected": [
+        "cloudwatch",
+        "iam",
+        "servicequotas"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:CreateServiceLinkedRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "cloudwatch:DeleteAlarms",
+        "cloudwatch:PutMetricAlarm",
+        "iam:CreateServiceLinkedRole",
+        "servicequotas:PutServiceQuotaIncreaseRequestIntoTemplate",
+        "servicequotas:RequestServiceQuotaIncrease"
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "VersionId": "v2",
+    "IsDefaultVersion": false,
+    "CreateDate": "2017-07-07T21:16:47+00:00",
+    "PolicyName": "QuickSightAccessForS3StorageManagementAnalyticsReadOnly"
+}

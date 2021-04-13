@@ -1,0 +1,49 @@
+{
+    "ServiceWildcard": [
+        "frauddetector"
+    ],
+    "ServicesAffected": [
+        "frauddetector",
+        "iam"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:PassRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "frauddetector:CreateDetectorVersion",
+        "frauddetector:CreateModel",
+        "frauddetector:CreateModelVersion",
+        "frauddetector:CreateRule",
+        "frauddetector:DeleteDetector",
+        "frauddetector:DeleteDetectorVersion",
+        "frauddetector:DeleteEntityType",
+        "frauddetector:DeleteEventType",
+        "frauddetector:DeleteExternalModel",
+        "frauddetector:DeleteLabel",
+        "frauddetector:DeleteModel",
+        "frauddetector:DeleteModelVersion",
+        "frauddetector:DeleteOutcome",
+        "frauddetector:DeleteRule",
+        "frauddetector:DeleteVariable",
+        "frauddetector:PutDetector",
+        "frauddetector:PutEntityType",
+        "frauddetector:PutEventType",
+        "frauddetector:PutExternalModel",
+        "frauddetector:PutLabel",
+        "frauddetector:PutOutcome",
+        "frauddetector:TagResource",
+        "frauddetector:UntagResource",
+        "frauddetector:UpdateDetectorVersion",
+        "frauddetector:UpdateDetectorVersionMetadata",
+        "frauddetector:UpdateDetectorVersionStatus",
+        "frauddetector:UpdateModel",
+        "frauddetector:UpdateModelVersion",
+        "frauddetector:UpdateRuleMetadata",
+        "frauddetector:UpdateRuleVersion",
+        "frauddetector:UpdateVariable",
+        "iam:PassRole"
+    ]
+}

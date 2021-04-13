@@ -1,0 +1,28 @@
+{
+    "ServiceWildcard": [
+        "access-analyzer"
+    ],
+    "ServicesAffected": [
+        "access-analyzer",
+        "iam"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:CreateServiceLinkedRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "access-analyzer:ApplyArchiveRule",
+        "access-analyzer:CreateAnalyzer",
+        "access-analyzer:CreateArchiveRule",
+        "access-analyzer:DeleteAnalyzer",
+        "access-analyzer:DeleteArchiveRule",
+        "access-analyzer:StartResourceScan",
+        "access-analyzer:TagResource",
+        "access-analyzer:UntagResource",
+        "access-analyzer:UpdateArchiveRule",
+        "access-analyzer:UpdateFindings",
+        "iam:CreateServiceLinkedRole"
+    ]
+}

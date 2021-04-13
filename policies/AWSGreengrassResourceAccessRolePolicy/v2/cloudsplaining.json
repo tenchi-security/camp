@@ -1,0 +1,20 @@
+{
+    "ServiceWildcard": [
+        "greengrass"
+    ],
+    "ServicesAffected": [
+        "greengrass"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "greengrass:CancelDeployment",
+        "greengrass:CreateComponentVersion",
+        "greengrass:DeleteComponent",
+        "greengrass:DeleteCoreDevice",
+        "greengrass:TagResource",
+        "greengrass:UntagResource"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "autoscaling",
+        "ec2",
+        "iam",
+        "license-manager",
+        "sns",
+        "ssm"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:CreateServiceLinkedRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "autoscaling:CreateAutoScalingGroup",
+        "autoscaling:DeleteAutoScalingGroup",
+        "autoscaling:DetachInstances",
+        "autoscaling:SuspendProcesses",
+        "ec2:CopyImage",
+        "ec2:CreateImage",
+        "ec2:CreateLaunchTemplate",
+        "ec2:DeleteLaunchTemplate",
+        "ec2:DeregisterImage",
+        "ec2:ModifyImageAttribute",
+        "ec2:StopInstances",
+        "ec2:TerminateInstances",
+        "iam:CreateServiceLinkedRole",
+        "license-manager:UpdateLicenseSpecificationsForResource",
+        "sns:Publish",
+        "ssm:AddTagsToResource"
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "VersionId": "v2",
+    "IsDefaultVersion": false,
+    "CreateDate": "2020-11-06T03:15:41+00:00",
+    "PolicyName": "AmazonEventBridgeReadOnlyAccess"
+}

@@ -1,0 +1,6 @@
+{
+    "VersionId": "v3",
+    "IsDefaultVersion": false,
+    "CreateDate": "2018-06-07T21:00:25+00:00",
+    "PolicyName": "AWSEC2SpotServiceRolePolicy"
+}

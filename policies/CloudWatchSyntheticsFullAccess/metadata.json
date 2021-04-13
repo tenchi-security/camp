@@ -1,0 +1,12 @@
+{
+    "PolicyName": "CloudWatchSyntheticsFullAccess",
+    "PolicyId": "ANPAZKAPJZG4MAGQWEZP4",
+    "Arn": "arn:aws:iam::aws:policy/CloudWatchSyntheticsFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v6",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2019-11-25T17:39:46+00:00",
+    "UpdateDate": "2021-03-25T18:40:18+00:00"
+}

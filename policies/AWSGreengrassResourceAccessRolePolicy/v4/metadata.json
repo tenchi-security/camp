@@ -1,0 +1,6 @@
+{
+    "VersionId": "v4",
+    "IsDefaultVersion": false,
+    "CreateDate": "2018-03-28T17:32:49+00:00",
+    "PolicyName": "AWSGreengrassResourceAccessRolePolicy"
+}

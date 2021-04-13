@@ -1,0 +1,6 @@
+{
+    "VersionId": "v4",
+    "IsDefaultVersion": false,
+    "CreateDate": "2019-11-05T21:02:49+00:00",
+    "PolicyName": "AWSCodeCommitFullAccess"
+}

@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonDevOpsGuruReadOnlyAccess",
+    "PolicyId": "ANPAZKAPJZG4JK4QO3QK6",
+    "Arn": "arn:aws:iam::aws:policy/AmazonDevOpsGuruReadOnlyAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2020-12-01T16:34:40+00:00",
+    "UpdateDate": "2020-12-01T16:34:40+00:00"
+}

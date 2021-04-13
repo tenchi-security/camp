@@ -1,0 +1,37 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "elasticmapreduce",
+        "iam"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "elasticmapreduce:PutBlockPublicAccessConfiguration",
+        "iam:CreateServiceLinkedRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "elasticmapreduce:AddInstanceFleet",
+        "elasticmapreduce:AddInstanceGroups",
+        "elasticmapreduce:AddJobFlowSteps",
+        "elasticmapreduce:AddTags",
+        "elasticmapreduce:CancelSteps",
+        "elasticmapreduce:CreateEditor",
+        "elasticmapreduce:DeleteEditor",
+        "elasticmapreduce:ModifyCluster",
+        "elasticmapreduce:ModifyInstanceFleet",
+        "elasticmapreduce:ModifyInstanceGroups",
+        "elasticmapreduce:OpenEditorInConsole",
+        "elasticmapreduce:PutAutoScalingPolicy",
+        "elasticmapreduce:PutManagedScalingPolicy",
+        "elasticmapreduce:RemoveAutoScalingPolicy",
+        "elasticmapreduce:RemoveManagedScalingPolicy",
+        "elasticmapreduce:RemoveTags",
+        "elasticmapreduce:SetTerminationProtection",
+        "elasticmapreduce:StartEditor",
+        "elasticmapreduce:StopEditor",
+        "elasticmapreduce:TerminateJobFlows",
+        "iam:CreateServiceLinkedRole"
+    ]
+}

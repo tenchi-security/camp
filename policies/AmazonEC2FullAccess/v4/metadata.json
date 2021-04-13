@@ -1,0 +1,6 @@
+{
+    "VersionId": "v4",
+    "IsDefaultVersion": false,
+    "CreateDate": "2018-02-08T18:11:24+00:00",
+    "PolicyName": "AmazonEC2FullAccess"
+}

@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonECSTaskExecutionRolePolicy",
+    "PolicyId": "ANPAJG4T4G4PV56DE72PY",
+    "Arn": "arn:aws:iam::aws:policy/service-role/AmazonECSTaskExecutionRolePolicy",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 1,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2017-11-16T18:48:22+00:00",
+    "UpdateDate": "2017-11-16T18:48:22+00:00"
+}

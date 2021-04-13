@@ -1,0 +1,35 @@
+{
+    "ServiceWildcard": [
+        "codeartifact"
+    ],
+    "ServicesAffected": [
+        "codeartifact"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "codeartifact:DeleteDomainPermissionsPolicy",
+        "codeartifact:DeleteRepositoryPermissionsPolicy"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "codeartifact:AssociateExternalConnection",
+        "codeartifact:AssociateWithDownstreamRepository",
+        "codeartifact:CopyPackageVersions",
+        "codeartifact:DeleteDomain",
+        "codeartifact:DeleteDomainPermissionsPolicy",
+        "codeartifact:DeletePackageVersions",
+        "codeartifact:DeleteRepository",
+        "codeartifact:DeleteRepositoryPermissionsPolicy",
+        "codeartifact:DisassociateExternalConnection",
+        "codeartifact:DisposePackageVersions",
+        "codeartifact:PublishPackageVersion",
+        "codeartifact:PutDomainPermissionsPolicy",
+        "codeartifact:PutPackageMetadata",
+        "codeartifact:PutRepositoryPermissionsPolicy",
+        "codeartifact:TagResource",
+        "codeartifact:UntagResource",
+        "codeartifact:UpdatePackageVersionsStatus",
+        "codeartifact:UpdateRepository"
+    ]
+}

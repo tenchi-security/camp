@@ -1,0 +1,49 @@
+{
+    "ServiceWildcard": [
+        "iotsitewise"
+    ],
+    "ServicesAffected": [
+        "iotanalytics",
+        "iotsitewise",
+        "secretsmanager"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "iotanalytics:CreateChannel",
+        "iotanalytics:CreateDataset",
+        "iotanalytics:CreateDatasetContent",
+        "iotanalytics:CreateDatastore",
+        "iotanalytics:CreatePipeline",
+        "iotsitewise:AssociateAssets",
+        "iotsitewise:BatchAssociateProjectAssets",
+        "iotsitewise:BatchDisassociateProjectAssets",
+        "iotsitewise:BatchPutAssetPropertyValue",
+        "iotsitewise:CreateAccessPolicy",
+        "iotsitewise:CreateAsset",
+        "iotsitewise:CreateDashboard",
+        "iotsitewise:CreateProject",
+        "iotsitewise:DeleteAccessPolicy",
+        "iotsitewise:DeleteAsset",
+        "iotsitewise:DeleteAssetModel",
+        "iotsitewise:DeleteDashboard",
+        "iotsitewise:DeleteGateway",
+        "iotsitewise:DeletePortal",
+        "iotsitewise:DeleteProject",
+        "iotsitewise:DisassociateAssets",
+        "iotsitewise:TagResource",
+        "iotsitewise:UntagResource",
+        "iotsitewise:UpdateAccessPolicy",
+        "iotsitewise:UpdateAsset",
+        "iotsitewise:UpdateAssetModel",
+        "iotsitewise:UpdateAssetProperty",
+        "iotsitewise:UpdateDashboard",
+        "iotsitewise:UpdateGateway",
+        "iotsitewise:UpdateGatewayCapabilityConfiguration",
+        "iotsitewise:UpdatePortal",
+        "iotsitewise:UpdateProject",
+        "secretsmanager:CreateSecret"
+    ]
+}

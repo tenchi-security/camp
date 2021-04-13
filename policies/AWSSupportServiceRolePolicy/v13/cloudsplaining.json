@@ -1,0 +1,18 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "ec2",
+        "ssm"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "ec2:AcceptReservedInstancesExchangeQuote",
+        "ec2:CreateReservedInstancesListing",
+        "ec2:ModifyReservedInstances",
+        "ec2:PurchaseReservedInstancesOffering",
+        "ssm:LabelParameterVersion"
+    ]
+}

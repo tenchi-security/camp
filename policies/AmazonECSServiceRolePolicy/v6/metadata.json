@@ -1,0 +1,6 @@
+{
+    "VersionId": "v6",
+    "IsDefaultVersion": false,
+    "CreateDate": "2019-06-24T23:16:41+00:00",
+    "PolicyName": "AmazonECSServiceRolePolicy"
+}

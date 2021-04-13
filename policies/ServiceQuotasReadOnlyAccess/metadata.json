@@ -1,0 +1,12 @@
+{
+    "PolicyName": "ServiceQuotasReadOnlyAccess",
+    "PolicyId": "ANPAZKAPJZG4ITU2HGGUJ",
+    "Arn": "arn:aws:iam::aws:policy/ServiceQuotasReadOnlyAccess",
+    "Path": "/",
+    "DefaultVersionId": "v2",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2019-06-24T15:31:06+00:00",
+    "UpdateDate": "2020-12-21T18:11:57+00:00"
+}

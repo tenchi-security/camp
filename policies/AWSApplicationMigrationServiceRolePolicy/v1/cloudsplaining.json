@@ -1,0 +1,20 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "ec2",
+        "mgh"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "ec2:DeregisterImage",
+        "mgh:AssociateCreatedArtifact",
+        "mgh:CreateProgressUpdateStream",
+        "mgh:DisassociateCreatedArtifact",
+        "mgh:ImportMigrationTask",
+        "mgh:NotifyMigrationTaskState",
+        "mgh:PutResourceAttributes"
+    ]
+}

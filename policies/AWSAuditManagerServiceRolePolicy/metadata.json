@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSAuditManagerServiceRolePolicy",
+    "PolicyId": "ANPAZKAPJZG4C5N52UWST",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/AWSAuditManagerServiceRolePolicy",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2020-12-08T15:12:12+00:00",
+    "UpdateDate": "2020-12-08T15:12:12+00:00"
+}

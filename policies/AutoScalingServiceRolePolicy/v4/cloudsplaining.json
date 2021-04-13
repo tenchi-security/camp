@@ -1,0 +1,43 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "cloudwatch",
+        "ec2",
+        "elasticloadbalancing",
+        "events",
+        "iam",
+        "sns"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:PassRole",
+        "iam:CreateServiceLinkedRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "cloudwatch:DeleteAlarms",
+        "cloudwatch:PutMetricAlarm",
+        "ec2:AttachClassicLinkVpc",
+        "ec2:CancelSpotInstanceRequests",
+        "ec2:CreateFleet",
+        "ec2:CreateTags",
+        "ec2:DeleteTags",
+        "ec2:DetachClassicLinkVpc",
+        "ec2:ModifyInstanceAttribute",
+        "ec2:RequestSpotInstances",
+        "ec2:RunInstances",
+        "ec2:StartInstances",
+        "ec2:StopInstances",
+        "ec2:TerminateInstances",
+        "elasticloadbalancing:DeregisterTargets",
+        "elasticloadbalancing:RegisterTargets",
+        "events:DeleteRule",
+        "events:PutRule",
+        "events:PutTargets",
+        "events:RemoveTargets",
+        "iam:CreateServiceLinkedRole",
+        "iam:PassRole",
+        "sns:Publish"
+    ]
+}

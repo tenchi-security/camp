@@ -1,0 +1,23 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "dataexchange",
+        "s3"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "dataexchange:CancelJob",
+        "dataexchange:CreateJob",
+        "dataexchange:DeleteAsset",
+        "dataexchange:DeleteDataSet",
+        "dataexchange:DeleteRevision",
+        "dataexchange:StartJob",
+        "dataexchange:UpdateAsset",
+        "dataexchange:UpdateDataSet",
+        "dataexchange:UpdateRevision",
+        "s3:GetObject"
+    ]
+}

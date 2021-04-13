@@ -1,0 +1,37 @@
+{
+    "ServiceWildcard": [
+        "globalaccelerator"
+    ],
+    "ServicesAffected": [
+        "globalaccelerator"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "globalaccelerator:AddCustomRoutingEndpoints",
+        "globalaccelerator:AllowCustomRoutingTraffic",
+        "globalaccelerator:CreateCustomRoutingEndpointGroup",
+        "globalaccelerator:CreateCustomRoutingListener",
+        "globalaccelerator:CreateEndpointGroup",
+        "globalaccelerator:CreateListener",
+        "globalaccelerator:DeleteAccelerator",
+        "globalaccelerator:DeleteCustomRoutingAccelerator",
+        "globalaccelerator:DeleteCustomRoutingEndpointGroup",
+        "globalaccelerator:DeleteCustomRoutingListener",
+        "globalaccelerator:DeleteEndpointGroup",
+        "globalaccelerator:DeleteListener",
+        "globalaccelerator:DenyCustomRoutingTraffic",
+        "globalaccelerator:RemoveCustomRoutingEndpoints",
+        "globalaccelerator:TagResource",
+        "globalaccelerator:UntagResource",
+        "globalaccelerator:UpdateAccelerator",
+        "globalaccelerator:UpdateAcceleratorAttributes",
+        "globalaccelerator:UpdateCustomRoutingAccelerator",
+        "globalaccelerator:UpdateCustomRoutingAcceleratorAttributes",
+        "globalaccelerator:UpdateCustomRoutingListener",
+        "globalaccelerator:UpdateEndpointGroup",
+        "globalaccelerator:UpdateListener"
+    ]
+}

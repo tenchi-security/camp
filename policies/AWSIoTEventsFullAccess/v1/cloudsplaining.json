@@ -1,0 +1,33 @@
+{
+    "ServiceWildcard": [
+        "iotevents"
+    ],
+    "ServicesAffected": [
+        "iotevents"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "iotevents:BatchAcknowledgeAlarm",
+        "iotevents:BatchDisableAlarm",
+        "iotevents:BatchEnableAlarm",
+        "iotevents:BatchPutMessage",
+        "iotevents:BatchResetAlarm",
+        "iotevents:BatchSnoozeAlarm",
+        "iotevents:BatchUpdateDetector",
+        "iotevents:CreateAlarmModel",
+        "iotevents:CreateDetectorModel",
+        "iotevents:CreateInput",
+        "iotevents:DeleteAlarmModel",
+        "iotevents:DeleteDetectorModel",
+        "iotevents:DeleteInput",
+        "iotevents:TagResource",
+        "iotevents:UntagResource",
+        "iotevents:UpdateAlarmModel",
+        "iotevents:UpdateDetectorModel",
+        "iotevents:UpdateInput",
+        "iotevents:UpdateInputRouting"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSStorageGatewayServiceRolePolicy",
+    "PolicyId": "ANPAZKAPJZG4E4ZEKWU2U",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/AWSStorageGatewayServiceRolePolicy",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2021-02-17T19:03:19+00:00",
+    "UpdateDate": "2021-02-17T19:03:19+00:00"
+}

@@ -1,0 +1,12 @@
+{
+    "PolicyName": "CloudWatchApplicationInsightsFullAccess",
+    "PolicyId": "ANPAZKAPJZG4MSQN23AKX",
+    "Arn": "arn:aws:iam::aws:policy/CloudWatchApplicationInsightsFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2020-11-24T18:44:14+00:00",
+    "UpdateDate": "2020-11-24T18:44:14+00:00"
+}

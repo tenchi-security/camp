@@ -1,4 +1,4 @@
-cloudsplaining==0.2.3
+cloudsplaining==0.4.1
 boto3-stubs[iam]==1.16.8.0
 jupyter
 pandas

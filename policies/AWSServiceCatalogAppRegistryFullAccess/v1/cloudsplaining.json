@@ -1,0 +1,22 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "servicecatalog"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "servicecatalog:AssociateAttributeGroup",
+        "servicecatalog:AssociateResource",
+        "servicecatalog:CreateApplication",
+        "servicecatalog:CreateAttributeGroup",
+        "servicecatalog:DeleteApplication",
+        "servicecatalog:DeleteAttributeGroup",
+        "servicecatalog:DisassociateAttributeGroup",
+        "servicecatalog:DisassociateResource",
+        "servicecatalog:UpdateApplication",
+        "servicecatalog:UpdateAttributeGroup"
+    ]
+}

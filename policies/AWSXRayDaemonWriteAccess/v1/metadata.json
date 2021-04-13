@@ -1,0 +1,6 @@
+{
+    "VersionId": "v1",
+    "IsDefaultVersion": true,
+    "CreateDate": "2018-08-28T23:00:33+00:00",
+    "PolicyName": "AWSXRayDaemonWriteAccess"
+}

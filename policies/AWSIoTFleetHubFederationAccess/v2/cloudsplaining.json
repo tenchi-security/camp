@@ -1,0 +1,15 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "iot"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "iot:CreateFleetMetric",
+        "iot:DeleteFleetMetric",
+        "iot:UpdateFleetMetric"
+    ]
+}

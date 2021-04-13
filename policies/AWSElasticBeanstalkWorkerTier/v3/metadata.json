@@ -1,0 +1,6 @@
+{
+    "VersionId": "v3",
+    "IsDefaultVersion": false,
+    "CreateDate": "2016-12-09T18:29:00+00:00",
+    "PolicyName": "AWSElasticBeanstalkWorkerTier"
+}

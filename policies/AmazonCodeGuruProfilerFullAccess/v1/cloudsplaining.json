@@ -1,0 +1,28 @@
+{
+    "ServiceWildcard": [
+        "codeguru-profiler"
+    ],
+    "ServicesAffected": [
+        "codeguru-profiler"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "codeguru-profiler:PutPermission",
+        "codeguru-profiler:RemovePermission"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "codeguru-profiler:AddNotificationChannels",
+        "codeguru-profiler:ConfigureAgent",
+        "codeguru-profiler:DeleteProfilingGroup",
+        "codeguru-profiler:PostAgentProfile",
+        "codeguru-profiler:PutPermission",
+        "codeguru-profiler:RemoveNotificationChannel",
+        "codeguru-profiler:RemovePermission",
+        "codeguru-profiler:SubmitFeedback",
+        "codeguru-profiler:TagResource",
+        "codeguru-profiler:UntagResource",
+        "codeguru-profiler:UpdateProfilingGroup"
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "VersionId": "v1",
+    "IsDefaultVersion": true,
+    "CreateDate": "2020-08-11T17:35:05+00:00",
+    "PolicyName": "AWSLambdaMSKExecutionRole"
+}

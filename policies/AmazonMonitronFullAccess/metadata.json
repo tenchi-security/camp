@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonMonitronFullAccess",
+    "PolicyId": "ANPAZKAPJZG4MHDVZEITQ",
+    "Arn": "arn:aws:iam::aws:policy/AmazonMonitronFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2020-12-02T22:40:28+00:00",
+    "UpdateDate": "2020-12-02T22:40:28+00:00"
+}

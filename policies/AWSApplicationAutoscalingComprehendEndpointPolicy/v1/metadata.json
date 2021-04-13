@@ -1,0 +1,6 @@
+{
+    "VersionId": "v1",
+    "IsDefaultVersion": true,
+    "CreateDate": "2019-11-14T18:39:07+00:00",
+    "PolicyName": "AWSApplicationAutoscalingComprehendEndpointPolicy"
+}

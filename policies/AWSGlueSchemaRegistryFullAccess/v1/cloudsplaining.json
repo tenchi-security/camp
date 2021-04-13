@@ -1,0 +1,22 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "glue"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "glue:CreateRegistry",
+        "glue:CreateSchema",
+        "glue:DeleteRegistry",
+        "glue:DeleteSchema",
+        "glue:DeleteSchemaVersions",
+        "glue:PutSchemaVersionMetadata",
+        "glue:RegisterSchemaVersion",
+        "glue:RemoveSchemaVersionMetadata",
+        "glue:UpdateRegistry",
+        "glue:UpdateSchema"
+    ]
+}

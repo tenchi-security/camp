@@ -1,0 +1,6 @@
+{
+    "VersionId": "v7",
+    "IsDefaultVersion": true,
+    "CreateDate": "2021-03-10T18:31:50+00:00",
+    "PolicyName": "AWSBackupOperatorAccess"
+}

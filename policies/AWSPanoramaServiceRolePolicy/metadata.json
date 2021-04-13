@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSPanoramaServiceRolePolicy",
+    "PolicyId": "ANPAZKAPJZG4G7G35B6C5",
+    "Arn": "arn:aws:iam::aws:policy/service-role/AWSPanoramaServiceRolePolicy",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2020-12-01T13:14:43+00:00",
+    "UpdateDate": "2020-12-01T13:14:43+00:00"
+}

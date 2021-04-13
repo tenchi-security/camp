@@ -1,0 +1,23 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "iotsitewise"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "iotsitewise:BatchAssociateProjectAssets",
+        "iotsitewise:BatchDisassociateProjectAssets",
+        "iotsitewise:CreateAccessPolicy",
+        "iotsitewise:CreateDashboard",
+        "iotsitewise:CreateProject",
+        "iotsitewise:DeleteAccessPolicy",
+        "iotsitewise:DeleteDashboard",
+        "iotsitewise:DeleteProject",
+        "iotsitewise:UpdateAccessPolicy",
+        "iotsitewise:UpdateDashboard",
+        "iotsitewise:UpdateProject"
+    ]
+}

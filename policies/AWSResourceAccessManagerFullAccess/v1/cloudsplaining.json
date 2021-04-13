@@ -1,0 +1,34 @@
+{
+    "ServiceWildcard": [
+        "ram"
+    ],
+    "ServicesAffected": [
+        "ram"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "ram:AcceptResourceShareInvitation",
+        "ram:AssociateResourceShare",
+        "ram:CreateResourceShare",
+        "ram:DeleteResourceShare",
+        "ram:DisassociateResourceShare",
+        "ram:EnableSharingWithAwsOrganization",
+        "ram:RejectResourceShareInvitation",
+        "ram:UpdateResourceShare"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "ram:AcceptResourceShareInvitation",
+        "ram:AssociateResourceShare",
+        "ram:AssociateResourceSharePermission",
+        "ram:DeleteResourceShare",
+        "ram:DisassociateResourceShare",
+        "ram:DisassociateResourceSharePermission",
+        "ram:PromoteResourceShareCreatedFromPolicy",
+        "ram:RejectResourceShareInvitation",
+        "ram:TagResource",
+        "ram:UntagResource",
+        "ram:UpdateResourceShare"
+    ]
+}

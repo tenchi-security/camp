@@ -1,0 +1,16 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "ec2"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "ec2:CancelSpotFleetRequests",
+        "ec2:ModifySpotFleetRequest",
+        "ec2:RequestSpotFleet",
+        "ec2:RunInstances"
+    ]
+}

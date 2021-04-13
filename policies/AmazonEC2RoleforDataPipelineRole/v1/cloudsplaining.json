@@ -1,0 +1,59 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "dynamodb",
+        "s3"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "s3:PutAccessPointPolicy",
+        "s3:PutAccessPointPolicyForObjectLambda",
+        "s3:PutAccountPublicAccessBlock",
+        "s3:PutBucketAcl",
+        "s3:PutBucketPolicy",
+        "s3:PutBucketPublicAccessBlock",
+        "s3:PutObjectAcl",
+        "s3:PutObjectVersionAcl"
+    ],
+    "DataExfiltration": [
+        "s3:GetObject"
+    ],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "dynamodb:UpdateTable",
+        "s3:DeleteObject",
+        "s3:GetObject",
+        "s3:PutAccelerateConfiguration",
+        "s3:PutAccessPointConfigurationForObjectLambda",
+        "s3:PutAccessPointPolicy",
+        "s3:PutAccessPointPolicyForObjectLambda",
+        "s3:PutAnalyticsConfiguration",
+        "s3:PutBucketAcl",
+        "s3:PutBucketCORS",
+        "s3:PutBucketLogging",
+        "s3:PutBucketNotification",
+        "s3:PutBucketObjectLockConfiguration",
+        "s3:PutBucketOwnershipControls",
+        "s3:PutBucketPolicy",
+        "s3:PutBucketPublicAccessBlock",
+        "s3:PutBucketRequestPayment",
+        "s3:PutBucketTagging",
+        "s3:PutBucketVersioning",
+        "s3:PutBucketWebsite",
+        "s3:PutEncryptionConfiguration",
+        "s3:PutIntelligentTieringConfiguration",
+        "s3:PutInventoryConfiguration",
+        "s3:PutJobTagging",
+        "s3:PutLifecycleConfiguration",
+        "s3:PutMetricsConfiguration",
+        "s3:PutObject",
+        "s3:PutObjectAcl",
+        "s3:PutObjectLegalHold",
+        "s3:PutObjectRetention",
+        "s3:PutObjectTagging",
+        "s3:PutObjectVersionAcl",
+        "s3:PutObjectVersionTagging",
+        "s3:PutReplicationConfiguration",
+        "s3:PutStorageLensConfigurationTagging"
+    ]
+}

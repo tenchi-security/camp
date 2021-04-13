@@ -1,0 +1,17 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "ec2"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "ec2:CopyImage",
+        "ec2:CreateImage",
+        "ec2:DeregisterImage",
+        "ec2:ModifyImageAttribute",
+        "ec2:ResetImageAttribute"
+    ]
+}

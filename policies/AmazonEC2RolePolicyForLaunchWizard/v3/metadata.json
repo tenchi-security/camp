@@ -1,0 +1,6 @@
+{
+    "VersionId": "v3",
+    "IsDefaultVersion": false,
+    "CreateDate": "2020-03-31T22:01:02+00:00",
+    "PolicyName": "AmazonEC2RolePolicyForLaunchWizard"
+}

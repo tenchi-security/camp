@@ -1,0 +1,16 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "license-manager"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "license-manager:AcceptGrant",
+        "license-manager:CreateGrant",
+        "license-manager:CreateGrantVersion",
+        "license-manager:DeleteGrant"
+    ]
+}

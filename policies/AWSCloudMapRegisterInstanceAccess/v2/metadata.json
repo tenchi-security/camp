@@ -1,0 +1,6 @@
+{
+    "VersionId": "v2",
+    "IsDefaultVersion": true,
+    "CreateDate": "2020-07-29T17:57:24+00:00",
+    "PolicyName": "AWSCloudMapRegisterInstanceAccess"
+}

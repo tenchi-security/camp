@@ -1,0 +1,21 @@
+{
+    "ServiceWildcard": [
+        "cloudshell"
+    ],
+    "ServicesAffected": [
+        "cloudshell"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "cloudshell:CreateSession",
+        "cloudshell:DeleteEnvironment",
+        "cloudshell:GetFileDownloadUrls",
+        "cloudshell:GetFileUploadUrls",
+        "cloudshell:PutCredentials",
+        "cloudshell:StartEnvironment",
+        "cloudshell:StopEnvironment"
+    ]
+}

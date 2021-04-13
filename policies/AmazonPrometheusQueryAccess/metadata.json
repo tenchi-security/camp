@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonPrometheusQueryAccess",
+    "PolicyId": "ANPAZKAPJZG4GQ2MT4E46",
+    "Arn": "arn:aws:iam::aws:policy/AmazonPrometheusQueryAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2020-12-19T01:02:58+00:00",
+    "UpdateDate": "2020-12-19T01:02:58+00:00"
+}

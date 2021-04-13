@@ -1,0 +1,6 @@
+{
+    "VersionId": "v3",
+    "IsDefaultVersion": false,
+    "CreateDate": "2015-12-15T22:04:10+00:00",
+    "PolicyName": "AmazonVPCReadOnlyAccess"
+}

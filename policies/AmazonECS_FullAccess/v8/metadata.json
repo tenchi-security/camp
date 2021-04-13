@@ -1,0 +1,6 @@
+{
+    "VersionId": "v8",
+    "IsDefaultVersion": false,
+    "CreateDate": "2018-07-18T16:04:52+00:00",
+    "PolicyName": "AmazonECS_FullAccess"
+}

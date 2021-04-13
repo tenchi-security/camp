@@ -1,0 +1,18 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "mgh"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "mgh:AssociateCreatedArtifact",
+        "mgh:CreateProgressUpdateStream",
+        "mgh:DisassociateCreatedArtifact",
+        "mgh:ImportMigrationTask",
+        "mgh:NotifyMigrationTaskState",
+        "mgh:PutResourceAttributes"
+    ]
+}

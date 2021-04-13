@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSIoTWirelessFullAccess",
+    "PolicyId": "ANPAZKAPJZG4L5RZVVSRQ",
+    "Arn": "arn:aws:iam::aws:policy/AWSIoTWirelessFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2020-12-15T15:27:57+00:00",
+    "UpdateDate": "2020-12-15T15:27:57+00:00"
+}

@@ -1,0 +1,28 @@
+{
+    "ServiceWildcard": [
+        "wellarchitected"
+    ],
+    "ServicesAffected": [
+        "wellarchitected"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "wellarchitected:AssociateLenses",
+        "wellarchitected:CreateMilestone",
+        "wellarchitected:CreateWorkloadShare",
+        "wellarchitected:DeleteWorkload",
+        "wellarchitected:DeleteWorkloadShare",
+        "wellarchitected:DisassociateLenses",
+        "wellarchitected:TagResource",
+        "wellarchitected:UntagResource",
+        "wellarchitected:UpdateAnswer",
+        "wellarchitected:UpdateLensReview",
+        "wellarchitected:UpdateShareInvitation",
+        "wellarchitected:UpdateWorkload",
+        "wellarchitected:UpdateWorkloadShare",
+        "wellarchitected:UpgradeLensReview"
+    ]
+}

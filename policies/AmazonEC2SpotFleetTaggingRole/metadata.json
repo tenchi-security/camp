@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonEC2SpotFleetTaggingRole",
+    "PolicyId": "ANPAJ5U6UMLCEYLX5OLC4",
+    "Arn": "arn:aws:iam::aws:policy/service-role/AmazonEC2SpotFleetTaggingRole",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v5",
+    "AttachmentCount": 1,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2017-06-29T18:19:29+00:00",
+    "UpdateDate": "2020-04-23T19:30:49+00:00"
+}

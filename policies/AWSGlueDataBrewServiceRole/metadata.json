@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSGlueDataBrewServiceRole",
+    "PolicyId": "ANPAZKAPJZG4HSXDEANHC",
+    "Arn": "arn:aws:iam::aws:policy/service-role/AWSGlueDataBrewServiceRole",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2020-12-04T21:26:50+00:00",
+    "UpdateDate": "2020-12-04T21:26:50+00:00"
+}

@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonLambdaRolePolicyForLaunchWizardSAP",
+    "PolicyId": "ANPAZKAPJZG4NMJOHL3TN",
+    "Arn": "arn:aws:iam::aws:policy/AmazonLambdaRolePolicyForLaunchWizardSAP",
+    "Path": "/",
+    "DefaultVersionId": "v5",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2020-03-30T20:25:12+00:00",
+    "UpdateDate": "2020-12-04T16:00:56+00:00"
+}

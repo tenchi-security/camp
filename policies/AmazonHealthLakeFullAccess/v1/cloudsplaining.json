@@ -1,0 +1,24 @@
+{
+    "ServiceWildcard": [
+        "healthlake"
+    ],
+    "ServicesAffected": [
+        "healthlake",
+        "iam"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:PassRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "healthlake:CreateResource",
+        "healthlake:DeleteFHIRDatastore",
+        "healthlake:DeleteResource",
+        "healthlake:StartFHIRExportJob",
+        "healthlake:StartFHIRImportJob",
+        "healthlake:UpdateResource",
+        "iam:PassRole"
+    ]
+}

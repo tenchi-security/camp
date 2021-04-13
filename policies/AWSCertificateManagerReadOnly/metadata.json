@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSCertificateManagerReadOnly",
+    "PolicyId": "ANPAI4GSWX6S4MESJ3EWC",
+    "Arn": "arn:aws:iam::aws:policy/AWSCertificateManagerReadOnly",
+    "Path": "/",
+    "DefaultVersionId": "v4",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2016-01-21T17:07:33+00:00",
+    "UpdateDate": "2021-03-15T16:25:21+00:00"
+}

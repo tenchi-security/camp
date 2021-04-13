@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSPanoramaGreengrassGroupRolePolicy",
+    "PolicyId": "ANPAZKAPJZG4IRCPXKCEG",
+    "Arn": "arn:aws:iam::aws:policy/service-role/AWSPanoramaGreengrassGroupRolePolicy",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v2",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2020-12-01T13:10:22+00:00",
+    "UpdateDate": "2021-01-06T19:30:35+00:00"
+}

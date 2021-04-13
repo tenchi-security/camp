@@ -1,0 +1,43 @@
+{
+    "ServiceWildcard": [
+        "lex"
+    ],
+    "ServicesAffected": [
+        "lex"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "lex:BuildBotLocale",
+        "lex:CreateBotAlias",
+        "lex:CreateBotChannel",
+        "lex:CreateBotLocale",
+        "lex:CreateBotVersion",
+        "lex:CreateIntent",
+        "lex:CreateSlot",
+        "lex:CreateSlotType",
+        "lex:DeleteBot",
+        "lex:DeleteBotAlias",
+        "lex:DeleteBotChannel",
+        "lex:DeleteBotLocale",
+        "lex:DeleteBotVersion",
+        "lex:DeleteIntent",
+        "lex:DeleteSession",
+        "lex:DeleteSlot",
+        "lex:DeleteSlotType",
+        "lex:PutSession",
+        "lex:RecognizeSpeech",
+        "lex:RecognizeText",
+        "lex:StartConversation",
+        "lex:TagResource",
+        "lex:UntagResource",
+        "lex:UpdateBot",
+        "lex:UpdateBotAlias",
+        "lex:UpdateBotLocale",
+        "lex:UpdateIntent",
+        "lex:UpdateSlot",
+        "lex:UpdateSlotType"
+    ]
+}

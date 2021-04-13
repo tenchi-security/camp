@@ -1,0 +1,6 @@
+{
+    "VersionId": "v1",
+    "IsDefaultVersion": false,
+    "CreateDate": "2019-06-24T15:31:06+00:00",
+    "PolicyName": "ServiceQuotasReadOnlyAccess"
+}

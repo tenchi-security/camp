@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSThinkboxDeadlineSpotEventPluginWorkerPolicy",
+    "PolicyId": "ANPAZKAPJZG4JS2KSV4B2",
+    "Arn": "arn:aws:iam::aws:policy/AWSThinkboxDeadlineSpotEventPluginWorkerPolicy",
+    "Path": "/",
+    "DefaultVersionId": "v2",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2020-05-27T19:35:00+00:00",
+    "UpdateDate": "2020-12-07T23:31:31+00:00"
+}

@@ -1,0 +1,15 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "redshift"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [
+        "redshift:GetClusterCredentials"
+    ],
+    "InfrastructureModification": [
+        "redshift:GetClusterCredentials"
+    ]
+}

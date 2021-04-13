@@ -1,0 +1,55 @@
+name: 'Camp Automation'
+
+on:
+  workflow_dispatch:
+
+
+name: CloudSplaining on AWS Managed Policies
+
+jobs:
+  build:
+    name: CloudSplaining on AWS Managed Policies
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
+          fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
+      - name: AWS IAM Assume Role
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ secrets.REGION }}
+          role-to-assume: ${{ secrets.ROLE_TO_ASSUME }}
+          role-duration-seconds: 1200
+          role-session-name: GH-Actions-camp
+      
+      - name: Who Am I?
+        run: aws sts get-caller-identity
+      
+      - name: pwd
+        run: |
+          pwd
+          ls -l
+      
+      - name: Install python requirements
+        run: python3 -m pip install -r ./requirements.txt
+
+      - name: Running Camp
+        run: python3 ./camp/camp.py
+
+      - name: Commit findings
+        run: |
+          git config --local user.email "camp@noreply"
+          git config --local user.name "camp-github-actions[bot]"
+          git add ./policies
+          git add versions_summary.csv
+          git commit -m "CloudSplaining Automation" || :
+
+      - name: Push findings
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
