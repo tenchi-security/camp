@@ -1,6 +1,6 @@
 {
     "VersionId": "v1",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2018-11-26T16:21:17+00:00",
     "PolicyName": "AWSVPCTransitGatewayServiceRolePolicy"
 }

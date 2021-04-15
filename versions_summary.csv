@@ -479,7 +479,8 @@
 "AWSStorageGatewayReadOnlyAccess","v1",True,"2015-02-06T18:41:10+00:00","AWSStorageGatewayReadOnlyAccess",0,0,0,0,0,0,0
 "AmazonDocDBFullAccess","v1",True,"2019-01-09T20:21:44+00:00","AmazonDocDBFullAccess",0,2,0,1,0,0,39
 "AmazonPollyFullAccess","v1",True,"2016-11-30T18:59:06+00:00","AmazonPollyFullAccess",1,1,0,0,0,0,3
-"AWSVPCTransitGatewayServiceRolePolicy","v1",True,"2018-11-26T16:21:17+00:00","AWSVPCTransitGatewayServiceRolePolicy",0,1,0,1,0,0,4
+"AWSVPCTransitGatewayServiceRolePolicy","v1",False,"2018-11-26T16:21:17+00:00","AWSVPCTransitGatewayServiceRolePolicy",0,1,0,1,0,0,4
+"AWSVPCTransitGatewayServiceRolePolicy","v2",True,"2021-04-15T16:31:44+00:00","AWSVPCTransitGatewayServiceRolePolicy",0,1,0,1,0,0,6
 "AWSIoTLogging","v1",True,"2015-10-08T15:17:25+00:00","AWSIoTLogging",0,1,0,0,0,0,6
 "AmazonPersonalizeFullAccess","v1",False,"2018-12-04T22:24:33+00:00","AmazonPersonalizeFullAccess",1,2,0,1,0,0,22
 "AmazonPersonalizeFullAccess","v2",True,"2019-05-30T23:46:59+00:00","AmazonPersonalizeFullAccess",1,2,0,1,0,0,22
