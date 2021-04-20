@@ -1,6 +1,6 @@
 {
     "VersionId": "v3",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2020-12-18T17:48:20+00:00",
     "PolicyName": "CloudWatchAutomaticDashboardsAccess"
 }

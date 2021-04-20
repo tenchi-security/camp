@@ -1570,7 +1570,8 @@
 "AmazonRedshiftFullAccess","v4",True,"2020-09-09T19:51:19+00:00","AmazonRedshiftFullAccess",1,4,0,7,0,1,62
 "AmazonRedshiftFullAccess","v2",False,"2017-09-19T18:27:44+00:00","AmazonRedshiftFullAccess",1,3,0,7,0,1,59
 "CloudWatchAutomaticDashboardsAccess","v1",False,"2019-07-23T10:01:08+00:00","CloudWatchAutomaticDashboardsAccess",0,0,0,0,0,0,0
-"CloudWatchAutomaticDashboardsAccess","v3",True,"2020-12-18T17:48:20+00:00","CloudWatchAutomaticDashboardsAccess",0,0,0,0,0,0,0
+"CloudWatchAutomaticDashboardsAccess","v3",False,"2020-12-18T17:48:20+00:00","CloudWatchAutomaticDashboardsAccess",0,0,0,0,0,0,0
+"CloudWatchAutomaticDashboardsAccess","v4",True,"2021-04-20T13:05:40+00:00","CloudWatchAutomaticDashboardsAccess",0,0,0,0,0,0,0
 "CloudWatchAutomaticDashboardsAccess","v2",False,"2019-11-20T12:58:09+00:00","CloudWatchAutomaticDashboardsAccess",0,0,0,0,0,0,0
 "AWSChatbotServiceLinkedRolePolicy","v1",True,"2019-11-18T16:39:50+00:00","AWSChatbotServiceLinkedRolePolicy",0,1,0,0,0,0,1
 "AWSElasticBeanstalkWebTier","v1",False,"2016-02-08T23:08:54+00:00","AWSElasticBeanstalkWebTier",0,0,0,0,0,0,0
