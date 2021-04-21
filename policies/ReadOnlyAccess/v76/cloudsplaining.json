@@ -1,0 +1,43 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "cognito-identity",
+        "cognito-idp",
+        "connect",
+        "ec2",
+        "ecr",
+        "gamelift",
+        "ivs",
+        "s3",
+        "ssm",
+        "sts"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [
+        "s3:GetObject",
+        "ssm:GetParameter",
+        "ssm:GetParameters",
+        "ssm:GetParametersByPath"
+    ],
+    "CredentialsExposure": [
+        "cognito-identity:GetOpenIdToken",
+        "cognito-identity:GetOpenIdTokenForDeveloperIdentity",
+        "cognito-identity:GetCredentialsForIdentity",
+        "cognito-idp:GetSigningCertificate",
+        "connect:GetFederationToken",
+        "ec2:GetPasswordData",
+        "ecr:GetAuthorizationToken",
+        "gamelift:RequestUploadCredentials",
+        "gamelift:GetInstanceAccess",
+        "sts:GetSessionToken"
+    ],
+    "InfrastructureModification": [
+        "gamelift:RequestUploadCredentials",
+        "ivs:ListTagsForResource",
+        "s3:GetObject",
+        "ssm:GetParameter",
+        "ssm:GetParameters",
+        "ssm:GetParametersByPath"
+    ]
+}
