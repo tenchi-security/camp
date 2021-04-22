@@ -1140,7 +1140,8 @@
 "AWSDataSyncFullAccess","v3",True,"2020-06-30T17:58:58+00:00","AWSDataSyncFullAccess",1,4,0,2,0,0,15
 "AWSDataSyncFullAccess","v2",False,"2020-01-24T17:59:16+00:00","AWSDataSyncFullAccess",1,4,0,2,0,0,15
 "AWSDataSyncFullAccess","v1",False,"2019-01-18T19:40:36+00:00","AWSDataSyncFullAccess",1,4,0,2,0,0,15
-"AmazonDevOpsGuruServiceRolePolicy","v1",True,"2020-12-01T10:24:42+00:00","AmazonDevOpsGuruServiceRolePolicy",0,0,0,0,0,0,0
+"AmazonDevOpsGuruServiceRolePolicy","v2",True,"2021-04-21T23:51:53+00:00","AmazonDevOpsGuruServiceRolePolicy",0,0,0,0,0,0,0
+"AmazonDevOpsGuruServiceRolePolicy","v1",False,"2020-12-01T10:24:42+00:00","AmazonDevOpsGuruServiceRolePolicy",0,0,0,0,0,0,0
 "AWSCertificateManagerPrivateCAPrivilegedUser","v1",True,"2019-06-20T17:43:13+00:00","AWSCertificateManagerPrivateCAPrivilegedUser",0,0,0,0,0,0,0
 "AmazonKinesisFirehoseFullAccess","v1",True,"2015-10-07T18:45:26+00:00","AmazonKinesisFirehoseFullAccess",1,1,0,0,0,0,9
 "AmazonBraketFullAccess","v2",True,"2021-02-18T07:48:38+00:00","AmazonBraketFullAccess",1,1,0,0,0,0,4
@@ -2227,6 +2228,7 @@
 "ServerMigration_ServiceRole","v2",True,"2020-10-15T17:26:32+00:00","ServerMigration_ServiceRole",0,2,0,2,0,0,4
 "ServerMigration_ServiceRole","v1",False,"2020-08-11T20:41:44+00:00","ServerMigration_ServiceRole",0,2,0,2,0,0,4
 "AWSPriceListServiceFullAccess","v1",True,"2017-11-22T00:36:27+00:00","AWSPriceListServiceFullAccess",1,0,0,0,0,0,0
+"AWSCompromisedKeyQuarantineV2","v1",True,"2021-04-21T22:30:59+00:00","AWSCompromisedKeyQuarantineV2",0,0,0,0,0,0,0
 "AmazonMQServiceRolePolicy","v1",True,"2020-11-04T16:07:17+00:00","AmazonMQServiceRolePolicy",0,0,0,0,0,0,0
 "FMSServiceRolePolicy","v3",False,"2018-08-29T17:46:50+00:00","FMSServiceRolePolicy",0,2,0,0,0,0,4
 "FMSServiceRolePolicy","v13",False,"2020-07-20T23:05:16+00:00","FMSServiceRolePolicy",0,3,0,0,0,0,5

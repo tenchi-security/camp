@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSCompromisedKeyQuarantineV2",
+    "PolicyId": "ANPAZKAPJZG4PFYMROIMI",
+    "Arn": "arn:aws:iam::aws:policy/AWSCompromisedKeyQuarantineV2",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2021-04-21T22:30:59+00:00",
+    "UpdateDate": "2021-04-21T22:30:59+00:00"
+}
