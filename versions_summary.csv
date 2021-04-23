@@ -270,7 +270,8 @@
 "AWSCertificateManagerPrivateCAUser","v2",False,"2018-12-07T20:43:03+00:00","AWSCertificateManagerPrivateCAUser",0,0,0,0,0,0,0
 "AWSCertificateManagerPrivateCAUser","v4",True,"2019-06-20T17:42:37+00:00","AWSCertificateManagerPrivateCAUser",0,0,0,0,0,0,0
 "AWSCertificateManagerPrivateCAUser","v1",False,"2018-10-23T16:53:33+00:00","AWSCertificateManagerPrivateCAUser",0,0,0,0,0,0,0
-"AmazonDevOpsGuruReadOnlyAccess","v1",True,"2020-12-01T16:34:40+00:00","AmazonDevOpsGuruReadOnlyAccess",0,0,0,0,0,0,0
+"AmazonDevOpsGuruReadOnlyAccess","v2",True,"2021-04-23T18:44:36+00:00","AmazonDevOpsGuruReadOnlyAccess",0,0,0,0,0,0,0
+"AmazonDevOpsGuruReadOnlyAccess","v1",False,"2020-12-01T16:34:40+00:00","AmazonDevOpsGuruReadOnlyAccess",0,0,0,0,0,0,0
 "AWSCodeDeployRoleForLambdaLimited","v1",True,"2020-08-17T17:14:14+00:00","AWSCodeDeployRoleForLambdaLimited",0,2,0,0,0,0,2
 "AmazonElasticMapReduceforAutoScalingRole","v1",True,"2016-11-18T01:09:10+00:00","AmazonElasticMapReduceforAutoScalingRole",0,1,0,0,0,0,1
 "AmazonMachineLearningManageRealTimeEndpointOnlyAccess","v1",True,"2015-04-09T17:32:41+00:00","AmazonMachineLearningManageRealTimeEndpointOnlyAccess",0,1,0,0,0,0,2
