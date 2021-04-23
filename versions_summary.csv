@@ -455,8 +455,9 @@
 "AWSThinkboxDeadlineResourceTrackerAdminPolicy","v2",True,"2020-10-06T19:06:57+00:00","AWSThinkboxDeadlineResourceTrackerAdminPolicy",0,1,0,0,0,0,1
 "AWSThinkboxDeadlineResourceTrackerAdminPolicy","v1",False,"2020-05-27T19:29:09+00:00","AWSThinkboxDeadlineResourceTrackerAdminPolicy",0,1,0,0,0,0,1
 "AWSOpsWorksCMServiceRole","v3",False,"2016-11-25T19:12:16+00:00","AWSOpsWorksCMServiceRole",0,2,0,0,0,0,11
-"AWSOpsWorksCMServiceRole","v13",True,"2021-01-06T15:08:35+00:00","AWSOpsWorksCMServiceRole",0,3,0,0,0,0,19
+"AWSOpsWorksCMServiceRole","v13",False,"2021-01-06T15:08:35+00:00","AWSOpsWorksCMServiceRole",0,3,0,0,0,0,19
 "AWSOpsWorksCMServiceRole","v8",False,"2019-02-21T15:15:07+00:00","AWSOpsWorksCMServiceRole",0,2,0,0,0,0,17
+"AWSOpsWorksCMServiceRole","v14",True,"2021-04-23T17:32:13+00:00","AWSOpsWorksCMServiceRole",0,3,0,0,0,0,19
 "AWSOpsWorksCMServiceRole","v7",False,"2018-09-25T08:05:37+00:00","AWSOpsWorksCMServiceRole",0,2,0,0,0,0,16
 "AWSOpsWorksCMServiceRole","v2",False,"2016-11-25T08:27:23+00:00","AWSOpsWorksCMServiceRole",0,2,0,0,0,0,11
 "AWSOpsWorksCMServiceRole","v5",False,"2017-03-07T14:12:21+00:00","AWSOpsWorksCMServiceRole",0,2,0,0,0,0,11
@@ -1959,7 +1960,8 @@
 "AmazonCodeGuruReviewerReadOnlyAccess","v1",False,"2019-12-03T08:48:24+00:00","AmazonCodeGuruReviewerReadOnlyAccess",0,0,0,0,0,0,0
 "AWSOpsWorksCMInstanceProfileRole","v3",False,"2019-10-22T07:40:17+00:00","AWSOpsWorksCMInstanceProfileRole",0,1,0,0,0,0,1
 "AWSOpsWorksCMInstanceProfileRole","v2",False,"2017-11-03T12:01:32+00:00","AWSOpsWorksCMInstanceProfileRole",0,1,0,0,0,0,1
-"AWSOpsWorksCMInstanceProfileRole","v4",True,"2021-01-12T09:37:42+00:00","AWSOpsWorksCMInstanceProfileRole",0,1,0,0,0,0,1
+"AWSOpsWorksCMInstanceProfileRole","v5",True,"2021-04-23T17:34:03+00:00","AWSOpsWorksCMInstanceProfileRole",0,1,0,0,0,0,1
+"AWSOpsWorksCMInstanceProfileRole","v4",False,"2021-01-12T09:37:42+00:00","AWSOpsWorksCMInstanceProfileRole",0,1,0,0,0,0,1
 "AWSOpsWorksCMInstanceProfileRole","v1",False,"2016-11-24T09:48:22+00:00","AWSOpsWorksCMInstanceProfileRole",0,0,0,0,0,0,0
 "AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v1",True,"2020-11-27T18:48:07+00:00","AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy",0,3,0,0,0,0,14
 "AmazonEKSClusterPolicy","v3",False,"2019-05-22T22:04:46+00:00","AmazonEKSClusterPolicy",0,4,0,1,0,0,28

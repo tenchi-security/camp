@@ -3,10 +3,10 @@
     "PolicyId": "ANPAJ6I6MPGJE62URSHCO",
     "Arn": "arn:aws:iam::aws:policy/service-role/AWSOpsWorksCMServiceRole",
     "Path": "/service-role/",
-    "DefaultVersionId": "v13",
+    "DefaultVersionId": "v14",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2016-11-24T09:49:46+00:00",
-    "UpdateDate": "2021-01-06T15:08:35+00:00"
+    "UpdateDate": "2021-04-23T17:32:13+00:00"
 }
