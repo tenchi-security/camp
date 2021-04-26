@@ -1,0 +1,24 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "events",
+        "iam",
+        "ssm"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:PassRole"
+    ],
+    "DataExfiltration": [
+        "ssm:GetParameters"
+    ],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "events:PutRule",
+        "events:PutTargets",
+        "iam:PassRole",
+        "ssm:GetParameters",
+        "ssm:SendCommand",
+        "ssm:StartAutomationExecution"
+    ]
+}

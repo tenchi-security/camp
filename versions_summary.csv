@@ -1600,6 +1600,7 @@
 "AWSSupportServiceRolePolicy","v9",False,"2020-03-10T18:55:18+00:00","AWSSupportServiceRolePolicy",0,2,0,0,0,1,5
 "AWSTransferFullAccess","v1",True,"2020-12-14T19:37:23+00:00","AWSTransferFullAccess",1,2,0,1,0,0,12
 "AmazonEKSWorkerNodePolicy","v1",True,"2018-05-27T21:09:01+00:00","AmazonEKSWorkerNodePolicy",0,0,0,0,0,0,0
+"AWSSystemsManagerOpsDataSyncServiceRolePolicy","v1",True,"2021-04-26T20:42:39+00:00","AWSSystemsManagerOpsDataSyncServiceRolePolicy",0,1,0,0,0,0,1
 "AmazonVPCFullAccess","v3",False,"2015-05-07T18:04:37+00:00","AmazonVPCFullAccess",0,1,0,0,0,0,60
 "AmazonVPCFullAccess","v7",True,"2018-03-15T18:30:25+00:00","AmazonVPCFullAccess",0,1,0,3,0,0,97
 "AmazonVPCFullAccess","v2",False,"2015-03-24T19:54:44+00:00","AmazonVPCFullAccess",0,1,0,0,0,0,51
@@ -1903,11 +1904,12 @@
 "AWSIoTConfigReadOnlyAccess","v6",False,"2017-12-20T20:38:30+00:00","AWSIoTConfigReadOnlyAccess",0,0,0,0,0,0,0
 "AWSIoTDeviceDefenderPublishFindingsToSNSMitigationAction","v1",True,"2019-08-07T17:04:37+00:00","AWSIoTDeviceDefenderPublishFindingsToSNSMitigationAction",0,1,0,0,0,0,1
 "AmazonSSMServiceRolePolicy","v3",False,"2018-07-25T22:14:20+00:00","AmazonSSMServiceRolePolicy",0,2,0,1,1,0,4
+"AmazonSSMServiceRolePolicy","v13",True,"2021-04-26T20:43:46+00:00","AmazonSSMServiceRolePolicy",0,3,0,1,1,0,6
 "AmazonSSMServiceRolePolicy","v8",False,"2020-07-31T19:21:40+00:00","AmazonSSMServiceRolePolicy",0,2,0,1,1,0,4
 "AmazonSSMServiceRolePolicy","v7",False,"2020-06-04T18:02:45+00:00","AmazonSSMServiceRolePolicy",0,2,0,1,1,0,4
 "AmazonSSMServiceRolePolicy","v2",False,"2017-11-15T21:25:26+00:00","AmazonSSMServiceRolePolicy",0,1,0,0,0,0,1
 "AmazonSSMServiceRolePolicy","v5",False,"2020-01-22T21:46:17+00:00","AmazonSSMServiceRolePolicy",0,2,0,1,1,0,4
-"AmazonSSMServiceRolePolicy","v12",True,"2021-03-23T18:12:57+00:00","AmazonSSMServiceRolePolicy",0,2,0,1,1,0,4
+"AmazonSSMServiceRolePolicy","v12",False,"2021-03-23T18:12:57+00:00","AmazonSSMServiceRolePolicy",0,2,0,1,1,0,4
 "AmazonSSMServiceRolePolicy","v4",False,"2019-10-24T23:36:39+00:00","AmazonSSMServiceRolePolicy",0,2,0,1,1,0,4
 "AmazonSSMServiceRolePolicy","v1",False,"2017-11-13T19:20:08+00:00","AmazonSSMServiceRolePolicy",0,1,0,0,0,0,1
 "AmazonSSMServiceRolePolicy","v6",False,"2020-04-20T21:01:22+00:00","AmazonSSMServiceRolePolicy",0,2,0,1,1,0,4
