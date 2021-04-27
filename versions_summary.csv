@@ -895,6 +895,7 @@
 "AWSMarketplaceGetEntitlements","v1",True,"2017-03-27T19:37:24+00:00","AWSMarketplaceGetEntitlements",0,0,0,0,0,0,0
 "AWSAccountUsageReportAccess","v1",True,"2015-02-06T18:41:19+00:00","AWSAccountUsageReportAccess",0,0,0,0,0,0,0
 "CloudWatchEventsServiceRolePolicy","v1",True,"2017-11-17T00:42:04+00:00","CloudWatchEventsServiceRolePolicy",0,1,0,0,0,0,4
+"AWSCloudWatchAlarms_ActionSSMIncidentsServiceRolePolicy","v1",True,"2021-04-27T13:30:52+00:00","AWSCloudWatchAlarms_ActionSSMIncidentsServiceRolePolicy",0,0,0,0,0,0,0
 "AWSCodeDeployRoleForECS","v3",True,"2019-09-23T22:37:46+00:00","AWSCodeDeployRoleForECS",0,6,0,1,1,0,8
 "AWSCodeDeployRoleForECS","v2",False,"2018-12-19T17:57:04+00:00","AWSCodeDeployRoleForECS",0,6,0,1,1,0,8
 "AWSCodeDeployRoleForECS","v1",False,"2018-11-27T20:40:57+00:00","AWSCodeDeployRoleForECS",0,5,0,0,1,0,7
