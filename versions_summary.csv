@@ -33,6 +33,7 @@
 "AmazonElasticMapReduceFullAccess","v1",False,"2015-02-06T18:40:22+00:00","AmazonElasticMapReduceFullAccess",4,6,1,15,1,0,111
 "AmazonElasticMapReduceFullAccess","v6",False,"2018-01-23T19:40:00+00:00","AmazonElasticMapReduceFullAccess",4,7,2,16,1,0,119
 "AWSGlueSchemaRegistryFullAccess","v1",True,"2020-11-20T00:19:00+00:00","AWSGlueSchemaRegistryFullAccess",0,1,0,0,0,0,10
+"AmazonNimbleStudio-LaunchProfileWorker","v1",True,"2021-04-28T04:47:02+00:00","AmazonNimbleStudio-LaunchProfileWorker",0,0,0,0,0,0,0
 "AWSIoTAnalyticsReadOnlyAccess","v1",True,"2018-06-18T21:37:49+00:00","AWSIoTAnalyticsReadOnlyAccess",0,0,0,0,0,0,0
 "AmazonMacieHandshakeRole","v1",True,"2018-06-28T15:46:10+00:00","AmazonMacieHandshakeRole",0,1,0,1,0,0,1
 "AmazonAugmentedAIHumanLoopFullAccess","v1",True,"2019-12-03T16:20:47+00:00","AmazonAugmentedAIHumanLoopFullAccess",0,1,0,0,0,0,3
@@ -86,6 +87,7 @@
 "AmazonRDSFullAccess","v4",False,"2017-09-14T23:40:45+00:00","AmazonRDSFullAccess",2,1,0,3,0,0,84
 "AmazonRDSFullAccess","v1",False,"2015-02-06T18:40:52+00:00","AmazonRDSFullAccess",1,1,0,3,0,0,84
 "AmazonRDSFullAccess","v6",False,"2018-04-09T17:42:48+00:00","AmazonRDSFullAccess",2,4,0,4,0,0,88
+"AmazonNimbleStudio-StudioAdmin","v1",True,"2021-04-28T04:47:36+00:00","AmazonNimbleStudio-StudioAdmin",0,2,0,2,0,0,4
 "AWSBillingReadOnlyAccess","v1",True,"2020-08-27T20:08:51+00:00","AWSBillingReadOnlyAccess",0,0,0,0,0,0,0
 "AWSGlueConsoleSageMakerNotebookFullAccess","v2",True,"2019-09-26T17:14:11+00:00","AWSGlueConsoleSageMakerNotebookFullAccess",1,2,1,2,0,0,48
 "AWSGlueConsoleSageMakerNotebookFullAccess","v1",False,"2018-10-05T17:52:35+00:00","AWSGlueConsoleSageMakerNotebookFullAccess",1,2,1,2,0,0,48
@@ -929,6 +931,7 @@
 "AmazonRDSPreviewServiceRolePolicy","v2",False,"2020-07-29T00:05:20+00:00","AmazonRDSPreviewServiceRolePolicy",0,2,0,0,0,0,8
 "AmazonRDSPreviewServiceRolePolicy","v4",True,"2020-11-19T19:54:51+00:00","AmazonRDSPreviewServiceRolePolicy",0,2,0,0,0,0,12
 "AmazonRDSPreviewServiceRolePolicy","v1",False,"2018-05-31T18:02:00+00:00","AmazonRDSPreviewServiceRolePolicy",0,2,0,0,0,0,8
+"AmazonNimbleStudio-StudioUser","v1",True,"2021-04-28T04:48:11+00:00","AmazonNimbleStudio-StudioUser",0,2,0,2,0,0,4
 "AmazonEKS_CNI_Policy","v3",False,"2019-06-27T18:10:37+00:00","AmazonEKS_CNI_Policy",0,1,0,0,0,0,7
 "AmazonEKS_CNI_Policy","v2",False,"2018-05-31T22:16:00+00:00","AmazonEKS_CNI_Policy",0,1,0,0,0,0,6
 "AmazonEKS_CNI_Policy","v4",True,"2020-04-20T20:52:01+00:00","AmazonEKS_CNI_Policy",0,1,0,0,0,0,7
