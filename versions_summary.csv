@@ -492,8 +492,9 @@
 "AWSElasticBeanstalkMulticontainerDocker","v2",True,"2016-06-06T23:45:37+00:00","AWSElasticBeanstalkMulticontainerDocker",0,1,0,0,0,0,9
 "AWSElasticBeanstalkMulticontainerDocker","v1",False,"2016-02-08T23:15:29+00:00","AWSElasticBeanstalkMulticontainerDocker",0,1,0,0,0,0,9
 "AmazonSNSFullAccess","v1",True,"2015-02-06T18:41:05+00:00","AmazonSNSFullAccess",1,1,0,4,0,0,10
-"AwsGlueDataBrewFullAccessPolicy","v3",True,"2021-03-30T17:03:07+00:00","AwsGlueDataBrewFullAccessPolicy",1,3,0,0,0,0,22
+"AwsGlueDataBrewFullAccessPolicy","v3",False,"2021-03-30T17:03:07+00:00","AwsGlueDataBrewFullAccessPolicy",1,3,0,0,0,0,22
 "AwsGlueDataBrewFullAccessPolicy","v2",False,"2020-11-12T23:04:55+00:00","AwsGlueDataBrewFullAccessPolicy",1,3,0,0,0,0,22
+"AwsGlueDataBrewFullAccessPolicy","v4",True,"2021-04-28T15:54:32+00:00","AwsGlueDataBrewFullAccessPolicy",1,3,0,0,0,0,22
 "AwsGlueDataBrewFullAccessPolicy","v1",False,"2020-11-11T16:51:39+00:00","AwsGlueDataBrewFullAccessPolicy",1,3,0,0,0,0,22
 "AWSAppMeshServiceRolePolicy","v2",True,"2019-09-10T22:44:43+00:00","AWSAppMeshServiceRolePolicy",0,0,0,0,0,0,0
 "AWSAppMeshServiceRolePolicy","v1",False,"2019-06-03T18:30:51+00:00","AWSAppMeshServiceRolePolicy",0,0,0,0,0,0,0
