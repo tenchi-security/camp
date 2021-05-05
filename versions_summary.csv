@@ -1442,7 +1442,8 @@
 "AmazonDocDBConsoleFullAccess","v2",False,"2019-10-21T18:57:02+00:00","AmazonDocDBConsoleFullAccess",0,3,0,1,0,0,62
 "AmazonDocDBConsoleFullAccess","v3",True,"2021-04-05T22:42:40+00:00","AmazonDocDBConsoleFullAccess",0,3,0,1,0,0,62
 "AmazonDocDBConsoleFullAccess","v1",False,"2019-01-09T20:37:28+00:00","AmazonDocDBConsoleFullAccess",0,3,0,1,0,0,62
-"AmazonLookoutEquipmentFullAccess","v1",True,"2021-04-08T15:52:08+00:00","AmazonLookoutEquipmentFullAccess",1,3,0,3,0,0,15
+"AmazonLookoutEquipmentFullAccess","v2",True,"2021-05-05T16:46:56+00:00","AmazonLookoutEquipmentFullAccess",1,3,0,3,0,0,15
+"AmazonLookoutEquipmentFullAccess","v1",False,"2021-04-08T15:52:08+00:00","AmazonLookoutEquipmentFullAccess",1,3,0,3,0,0,15
 "AmazonWorkMailReadOnlyAccess","v4",True,"2019-07-25T08:24:50+00:00","AmazonWorkMailReadOnlyAccess",0,0,0,0,0,0,0
 "AmazonWorkMailReadOnlyAccess","v2",False,"2018-12-04T13:40:28+00:00","AmazonWorkMailReadOnlyAccess",0,0,0,0,0,0,0
 "AmazonWorkMailReadOnlyAccess","v3",False,"2019-05-13T15:12:46+00:00","AmazonWorkMailReadOnlyAccess",0,0,0,0,0,0,0
@@ -1865,6 +1866,7 @@
 "AmazonRDSDataFullAccess","v3",True,"2019-11-20T21:58:46+00:00","AmazonRDSDataFullAccess",0,1,0,0,0,0,1
 "AmazonRDSDataFullAccess","v1",False,"2018-11-20T21:29:36+00:00","AmazonRDSDataFullAccess",0,1,0,0,0,0,1
 "WAFRegionalLoggingServiceRolePolicy","v1",True,"2018-08-24T18:40:55+00:00","WAFRegionalLoggingServiceRolePolicy",0,0,0,0,0,0,0
+"AmazonLookoutEquipmentReadOnlyAccess","v1",True,"2021-05-05T16:47:55+00:00","AmazonLookoutEquipmentReadOnlyAccess",0,0,0,0,0,0,0
 "AWSApplicationMigrationAgentPolicy","v1",True,"2021-04-07T07:00:21+00:00","AWSApplicationMigrationAgentPolicy",0,0,0,0,0,0,0
 "MediaPackageServiceRolePolicy","v1",True,"2020-09-18T17:45:47+00:00","MediaPackageServiceRolePolicy",0,0,0,0,0,0,0
 "AWSLicenseManagerServiceRolePolicy","v4",True,"2021-03-09T20:23:10+00:00","AWSLicenseManagerServiceRolePolicy",0,2,0,0,0,0,2
