@@ -1242,6 +1242,7 @@
 "AmazonRekognitionReadOnlyAccess","v1",False,"2016-11-30T14:58:06+00:00","AmazonRekognitionReadOnlyAccess",0,0,0,0,0,0,0
 "AWSDataPipeline_PowerUser","v2",True,"2017-08-17T18:49:42+00:00","AWSDataPipeline_PowerUser",1,0,0,0,0,0,0
 "AWSDataPipeline_PowerUser","v1",False,"2017-01-19T23:16:46+00:00","AWSDataPipeline_PowerUser",1,0,0,0,0,0,0
+"AmazonLookoutMetricsFullAccess","v1",True,"2021-05-07T00:43:38+00:00","AmazonLookoutMetricsFullAccess",1,1,0,0,0,0,12
 "FSxDeleteServiceLinkedRoleAccess","v1",True,"2018-11-28T10:40:24+00:00","FSxDeleteServiceLinkedRoleAccess",0,0,0,0,0,0,0
 "AWSThinkboxDeadlineSpotEventPluginWorkerPolicy","v2",True,"2020-12-07T23:31:31+00:00","AWSThinkboxDeadlineSpotEventPluginWorkerPolicy",0,0,0,0,0,0,0
 "AWSThinkboxDeadlineSpotEventPluginWorkerPolicy","v1",False,"2020-05-27T19:35:00+00:00","AWSThinkboxDeadlineSpotEventPluginWorkerPolicy",0,0,0,0,0,0,0
@@ -1263,6 +1264,7 @@
 "AWSServiceRoleForIoTSiteWise","v5",False,"2019-11-21T21:52:26+00:00","AWSServiceRoleForIoTSiteWise",0,2,0,1,0,0,2
 "AWSServiceRoleForIoTSiteWise","v6",False,"2020-03-26T21:02:43+00:00","AWSServiceRoleForIoTSiteWise",0,2,0,1,0,0,2
 "AWSServiceRoleForIoTSiteWise","v1",False,"2018-11-14T19:19:17+00:00","AWSServiceRoleForIoTSiteWise",0,0,0,0,0,0,0
+"AmazonLookoutMetricsReadOnlyAccess","v1",True,"2021-05-07T00:43:34+00:00","AmazonLookoutMetricsReadOnlyAccess",0,0,0,0,0,0,0
 "AWSMobileHub_ReadOnly","v10",True,"2018-07-23T21:59:05+00:00","AWSMobileHub_ReadOnly",0,1,0,0,0,0,1
 "AWSMobileHub_ReadOnly","v8",False,"2017-08-10T22:08:23+00:00","AWSMobileHub_ReadOnly",0,0,0,0,0,0,0
 "AWSMobileHub_ReadOnly","v4",False,"2016-11-30T17:19:23+00:00","AWSMobileHub_ReadOnly",0,0,0,0,0,0,0

@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonLookoutMetricsReadOnlyAccess",
+    "PolicyId": "ANPAZKAPJZG4MP33SLV3F",
+    "Arn": "arn:aws:iam::aws:policy/AmazonLookoutMetricsReadOnlyAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2021-05-07T00:43:34+00:00",
+    "UpdateDate": "2021-05-07T00:43:34+00:00"
+}

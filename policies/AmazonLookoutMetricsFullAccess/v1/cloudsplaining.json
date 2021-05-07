@@ -1,0 +1,26 @@
+{
+    "ServiceWildcard": [
+        "lookoutmetrics"
+    ],
+    "ServicesAffected": [
+        "lookoutmetrics"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "lookoutmetrics:ActivateAnomalyDetector",
+        "lookoutmetrics:BackTestAnomalyDetector",
+        "lookoutmetrics:CreateAlert",
+        "lookoutmetrics:CreateAnomalyDetector",
+        "lookoutmetrics:CreateMetricSet",
+        "lookoutmetrics:DeleteAlert",
+        "lookoutmetrics:DeleteAnomalyDetector",
+        "lookoutmetrics:PutFeedback",
+        "lookoutmetrics:TagResource",
+        "lookoutmetrics:UntagResource",
+        "lookoutmetrics:UpdateAnomalyDetector",
+        "lookoutmetrics:UpdateMetricSet"
+    ]
+}
