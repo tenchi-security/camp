@@ -280,7 +280,7 @@
 "AWSConfigRole","v20",False,"2018-12-20T22:13:10+00:00","AWSConfigRole",0,2,0,0,1,0,6
 "AWSConfigRole","v19",False,"2018-11-07T18:20:25+00:00","AWSConfigRole",0,2,0,0,1,0,6
 "AWSConfigRole","v5",False,"2016-07-15T19:01:29+00:00","AWSConfigRole",0,2,0,0,1,0,6
-"AWSConfigRole","v37",True,"2021-03-31T21:17:48+00:00","AWSConfigRole",0,2,0,0,1,0,6
+"AWSConfigRole","v37",False,"2021-03-31T21:17:48+00:00","AWSConfigRole",0,2,0,0,1,0,6
 "AWSConfigRole","v6",False,"2016-09-15T14:52:27+00:00","AWSConfigRole",0,2,0,0,1,0,6
 "AWSConfigRole","v35",False,"2020-12-18T22:22:51+00:00","AWSConfigRole",0,2,0,0,1,0,6
 "AWSConfigRole","v16",False,"2018-07-31T19:10:41+00:00","AWSConfigRole",0,2,0,0,1,0,6
@@ -291,6 +291,7 @@
 "AWSConfigRole","v12",False,"2018-02-06T00:12:32+00:00","AWSConfigRole",0,2,0,0,1,0,6
 "AWSConfigRole","v21",False,"2019-01-23T20:36:30+00:00","AWSConfigRole",0,2,0,0,1,0,6
 "AWSConfigRole","v14",False,"2018-03-27T23:14:51+00:00","AWSConfigRole",0,2,0,0,1,0,6
+"AWSConfigRole","v38",True,"2021-05-10T16:57:29+00:00","AWSConfigRole",0,2,0,0,1,0,6
 "AWSConfigRole","v15",False,"2018-05-15T19:21:32+00:00","AWSConfigRole",0,2,0,0,1,0,6
 "AWSConfigRole","v23",False,"2019-03-06T18:42:43+00:00","AWSConfigRole",0,2,0,0,1,0,6
 "AWSLambdaInvocation-DynamoDB","v1",True,"2015-02-06T18:40:47+00:00","AWSLambdaInvocation-DynamoDB",0,1,0,0,0,0,1
