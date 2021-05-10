@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSIncidentManagerResolverAccess",
+    "PolicyId": "ANPAZKAPJZG4EQ4SDPENY",
+    "Arn": "arn:aws:iam::aws:policy/AWSIncidentManagerResolverAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2021-05-10T06:12:34+00:00",
+    "UpdateDate": "2021-05-10T06:12:34+00:00"
+}
