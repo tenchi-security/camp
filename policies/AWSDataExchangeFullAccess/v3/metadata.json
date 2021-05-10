@@ -1,6 +1,6 @@
 {
     "VersionId": "v3",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2021-01-19T19:42:47+00:00",
     "PolicyName": "AWSDataExchangeFullAccess"
 }
