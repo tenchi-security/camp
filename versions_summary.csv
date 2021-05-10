@@ -601,7 +601,8 @@
 "AmazonElasticFileSystemReadOnlyAccess","v4",False,"2020-01-13T16:16:12+00:00","AmazonElasticFileSystemReadOnlyAccess",0,0,0,0,0,0,0
 "AmazonElasticFileSystemReadOnlyAccess","v2",False,"2017-07-26T16:17:01+00:00","AmazonElasticFileSystemReadOnlyAccess",0,0,0,0,0,0,0
 "AmazonElasticFileSystemReadOnlyAccess","v3",False,"2017-08-14T10:09:49+00:00","AmazonElasticFileSystemReadOnlyAccess",0,0,0,0,0,0,0
-"AmazonElasticFileSystemReadOnlyAccess","v5",True,"2020-07-16T16:46:50+00:00","AmazonElasticFileSystemReadOnlyAccess",0,0,0,0,0,0,0
+"AmazonElasticFileSystemReadOnlyAccess","v5",False,"2020-07-16T16:46:50+00:00","AmazonElasticFileSystemReadOnlyAccess",0,0,0,0,0,0,0
+"AmazonElasticFileSystemReadOnlyAccess","v6",True,"2021-05-10T14:20:55+00:00","AmazonElasticFileSystemReadOnlyAccess",0,0,0,0,0,0,0
 "AmazonElasticFileSystemReadOnlyAccess","v1",False,"2015-05-27T16:25:25+00:00","AmazonElasticFileSystemReadOnlyAccess",0,0,0,0,0,0,0
 "CloudFrontReadOnlyAccess","v4",True,"2020-02-19T19:49:16+00:00","CloudFrontReadOnlyAccess",0,0,0,0,0,0,0
 "CloudFrontReadOnlyAccess","v2",False,"2015-05-04T17:56:12+00:00","CloudFrontReadOnlyAccess",0,0,0,0,0,0,0
