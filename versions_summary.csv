@@ -1185,10 +1185,11 @@
 "AWSForWordPressPluginPolicy","v1",False,"2019-10-30T00:27:46+00:00","AWSForWordPressPluginPolicy",0,3,0,0,0,0,9
 "Route53ResolverServiceRolePolicy","v1",True,"2020-08-12T17:47:24+00:00","Route53ResolverServiceRolePolicy",0,0,0,0,0,0,0
 "AmazonElasticFileSystemFullAccess","v4",False,"2019-11-05T17:10:26+00:00","AmazonElasticFileSystemFullAccess",1,3,0,3,0,0,22
+"AmazonElasticFileSystemFullAccess","v7",True,"2021-05-10T14:25:43+00:00","AmazonElasticFileSystemFullAccess",0,3,0,3,0,0,20
 "AmazonElasticFileSystemFullAccess","v2",False,"2017-07-26T15:48:42+00:00","AmazonElasticFileSystemFullAccess",1,2,0,2,0,0,21
 "AmazonElasticFileSystemFullAccess","v3",False,"2017-08-14T10:18:34+00:00","AmazonElasticFileSystemFullAccess",1,2,0,2,0,0,21
 "AmazonElasticFileSystemFullAccess","v5",False,"2020-01-13T16:15:01+00:00","AmazonElasticFileSystemFullAccess",0,3,0,3,0,0,19
-"AmazonElasticFileSystemFullAccess","v6",True,"2020-07-16T16:46:23+00:00","AmazonElasticFileSystemFullAccess",0,3,0,3,0,0,20
+"AmazonElasticFileSystemFullAccess","v6",False,"2020-07-16T16:46:23+00:00","AmazonElasticFileSystemFullAccess",0,3,0,3,0,0,20
 "AmazonElasticFileSystemFullAccess","v1",False,"2015-05-27T16:22:28+00:00","AmazonElasticFileSystemFullAccess",1,2,0,2,0,0,21
 "ElementalActivationsDownloadSoftwareAccess","v1",True,"2020-09-08T17:26:09+00:00","ElementalActivationsDownloadSoftwareAccess",0,0,0,0,0,0,0
 "GlobalAcceleratorFullAccess","v4",False,"2019-10-21T21:25:42+00:00","GlobalAcceleratorFullAccess",1,1,0,0,0,0,23
