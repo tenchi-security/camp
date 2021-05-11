@@ -1,0 +1,22 @@
+{
+    "ServiceWildcard": [
+        "lookoutvision"
+    ],
+    "ServicesAffected": [
+        "lookoutvision"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "lookoutvision:CreateModel",
+        "lookoutvision:CreateProject",
+        "lookoutvision:DeleteModel",
+        "lookoutvision:DeleteProject",
+        "lookoutvision:StartModel",
+        "lookoutvision:StopModel",
+        "lookoutvision:TagResource",
+        "lookoutvision:UntagResource"
+    ]
+}

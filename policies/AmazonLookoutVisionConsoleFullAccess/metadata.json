@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonLookoutVisionConsoleFullAccess",
+    "PolicyId": "ANPAZKAPJZG4NJJ7RFZ5A",
+    "Arn": "arn:aws:iam::aws:policy/AmazonLookoutVisionConsoleFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2021-05-11T19:37:17+00:00",
+    "UpdateDate": "2021-05-11T19:37:17+00:00"
+}

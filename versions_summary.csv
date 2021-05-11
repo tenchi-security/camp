@@ -974,6 +974,7 @@
 "SupportUser","v1",False,"2016-11-10T17:21:53+00:00","SupportUser",1,1,0,0,0,1,1
 "AWSKeyManagementServiceCustomKeyStoresServiceRolePolicy","v1",True,"2018-11-14T20:10:53+00:00","AWSKeyManagementServiceCustomKeyStoresServiceRolePolicy",0,1,0,0,0,0,5
 "AWSAppSyncSchemaAuthor","v1",True,"2018-03-20T21:21:06+00:00","AWSAppSyncSchemaAuthor",0,1,0,0,0,0,1
+"AmazonLookoutVisionFullAccess","v1",True,"2021-05-11T19:24:54+00:00","AmazonLookoutVisionFullAccess",1,1,0,0,0,0,8
 "AmazonKinesisVideoStreamsFullAccess","v1",True,"2017-12-01T23:27:18+00:00","AmazonKinesisVideoStreamsFullAccess",1,1,0,0,0,0,15
 "AWSGrafanaAccountAdministrator","v1",True,"2021-02-23T00:20:38+00:00","AWSGrafanaAccountAdministrator",1,0,0,0,0,0,0
 "AWSDeepLensLambdaFunctionAccessPolicy","v4",True,"2019-06-11T23:11:55+00:00","AWSDeepLensLambdaFunctionAccessPolicy",1,2,0,1,0,0,8
@@ -2005,6 +2006,7 @@
 "AmazonDevOpsGuruServiceRolePolicy","v2",True,"2021-04-21T23:51:53+00:00","AmazonDevOpsGuruServiceRolePolicy",0,0,0,0,0,0,0
 "AmazonDevOpsGuruServiceRolePolicy","v1",False,"2020-12-01T10:24:42+00:00","AmazonDevOpsGuruServiceRolePolicy",0,0,0,0,0,0,0
 "NeptuneReadOnlyAccess","v1",True,"2018-05-30T19:16:37+00:00","NeptuneReadOnlyAccess",0,0,0,0,0,0,0
+"AmazonLookoutVisionReadOnlyAccess","v1",True,"2021-05-11T19:11:07+00:00","AmazonLookoutVisionReadOnlyAccess",0,0,0,0,0,0,0
 "AWSDataExchangeFullAccess","v4",True,"2021-05-10T21:07:38+00:00","AWSDataExchangeFullAccess",1,2,0,0,0,0,12
 "AWSDataExchangeFullAccess","v2",False,"2020-04-27T14:22:05+00:00","AWSDataExchangeFullAccess",1,2,0,0,0,0,12
 "AWSDataExchangeFullAccess","v3",False,"2021-01-19T19:42:47+00:00","AWSDataExchangeFullAccess",1,2,0,0,0,0,12
@@ -2102,12 +2104,14 @@
 "AWSTrustedAdvisorServiceRolePolicy","v6",False,"2019-06-12T21:21:39+00:00","AWSTrustedAdvisorServiceRolePolicy",0,0,0,0,0,0,0
 "AWSTrustedAdvisorServiceRolePolicy","v1",False,"2018-02-22T21:24:25+00:00","AWSTrustedAdvisorServiceRolePolicy",0,0,0,0,0,0,0
 "AWSVPCS2SVpnServiceRolePolicy","v1",True,"2019-08-06T14:13:58+00:00","AWSVPCS2SVpnServiceRolePolicy",0,0,0,0,0,0,0
+"AmazonLookoutVisionConsoleFullAccess","v1",True,"2021-05-11T19:37:17+00:00","AmazonLookoutVisionConsoleFullAccess",1,1,0,0,0,0,8
 "AmazonRoute53FullAccess","v4",True,"2018-12-20T21:42:00+00:00","AmazonRoute53FullAccess",2,1,0,0,0,0,20
 "AmazonRoute53FullAccess","v2",False,"2017-02-14T21:25:53+00:00","AmazonRoute53FullAccess",2,1,0,0,0,0,20
 "AmazonRoute53FullAccess","v3",False,"2017-11-13T22:22:04+00:00","AmazonRoute53FullAccess",2,1,0,0,0,0,20
 "AmazonRoute53FullAccess","v1",False,"2015-02-06T18:40:54+00:00","AmazonRoute53FullAccess",1,1,0,0,0,0,20
 "AmazonWorkLinkFullAccess","v2",True,"2019-09-23T18:37:42+00:00","AmazonWorkLinkFullAccess",1,0,0,0,0,0,0
 "AmazonWorkLinkFullAccess","v1",False,"2019-01-23T18:52:09+00:00","AmazonWorkLinkFullAccess",1,0,0,0,0,0,0
+"AmazonLookoutVisionConsoleReadOnlyAccess","v1",True,"2021-05-11T19:32:02+00:00","AmazonLookoutVisionConsoleReadOnlyAccess",0,0,0,0,0,0,0
 "AmazonRoute53ResolverReadOnlyAccess","v2",True,"2019-09-27T16:37:48+00:00","AmazonRoute53ResolverReadOnlyAccess",0,0,0,0,0,0,0
 "AmazonRoute53ResolverReadOnlyAccess","v1",False,"2019-05-30T18:11:31+00:00","AmazonRoute53ResolverReadOnlyAccess",0,0,0,0,0,0,0
 "AmazonVPCCrossAccountNetworkInterfaceOperations","v4",True,"2020-06-16T14:16:49+00:00","AmazonVPCCrossAccountNetworkInterfaceOperations",0,1,0,2,0,0,9
