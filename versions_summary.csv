@@ -1186,6 +1186,7 @@
 "APIGatewayServiceRolePolicy","v5",False,"2019-07-25T20:03:52+00:00","APIGatewayServiceRolePolicy",0,1,0,0,0,0,3
 "APIGatewayServiceRolePolicy","v6",False,"2019-10-22T18:22:01+00:00","APIGatewayServiceRolePolicy",0,1,0,0,0,0,3
 "APIGatewayServiceRolePolicy","v1",False,"2017-10-20T17:23:10+00:00","APIGatewayServiceRolePolicy",0,1,0,0,0,0,2
+"AWSAppRunnerServicePolicyForECRAccess","v1",True,"2021-05-14T19:17:21+00:00","AWSAppRunnerServicePolicyForECRAccess",0,1,0,0,0,1,0
 "AWSForWordPressPluginPolicy","v2",True,"2020-01-20T23:20:47+00:00","AWSForWordPressPluginPolicy",0,3,0,0,0,0,10
 "AWSForWordPressPluginPolicy","v1",False,"2019-10-30T00:27:46+00:00","AWSForWordPressPluginPolicy",0,3,0,0,0,0,9
 "Route53ResolverServiceRolePolicy","v1",True,"2020-08-12T17:47:24+00:00","Route53ResolverServiceRolePolicy",0,0,0,0,0,0,0
@@ -1904,6 +1905,7 @@
 "AmazonCodeGuruProfilerFullAccess","v2",False,"2020-04-06T21:16:38+00:00","AmazonCodeGuruProfilerFullAccess",2,1,0,2,0,0,11
 "AmazonCodeGuruProfilerFullAccess","v3",False,"2020-06-28T00:04:51+00:00","AmazonCodeGuruProfilerFullAccess",2,1,0,2,0,0,11
 "AmazonCodeGuruProfilerFullAccess","v1",False,"2019-12-03T10:13:27+00:00","AmazonCodeGuruProfilerFullAccess",1,1,0,2,0,0,11
+"AppRunnerServiceRolePolicy","v1",True,"2021-05-14T19:15:04+00:00","AppRunnerServiceRolePolicy",0,0,0,0,0,0,0
 "AmazonNimbleStudio-StudioAdmin","v1",True,"2021-04-28T04:47:36+00:00","AmazonNimbleStudio-StudioAdmin",0,2,0,2,0,0,4
 "CloudWatchActionsEC2Access","v1",True,"2015-07-07T00:00:33+00:00","CloudWatchActionsEC2Access",0,1,0,0,0,0,3
 "AWSGreengrassFullAccess","v1",True,"2017-05-03T00:47:37+00:00","AWSGreengrassFullAccess",1,1,0,0,0,0,6

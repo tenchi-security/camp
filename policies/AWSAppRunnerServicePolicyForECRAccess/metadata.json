@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSAppRunnerServicePolicyForECRAccess",
+    "PolicyId": "ANPAZKAPJZG4LYM3IT6IY",
+    "Arn": "arn:aws:iam::aws:policy/service-role/AWSAppRunnerServicePolicyForECRAccess",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2021-05-14T19:17:21+00:00",
+    "UpdateDate": "2021-05-14T19:17:21+00:00"
+}
