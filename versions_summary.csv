@@ -35,7 +35,8 @@
 "AWSCodePipelineApproverAccess","v2",False,"2016-11-03T23:31:39+00:00","AWSCodePipelineApproverAccess",0,1,0,0,0,0,1
 "AWSCodePipelineApproverAccess","v1",False,"2016-07-28T18:59:17+00:00","AWSCodePipelineApproverAccess",0,1,0,0,0,0,1
 "AWSThinkboxAssetServerPolicy","v1",True,"2020-05-27T19:18:53+00:00","AWSThinkboxAssetServerPolicy",0,0,0,0,0,0,0
-"AmazonTimestreamConsoleFullAccess","v1",True,"2020-09-30T21:47:18+00:00","AmazonTimestreamConsoleFullAccess",1,2,0,1,0,0,10
+"AmazonTimestreamConsoleFullAccess","v2",True,"2021-05-20T00:48:09+00:00","AmazonTimestreamConsoleFullAccess",1,2,0,1,0,0,10
+"AmazonTimestreamConsoleFullAccess","v1",False,"2020-09-30T21:47:18+00:00","AmazonTimestreamConsoleFullAccess",1,2,0,1,0,0,10
 "AWSElasticBeanstalkFullAccess","v3",False,"2016-04-11T20:41:21+00:00","AWSElasticBeanstalkFullAccess",13,14,2,36,1,2,626
 "AWSElasticBeanstalkFullAccess","v8",True,"2019-07-10T19:27:59+00:00","AWSElasticBeanstalkFullAccess",14,16,2,37,1,2,644
 "AWSElasticBeanstalkFullAccess","v7",False,"2018-02-23T19:36:01+00:00","AWSElasticBeanstalkFullAccess",14,16,2,38,1,2,645
