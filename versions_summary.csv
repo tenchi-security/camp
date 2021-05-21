@@ -1867,6 +1867,7 @@
 "ReadOnlyAccess","v27",False,"2017-06-14T22:09:09+00:00","ReadOnlyAccess",0,7,0,1,4,8,7
 "ReadOnlyAccess","v32",False,"2018-02-07T00:10:00+00:00","ReadOnlyAccess",0,10,0,1,4,13,9
 "ReadOnlyAccess","v71",False,"2020-10-15T23:36:56+00:00","ReadOnlyAccess",0,9,0,0,4,11,5
+"ReadOnlyAccess","v77",True,"2021-05-21T17:31:19+00:00","ReadOnlyAccess",0,10,0,0,4,10,6
 "ReadOnlyAccess","v74",False,"2021-03-18T21:35:15+00:00","ReadOnlyAccess",0,9,0,0,4,10,5
 "ReadOnlyAccess","v47",False,"2019-03-18T22:06:07+00:00","ReadOnlyAccess",0,10,0,2,4,14,7
 "ReadOnlyAccess","v60",False,"2020-01-22T23:52:54+00:00","ReadOnlyAccess",0,9,0,0,4,11,5
@@ -1903,7 +1904,7 @@
 "ReadOnlyAccess","v38",False,"2018-08-13T19:15:42+00:00","ReadOnlyAccess",0,9,0,1,4,11,7
 "ReadOnlyAccess","v29",False,"2017-07-20T17:43:06+00:00","ReadOnlyAccess",0,11,0,1,4,13,13
 "ReadOnlyAccess","v70",False,"2020-10-15T23:30:14+00:00","ReadOnlyAccess",0,9,0,0,4,11,5
-"ReadOnlyAccess","v76",True,"2021-04-21T16:03:31+00:00","ReadOnlyAccess",0,10,0,0,4,10,6
+"ReadOnlyAccess","v76",False,"2021-04-21T16:03:31+00:00","ReadOnlyAccess",0,10,0,0,4,10,6
 "ReadOnlyAccess","v54",False,"2019-08-21T23:33:06+00:00","ReadOnlyAccess",0,9,0,1,4,11,5
 "ReadOnlyAccess","v4",False,"2015-10-15T17:55:45+00:00","ReadOnlyAccess",0,1,0,0,1,0,1
 "ReadOnlyAccess","v52",False,"2019-07-23T18:41:14+00:00","ReadOnlyAccess",0,9,0,1,4,11,5
