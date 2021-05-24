@@ -1753,7 +1753,8 @@
 "AWSAuditManagerServiceRolePolicy","v1",True,"2020-12-08T15:12:12+00:00","AWSAuditManagerServiceRolePolicy",0,1,0,0,0,0,1
 "AmazonMobileAnalyticsFullAccess","v1",True,"2015-02-06T18:40:34+00:00","AmazonMobileAnalyticsFullAccess",1,0,0,0,0,0,0
 "S3StorageLensServiceRolePolicy","v1",True,"2020-11-18T18:15:40+00:00","S3StorageLensServiceRolePolicy",0,0,0,0,0,0,0
-"AWSIoTFleetHubFederationAccess","v2",True,"2021-04-12T18:27:43+00:00","AWSIoTFleetHubFederationAccess",0,1,0,0,0,0,3
+"AWSIoTFleetHubFederationAccess","v3",True,"2021-05-24T14:12:59+00:00","AWSIoTFleetHubFederationAccess",0,1,0,0,0,0,5
+"AWSIoTFleetHubFederationAccess","v2",False,"2021-04-12T18:27:43+00:00","AWSIoTFleetHubFederationAccess",0,1,0,0,0,0,3
 "AWSIoTFleetHubFederationAccess","v1",False,"2020-12-15T08:08:05+00:00","AWSIoTFleetHubFederationAccess",0,1,0,0,0,0,3
 "AWSOutpostsServiceRolePolicy","v1",True,"2020-11-09T22:55:56+00:00","AWSOutpostsServiceRolePolicy",0,1,0,0,0,0,2
 "AWSLicenseManagerMasterAccountRolePolicy","v3",True,"2019-08-29T22:56:41+00:00","AWSLicenseManagerMasterAccountRolePolicy",0,2,0,5,0,0,6

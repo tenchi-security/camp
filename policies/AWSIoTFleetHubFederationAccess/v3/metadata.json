@@ -1,0 +1,6 @@
+{
+    "VersionId": "v3",
+    "IsDefaultVersion": true,
+    "CreateDate": "2021-05-24T14:12:59+00:00",
+    "PolicyName": "AWSIoTFleetHubFederationAccess"
+}
