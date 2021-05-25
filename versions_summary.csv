@@ -1167,7 +1167,8 @@
 "AmazonLaunchWizard_Fullaccess","v2",False,"2020-09-01T20:02:51+00:00","AmazonLaunchWizard_Fullaccess",2,8,0,3,3,1,80
 "AmazonLaunchWizard_Fullaccess","v5",False,"2020-11-14T02:27:14+00:00","AmazonLaunchWizard_Fullaccess",2,8,0,3,3,1,80
 "AmazonLaunchWizard_Fullaccess","v4",False,"2020-11-11T20:26:48+00:00","AmazonLaunchWizard_Fullaccess",2,8,0,3,3,1,80
-"AmazonLaunchWizard_Fullaccess","v9",True,"2021-04-08T19:03:02+00:00","AmazonLaunchWizard_Fullaccess",2,8,0,3,3,1,82
+"AmazonLaunchWizard_Fullaccess","v9",False,"2021-04-08T19:03:02+00:00","AmazonLaunchWizard_Fullaccess",2,8,0,3,3,1,82
+"AmazonLaunchWizard_Fullaccess","v10",True,"2021-05-24T23:04:20+00:00","AmazonLaunchWizard_Fullaccess",2,9,0,3,3,1,86
 "AmazonLaunchWizard_Fullaccess","v1",False,"2020-08-06T17:47:30+00:00","AmazonLaunchWizard_Fullaccess",2,8,0,3,3,1,80
 "AWSApplicationMigrationMGHAccess","v1",True,"2021-04-07T07:10:01+00:00","AWSApplicationMigrationMGHAccess",0,1,0,0,0,0,6
 "AWSQuickSightDescribeRedshift","v1",True,"2015-11-10T23:25:01+00:00","AWSQuickSightDescribeRedshift",0,0,0,0,0,0,0
@@ -1605,12 +1606,13 @@
 "ServiceQuotasReadOnlyAccess","v1",False,"2019-06-24T15:31:06+00:00","ServiceQuotasReadOnlyAccess",0,0,0,0,0,0,0
 "AmazonEKSWorkerNodePolicy","v1",True,"2018-05-27T21:09:01+00:00","AmazonEKSWorkerNodePolicy",0,0,0,0,0,0,0
 "AWSBackupServiceRolePolicyForRestores","v3",False,"2019-04-25T19:17:26+00:00","AWSBackupServiceRolePolicyForRestores",0,2,0,1,0,0,4
-"AWSBackupServiceRolePolicyForRestores","v8",True,"2021-03-10T18:30:25+00:00","AWSBackupServiceRolePolicyForRestores",0,3,0,1,0,0,13
+"AWSBackupServiceRolePolicyForRestores","v8",False,"2021-03-10T18:30:25+00:00","AWSBackupServiceRolePolicyForRestores",0,3,0,1,0,0,13
 "AWSBackupServiceRolePolicyForRestores","v7",False,"2020-11-09T16:52:12+00:00","AWSBackupServiceRolePolicyForRestores",0,3,0,1,0,0,12
 "AWSBackupServiceRolePolicyForRestores","v6",False,"2020-05-29T21:48:32+00:00","AWSBackupServiceRolePolicyForRestores",0,3,0,1,0,0,12
 "AWSBackupServiceRolePolicyForRestores","v2",False,"2019-01-14T19:37:08+00:00","AWSBackupServiceRolePolicyForRestores",0,1,0,0,0,0,3
 "AWSBackupServiceRolePolicyForRestores","v5",False,"2020-01-13T16:04:56+00:00","AWSBackupServiceRolePolicyForRestores",0,3,0,1,0,0,10
 "AWSBackupServiceRolePolicyForRestores","v4",False,"2019-10-03T19:10:42+00:00","AWSBackupServiceRolePolicyForRestores",0,2,0,1,0,0,9
+"AWSBackupServiceRolePolicyForRestores","v9",True,"2021-05-25T00:02:53+00:00","AWSBackupServiceRolePolicyForRestores",0,3,0,1,0,0,13
 "AWSBackupServiceRolePolicyForRestores","v1",False,"2019-01-12T00:23:54+00:00","AWSBackupServiceRolePolicyForRestores",0,1,0,0,0,0,3
 "AmazonElasticsearchServiceRolePolicy","v3",True,"2020-08-31T10:30:23+00:00","AmazonElasticsearchServiceRolePolicy",0,2,0,0,0,0,5
 "AmazonElasticsearchServiceRolePolicy","v2",False,"2018-02-08T21:38:27+00:00","AmazonElasticsearchServiceRolePolicy",0,1,0,0,0,0,3
@@ -1680,7 +1682,8 @@
 "AmazonAthenaFullAccess","v4",False,"2018-05-21T18:47:32+00:00","AmazonAthenaFullAccess",1,2,0,0,0,0,24
 "AmazonAthenaFullAccess","v1",False,"2016-11-30T16:46:01+00:00","AmazonAthenaFullAccess",1,1,0,0,0,0,12
 "AmazonEC2RolePolicyForLaunchWizard","v3",False,"2020-03-31T22:01:02+00:00","AmazonEC2RolePolicyForLaunchWizard",0,2,0,0,0,0,11
-"AmazonEC2RolePolicyForLaunchWizard","v7",True,"2020-10-09T22:28:01+00:00","AmazonEC2RolePolicyForLaunchWizard",0,2,0,0,0,0,5
+"AmazonEC2RolePolicyForLaunchWizard","v8",True,"2021-05-24T23:05:02+00:00","AmazonEC2RolePolicyForLaunchWizard",0,2,0,0,0,0,5
+"AmazonEC2RolePolicyForLaunchWizard","v7",False,"2020-10-09T22:28:01+00:00","AmazonEC2RolePolicyForLaunchWizard",0,2,0,0,0,0,5
 "AmazonEC2RolePolicyForLaunchWizard","v6",False,"2020-07-01T19:04:48+00:00","AmazonEC2RolePolicyForLaunchWizard",0,2,0,0,0,0,5
 "AmazonEC2RolePolicyForLaunchWizard","v2",False,"2019-11-24T21:48:01+00:00","AmazonEC2RolePolicyForLaunchWizard",0,2,0,0,0,0,7
 "AmazonEC2RolePolicyForLaunchWizard","v5",False,"2020-06-03T23:17:35+00:00","AmazonEC2RolePolicyForLaunchWizard",0,2,0,0,0,0,11

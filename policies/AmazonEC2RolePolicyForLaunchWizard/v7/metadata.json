@@ -1,6 +1,6 @@
 {
     "VersionId": "v7",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2020-10-09T22:28:01+00:00",
     "PolicyName": "AmazonEC2RolePolicyForLaunchWizard"
 }
