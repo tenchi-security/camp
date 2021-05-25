@@ -777,7 +777,8 @@
 "AWSKeyManagementServiceCustomKeyStoresServiceRolePolicy","v1",True,"2018-11-14T20:10:53+00:00","AWSKeyManagementServiceCustomKeyStoresServiceRolePolicy",0,1,0,0,0,0,5
 "AWSMarketplaceMeteringFullAccess","v1",True,"2016-03-17T22:39:22+00:00","AWSMarketplaceMeteringFullAccess",0,0,0,0,0,0,0
 "AWSDataExchangeProviderFullAccess","v3",False,"2020-04-08T15:27:08+00:00","AWSDataExchangeProviderFullAccess",0,2,0,0,0,0,12
-"AWSDataExchangeProviderFullAccess","v6",True,"2021-05-10T21:11:47+00:00","AWSDataExchangeProviderFullAccess",0,2,0,0,0,0,12
+"AWSDataExchangeProviderFullAccess","v7",True,"2021-05-25T19:26:14+00:00","AWSDataExchangeProviderFullAccess",0,2,0,0,0,0,12
+"AWSDataExchangeProviderFullAccess","v6",False,"2021-05-10T21:11:47+00:00","AWSDataExchangeProviderFullAccess",0,2,0,0,0,0,12
 "AWSDataExchangeProviderFullAccess","v2",False,"2019-11-25T16:25:47+00:00","AWSDataExchangeProviderFullAccess",0,2,0,0,0,0,12
 "AWSDataExchangeProviderFullAccess","v5",False,"2021-01-14T21:20:09+00:00","AWSDataExchangeProviderFullAccess",0,2,0,0,0,0,12
 "AWSDataExchangeProviderFullAccess","v4",False,"2020-04-27T14:30:12+00:00","AWSDataExchangeProviderFullAccess",0,2,0,0,0,0,12
