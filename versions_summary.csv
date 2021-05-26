@@ -2264,6 +2264,7 @@
 "AWSDataSyncReadOnlyAccess","v3",True,"2020-06-30T17:59:22+00:00","AWSDataSyncReadOnlyAccess",0,0,0,0,0,0,0
 "AWSDataSyncReadOnlyAccess","v2",False,"2020-01-24T17:59:11+00:00","AWSDataSyncReadOnlyAccess",0,0,0,0,0,0,0
 "AWSDataSyncReadOnlyAccess","v1",False,"2019-01-18T19:18:44+00:00","AWSDataSyncReadOnlyAccess",0,0,0,0,0,0,0
+"AWSDeviceFarmTestGridServiceRolePolicy","v1",True,"2021-05-26T22:01:35+00:00","AWSDeviceFarmTestGridServiceRolePolicy",0,0,0,0,0,0,0
 "AWSMarketplaceGetEntitlements","v1",True,"2017-03-27T19:37:24+00:00","AWSMarketplaceGetEntitlements",0,0,0,0,0,0,0
 "AmazonKinesisFirehoseFullAccess","v1",True,"2015-10-07T18:45:26+00:00","AmazonKinesisFirehoseFullAccess",1,1,0,0,0,0,9
 "AWSLambdaExecute","v1",True,"2015-02-06T18:40:46+00:00","AWSLambdaExecute",1,0,0,0,0,0,0
