@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4H2DEHAFRU",
     "Arn": "arn:aws:iam::aws:policy/AmazonQLDBConsoleFullAccess",
     "Path": "/",
-    "DefaultVersionId": "v2",
+    "DefaultVersionId": "v3",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2019-09-05T18:24:20+00:00",
-    "UpdateDate": "2020-05-19T17:45:54+00:00"
+    "UpdateDate": "2021-05-27T17:22:17+00:00"
 }

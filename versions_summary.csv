@@ -265,7 +265,8 @@
 "AWSGreengrassFullAccess","v1",True,"2017-05-03T00:47:37+00:00","AWSGreengrassFullAccess",1,1,0,0,0,0,6
 "AWSMarketplaceImageBuildFullAccess","v2",True,"2018-08-08T21:11:59+00:00","AWSMarketplaceImageBuildFullAccess",0,2,0,0,0,0,10
 "AWSMarketplaceImageBuildFullAccess","v1",False,"2018-07-31T23:29:49+00:00","AWSMarketplaceImageBuildFullAccess",0,2,0,0,0,0,8
-"AmazonQLDBConsoleFullAccess","v2",True,"2020-05-19T17:45:54+00:00","AmazonQLDBConsoleFullAccess",1,1,0,0,0,0,12
+"AmazonQLDBConsoleFullAccess","v3",True,"2021-05-27T17:22:17+00:00","AmazonQLDBConsoleFullAccess",1,1,0,0,0,0,12
+"AmazonQLDBConsoleFullAccess","v2",False,"2020-05-19T17:45:54+00:00","AmazonQLDBConsoleFullAccess",1,1,0,0,0,0,12
 "AmazonQLDBConsoleFullAccess","v1",False,"2019-09-05T18:24:20+00:00","AmazonQLDBConsoleFullAccess",1,1,0,0,0,0,10
 "AWSMobileHub_FullAccess","v3",False,"2016-08-12T17:24:56+00:00","AWSMobileHub_FullAccess",0,1,0,0,0,0,3
 "AWSMobileHub_FullAccess","v8",False,"2017-04-05T17:44:24+00:00","AWSMobileHub_FullAccess",0,2,0,0,0,0,4
@@ -798,7 +799,8 @@
 "AmazonWorkMailReadOnlyAccess","v2",False,"2018-12-04T13:40:28+00:00","AmazonWorkMailReadOnlyAccess",0,0,0,0,0,0,0
 "AmazonWorkMailReadOnlyAccess","v4",True,"2019-07-25T08:24:50+00:00","AmazonWorkMailReadOnlyAccess",0,0,0,0,0,0,0
 "AmazonWorkMailReadOnlyAccess","v1",False,"2015-02-06T18:40:42+00:00","AmazonWorkMailReadOnlyAccess",0,0,0,0,0,0,0
-"AmazonKendraReadOnlyAccess","v1",True,"2019-12-03T16:13:45+00:00","AmazonKendraReadOnlyAccess",0,0,0,0,0,0,0
+"AmazonKendraReadOnlyAccess","v2",True,"2021-05-27T17:01:20+00:00","AmazonKendraReadOnlyAccess",0,0,0,0,0,0,0
+"AmazonKendraReadOnlyAccess","v1",False,"2019-12-03T16:13:45+00:00","AmazonKendraReadOnlyAccess",0,0,0,0,0,0,0
 "AWSPrivateMarketplaceRequests","v1",True,"2019-10-28T21:44:03+00:00","AWSPrivateMarketplaceRequests",0,0,0,0,0,0,0
 "ElementalAppliancesSoftwareFullAccess","v3",False,"2019-12-02T18:50:28+00:00","ElementalAppliancesSoftwareFullAccess",1,1,0,0,0,0,4
 "ElementalAppliancesSoftwareFullAccess","v2",False,"2019-11-18T19:03:41+00:00","ElementalAppliancesSoftwareFullAccess",2,1,0,0,0,0,4
@@ -2271,7 +2273,8 @@
 "AWSGrafanaWorkspacePermissionManagement","v1",True,"2021-02-23T00:15:54+00:00","AWSGrafanaWorkspacePermissionManagement",0,0,0,0,0,0,0
 "AmazonESReadOnlyAccess","v2",True,"2018-10-03T03:32:56+00:00","AmazonESReadOnlyAccess",0,0,0,0,0,0,0
 "AmazonESReadOnlyAccess","v1",False,"2015-10-01T19:18:24+00:00","AmazonESReadOnlyAccess",0,0,0,0,0,0,0
-"AmazonQLDBFullAccess","v2",True,"2020-05-19T17:47:10+00:00","AmazonQLDBFullAccess",0,1,0,0,0,0,9
+"AmazonQLDBFullAccess","v3",True,"2021-05-27T17:15:06+00:00","AmazonQLDBFullAccess",0,1,0,0,0,0,9
+"AmazonQLDBFullAccess","v2",False,"2020-05-19T17:47:10+00:00","AmazonQLDBFullAccess",0,1,0,0,0,0,9
 "AmazonQLDBFullAccess","v1",False,"2019-09-05T18:23:32+00:00","AmazonQLDBFullAccess",0,1,0,0,0,0,7
 "AWSDeviceFarmFullAccess","v1",True,"2015-07-13T16:37:38+00:00","AWSDeviceFarmFullAccess",1,1,0,0,0,0,29
 "AmazonMachineLearningManageRealTimeEndpointOnlyAccess","v1",True,"2015-04-09T17:32:41+00:00","AmazonMachineLearningManageRealTimeEndpointOnlyAccess",0,1,0,0,0,0,2
