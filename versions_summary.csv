@@ -463,7 +463,8 @@
 "AWSTransferConsoleFullAccess","v1",True,"2020-12-14T19:33:25+00:00","AWSTransferConsoleFullAccess",1,2,0,1,0,0,12
 "AmazonAppFlowReadOnlyAccess","v1",True,"2020-06-02T23:26:51+00:00","AmazonAppFlowReadOnlyAccess",0,0,0,0,0,0,0
 "ElementalActivationsReadOnlyAccess","v1",True,"2020-08-28T16:51:01+00:00","ElementalActivationsReadOnlyAccess",0,0,0,0,0,0,0
-"AmazonKeyspacesFullAccess","v1",True,"2020-04-23T17:06:37+00:00","AmazonKeyspacesFullAccess",1,2,0,0,0,0,8
+"AmazonKeyspacesFullAccess","v2",True,"2021-06-01T19:31:39+00:00","AmazonKeyspacesFullAccess",1,2,0,0,0,0,8
+"AmazonKeyspacesFullAccess","v1",False,"2020-04-23T17:06:37+00:00","AmazonKeyspacesFullAccess",1,2,0,0,0,0,8
 "AmazonDynamoDBReadOnlyAccess","v3",False,"2017-01-19T00:08:49+00:00","AmazonDynamoDBReadOnlyAccess",0,0,0,0,0,0,0
 "AmazonDynamoDBReadOnlyAccess","v8",False,"2019-05-08T21:15:48+00:00","AmazonDynamoDBReadOnlyAccess",0,0,0,0,0,0,0
 "AmazonDynamoDBReadOnlyAccess","v11",False,"2020-11-16T18:49:40+00:00","AmazonDynamoDBReadOnlyAccess",0,0,0,0,0,0,0
@@ -2013,7 +2014,8 @@
 "MediaPackageServiceRolePolicy","v1",True,"2020-09-18T17:45:47+00:00","MediaPackageServiceRolePolicy",0,0,0,0,0,0,0
 "AWSPanoramaApplianceRolePolicy","v1",True,"2020-12-01T13:13:18+00:00","AWSPanoramaApplianceRolePolicy",0,0,0,0,0,0,0
 "AWSSupportAccess","v1",True,"2015-02-06T18:41:11+00:00","AWSSupportAccess",1,0,0,0,0,0,0
-"AmazonKeyspacesReadOnlyAccess","v1",True,"2020-04-23T17:07:14+00:00","AmazonKeyspacesReadOnlyAccess",0,0,0,0,0,0,0
+"AmazonKeyspacesReadOnlyAccess","v2",True,"2021-06-01T19:32:47+00:00","AmazonKeyspacesReadOnlyAccess",0,0,0,0,0,0,0
+"AmazonKeyspacesReadOnlyAccess","v1",False,"2020-04-23T17:07:14+00:00","AmazonKeyspacesReadOnlyAccess",0,0,0,0,0,0,0
 "AmazonEC2FullAccess","v3",False,"2018-01-11T20:16:43+00:00","AmazonEC2FullAccess",4,4,0,5,0,1,338
 "AmazonEC2FullAccess","v2",False,"2017-10-30T22:35:27+00:00","AmazonEC2FullAccess",4,4,0,5,0,1,338
 "AmazonEC2FullAccess","v5",True,"2018-11-27T02:16:56+00:00","AmazonEC2FullAccess",4,5,0,6,0,1,339

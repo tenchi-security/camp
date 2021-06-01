@@ -1,6 +1,6 @@
 {
     "VersionId": "v1",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2020-04-23T17:06:37+00:00",
     "PolicyName": "AmazonKeyspacesFullAccess"
 }
