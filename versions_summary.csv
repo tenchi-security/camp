@@ -2211,7 +2211,8 @@
 "AmazonDetectiveFullAccess","v2",True,"2020-10-21T22:07:28+00:00","AmazonDetectiveFullAccess",1,1,0,0,0,0,7
 "AmazonDetectiveFullAccess","v1",False,"2020-04-30T17:57:15+00:00","AmazonDetectiveFullAccess",1,1,0,0,0,0,7
 "AWSControlTowerServiceRolePolicy","v3",False,"2019-06-13T16:36:30+00:00","AWSControlTowerServiceRolePolicy",0,3,0,0,0,0,3
-"AWSControlTowerServiceRolePolicy","v6",True,"2020-11-10T21:08:05+00:00","AWSControlTowerServiceRolePolicy",0,4,0,0,0,0,6
+"AWSControlTowerServiceRolePolicy","v7",True,"2021-06-04T23:00:46+00:00","AWSControlTowerServiceRolePolicy",0,4,0,0,0,0,6
+"AWSControlTowerServiceRolePolicy","v6",False,"2020-11-10T21:08:05+00:00","AWSControlTowerServiceRolePolicy",0,4,0,0,0,0,6
 "AWSControlTowerServiceRolePolicy","v2",False,"2019-05-23T19:14:24+00:00","AWSControlTowerServiceRolePolicy",0,3,0,0,0,0,3
 "AWSControlTowerServiceRolePolicy","v5",False,"2020-08-10T19:17:12+00:00","AWSControlTowerServiceRolePolicy",0,4,0,0,0,0,6
 "AWSControlTowerServiceRolePolicy","v4",False,"2020-05-11T23:04:15+00:00","AWSControlTowerServiceRolePolicy",0,4,0,0,0,0,6
