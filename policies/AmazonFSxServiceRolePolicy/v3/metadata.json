@@ -1,6 +1,6 @@
 {
     "VersionId": "v3",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2020-11-12T20:19:45+00:00",
     "PolicyName": "AmazonFSxServiceRolePolicy"
 }

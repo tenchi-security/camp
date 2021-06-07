@@ -488,8 +488,9 @@
 "AWSConfigMultiAccountSetupPolicy","v2",False,"2019-11-13T18:22:26+00:00","AWSConfigMultiAccountSetupPolicy",0,1,0,1,0,0,1
 "AWSConfigMultiAccountSetupPolicy","v4",True,"2020-05-21T22:59:26+00:00","AWSConfigMultiAccountSetupPolicy",0,1,0,1,0,0,1
 "AWSConfigMultiAccountSetupPolicy","v1",False,"2019-06-17T18:03:16+00:00","AWSConfigMultiAccountSetupPolicy",0,0,0,0,0,0,0
-"AmazonFSxServiceRolePolicy","v3",True,"2020-11-12T20:19:45+00:00","AmazonFSxServiceRolePolicy",0,3,0,1,0,0,7
+"AmazonFSxServiceRolePolicy","v3",False,"2020-11-12T20:19:45+00:00","AmazonFSxServiceRolePolicy",0,3,0,1,0,0,7
 "AmazonFSxServiceRolePolicy","v2",False,"2019-06-18T13:25:32+00:00","AmazonFSxServiceRolePolicy",0,3,0,1,0,0,6
+"AmazonFSxServiceRolePolicy","v4",True,"2021-06-07T21:03:26+00:00","AmazonFSxServiceRolePolicy",0,3,0,1,0,0,7
 "AmazonFSxServiceRolePolicy","v1",False,"2018-11-28T10:38:37+00:00","AmazonFSxServiceRolePolicy",0,3,0,1,0,0,6
 "WAFV2LoggingServiceRolePolicy","v2",True,"2020-07-23T17:04:25+00:00","WAFV2LoggingServiceRolePolicy",0,0,0,0,0,0,0
 "WAFV2LoggingServiceRolePolicy","v1",False,"2019-11-07T00:40:56+00:00","WAFV2LoggingServiceRolePolicy",0,0,0,0,0,0,0
