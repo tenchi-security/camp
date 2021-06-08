@@ -2130,7 +2130,8 @@
 "AWSCertificateManagerPrivateCAUser","v2",False,"2018-12-07T20:43:03+00:00","AWSCertificateManagerPrivateCAUser",0,0,0,0,0,0,0
 "AWSCertificateManagerPrivateCAUser","v4",True,"2019-06-20T17:42:37+00:00","AWSCertificateManagerPrivateCAUser",0,0,0,0,0,0,0
 "AWSCertificateManagerPrivateCAUser","v1",False,"2018-10-23T16:53:33+00:00","AWSCertificateManagerPrivateCAUser",0,0,0,0,0,0,0
-"AmazonFSxFullAccess","v1",True,"2018-11-28T16:34:43+00:00","AmazonFSxFullAccess",1,2,0,2,0,0,13
+"AmazonFSxFullAccess","v2",True,"2021-06-08T12:05:31+00:00","AmazonFSxFullAccess",1,2,0,2,0,0,13
+"AmazonFSxFullAccess","v1",False,"2018-11-28T16:34:43+00:00","AmazonFSxFullAccess",1,2,0,2,0,0,13
 "AmazonWorkSpacesApplicationManagerAdminAccess","v1",True,"2015-04-09T14:03:18+00:00","AmazonWorkSpacesApplicationManagerAdminAccess",0,0,0,0,0,0,0
 "CloudWatchEventsFullAccess","v1",True,"2016-01-14T18:37:08+00:00","CloudWatchEventsFullAccess",1,1,0,2,0,0,27
 "AWSResourceAccessManagerServiceRolePolicy","v1",True,"2018-11-14T19:28:28+00:00","AWSResourceAccessManagerServiceRolePolicy",0,0,0,0,0,0,0
