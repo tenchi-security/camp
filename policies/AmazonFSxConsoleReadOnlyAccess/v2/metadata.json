@@ -1,6 +1,6 @@
 {
     "VersionId": "v2",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2019-09-10T13:17:59+00:00",
     "PolicyName": "AmazonFSxConsoleReadOnlyAccess"
 }

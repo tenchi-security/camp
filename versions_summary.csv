@@ -259,8 +259,9 @@
 "AmazonRekognitionCustomLabelsFullAccess","v2",True,"2020-04-17T17:26:10+00:00","AmazonRekognitionCustomLabelsFullAccess",0,1,0,0,0,0,6
 "AmazonRekognitionCustomLabelsFullAccess","v1",False,"2020-01-08T19:18:34+00:00","AmazonRekognitionCustomLabelsFullAccess",0,1,0,0,0,0,4
 "AmazonEKSForFargateServiceRolePolicy","v1",True,"2019-11-22T04:36:25+00:00","AmazonEKSForFargateServiceRolePolicy",0,1,0,1,0,0,3
-"AmazonFSxConsoleFullAccess","v3",True,"2020-01-21T16:42:58+00:00","AmazonFSxConsoleFullAccess",1,2,0,2,0,0,13
+"AmazonFSxConsoleFullAccess","v3",False,"2020-01-21T16:42:58+00:00","AmazonFSxConsoleFullAccess",1,2,0,2,0,0,13
 "AmazonFSxConsoleFullAccess","v2",False,"2019-09-10T13:11:13+00:00","AmazonFSxConsoleFullAccess",1,2,0,2,0,0,13
+"AmazonFSxConsoleFullAccess","v4",True,"2021-06-08T12:14:00+00:00","AmazonFSxConsoleFullAccess",1,2,0,2,0,0,13
 "AmazonFSxConsoleFullAccess","v1",False,"2018-11-28T16:36:05+00:00","AmazonFSxConsoleFullAccess",1,2,0,2,0,0,13
 "AWSGreengrassFullAccess","v1",True,"2017-05-03T00:47:37+00:00","AWSGreengrassFullAccess",1,1,0,0,0,0,6
 "AWSMarketplaceImageBuildFullAccess","v2",True,"2018-08-08T21:11:59+00:00","AWSMarketplaceImageBuildFullAccess",0,2,0,0,0,0,10
@@ -1034,7 +1035,8 @@
 "AmazonEC2ContainerServiceAutoscaleRole","v1",False,"2016-05-12T23:25:44+00:00","AmazonEC2ContainerServiceAutoscaleRole",0,1,0,0,0,0,1
 "AWSCertificateManagerPrivateCAPrivilegedUser","v1",True,"2019-06-20T17:43:13+00:00","AWSCertificateManagerPrivateCAPrivilegedUser",0,0,0,0,0,0,0
 "ServerMigrationConnector","v1",True,"2016-10-24T21:45:56+00:00","ServerMigrationConnector",1,0,0,0,0,0,0
-"AmazonFSxConsoleReadOnlyAccess","v2",True,"2019-09-10T13:17:59+00:00","AmazonFSxConsoleReadOnlyAccess",0,0,0,0,0,0,0
+"AmazonFSxConsoleReadOnlyAccess","v3",True,"2021-06-08T12:21:09+00:00","AmazonFSxConsoleReadOnlyAccess",0,0,0,0,0,0,0
+"AmazonFSxConsoleReadOnlyAccess","v2",False,"2019-09-10T13:17:59+00:00","AmazonFSxConsoleReadOnlyAccess",0,0,0,0,0,0,0
 "AmazonFSxConsoleReadOnlyAccess","v1",False,"2018-11-28T16:35:24+00:00","AmazonFSxConsoleReadOnlyAccess",0,0,0,0,0,0,0
 "AmazonLambdaRolePolicyForLaunchWizardSAP","v3",False,"2020-06-03T19:36:41+00:00","AmazonLambdaRolePolicyForLaunchWizardSAP",0,2,0,0,0,0,6
 "AmazonLambdaRolePolicyForLaunchWizardSAP","v2",False,"2020-06-03T16:20:46+00:00","AmazonLambdaRolePolicyForLaunchWizardSAP",0,2,0,0,0,0,6
