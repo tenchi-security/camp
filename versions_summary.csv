@@ -978,7 +978,8 @@
 "AmazonWorkMailMessageFlowReadOnlyAccess","v1",True,"2021-01-28T12:40:08+00:00","AmazonWorkMailMessageFlowReadOnlyAccess",0,0,0,0,0,0,0
 "AWSTrustedAdvisorReportingServiceRolePolicy","v2",True,"2020-09-11T21:36:48+00:00","AWSTrustedAdvisorReportingServiceRolePolicy",0,0,0,0,0,0,0
 "AWSTrustedAdvisorReportingServiceRolePolicy","v1",False,"2019-11-19T17:41:13+00:00","AWSTrustedAdvisorReportingServiceRolePolicy",0,0,0,0,0,0,0
-"AWSDiscoveryContinuousExportFirehosePolicy","v1",True,"2018-08-09T18:29:39+00:00","AWSDiscoveryContinuousExportFirehosePolicy",0,0,0,0,0,0,0
+"AWSDiscoveryContinuousExportFirehosePolicy","v2",True,"2021-06-08T17:32:46+00:00","AWSDiscoveryContinuousExportFirehosePolicy",0,0,0,0,0,0,0
+"AWSDiscoveryContinuousExportFirehosePolicy","v1",False,"2018-08-09T18:29:39+00:00","AWSDiscoveryContinuousExportFirehosePolicy",0,0,0,0,0,0,0
 "AWSIoTDeviceDefenderReplaceDefaultPolicyMitigationAction","v1",True,"2019-08-07T17:04:57+00:00","AWSIoTDeviceDefenderReplaceDefaultPolicyMitigationAction",0,1,0,0,0,0,1
 "AdministratorAccess","v1",True,"2015-02-06T18:39:46+00:00","AdministratorAccess",263,201,22,321,5,28,4002
 "AmazonRekognitionFullAccess","v1",True,"2016-11-30T14:40:44+00:00","AmazonRekognitionFullAccess",1,1,0,0,0,0,15
