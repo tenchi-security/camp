@@ -949,7 +949,8 @@
 "AmazonSageMakerReadOnly","v2",False,"2018-02-23T00:39:10+00:00","AmazonSageMakerReadOnly",0,0,0,0,0,0,0
 "AmazonSageMakerReadOnly","v5",False,"2019-01-04T22:22:07+00:00","AmazonSageMakerReadOnly",0,0,0,0,0,0,0
 "AmazonSageMakerReadOnly","v4",False,"2018-11-28T16:23:18+00:00","AmazonSageMakerReadOnly",0,0,0,0,0,0,0
-"AmazonSageMakerReadOnly","v9",True,"2020-12-08T16:17:08+00:00","AmazonSageMakerReadOnly",0,0,0,0,0,0,0
+"AmazonSageMakerReadOnly","v9",False,"2020-12-08T16:17:08+00:00","AmazonSageMakerReadOnly",0,0,0,0,0,0,0
+"AmazonSageMakerReadOnly","v10",True,"2021-06-10T20:19:55+00:00","AmazonSageMakerReadOnly",0,0,0,0,0,0,0
 "AmazonSageMakerReadOnly","v1",False,"2017-11-29T13:07:09+00:00","AmazonSageMakerReadOnly",0,0,0,0,0,0,0
 "AmazonWorkLinkReadOnly","v3",True,"2019-09-23T18:37:21+00:00","AmazonWorkLinkReadOnly",0,0,0,0,0,0,0
 "AmazonWorkLinkReadOnly","v2",False,"2019-08-01T21:35:07+00:00","AmazonWorkLinkReadOnly",0,0,0,0,0,0,0
