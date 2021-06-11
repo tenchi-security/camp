@@ -286,13 +286,14 @@
 "AWSImageBuilderReadOnlyAccess","v1",True,"2019-12-19T22:29:23+00:00","AWSImageBuilderReadOnlyAccess",0,0,0,0,0,0,0
 "ViewOnlyAccess","v3",False,"2017-06-26T22:35:31+00:00","ViewOnlyAccess",0,0,0,0,0,0,0
 "ViewOnlyAccess","v8",False,"2020-01-16T17:42:09+00:00","ViewOnlyAccess",0,0,0,0,0,0,0
+"ViewOnlyAccess","v11",True,"2021-06-11T19:27:03+00:00","ViewOnlyAccess",0,0,0,0,0,0,0
 "ViewOnlyAccess","v7",False,"2018-10-15T18:34:54+00:00","ViewOnlyAccess",0,0,0,0,0,0,0
 "ViewOnlyAccess","v6",False,"2018-09-12T21:57:01+00:00","ViewOnlyAccess",0,0,0,0,0,0,0
 "ViewOnlyAccess","v2",False,"2016-12-09T22:20:46+00:00","ViewOnlyAccess",0,0,0,0,0,0,0
 "ViewOnlyAccess","v5",False,"2018-05-16T20:35:13+00:00","ViewOnlyAccess",0,0,0,0,0,0,0
 "ViewOnlyAccess","v4",False,"2018-02-06T22:35:33+00:00","ViewOnlyAccess",0,0,0,0,0,0,0
 "ViewOnlyAccess","v9",False,"2020-03-09T23:53:28+00:00","ViewOnlyAccess",0,0,0,0,0,0,0
-"ViewOnlyAccess","v10",True,"2020-08-18T22:51:43+00:00","ViewOnlyAccess",0,0,0,0,0,0,0
+"ViewOnlyAccess","v10",False,"2020-08-18T22:51:43+00:00","ViewOnlyAccess",0,0,0,0,0,0,0
 "ViewOnlyAccess","v1",False,"2016-11-10T17:20:15+00:00","ViewOnlyAccess",0,0,0,0,0,0,0
 "EC2InstanceConnect","v1",True,"2019-06-27T18:53:34+00:00","EC2InstanceConnect",0,1,0,0,0,0,1
 "AWSIoTDeviceDefenderAddThingsToThingGroupMitigationAction","v1",True,"2019-08-07T17:55:37+00:00","AWSIoTDeviceDefenderAddThingsToThingGroupMitigationAction",0,1,0,0,0,0,1
@@ -1576,7 +1577,8 @@
 "AmazonMQApiReadOnlyAccess","v1",True,"2018-12-18T20:31:13+00:00","AmazonMQApiReadOnlyAccess",0,0,0,0,0,0,0
 "SupportUser","v3",False,"2020-03-26T23:19:04+00:00","SupportUser",1,1,0,0,0,1,1
 "SupportUser","v2",False,"2017-05-17T23:11:51+00:00","SupportUser",1,1,0,0,0,1,1
-"SupportUser","v4",True,"2020-08-18T22:30:18+00:00","SupportUser",1,1,0,0,0,1,1
+"SupportUser","v5",True,"2021-06-11T19:46:10+00:00","SupportUser",1,1,0,0,0,1,1
+"SupportUser","v4",False,"2020-08-18T22:30:18+00:00","SupportUser",1,1,0,0,0,1,1
 "SupportUser","v1",False,"2016-11-10T17:21:53+00:00","SupportUser",1,1,0,0,0,1,1
 "AWSDeepLensLambdaFunctionAccessPolicy","v3",False,"2018-05-29T22:08:02+00:00","AWSDeepLensLambdaFunctionAccessPolicy",1,2,0,1,0,0,8
 "AWSDeepLensLambdaFunctionAccessPolicy","v2",False,"2018-03-29T19:36:09+00:00","AWSDeepLensLambdaFunctionAccessPolicy",1,1,0,1,0,0,6
