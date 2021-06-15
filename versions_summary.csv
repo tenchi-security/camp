@@ -1024,7 +1024,8 @@
 "ClientVPNServiceRolePolicy","v1",False,"2018-12-10T21:20:25+00:00","ClientVPNServiceRolePolicy",0,3,0,1,0,0,8
 "AmazonEKSClusterPolicy","v3",False,"2019-05-22T22:04:46+00:00","AmazonEKSClusterPolicy",0,4,0,1,0,0,28
 "AmazonEKSClusterPolicy","v2",False,"2018-10-03T20:56:30+00:00","AmazonEKSClusterPolicy",0,4,0,1,0,0,28
-"AmazonEKSClusterPolicy","v4",True,"2020-02-21T20:10:11+00:00","AmazonEKSClusterPolicy",0,4,0,1,0,0,28
+"AmazonEKSClusterPolicy","v5",True,"2021-06-15T20:57:05+00:00","AmazonEKSClusterPolicy",0,4,0,1,0,0,28
+"AmazonEKSClusterPolicy","v4",False,"2020-02-21T20:10:11+00:00","AmazonEKSClusterPolicy",0,4,0,1,0,0,28
 "AmazonEKSClusterPolicy","v1",False,"2018-05-27T21:06:14+00:00","AmazonEKSClusterPolicy",0,3,0,0,0,0,27
 "AmazonKinesisVideoStreamsFullAccess","v1",True,"2017-12-01T23:27:18+00:00","AmazonKinesisVideoStreamsFullAccess",1,1,0,0,0,0,15
 "AmazonLookoutVisionReadOnlyAccess","v1",True,"2021-05-11T19:11:07+00:00","AmazonLookoutVisionReadOnlyAccess",0,0,0,0,0,0,0
