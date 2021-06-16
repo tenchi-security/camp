@@ -1,0 +1,6 @@
+{
+    "VersionId": "v1",
+    "IsDefaultVersion": true,
+    "CreateDate": "2021-06-16T15:37:37+00:00",
+    "PolicyName": "AWSKeyManagementServiceMultiRegionKeysServiceRolePolicy"
+}

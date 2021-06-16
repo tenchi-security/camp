@@ -1020,6 +1020,7 @@
 "GameLiftGameServerGroupPolicy","v2",False,"2020-04-16T17:13:11+00:00","GameLiftGameServerGroupPolicy",0,2,0,0,0,0,8
 "GameLiftGameServerGroupPolicy","v3",True,"2020-05-13T17:27:43+00:00","GameLiftGameServerGroupPolicy",0,2,0,0,0,0,8
 "GameLiftGameServerGroupPolicy","v1",False,"2020-04-03T23:12:19+00:00","GameLiftGameServerGroupPolicy",0,2,0,0,0,0,8
+"AWSKeyManagementServiceMultiRegionKeysServiceRolePolicy","v1",True,"2021-06-16T15:37:37+00:00","AWSKeyManagementServiceMultiRegionKeysServiceRolePolicy",0,0,0,0,0,0,0
 "AWSIoT1ClickFullAccess","v1",True,"2018-05-11T22:10:14+00:00","AWSIoT1ClickFullAccess",1,1,0,0,0,0,12
 "AWSAppMeshPreviewServiceRolePolicy","v2",False,"2019-08-06T16:08:50+00:00","AWSAppMeshPreviewServiceRolePolicy",0,0,0,0,0,0,0
 "AWSAppMeshPreviewServiceRolePolicy","v3",True,"2019-08-21T21:06:29+00:00","AWSAppMeshPreviewServiceRolePolicy",0,0,0,0,0,0,0
