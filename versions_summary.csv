@@ -1451,7 +1451,8 @@
 "AWSLambdaReplicator","v1",False,"2017-05-23T17:53:03+00:00","AWSLambdaReplicator",0,1,0,1,0,0,1
 "AmazonLookoutVisionReadOnlyAccess","v1",True,"2021-05-11T19:11:07+00:00","AmazonLookoutVisionReadOnlyAccess",0,0,0,0,0,0,0
 "AWSVPCS2SVpnServiceRolePolicy","v1",True,"2019-08-06T14:13:58+00:00","AWSVPCS2SVpnServiceRolePolicy",0,0,0,0,0,0,0
-"AWSElasticBeanstalkManagedUpdatesCustomerRolePolicy","v2",True,"2021-03-09T22:36:04+00:00","AWSElasticBeanstalkManagedUpdatesCustomerRolePolicy",2,2,0,0,0,0,42
+"AWSElasticBeanstalkManagedUpdatesCustomerRolePolicy","v2",False,"2021-03-09T22:36:04+00:00","AWSElasticBeanstalkManagedUpdatesCustomerRolePolicy",2,2,0,0,0,0,42
+"AWSElasticBeanstalkManagedUpdatesCustomerRolePolicy","v3",True,"2021-06-16T22:40:31+00:00","AWSElasticBeanstalkManagedUpdatesCustomerRolePolicy",2,2,0,0,0,0,42
 "AWSElasticBeanstalkManagedUpdatesCustomerRolePolicy","v1",False,"2021-03-03T22:18:00+00:00","AWSElasticBeanstalkManagedUpdatesCustomerRolePolicy",2,2,0,0,0,0,42
 "AWSLakeFormationDataAdmin","v2",True,"2019-12-16T22:41:40+00:00","AWSLakeFormationDataAdmin",1,1,0,5,0,0,6
 "AWSLakeFormationDataAdmin","v1",False,"2019-08-08T17:33:44+00:00","AWSLakeFormationDataAdmin",1,1,0,5,0,0,6
