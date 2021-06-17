@@ -1664,7 +1664,8 @@
 "AWSLicenseManagerServiceRolePolicy","v2",False,"2019-11-15T22:10:12+00:00","AWSLicenseManagerServiceRolePolicy",0,2,0,0,0,0,2
 "AWSLicenseManagerServiceRolePolicy","v3",False,"2020-12-03T08:38:18+00:00","AWSLicenseManagerServiceRolePolicy",0,2,0,0,0,0,2
 "AWSLicenseManagerServiceRolePolicy","v1",False,"2018-11-26T19:02:53+00:00","AWSLicenseManagerServiceRolePolicy",0,1,0,0,0,0,1
-"AWSLicenseManagerServiceRolePolicy","v5",True,"2021-06-15T17:06:26+00:00","AWSLicenseManagerServiceRolePolicy",0,2,0,0,0,0,2
+"AWSLicenseManagerServiceRolePolicy","v5",False,"2021-06-15T17:06:26+00:00","AWSLicenseManagerServiceRolePolicy",0,2,0,0,0,0,2
+"AWSLicenseManagerServiceRolePolicy","v6",True,"2021-06-17T03:54:13+00:00","AWSLicenseManagerServiceRolePolicy",0,2,0,0,0,0,2
 "AWSLicenseManagerServiceRolePolicy","v4",False,"2021-03-09T20:23:10+00:00","AWSLicenseManagerServiceRolePolicy",0,2,0,0,0,0,2
 "AmazonMobileAnalyticsWriteOnlyAccess","v1",True,"2015-02-06T18:40:37+00:00","AmazonMobileAnalyticsWriteOnlyAccess",0,0,0,0,0,0,0
 "AWSServiceCatalogAppRegistryFullAccess","v1",True,"2020-11-12T22:25:58+00:00","AWSServiceCatalogAppRegistryFullAccess",0,1,0,0,0,0,10
