@@ -898,8 +898,9 @@
 "AmazonVPCReadOnlyAccess","v4",False,"2015-12-17T17:25:56+00:00","AmazonVPCReadOnlyAccess",0,0,0,0,0,0,0
 "AmazonVPCReadOnlyAccess","v1",False,"2015-02-06T18:41:17+00:00","AmazonVPCReadOnlyAccess",0,0,0,0,0,0,0
 "AmazonVPCReadOnlyAccess","v5",False,"2018-01-02T18:58:11+00:00","AmazonVPCReadOnlyAccess",0,0,0,0,0,0,0
-"AmazonVPCReadOnlyAccess","v6",True,"2018-03-07T18:34:42+00:00","AmazonVPCReadOnlyAccess",0,0,0,0,0,0,0
+"AmazonVPCReadOnlyAccess","v6",False,"2018-03-07T18:34:42+00:00","AmazonVPCReadOnlyAccess",0,0,0,0,0,0,0
 "AmazonVPCReadOnlyAccess","v2",False,"2015-05-07T17:59:08+00:00","AmazonVPCReadOnlyAccess",0,0,0,0,0,0,0
+"AmazonVPCReadOnlyAccess","v7",True,"2021-06-23T17:03:33+00:00","AmazonVPCReadOnlyAccess",0,0,0,0,0,0,0
 "AWSAppSyncPushToCloudWatchLogs","v1",True,"2018-04-09T19:38:55+00:00","AWSAppSyncPushToCloudWatchLogs",0,1,0,0,0,0,3
 "AmazonEC2RolePolicyForLaunchWizard","v3",False,"2020-03-31T22:01:02+00:00","AmazonEC2RolePolicyForLaunchWizard",0,2,0,0,0,0,11
 "AmazonEC2RolePolicyForLaunchWizard","v4",False,"2020-06-03T18:30:04+00:00","AmazonEC2RolePolicyForLaunchWizard",0,2,0,0,0,0,11
