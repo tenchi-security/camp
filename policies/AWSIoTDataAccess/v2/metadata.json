@@ -1,6 +1,6 @@
 {
     "VersionId": "v2",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2017-11-16T18:24:11+00:00",
     "PolicyName": "AWSIoTDataAccess"
 }

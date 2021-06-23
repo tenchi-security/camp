@@ -1,6 +1,6 @@
 {
     "VersionId": "v7",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2018-03-15T18:30:25+00:00",
     "PolicyName": "AmazonVPCFullAccess"
 }

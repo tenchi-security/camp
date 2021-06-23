@@ -1679,8 +1679,9 @@
 "AWSCertificateManagerPrivateCAAuditor","v4",True,"2020-08-17T22:54:12+00:00","AWSCertificateManagerPrivateCAAuditor",0,0,0,0,0,0,0
 "AWSCertificateManagerPrivateCAAuditor","v1",False,"2018-10-23T16:51:08+00:00","AWSCertificateManagerPrivateCAAuditor",0,0,0,0,0,0,0
 "AWSCertificateManagerPrivateCAAuditor","v2",False,"2018-12-07T20:41:56+00:00","AWSCertificateManagerPrivateCAAuditor",0,0,0,0,0,0,0
+"AWSIoTDataAccess","v3",True,"2021-06-23T21:34:47+00:00","AWSIoTDataAccess",0,1,0,0,0,0,6
 "AWSIoTDataAccess","v1",False,"2015-10-27T21:51:18+00:00","AWSIoTDataAccess",0,1,0,0,0,0,5
-"AWSIoTDataAccess","v2",True,"2017-11-16T18:24:11+00:00","AWSIoTDataAccess",0,1,0,0,0,0,6
+"AWSIoTDataAccess","v2",False,"2017-11-16T18:24:11+00:00","AWSIoTDataAccess",0,1,0,0,0,0,6
 "AWSMarketplaceProcurementSystemAdminFullAccess","v1",True,"2019-06-25T13:07:47+00:00","AWSMarketplaceProcurementSystemAdminFullAccess",0,0,0,0,0,0,0
 "AWSCodePipeline_ReadOnlyAccess","v1",True,"2020-08-03T22:25:17+00:00","AWSCodePipeline_ReadOnlyAccess",0,0,0,0,0,0,0
 "AmazonCognitoReadOnly","v3",False,"2019-02-16T00:18:11+00:00","AmazonCognitoReadOnly",0,1,0,1,0,3,0
@@ -1958,7 +1959,8 @@
 "AmazonVPCFullAccess","v5",False,"2015-12-17T17:25:44+00:00","AmazonVPCFullAccess",0,1,0,0,0,0,74
 "AmazonVPCFullAccess","v6",False,"2017-12-20T16:32:09+00:00","AmazonVPCFullAccess",0,1,0,2,0,0,88
 "AmazonVPCFullAccess","v2",False,"2015-03-24T19:54:44+00:00","AmazonVPCFullAccess",0,1,0,0,0,0,51
-"AmazonVPCFullAccess","v7",True,"2018-03-15T18:30:25+00:00","AmazonVPCFullAccess",0,1,0,3,0,0,97
+"AmazonVPCFullAccess","v8",True,"2021-06-23T20:58:45+00:00","AmazonVPCFullAccess",0,1,0,3,0,0,101
+"AmazonVPCFullAccess","v7",False,"2018-03-15T18:30:25+00:00","AmazonVPCFullAccess",0,1,0,3,0,0,97
 "AWSSSMOpsInsightsServiceRolePolicy","v1",True,"2021-06-16T20:12:52+00:00","AWSSSMOpsInsightsServiceRolePolicy",0,1,0,0,0,0,1
 "FMSServiceRolePolicy","v14",False,"2020-07-28T16:30:44+00:00","FMSServiceRolePolicy",0,3,0,0,0,0,5
 "FMSServiceRolePolicy","v9",False,"2020-03-09T22:10:00+00:00","FMSServiceRolePolicy",0,3,0,0,0,0,5
