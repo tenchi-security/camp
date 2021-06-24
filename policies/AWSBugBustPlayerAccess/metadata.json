@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSBugBustPlayerAccess",
+    "PolicyId": "ANPAZKAPJZG4CPEJPLKKR",
+    "Arn": "arn:aws:iam::aws:policy/AWSBugBustPlayerAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2021-06-24T07:15:00+00:00",
+    "UpdateDate": "2021-06-24T07:15:00+00:00"
+}

@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSBugBustServiceRolePolicy",
+    "PolicyId": "ANPAZKAPJZG4LXHZTN64K",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/AWSBugBustServiceRolePolicy",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2021-06-24T06:59:05+00:00",
+    "UpdateDate": "2021-06-24T06:59:05+00:00"
+}

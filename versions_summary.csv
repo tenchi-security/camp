@@ -582,6 +582,7 @@
 "AWSCodeDeployRole","v2",False,"2016-02-17T16:35:27+00:00","AWSCodeDeployRole",0,2,0,0,0,0,5
 "AWSCodeDeployRole","v8",False,"2020-05-19T17:11:39+00:00","AWSCodeDeployRole",0,5,0,0,0,0,20
 "AWSCodeDeployRole","v7",False,"2019-09-23T21:47:54+00:00","AWSCodeDeployRole",0,5,0,0,0,0,19
+"AWSBugBustServiceRolePolicy","v1",True,"2021-06-24T06:59:05+00:00","AWSBugBustServiceRolePolicy",0,1,0,0,0,0,1
 "AmazonRoute53ReadOnlyAccess","v1",False,"2015-02-06T18:40:55+00:00","AmazonRoute53ReadOnlyAccess",0,0,0,0,0,0,0
 "AmazonRoute53ReadOnlyAccess","v2",True,"2016-11-15T21:15:16+00:00","AmazonRoute53ReadOnlyAccess",0,0,0,0,0,0,0
 "AmazonLookoutVisionReadOnlyAccess","v1",True,"2021-05-11T19:11:07+00:00","AmazonLookoutVisionReadOnlyAccess",0,0,0,0,0,0,0
@@ -1563,6 +1564,7 @@
 "ElasticLoadBalancingFullAccess","v1",False,"2018-09-20T20:42:07+00:00","ElasticLoadBalancingFullAccess",1,2,0,1,0,0,24
 "ElasticLoadBalancingFullAccess","v5",True,"2020-12-04T20:01:39+00:00","ElasticLoadBalancingFullAccess",1,2,0,1,0,0,24
 "ElasticLoadBalancingFullAccess","v2",False,"2018-12-03T18:07:30+00:00","ElasticLoadBalancingFullAccess",1,2,0,1,0,0,24
+"AWSBugBustFullAccess","v1",True,"2021-06-24T07:03:26+00:00","AWSBugBustFullAccess",1,0,0,0,0,0,0
 "ComprehendFullAccess","v1",False,"2017-11-29T18:08:43+00:00","ComprehendFullAccess",1,1,0,0,0,0,11
 "ComprehendFullAccess","v2",True,"2017-12-05T01:36:24+00:00","ComprehendFullAccess",1,1,0,0,0,0,11
 "AWSCodeStarNotificationsServiceRolePolicy","v3",False,"2020-02-12T17:52:12+00:00","AWSCodeStarNotificationsServiceRolePolicy",0,0,0,0,0,0,0
@@ -2268,6 +2270,7 @@
 "AWSApplicationDiscoveryAgentAccess","v1",False,"2016-05-11T21:38:47+00:00","AWSApplicationDiscoveryAgentAccess",0,0,0,0,0,0,0
 "AWSApplicationDiscoveryAgentAccess","v2",True,"2020-02-24T22:26:45+00:00","AWSApplicationDiscoveryAgentAccess",0,0,0,0,0,0,0
 "AWSBudgetsReadOnlyAccess","v1",True,"2020-10-15T17:18:28+00:00","AWSBudgetsReadOnlyAccess",0,0,0,0,0,0,0
+"AWSBugBustPlayerAccess","v1",True,"2021-06-24T07:15:00+00:00","AWSBugBustPlayerAccess",0,0,0,0,0,0,0
 "AWSCloudFormationFullAccess","v1",True,"2019-07-26T21:50:35+00:00","AWSCloudFormationFullAccess",1,1,0,1,0,0,19
 "AWSIoTFleetHubFederationAccess","v3",True,"2021-05-24T14:12:59+00:00","AWSIoTFleetHubFederationAccess",0,1,0,0,0,0,5
 "AWSIoTFleetHubFederationAccess","v1",False,"2020-12-15T08:08:05+00:00","AWSIoTFleetHubFederationAccess",0,1,0,0,0,0,3
