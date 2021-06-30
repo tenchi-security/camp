@@ -1,0 +1,38 @@
+{
+    "ServiceWildcard": [
+        "databrew"
+    ],
+    "ServicesAffected": [
+        "databrew",
+        "dataexchange",
+        "kms"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "databrew:BatchDeleteRecipeVersion",
+        "databrew:DeleteDataset",
+        "databrew:DeleteJob",
+        "databrew:DeleteProject",
+        "databrew:DeleteRecipeVersion",
+        "databrew:DeleteSchedule",
+        "databrew:PublishRecipe",
+        "databrew:SendProjectSessionAction",
+        "databrew:StartJobRun",
+        "databrew:StartProjectSession",
+        "databrew:StopJobRun",
+        "databrew:TagResource",
+        "databrew:UntagResource",
+        "databrew:UpdateDataset",
+        "databrew:UpdateProfileJob",
+        "databrew:UpdateProject",
+        "databrew:UpdateRecipe",
+        "databrew:UpdateRecipeJob",
+        "databrew:UpdateSchedule",
+        "dataexchange:CreateJob",
+        "dataexchange:StartJob",
+        "kms:GenerateDataKey"
+    ]
+}

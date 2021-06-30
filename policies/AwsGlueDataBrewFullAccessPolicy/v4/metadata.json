@@ -1,6 +1,6 @@
 {
     "VersionId": "v4",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2021-04-28T15:54:32+00:00",
     "PolicyName": "AwsGlueDataBrewFullAccessPolicy"
 }
