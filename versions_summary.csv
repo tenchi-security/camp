@@ -1823,7 +1823,8 @@
 "GameLiftGameServerGroupPolicy","v3",True,"2020-05-13T17:27:43+00:00","GameLiftGameServerGroupPolicy",0,2,0,0,0,0,8
 "GameLiftGameServerGroupPolicy","v2",False,"2020-04-16T17:13:11+00:00","GameLiftGameServerGroupPolicy",0,2,0,0,0,0,8
 "GameLiftGameServerGroupPolicy","v1",False,"2020-04-03T23:12:19+00:00","GameLiftGameServerGroupPolicy",0,2,0,0,0,0,8
-"AmazonConnect_FullAccess","v1",True,"2020-11-20T19:54:21+00:00","AmazonConnect_FullAccess",1,4,0,1,0,2,64
+"AmazonConnect_FullAccess","v2",True,"2021-07-01T18:41:26+00:00","AmazonConnect_FullAccess",1,4,0,1,0,2,64
+"AmazonConnect_FullAccess","v1",False,"2020-11-20T19:54:21+00:00","AmazonConnect_FullAccess",1,4,0,1,0,2,64
 "AmazonLexRunBotsOnly","v2",True,"2020-05-12T19:26:15+00:00","AmazonLexRunBotsOnly",0,1,0,0,0,0,2
 "AmazonLexRunBotsOnly","v1",False,"2017-04-11T23:06:24+00:00","AmazonLexRunBotsOnly",0,0,0,0,0,0,0
 "AmazonRoute53ResolverFullAccess","v2",True,"2020-07-17T19:03:27+00:00","AmazonRoute53ResolverFullAccess",1,2,0,2,0,0,23
