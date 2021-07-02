@@ -1297,7 +1297,8 @@
 "AWSElasticBeanstalkRoleCWL","v1",True,"2020-06-05T21:49:06+00:00","AWSElasticBeanstalkRoleCWL",0,0,0,0,0,0,0
 "MigrationHubSMSAccessServiceRolePolicy","v2",True,"2019-10-07T18:02:22+00:00","MigrationHubSMSAccessServiceRolePolicy",0,0,0,0,0,0,0
 "MigrationHubSMSAccessServiceRolePolicy","v1",False,"2019-06-12T18:30:28+00:00","MigrationHubSMSAccessServiceRolePolicy",0,0,0,0,0,0,0
-"AmazonQLDBReadOnly","v2",True,"2020-05-19T17:47:55+00:00","AmazonQLDBReadOnly",0,0,0,0,0,0,0
+"AmazonQLDBReadOnly","v3",True,"2021-07-02T02:17:25+00:00","AmazonQLDBReadOnly",0,0,0,0,0,0,0
+"AmazonQLDBReadOnly","v2",False,"2020-05-19T17:47:55+00:00","AmazonQLDBReadOnly",0,0,0,0,0,0,0
 "AmazonQLDBReadOnly","v1",False,"2019-09-05T18:19:24+00:00","AmazonQLDBReadOnly",0,0,0,0,0,0,0
 "AmazonHealthLakeFullAccess","v1",True,"2021-02-17T01:07:05+00:00","AmazonHealthLakeFullAccess",1,2,0,1,0,0,7
 "AWSRoboMaker_FullAccess","v1",True,"2020-09-10T18:34:18+00:00","AWSRoboMaker_FullAccess",1,3,0,1,0,0,25

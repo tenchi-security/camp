@@ -1,6 +1,6 @@
 {
     "VersionId": "v2",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2020-05-19T17:47:55+00:00",
     "PolicyName": "AmazonQLDBReadOnly"
 }
