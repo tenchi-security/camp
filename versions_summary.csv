@@ -2314,7 +2314,8 @@
 "TranslateReadOnly","v6",True,"2020-11-23T17:31:06+00:00","TranslateReadOnly",0,0,0,0,0,0,0
 "TranslateReadOnly","v1",False,"2017-11-29T18:22:00+00:00","TranslateReadOnly",0,0,0,0,0,0,0
 "TranslateReadOnly","v5",False,"2020-01-08T21:13:43+00:00","TranslateReadOnly",0,0,0,0,0,0,0
-"AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v1",True,"2020-11-27T18:48:07+00:00","AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy",0,3,0,0,0,0,14
+"AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v2",True,"2021-07-02T06:13:39+00:00","AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy",0,3,0,0,0,0,14
+"AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v1",False,"2020-11-27T18:48:07+00:00","AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy",0,3,0,0,0,0,14
 "AWSCloud9User","v3",False,"2018-07-02T08:46:37+00:00","AWSCloud9User",0,1,0,1,0,0,1
 "AWSCloud9User","v2",False,"2018-04-26T21:16:21+00:00","AWSCloud9User",0,1,0,1,0,0,1
 "AWSCloud9User","v4",True,"2020-07-29T06:26:43+00:00","AWSCloud9User",0,1,0,1,0,0,1
