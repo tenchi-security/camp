@@ -923,8 +923,9 @@
 "AmazonRDSDirectoryServiceAccess","v2",True,"2019-05-15T16:51:50+00:00","AmazonRDSDirectoryServiceAccess",0,1,0,0,0,0,2
 "AmazonRDSDirectoryServiceAccess","v1",False,"2016-02-26T02:02:05+00:00","AmazonRDSDirectoryServiceAccess",0,1,0,0,0,0,2
 "AmazonRekognitionFullAccess","v1",True,"2016-11-30T14:40:44+00:00","AmazonRekognitionFullAccess",1,1,0,0,0,0,15
-"AWSBackupServiceLinkedRolePolicyForBackup","v3",True,"2021-04-12T18:11:02+00:00","AWSBackupServiceLinkedRolePolicyForBackup",0,2,0,1,0,0,6
+"AWSBackupServiceLinkedRolePolicyForBackup","v3",False,"2021-04-12T18:11:02+00:00","AWSBackupServiceLinkedRolePolicyForBackup",0,2,0,1,0,0,6
 "AWSBackupServiceLinkedRolePolicyForBackup","v2",False,"2020-11-10T18:37:51+00:00","AWSBackupServiceLinkedRolePolicyForBackup",0,2,0,1,0,0,6
+"AWSBackupServiceLinkedRolePolicyForBackup","v4",True,"2021-07-05T23:27:46+00:00","AWSBackupServiceLinkedRolePolicyForBackup",0,2,0,1,0,0,6
 "AWSBackupServiceLinkedRolePolicyForBackup","v1",False,"2020-06-02T23:08:40+00:00","AWSBackupServiceLinkedRolePolicyForBackup",0,0,0,0,0,0,0
 "AWSDirectConnectFullAccess","v3",True,"2019-04-30T15:29:29+00:00","AWSDirectConnectFullAccess",1,1,0,0,0,0,36
 "AWSDirectConnectFullAccess","v2",False,"2018-08-15T17:39:19+00:00","AWSDirectConnectFullAccess",1,1,0,0,0,0,36
@@ -2241,9 +2242,10 @@
 "AWSMigrationHubDiscoveryAccess","v1",False,"2017-08-14T13:30:51+00:00","AWSMigrationHubDiscoveryAccess",0,0,0,0,0,0,0
 "AWSBackupFullAccess","v3",False,"2020-05-29T23:46:51+00:00","AWSBackupFullAccess",2,5,0,3,0,0,27
 "AWSBackupFullAccess","v2",False,"2020-01-13T18:40:45+00:00","AWSBackupFullAccess",2,2,0,3,0,0,22
-"AWSBackupFullAccess","v7",True,"2021-03-10T18:32:22+00:00","AWSBackupFullAccess",2,5,0,3,0,0,26
+"AWSBackupFullAccess","v7",False,"2021-03-10T18:32:22+00:00","AWSBackupFullAccess",2,5,0,3,0,0,26
 "AWSBackupFullAccess","v4",False,"2020-06-06T00:06:57+00:00","AWSBackupFullAccess",2,5,0,3,0,0,27
 "AWSBackupFullAccess","v6",False,"2020-11-09T16:49:24+00:00","AWSBackupFullAccess",2,5,0,3,0,0,26
+"AWSBackupFullAccess","v8",True,"2021-07-05T23:28:54+00:00","AWSBackupFullAccess",2,6,0,4,0,0,27
 "AWSBackupFullAccess","v1",False,"2019-11-18T22:21:52+00:00","AWSBackupFullAccess",2,2,0,3,0,0,22
 "AWSBackupFullAccess","v5",False,"2020-09-14T22:35:25+00:00","AWSBackupFullAccess",2,5,0,3,0,0,26
 "AmazonPrometheusRemoteWriteAccess","v1",True,"2020-12-19T01:04:32+00:00","AmazonPrometheusRemoteWriteAccess",0,1,0,0,0,0,1
