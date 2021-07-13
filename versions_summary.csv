@@ -1344,10 +1344,11 @@
 "CloudWatchLogsFullAccess","v1",True,"2015-02-06T18:40:02+00:00","CloudWatchLogsFullAccess",1,1,0,2,0,0,16
 "APIGatewayServiceRolePolicy","v3",False,"2018-08-10T17:57:44+00:00","APIGatewayServiceRolePolicy",0,1,0,0,0,0,3
 "APIGatewayServiceRolePolicy","v2",False,"2018-01-05T19:09:44+00:00","APIGatewayServiceRolePolicy",0,1,0,0,0,0,3
+"APIGatewayServiceRolePolicy","v9",True,"2021-07-12T22:24:40+00:00","APIGatewayServiceRolePolicy",0,2,0,1,0,0,8
 "APIGatewayServiceRolePolicy","v7",False,"2020-01-15T20:18:59+00:00","APIGatewayServiceRolePolicy",0,2,0,1,0,0,8
 "APIGatewayServiceRolePolicy","v4",False,"2019-05-20T18:22:18+00:00","APIGatewayServiceRolePolicy",0,1,0,0,0,0,3
 "APIGatewayServiceRolePolicy","v6",False,"2019-10-22T18:22:01+00:00","APIGatewayServiceRolePolicy",0,1,0,0,0,0,3
-"APIGatewayServiceRolePolicy","v8",True,"2020-02-25T20:24:49+00:00","APIGatewayServiceRolePolicy",0,2,0,1,0,0,8
+"APIGatewayServiceRolePolicy","v8",False,"2020-02-25T20:24:49+00:00","APIGatewayServiceRolePolicy",0,2,0,1,0,0,8
 "APIGatewayServiceRolePolicy","v1",False,"2017-10-20T17:23:10+00:00","APIGatewayServiceRolePolicy",0,1,0,0,0,0,2
 "APIGatewayServiceRolePolicy","v5",False,"2019-07-25T20:03:52+00:00","APIGatewayServiceRolePolicy",0,1,0,0,0,0,3
 "AWSStorageGatewayFullAccess","v1",True,"2015-02-06T18:41:09+00:00","AWSStorageGatewayFullAccess",1,2,0,4,0,0,54
