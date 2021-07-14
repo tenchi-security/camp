@@ -1529,10 +1529,11 @@
 "CloudWatchSyntheticsFullAccess","v5",False,"2021-01-27T20:12:41+00:00","CloudWatchSyntheticsFullAccess",1,1,0,0,0,0,6
 "AWSSecurityHubServiceRolePolicy","v3",False,"2020-02-05T21:38:52+00:00","AWSSecurityHubServiceRolePolicy",0,0,0,0,0,0,0
 "AWSSecurityHubServiceRolePolicy","v2",False,"2019-07-12T21:11:13+00:00","AWSSecurityHubServiceRolePolicy",0,0,0,0,0,0,0
+"AWSSecurityHubServiceRolePolicy","v9",True,"2021-07-14T20:32:48+00:00","AWSSecurityHubServiceRolePolicy",0,0,0,0,0,0,0
 "AWSSecurityHubServiceRolePolicy","v7",False,"2020-09-21T19:59:01+00:00","AWSSecurityHubServiceRolePolicy",0,0,0,0,0,0,0
 "AWSSecurityHubServiceRolePolicy","v4",False,"2020-04-08T20:26:47+00:00","AWSSecurityHubServiceRolePolicy",0,0,0,0,0,0,0
 "AWSSecurityHubServiceRolePolicy","v6",False,"2020-08-31T20:29:25+00:00","AWSSecurityHubServiceRolePolicy",0,0,0,0,0,0,0
-"AWSSecurityHubServiceRolePolicy","v8",True,"2021-06-29T19:55:36+00:00","AWSSecurityHubServiceRolePolicy",0,0,0,0,0,0,0
+"AWSSecurityHubServiceRolePolicy","v8",False,"2021-06-29T19:55:36+00:00","AWSSecurityHubServiceRolePolicy",0,0,0,0,0,0,0
 "AWSSecurityHubServiceRolePolicy","v1",False,"2018-11-27T23:47:51+00:00","AWSSecurityHubServiceRolePolicy",0,0,0,0,0,0,0
 "AWSSecurityHubServiceRolePolicy","v5",False,"2020-04-21T19:59:17+00:00","AWSSecurityHubServiceRolePolicy",0,0,0,0,0,0,0
 "AmazonRDSReadOnlyAccess","v3",True,"2017-08-28T21:36:32+00:00","AmazonRDSReadOnlyAccess",0,0,0,0,0,0,0
