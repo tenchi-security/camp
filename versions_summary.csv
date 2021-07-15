@@ -995,6 +995,7 @@
 "NetworkAdministrator","v8",True,"2020-09-24T23:55:10+00:00","NetworkAdministrator",5,8,0,5,0,0,225
 "NetworkAdministrator","v1",False,"2016-11-10T17:31:35+00:00","NetworkAdministrator",4,6,0,1,0,0,158
 "NetworkAdministrator","v5",False,"2020-01-16T00:49:18+00:00","NetworkAdministrator",4,6,0,4,0,0,198
+"Route53RecoveryReadinessServiceRolePolicy","v1",True,"2021-07-15T16:06:21+00:00","Route53RecoveryReadinessServiceRolePolicy",0,0,0,0,0,0,0
 "AWSCodePipeline_ReadOnlyAccess","v1",True,"2020-08-03T22:25:17+00:00","AWSCodePipeline_ReadOnlyAccess",0,0,0,0,0,0,0
 "AmazonEC2RolePolicyForLaunchWizard","v3",False,"2020-03-31T22:01:02+00:00","AmazonEC2RolePolicyForLaunchWizard",0,2,0,0,0,0,11
 "AmazonEC2RolePolicyForLaunchWizard","v2",False,"2019-11-24T21:48:01+00:00","AmazonEC2RolePolicyForLaunchWizard",0,2,0,0,0,0,7
