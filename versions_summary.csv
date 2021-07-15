@@ -1233,7 +1233,8 @@
 "ElementalActivationsFullAccess","v1",True,"2020-06-04T21:00:13+00:00","ElementalActivationsFullAccess",1,1,0,0,0,0,2
 "DatabaseAdministrator","v2",True,"2019-01-08T00:48:02+00:00","DatabaseAdministrator",4,9,0,13,1,1,253
 "DatabaseAdministrator","v1",False,"2016-11-10T17:25:43+00:00","DatabaseAdministrator",4,9,0,13,1,1,253
-"AWSGlueConsoleSageMakerNotebookFullAccess","v2",True,"2019-09-26T17:14:11+00:00","AWSGlueConsoleSageMakerNotebookFullAccess",1,2,1,2,0,0,48
+"AWSGlueConsoleSageMakerNotebookFullAccess","v3",True,"2021-07-15T15:24:19+00:00","AWSGlueConsoleSageMakerNotebookFullAccess",1,2,1,2,0,0,48
+"AWSGlueConsoleSageMakerNotebookFullAccess","v2",False,"2019-09-26T17:14:11+00:00","AWSGlueConsoleSageMakerNotebookFullAccess",1,2,1,2,0,0,48
 "AWSGlueConsoleSageMakerNotebookFullAccess","v1",False,"2018-10-05T17:52:35+00:00","AWSGlueConsoleSageMakerNotebookFullAccess",1,2,1,2,0,0,48
 "AWSNetworkManagerReadOnlyAccess","v1",True,"2019-12-03T17:35:05+00:00","AWSNetworkManagerReadOnlyAccess",0,0,0,0,0,0,0
 "AWSQuickSightDescribeRedshift","v1",True,"2015-11-10T23:25:01+00:00","AWSQuickSightDescribeRedshift",0,0,0,0,0,0,0
