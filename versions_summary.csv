@@ -915,8 +915,9 @@
 "AmazonSageMakerFullAccess","v4",False,"2018-02-28T18:31:02+00:00","AmazonSageMakerFullAccess",1,6,0,1,0,1,140
 "AmazonSageMakerFullAccess","v6",False,"2018-08-21T17:00:52+00:00","AmazonSageMakerFullAccess",1,7,0,3,0,1,143
 "AmazonSageMakerFullAccess","v16",False,"2020-01-13T20:47:34+00:00","AmazonSageMakerFullAccess",2,12,0,4,0,1,33
+"AmazonSageMakerFullAccess","v20",True,"2021-07-16T00:06:59+00:00","AmazonSageMakerFullAccess",2,14,0,4,0,1,37
 "AmazonSageMakerFullAccess","v8",False,"2018-11-28T16:16:06+00:00","AmazonSageMakerFullAccess",2,12,0,4,0,1,164
-"AmazonSageMakerFullAccess","v19",True,"2021-02-24T01:19:55+00:00","AmazonSageMakerFullAccess",2,14,0,4,0,1,37
+"AmazonSageMakerFullAccess","v19",False,"2021-02-24T01:19:55+00:00","AmazonSageMakerFullAccess",2,14,0,4,0,1,37
 "AmazonSageMakerFullAccess","v1",False,"2017-11-29T13:07:59+00:00","AmazonSageMakerFullAccess",1,5,0,1,0,1,138
 "AmazonSageMakerFullAccess","v18",False,"2020-12-01T16:31:19+00:00","AmazonSageMakerFullAccess",2,14,0,4,0,1,37
 "AmazonSageMakerFullAccess","v13",False,"2019-10-25T21:00:08+00:00","AmazonSageMakerFullAccess",2,12,0,4,0,1,161

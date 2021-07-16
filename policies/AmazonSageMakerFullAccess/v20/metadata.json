@@ -1,0 +1,6 @@
+{
+    "VersionId": "v20",
+    "IsDefaultVersion": true,
+    "CreateDate": "2021-07-16T00:06:59+00:00",
+    "PolicyName": "AmazonSageMakerFullAccess"
+}
