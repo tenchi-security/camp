@@ -991,10 +991,11 @@
 "AmazonCodeGuruReviewerReadOnlyAccess","v1",False,"2019-12-03T08:48:24+00:00","AmazonCodeGuruReviewerReadOnlyAccess",0,0,0,0,0,0,0
 "NetworkAdministrator","v3",False,"2018-12-13T19:43:41+00:00","NetworkAdministrator",4,6,0,4,0,0,181
 "NetworkAdministrator","v2",False,"2017-03-20T18:44:58+00:00","NetworkAdministrator",4,6,0,1,0,0,158
+"NetworkAdministrator","v9",True,"2021-07-20T21:05:41+00:00","NetworkAdministrator",5,8,0,5,0,0,236
 "NetworkAdministrator","v7",False,"2020-08-08T00:10:51+00:00","NetworkAdministrator",5,8,0,5,0,0,223
 "NetworkAdministrator","v4",False,"2019-07-11T18:08:00+00:00","NetworkAdministrator",4,6,0,4,0,0,198
 "NetworkAdministrator","v6",False,"2020-03-31T16:34:49+00:00","NetworkAdministrator",5,7,0,4,0,0,222
-"NetworkAdministrator","v8",True,"2020-09-24T23:55:10+00:00","NetworkAdministrator",5,8,0,5,0,0,225
+"NetworkAdministrator","v8",False,"2020-09-24T23:55:10+00:00","NetworkAdministrator",5,8,0,5,0,0,225
 "NetworkAdministrator","v1",False,"2016-11-10T17:31:35+00:00","NetworkAdministrator",4,6,0,1,0,0,158
 "NetworkAdministrator","v5",False,"2020-01-16T00:49:18+00:00","NetworkAdministrator",4,6,0,4,0,0,198
 "Route53RecoveryReadinessServiceRolePolicy","v1",True,"2021-07-15T16:06:21+00:00","Route53RecoveryReadinessServiceRolePolicy",0,0,0,0,0,0,0
