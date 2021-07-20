@@ -1527,8 +1527,9 @@
 "AWSCloudMapRegisterInstanceAccess","v1",False,"2018-11-29T00:04:57+00:00","AWSCloudMapRegisterInstanceAccess",0,2,0,0,0,0,5
 "CloudWatchSyntheticsFullAccess","v3",False,"2020-04-22T18:37:11+00:00","CloudWatchSyntheticsFullAccess",1,1,0,0,0,0,6
 "CloudWatchSyntheticsFullAccess","v2",False,"2020-04-03T17:53:31+00:00","CloudWatchSyntheticsFullAccess",1,1,0,0,0,0,6
+"CloudWatchSyntheticsFullAccess","v7",True,"2021-07-20T15:56:52+00:00","CloudWatchSyntheticsFullAccess",1,1,0,0,0,0,6
 "CloudWatchSyntheticsFullAccess","v4",False,"2020-09-18T16:39:53+00:00","CloudWatchSyntheticsFullAccess",1,1,0,0,0,0,6
-"CloudWatchSyntheticsFullAccess","v6",True,"2021-03-25T18:40:18+00:00","CloudWatchSyntheticsFullAccess",1,1,0,0,0,0,6
+"CloudWatchSyntheticsFullAccess","v6",False,"2021-03-25T18:40:18+00:00","CloudWatchSyntheticsFullAccess",1,1,0,0,0,0,6
 "CloudWatchSyntheticsFullAccess","v1",False,"2019-11-25T17:39:46+00:00","CloudWatchSyntheticsFullAccess",1,1,0,0,0,0,6
 "CloudWatchSyntheticsFullAccess","v5",False,"2021-01-27T20:12:41+00:00","CloudWatchSyntheticsFullAccess",1,1,0,0,0,0,6
 "AWSSecurityHubServiceRolePolicy","v3",False,"2020-02-05T21:38:52+00:00","AWSSecurityHubServiceRolePolicy",0,0,0,0,0,0,0
