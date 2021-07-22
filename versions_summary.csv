@@ -1133,7 +1133,8 @@
 "ServerMigrationServiceConsoleFullAccess","v1",False,"2020-05-09T17:18:57+00:00","ServerMigrationServiceConsoleFullAccess",1,1,0,1,0,0,1
 "CloudWatchApplicationInsightsReadOnlyAccess","v1",True,"2020-11-24T18:48:00+00:00","CloudWatchApplicationInsightsReadOnlyAccess",0,0,0,0,0,0,0
 "AmazonS3FullAccess","v1",True,"2015-02-06T18:40:58+00:00","AmazonS3FullAccess",1,1,0,13,1,0,60
-"AWSBugBustFullAccess","v1",True,"2021-06-24T07:03:26+00:00","AWSBugBustFullAccess",1,0,0,0,0,0,0
+"AWSBugBustFullAccess","v2",True,"2021-07-22T20:04:29+00:00","AWSBugBustFullAccess",1,0,0,0,0,0,0
+"AWSBugBustFullAccess","v1",False,"2021-06-24T07:03:26+00:00","AWSBugBustFullAccess",1,0,0,0,0,0,0
 "AutoScalingConsoleFullAccess","v2",True,"2018-02-06T23:15:36+00:00","AutoScalingConsoleFullAccess",1,4,0,1,0,0,44
 "AutoScalingConsoleFullAccess","v1",False,"2017-01-12T19:43:16+00:00","AutoScalingConsoleFullAccess",1,3,0,0,0,0,43
 "AWSQuickSightDescribeRDS","v1",True,"2015-11-10T23:24:50+00:00","AWSQuickSightDescribeRDS",0,0,0,0,0,0,0
