@@ -574,7 +574,8 @@
 "AWSThinkboxAWSPortalGatewayPolicy","v1",False,"2020-05-27T19:05:00+00:00","AWSThinkboxAWSPortalGatewayPolicy",0,1,0,0,0,0,1
 "IVSRecordToS3","v1",True,"2020-12-05T00:10:43+00:00","IVSRecordToS3",0,0,0,0,0,0,0
 "AWSAppMeshEnvoyAccess","v1",True,"2019-07-03T21:29:37+00:00","AWSAppMeshEnvoyAccess",0,0,0,0,0,0,0
-"AmazonLexReadOnly","v1",True,"2017-04-11T23:13:33+00:00","AmazonLexReadOnly",0,0,0,0,0,0,0
+"AmazonLexReadOnly","v2",True,"2021-07-26T22:04:56+00:00","AmazonLexReadOnly",0,0,0,0,0,0,0
+"AmazonLexReadOnly","v1",False,"2017-04-11T23:13:33+00:00","AmazonLexReadOnly",0,0,0,0,0,0,0
 "AmazonFSxConsoleFullAccess","v3",False,"2020-01-21T16:42:58+00:00","AmazonFSxConsoleFullAccess",1,2,0,2,0,0,13
 "AmazonFSxConsoleFullAccess","v2",False,"2019-09-10T13:11:13+00:00","AmazonFSxConsoleFullAccess",1,2,0,2,0,0,13
 "AmazonFSxConsoleFullAccess","v4",True,"2021-06-08T12:14:00+00:00","AmazonFSxConsoleFullAccess",1,2,0,2,0,0,13
@@ -2112,8 +2113,9 @@
 "AWSDeepLensLambdaFunctionAccessPolicy","v1",False,"2017-11-29T15:47:18+00:00","AWSDeepLensLambdaFunctionAccessPolicy",1,1,0,1,0,0,6
 "AmazonLexFullAccess","v3",False,"2017-04-14T19:45:37+00:00","AmazonLexFullAccess",1,1,0,0,0,0,29
 "AmazonLexFullAccess","v2",False,"2017-04-12T20:16:32+00:00","AmazonLexFullAccess",1,1,0,0,0,0,29
+"AmazonLexFullAccess","v7",True,"2021-07-26T21:48:05+00:00","AmazonLexFullAccess",1,1,0,0,0,0,38
 "AmazonLexFullAccess","v4",False,"2017-11-15T23:55:07+00:00","AmazonLexFullAccess",1,1,0,0,0,0,29
-"AmazonLexFullAccess","v6",True,"2020-05-29T15:21:00+00:00","AmazonLexFullAccess",1,1,0,0,0,0,29
+"AmazonLexFullAccess","v6",False,"2020-05-29T15:21:00+00:00","AmazonLexFullAccess",1,1,0,0,0,0,29
 "AmazonLexFullAccess","v1",False,"2017-04-11T23:20:36+00:00","AmazonLexFullAccess",1,1,0,0,0,0,29
 "AmazonLexFullAccess","v5",False,"2020-05-15T16:34:50+00:00","AmazonLexFullAccess",1,1,0,0,0,0,29
 "AmazonRoute53DomainsFullAccess","v1",True,"2015-02-06T18:40:56+00:00","AmazonRoute53DomainsFullAccess",1,1,0,0,0,0,1
