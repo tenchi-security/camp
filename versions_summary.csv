@@ -1870,7 +1870,8 @@
 "AmazonVPCReadOnlyAccess","v5",False,"2018-01-02T18:58:11+00:00","AmazonVPCReadOnlyAccess",0,0,0,0,0,0,0
 "AWSPanoramaFullAccess","v1",True,"2020-12-01T13:12:47+00:00","AWSPanoramaFullAccess",1,1,0,0,0,0,14
 "AmazonTranscribeReadOnlyAccess","v1",True,"2018-04-04T16:05:06+00:00","AmazonTranscribeReadOnlyAccess",0,0,0,0,0,0,0
-"AdministratorAccess-Amplify","v2",True,"2021-01-13T22:36:27+00:00","AdministratorAccess-Amplify",2,15,2,25,1,1,174
+"AdministratorAccess-Amplify","v3",True,"2021-07-26T22:49:07+00:00","AdministratorAccess-Amplify",3,16,3,40,1,1,199
+"AdministratorAccess-Amplify","v2",False,"2021-01-13T22:36:27+00:00","AdministratorAccess-Amplify",2,15,2,25,1,1,174
 "AdministratorAccess-Amplify","v1",False,"2020-12-01T19:03:08+00:00","AdministratorAccess-Amplify",0,12,0,22,1,0,99
 "DynamoDBKinesisReplicationServiceRolePolicy","v1",True,"2020-11-12T00:43:25+00:00","DynamoDBKinesisReplicationServiceRolePolicy",0,2,0,0,0,0,3
 "AWSProtonDeveloperAccess","v1",True,"2021-02-17T19:02:08+00:00","AWSProtonDeveloperAccess",0,1,0,0,0,0,5
