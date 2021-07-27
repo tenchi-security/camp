@@ -585,7 +585,8 @@
 "AWSApplicationAutoScalingCustomResourcePolicy","v1",True,"2018-06-04T23:22:44+00:00","AWSApplicationAutoScalingCustomResourcePolicy",0,2,0,0,0,0,3
 "AmazonEKSVPCResourceController","v1",True,"2020-08-12T00:55:34+00:00","AmazonEKSVPCResourceController",0,1,0,1,0,0,8
 "AmazonRoute53AutoNamingRegistrantAccess","v1",True,"2018-03-12T22:33:20+00:00","AmazonRoute53AutoNamingRegistrantAccess",0,2,0,0,0,0,5
-"AWSThinkboxDeadlineResourceTrackerAdminPolicy","v2",True,"2020-10-06T19:06:57+00:00","AWSThinkboxDeadlineResourceTrackerAdminPolicy",0,1,0,0,0,0,1
+"AWSThinkboxDeadlineResourceTrackerAdminPolicy","v3",True,"2021-07-27T21:13:41+00:00","AWSThinkboxDeadlineResourceTrackerAdminPolicy",0,1,0,0,0,0,1
+"AWSThinkboxDeadlineResourceTrackerAdminPolicy","v2",False,"2020-10-06T19:06:57+00:00","AWSThinkboxDeadlineResourceTrackerAdminPolicy",0,1,0,0,0,0,1
 "AWSThinkboxDeadlineResourceTrackerAdminPolicy","v1",False,"2020-05-27T19:29:09+00:00","AWSThinkboxDeadlineResourceTrackerAdminPolicy",0,1,0,0,0,0,1
 "ConfigConformsServiceRolePolicy","v3",False,"2019-10-17T22:16:14+00:00","ConfigConformsServiceRolePolicy",0,1,0,1,0,0,1
 "ConfigConformsServiceRolePolicy","v2",False,"2019-10-02T00:31:15+00:00","ConfigConformsServiceRolePolicy",0,1,0,1,0,0,1
