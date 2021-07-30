@@ -1,6 +1,6 @@
 {
     "VersionId": "v6",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2021-06-17T03:54:13+00:00",
     "PolicyName": "AWSLicenseManagerServiceRolePolicy"
 }
