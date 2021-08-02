@@ -1158,9 +1158,10 @@
 "AmazonVPCReadOnlyAccess","v6",False,"2018-03-07T18:34:42+00:00","AmazonVPCReadOnlyAccess",0,0,0,0,0,0,0
 "AmazonVPCReadOnlyAccess","v1",False,"2015-02-06T18:41:17+00:00","AmazonVPCReadOnlyAccess",0,0,0,0,0,0,0
 "AmazonVPCReadOnlyAccess","v5",False,"2018-01-02T18:58:11+00:00","AmazonVPCReadOnlyAccess",0,0,0,0,0,0,0
+"AmazonVPCReadOnlyAccess","v8",True,"2021-08-02T15:47:38+00:00","AmazonVPCReadOnlyAccess",0,0,0,0,0,0,0
 "AmazonVPCReadOnlyAccess","v3",False,"2015-12-15T22:04:10+00:00","AmazonVPCReadOnlyAccess",0,0,0,0,0,0,0
 "AmazonVPCReadOnlyAccess","v4",False,"2015-12-17T17:25:56+00:00","AmazonVPCReadOnlyAccess",0,0,0,0,0,0,0
-"AmazonVPCReadOnlyAccess","v7",True,"2021-06-23T17:03:33+00:00","AmazonVPCReadOnlyAccess",0,0,0,0,0,0,0
+"AmazonVPCReadOnlyAccess","v7",False,"2021-06-23T17:03:33+00:00","AmazonVPCReadOnlyAccess",0,0,0,0,0,0,0
 "AmazonVPCReadOnlyAccess","v2",False,"2015-05-07T17:59:08+00:00","AmazonVPCReadOnlyAccess",0,0,0,0,0,0,0
 "AmazonLookoutVisionConsoleFullAccess","v1",True,"2021-05-11T19:37:17+00:00","AmazonLookoutVisionConsoleFullAccess",1,1,0,0,0,0,8
 "AWSApplicationAutoscalingEC2SpotFleetRequestPolicy","v1",True,"2017-10-25T18:23:27+00:00","AWSApplicationAutoscalingEC2SpotFleetRequestPolicy",0,2,0,0,0,0,3
