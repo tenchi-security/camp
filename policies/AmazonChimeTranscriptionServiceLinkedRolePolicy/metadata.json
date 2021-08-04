@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonChimeTranscriptionServiceLinkedRolePolicy",
+    "PolicyId": "ANPAZKAPJZG4DC6EM4O3Q",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/AmazonChimeTranscriptionServiceLinkedRolePolicy",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2021-08-04T21:47:41+00:00",
+    "UpdateDate": "2021-08-04T21:47:41+00:00"
+}

@@ -644,6 +644,7 @@
 "AmazonKendraReadOnlyAccess","v1",False,"2019-12-03T16:13:45+00:00","AmazonKendraReadOnlyAccess",0,0,0,0,0,0,0
 "AmazonKendraReadOnlyAccess","v2",True,"2021-05-27T17:01:20+00:00","AmazonKendraReadOnlyAccess",0,0,0,0,0,0,0
 "ServerMigrationServiceRoleForInstanceValidation","v1",True,"2020-07-20T22:25:07+00:00","ServerMigrationServiceRoleForInstanceValidation",0,0,0,0,0,0,0
+"AmazonChimeTranscriptionServiceLinkedRolePolicy","v1",True,"2021-08-04T21:47:41+00:00","AmazonChimeTranscriptionServiceLinkedRolePolicy",0,0,0,0,0,0,0
 "ConfigConformsServiceRolePolicy","v1",False,"2019-07-25T21:38:05+00:00","ConfigConformsServiceRolePolicy",0,0,0,0,0,0,0
 "ConfigConformsServiceRolePolicy","v3",False,"2019-10-17T22:16:14+00:00","ConfigConformsServiceRolePolicy",0,1,0,1,0,0,1
 "ConfigConformsServiceRolePolicy","v4",True,"2019-11-13T18:29:21+00:00","ConfigConformsServiceRolePolicy",0,1,0,1,0,0,1
@@ -1171,7 +1172,8 @@
 "AWSKeyManagementServicePowerUser","v2",True,"2017-03-07T00:55:11+00:00","AWSKeyManagementServicePowerUser",0,1,0,0,0,0,4
 "AmazonFreeRTOSFullAccess","v1",True,"2017-11-29T15:32:51+00:00","AmazonFreeRTOSFullAccess",1,1,0,0,0,0,3
 "AWSSSOMasterAccountAdministrator","v1",False,"2018-06-27T20:36:51+00:00","AWSSSOMasterAccountAdministrator",1,2,0,31,0,0,17
-"AWSSSOMasterAccountAdministrator","v3",True,"2018-10-17T20:41:20+00:00","AWSSSOMasterAccountAdministrator",1,2,0,31,0,0,18
+"AWSSSOMasterAccountAdministrator","v3",False,"2018-10-17T20:41:20+00:00","AWSSSOMasterAccountAdministrator",1,2,0,31,0,0,18
+"AWSSSOMasterAccountAdministrator","v4",True,"2021-08-04T21:10:42+00:00","AWSSSOMasterAccountAdministrator",2,2,0,44,0,0,18
 "AWSSSOMasterAccountAdministrator","v2",False,"2018-07-03T20:10:59+00:00","AWSSSOMasterAccountAdministrator",1,2,0,31,0,0,17
 "TranslateFullAccess","v1",False,"2018-11-27T23:36:20+00:00","TranslateFullAccess",1,0,0,0,0,0,0
 "TranslateFullAccess","v2",True,"2020-01-08T21:22:27+00:00","TranslateFullAccess",1,0,0,0,0,0,0
@@ -1574,7 +1576,8 @@
 "AmazonDynamoDBFullAccesswithDataPipeline","v1",False,"2015-02-06T18:40:14+00:00","AmazonDynamoDBFullAccesswithDataPipeline",3,7,2,11,1,0,93
 "AmazonDynamoDBFullAccesswithDataPipeline","v2",True,"2015-11-12T02:17:42+00:00","AmazonDynamoDBFullAccesswithDataPipeline",4,8,6,18,1,0,129
 "AWSSSOMemberAccountAdministrator","v1",False,"2018-06-27T20:45:42+00:00","AWSSSOMemberAccountAdministrator",1,2,0,31,0,0,17
-"AWSSSOMemberAccountAdministrator","v2",True,"2018-10-17T20:35:52+00:00","AWSSSOMemberAccountAdministrator",1,2,0,31,0,0,18
+"AWSSSOMemberAccountAdministrator","v3",True,"2021-08-04T20:13:14+00:00","AWSSSOMemberAccountAdministrator",2,2,0,44,0,0,18
+"AWSSSOMemberAccountAdministrator","v2",False,"2018-10-17T20:35:52+00:00","AWSSSOMemberAccountAdministrator",1,2,0,31,0,0,18
 "AWSLambdaExecute","v1",True,"2015-02-06T18:40:46+00:00","AWSLambdaExecute",1,0,0,0,0,0,0
 "AmazonChimeFullAccess","v1",False,"2017-11-01T22:15:43+00:00","AmazonChimeFullAccess",1,1,0,2,0,1,34
 "AmazonChimeFullAccess","v3",True,"2020-12-14T21:00:52+00:00","AmazonChimeFullAccess",1,2,0,3,0,1,35
