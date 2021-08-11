@@ -1,6 +1,6 @@
 {
     "VersionId": "v1",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2021-05-18T22:18:55+00:00",
     "PolicyName": "AWSServiceCatalogAppRegistryServiceRolePolicy"
 }

@@ -1,0 +1,6 @@
+{
+    "VersionId": "v13",
+    "IsDefaultVersion": true,
+    "CreateDate": "2021-08-11T18:07:10+00:00",
+    "PolicyName": "AWSServiceRoleForImageBuilder"
+}
