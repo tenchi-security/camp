@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSLicenseManagerConsumptionPolicy",
+    "PolicyId": "ANPAZKAPJZG4KWNLLSDDM",
+    "Arn": "arn:aws:iam::aws:policy/service-role/AWSLicenseManagerConsumptionPolicy",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2021-08-11T23:18:08+00:00",
+    "UpdateDate": "2021-08-11T23:18:08+00:00"
+}
