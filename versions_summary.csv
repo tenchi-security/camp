@@ -1900,7 +1900,8 @@
 "AmazonChimeVoiceConnectorServiceLinkedRolePolicy","v1",True,"2019-09-30T22:16:42+00:00","AmazonChimeVoiceConnectorServiceLinkedRolePolicy",0,0,0,0,0,0,0
 "IAMAccessAnalyzerReadOnlyAccess","v1",False,"2019-12-02T17:12:53+00:00","IAMAccessAnalyzerReadOnlyAccess",0,0,0,0,0,0,0
 "IAMAccessAnalyzerReadOnlyAccess","v2",True,"2021-03-16T20:37:30+00:00","IAMAccessAnalyzerReadOnlyAccess",0,0,0,0,0,0,0
-"AmazonNimbleStudio-StudioUser","v1",True,"2021-04-28T04:48:11+00:00","AmazonNimbleStudio-StudioUser",0,2,0,2,0,0,4
+"AmazonNimbleStudio-StudioUser","v1",False,"2021-04-28T04:48:11+00:00","AmazonNimbleStudio-StudioUser",0,2,0,2,0,0,4
+"AmazonNimbleStudio-StudioUser","v2",True,"2021-08-16T18:26:50+00:00","AmazonNimbleStudio-StudioUser",0,3,0,2,0,0,7
 "AdministratorAccess-Amplify","v1",False,"2020-12-01T19:03:08+00:00","AdministratorAccess-Amplify",0,12,0,22,1,0,99
 "AdministratorAccess-Amplify","v3",True,"2021-07-26T22:49:07+00:00","AdministratorAccess-Amplify",3,16,3,40,1,1,199
 "AdministratorAccess-Amplify","v2",False,"2021-01-13T22:36:27+00:00","AdministratorAccess-Amplify",2,15,2,25,1,1,174
