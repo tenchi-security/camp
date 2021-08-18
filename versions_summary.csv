@@ -1583,6 +1583,7 @@
 "AWSSSOMemberAccountAdministrator","v3",True,"2021-08-04T20:13:14+00:00","AWSSSOMemberAccountAdministrator",2,2,0,44,0,0,18
 "AWSSSOMemberAccountAdministrator","v2",False,"2018-10-17T20:35:52+00:00","AWSSSOMemberAccountAdministrator",1,2,0,31,0,0,18
 "AWSLambdaExecute","v1",True,"2015-02-06T18:40:46+00:00","AWSLambdaExecute",1,0,0,0,0,0,0
+"AmazonS3ObjectLambdaExecutionRolePolicy","v1",True,"2021-08-18T10:07:41+00:00","AmazonS3ObjectLambdaExecutionRolePolicy",0,2,0,0,0,0,4
 "AmazonChimeFullAccess","v1",False,"2017-11-01T22:15:43+00:00","AmazonChimeFullAccess",1,1,0,2,0,1,34
 "AmazonChimeFullAccess","v3",True,"2020-12-14T21:00:52+00:00","AmazonChimeFullAccess",1,2,0,3,0,1,35
 "AmazonChimeFullAccess","v2",False,"2020-05-19T18:17:17+00:00","AmazonChimeFullAccess",1,2,0,3,0,1,35
