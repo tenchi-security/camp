@@ -1,0 +1,15 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "elasticache"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "elasticache:DecreaseReplicaCount",
+        "elasticache:IncreaseReplicaCount",
+        "elasticache:ModifyReplicationGroupShardConfiguration"
+    ]
+}
