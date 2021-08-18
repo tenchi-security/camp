@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonRoute53RecoveryClusterFullAccess",
+    "PolicyId": "ANPAZKAPJZG4MMWM2PHKW",
+    "Arn": "arn:aws:iam::aws:policy/AmazonRoute53RecoveryClusterFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2021-08-18T18:37:00+00:00",
+    "UpdateDate": "2021-08-18T18:37:00+00:00"
+}

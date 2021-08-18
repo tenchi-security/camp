@@ -748,13 +748,14 @@
 "AWSLambda_FullAccess","v1",True,"2020-11-17T21:14:08+00:00","AWSLambda_FullAccess",1,2,1,7,0,0,36
 "AWSQuickSightTimestreamPolicy","v1",True,"2020-09-30T21:47:03+00:00","AWSQuickSightTimestreamPolicy",0,0,0,0,0,0,0
 "AWSElasticBeanstalkCustomPlatformforEC2Role","v1",True,"2017-02-21T22:50:30+00:00","AWSElasticBeanstalkCustomPlatformforEC2Role",0,1,0,1,0,1,21
+"AWSCodeCommitReadOnly","v11",True,"2021-08-18T18:18:01+00:00","AWSCodeCommitReadOnly",0,0,0,0,0,0,0
 "AWSCodeCommitReadOnly","v6",False,"2019-11-20T17:12:40+00:00","AWSCodeCommitReadOnly",0,0,0,0,0,0,0
 "AWSCodeCommitReadOnly","v1",False,"2015-07-09T17:05:06+00:00","AWSCodeCommitReadOnly",0,0,0,0,0,0,0
 "AWSCodeCommitReadOnly","v5",False,"2019-11-05T22:56:54+00:00","AWSCodeCommitReadOnly",0,0,0,0,0,0,0
 "AWSCodeCommitReadOnly","v8",False,"2020-03-26T16:09:12+00:00","AWSCodeCommitReadOnly",0,0,0,0,0,0,0
 "AWSCodeCommitReadOnly","v3",False,"2019-05-15T17:26:42+00:00","AWSCodeCommitReadOnly",0,0,0,0,0,0,0
 "AWSCodeCommitReadOnly","v4",False,"2019-11-05T20:46:13+00:00","AWSCodeCommitReadOnly",0,0,0,0,0,0,0
-"AWSCodeCommitReadOnly","v10",True,"2020-07-30T23:08:05+00:00","AWSCodeCommitReadOnly",0,0,0,0,0,0,0
+"AWSCodeCommitReadOnly","v10",False,"2020-07-30T23:08:05+00:00","AWSCodeCommitReadOnly",0,0,0,0,0,0,0
 "AWSCodeCommitReadOnly","v7",False,"2019-12-03T08:08:37+00:00","AWSCodeCommitReadOnly",0,0,0,0,0,0,0
 "AWSCodeCommitReadOnly","v9",False,"2020-06-24T16:06:55+00:00","AWSCodeCommitReadOnly",0,0,0,0,0,0,0
 "AWSCodeCommitReadOnly","v2",False,"2017-11-20T20:01:56+00:00","AWSCodeCommitReadOnly",0,0,0,0,0,0,0
@@ -781,6 +782,7 @@
 "AmazonRDSReadOnlyAccess","v3",True,"2017-08-28T21:36:32+00:00","AmazonRDSReadOnlyAccess",0,0,0,0,0,0,0
 "AmazonRDSReadOnlyAccess","v2",False,"2015-12-16T20:58:30+00:00","AmazonRDSReadOnlyAccess",0,0,0,0,0,0,0
 "WAFRegionalLoggingServiceRolePolicy","v1",True,"2018-08-24T18:40:55+00:00","WAFRegionalLoggingServiceRolePolicy",0,0,0,0,0,0,0
+"AmazonRoute53RecoveryClusterFullAccess","v1",True,"2021-08-18T18:37:00+00:00","AmazonRoute53RecoveryClusterFullAccess",1,0,0,0,0,0,0
 "AmazonEMRCleanupPolicy","v1",False,"2017-09-26T23:54:19+00:00","AmazonEMRCleanupPolicy",0,1,0,0,0,0,6
 "AmazonEMRCleanupPolicy","v3",True,"2020-09-29T21:11:54+00:00","AmazonEMRCleanupPolicy",0,1,0,0,0,0,7
 "AmazonEMRCleanupPolicy","v2",False,"2020-06-25T20:40:52+00:00","AmazonEMRCleanupPolicy",0,1,0,0,0,0,7
@@ -1274,6 +1276,7 @@
 "AmazonQLDBConsoleFullAccess","v2",False,"2020-05-19T17:45:54+00:00","AmazonQLDBConsoleFullAccess",1,1,0,0,0,0,12
 "AWSResourceGroupsReadOnlyAccess","v1",False,"2018-03-07T10:27:04+00:00","AWSResourceGroupsReadOnlyAccess",0,0,0,0,0,0,0
 "AWSResourceGroupsReadOnlyAccess","v2",True,"2019-02-05T17:56:25+00:00","AWSResourceGroupsReadOnlyAccess",0,0,0,0,0,0,0
+"AmazonRoute53RecoveryReadinessReadOnlyAccess","v1",True,"2021-08-18T18:11:33+00:00","AmazonRoute53RecoveryReadinessReadOnlyAccess",0,0,0,0,0,0,0
 "CertificateManagerServiceRolePolicy","v1",True,"2020-06-25T17:56:49+00:00","CertificateManagerServiceRolePolicy",0,1,0,0,0,0,1
 "NeptuneReadOnlyAccess","v1",True,"2018-05-30T19:16:37+00:00","NeptuneReadOnlyAccess",0,0,0,0,0,0,0
 "AWSGrafanaConsoleReadOnlyAccess","v1",True,"2021-02-23T00:10:40+00:00","AWSGrafanaConsoleReadOnlyAccess",0,0,0,0,0,0,0
