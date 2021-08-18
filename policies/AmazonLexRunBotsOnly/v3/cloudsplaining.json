@@ -1,0 +1,16 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "lex"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "lex:DeleteSession",
+        "lex:PutSession",
+        "lex:RecognizeText",
+        "lex:StartConversation"
+    ]
+}
