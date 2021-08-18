@@ -242,6 +242,7 @@
 "AWSCodeDeployDeployerAccess","v3",True,"2020-04-02T16:16:11+00:00","AWSCodeDeployDeployerAccess",0,2,0,0,0,0,6
 "AWSCodeDeployDeployerAccess","v2",False,"2019-11-05T22:59:06+00:00","AWSCodeDeployDeployerAccess",0,2,0,0,0,0,6
 "AppRunnerServiceRolePolicy","v1",True,"2021-05-14T19:15:04+00:00","AppRunnerServiceRolePolicy",0,0,0,0,0,0,0
+"AmazonRoute53RecoveryClusterReadOnlyAccess","v1",True,"2021-08-18T17:36:01+00:00","AmazonRoute53RecoveryClusterReadOnlyAccess",0,0,0,0,0,0,0
 "AmazonTextractServiceRole","v1",True,"2018-11-28T19:12:16+00:00","AmazonTextractServiceRole",0,0,0,0,0,0,0
 "AmazonEC2ContainerServiceEventsRole","v1",False,"2017-05-30T16:51:35+00:00","AmazonEC2ContainerServiceEventsRole",0,1,0,0,0,0,1
 "AmazonEC2ContainerServiceEventsRole","v2",True,"2018-05-22T19:13:11+00:00","AmazonEC2ContainerServiceEventsRole",0,2,0,1,0,0,2
@@ -285,6 +286,7 @@
 "AmazonRedshiftServiceLinkedRolePolicy","v3",True,"2020-09-15T20:44:31+00:00","AmazonRedshiftServiceLinkedRolePolicy",0,1,0,0,0,0,8
 "AmazonRedshiftServiceLinkedRolePolicy","v2",False,"2017-09-25T21:20:15+00:00","AmazonRedshiftServiceLinkedRolePolicy",0,1,0,0,0,0,5
 "AWSIoTSiteWiseFullAccess","v1",True,"2018-12-04T20:53:39+00:00","AWSIoTSiteWiseFullAccess",1,1,0,0,0,0,27
+"AmazonRoute53RecoveryControlConfigReadOnlyAccess","v1",True,"2021-08-18T18:01:12+00:00","AmazonRoute53RecoveryControlConfigReadOnlyAccess",0,0,0,0,0,0,0
 "AWSForWordPressPluginPolicy","v1",False,"2019-10-30T00:27:46+00:00","AWSForWordPressPluginPolicy",0,3,0,0,0,0,9
 "AWSForWordPressPluginPolicy","v2",True,"2020-01-20T23:20:47+00:00","AWSForWordPressPluginPolicy",0,3,0,0,0,0,10
 "AmazonTimestreamReadOnlyAccess","v1",True,"2020-09-30T21:47:08+00:00","AmazonTimestreamReadOnlyAccess",0,0,0,0,0,0,0
@@ -1171,6 +1173,7 @@
 "AmazonVPCReadOnlyAccess","v2",False,"2015-05-07T17:59:08+00:00","AmazonVPCReadOnlyAccess",0,0,0,0,0,0,0
 "AmazonLookoutVisionConsoleFullAccess","v1",True,"2021-05-11T19:37:17+00:00","AmazonLookoutVisionConsoleFullAccess",1,1,0,0,0,0,8
 "AWSApplicationAutoscalingEC2SpotFleetRequestPolicy","v1",True,"2017-10-25T18:23:27+00:00","AWSApplicationAutoscalingEC2SpotFleetRequestPolicy",0,2,0,0,0,0,3
+"AmazonRoute53RecoveryControlConfigFullAccess","v1",True,"2021-08-18T17:48:35+00:00","AmazonRoute53RecoveryControlConfigFullAccess",1,0,0,0,0,0,0
 "AmazonS3OutpostsReadOnlyAccess","v1",True,"2020-10-02T18:55:58+00:00","AmazonS3OutpostsReadOnlyAccess",0,0,0,0,0,0,0
 "AWSKeyManagementServicePowerUser","v1",False,"2015-02-06T18:40:40+00:00","AWSKeyManagementServicePowerUser",0,1,0,0,0,0,2
 "AWSKeyManagementServicePowerUser","v2",True,"2017-03-07T00:55:11+00:00","AWSKeyManagementServicePowerUser",0,1,0,0,0,0,4
@@ -1538,6 +1541,7 @@
 "AWSSavingsPlansFullAccess","v1",True,"2019-11-06T22:45:18+00:00","AWSSavingsPlansFullAccess",1,1,0,0,0,0,3
 "AWSOpsWorksInstanceRegistration","v1",True,"2016-06-03T14:23:15+00:00","AWSOpsWorksInstanceRegistration",0,1,0,0,0,0,1
 "AmazonWorkDocsReadOnlyAccess","v1",True,"2020-01-08T23:49:59+00:00","AmazonWorkDocsReadOnlyAccess",0,0,0,0,0,0,0
+"AmazonRoute53RecoveryReadinessFullAccess","v1",True,"2021-08-18T16:45:07+00:00","AmazonRoute53RecoveryReadinessFullAccess",1,0,0,0,0,0,0
 "AWSMarketplaceGetEntitlements","v1",True,"2017-03-27T19:37:24+00:00","AWSMarketplaceGetEntitlements",0,0,0,0,0,0,0
 "AWSNetworkManagerServiceRolePolicy","v1",False,"2019-12-03T14:03:35+00:00","AWSNetworkManagerServiceRolePolicy",0,0,0,0,0,0,0
 "AWSNetworkManagerServiceRolePolicy","v3",False,"2020-12-10T12:06:22+00:00","AWSNetworkManagerServiceRolePolicy",0,0,0,0,0,0,0

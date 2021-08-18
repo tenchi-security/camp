@@ -1,0 +1,11 @@
+{
+    "ServiceWildcard": [
+        "route53-recovery-control-config"
+    ],
+    "ServicesAffected": [],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": []
+}
