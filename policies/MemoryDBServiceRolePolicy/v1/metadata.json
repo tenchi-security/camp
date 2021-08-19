@@ -1,6 +1,6 @@
 {
     "VersionId": "v1",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2021-08-17T22:34:59+00:00",
     "PolicyName": "MemoryDBServiceRolePolicy"
 }
