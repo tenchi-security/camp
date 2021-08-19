@@ -1,0 +1,6 @@
+{
+    "VersionId": "v2",
+    "IsDefaultVersion": true,
+    "CreateDate": "2021-08-19T17:03:44+00:00",
+    "PolicyName": "AWSDataLifecycleManagerServiceRoleForAMIManagement"
+}
