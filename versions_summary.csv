@@ -621,7 +621,8 @@
 "BatchServiceRolePolicy","v1",False,"2021-03-10T06:55:36+00:00","BatchServiceRolePolicy",0,4,0,2,0,0,11
 "BatchServiceRolePolicy","v3",True,"2021-03-25T22:50:04+00:00","BatchServiceRolePolicy",0,4,0,2,0,0,11
 "BatchServiceRolePolicy","v2",False,"2021-03-11T18:03:48+00:00","BatchServiceRolePolicy",0,4,0,2,0,0,11
-"AWSServiceCatalogAppRegistryFullAccess","v1",True,"2020-11-12T22:25:58+00:00","AWSServiceCatalogAppRegistryFullAccess",0,1,0,0,0,0,10
+"AWSServiceCatalogAppRegistryFullAccess","v1",False,"2020-11-12T22:25:58+00:00","AWSServiceCatalogAppRegistryFullAccess",0,1,0,0,0,0,10
+"AWSServiceCatalogAppRegistryFullAccess","v2",True,"2021-08-24T17:06:03+00:00","AWSServiceCatalogAppRegistryFullAccess",0,2,0,0,0,0,11
 "AmazonCognitoIdpEmailServiceRolePolicy","v1",True,"2019-03-21T21:32:25+00:00","AmazonCognitoIdpEmailServiceRolePolicy",0,1,0,0,0,0,1
 "AmazonSSMServiceRolePolicy","v11",False,"2021-01-05T23:57:10+00:00","AmazonSSMServiceRolePolicy",0,2,0,1,1,0,4
 "AmazonSSMServiceRolePolicy","v12",False,"2021-03-23T18:12:57+00:00","AmazonSSMServiceRolePolicy",0,2,0,1,1,0,4
@@ -1137,7 +1138,8 @@
 "AWSRoboMaker_FullAccess","v1",True,"2020-09-10T18:34:18+00:00","AWSRoboMaker_FullAccess",1,3,0,1,0,0,25
 "CloudWatchApplicationInsightsFullAccess","v1",True,"2020-11-24T18:44:14+00:00","CloudWatchApplicationInsightsFullAccess",1,0,0,0,0,0,0
 "AWSApplicationAutoscalingElastiCacheRGPolicy","v1",True,"2021-08-17T23:41:42+00:00","AWSApplicationAutoscalingElastiCacheRGPolicy",0,1,0,0,0,0,3
-"AWSServiceCatalogAppRegistryReadOnlyAccess","v1",True,"2020-11-12T22:34:32+00:00","AWSServiceCatalogAppRegistryReadOnlyAccess",0,0,0,0,0,0,0
+"AWSServiceCatalogAppRegistryReadOnlyAccess","v1",False,"2020-11-12T22:34:32+00:00","AWSServiceCatalogAppRegistryReadOnlyAccess",0,0,0,0,0,0,0
+"AWSServiceCatalogAppRegistryReadOnlyAccess","v2",True,"2021-08-24T17:03:28+00:00","AWSServiceCatalogAppRegistryReadOnlyAccess",0,0,0,0,0,0,0
 "WorkLinkServiceRolePolicy","v1",True,"2019-01-23T19:03:45+00:00","WorkLinkServiceRolePolicy",0,1,0,2,0,0,4
 "AWSMarketplaceSellerFullAccess","v1",False,"2019-07-02T20:40:09+00:00","AWSMarketplaceSellerFullAccess",0,1,0,1,0,0,2
 "AWSMarketplaceSellerFullAccess","v3",False,"2020-05-28T21:07:22+00:00","AWSMarketplaceSellerFullAccess",0,1,0,1,0,0,2
