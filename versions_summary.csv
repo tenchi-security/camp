@@ -678,13 +678,14 @@
 "AWSCodeStarNotificationsServiceRolePolicy","v3",False,"2020-02-12T17:52:12+00:00","AWSCodeStarNotificationsServiceRolePolicy",0,0,0,0,0,0,0
 "AWSCodeStarNotificationsServiceRolePolicy","v4",True,"2020-03-19T16:01:55+00:00","AWSCodeStarNotificationsServiceRolePolicy",0,0,0,0,0,0,0
 "AWSCodeStarNotificationsServiceRolePolicy","v2",False,"2019-12-12T23:00:09+00:00","AWSCodeStarNotificationsServiceRolePolicy",0,0,0,0,0,0,0
+"AmazonLaunchWizard_Fullaccess","v11",True,"2021-08-25T17:24:45+00:00","AmazonLaunchWizard_Fullaccess",2,9,0,3,3,1,86
 "AmazonLaunchWizard_Fullaccess","v6",False,"2020-12-04T16:01:43+00:00","AmazonLaunchWizard_Fullaccess",2,8,0,3,3,1,80
 "AmazonLaunchWizard_Fullaccess","v1",False,"2020-08-06T17:47:30+00:00","AmazonLaunchWizard_Fullaccess",2,8,0,3,3,1,80
 "AmazonLaunchWizard_Fullaccess","v5",False,"2020-11-14T02:27:14+00:00","AmazonLaunchWizard_Fullaccess",2,8,0,3,3,1,80
 "AmazonLaunchWizard_Fullaccess","v8",False,"2021-02-12T17:06:05+00:00","AmazonLaunchWizard_Fullaccess",2,8,0,3,3,1,80
 "AmazonLaunchWizard_Fullaccess","v3",False,"2020-10-09T22:27:30+00:00","AmazonLaunchWizard_Fullaccess",2,8,0,3,3,1,80
 "AmazonLaunchWizard_Fullaccess","v4",False,"2020-11-11T20:26:48+00:00","AmazonLaunchWizard_Fullaccess",2,8,0,3,3,1,80
-"AmazonLaunchWizard_Fullaccess","v10",True,"2021-05-24T23:04:20+00:00","AmazonLaunchWizard_Fullaccess",2,9,0,3,3,1,86
+"AmazonLaunchWizard_Fullaccess","v10",False,"2021-05-24T23:04:20+00:00","AmazonLaunchWizard_Fullaccess",2,9,0,3,3,1,86
 "AmazonLaunchWizard_Fullaccess","v7",False,"2020-12-12T21:51:14+00:00","AmazonLaunchWizard_Fullaccess",2,8,0,3,3,1,80
 "AmazonLaunchWizard_Fullaccess","v9",False,"2021-04-08T19:03:02+00:00","AmazonLaunchWizard_Fullaccess",2,8,0,3,3,1,82
 "AmazonLaunchWizard_Fullaccess","v2",False,"2020-09-01T20:02:51+00:00","AmazonLaunchWizard_Fullaccess",2,8,0,3,3,1,80
