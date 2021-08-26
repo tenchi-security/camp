@@ -1,0 +1,36 @@
+{
+    "ServiceWildcard": [
+        "fsx"
+    ],
+    "ServicesAffected": [
+        "fsx",
+        "iam"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "fsx:ManageBackupPrincipalAssociations",
+        "iam:CreateServiceLinkedRole",
+        "iam:CreateServiceLinkedRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "fsx:AssociateFileGateway",
+        "fsx:AssociateFileSystemAliases",
+        "fsx:CancelDataRepositoryTask",
+        "fsx:CopyBackup",
+        "fsx:CreateBackup",
+        "fsx:CreateDataRepositoryTask",
+        "fsx:CreateFileSystem",
+        "fsx:CreateFileSystemFromBackup",
+        "fsx:DeleteBackup",
+        "fsx:DeleteFileSystem",
+        "fsx:DisassociateFileGateway",
+        "fsx:DisassociateFileSystemAliases",
+        "fsx:ManageBackupPrincipalAssociations",
+        "fsx:TagResource",
+        "fsx:UntagResource",
+        "fsx:UpdateFileSystem",
+        "iam:CreateServiceLinkedRole"
+    ]
+}

@@ -1080,7 +1080,8 @@
 "AWSDeepRacerCloudFormationAccessPolicy","v1",False,"2019-02-28T21:59:49+00:00","AWSDeepRacerCloudFormationAccessPolicy",1,2,0,1,0,0,51
 "AWSDeepRacerCloudFormationAccessPolicy","v2",True,"2019-06-14T17:02:04+00:00","AWSDeepRacerCloudFormationAccessPolicy",1,2,0,1,0,0,54
 "AmazonFSxFullAccess","v1",False,"2018-11-28T16:34:43+00:00","AmazonFSxFullAccess",1,2,0,2,0,0,13
-"AmazonFSxFullAccess","v2",True,"2021-06-08T12:05:31+00:00","AmazonFSxFullAccess",1,2,0,2,0,0,13
+"AmazonFSxFullAccess","v3",True,"2021-08-26T13:17:29+00:00","AmazonFSxFullAccess",1,2,0,3,0,0,17
+"AmazonFSxFullAccess","v2",False,"2021-06-08T12:05:31+00:00","AmazonFSxFullAccess",1,2,0,2,0,0,13
 "AmazonRoute53ResolverFullAccess","v1",False,"2019-05-30T18:10:50+00:00","AmazonRoute53ResolverFullAccess",1,2,0,2,0,0,23
 "AmazonRoute53ResolverFullAccess","v2",True,"2020-07-17T19:03:27+00:00","AmazonRoute53ResolverFullAccess",1,2,0,2,0,0,23
 "Health_OrganizationsServiceRolePolicy","v1",False,"2019-12-16T13:28:21+00:00","Health_OrganizationsServiceRolePolicy",0,0,0,0,0,0,0
@@ -1468,8 +1469,9 @@
 "AWSCodePipelineApproverAccess","v2",False,"2016-11-03T23:31:39+00:00","AWSCodePipelineApproverAccess",0,1,0,0,0,0,1
 "AWSMarketplaceAmiIngestion","v1",True,"2020-09-25T20:55:10+00:00","AWSMarketplaceAmiIngestion",0,1,0,0,0,0,1
 "AmazonFSxConsoleFullAccess","v1",False,"2018-11-28T16:36:05+00:00","AmazonFSxConsoleFullAccess",1,2,0,2,0,0,13
+"AmazonFSxConsoleFullAccess","v5",True,"2021-08-26T13:18:46+00:00","AmazonFSxConsoleFullAccess",1,2,0,3,0,0,17
 "AmazonFSxConsoleFullAccess","v3",False,"2020-01-21T16:42:58+00:00","AmazonFSxConsoleFullAccess",1,2,0,2,0,0,13
-"AmazonFSxConsoleFullAccess","v4",True,"2021-06-08T12:14:00+00:00","AmazonFSxConsoleFullAccess",1,2,0,2,0,0,13
+"AmazonFSxConsoleFullAccess","v4",False,"2021-06-08T12:14:00+00:00","AmazonFSxConsoleFullAccess",1,2,0,2,0,0,13
 "AmazonFSxConsoleFullAccess","v2",False,"2019-09-10T13:11:13+00:00","AmazonFSxConsoleFullAccess",1,2,0,2,0,0,13
 "AmazonElasticFileSystemReadOnlyAccess","v6",True,"2021-05-10T14:20:55+00:00","AmazonElasticFileSystemReadOnlyAccess",0,0,0,0,0,0,0
 "AmazonElasticFileSystemReadOnlyAccess","v1",False,"2015-05-27T16:25:25+00:00","AmazonElasticFileSystemReadOnlyAccess",0,0,0,0,0,0,0
