@@ -641,6 +641,7 @@
 "AmazonS3ReadOnlyAccess","v1",True,"2015-02-06T18:40:59+00:00","AmazonS3ReadOnlyAccess",0,1,0,0,1,0,1
 "AmazonWorkMailMessageFlowReadOnlyAccess","v1",True,"2021-01-28T12:40:08+00:00","AmazonWorkMailMessageFlowReadOnlyAccess",0,0,0,0,0,0,0
 "AmazonManagedBlockchainServiceRolePolicy","v1",True,"2020-01-17T19:51:28+00:00","AmazonManagedBlockchainServiceRolePolicy",0,0,0,0,0,0,0
+"AmazonOpenSearchServiceRolePolicy","v1",True,"2021-08-26T09:27:09+00:00","AmazonOpenSearchServiceRolePolicy",0,0,0,0,0,0,0
 "MigrationHubSMSAccessServiceRolePolicy","v1",False,"2019-06-12T18:30:28+00:00","MigrationHubSMSAccessServiceRolePolicy",0,0,0,0,0,0,0
 "MigrationHubSMSAccessServiceRolePolicy","v2",True,"2019-10-07T18:02:22+00:00","MigrationHubSMSAccessServiceRolePolicy",0,0,0,0,0,0,0
 "IAMAccessAnalyzerFullAccess","v1",True,"2019-12-02T17:12:40+00:00","IAMAccessAnalyzerFullAccess",1,2,0,1,0,0,11
