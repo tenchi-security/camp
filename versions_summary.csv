@@ -1038,6 +1038,7 @@
 "AccessAnalyzerServiceRolePolicy","v2",False,"2020-03-02T15:55:03+00:00","AccessAnalyzerServiceRolePolicy",0,0,0,0,0,0,0
 "AccessAnalyzerServiceRolePolicy","v4",False,"2020-05-19T19:10:16+00:00","AccessAnalyzerServiceRolePolicy",0,0,0,0,0,0,0
 "AmazonElasticFileSystemsUtils","v1",True,"2020-09-29T15:16:47+00:00","AmazonElasticFileSystemsUtils",0,2,0,0,2,0,9
+"AWSApplicationAutoscalingNeptuneClusterPolicy","v1",True,"2021-09-02T21:14:55+00:00","AWSApplicationAutoscalingNeptuneClusterPolicy",0,0,0,0,0,0,0
 "EC2InstanceProfileForImageBuilder","v3",True,"2020-08-27T16:40:50+00:00","EC2InstanceProfileForImageBuilder",0,1,0,0,0,0,1
 "EC2InstanceProfileForImageBuilder","v1",False,"2019-12-01T19:08:23+00:00","EC2InstanceProfileForImageBuilder",0,1,0,0,0,0,1
 "EC2InstanceProfileForImageBuilder","v2",False,"2020-06-15T17:44:31+00:00","EC2InstanceProfileForImageBuilder",0,1,0,0,0,0,1
