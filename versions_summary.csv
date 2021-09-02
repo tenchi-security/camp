@@ -1047,6 +1047,7 @@
 "AWSIoTDataAccess","v1",False,"2015-10-27T21:51:18+00:00","AWSIoTDataAccess",0,1,0,0,0,0,5
 "AWSIoTDataAccess","v2",False,"2017-11-16T18:24:11+00:00","AWSIoTDataAccess",0,1,0,0,0,0,6
 "AWSOrganizationsReadOnlyAccess","v1",True,"2018-11-06T20:32:38+00:00","AWSOrganizationsReadOnlyAccess",0,0,0,0,0,0,0
+"AmazonOpenSearchServiceCognitoAccess","v1",True,"2021-09-02T06:31:49+00:00","AmazonOpenSearchServiceCognitoAccess",0,0,0,0,0,0,0
 "AmazonHoneycodeTeamAssociationFullAccess","v1",True,"2020-06-24T20:28:27+00:00","AmazonHoneycodeTeamAssociationFullAccess",0,0,0,0,0,0,0
 "AWSIncidentManagerServiceRolePolicy","v1",True,"2021-05-10T03:34:45+00:00","AWSIncidentManagerServiceRolePolicy",0,0,0,0,0,0,0
 "AmazonRoute53AutoNamingFullAccess","v1",True,"2018-01-18T18:40:41+00:00","AmazonRoute53AutoNamingFullAccess",1,2,0,0,0,0,11
