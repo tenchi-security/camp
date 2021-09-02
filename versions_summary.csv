@@ -1031,9 +1031,10 @@
 "AmazonCodeGuruProfilerFullAccess","v2",False,"2020-04-06T21:16:38+00:00","AmazonCodeGuruProfilerFullAccess",2,1,0,2,0,0,11
 "AmazonCodeGuruProfilerFullAccess","v4",True,"2020-07-15T03:23:08+00:00","AmazonCodeGuruProfilerFullAccess",2,1,0,2,0,0,11
 "AWSGlueSchemaRegistryFullAccess","v1",True,"2020-11-20T00:19:00+00:00","AWSGlueSchemaRegistryFullAccess",0,1,0,0,0,0,10
-"AccessAnalyzerServiceRolePolicy","v5",True,"2020-11-24T20:58:37+00:00","AccessAnalyzerServiceRolePolicy",0,0,0,0,0,0,0
+"AccessAnalyzerServiceRolePolicy","v5",False,"2020-11-24T20:58:37+00:00","AccessAnalyzerServiceRolePolicy",0,0,0,0,0,0,0
 "AccessAnalyzerServiceRolePolicy","v3",False,"2020-04-30T20:28:02+00:00","AccessAnalyzerServiceRolePolicy",0,0,0,0,0,0,0
 "AccessAnalyzerServiceRolePolicy","v1",False,"2019-12-02T17:13:10+00:00","AccessAnalyzerServiceRolePolicy",0,0,0,0,0,0,0
+"AccessAnalyzerServiceRolePolicy","v6",True,"2021-09-02T16:49:47+00:00","AccessAnalyzerServiceRolePolicy",0,0,0,0,0,0,0
 "AccessAnalyzerServiceRolePolicy","v2",False,"2020-03-02T15:55:03+00:00","AccessAnalyzerServiceRolePolicy",0,0,0,0,0,0,0
 "AccessAnalyzerServiceRolePolicy","v4",False,"2020-05-19T19:10:16+00:00","AccessAnalyzerServiceRolePolicy",0,0,0,0,0,0,0
 "AmazonElasticFileSystemsUtils","v1",True,"2020-09-29T15:16:47+00:00","AmazonElasticFileSystemsUtils",0,2,0,0,2,0,9
