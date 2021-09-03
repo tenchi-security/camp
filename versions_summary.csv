@@ -498,9 +498,10 @@
 "AmazonInspectorReadOnlyAccess","v4",True,"2019-10-01T15:17:54+00:00","AmazonInspectorReadOnlyAccess",0,0,0,0,0,0,0
 "ComputeOptimizerServiceRolePolicy","v1",True,"2019-12-03T08:45:19+00:00","ComputeOptimizerServiceRolePolicy",1,0,0,0,0,0,0
 "AWSPanoramaServiceRolePolicy","v1",True,"2020-12-01T13:14:43+00:00","AWSPanoramaServiceRolePolicy",0,1,0,0,0,0,1
-"AmazonQLDBFullAccess","v3",True,"2021-05-27T17:15:06+00:00","AmazonQLDBFullAccess",0,1,0,0,0,0,9
+"AmazonQLDBFullAccess","v3",False,"2021-05-27T17:15:06+00:00","AmazonQLDBFullAccess",0,1,0,0,0,0,9
 "AmazonQLDBFullAccess","v1",False,"2019-09-05T18:23:32+00:00","AmazonQLDBFullAccess",0,1,0,0,0,0,7
 "AmazonQLDBFullAccess","v2",False,"2020-05-19T17:47:10+00:00","AmazonQLDBFullAccess",0,1,0,0,0,0,9
+"AmazonQLDBFullAccess","v4",True,"2021-09-02T23:21:04+00:00","AmazonQLDBFullAccess",0,2,0,1,0,0,19
 "CloudWatchReadOnlyAccess","v3",False,"2018-05-10T21:40:42+00:00","CloudWatchReadOnlyAccess",0,0,0,0,0,0,0
 "CloudWatchReadOnlyAccess","v1",False,"2015-02-06T18:40:01+00:00","CloudWatchReadOnlyAccess",0,0,0,0,0,0,0
 "CloudWatchReadOnlyAccess","v2",False,"2017-11-02T20:50:10+00:00","CloudWatchReadOnlyAccess",0,0,0,0,0,0,0
@@ -1791,9 +1792,10 @@
 "AmazonMachineLearningFullAccess","v1",True,"2015-04-09T17:25:41+00:00","AmazonMachineLearningFullAccess",1,1,0,0,0,0,19
 "AmazonHealthLakeReadOnlyAccess","v1",True,"2021-02-17T02:43:31+00:00","AmazonHealthLakeReadOnlyAccess",0,0,0,0,0,0,0
 "AWSApplicationAutoscalingLambdaConcurrencyPolicy","v1",True,"2019-10-21T20:04:17+00:00","AWSApplicationAutoscalingLambdaConcurrencyPolicy",0,2,0,0,0,0,4
-"AmazonQLDBConsoleFullAccess","v3",True,"2021-05-27T17:22:17+00:00","AmazonQLDBConsoleFullAccess",1,1,0,0,0,0,12
+"AmazonQLDBConsoleFullAccess","v3",False,"2021-05-27T17:22:17+00:00","AmazonQLDBConsoleFullAccess",1,1,0,0,0,0,12
 "AmazonQLDBConsoleFullAccess","v1",False,"2019-09-05T18:24:20+00:00","AmazonQLDBConsoleFullAccess",1,1,0,0,0,0,10
 "AmazonQLDBConsoleFullAccess","v2",False,"2020-05-19T17:45:54+00:00","AmazonQLDBConsoleFullAccess",1,1,0,0,0,0,12
+"AmazonQLDBConsoleFullAccess","v4",True,"2021-09-02T23:21:23+00:00","AmazonQLDBConsoleFullAccess",1,2,0,1,0,0,22
 "AWSCodeStarNotificationsServiceRolePolicy","v3",False,"2020-02-12T17:52:12+00:00","AWSCodeStarNotificationsServiceRolePolicy",0,0,0,0,0,0,0
 "AWSCodeStarNotificationsServiceRolePolicy","v1",False,"2019-11-05T16:10:21+00:00","AWSCodeStarNotificationsServiceRolePolicy",0,0,0,0,0,0,0
 "AWSCodeStarNotificationsServiceRolePolicy","v2",False,"2019-12-12T23:00:09+00:00","AWSCodeStarNotificationsServiceRolePolicy",0,0,0,0,0,0,0

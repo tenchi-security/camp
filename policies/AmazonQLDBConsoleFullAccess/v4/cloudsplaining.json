@@ -1,0 +1,39 @@
+{
+    "ServiceWildcard": [
+        "dbqms"
+    ],
+    "ServicesAffected": [
+        "iam",
+        "qldb"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:PassRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "iam:PassRole",
+        "qldb:CancelJournalKinesisStream",
+        "qldb:CreateLedger",
+        "qldb:DeleteLedger",
+        "qldb:ExecuteStatement",
+        "qldb:ExportJournalToS3",
+        "qldb:InsertSampleData",
+        "qldb:PartiQLCreateIndex",
+        "qldb:PartiQLCreateTable",
+        "qldb:PartiQLDelete",
+        "qldb:PartiQLDropIndex",
+        "qldb:PartiQLDropTable",
+        "qldb:PartiQLInsert",
+        "qldb:PartiQLUndropTable",
+        "qldb:PartiQLUpdate",
+        "qldb:SendCommand",
+        "qldb:ShowCatalog",
+        "qldb:StreamJournalToKinesis",
+        "qldb:TagResource",
+        "qldb:UntagResource",
+        "qldb:UpdateLedger",
+        "qldb:UpdateLedgerPermissionsMode"
+    ]
+}
