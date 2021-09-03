@@ -1,6 +1,6 @@
 {
     "VersionId": "v9",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2021-07-20T21:05:41+00:00",
     "PolicyName": "NetworkAdministrator"
 }
