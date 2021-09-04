@@ -490,6 +490,7 @@
 "AmazonLookoutVisionConsoleFullAccess","v1",True,"2021-05-11T19:37:17+00:00","AmazonLookoutVisionConsoleFullAccess",1,1,0,0,0,0,8
 "LakeFormationDataAccessServiceRolePolicy","v1",True,"2019-06-20T20:46:19+00:00","LakeFormationDataAccessServiceRolePolicy",0,0,0,0,0,0,0
 "AmazonRoute53RecoveryClusterFullAccess","v1",True,"2021-08-18T18:37:00+00:00","AmazonRoute53RecoveryClusterFullAccess",1,0,0,0,0,0,0
+"AmazonEKSConnectorServiceRolePolicy","v1",True,"2021-09-04T20:31:08+00:00","AmazonEKSConnectorServiceRolePolicy",0,2,0,1,0,0,3
 "AmazonEKSServiceRolePolicy","v1",False,"2020-02-21T20:10:47+00:00","AmazonEKSServiceRolePolicy",0,1,0,1,0,0,5
 "AmazonEKSServiceRolePolicy","v2",True,"2020-05-27T19:30:19+00:00","AmazonEKSServiceRolePolicy",0,1,0,1,0,0,6
 "AmazonInspectorReadOnlyAccess","v3",False,"2017-09-12T16:53:06+00:00","AmazonInspectorReadOnlyAccess",0,0,0,0,0,0,0

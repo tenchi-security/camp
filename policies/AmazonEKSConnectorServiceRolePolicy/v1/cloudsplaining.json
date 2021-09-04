@@ -1,0 +1,18 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "events",
+        "iam"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:PassRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "events:PutRule",
+        "events:PutTargets",
+        "iam:PassRole"
+    ]
+}
