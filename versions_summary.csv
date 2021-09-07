@@ -1969,6 +1969,7 @@
 "AmazonDMSVPCManagementRole","v1",False,"2015-11-18T16:33:19+00:00","AmazonDMSVPCManagementRole",0,1,0,0,0,0,2
 "AmazonDMSVPCManagementRole","v2",False,"2015-12-17T21:09:34+00:00","AmazonDMSVPCManagementRole",0,1,0,0,0,0,2
 "ComprehendMedicalFullAccess","v1",True,"2018-11-27T17:55:52+00:00","ComprehendMedicalFullAccess",1,0,0,0,0,0,0
+"KafkaConnectServiceRolePolicy","v1",True,"2021-09-07T13:12:44+00:00","KafkaConnectServiceRolePolicy",0,0,0,0,0,0,0
 "AmazonRoute53ReadOnlyAccess","v1",False,"2015-02-06T18:40:55+00:00","AmazonRoute53ReadOnlyAccess",0,0,0,0,0,0,0
 "AmazonRoute53ReadOnlyAccess","v2",True,"2016-11-15T21:15:16+00:00","AmazonRoute53ReadOnlyAccess",0,0,0,0,0,0,0
 "AWSTransferFullAccess","v1",True,"2020-12-14T19:37:23+00:00","AWSTransferFullAccess",1,2,0,1,0,0,12
