@@ -1,6 +1,6 @@
 {
     "VersionId": "v7",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2021-07-27T22:41:23+00:00",
     "PolicyName": "AWS_ConfigRole"
 }
