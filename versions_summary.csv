@@ -718,6 +718,7 @@
 "AmazonBraketFullAccess","v1",False,"2020-08-06T20:12:37+00:00","AmazonBraketFullAccess",1,1,0,0,0,0,4
 "AmazonBraketFullAccess","v2",True,"2021-02-18T07:48:38+00:00","AmazonBraketFullAccess",1,1,0,0,0,0,4
 "AmazonElasticMapReduceforAutoScalingRole","v1",True,"2016-11-18T01:09:10+00:00","AmazonElasticMapReduceforAutoScalingRole",0,1,0,0,0,0,1
+"AmazonOpenSearchServiceReadOnlyAccess","v1",True,"2021-09-08T05:38:13+00:00","AmazonOpenSearchServiceReadOnlyAccess",0,0,0,0,0,0,0
 "AppRunnerServiceRolePolicy","v1",True,"2021-05-14T19:15:04+00:00","AppRunnerServiceRolePolicy",0,0,0,0,0,0,0
 "AmazonFSxReadOnlyAccess","v1",True,"2018-11-28T16:33:32+00:00","AmazonFSxReadOnlyAccess",0,0,0,0,0,0,0
 "AWSElementalMediaLiveReadOnly","v1",True,"2020-07-08T16:38:07+00:00","AWSElementalMediaLiveReadOnly",0,0,0,0,0,0,0
@@ -1392,6 +1393,7 @@
 "DatabaseAdministrator","v1",False,"2016-11-10T17:25:43+00:00","DatabaseAdministrator",4,9,0,13,1,1,253
 "DatabaseAdministrator","v2",True,"2019-01-08T00:48:02+00:00","DatabaseAdministrator",4,9,0,13,1,1,253
 "AmazonCognitoIdpServiceRolePolicy","v1",True,"2020-06-26T22:30:20+00:00","AmazonCognitoIdpServiceRolePolicy",0,0,0,0,0,0,0
+"AmazonOpenSearchServiceFullAccess","v1",True,"2021-09-08T05:33:47+00:00","AmazonOpenSearchServiceFullAccess",1,1,0,2,0,0,15
 "AmazonSQSReadOnlyAccess","v1",False,"2015-02-06T18:41:08+00:00","AmazonSQSReadOnlyAccess",0,0,0,0,0,0,0
 "AmazonSQSReadOnlyAccess","v2",True,"2018-08-20T23:35:49+00:00","AmazonSQSReadOnlyAccess",0,0,0,0,0,0,0
 "AWSAppSyncAdministrator","v1",False,"2018-03-20T21:20:28+00:00","AWSAppSyncAdministrator",1,2,0,1,0,0,6
