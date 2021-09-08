@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSQuicksightOpenSearchPolicy",
+    "PolicyId": "ANPAZKAPJZG4JW5IRBCM3",
+    "Arn": "arn:aws:iam::aws:policy/service-role/AWSQuicksightOpenSearchPolicy",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2021-09-07T23:26:19+00:00",
+    "UpdateDate": "2021-09-07T23:26:19+00:00"
+}

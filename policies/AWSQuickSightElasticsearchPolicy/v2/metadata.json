@@ -1,6 +1,6 @@
 {
     "VersionId": "v2",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2020-10-15T17:09:55+00:00",
     "PolicyName": "AWSQuickSightElasticsearchPolicy"
 }

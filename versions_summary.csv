@@ -1448,11 +1448,13 @@
 "AmazonElasticTranscoder_JobsSubmitter","v2",True,"2019-06-10T22:49:34+00:00","AmazonElasticTranscoder_JobsSubmitter",0,1,0,0,0,0,4
 "ApplicationDiscoveryServiceContinuousExportServiceRolePolicy","v1",False,"2018-08-09T20:22:01+00:00","ApplicationDiscoveryServiceContinuousExportServiceRolePolicy",0,3,0,0,0,0,6
 "ApplicationDiscoveryServiceContinuousExportServiceRolePolicy","v2",True,"2018-08-13T22:31:21+00:00","ApplicationDiscoveryServiceContinuousExportServiceRolePolicy",0,3,0,0,0,0,6
+"AWSQuickSightElasticsearchPolicy","v3",True,"2021-09-07T23:25:55+00:00","AWSQuickSightElasticsearchPolicy",0,0,0,0,0,0,0
 "AWSQuickSightElasticsearchPolicy","v1",False,"2020-09-09T17:27:19+00:00","AWSQuickSightElasticsearchPolicy",0,0,0,0,0,0,0
-"AWSQuickSightElasticsearchPolicy","v2",True,"2020-10-15T17:09:55+00:00","AWSQuickSightElasticsearchPolicy",0,0,0,0,0,0,0
+"AWSQuickSightElasticsearchPolicy","v2",False,"2020-10-15T17:09:55+00:00","AWSQuickSightElasticsearchPolicy",0,0,0,0,0,0,0
 "AWSDeepRacerFullAccess","v1",True,"2020-10-05T22:03:10+00:00","AWSDeepRacerFullAccess",0,0,0,0,0,0,0
 "AWSFMMemberReadOnlyAccess","v1",True,"2018-05-09T21:05:29+00:00","AWSFMMemberReadOnlyAccess",0,0,0,0,0,0,0
 "AWSOpsWorksRegisterCLI_EC2","v1",True,"2019-06-18T15:56:17+00:00","AWSOpsWorksRegisterCLI_EC2",0,1,0,0,0,0,4
+"AWSQuicksightOpenSearchPolicy","v1",True,"2021-09-07T23:26:19+00:00","AWSQuicksightOpenSearchPolicy",0,0,0,0,0,0,0
 "AWSApplicationMigrationServiceRolePolicy","v1",True,"2021-04-07T06:43:20+00:00","AWSApplicationMigrationServiceRolePolicy",0,2,0,0,0,0,7
 "AmazonChimeUserManagement","v5",False,"2018-12-19T21:29:09+00:00","AmazonChimeUserManagement",0,0,0,0,0,0,0
 "AmazonChimeUserManagement","v3",False,"2018-03-30T16:25:02+00:00","AmazonChimeUserManagement",0,0,0,0,0,0,0
