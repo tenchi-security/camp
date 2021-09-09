@@ -1687,8 +1687,9 @@
 "AWSCodeStarFullAccess","v1",False,"2017-04-19T16:23:19+00:00","AWSCodeStarFullAccess",1,1,0,5,0,0,12
 "AWSCodeStarFullAccess","v2",True,"2018-01-10T21:54:06+00:00","AWSCodeStarFullAccess",1,1,0,5,0,0,12
 "AWSPanoramaApplianceRolePolicy","v1",True,"2020-12-01T13:13:18+00:00","AWSPanoramaApplianceRolePolicy",0,0,0,0,0,0,0
+"AmazonOpenSearchServiceRolePolicy","v3",True,"2021-09-09T10:43:21+00:00","AmazonOpenSearchServiceRolePolicy",0,0,0,0,0,0,0
 "AmazonOpenSearchServiceRolePolicy","v1",False,"2021-08-26T09:27:09+00:00","AmazonOpenSearchServiceRolePolicy",0,0,0,0,0,0,0
-"AmazonOpenSearchServiceRolePolicy","v2",True,"2021-09-01T05:43:03+00:00","AmazonOpenSearchServiceRolePolicy",0,0,0,0,0,0,0
+"AmazonOpenSearchServiceRolePolicy","v2",False,"2021-09-01T05:43:03+00:00","AmazonOpenSearchServiceRolePolicy",0,0,0,0,0,0,0
 "AWSShieldDRTAccessPolicy","v5",False,"2020-09-23T19:02:59+00:00","AWSShieldDRTAccessPolicy",4,6,0,9,0,0,115
 "AWSShieldDRTAccessPolicy","v3",False,"2019-02-11T17:08:57+00:00","AWSShieldDRTAccessPolicy",3,1,0,0,0,0,2
 "AWSShieldDRTAccessPolicy","v1",False,"2018-06-05T22:29:39+00:00","AWSShieldDRTAccessPolicy",3,1,0,0,0,0,2
