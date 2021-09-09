@@ -648,10 +648,11 @@
 "AWSElasticBeanstalkRoleWorkerTier","v1",True,"2020-06-05T21:43:37+00:00","AWSElasticBeanstalkRoleWorkerTier",0,0,0,0,0,0,0
 "AmazonManagedBlockchainReadOnlyAccess","v1",True,"2019-04-30T18:17:31+00:00","AmazonManagedBlockchainReadOnlyAccess",0,0,0,0,0,0,0
 "AWSGreengrassReadOnlyAccess","v1",True,"2018-10-30T16:01:43+00:00","AWSGreengrassReadOnlyAccess",0,0,0,0,0,0,0
+"CloudFrontReadOnlyAccess","v5",True,"2021-09-08T22:10:54+00:00","CloudFrontReadOnlyAccess",0,0,0,0,0,0,0
 "CloudFrontReadOnlyAccess","v3",False,"2016-01-21T17:03:28+00:00","CloudFrontReadOnlyAccess",0,0,0,0,0,0,0
 "CloudFrontReadOnlyAccess","v1",False,"2015-02-06T18:39:55+00:00","CloudFrontReadOnlyAccess",0,0,0,0,0,0,0
 "CloudFrontReadOnlyAccess","v2",False,"2015-05-04T17:56:12+00:00","CloudFrontReadOnlyAccess",0,0,0,0,0,0,0
-"CloudFrontReadOnlyAccess","v4",True,"2020-02-19T19:49:16+00:00","CloudFrontReadOnlyAccess",0,0,0,0,0,0,0
+"CloudFrontReadOnlyAccess","v4",False,"2020-02-19T19:49:16+00:00","CloudFrontReadOnlyAccess",0,0,0,0,0,0,0
 "Billing","v5",True,"2020-10-05T20:37:01+00:00","Billing",0,2,0,0,0,0,4
 "Billing","v3",False,"2020-04-24T18:12:01+00:00","Billing",1,2,0,0,0,0,4
 "Billing","v1",False,"2016-11-10T17:33:18+00:00","Billing",0,1,0,0,0,0,1
@@ -2214,7 +2215,7 @@
 "AWSNetworkManagerFullAccess","v1",True,"2019-12-03T17:37:58+00:00","AWSNetworkManagerFullAccess",1,2,0,1,0,0,25
 "AmazonWorkLinkFullAccess","v1",False,"2019-01-23T18:52:09+00:00","AmazonWorkLinkFullAccess",1,0,0,0,0,0,0
 "AmazonWorkLinkFullAccess","v2",True,"2019-09-23T18:37:42+00:00","AmazonWorkLinkFullAccess",1,0,0,0,0,0,0
-"ReadOnlyAccess","v79",True,"2021-09-08T19:43:26+00:00","ReadOnlyAccess",0,10,0,0,4,9,5
+"ReadOnlyAccess","v79",False,"2021-09-08T19:43:26+00:00","ReadOnlyAccess",0,10,0,0,4,9,5
 "ReadOnlyAccess","v67",False,"2020-09-23T20:35:11+00:00","ReadOnlyAccess",0,9,0,0,4,10,5
 "ReadOnlyAccess","v22",False,"2017-01-26T21:25:39+00:00","ReadOnlyAccess",0,3,0,0,4,1,4
 "ReadOnlyAccess","v12",False,"2016-05-12T21:16:37+00:00","ReadOnlyAccess",0,2,0,0,1,1,1
@@ -2289,6 +2290,7 @@
 "ReadOnlyAccess","v52",False,"2019-07-23T18:41:14+00:00","ReadOnlyAccess",0,9,0,1,4,11,5
 "ReadOnlyAccess","v37",False,"2018-07-30T17:48:23+00:00","ReadOnlyAccess",0,9,0,1,4,11,7
 "ReadOnlyAccess","v65",False,"2020-06-15T17:12:13+00:00","ReadOnlyAccess",0,9,0,0,4,10,5
+"ReadOnlyAccess","v80",True,"2021-09-09T00:01:51+00:00","ReadOnlyAccess",0,10,0,0,4,9,5
 "ReadOnlyAccess","v42",False,"2018-10-15T18:41:16+00:00","ReadOnlyAccess",0,9,0,1,4,11,7
 "ReadOnlyAccess","v46",False,"2019-03-04T23:53:09+00:00","ReadOnlyAccess",0,10,0,2,4,14,7
 "ReadOnlyAccess","v27",False,"2017-06-14T22:09:09+00:00","ReadOnlyAccess",0,7,0,1,4,8,7

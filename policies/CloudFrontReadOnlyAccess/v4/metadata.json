@@ -1,6 +1,6 @@
 {
     "VersionId": "v4",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2020-02-19T19:49:16+00:00",
     "PolicyName": "CloudFrontReadOnlyAccess"
 }
