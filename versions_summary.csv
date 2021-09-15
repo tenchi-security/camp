@@ -2069,7 +2069,8 @@
 "AmazonLaunchWizard_Fullaccess","v4",False,"2020-11-11T20:26:48+00:00","AmazonLaunchWizard_Fullaccess",2,8,0,3,3,1,80
 "AmazonLaunchWizard_Fullaccess","v8",False,"2021-02-12T17:06:05+00:00","AmazonLaunchWizard_Fullaccess",2,8,0,3,3,1,80
 "AmazonLaunchWizard_Fullaccess","v6",False,"2020-12-04T16:01:43+00:00","AmazonLaunchWizard_Fullaccess",2,8,0,3,3,1,80
-"AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v2",True,"2021-07-02T06:13:39+00:00","AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy",0,3,0,0,0,0,14
+"AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v2",False,"2021-07-02T06:13:39+00:00","AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy",0,3,0,0,0,0,14
+"AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v3",True,"2021-09-15T20:00:26+00:00","AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy",0,3,0,0,0,0,14
 "AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v1",False,"2020-11-27T18:48:07+00:00","AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy",0,3,0,0,0,0,14
 "AWSElementalMediaConvertReadOnly","v2",True,"2019-06-10T22:52:18+00:00","AWSElementalMediaConvertReadOnly",0,0,0,0,0,0,0
 "AWSElementalMediaConvertReadOnly","v1",False,"2018-06-25T19:25:14+00:00","AWSElementalMediaConvertReadOnly",0,0,0,0,0,0,0
