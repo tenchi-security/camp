@@ -214,7 +214,8 @@
 "AWSCodeBuildReadOnlyAccess","v6",False,"2019-11-05T22:11:42+00:00","AWSCodeBuildReadOnlyAccess",0,0,0,0,0,0,0
 "AWSBackupOrganizationAdminAccess","v2",True,"2020-11-24T22:09:43+00:00","AWSBackupOrganizationAdminAccess",0,1,0,0,0,0,6
 "AWSBackupOrganizationAdminAccess","v1",False,"2020-06-24T16:23:14+00:00","AWSBackupOrganizationAdminAccess",0,1,0,0,0,0,6
-"AWSRoboMaker_FullAccess","v1",True,"2020-09-10T18:34:18+00:00","AWSRoboMaker_FullAccess",1,3,0,1,0,0,25
+"AWSRoboMaker_FullAccess","v2",True,"2021-09-16T21:06:10+00:00","AWSRoboMaker_FullAccess",1,3,0,1,0,0,25
+"AWSRoboMaker_FullAccess","v1",False,"2020-09-10T18:34:18+00:00","AWSRoboMaker_FullAccess",1,3,0,1,0,0,25
 "AmazonSSMManagedInstanceCore","v2",True,"2019-05-23T16:54:21+00:00","AmazonSSMManagedInstanceCore",0,1,0,0,2,0,5
 "AmazonSSMManagedInstanceCore","v1",False,"2019-03-15T17:22:12+00:00","AmazonSSMManagedInstanceCore",0,1,0,0,1,0,4
 "AmazonEC2RoleforDataPipelineRole","v2",False,"2015-03-19T19:18:17+00:00","AmazonEC2RoleforDataPipelineRole",7,7,0,21,1,0,133
@@ -502,7 +503,8 @@
 "NetworkAdministrator","v5",False,"2020-01-16T00:49:18+00:00","NetworkAdministrator",4,6,0,4,0,0,198
 "NetworkAdministrator","v3",False,"2018-12-13T19:43:41+00:00","NetworkAdministrator",4,6,0,4,0,0,181
 "NetworkAdministrator","v1",False,"2016-11-10T17:31:35+00:00","NetworkAdministrator",4,6,0,1,0,0,158
-"NetworkAdministrator","v10",True,"2021-09-03T20:25:05+00:00","NetworkAdministrator",5,8,0,5,0,0,236
+"NetworkAdministrator","v10",False,"2021-09-03T20:25:05+00:00","NetworkAdministrator",5,8,0,5,0,0,236
+"NetworkAdministrator","v11",True,"2021-09-16T20:22:54+00:00","NetworkAdministrator",5,8,0,5,0,0,236
 "NetworkAdministrator","v4",False,"2019-07-11T18:08:00+00:00","NetworkAdministrator",4,6,0,4,0,0,198
 "NetworkAdministrator","v8",False,"2020-09-24T23:55:10+00:00","NetworkAdministrator",5,8,0,5,0,0,225
 "NetworkAdministrator","v6",False,"2020-03-31T16:34:49+00:00","NetworkAdministrator",5,7,0,4,0,0,222
@@ -2039,8 +2041,9 @@
 "AWSSupportServiceRolePolicy","v11",False,"2020-07-09T23:29:32+00:00","AWSSupportServiceRolePolicy",0,2,0,0,0,0,5
 "AWSSupportServiceRolePolicy","v13",False,"2020-10-13T17:46:33+00:00","AWSSupportServiceRolePolicy",0,2,0,0,0,0,5
 "AWSSupportServiceRolePolicy","v4",False,"2019-02-06T18:06:11+00:00","AWSSupportServiceRolePolicy",0,3,0,0,1,1,6
+"AWSSupportServiceRolePolicy","v17",True,"2021-09-16T21:02:10+00:00","AWSSupportServiceRolePolicy",0,2,0,0,0,0,5
 "AWSSupportServiceRolePolicy","v14",False,"2021-01-28T20:00:15+00:00","AWSSupportServiceRolePolicy",0,2,0,0,0,0,5
-"AWSSupportServiceRolePolicy","v16",True,"2021-07-01T21:52:12+00:00","AWSSupportServiceRolePolicy",0,2,0,0,0,0,5
+"AWSSupportServiceRolePolicy","v16",False,"2021-07-01T21:52:12+00:00","AWSSupportServiceRolePolicy",0,2,0,0,0,0,5
 "AWSSupportServiceRolePolicy","v8",False,"2019-12-16T19:39:42+00:00","AWSSupportServiceRolePolicy",0,2,0,0,0,1,5
 "AWSSupportServiceRolePolicy","v6",False,"2019-09-09T20:15:28+00:00","AWSSupportServiceRolePolicy",0,3,0,0,1,1,6
 "AmazonDMSCloudWatchLogsRole","v1",True,"2016-01-07T23:44:53+00:00","AmazonDMSCloudWatchLogsRole",0,0,0,0,0,0,0
