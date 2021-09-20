@@ -1954,7 +1954,8 @@
 "AWSCodeStarServiceRole","v5",False,"2018-01-08T22:55:57+00:00","AWSCodeStarServiceRole",11,14,0,21,0,2,492
 "AWSCodeStarServiceRole","v3",False,"2017-11-14T18:30:09+00:00","AWSCodeStarServiceRole",11,13,0,20,0,2,490
 "AWSCodeStarServiceRole","v1",False,"2017-04-19T15:20:50+00:00","AWSCodeStarServiceRole",11,13,0,20,0,2,490
-"AWSCodeStarServiceRole","v10",True,"2021-02-15T22:25:37+00:00","AWSCodeStarServiceRole",12,14,0,23,0,2,499
+"AWSCodeStarServiceRole","v10",False,"2021-02-15T22:25:37+00:00","AWSCodeStarServiceRole",12,14,0,23,0,2,499
+"AWSCodeStarServiceRole","v11",True,"2021-09-20T19:11:03+00:00","AWSCodeStarServiceRole",12,14,0,23,0,2,502
 "AWSCodeStarServiceRole","v4",False,"2017-11-30T14:33:19+00:00","AWSCodeStarServiceRole",11,14,0,21,0,2,492
 "AWSCodeStarServiceRole","v8",False,"2018-10-04T19:28:06+00:00","AWSCodeStarServiceRole",12,14,0,23,0,2,499
 "AWSCodeStarServiceRole","v6",False,"2018-01-11T19:19:27+00:00","AWSCodeStarServiceRole",11,14,0,21,0,2,492
