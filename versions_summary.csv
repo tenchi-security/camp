@@ -508,6 +508,7 @@
 "NetworkAdministrator","v4",False,"2019-07-11T18:08:00+00:00","NetworkAdministrator",4,6,0,4,0,0,198
 "NetworkAdministrator","v8",False,"2020-09-24T23:55:10+00:00","NetworkAdministrator",5,8,0,5,0,0,225
 "NetworkAdministrator","v6",False,"2020-03-31T16:34:49+00:00","NetworkAdministrator",5,7,0,4,0,0,222
+"AmazonMSKConnectReadOnlyAccess","v1",True,"2021-09-20T10:18:43+00:00","AmazonMSKConnectReadOnlyAccess",0,0,0,0,0,0,0
 "AmazonMobileAnalyticsFinancialReportAccess","v1",True,"2015-02-06T18:40:35+00:00","AmazonMobileAnalyticsFinancialReportAccess",0,0,0,0,0,0,0
 "AWSGrafanaWorkspacePermissionManagement","v1",True,"2021-02-23T00:15:54+00:00","AWSGrafanaWorkspacePermissionManagement",0,0,0,0,0,0,0
 "CloudWatchLogsFullAccess","v1",True,"2015-02-06T18:40:02+00:00","CloudWatchLogsFullAccess",1,1,0,2,0,0,16
