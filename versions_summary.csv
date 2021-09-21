@@ -82,7 +82,8 @@
 "AWSElasticBeanstalkManagedUpdatesServiceRolePolicy","v3",False,"2020-05-18T22:51:38+00:00","AWSElasticBeanstalkManagedUpdatesServiceRolePolicy",1,3,0,1,0,0,32
 "AWSElasticBeanstalkManagedUpdatesServiceRolePolicy","v1",False,"2019-11-21T22:35:06+00:00","AWSElasticBeanstalkManagedUpdatesServiceRolePolicy",1,3,0,1,0,0,32
 "AWSElasticBeanstalkManagedUpdatesServiceRolePolicy","v4",False,"2020-09-11T18:28:47+00:00","AWSElasticBeanstalkManagedUpdatesServiceRolePolicy",1,3,0,1,0,0,32
-"AWSGrafanaConsoleReadOnlyAccess","v1",True,"2021-02-23T00:10:40+00:00","AWSGrafanaConsoleReadOnlyAccess",0,0,0,0,0,0,0
+"AWSGrafanaConsoleReadOnlyAccess","v2",True,"2021-09-21T20:36:14+00:00","AWSGrafanaConsoleReadOnlyAccess",0,0,0,0,0,0,0
+"AWSGrafanaConsoleReadOnlyAccess","v1",False,"2021-02-23T00:10:40+00:00","AWSGrafanaConsoleReadOnlyAccess",0,0,0,0,0,0,0
 "AmazonInspectorFullAccess","v2",False,"2016-03-09T04:06:22+00:00","AmazonInspectorFullAccess",1,0,0,0,0,0,0
 "AmazonInspectorFullAccess","v5",True,"2017-12-21T14:53:31+00:00","AmazonInspectorFullAccess",1,1,0,1,0,0,1
 "AmazonInspectorFullAccess","v3",False,"2017-09-12T17:42:57+00:00","AmazonInspectorFullAccess",1,0,0,0,0,0,0
@@ -510,7 +511,8 @@
 "NetworkAdministrator","v6",False,"2020-03-31T16:34:49+00:00","NetworkAdministrator",5,7,0,4,0,0,222
 "AmazonMSKConnectReadOnlyAccess","v1",True,"2021-09-20T10:18:43+00:00","AmazonMSKConnectReadOnlyAccess",0,0,0,0,0,0,0
 "AmazonMobileAnalyticsFinancialReportAccess","v1",True,"2015-02-06T18:40:35+00:00","AmazonMobileAnalyticsFinancialReportAccess",0,0,0,0,0,0,0
-"AWSGrafanaWorkspacePermissionManagement","v1",True,"2021-02-23T00:15:54+00:00","AWSGrafanaWorkspacePermissionManagement",0,0,0,0,0,0,0
+"AWSGrafanaWorkspacePermissionManagement","v2",True,"2021-09-21T20:30:06+00:00","AWSGrafanaWorkspacePermissionManagement",0,0,0,0,0,0,0
+"AWSGrafanaWorkspacePermissionManagement","v1",False,"2021-02-23T00:15:54+00:00","AWSGrafanaWorkspacePermissionManagement",0,0,0,0,0,0,0
 "CloudWatchLogsFullAccess","v1",True,"2015-02-06T18:40:02+00:00","CloudWatchLogsFullAccess",1,1,0,2,0,0,16
 "AmazonConnect_FullAccess","v2",True,"2021-07-01T18:41:26+00:00","AmazonConnect_FullAccess",1,4,0,1,0,2,64
 "AmazonConnect_FullAccess","v1",False,"2020-11-20T19:54:21+00:00","AmazonConnect_FullAccess",1,4,0,1,0,2,64

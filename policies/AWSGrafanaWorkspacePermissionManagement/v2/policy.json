@@ -1,0 +1,17 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "AWSGrafanaPermissions",
+            "Effect": "Allow",
+            "Action": [
+                "grafana:DescribeWorkspace",
+                "grafana:DescribeWorkspaceAuthentication",
+                "grafana:UpdatePermissions",
+                "grafana:ListPermissions",
+                "grafana:ListWorkspaces"
+            ],
+            "Resource": "arn:aws:grafana:*:*:/workspaces*"
+        }
+    ]
+}
