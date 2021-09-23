@@ -850,6 +850,7 @@
 "AWSIoTDeviceDefenderReplaceDefaultPolicyMitigationAction","v1",True,"2019-08-07T17:04:57+00:00","AWSIoTDeviceDefenderReplaceDefaultPolicyMitigationAction",0,1,0,0,0,0,1
 "IAMUserSSHKeys","v1",True,"2015-07-09T17:08:54+00:00","IAMUserSSHKeys",0,0,0,0,0,0,0
 "AmazonEKSWorkerNodePolicy","v1",True,"2018-05-27T21:09:01+00:00","AmazonEKSWorkerNodePolicy",0,0,0,0,0,0,0
+"AmazonConnectCampaignsServiceLinkedRolePolicy","v1",True,"2021-09-23T20:54:26+00:00","AmazonConnectCampaignsServiceLinkedRolePolicy",0,0,0,0,0,0,0
 "AWSIoTDeviceDefenderAudit","v2",False,"2019-11-25T19:10:15+00:00","AWSIoTDeviceDefenderAudit",0,0,0,0,0,0,0
 "AWSIoTDeviceDefenderAudit","v3",True,"2019-11-25T23:52:43+00:00","AWSIoTDeviceDefenderAudit",0,0,0,0,0,0,0
 "AWSIoTDeviceDefenderAudit","v1",False,"2018-07-18T21:17:40+00:00","AWSIoTDeviceDefenderAudit",0,0,0,0,0,0,0
