@@ -683,8 +683,9 @@
 "CloudwatchApplicationInsightsServiceLinkedRolePolicy","v11",False,"2020-11-09T22:39:19+00:00","CloudwatchApplicationInsightsServiceLinkedRolePolicy",0,1,0,0,0,0,2
 "CloudwatchApplicationInsightsServiceLinkedRolePolicy","v13",False,"2021-04-15T00:30:19+00:00","CloudwatchApplicationInsightsServiceLinkedRolePolicy",0,1,0,0,0,0,2
 "CloudwatchApplicationInsightsServiceLinkedRolePolicy","v4",False,"2019-06-05T01:47:36+00:00","CloudwatchApplicationInsightsServiceLinkedRolePolicy",0,1,0,0,0,0,2
+"CloudwatchApplicationInsightsServiceLinkedRolePolicy","v17",True,"2021-09-22T22:35:38+00:00","CloudwatchApplicationInsightsServiceLinkedRolePolicy",0,1,0,0,0,0,2
 "CloudwatchApplicationInsightsServiceLinkedRolePolicy","v14",False,"2021-05-11T22:38:14+00:00","CloudwatchApplicationInsightsServiceLinkedRolePolicy",0,1,0,0,0,0,2
-"CloudwatchApplicationInsightsServiceLinkedRolePolicy","v16",True,"2021-08-27T22:03:15+00:00","CloudwatchApplicationInsightsServiceLinkedRolePolicy",0,1,0,0,0,0,2
+"CloudwatchApplicationInsightsServiceLinkedRolePolicy","v16",False,"2021-08-27T22:03:15+00:00","CloudwatchApplicationInsightsServiceLinkedRolePolicy",0,1,0,0,0,0,2
 "CloudwatchApplicationInsightsServiceLinkedRolePolicy","v8",False,"2020-06-02T19:50:03+00:00","CloudwatchApplicationInsightsServiceLinkedRolePolicy",0,1,0,0,0,0,2
 "CloudwatchApplicationInsightsServiceLinkedRolePolicy","v6",False,"2019-11-01T01:06:25+00:00","CloudwatchApplicationInsightsServiceLinkedRolePolicy",0,1,0,0,0,0,2
 "AmazonDynamoDBFullAccess","v9",False,"2019-05-08T21:20:48+00:00","AmazonDynamoDBFullAccess",2,7,0,4,0,0,52
