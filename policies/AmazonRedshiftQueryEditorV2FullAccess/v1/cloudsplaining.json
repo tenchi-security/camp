@@ -1,0 +1,11 @@
+{
+    "ServiceWildcard": [
+        "sqlworkbench"
+    ],
+    "ServicesAffected": [],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": []
+}

@@ -897,6 +897,7 @@
 "AWSServiceRoleForImageBuilder","v8",False,"2020-07-15T21:23:31+00:00","AWSServiceRoleForImageBuilder",0,6,0,2,0,0,19
 "AWSServiceRoleForImageBuilder","v6",False,"2020-04-16T19:45:25+00:00","AWSServiceRoleForImageBuilder",0,6,0,2,0,0,19
 "AWSAuditManagerServiceRolePolicy","v1",True,"2020-12-08T15:12:12+00:00","AWSAuditManagerServiceRolePolicy",0,1,0,0,0,0,1
+"AmazonRedshiftQueryEditorV2ReadSharing","v1",True,"2021-09-24T14:22:21+00:00","AmazonRedshiftQueryEditorV2ReadSharing",0,0,0,0,0,0,0
 "AmazonMachineLearningReadOnlyAccess","v1",True,"2015-04-09T17:40:02+00:00","AmazonMachineLearningReadOnlyAccess",0,0,0,0,0,0,0
 "AWSGlueSchemaRegistryFullAccess","v1",True,"2020-11-20T00:19:00+00:00","AWSGlueSchemaRegistryFullAccess",0,1,0,0,0,0,10
 "AWSServiceRoleForEC2ScheduledInstances","v1",True,"2017-10-12T18:31:55+00:00","AWSServiceRoleForEC2ScheduledInstances",0,1,0,0,0,0,1
@@ -1162,6 +1163,7 @@
 "ElementalActivationsReadOnlyAccess","v1",True,"2020-08-28T16:51:01+00:00","ElementalActivationsReadOnlyAccess",0,0,0,0,0,0,0
 "AmazonRekognitionServiceRole","v1",True,"2017-11-29T16:52:13+00:00","AmazonRekognitionServiceRole",0,0,0,0,0,0,0
 "AWSElasticBeanstalkRoleSNS","v1",True,"2020-06-05T21:46:22+00:00","AWSElasticBeanstalkRoleSNS",0,1,0,0,0,0,2
+"AmazonRedshiftQueryEditorV2NoSharing","v1",True,"2021-09-24T14:18:42+00:00","AmazonRedshiftQueryEditorV2NoSharing",0,0,0,0,0,0,0
 "ConfigConformsServiceRolePolicy","v2",False,"2019-10-02T00:31:15+00:00","ConfigConformsServiceRolePolicy",0,1,0,1,0,0,1
 "ConfigConformsServiceRolePolicy","v3",False,"2019-10-17T22:16:14+00:00","ConfigConformsServiceRolePolicy",0,1,0,1,0,0,1
 "ConfigConformsServiceRolePolicy","v1",False,"2019-07-25T21:38:05+00:00","ConfigConformsServiceRolePolicy",0,0,0,0,0,0,0
@@ -1886,6 +1888,7 @@
 "AmazonHoneycodeReadOnlyAccess","v1",False,"2020-06-24T20:28:16+00:00","AmazonHoneycodeReadOnlyAccess",0,0,0,0,0,0,0
 "AmazonWorkMailEventsServiceRolePolicy","v1",True,"2019-04-16T16:52:43+00:00","AmazonWorkMailEventsServiceRolePolicy",0,1,0,0,0,0,3
 "AWSDeepRacerFullAccess","v1",True,"2020-10-05T22:03:10+00:00","AWSDeepRacerFullAccess",0,0,0,0,0,0,0
+"AmazonRedshiftQueryEditorV2ReadWriteSharing","v1",True,"2021-09-24T14:25:37+00:00","AmazonRedshiftQueryEditorV2ReadWriteSharing",0,0,0,0,0,0,0
 "AWSCloudFrontLogger","v2",True,"2019-11-22T19:33:51+00:00","AWSCloudFrontLogger",0,0,0,0,0,0,0
 "AWSCloudFrontLogger","v1",False,"2018-06-12T20:15:23+00:00","AWSCloudFrontLogger",0,0,0,0,0,0,0
 "AmazonHealthLakeReadOnlyAccess","v1",True,"2021-02-17T02:43:31+00:00","AmazonHealthLakeReadOnlyAccess",0,0,0,0,0,0,0
@@ -2145,6 +2148,7 @@
 "ComprehendFullAccess","v2",True,"2017-12-05T01:36:24+00:00","ComprehendFullAccess",1,1,0,0,0,0,11
 "ComprehendFullAccess","v1",False,"2017-11-29T18:08:43+00:00","ComprehendFullAccess",1,1,0,0,0,0,11
 "AmazonKinesisVideoStreamsReadOnlyAccess","v1",True,"2017-12-01T23:14:32+00:00","AmazonKinesisVideoStreamsReadOnlyAccess",0,0,0,0,0,0,0
+"AmazonRedshiftQueryEditorV2FullAccess","v1",True,"2021-09-24T14:06:02+00:00","AmazonRedshiftQueryEditorV2FullAccess",1,0,0,0,0,0,0
 "AWSQuickSightElasticsearchPolicy","v2",False,"2020-10-15T17:09:55+00:00","AWSQuickSightElasticsearchPolicy",0,0,0,0,0,0,0
 "AWSQuickSightElasticsearchPolicy","v3",True,"2021-09-07T23:25:55+00:00","AWSQuickSightElasticsearchPolicy",0,0,0,0,0,0,0
 "AWSQuickSightElasticsearchPolicy","v1",False,"2020-09-09T17:27:19+00:00","AWSQuickSightElasticsearchPolicy",0,0,0,0,0,0,0
