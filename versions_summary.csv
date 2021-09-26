@@ -1095,6 +1095,7 @@
 "SecurityAudit","v29",False,"2019-07-18T20:16:48+00:00","SecurityAudit",0,1,0,2,0,0,2
 "SecurityAudit","v8",False,"2016-11-10T20:06:43+00:00","SecurityAudit",0,0,0,0,0,0,0
 "SecurityAudit","v6",False,"2016-08-25T20:26:01+00:00","SecurityAudit",0,0,0,0,0,0,0
+"AmazonConnectVoiceIDFullAccess","v1",True,"2021-09-26T19:04:10+00:00","AmazonConnectVoiceIDFullAccess",1,0,0,0,0,0,0
 "AWSServiceCatalogEndUserFullAccess","v7",True,"2019-07-10T20:30:52+00:00","AWSServiceCatalogEndUserFullAccess",0,1,0,0,0,0,1
 "AWSServiceCatalogEndUserFullAccess","v2",False,"2018-09-29T00:30:14+00:00","AWSServiceCatalogEndUserFullAccess",0,1,0,0,0,0,1
 "AWSServiceCatalogEndUserFullAccess","v5",False,"2019-02-06T02:00:22+00:00","AWSServiceCatalogEndUserFullAccess",0,1,0,0,0,0,1
