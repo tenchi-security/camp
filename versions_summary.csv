@@ -1315,6 +1315,7 @@
 "AWSXrayReadOnlyAccess","v3",False,"2018-11-20T23:06:16+00:00","AWSXrayReadOnlyAccess",0,0,0,0,0,0,0
 "AWSXrayReadOnlyAccess","v1",False,"2016-12-01T18:27:02+00:00","AWSXrayReadOnlyAccess",0,0,0,0,0,0,0
 "AWSXrayReadOnlyAccess","v4",False,"2019-04-30T18:11:46+00:00","AWSXrayReadOnlyAccess",0,0,0,0,0,0,0
+"AWSEC2CapacityReservationFleetRolePolicy","v1",True,"2021-09-29T14:43:09+00:00","AWSEC2CapacityReservationFleetRolePolicy",0,0,0,0,0,0,0
 "AWSConfigRoleForOrganizations","v2",True,"2020-11-24T20:19:13+00:00","AWSConfigRoleForOrganizations",0,0,0,0,0,0,0
 "AWSConfigRoleForOrganizations","v1",False,"2018-03-19T22:53:01+00:00","AWSConfigRoleForOrganizations",0,0,0,0,0,0,0
 "AWSRoboMakerReadOnlyAccess","v2",True,"2020-08-28T23:10:18+00:00","AWSRoboMakerReadOnlyAccess",0,0,0,0,0,0,0
@@ -1558,7 +1559,8 @@
 "ResourceGroupsandTagEditorFullAccess","v4",False,"2019-03-07T21:54:03+00:00","ResourceGroupsandTagEditorFullAccess",1,1,0,0,0,0,8
 "AWSAppMeshServiceRolePolicy","v2",True,"2019-09-10T22:44:43+00:00","AWSAppMeshServiceRolePolicy",0,0,0,0,0,0,0
 "AWSAppMeshServiceRolePolicy","v1",False,"2019-06-03T18:30:51+00:00","AWSAppMeshServiceRolePolicy",0,0,0,0,0,0,0
-"AmazonPrometheusConsoleFullAccess","v1",True,"2020-12-15T18:11:10+00:00","AmazonPrometheusConsoleFullAccess",0,1,0,0,0,0,2
+"AmazonPrometheusConsoleFullAccess","v2",True,"2021-09-29T15:29:28+00:00","AmazonPrometheusConsoleFullAccess",0,1,0,0,0,0,4
+"AmazonPrometheusConsoleFullAccess","v1",False,"2020-12-15T18:11:10+00:00","AmazonPrometheusConsoleFullAccess",0,1,0,0,0,0,2
 "AWSLambdaInvocation-DynamoDB","v1",True,"2015-02-06T18:40:47+00:00","AWSLambdaInvocation-DynamoDB",0,1,0,0,0,0,1
 "AmazonLookoutEquipmentReadOnlyAccess","v1",True,"2021-05-05T16:47:55+00:00","AmazonLookoutEquipmentReadOnlyAccess",0,0,0,0,0,0,0
 "AmazonEC2ContainerServiceEventsRole","v2",True,"2018-05-22T19:13:11+00:00","AmazonEC2ContainerServiceEventsRole",0,2,0,1,0,0,2

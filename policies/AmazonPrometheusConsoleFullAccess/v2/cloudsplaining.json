@@ -1,0 +1,16 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "aps"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "aps:DeleteWorkspace",
+        "aps:TagResource",
+        "aps:UntagResource",
+        "aps:UpdateWorkspaceAlias"
+    ]
+}
