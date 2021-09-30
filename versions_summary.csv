@@ -778,9 +778,10 @@
 "AWSApplicationDiscoveryServiceFullAccess","v4",True,"2019-06-19T21:21:26+00:00","AWSApplicationDiscoveryServiceFullAccess",2,2,0,1,0,0,10
 "AWSCloudHSMReadOnlyAccess","v1",True,"2015-02-06T18:39:52+00:00","AWSCloudHSMReadOnlyAccess",0,0,0,0,0,0,0
 "AWSDataExchangeSubscriberFullAccess","v2",False,"2020-04-27T14:28:00+00:00","AWSDataExchangeSubscriberFullAccess",0,1,0,0,0,0,3
+"AWSDataExchangeSubscriberFullAccess","v5",True,"2021-09-30T21:31:28+00:00","AWSDataExchangeSubscriberFullAccess",0,1,0,0,0,0,3
 "AWSDataExchangeSubscriberFullAccess","v3",False,"2021-01-14T17:06:28+00:00","AWSDataExchangeSubscriberFullAccess",0,1,0,0,0,0,3
 "AWSDataExchangeSubscriberFullAccess","v1",False,"2019-11-13T19:27:52+00:00","AWSDataExchangeSubscriberFullAccess",0,1,0,0,0,0,3
-"AWSDataExchangeSubscriberFullAccess","v4",True,"2021-02-08T23:34:25+00:00","AWSDataExchangeSubscriberFullAccess",0,1,0,0,0,0,3
+"AWSDataExchangeSubscriberFullAccess","v4",False,"2021-02-08T23:34:25+00:00","AWSDataExchangeSubscriberFullAccess",0,1,0,0,0,0,3
 "CloudTrailServiceRolePolicy","v1",True,"2018-10-24T21:21:44+00:00","CloudTrailServiceRolePolicy",1,1,0,0,0,0,9
 "GlobalAcceleratorFullAccess","v2",False,"2019-07-08T22:15:16+00:00","GlobalAcceleratorFullAccess",1,1,0,0,0,0,23
 "GlobalAcceleratorFullAccess","v5",False,"2020-06-16T16:47:10+00:00","GlobalAcceleratorFullAccess",1,1,0,0,0,0,23
