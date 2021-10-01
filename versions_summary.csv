@@ -1311,6 +1311,7 @@
 "AWSCodeStarFullAccess","v1",False,"2017-04-19T16:23:19+00:00","AWSCodeStarFullAccess",1,1,0,5,0,0,12
 "AmazonWorkMailMessageFlowFullAccess","v1",True,"2021-02-11T11:08:35+00:00","AmazonWorkMailMessageFlowFullAccess",1,0,0,0,0,0,0
 "AWSQuickSightListIAM","v1",True,"2015-11-10T23:25:07+00:00","AWSQuickSightListIAM",0,0,0,0,0,0,0
+"AWSAccountManagementReadOnlyAccess","v1",True,"2021-09-30T23:29:53+00:00","AWSAccountManagementReadOnlyAccess",0,0,0,0,0,0,0
 "AmazonKinesisAnalyticsReadOnly","v1",True,"2016-09-21T18:16:43+00:00","AmazonKinesisAnalyticsReadOnly",0,0,0,0,0,0,0
 "AWSXrayReadOnlyAccess","v2",False,"2018-08-28T22:59:08+00:00","AWSXrayReadOnlyAccess",0,0,0,0,0,0,0
 "AWSXrayReadOnlyAccess","v5",True,"2020-09-03T22:19:40+00:00","AWSXrayReadOnlyAccess",0,0,0,0,0,0,0
@@ -1538,6 +1539,7 @@
 "AlexaForBusinessNetworkProfileServicePolicy","v2",True,"2019-04-05T21:57:56+00:00","AlexaForBusinessNetworkProfileServicePolicy",0,1,0,0,0,0,2
 "AlexaForBusinessNetworkProfileServicePolicy","v1",False,"2019-03-13T00:53:40+00:00","AlexaForBusinessNetworkProfileServicePolicy",0,1,0,0,0,0,2
 "AWSCloudHSMFullAccess","v1",True,"2015-02-06T18:39:51+00:00","AWSCloudHSMFullAccess",1,1,0,0,0,0,9
+"AWSAccountManagementFullAccess","v1",True,"2021-09-30T23:20:37+00:00","AWSAccountManagementFullAccess",1,0,0,0,0,0,0
 "AWSThinkboxAWSPortalGatewayPolicy","v2",True,"2020-06-30T16:02:07+00:00","AWSThinkboxAWSPortalGatewayPolicy",0,1,0,0,0,0,1
 "AWSThinkboxAWSPortalGatewayPolicy","v1",False,"2020-05-27T19:05:00+00:00","AWSThinkboxAWSPortalGatewayPolicy",0,1,0,0,0,0,1
 "AlexaForBusinessPolyDelegatedAccessPolicy","v1",True,"2019-10-16T19:48:45+00:00","AlexaForBusinessPolyDelegatedAccessPolicy",0,1,0,0,0,0,4

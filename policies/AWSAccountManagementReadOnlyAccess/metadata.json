@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSAccountManagementReadOnlyAccess",
+    "PolicyId": "ANPAZKAPJZG4FJMX42HLT",
+    "Arn": "arn:aws:iam::aws:policy/AWSAccountManagementReadOnlyAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2021-09-30T23:29:53+00:00",
+    "UpdateDate": "2021-09-30T23:29:53+00:00"
+}
