@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4J7MSL2FYD",
     "Arn": "arn:aws:iam::aws:policy/aws-service-role/Route53RecoveryReadinessServiceRolePolicy",
     "Path": "/aws-service-role/",
-    "DefaultVersionId": "v1",
+    "DefaultVersionId": "v2",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2021-07-15T16:06:21+00:00",
-    "UpdateDate": "2021-07-15T16:06:21+00:00"
+    "UpdateDate": "2021-10-06T18:52:33+00:00"
 }
