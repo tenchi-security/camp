@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonMemoryDBFullAccess",
+    "PolicyId": "ANPAZKAPJZG4LGPHLZEWJ",
+    "Arn": "arn:aws:iam::aws:policy/AmazonMemoryDBFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2021-10-08T19:24:16+00:00",
+    "UpdateDate": "2021-10-08T19:24:16+00:00"
+}

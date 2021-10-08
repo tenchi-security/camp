@@ -1,0 +1,34 @@
+{
+    "ServiceWildcard": [
+        "memorydb"
+    ],
+    "ServicesAffected": [
+        "memorydb"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "memorydb:BatchUpdateClusters",
+        "memorydb:CopySnapshot",
+        "memorydb:CreateAcl",
+        "memorydb:CreateCluster",
+        "memorydb:CreateSnapshot",
+        "memorydb:DeleteAcl",
+        "memorydb:DeleteCluster",
+        "memorydb:DeleteParameterGroup",
+        "memorydb:DeleteSnapshot",
+        "memorydb:DeleteSubnetGroup",
+        "memorydb:DeleteUser",
+        "memorydb:FailoverShard",
+        "memorydb:ResetParameterGroup",
+        "memorydb:TagResource",
+        "memorydb:UntagResource",
+        "memorydb:UpdateAcl",
+        "memorydb:UpdateCluster",
+        "memorydb:UpdateParameterGroup",
+        "memorydb:UpdateSubnetGroup",
+        "memorydb:UpdateUser"
+    ]
+}
