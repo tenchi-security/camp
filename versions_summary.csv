@@ -2082,6 +2082,7 @@
 "AWSCloudFrontLogger","v1",False,"2018-06-12T20:15:23+00:00","AWSCloudFrontLogger",0,0,0,0,0,0,0
 "AWSCloudFrontLogger","v2",True,"2019-11-22T19:33:51+00:00","AWSCloudFrontLogger",0,0,0,0,0,0,0
 "AWSLambdaInvocation-DynamoDB","v1",True,"2015-02-06T18:40:47+00:00","AWSLambdaInvocation-DynamoDB",0,1,0,0,0,0,1
+"AmazonRDSCustomPreviewServiceRolePolicy","v1",True,"2021-10-08T21:44:15+00:00","AmazonRDSCustomPreviewServiceRolePolicy",0,1,0,0,0,0,6
 "AWSBugBustFullAccess","v1",False,"2021-06-24T07:03:26+00:00","AWSBugBustFullAccess",1,0,0,0,0,0,0
 "AWSBugBustFullAccess","v2",True,"2021-07-22T20:04:29+00:00","AWSBugBustFullAccess",1,0,0,0,0,0,0
 "AWSCloudShellFullAccess","v1",True,"2020-12-15T18:07:44+00:00","AWSCloudShellFullAccess",1,1,0,0,0,0,7
@@ -2168,6 +2169,7 @@
 "AWSGlueConsoleSageMakerNotebookFullAccess","v1",False,"2018-10-05T17:52:35+00:00","AWSGlueConsoleSageMakerNotebookFullAccess",1,2,1,2,0,0,48
 "AWSGlueConsoleSageMakerNotebookFullAccess","v2",False,"2019-09-26T17:14:11+00:00","AWSGlueConsoleSageMakerNotebookFullAccess",1,2,1,2,0,0,48
 "AWSGlueConsoleSageMakerNotebookFullAccess","v3",True,"2021-07-15T15:24:19+00:00","AWSGlueConsoleSageMakerNotebookFullAccess",1,2,1,2,0,0,48
+"AmazonRDSCustomServiceRolePolicy","v1",True,"2021-10-08T21:39:12+00:00","AmazonRDSCustomServiceRolePolicy",0,1,0,0,0,0,6
 "AmazonOpenSearchServiceRolePolicy","v1",False,"2021-08-26T09:27:09+00:00","AmazonOpenSearchServiceRolePolicy",0,0,0,0,0,0,0
 "AmazonOpenSearchServiceRolePolicy","v2",False,"2021-09-01T05:43:03+00:00","AmazonOpenSearchServiceRolePolicy",0,0,0,0,0,0,0
 "AmazonOpenSearchServiceRolePolicy","v3",True,"2021-09-09T10:43:21+00:00","AmazonOpenSearchServiceRolePolicy",0,0,0,0,0,0,0
