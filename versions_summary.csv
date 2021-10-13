@@ -1481,7 +1481,8 @@
 "AWSArtifactAccountSync","v1",True,"2018-04-10T23:04:33+00:00","AWSArtifactAccountSync",0,0,0,0,0,0,0
 "AdministratorAccess-Amplify","v1",False,"2020-12-01T19:03:08+00:00","AdministratorAccess-Amplify",0,12,0,22,1,0,99
 "AdministratorAccess-Amplify","v2",False,"2021-01-13T22:36:27+00:00","AdministratorAccess-Amplify",2,15,2,25,1,1,174
-"AdministratorAccess-Amplify","v4",True,"2021-09-23T23:12:41+00:00","AdministratorAccess-Amplify",4,19,7,55,1,1,233
+"AdministratorAccess-Amplify","v5",True,"2021-10-13T20:03:40+00:00","AdministratorAccess-Amplify",4,19,7,55,1,1,234
+"AdministratorAccess-Amplify","v4",False,"2021-09-23T23:12:41+00:00","AdministratorAccess-Amplify",4,19,7,55,1,1,233
 "AdministratorAccess-Amplify","v3",False,"2021-07-26T22:49:07+00:00","AdministratorAccess-Amplify",3,16,3,40,1,1,199
 "AmazonWorkDocsFullAccess","v1",True,"2020-04-16T23:05:11+00:00","AmazonWorkDocsFullAccess",1,0,0,0,0,0,0
 "AWSCodeDeployRoleForECSLimited","v1",False,"2018-11-27T20:42:42+00:00","AWSCodeDeployRoleForECSLimited",0,3,0,0,0,0,5

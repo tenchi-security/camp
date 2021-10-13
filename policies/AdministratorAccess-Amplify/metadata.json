@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4AML23RALR",
     "Arn": "arn:aws:iam::aws:policy/AdministratorAccess-Amplify",
     "Path": "/",
-    "DefaultVersionId": "v4",
+    "DefaultVersionId": "v5",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2020-12-01T19:03:08+00:00",
-    "UpdateDate": "2021-09-23T23:12:41+00:00"
+    "UpdateDate": "2021-10-13T20:03:40+00:00"
 }
