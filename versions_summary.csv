@@ -1664,7 +1664,8 @@
 "AWSBackupOrganizationAdminAccess","v2",True,"2020-11-24T22:09:43+00:00","AWSBackupOrganizationAdminAccess",0,1,0,0,0,0,6
 "AWSAccountManagementFullAccess","v1",True,"2021-09-30T23:20:37+00:00","AWSAccountManagementFullAccess",1,0,0,0,0,0,0
 "AmazonSageMakerMechanicalTurkAccess","v1",True,"2019-12-03T16:19:36+00:00","AmazonSageMakerMechanicalTurkAccess",0,1,0,0,0,0,2
-"AWSGrafanaAccountAdministrator","v1",True,"2021-02-23T00:20:38+00:00","AWSGrafanaAccountAdministrator",1,0,0,0,0,0,0
+"AWSGrafanaAccountAdministrator","v1",False,"2021-02-23T00:20:38+00:00","AWSGrafanaAccountAdministrator",1,0,0,0,0,0,0
+"AWSGrafanaAccountAdministrator","v2",True,"2021-10-13T22:13:18+00:00","AWSGrafanaAccountAdministrator",1,0,0,0,0,0,0
 "AWSCodeDeployRoleForCloudFormation","v1",True,"2020-05-19T17:12:52+00:00","AWSCodeDeployRoleForCloudFormation",0,0,0,0,0,0,0
 "AWSBackupOperatorAccess","v1",False,"2019-11-18T22:23:17+00:00","AWSBackupOperatorAccess",0,1,0,0,0,0,4
 "AWSBackupOperatorAccess","v2",False,"2020-01-13T16:15:02+00:00","AWSBackupOperatorAccess",0,1,0,0,0,0,5
