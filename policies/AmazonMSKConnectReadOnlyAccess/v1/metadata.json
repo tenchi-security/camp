@@ -1,6 +1,6 @@
 {
     "VersionId": "v1",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2021-09-20T10:18:43+00:00",
     "PolicyName": "AmazonMSKConnectReadOnlyAccess"
 }
