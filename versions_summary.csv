@@ -578,6 +578,7 @@
 "ComputeOptimizerServiceRolePolicy","v1",True,"2019-12-03T08:45:19+00:00","ComputeOptimizerServiceRolePolicy",1,0,0,0,0,0,0
 "AmazonEMRServicePolicy_v2","v1",True,"2021-03-12T01:11:08+00:00","AmazonEMRServicePolicy_v2",0,1,0,0,0,0,9
 "AWSAccountActivityAccess","v1",True,"2015-02-06T18:41:18+00:00","AWSAccountActivityAccess",0,0,0,0,0,0,0
+"AWSMigrationHubStrategyServiceRolePolicy","v1",True,"2021-10-19T20:02:37+00:00","AWSMigrationHubStrategyServiceRolePolicy",0,0,0,0,0,0,0
 "ClientVPNServiceConnectionsRolePolicy","v1",True,"2020-08-12T19:48:06+00:00","ClientVPNServiceConnectionsRolePolicy",0,0,0,0,0,0,0
 "ElementalAppliancesSoftwareFullAccess","v1",False,"2019-07-31T16:28:53+00:00","ElementalAppliancesSoftwareFullAccess",1,0,0,0,0,0,0
 "ElementalAppliancesSoftwareFullAccess","v2",False,"2019-11-18T19:03:41+00:00","ElementalAppliancesSoftwareFullAccess",2,1,0,0,0,0,4
