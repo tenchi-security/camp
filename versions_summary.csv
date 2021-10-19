@@ -410,6 +410,7 @@
 "AmazonEC2SpotFleetTaggingRole","v5",True,"2020-04-23T19:30:49+00:00","AmazonEC2SpotFleetTaggingRole",0,2,0,1,0,0,5
 "AmazonEC2SpotFleetTaggingRole","v4",False,"2017-11-17T22:51:17+00:00","AmazonEC2SpotFleetTaggingRole",0,3,0,1,0,0,5
 "AmazonEC2SpotFleetTaggingRole","v3",False,"2017-11-07T19:19:15+00:00","AmazonEC2SpotFleetTaggingRole",0,3,0,1,0,0,5
+"AWSMigrationHubStrategyConsoleFullAccess","v1",True,"2021-10-19T20:13:26+00:00","AWSMigrationHubStrategyConsoleFullAccess",1,1,0,1,0,0,1
 "AmazonConnectCampaignsServiceLinkedRolePolicy","v1",True,"2021-09-23T20:54:26+00:00","AmazonConnectCampaignsServiceLinkedRolePolicy",0,0,0,0,0,0,0
 "Health_OrganizationsServiceRolePolicy","v1",False,"2019-12-16T13:28:21+00:00","Health_OrganizationsServiceRolePolicy",0,0,0,0,0,0,0
 "Health_OrganizationsServiceRolePolicy","v2",True,"2020-06-08T12:48:44+00:00","Health_OrganizationsServiceRolePolicy",0,0,0,0,0,0,0
@@ -1121,6 +1122,7 @@
 "DataScientist","v4",False,"2019-08-21T23:13:03+00:00","DataScientist",13,19,1,16,1,1,496
 "DataScientist","v3",False,"2019-01-18T19:26:23+00:00","DataScientist",13,19,1,16,1,1,496
 "AWSBackupServiceLinkedRolePolicyForBackupTest","v1",True,"2020-05-12T17:37:29+00:00","AWSBackupServiceLinkedRolePolicyForBackupTest",0,0,0,0,0,0,0
+"AWSMigrationHubStrategyCollector","v1",True,"2021-10-19T20:15:15+00:00","AWSMigrationHubStrategyCollector",0,0,0,0,0,0,0
 "LexBotPolicy","v1",False,"2017-02-17T22:18:13+00:00","LexBotPolicy",0,0,0,0,0,0,0
 "LexBotPolicy","v2",True,"2019-11-13T22:29:16+00:00","LexBotPolicy",0,0,0,0,0,0,0
 "AWSApplicationMigrationAgentPolicy","v1",True,"2021-04-07T07:00:21+00:00","AWSApplicationMigrationAgentPolicy",0,0,0,0,0,0,0
