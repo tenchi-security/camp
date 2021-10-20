@@ -1527,7 +1527,8 @@
 "AWSGlueServiceNotebookRole","v3",True,"2019-10-07T18:05:54+00:00","AWSGlueServiceNotebookRole",0,1,1,0,0,0,19
 "AWSBackupServiceLinkedRolePolicyForBackup","v1",False,"2020-06-02T23:08:40+00:00","AWSBackupServiceLinkedRolePolicyForBackup",0,0,0,0,0,0,0
 "AWSBackupServiceLinkedRolePolicyForBackup","v2",False,"2020-11-10T18:37:51+00:00","AWSBackupServiceLinkedRolePolicyForBackup",0,2,0,1,0,0,6
-"AWSBackupServiceLinkedRolePolicyForBackup","v4",True,"2021-07-05T23:27:46+00:00","AWSBackupServiceLinkedRolePolicyForBackup",0,2,0,1,0,0,6
+"AWSBackupServiceLinkedRolePolicyForBackup","v5",True,"2021-10-20T18:16:29+00:00","AWSBackupServiceLinkedRolePolicyForBackup",0,2,0,1,0,0,6
+"AWSBackupServiceLinkedRolePolicyForBackup","v4",False,"2021-07-05T23:27:46+00:00","AWSBackupServiceLinkedRolePolicyForBackup",0,2,0,1,0,0,6
 "AWSBackupServiceLinkedRolePolicyForBackup","v3",False,"2021-04-12T18:11:02+00:00","AWSBackupServiceLinkedRolePolicyForBackup",0,2,0,1,0,0,6
 "ECRReplicationServiceRolePolicy","v1",True,"2020-12-04T22:11:28+00:00","ECRReplicationServiceRolePolicy",0,1,0,0,0,0,2
 "AWSSavingsPlansReadOnlyAccess","v1",True,"2019-11-06T22:45:10+00:00","AWSSavingsPlansReadOnlyAccess",0,0,0,0,0,0,0
