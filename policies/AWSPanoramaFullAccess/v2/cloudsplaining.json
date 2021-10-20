@@ -1,0 +1,40 @@
+{
+    "ServiceWildcard": [
+        "panorama"
+    ],
+    "ServicesAffected": [
+        "iam",
+        "panorama",
+        "s3"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "s3:PutObjectAcl",
+        "iam:PassRole",
+        "iam:CreateServiceLinkedRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "iam:CreateServiceLinkedRole",
+        "iam:PassRole",
+        "panorama:CreateAppVersion",
+        "panorama:CreateDataSource",
+        "panorama:CreateInputs",
+        "panorama:CreateStreams",
+        "panorama:DeleteApp",
+        "panorama:DeleteAppVersion",
+        "panorama:DeleteDataSource",
+        "panorama:DeleteDevice",
+        "panorama:DeleteModel",
+        "panorama:TagResource",
+        "panorama:UntagResource",
+        "panorama:UpdateApp",
+        "panorama:UpdateAppConfiguration",
+        "panorama:UpdateDataSource",
+        "s3:DeleteObject",
+        "s3:GetObject",
+        "s3:PutObject",
+        "s3:PutObjectAcl"
+    ]
+}

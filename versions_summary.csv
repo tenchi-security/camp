@@ -1025,7 +1025,8 @@
 "AmazonPersonalizeFullAccess","v2",True,"2019-05-30T23:46:59+00:00","AmazonPersonalizeFullAccess",1,2,0,1,0,0,22
 "AWSServiceRoleForEC2ScheduledInstances","v1",True,"2017-10-12T18:31:55+00:00","AWSServiceRoleForEC2ScheduledInstances",0,1,0,0,0,0,1
 "AWSElementalMediaLiveReadOnly","v1",True,"2020-07-08T16:38:07+00:00","AWSElementalMediaLiveReadOnly",0,0,0,0,0,0,0
-"AWSPanoramaFullAccess","v1",True,"2020-12-01T13:12:47+00:00","AWSPanoramaFullAccess",1,1,0,0,0,0,14
+"AWSPanoramaFullAccess","v1",False,"2020-12-01T13:12:47+00:00","AWSPanoramaFullAccess",1,1,0,0,0,0,14
+"AWSPanoramaFullAccess","v2",True,"2021-10-20T12:14:58+00:00","AWSPanoramaFullAccess",1,3,0,3,0,0,20
 "AmazonMechanicalTurkFullAccess","v1",True,"2015-12-11T19:08:19+00:00","AmazonMechanicalTurkFullAccess",1,0,0,0,0,0,0
 "AWSProtonFullAccess","v1",True,"2021-02-17T19:07:18+00:00","AWSProtonFullAccess",1,3,0,2,0,0,30
 "AWSApplicationMigrationReadOnlyAccess","v1",True,"2021-04-07T07:15:26+00:00","AWSApplicationMigrationReadOnlyAccess",0,0,0,0,0,0,0
@@ -1151,6 +1152,7 @@
 "AWSSSOServiceRolePolicy","v9",False,"2020-07-02T20:20:49+00:00","AWSSSOServiceRolePolicy",0,1,0,0,0,0,1
 "AWSIoTRuleActions","v1",False,"2015-10-08T15:14:51+00:00","AWSIoTRuleActions",0,6,0,0,0,0,7
 "AWSIoTRuleActions","v2",True,"2018-01-16T19:28:19+00:00","AWSIoTRuleActions",0,9,0,0,0,0,10
+"AWSPanoramaServiceLinkedRolePolicy","v1",True,"2021-10-20T12:12:50+00:00","AWSPanoramaServiceLinkedRolePolicy",0,0,0,0,0,0,0
 "AccessAnalyzerServiceRolePolicy","v1",False,"2019-12-02T17:13:10+00:00","AccessAnalyzerServiceRolePolicy",0,0,0,0,0,0,0
 "AccessAnalyzerServiceRolePolicy","v2",False,"2020-03-02T15:55:03+00:00","AccessAnalyzerServiceRolePolicy",0,0,0,0,0,0,0
 "AccessAnalyzerServiceRolePolicy","v5",False,"2020-11-24T20:58:37+00:00","AccessAnalyzerServiceRolePolicy",0,0,0,0,0,0,0
@@ -2196,6 +2198,7 @@
 "AWSConfigRemediationServiceRolePolicy","v1",True,"2019-06-18T21:21:35+00:00","AWSConfigRemediationServiceRolePolicy",0,2,0,1,0,0,2
 "AWSThinkboxDeadlineSpotEventPluginWorkerPolicy","v1",False,"2020-05-27T19:35:00+00:00","AWSThinkboxDeadlineSpotEventPluginWorkerPolicy",0,0,0,0,0,0,0
 "AWSThinkboxDeadlineSpotEventPluginWorkerPolicy","v2",True,"2020-12-07T23:31:31+00:00","AWSThinkboxDeadlineSpotEventPluginWorkerPolicy",0,0,0,0,0,0,0
+"AWSPanoramaApplianceServiceRolePolicy","v1",True,"2021-10-20T12:14:03+00:00","AWSPanoramaApplianceServiceRolePolicy",0,1,0,0,0,0,1
 "AmazonRDSFullAccess","v8",True,"2020-11-24T19:30:26+00:00","AmazonRDSFullAccess",2,4,0,4,0,0,88
 "AmazonRDSFullAccess","v1",False,"2015-02-06T18:40:52+00:00","AmazonRDSFullAccess",1,1,0,3,0,0,84
 "AmazonRDSFullAccess","v2",False,"2015-12-16T21:02:23+00:00","AmazonRDSFullAccess",1,1,0,3,0,0,84
