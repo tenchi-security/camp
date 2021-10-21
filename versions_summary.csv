@@ -2432,7 +2432,8 @@
 "AWSSSODirectoryAdministrator","v2",True,"2020-08-18T17:17:40+00:00","AWSSSODirectoryAdministrator",1,0,0,13,0,0,0
 "AmazonChimeSDK","v1",False,"2020-02-04T21:53:37+00:00","AmazonChimeSDK",0,1,0,0,0,0,4
 "AmazonChimeSDK","v2",False,"2020-04-08T21:18:31+00:00","AmazonChimeSDK",0,1,0,0,0,0,10
-"AmazonChimeSDK","v3",True,"2020-09-18T21:07:30+00:00","AmazonChimeSDK",0,1,0,0,0,0,10
+"AmazonChimeSDK","v4",True,"2021-10-21T18:04:27+00:00","AmazonChimeSDK",0,1,0,0,0,0,10
+"AmazonChimeSDK","v3",False,"2020-09-18T21:07:30+00:00","AmazonChimeSDK",0,1,0,0,0,0,10
 "AWSTransferFullAccess","v1",True,"2020-12-14T19:37:23+00:00","AWSTransferFullAccess",1,2,0,1,0,0,12
 "AWSForWordPressPluginPolicy","v1",False,"2019-10-30T00:27:46+00:00","AWSForWordPressPluginPolicy",0,3,0,0,0,0,9
 "AWSForWordPressPluginPolicy","v2",True,"2020-01-20T23:20:47+00:00","AWSForWordPressPluginPolicy",0,3,0,0,0,0,10
