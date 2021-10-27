@@ -2219,6 +2219,7 @@
 "AmazonElastiCacheFullAccess","v2",True,"2017-12-07T17:48:26+00:00","AmazonElastiCacheFullAccess",1,1,0,0,0,0,46
 "AmazonS3ReadOnlyAccess","v1",False,"2015-02-06T18:40:59+00:00","AmazonS3ReadOnlyAccess",0,1,0,0,1,0,1
 "AmazonS3ReadOnlyAccess","v2",True,"2021-09-27T20:24:58+00:00","AmazonS3ReadOnlyAccess",0,1,0,0,1,0,1
+"AWSMarketplacePurchaseOrdersServiceRolePolicy","v1",True,"2021-10-27T15:12:37+00:00","AWSMarketplacePurchaseOrdersServiceRolePolicy",0,0,0,0,0,0,0
 "AmazonRoute53RecoveryClusterFullAccess","v1",True,"2021-08-18T18:37:00+00:00","AmazonRoute53RecoveryClusterFullAccess",1,0,0,0,0,0,0
 "AWSSSODirectoryReadOnly","v1",False,"2018-10-31T23:49:32+00:00","AWSSSODirectoryReadOnly",0,0,0,0,0,0,0
 "AWSSSODirectoryReadOnly","v2",True,"2019-11-26T22:37:16+00:00","AWSSSODirectoryReadOnly",0,0,0,0,0,0,0
