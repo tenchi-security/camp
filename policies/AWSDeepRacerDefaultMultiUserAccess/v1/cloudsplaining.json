@@ -1,0 +1,28 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "deepracer"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "deepracer:AddLeaderboardAccessPermission",
+        "deepracer:CloneReinforcementLearningModel",
+        "deepracer:CreateLeaderboardAccessToken",
+        "deepracer:CreateLeaderboardSubmission",
+        "deepracer:CreateReinforcementLearningModel",
+        "deepracer:DeleteLeaderboard",
+        "deepracer:DeleteModel",
+        "deepracer:EditLeaderboard",
+        "deepracer:PerformLeaderboardOperation",
+        "deepracer:RemoveLeaderboardAccessPermission",
+        "deepracer:StartEvaluation",
+        "deepracer:StopEvaluation",
+        "deepracer:StopTrainingReinforcementLearningModel",
+        "deepracer:TagResource",
+        "deepracer:UntagResource",
+        "deepracer:UpdateCar"
+    ]
+}
