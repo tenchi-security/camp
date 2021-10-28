@@ -1028,7 +1028,8 @@
 "AWSServiceRoleForEC2ScheduledInstances","v1",True,"2017-10-12T18:31:55+00:00","AWSServiceRoleForEC2ScheduledInstances",0,1,0,0,0,0,1
 "AWSElementalMediaLiveReadOnly","v1",True,"2020-07-08T16:38:07+00:00","AWSElementalMediaLiveReadOnly",0,0,0,0,0,0,0
 "AWSPanoramaFullAccess","v1",False,"2020-12-01T13:12:47+00:00","AWSPanoramaFullAccess",1,1,0,0,0,0,14
-"AWSPanoramaFullAccess","v2",True,"2021-10-20T12:14:58+00:00","AWSPanoramaFullAccess",1,3,0,3,0,0,20
+"AWSPanoramaFullAccess","v2",False,"2021-10-20T12:14:58+00:00","AWSPanoramaFullAccess",1,3,0,3,0,0,20
+"AWSPanoramaFullAccess","v3",True,"2021-10-28T15:37:05+00:00","AWSPanoramaFullAccess",1,3,0,3,0,0,20
 "AmazonMechanicalTurkFullAccess","v1",True,"2015-12-11T19:08:19+00:00","AmazonMechanicalTurkFullAccess",1,0,0,0,0,0,0
 "AWSProtonFullAccess","v1",True,"2021-02-17T19:07:18+00:00","AWSProtonFullAccess",1,3,0,2,0,0,30
 "AWSApplicationMigrationReadOnlyAccess","v1",True,"2021-04-07T07:15:26+00:00","AWSApplicationMigrationReadOnlyAccess",0,0,0,0,0,0,0
