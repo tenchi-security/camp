@@ -1,5 +1,5 @@
-all:
-	camp/camp.py -l ./data
+update:
+	camp/camp.py
 
 venv: clean-venv
 	virtualenv --python=python3 venv

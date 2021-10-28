@@ -1,5 +1,5 @@
-cloudsplaining==0.4.1
-boto3-stubs[iam]==1.16.8.0
+cloudsplaining==0.4.6
+boto3-stubs[iam]==1.19.5
 jupyter
 pandas
 matplotlib
