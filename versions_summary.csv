@@ -1652,7 +1652,8 @@
 "AWSCloud9User","v3",False,"2018-07-02T08:46:37+00:00","AWSCloud9User",0,1,0,1,0,0,1
 "AWSOpsWorksRegisterCLI_EC2","v1",True,"2019-06-18T15:56:17+00:00","AWSOpsWorksRegisterCLI_EC2",0,1,0,0,0,0,4
 "Route53RecoveryReadinessServiceRolePolicy","v1",False,"2021-07-15T16:06:21+00:00","Route53RecoveryReadinessServiceRolePolicy",0,0,0,0,0,0,0
-"Route53RecoveryReadinessServiceRolePolicy","v2",True,"2021-10-06T18:52:33+00:00","Route53RecoveryReadinessServiceRolePolicy",0,0,0,0,0,0,0
+"Route53RecoveryReadinessServiceRolePolicy","v2",False,"2021-10-06T18:52:33+00:00","Route53RecoveryReadinessServiceRolePolicy",0,0,0,0,0,0,0
+"Route53RecoveryReadinessServiceRolePolicy","v3",True,"2021-10-29T07:09:46+00:00","Route53RecoveryReadinessServiceRolePolicy",0,0,0,0,0,0,0
 "AmazonEMRReadOnlyAccessPolicy_v2","v1",True,"2021-03-12T01:39:16+00:00","AmazonEMRReadOnlyAccessPolicy_v2",0,0,0,0,0,0,0
 "AmazonSQSReadOnlyAccess","v1",False,"2015-02-06T18:41:08+00:00","AmazonSQSReadOnlyAccess",0,0,0,0,0,0,0
 "AmazonSQSReadOnlyAccess","v2",True,"2018-08-20T23:35:49+00:00","AmazonSQSReadOnlyAccess",0,0,0,0,0,0,0
