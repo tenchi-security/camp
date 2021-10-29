@@ -143,12 +143,12 @@ def summarize(location: str) -> None:
 
 # read v1 of AdministratorAccess to ensure we have all the possible fields
 def get_field_names(location: str) -> List[str]:
-    fieldnames = ['PolicyName']
     with open(os.path.join(location, 'policies', 'AdministratorAccess', 'v1', 'metadata.json'), 'r') as f:
-        fieldnames.extend(json.load(f).keys())
+        fieldnames = list(json.load(f).keys())
     with open(os.path.join(location, 'policies', 'AdministratorAccess', 'v1', 'cloudsplaining.json'), 'r') as f:
-        cs = json.load(f)
-        fieldnames.extend(cs.keys())
+        fieldnames.extend(json.load(f).keys())
+    fieldnames.remove('PolicyName')
+    fieldnames.insert(0, 'PolicyName')
     return fieldnames
 
 
