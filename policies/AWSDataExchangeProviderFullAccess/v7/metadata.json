@@ -1,6 +1,6 @@
 {
     "VersionId": "v7",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2021-05-25T19:26:14+00:00",
     "PolicyName": "AWSDataExchangeProviderFullAccess"
 }
