@@ -788,6 +788,7 @@
 "AmazonCognitoReadOnly","v3",False,"2019-02-16T00:18:11+00:00",0,1,0,1,0,3,0
 "AmazonAppFlowReadOnlyAccess","v1",True,"2020-06-02T23:26:51+00:00",0,0,0,0,0,0,0
 "AmazonElasticContainerRegistryPublicPowerUser","v1",True,"2020-12-01T16:16:54+00:00",0,1,0,0,0,0,4
+"AWSCostAndUsageReportAutomationPolicy","v1",True,"2021-11-01T21:27:29+00:00",0,0,0,0,0,0,0
 "AWSSupportServiceRolePolicy","v8",False,"2019-12-16T19:39:42+00:00",0,2,0,0,0,1,5
 "AWSSupportServiceRolePolicy","v1",False,"2018-04-19T18:04:44+00:00",0,3,0,0,1,1,6
 "AWSSupportServiceRolePolicy","v17",False,"2021-09-16T21:02:10+00:00",0,2,0,0,0,0,5
