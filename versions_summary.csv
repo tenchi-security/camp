@@ -1741,7 +1741,8 @@
 "AWSThinkboxAWSPortalGatewayPolicy","v1",False,"2020-05-27T19:05:00+00:00",0,1,0,0,0,0,1
 "AWSThinkboxAWSPortalGatewayPolicy","v2",True,"2020-06-30T16:02:07+00:00",0,1,0,0,0,0,1
 "AmazonDevOpsGuruServiceRolePolicy","v1",False,"2020-12-01T10:24:42+00:00",0,0,0,0,0,0,0
-"AmazonDevOpsGuruServiceRolePolicy","v2",True,"2021-04-21T23:51:53+00:00",0,0,0,0,0,0,0
+"AmazonDevOpsGuruServiceRolePolicy","v2",False,"2021-04-21T23:51:53+00:00",0,0,0,0,0,0,0
+"AmazonDevOpsGuruServiceRolePolicy","v3",True,"2021-11-01T23:24:23+00:00",0,1,0,0,0,0,1
 "AWSElasticBeanstalkCustomPlatformforEC2Role","v1",True,"2017-02-21T22:50:30+00:00",0,1,0,1,0,1,21
 "AWSNetworkManagerServiceRolePolicy","v1",False,"2019-12-03T14:03:35+00:00",0,0,0,0,0,0,0
 "AWSNetworkManagerServiceRolePolicy","v2",False,"2019-12-10T20:41:38+00:00",0,0,0,0,0,0,0
