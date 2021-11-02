@@ -1,6 +1,6 @@
 {
     "VersionId": "v5",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2021-05-19T17:10:49+00:00",
     "PolicyName": "AWSGlobalAcceleratorSLRPolicy"
 }
