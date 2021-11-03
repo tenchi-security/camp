@@ -241,7 +241,8 @@
 "AmazonEC2RoleforSSM","v5",False,"2017-09-22T21:04:17+00:00",0,4,0,0,2,0,11
 "AmazonEC2RoleforSSM","v7",False,"2018-10-24T19:37:47+00:00",0,4,0,0,2,0,11
 "AmazonEventBridgeSchemasServiceRolePolicy","v1",True,"2019-11-27T01:10:40+00:00",0,0,0,0,0,0,0
-"AmazonRekognitionCustomLabelsFullAccess","v2",True,"2020-04-17T17:26:10+00:00",0,1,0,0,0,0,6
+"AmazonRekognitionCustomLabelsFullAccess","v3",True,"2021-11-03T02:53:05+00:00",0,1,0,0,0,0,8
+"AmazonRekognitionCustomLabelsFullAccess","v2",False,"2020-04-17T17:26:10+00:00",0,1,0,0,0,0,6
 "AmazonRekognitionCustomLabelsFullAccess","v1",False,"2020-01-08T19:18:34+00:00",0,1,0,0,0,0,4
 "CloudWatchAgentServerPolicy","v2",True,"2019-10-17T23:08:51+00:00",0,1,0,0,0,0,3
 "CloudWatchAgentServerPolicy","v1",False,"2018-03-07T01:06:44+00:00",0,1,0,0,0,0,3
@@ -2298,8 +2299,9 @@
 "AmazonRekognitionReadOnlyAccess","v3",False,"2020-01-08T20:02:40+00:00",0,0,0,0,0,0,0
 "AmazonRekognitionReadOnlyAccess","v2",False,"2017-12-06T23:28:39+00:00",0,0,0,0,0,0,0
 "AmazonRekognitionReadOnlyAccess","v1",False,"2016-11-30T14:58:06+00:00",0,0,0,0,0,0,0
-"AmazonRekognitionReadOnlyAccess","v6",True,"2020-10-15T22:07:44+00:00",0,0,0,0,0,0,0
+"AmazonRekognitionReadOnlyAccess","v6",False,"2020-10-15T22:07:44+00:00",0,0,0,0,0,0,0
 "AmazonRekognitionReadOnlyAccess","v5",False,"2020-07-06T20:21:19+00:00",0,0,0,0,0,0,0
+"AmazonRekognitionReadOnlyAccess","v7",True,"2021-11-03T02:53:36+00:00",0,0,0,0,0,0,0
 "AmazonSESReadOnlyAccess","v1",True,"2015-02-06T18:41:03+00:00",0,0,0,0,0,0,0
 "AWSIoTWirelessFullAccess","v1",True,"2020-12-15T15:27:57+00:00",1,1,0,0,0,0,25
 "AWSIoTWirelessGatewayCertManager","v1",True,"2020-12-15T15:30:48+00:00",0,0,0,0,0,0,0

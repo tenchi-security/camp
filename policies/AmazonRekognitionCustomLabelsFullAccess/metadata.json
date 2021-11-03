@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4OJEQDEQQQ",
     "Arn": "arn:aws:iam::aws:policy/AmazonRekognitionCustomLabelsFullAccess",
     "Path": "/",
-    "DefaultVersionId": "v2",
+    "DefaultVersionId": "v3",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2020-01-08T19:18:34+00:00",
-    "UpdateDate": "2020-04-17T17:26:10+00:00"
+    "UpdateDate": "2021-11-03T02:53:05+00:00"
 }
