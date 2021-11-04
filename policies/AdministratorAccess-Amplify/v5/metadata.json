@@ -1,6 +1,6 @@
 {
     "VersionId": "v5",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2021-10-13T20:03:40+00:00",
     "PolicyName": "AdministratorAccess-Amplify"
 }

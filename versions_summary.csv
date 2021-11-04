@@ -293,7 +293,8 @@
 "AdministratorAccess-Amplify","v3",False,"2021-07-26T22:49:07+00:00",3,16,3,40,1,1,199
 "AdministratorAccess-Amplify","v2",False,"2021-01-13T22:36:27+00:00",2,15,2,25,1,1,174
 "AdministratorAccess-Amplify","v1",False,"2020-12-01T19:03:08+00:00",0,12,0,22,1,0,99
-"AdministratorAccess-Amplify","v5",True,"2021-10-13T20:03:40+00:00",4,19,7,55,1,1,234
+"AdministratorAccess-Amplify","v6",True,"2021-11-04T17:51:32+00:00",4,19,7,51,1,1,236
+"AdministratorAccess-Amplify","v5",False,"2021-10-13T20:03:40+00:00",4,19,7,55,1,1,234
 "AWSCloud9EnvironmentMember","v2",True,"2020-07-29T06:29:08+00:00",0,0,0,0,0,0,0
 "AWSCloud9EnvironmentMember","v1",False,"2017-11-30T16:18:28+00:00",0,0,0,0,0,0,0
 "CloudWatchSyntheticsReadOnlyAccess","v2",True,"2020-03-06T19:26:01+00:00",0,0,0,0,0,0,0
@@ -506,7 +507,8 @@
 "AWSCloudTrailReadOnlyAccess","v6",False,"2016-12-14T20:41:52+00:00",0,1,0,0,1,0,1
 "AWSCloudTrailReadOnlyAccess","v5",False,"2016-02-16T18:47:53+00:00",0,1,0,0,1,0,1
 "AWSCloudTrailReadOnlyAccess","v7",False,"2017-12-11T19:51:37+00:00",0,1,0,0,1,0,1
-"CloudWatchApplicationInsightsFullAccess","v2",True,"2021-10-18T17:48:51+00:00",1,0,0,0,0,0,0
+"CloudWatchApplicationInsightsFullAccess","v3",True,"2021-11-04T17:13:25+00:00",1,0,0,0,0,0,0
+"CloudWatchApplicationInsightsFullAccess","v2",False,"2021-10-18T17:48:51+00:00",1,0,0,0,0,0,0
 "CloudWatchApplicationInsightsFullAccess","v1",False,"2020-11-24T18:44:14+00:00",1,0,0,0,0,0,0
 "AWSApplicationAutoscalingDynamoDBTablePolicy","v1",True,"2017-10-20T21:34:57+00:00",0,2,0,0,0,0,3
 "AWSResourceAccessManagerFullAccess","v1",True,"2019-06-04T17:28:22+00:00",1,1,0,8,0,0,11
