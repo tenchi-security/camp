@@ -6,6 +6,7 @@
 "AWSBackupServiceLinkedRolePolicyForBackup","v2",False,"2020-11-10T18:37:51+00:00",0,2,0,1,0,0,6
 "AWSBackupServiceLinkedRolePolicyForBackup","v1",False,"2020-06-02T23:08:40+00:00",0,0,0,0,0,0,0
 "AWSBackupServiceLinkedRolePolicyForBackup","v5",True,"2021-10-20T18:16:29+00:00",0,2,0,1,0,0,6
+"AmazonRedshiftAllCommandsFullAccess","v1",True,"2021-11-04T00:48:08+00:00",0,2,0,1,0,1,7
 "AWSGlueServiceNotebookRole","v3",True,"2019-10-07T18:05:54+00:00",0,1,1,0,0,0,19
 "AWSGlueServiceNotebookRole","v2",False,"2017-08-17T18:08:29+00:00",0,1,1,0,0,0,19
 "AWSGlueServiceNotebookRole","v1",False,"2017-08-14T13:37:42+00:00",0,1,1,0,0,0,19
