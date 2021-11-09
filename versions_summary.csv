@@ -2258,7 +2258,8 @@
 "AmazonMSKConnectReadOnlyAccess","v1",False,"2021-09-20T10:18:43+00:00",0,0,0,0,0,0,0
 "AWSLambdaKinesisExecutionRole","v2",True,"2018-11-19T20:09:24+00:00",0,1,0,0,0,0,3
 "AWSLambdaKinesisExecutionRole","v1",False,"2015-04-09T15:14:16+00:00",0,1,0,0,0,0,3
-"AmazonRoute53RecoveryReadinessReadOnlyAccess","v1",True,"2021-08-18T18:11:33+00:00",0,0,0,0,0,0,0
+"AmazonRoute53RecoveryReadinessReadOnlyAccess","v2",True,"2021-11-09T20:14:51+00:00",0,0,0,0,0,0,0
+"AmazonRoute53RecoveryReadinessReadOnlyAccess","v1",False,"2021-08-18T18:11:33+00:00",0,0,0,0,0,0,0
 "AmazonEC2ContainerRegistryFullAccess","v3",True,"2020-12-05T00:04:19+00:00",1,2,0,5,0,1,19
 "AmazonEC2ContainerRegistryFullAccess","v2",False,"2017-11-10T17:54:49+00:00",1,1,0,4,0,1,18
 "AmazonEC2ContainerRegistryFullAccess","v1",False,"2015-12-21T17:06:48+00:00",1,1,0,4,0,1,18
