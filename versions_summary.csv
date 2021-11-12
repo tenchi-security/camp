@@ -1755,13 +1755,14 @@
 "AWSSupportServiceRolePolicy","v8",False,"2019-12-16T19:39:42+00:00",0,2,0,0,0,1,5
 "AWSSupportServiceRolePolicy","v14",False,"2021-01-28T20:00:15+00:00",0,2,0,0,0,0,5
 "AWSSupportServiceRolePolicy","v10",False,"2020-04-29T18:42:38+00:00",0,2,0,0,0,0,5
+"AWSSupportServiceRolePolicy","v19",True,"2021-11-12T00:01:03+00:00",0,1,0,0,0,0,1
 "AWSSupportServiceRolePolicy","v2",False,"2018-08-06T20:57:29+00:00",0,3,0,0,1,1,6
 "AWSSupportServiceRolePolicy","v13",False,"2020-10-13T17:46:33+00:00",0,2,0,0,0,0,5
 "AWSSupportServiceRolePolicy","v1",False,"2018-04-19T18:04:44+00:00",0,3,0,0,1,1,6
 "AWSSupportServiceRolePolicy","v17",False,"2021-09-16T21:02:10+00:00",0,2,0,0,0,0,5
 "AWSSupportServiceRolePolicy","v6",False,"2019-09-09T20:15:28+00:00",0,3,0,0,1,1,6
 "AWSSupportServiceRolePolicy","v5",False,"2019-07-23T22:01:08+00:00",0,3,0,0,1,1,6
-"AWSSupportServiceRolePolicy","v18",True,"2021-10-06T19:23:26+00:00",0,1,0,0,0,0,1
+"AWSSupportServiceRolePolicy","v18",False,"2021-10-06T19:23:26+00:00",0,1,0,0,0,0,1
 "AWSSupportServiceRolePolicy","v12",False,"2020-08-26T19:01:32+00:00",0,2,0,0,0,0,5
 "AWSSupportServiceRolePolicy","v7",False,"2019-10-17T21:49:13+00:00",0,3,0,0,1,1,6
 "AmazonElasticFileSystemsUtils","v1",True,"2020-09-29T15:16:47+00:00",0,2,0,0,2,0,9
@@ -2154,9 +2155,10 @@
 "CloudwatchApplicationInsightsServiceLinkedRolePolicy","v2",False,"2019-04-24T17:25:29+00:00",0,1,0,0,0,0,2
 "CloudwatchApplicationInsightsServiceLinkedRolePolicy","v13",False,"2021-04-15T00:30:19+00:00",0,1,0,0,0,0,2
 "CloudwatchApplicationInsightsServiceLinkedRolePolicy","v1",False,"2018-12-01T16:22:12+00:00",0,1,0,0,0,0,2
-"CloudwatchApplicationInsightsServiceLinkedRolePolicy","v17",True,"2021-09-22T22:35:38+00:00",0,1,0,0,0,0,2
+"CloudwatchApplicationInsightsServiceLinkedRolePolicy","v17",False,"2021-09-22T22:35:38+00:00",0,1,0,0,0,0,2
 "CloudwatchApplicationInsightsServiceLinkedRolePolicy","v6",False,"2019-11-01T01:06:25+00:00",0,1,0,0,0,0,2
 "CloudwatchApplicationInsightsServiceLinkedRolePolicy","v5",False,"2019-06-24T18:54:53+00:00",0,1,0,0,0,0,2
+"CloudwatchApplicationInsightsServiceLinkedRolePolicy","v18",True,"2021-11-11T23:03:50+00:00",0,2,0,0,0,0,3
 "CloudwatchApplicationInsightsServiceLinkedRolePolicy","v12",False,"2021-01-19T20:27:15+00:00",0,1,0,0,0,0,2
 "CloudwatchApplicationInsightsServiceLinkedRolePolicy","v7",False,"2020-03-13T19:39:57+00:00",0,1,0,0,0,0,2
 "AWSBatchFullAccess","v4",False,"2018-06-12T17:46:09+00:00",1,1,0,0,0,0,11
@@ -2362,7 +2364,8 @@
 "AWSRoboMakerServicePolicy","v3",False,"2020-01-23T20:44:52+00:00",0,4,0,2,0,0,5
 "AWSRoboMakerServicePolicy","v2",False,"2019-04-04T22:15:35+00:00",0,3,0,2,0,0,4
 "AWSRoboMakerServicePolicy","v1",False,"2018-11-26T06:30:08+00:00",0,3,0,2,0,0,4
-"AWSRoboMakerServicePolicy","v5",True,"2020-08-04T20:38:08+00:00",0,4,0,2,0,0,5
+"AWSRoboMakerServicePolicy","v6",True,"2021-11-11T22:23:45+00:00",0,4,0,2,0,0,5
+"AWSRoboMakerServicePolicy","v5",False,"2020-08-04T20:38:08+00:00",0,4,0,2,0,0,5
 "AWSRoboMaker_FullAccess","v2",True,"2021-09-16T21:06:10+00:00",1,3,0,1,0,0,25
 "AWSRoboMaker_FullAccess","v1",False,"2020-09-10T18:34:18+00:00",1,3,0,1,0,0,25
 "AWSAppMeshReadOnly","v4",False,"2020-03-05T23:54:06+00:00",0,0,0,0,0,0,0
