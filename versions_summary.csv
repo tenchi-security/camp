@@ -2255,7 +2255,8 @@
 "AmazonFSxFullAccess","v2",False,"2021-06-08T12:05:31+00:00",1,2,0,2,0,0,13
 "AmazonFSxFullAccess","v1",False,"2018-11-28T16:34:43+00:00",1,2,0,2,0,0,13
 "AutoScalingNotificationAccessRole","v1",True,"2015-02-06T18:41:22+00:00",0,2,0,0,0,0,2
-"AmazonRedshiftServiceLinkedRolePolicy","v3",True,"2020-09-15T20:44:31+00:00",0,1,0,0,0,0,8
+"AmazonRedshiftServiceLinkedRolePolicy","v4",True,"2021-11-15T06:41:10+00:00",0,1,0,0,0,0,8
+"AmazonRedshiftServiceLinkedRolePolicy","v3",False,"2020-09-15T20:44:31+00:00",0,1,0,0,0,0,8
 "AmazonRedshiftServiceLinkedRolePolicy","v2",False,"2017-09-25T21:20:15+00:00",0,1,0,0,0,0,5
 "AmazonRedshiftServiceLinkedRolePolicy","v1",False,"2017-09-18T19:19:45+00:00",0,1,0,0,0,0,5
 "AmazonMSKConnectReadOnlyAccess","v2",True,"2021-10-18T09:16:26+00:00",0,0,0,0,0,0,0
