@@ -1803,7 +1803,8 @@
 "AWSElasticBeanstalkManagedUpdatesServiceRolePolicy","v2",False,"2020-05-01T21:54:12+00:00",1,3,0,1,0,0,32
 "AWSElasticBeanstalkManagedUpdatesServiceRolePolicy","v1",False,"2019-11-21T22:35:06+00:00",1,3,0,1,0,0,32
 "AWSElasticBeanstalkManagedUpdatesServiceRolePolicy","v5",True,"2020-12-11T18:21:32+00:00",1,3,0,1,0,0,32
-"AWSWAFConsoleFullAccess","v2",True,"2020-10-01T20:13:57+00:00",3,5,0,9,0,0,113
+"AWSWAFConsoleFullAccess","v3",True,"2021-11-15T19:33:52+00:00",3,5,0,9,0,0,113
+"AWSWAFConsoleFullAccess","v2",False,"2020-10-01T20:13:57+00:00",3,5,0,9,0,0,113
 "AWSWAFConsoleFullAccess","v1",False,"2020-04-06T18:38:38+00:00",3,5,0,9,0,0,113
 "AWSMarketplaceSellerFullAccess","v4",True,"2020-10-09T22:23:38+00:00",0,1,0,1,0,0,2
 "AWSMarketplaceSellerFullAccess","v3",False,"2020-05-28T21:07:22+00:00",0,1,0,1,0,0,2
@@ -2172,7 +2173,8 @@
 "AWSWAFFullAccess","v3",False,"2020-01-07T20:50:25+00:00",3,3,0,9,0,0,111
 "AWSWAFFullAccess","v2",False,"2016-12-07T21:33:25+00:00",2,2,0,4,0,0,88
 "AWSWAFFullAccess","v1",False,"2015-10-06T20:44:00+00:00",1,1,0,2,0,0,43
-"AWSWAFFullAccess","v5",True,"2020-10-01T20:13:54+00:00",3,4,0,9,0,0,112
+"AWSWAFFullAccess","v6",True,"2021-11-15T19:33:27+00:00",3,4,0,9,0,0,112
+"AWSWAFFullAccess","v5",False,"2020-10-01T20:13:54+00:00",3,4,0,9,0,0,112
 "AmazonElasticFileSystemFullAccess","v4",False,"2019-11-05T17:10:26+00:00",1,3,0,3,0,0,22
 "AmazonElasticFileSystemFullAccess","v3",False,"2017-08-14T10:18:34+00:00",1,2,0,2,0,0,21
 "AmazonElasticFileSystemFullAccess","v2",False,"2017-07-26T15:48:42+00:00",1,2,0,2,0,0,21
