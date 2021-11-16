@@ -1,0 +1,18 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "ecr",
+        "ssm"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [
+        "ecr:GetAuthorizationToken"
+    ],
+    "InfrastructureModification": [
+        "ssm:DeleteAssociation",
+        "ssm:StartAssociationsOnce",
+        "ssm:UpdateAssociation"
+    ]
+}
