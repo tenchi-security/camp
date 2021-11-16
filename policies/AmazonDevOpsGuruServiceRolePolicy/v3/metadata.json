@@ -1,6 +1,6 @@
 {
     "VersionId": "v3",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2021-11-01T23:24:23+00:00",
     "PolicyName": "AmazonDevOpsGuruServiceRolePolicy"
 }

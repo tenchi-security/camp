@@ -517,6 +517,7 @@
 "AmazonDMSRedshiftS3Role","v1",False,"2016-04-20T17:05:56+00:00",0,0,0,0,0,0,0
 "CloudHSMServiceRolePolicy","v1",True,"2017-11-06T19:12:46+00:00",0,0,0,0,0,0,0
 "AWSServiceRoleForMonitronPolicy","v1",True,"2020-12-02T19:06:08+00:00",0,0,0,1,0,0,0
+"AmazonDevOpsGuruOrganizationsAccess","v1",True,"2021-11-15T23:50:52+00:00",0,1,0,0,0,0,2
 "AWSSavingsPlansFullAccess","v1",True,"2019-11-06T22:45:18+00:00",1,1,0,0,0,0,3
 "AmazonElastiCacheFullAccess","v2",True,"2017-12-07T17:48:26+00:00",1,1,0,0,0,0,46
 "AmazonElastiCacheFullAccess","v1",False,"2015-02-06T18:40:20+00:00",1,1,0,0,0,0,46
@@ -2302,7 +2303,8 @@
 "AWSMediaTailorServiceRolePolicy","v1",True,"2021-09-17T22:27:10+00:00",0,0,0,0,0,0,0
 "AmazonChimeVoiceConnectorServiceLinkedRolePolicy","v1",True,"2019-09-30T22:16:42+00:00",0,0,0,0,0,0,0
 "AWSOpsWorks_FullAccess","v1",True,"2021-01-22T16:29:08+00:00",1,2,0,3,0,0,46
-"AmazonDevOpsGuruServiceRolePolicy","v3",True,"2021-11-01T23:24:23+00:00",0,1,0,0,0,0,1
+"AmazonDevOpsGuruServiceRolePolicy","v4",True,"2021-11-15T23:26:01+00:00",0,1,0,0,0,0,1
+"AmazonDevOpsGuruServiceRolePolicy","v3",False,"2021-11-01T23:24:23+00:00",0,1,0,0,0,0,1
 "AmazonDevOpsGuruServiceRolePolicy","v2",False,"2021-04-21T23:51:53+00:00",0,0,0,0,0,0,0
 "AmazonDevOpsGuruServiceRolePolicy","v1",False,"2020-12-01T10:24:42+00:00",0,0,0,0,0,0,0
 "AmazonEC2RoleforDataPipelineRole","v3",True,"2016-02-22T17:24:05+00:00",7,7,0,21,1,0,134
@@ -2477,7 +2479,8 @@
 "AWSCloudMapRegisterInstanceAccess","v1",False,"2018-11-29T00:04:57+00:00",0,2,0,0,0,0,5
 "AmazonKinesisVideoStreamsFullAccess","v1",True,"2017-12-01T23:27:18+00:00",1,1,0,0,0,0,15
 "AmazonEMRContainersServiceRolePolicy","v1",True,"2020-12-09T00:38:19+00:00",0,0,0,0,0,0,0
-"AWSIoTFleetHubFederationAccess","v3",True,"2021-05-24T14:12:59+00:00",0,1,0,0,0,0,5
+"AWSIoTFleetHubFederationAccess","v4",True,"2021-11-15T23:28:19+00:00",0,1,0,0,0,0,6
+"AWSIoTFleetHubFederationAccess","v3",False,"2021-05-24T14:12:59+00:00",0,1,0,0,0,0,5
 "AWSIoTFleetHubFederationAccess","v2",False,"2021-04-12T18:27:43+00:00",0,1,0,0,0,0,3
 "AWSIoTFleetHubFederationAccess","v1",False,"2020-12-15T08:08:05+00:00",0,1,0,0,0,0,3
 "WorkLinkServiceRolePolicy","v1",True,"2019-01-23T19:03:45+00:00",0,1,0,2,0,0,4
