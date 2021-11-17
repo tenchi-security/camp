@@ -146,6 +146,7 @@
 "AWSStepFunctionsConsoleFullAccess","v1",False,"2017-01-11T21:54:31+00:00",1,1,0,0,0,0,11
 "AmazonRedshiftQueryEditorV2FullAccess","v1",True,"2021-09-24T14:06:02+00:00",1,0,0,0,0,0,0
 "AWSLambdaDynamoDBExecutionRole","v1",True,"2015-04-09T15:09:29+00:00",0,1,0,0,0,0,3
+"AWSElasticDisasterRecoveryReplicationServerPolicy","v1",True,"2021-11-17T13:34:00+00:00",0,1,0,0,0,0,1
 "AWSQuicksightOpenSearchPolicy","v1",True,"2021-09-07T23:26:19+00:00",0,0,0,0,0,0,0
 "AWSCertificateManagerReadOnly","v2",False,"2016-04-21T15:08:16+00:00",0,0,0,0,0,0,0
 "AWSCertificateManagerReadOnly","v4",True,"2021-03-15T16:25:21+00:00",0,0,0,0,0,0,0
@@ -1031,6 +1032,7 @@
 "AWSBatchServiceRole","v3",False,"2017-03-30T23:26:31+00:00",0,5,0,1,0,0,24
 "AWSBatchServiceRole","v10",False,"2019-10-08T19:31:12+00:00",0,5,0,2,0,0,29
 "AWSBatchServiceRole","v7",False,"2018-10-11T02:26:11+00:00",0,5,0,2,0,0,27
+"AWSElasticDisasterRecoveryConversionServerPolicy","v1",True,"2021-11-17T13:42:23+00:00",0,0,0,0,0,0,0
 "AmazonLookoutVisionConsoleReadOnlyAccess","v1",True,"2021-05-11T19:32:02+00:00",0,0,0,0,0,0,0
 "IAMUserChangePassword","v2",True,"2016-11-15T23:18:55+00:00",0,0,0,0,0,0,0
 "IAMUserChangePassword","v1",False,"2016-11-15T00:25:16+00:00",0,0,0,0,0,0,0
