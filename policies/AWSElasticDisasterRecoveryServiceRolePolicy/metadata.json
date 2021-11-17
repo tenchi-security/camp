@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSElasticDisasterRecoveryServiceRolePolicy",
+    "PolicyId": "ANPAZKAPJZG4HALZVJBJX",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/AWSElasticDisasterRecoveryServiceRolePolicy",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2021-11-17T10:56:17+00:00",
+    "UpdateDate": "2021-11-17T10:56:17+00:00"
+}

@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSElasticDisasterRecoveryFailbackPolicy",
+    "PolicyId": "ANPAZKAPJZG4FSEIUN7KZ",
+    "Arn": "arn:aws:iam::aws:policy/service-role/AWSElasticDisasterRecoveryFailbackPolicy",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2021-11-17T10:41:40+00:00",
+    "UpdateDate": "2021-11-17T10:41:40+00:00"
+}

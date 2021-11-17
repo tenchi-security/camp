@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSElasticDisasterRecoveryConsoleFullAccess",
+    "PolicyId": "ANPAZKAPJZG4LCQTK3F7W",
+    "Arn": "arn:aws:iam::aws:policy/AWSElasticDisasterRecoveryConsoleFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2021-11-17T10:46:29+00:00",
+    "UpdateDate": "2021-11-17T10:46:29+00:00"
+}
