@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSShieldServiceRolePolicy",
+    "PolicyId": "ANPAZKAPJZG4LW6EWPBMS",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/AWSShieldServiceRolePolicy",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2021-11-17T19:17:46+00:00",
+    "UpdateDate": "2021-11-17T19:17:46+00:00"
+}

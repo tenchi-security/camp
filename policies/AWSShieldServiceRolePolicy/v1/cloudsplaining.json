@@ -1,0 +1,15 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "wafv2"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "wafv2:UpdateWebACL"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "wafv2:UpdateWebACL"
+    ]
+}

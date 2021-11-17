@@ -536,6 +536,7 @@
 "AWSApplicationMigrationEC2Access","v1",True,"2021-04-07T07:05:22+00:00",0,0,0,0,0,0,0
 "AWSAppSyncServiceRolePolicy","v1",True,"2020-01-21T19:56:53+00:00",0,0,0,0,0,0,0
 "AWSIoTDeviceDefenderPublishFindingsToSNSMitigationAction","v1",True,"2019-08-07T17:04:37+00:00",0,1,0,0,0,0,1
+"AWSShieldServiceRolePolicy","v1",True,"2021-11-17T19:17:46+00:00",0,1,0,1,0,0,1
 "MediaPackageServiceRolePolicy","v1",True,"2020-09-18T17:45:47+00:00",0,0,0,0,0,0,0
 "ServerMigrationServiceRoleForInstanceValidation","v1",True,"2020-07-20T22:25:07+00:00",0,0,0,0,0,0,0
 "AWSIoTDeviceDefenderUpdateCACertMitigationAction","v1",True,"2019-08-07T17:05:49+00:00",0,1,0,0,0,0,1
