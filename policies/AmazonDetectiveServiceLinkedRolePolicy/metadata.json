@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonDetectiveServiceLinkedRolePolicy",
+    "PolicyId": "ANPAZKAPJZG4G5GQKDXB6",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/AmazonDetectiveServiceLinkedRolePolicy",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2021-11-18T19:47:32+00:00",
+    "UpdateDate": "2021-11-18T19:47:32+00:00"
+}

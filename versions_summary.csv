@@ -400,6 +400,7 @@
 "AWSCloudTrailReadOnlyAccess","v7",False,"2017-12-11T19:51:37+00:00",0,1,0,0,1,0,1
 "AmazonHoneycodeServiceRolePolicy","v1",True,"2020-11-18T18:03:08+00:00",0,0,0,0,0,0,0
 "AmazonChimeVoiceConnectorServiceLinkedRolePolicy","v1",True,"2019-09-30T22:16:42+00:00",0,0,0,0,0,0,0
+"AmazonDetectiveServiceLinkedRolePolicy","v1",True,"2021-11-18T19:47:32+00:00",0,0,0,0,0,0,0
 "AWSResourceGroupsReadOnlyAccess","v2",True,"2019-02-05T17:56:25+00:00",0,0,0,0,0,0,0
 "AWSResourceGroupsReadOnlyAccess","v1",False,"2018-03-07T10:27:04+00:00",0,0,0,0,0,0,0
 "DynamoDBCloudWatchContributorInsightsServiceRolePolicy","v1",True,"2019-11-15T21:13:58+00:00",0,0,0,0,0,0,0
@@ -688,7 +689,8 @@
 "AmazonEC2RoleforAWSCodeDeploy","v1",False,"2015-05-19T18:10:14+00:00",0,1,0,0,1,0,1
 "MemoryDBServiceRolePolicy","v2",True,"2021-08-18T23:48:16+00:00",0,0,0,0,0,0,0
 "MemoryDBServiceRolePolicy","v1",False,"2021-08-17T22:34:59+00:00",0,0,0,0,0,0,0
-"AWSGlueDataBrewServiceRole","v1",True,"2020-12-04T21:26:50+00:00",0,1,0,0,0,0,2
+"AWSGlueDataBrewServiceRole","v2",True,"2021-11-18T19:44:16+00:00",0,1,0,0,0,0,2
+"AWSGlueDataBrewServiceRole","v1",False,"2020-12-04T21:26:50+00:00",0,1,0,0,0,0,2
 "AWSBackupOperatorAccess","v6",False,"2020-11-09T16:43:44+00:00",0,1,0,0,0,0,5
 "AWSBackupOperatorAccess","v2",False,"2020-01-13T16:15:02+00:00",0,1,0,0,0,0,5
 "AWSBackupOperatorAccess","v5",False,"2020-09-14T22:35:03+00:00",0,1,0,0,0,0,5
@@ -1111,12 +1113,13 @@
 "AmazonEventBridgeFullAccess","v2",True,"2021-03-04T18:56:38+00:00",1,1,0,2,0,0,27
 "AmazonEventBridgeFullAccess","v1",False,"2019-07-11T14:08:55+00:00",1,1,0,2,0,0,27
 "ElementalActivationsReadOnlyAccess","v1",True,"2020-08-28T16:51:01+00:00",0,0,0,0,0,0,0
-"AwsGlueDataBrewFullAccessPolicy","v6",True,"2021-06-30T18:23:37+00:00",1,3,0,0,0,0,22
+"AwsGlueDataBrewFullAccessPolicy","v6",False,"2021-06-30T18:23:37+00:00",1,3,0,0,0,0,22
 "AwsGlueDataBrewFullAccessPolicy","v2",False,"2020-11-12T23:04:55+00:00",1,3,0,0,0,0,22
 "AwsGlueDataBrewFullAccessPolicy","v5",False,"2021-06-30T16:50:53+00:00",1,3,0,0,0,0,22
 "AwsGlueDataBrewFullAccessPolicy","v4",False,"2021-04-28T15:54:32+00:00",1,3,0,0,0,0,22
 "AwsGlueDataBrewFullAccessPolicy","v1",False,"2020-11-11T16:51:39+00:00",1,3,0,0,0,0,22
 "AwsGlueDataBrewFullAccessPolicy","v3",False,"2021-03-30T17:03:07+00:00",1,3,0,0,0,0,22
+"AwsGlueDataBrewFullAccessPolicy","v7",True,"2021-11-18T19:37:52+00:00",1,3,0,0,0,0,22
 "AWSSystemsManagerOpsDataSyncServiceRolePolicy","v1",True,"2021-04-26T20:42:39+00:00",0,1,0,0,0,0,1
 "AmazonElasticFileSystemsUtils","v1",True,"2020-09-29T15:16:47+00:00",0,2,0,0,2,0,9
 "AWSCodeCommitReadOnly","v6",False,"2019-11-20T17:12:40+00:00",0,0,0,0,0,0,0
@@ -1335,10 +1338,11 @@
 "AmazonQLDBConsoleFullAccess","v1",False,"2019-09-05T18:24:20+00:00",1,1,0,0,0,0,10
 "AmazonQLDBConsoleFullAccess","v3",False,"2021-05-27T17:22:17+00:00",1,1,0,0,0,0,12
 "AWSIoTWirelessLogging","v1",True,"2020-12-15T15:32:40+00:00",0,0,0,0,0,0,0
+"FMSServiceRolePolicy","v21",True,"2021-11-18T19:05:49+00:00",0,6,0,2,0,0,27
 "FMSServiceRolePolicy","v6",False,"2019-02-18T19:12:31+00:00",0,2,0,0,0,0,3
 "FMSServiceRolePolicy","v11",False,"2020-04-06T18:55:16+00:00",0,3,0,0,0,0,5
 "FMSServiceRolePolicy","v2",False,"2018-04-02T19:16:15+00:00",0,2,0,0,0,0,4
-"FMSServiceRolePolicy","v20",True,"2021-09-30T17:12:33+00:00",0,6,0,3,0,0,27
+"FMSServiceRolePolicy","v20",False,"2021-09-30T17:12:33+00:00",0,6,0,3,0,0,27
 "FMSServiceRolePolicy","v12",False,"2020-05-12T21:02:44+00:00",0,3,0,0,0,0,5
 "FMSServiceRolePolicy","v5",False,"2019-01-21T21:12:11+00:00",0,1,0,0,0,0,1
 "FMSServiceRolePolicy","v9",False,"2020-03-09T22:10:00+00:00",0,3,0,0,0,0,5

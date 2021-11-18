@@ -1,0 +1,47 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "cloudfront",
+        "ec2",
+        "iam",
+        "network-firewall",
+        "route53resolver",
+        "shield"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:CreateServiceLinkedRole",
+        "route53resolver:PutFirewallRuleGroupPolicy"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "cloudfront:UpdateDistribution",
+        "ec2:AssociateRouteTable",
+        "ec2:CreateRouteTable",
+        "ec2:CreateSecurityGroup",
+        "ec2:CreateSubnet",
+        "ec2:DeleteSubnet",
+        "ec2:DisassociateRouteTable",
+        "ec2:ModifyNetworkInterfaceAttribute",
+        "ec2:ReplaceRouteTableAssociation",
+        "iam:CreateServiceLinkedRole",
+        "network-firewall:AssociateFirewallPolicy",
+        "network-firewall:AssociateSubnets",
+        "network-firewall:CreateFirewall",
+        "network-firewall:CreateFirewallPolicy",
+        "network-firewall:DeleteFirewall",
+        "network-firewall:DeleteFirewallPolicy",
+        "network-firewall:DeleteResourcePolicy",
+        "network-firewall:DisassociateSubnets",
+        "network-firewall:PutResourcePolicy",
+        "network-firewall:TagResource",
+        "network-firewall:UpdateFirewallDeleteProtection",
+        "network-firewall:UpdateFirewallPolicy",
+        "network-firewall:UpdateFirewallPolicyChangeProtection",
+        "network-firewall:UpdateLoggingConfiguration",
+        "network-firewall:UpdateSubnetChangeProtection",
+        "route53resolver:PutFirewallRuleGroupPolicy",
+        "shield:DeleteProtection"
+    ]
+}
