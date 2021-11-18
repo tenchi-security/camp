@@ -1,0 +1,22 @@
+{
+    "ServiceWildcard": [
+        "kafka"
+    ],
+    "ServicesAffected": [
+        "firehose",
+        "kafka",
+        "kms"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "kms:CreateGrant"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "firehose:TagDeliveryStream",
+        "kafka:TagResource",
+        "kafka:UntagResource",
+        "kms:CreateGrant"
+    ]
+}
