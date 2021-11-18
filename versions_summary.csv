@@ -1618,8 +1618,9 @@
 "AdministratorAccess-AWSElasticBeanstalk","v2",True,"2021-03-09T22:36:27+00:00",3,3,0,0,0,0,45
 "AdministratorAccess-AWSElasticBeanstalk","v1",False,"2021-01-22T19:36:54+00:00",3,3,0,0,0,0,45
 "AWSLicenseManagerMasterAccountRolePolicy","v2",False,"2019-08-22T20:05:35+00:00",0,2,0,5,0,0,6
+"AWSLicenseManagerMasterAccountRolePolicy","v4",True,"2021-11-18T02:02:15+00:00",0,2,0,4,0,0,6
 "AWSLicenseManagerMasterAccountRolePolicy","v1",False,"2018-11-26T19:03:51+00:00",0,2,0,5,0,0,6
-"AWSLicenseManagerMasterAccountRolePolicy","v3",True,"2019-08-29T22:56:41+00:00",0,2,0,5,0,0,6
+"AWSLicenseManagerMasterAccountRolePolicy","v3",False,"2019-08-29T22:56:41+00:00",0,2,0,5,0,0,6
 "AdministratorAccess-Amplify","v6",True,"2021-11-04T17:51:32+00:00",4,19,7,51,1,1,236
 "AdministratorAccess-Amplify","v2",False,"2021-01-13T22:36:27+00:00",2,15,2,25,1,1,174
 "AdministratorAccess-Amplify","v5",False,"2021-10-13T20:03:40+00:00",4,19,7,55,1,1,234
