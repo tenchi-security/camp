@@ -944,6 +944,7 @@
 "AmazonRedshiftDataFullAccess","v2",True,"2021-07-27T20:05:33+00:00",0,1,0,0,0,0,1
 "AmazonRedshiftDataFullAccess","v1",False,"2020-09-09T19:23:55+00:00",0,1,0,0,0,0,1
 "AWSApplicationAutoScalingCustomResourcePolicy","v1",True,"2018-06-04T23:22:44+00:00",0,2,0,0,0,0,3
+"AmazonGrafanaAthenaAccess","v1",True,"2021-11-22T17:11:11+00:00",0,1,0,0,0,0,2
 "KafkaServiceRolePolicy","v2",False,"2019-05-23T19:58:58+00:00",0,1,0,1,0,0,5
 "KafkaServiceRolePolicy","v1",False,"2018-11-15T23:31:48+00:00",0,1,0,1,0,0,5
 "KafkaServiceRolePolicy","v3",True,"2020-08-26T20:40:53+00:00",0,2,0,3,0,0,7
