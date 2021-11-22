@@ -940,7 +940,8 @@
 "AmazonRedshiftQueryEditor","v4",True,"2021-02-16T19:33:45+00:00",0,1,0,0,0,1,1
 "AmazonRedshiftQueryEditor","v1",False,"2018-10-04T22:50:32+00:00",0,1,0,0,0,1,1
 "AmazonRedshiftQueryEditor","v3",False,"2020-09-11T01:07:22+00:00",0,1,0,0,0,1,1
-"AWSAuditManagerServiceRolePolicy","v1",True,"2020-12-08T15:12:12+00:00",0,1,0,0,0,0,1
+"AWSAuditManagerServiceRolePolicy","v2",True,"2021-11-22T19:36:39+00:00",0,1,0,0,0,0,1
+"AWSAuditManagerServiceRolePolicy","v1",False,"2020-12-08T15:12:12+00:00",0,1,0,0,0,0,1
 "AmazonRedshiftDataFullAccess","v2",True,"2021-07-27T20:05:33+00:00",0,1,0,0,0,0,1
 "AmazonRedshiftDataFullAccess","v1",False,"2020-09-09T19:23:55+00:00",0,1,0,0,0,0,1
 "AWSApplicationAutoScalingCustomResourcePolicy","v1",True,"2018-06-04T23:22:44+00:00",0,2,0,0,0,0,3
