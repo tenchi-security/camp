@@ -99,7 +99,8 @@
 "AmazonEC2ContainerRegistryFullAccess","v1",False,"2015-12-21T17:06:48+00:00",1,1,0,4,0,1,18
 "AmazonEC2ContainerRegistryFullAccess","v3",True,"2020-12-05T00:04:19+00:00",1,2,0,5,0,1,19
 "AmazonRedshiftServiceLinkedRolePolicy","v2",False,"2017-09-25T21:20:15+00:00",0,1,0,0,0,0,5
-"AmazonRedshiftServiceLinkedRolePolicy","v4",True,"2021-11-15T06:41:10+00:00",0,1,0,0,0,0,8
+"AmazonRedshiftServiceLinkedRolePolicy","v5",True,"2021-11-22T21:08:22+00:00",0,1,0,0,0,0,8
+"AmazonRedshiftServiceLinkedRolePolicy","v4",False,"2021-11-15T06:41:10+00:00",0,1,0,0,0,0,8
 "AmazonRedshiftServiceLinkedRolePolicy","v1",False,"2017-09-18T19:19:45+00:00",0,1,0,0,0,0,5
 "AmazonRedshiftServiceLinkedRolePolicy","v3",False,"2020-09-15T20:44:31+00:00",0,1,0,0,0,0,8
 "AmazonBraketServiceRolePolicy","v2",True,"2020-08-06T20:10:42+00:00",0,0,0,0,0,0,0
@@ -2409,7 +2410,8 @@
 "AWSSecurityHubReadOnlyAccess","v1",False,"2018-11-28T01:34:29+00:00",0,0,0,0,0,0,0
 "AmazonEC2ContainerServiceEventsRole","v2",True,"2018-05-22T19:13:11+00:00",0,2,0,1,0,0,2
 "AmazonEC2ContainerServiceEventsRole","v1",False,"2017-05-30T16:51:35+00:00",0,1,0,0,0,0,1
-"AWSPurchaseOrdersServiceRolePolicy","v1",True,"2020-05-06T18:15:47+00:00",0,0,0,0,0,0,0
+"AWSPurchaseOrdersServiceRolePolicy","v2",True,"2021-11-22T20:06:47+00:00",0,0,0,0,0,0,0
+"AWSPurchaseOrdersServiceRolePolicy","v1",False,"2020-05-06T18:15:47+00:00",0,0,0,0,0,0,0
 "AWSCloud9User","v2",False,"2018-04-26T21:16:21+00:00",0,1,0,1,0,0,1
 "AWSCloud9User","v4",True,"2020-07-29T06:26:43+00:00",0,1,0,1,0,0,1
 "AWSCloud9User","v1",False,"2017-11-30T16:16:17+00:00",0,2,0,1,0,0,2
