@@ -1,0 +1,24 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "proton"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "proton:CreateEnvironmentTemplate",
+        "proton:CreateEnvironmentTemplateMajorVersion",
+        "proton:CreateEnvironmentTemplateVersion",
+        "proton:CreateServiceTemplate",
+        "proton:CreateServiceTemplateMajorVersion",
+        "proton:CreateServiceTemplateVersion",
+        "proton:DeleteEnvironmentTemplateVersion",
+        "proton:DeleteServiceTemplateVersion",
+        "proton:UpdateEnvironmentTemplate",
+        "proton:UpdateEnvironmentTemplateVersion",
+        "proton:UpdateServiceTemplate",
+        "proton:UpdateServiceTemplateVersion"
+    ]
+}

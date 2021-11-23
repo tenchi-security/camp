@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4LL52EIPJX",
     "Arn": "arn:aws:iam::aws:policy/AWSBackupFullAccess",
     "Path": "/",
-    "DefaultVersionId": "v8",
+    "DefaultVersionId": "v9",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2019-11-18T22:21:52+00:00",
-    "UpdateDate": "2021-07-05T23:28:54+00:00"
+    "UpdateDate": "2021-11-23T22:00:22+00:00"
 }

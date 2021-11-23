@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSProtonSyncServiceRolePolicy",
+    "PolicyId": "ANPAZKAPJZG4H6XP2ZY2O",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/AWSProtonSyncServiceRolePolicy",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2021-11-23T21:14:36+00:00",
+    "UpdateDate": "2021-11-23T21:14:36+00:00"
+}

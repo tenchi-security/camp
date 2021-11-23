@@ -1,0 +1,30 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "ec2",
+        "kms",
+        "rds"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "ec2:ModifySnapshotAttribute",
+        "kms:CreateGrant"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "ec2:CopyImage",
+        "ec2:CreateImage",
+        "ec2:DeregisterImage",
+        "ec2:ModifyImageAttribute",
+        "ec2:ModifySnapshotAttribute",
+        "kms:CreateGrant",
+        "kms:Decrypt",
+        "kms:GenerateDataKey",
+        "rds:AddTagsToResource",
+        "rds:CopyDBClusterSnapshot",
+        "rds:CopyDBSnapshot",
+        "rds:CreateDBClusterSnapshot",
+        "rds:CreateDBSnapshot"
+    ]
+}
