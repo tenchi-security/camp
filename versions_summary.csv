@@ -1476,6 +1476,7 @@
 "AWSMigrationHubDMSAccess","v1",False,"2017-08-14T14:00:06+00:00",0,0,0,0,0,0,0
 "AWSPanoramaGreengrassGroupRolePolicy","v2",True,"2021-01-06T19:30:35+00:00",1,1,0,0,0,0,14
 "AWSPanoramaGreengrassGroupRolePolicy","v1",False,"2020-12-01T13:10:22+00:00",1,1,0,0,0,0,14
+"AWSElementalMediaTailorReadOnly","v1",True,"2021-11-23T00:05:01+00:00",0,0,0,0,0,0,0
 "AmazonRDSPreviewServiceRolePolicy","v2",False,"2020-07-29T00:05:20+00:00",0,2,0,0,0,0,8
 "AmazonRDSPreviewServiceRolePolicy","v4",True,"2020-11-19T19:54:51+00:00",0,2,0,0,0,0,12
 "AmazonRDSPreviewServiceRolePolicy","v1",False,"2018-05-31T18:02:00+00:00",0,2,0,0,0,0,8
@@ -1773,6 +1774,7 @@
 "AWSDeepLensServiceRolePolicy","v4",False,"2018-05-29T22:09:22+00:00",1,4,0,2,0,0,10
 "AWSDeepLensServiceRolePolicy","v1",False,"2017-11-29T15:46:36+00:00",1,4,0,2,0,0,10
 "AWSDeepLensServiceRolePolicy","v3",False,"2018-05-11T21:00:16+00:00",1,4,0,2,0,0,10
+"AWSElementalMediaTailorFullAccess","v1",True,"2021-11-23T00:04:39+00:00",1,1,0,2,0,0,14
 "ElastiCacheServiceRolePolicy","v2",False,"2019-09-25T23:09:07+00:00",0,1,0,0,0,0,7
 "ElastiCacheServiceRolePolicy","v1",False,"2017-12-07T17:50:04+00:00",0,1,0,0,0,0,7
 "ElastiCacheServiceRolePolicy","v3",True,"2020-02-06T21:27:13+00:00",0,1,0,0,0,0,7

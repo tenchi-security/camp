@@ -1,0 +1,31 @@
+{
+    "ServiceWildcard": [
+        "mediatailor"
+    ],
+    "ServicesAffected": [
+        "mediatailor"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "mediatailor:DeleteChannelPolicy",
+        "mediatailor:PutChannelPolicy"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "mediatailor:CreateProgram",
+        "mediatailor:CreateVodSource",
+        "mediatailor:DeleteChannel",
+        "mediatailor:DeleteChannelPolicy",
+        "mediatailor:DeletePlaybackConfiguration",
+        "mediatailor:DeleteProgram",
+        "mediatailor:DeleteSourceLocation",
+        "mediatailor:DeleteVodSource",
+        "mediatailor:PutChannelPolicy",
+        "mediatailor:StartChannel",
+        "mediatailor:StopChannel",
+        "mediatailor:UpdateChannel",
+        "mediatailor:UpdateSourceLocation",
+        "mediatailor:UpdateVodSource"
+    ]
+}
