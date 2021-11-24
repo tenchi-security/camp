@@ -1071,7 +1071,8 @@
 "AWSMarketplaceSellerProductsFullAccess","v3",True,"2020-10-09T22:22:38+00:00",0,1,0,1,0,0,2
 "AWSIoTWirelessGatewayCertManager","v1",True,"2020-12-15T15:30:48+00:00",0,0,0,0,0,0,0
 "AmazonDevOpsGuruServiceRolePolicy","v2",False,"2021-04-21T23:51:53+00:00",0,0,0,0,0,0,0
-"AmazonDevOpsGuruServiceRolePolicy","v4",True,"2021-11-15T23:26:01+00:00",0,1,0,0,0,0,1
+"AmazonDevOpsGuruServiceRolePolicy","v5",True,"2021-11-24T01:23:43+00:00",0,1,0,0,0,0,1
+"AmazonDevOpsGuruServiceRolePolicy","v4",False,"2021-11-15T23:26:01+00:00",0,1,0,0,0,0,1
 "AmazonDevOpsGuruServiceRolePolicy","v1",False,"2020-12-01T10:24:42+00:00",0,0,0,0,0,0,0
 "AmazonDevOpsGuruServiceRolePolicy","v3",False,"2021-11-01T23:24:23+00:00",0,1,0,0,0,0,1
 "AmazonMachineLearningRoleforRedshiftDataSourceV3","v1",True,"2020-06-24T18:00:09+00:00",0,2,0,0,0,0,7
