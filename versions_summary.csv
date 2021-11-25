@@ -673,7 +673,8 @@
 "AmazonCodeGuruProfilerFullAccess","v3",False,"2020-06-28T00:04:51+00:00",2,1,0,2,0,0,11
 "AWSCertificateManagerPrivateCAPrivilegedUser","v1",True,"2019-06-20T17:43:13+00:00",0,0,0,0,0,0,0
 "AmazonKinesisAnalyticsFullAccess","v1",True,"2016-09-21T19:01:14+00:00",1,2,0,0,0,0,23
-"AmazonRedshiftAllCommandsFullAccess","v1",True,"2021-11-04T00:48:08+00:00",0,2,0,1,0,1,7
+"AmazonRedshiftAllCommandsFullAccess","v2",True,"2021-11-25T02:27:31+00:00",0,2,0,0,0,1,1
+"AmazonRedshiftAllCommandsFullAccess","v1",False,"2021-11-04T00:48:08+00:00",0,2,0,1,0,1,7
 "MigrationHubSMSAccessServiceRolePolicy","v2",True,"2019-10-07T18:02:22+00:00",0,0,0,0,0,0,0
 "MigrationHubSMSAccessServiceRolePolicy","v1",False,"2019-06-12T18:30:28+00:00",0,0,0,0,0,0,0
 "AppRunnerServiceRolePolicy","v1",True,"2021-05-14T19:15:04+00:00",0,0,0,0,0,0,0

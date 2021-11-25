@@ -1,6 +1,6 @@
 {
     "VersionId": "v1",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2021-11-04T00:48:08+00:00",
     "PolicyName": "AmazonRedshiftAllCommandsFullAccess"
 }
