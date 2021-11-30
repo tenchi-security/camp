@@ -849,6 +849,7 @@
 "AWSIoTAnalyticsFullAccess","v1",True,"2018-06-18T23:02:45+00:00",1,1,0,0,0,0,19
 "AWSThinkboxDeadlineSpotEventPluginWorkerPolicy","v2",True,"2020-12-07T23:31:31+00:00",0,0,0,0,0,0,0
 "AWSThinkboxDeadlineSpotEventPluginWorkerPolicy","v1",False,"2020-05-27T19:35:00+00:00",0,0,0,0,0,0,0
+"AmazonWorkSpacesWebServiceRolePolicy","v1",True,"2021-11-30T13:15:53+00:00",0,1,0,0,0,0,4
 "ServerMigrationServiceConsoleFullAccess","v2",True,"2020-07-20T22:00:37+00:00",1,1,0,1,0,0,1
 "ServerMigrationServiceConsoleFullAccess","v1",False,"2020-05-09T17:18:57+00:00",1,1,0,1,0,0,1
 "AmazonKeyspacesFullAccess","v2",True,"2021-06-01T19:31:39+00:00",1,2,0,0,0,0,8
