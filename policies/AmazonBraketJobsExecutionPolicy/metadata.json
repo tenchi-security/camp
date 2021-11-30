@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonBraketJobsExecutionPolicy",
+    "PolicyId": "ANPAZKAPJZG4CBFQZHJ3B",
+    "Arn": "arn:aws:iam::aws:policy/AmazonBraketJobsExecutionPolicy",
+    "Path": "/",
+    "DefaultVersionId": "v2",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2021-11-26T19:34:41+00:00",
+    "UpdateDate": "2021-11-28T05:34:55+00:00"
+}

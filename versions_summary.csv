@@ -160,9 +160,13 @@
 "AWSAppMeshFullAccess","v4",False,"2019-10-03T22:28:34+00:00",1,1,0,0,0,0,23
 "AWSAppMeshFullAccess","v1",False,"2019-04-16T17:50:40+00:00",1,1,0,0,0,0,23
 "AWSAppMeshFullAccess","v3",False,"2019-07-18T21:18:35+00:00",1,1,0,0,0,0,23
-"AmazonTimestreamFullAccess","v1",True,"2020-09-30T21:47:14+00:00",1,2,0,1,0,0,10
+"AWSMigrationHubRefactorSpacesFullAccess","v2",True,"2021-11-29T14:07:52+00:00",1,4,0,2,0,0,21
+"AWSMigrationHubRefactorSpacesFullAccess","v1",False,"2021-11-29T07:12:55+00:00",1,4,0,1,0,0,21
+"AmazonTimestreamFullAccess","v2",True,"2021-11-26T23:42:00+00:00",1,2,0,1,0,0,10
+"AmazonTimestreamFullAccess","v1",False,"2020-09-30T21:47:14+00:00",1,2,0,1,0,0,10
 "AWSApplicationAutoscalingAppStreamFleetPolicy","v1",True,"2017-10-20T19:04:06+00:00",0,2,0,0,0,0,3
 "CloudTrailServiceRolePolicy","v1",True,"2018-10-24T21:21:44+00:00",1,1,0,0,0,0,9
+"AmazonGrafanaRedshiftAccess","v1",True,"2021-11-26T23:15:15+00:00",0,2,0,0,0,0,2
 "AmazonEKSServiceRolePolicy","v2",True,"2020-05-27T19:30:19+00:00",0,1,0,1,0,0,6
 "AmazonEKSServiceRolePolicy","v1",False,"2020-02-21T20:10:47+00:00",0,1,0,1,0,0,5
 "AWSApplicationAutoscalingComprehendEndpointPolicy","v1",True,"2019-11-14T18:39:07+00:00",0,2,0,0,0,0,3
@@ -179,7 +183,8 @@
 "AmazonEC2ContainerRegistryReadOnly","v3",True,"2019-12-10T20:56:32+00:00",0,1,0,0,0,1,0
 "AmazonElasticFileSystemClientFullAccess","v1",True,"2020-01-13T16:27:00+00:00",0,1,0,0,0,0,2
 "AmazonEKSWorkerNodePolicy","v1",True,"2018-05-27T21:09:01+00:00",0,0,0,0,0,0,0
-"AmazonTimestreamReadOnlyAccess","v1",True,"2020-09-30T21:47:08+00:00",0,0,0,0,0,0,0
+"AmazonTimestreamReadOnlyAccess","v2",True,"2021-11-26T23:39:30+00:00",0,0,0,0,0,0,0
+"AmazonTimestreamReadOnlyAccess","v1",False,"2020-09-30T21:47:08+00:00",0,0,0,0,0,0,0
 "AlexaForBusinessNetworkProfileServicePolicy","v2",True,"2019-04-05T21:57:56+00:00",0,1,0,0,0,0,2
 "AlexaForBusinessNetworkProfileServicePolicy","v1",False,"2019-03-13T00:53:40+00:00",0,1,0,0,0,0,2
 "AmazonHoneycodeTeamAssociationFullAccess","v1",True,"2020-06-24T20:28:27+00:00",0,0,0,0,0,0,0
@@ -445,6 +450,7 @@
 "AWSEC2SpotServiceRolePolicy","v4",True,"2018-12-12T00:13:51+00:00",0,2,0,1,0,0,5
 "AWSEC2SpotServiceRolePolicy","v1",False,"2017-09-18T18:51:54+00:00",0,2,0,1,0,0,3
 "AWSEC2SpotServiceRolePolicy","v3",False,"2018-06-07T21:00:25+00:00",0,2,0,1,0,0,4
+"AmazonCloudWatchRUMFullAccess","v1",True,"2021-11-29T15:46:12+00:00",1,0,0,0,0,0,0
 "AmazonVPCFullAccess","v6",False,"2017-12-20T16:32:09+00:00",0,1,0,2,0,0,88
 "AmazonVPCFullAccess","v2",False,"2015-03-24T19:54:44+00:00",0,1,0,0,0,0,51
 "AmazonVPCFullAccess","v5",False,"2015-12-17T17:25:44+00:00",0,1,0,0,0,0,74
@@ -708,10 +714,12 @@
 "AmazonFSxServiceRolePolicy","v4",False,"2021-06-07T21:03:26+00:00",0,3,0,1,0,0,7
 "AmazonFSxServiceRolePolicy","v1",False,"2018-11-28T10:38:37+00:00",0,3,0,1,0,0,6
 "AmazonFSxServiceRolePolicy","v3",False,"2020-11-12T20:19:45+00:00",0,3,0,1,0,0,7
+"AmazonCloudWatchEvidentlyReadOnlyAccess","v1",True,"2021-11-29T15:08:38+00:00",0,0,0,0,0,0,0
 "AmazonTextractServiceRole","v1",True,"2018-11-28T19:12:16+00:00",0,0,0,0,0,0,0
 "AmazonKinesisVideoStreamsFullAccess","v1",True,"2017-12-01T23:27:18+00:00",1,1,0,0,0,0,15
-"AmazonTimestreamConsoleFullAccess","v2",True,"2021-05-20T00:48:09+00:00",1,2,0,1,0,0,10
+"AmazonTimestreamConsoleFullAccess","v2",False,"2021-05-20T00:48:09+00:00",1,2,0,1,0,0,10
 "AmazonTimestreamConsoleFullAccess","v1",False,"2020-09-30T21:47:18+00:00",1,2,0,1,0,0,10
+"AmazonTimestreamConsoleFullAccess","v3",True,"2021-11-26T23:43:50+00:00",1,2,0,1,0,0,10
 "AWSMarketplaceAmiIngestion","v1",True,"2020-09-25T20:55:10+00:00",0,1,0,0,0,0,1
 "AWSQuickSightDescribeRDS","v1",True,"2015-11-10T23:24:50+00:00",0,0,0,0,0,0,0
 "AmazonEventBridgeSchemasReadOnlyAccess","v2",True,"2020-05-01T00:50:53+00:00",0,0,0,0,0,0,0
@@ -761,6 +769,7 @@
 "AmazonGuardDutyServiceRolePolicy","v4",True,"2021-08-03T23:14:07+00:00",0,0,0,0,0,0,0
 "AmazonGuardDutyServiceRolePolicy","v1",False,"2017-11-28T20:12:59+00:00",0,0,0,0,0,0,0
 "AmazonGuardDutyServiceRolePolicy","v3",False,"2020-05-14T20:25:50+00:00",0,0,0,0,0,0,0
+"AWSIotRoboRunnerReadOnly","v1",True,"2021-11-29T03:43:32+00:00",0,0,0,0,0,0,0
 "AmazonS3OutpostsFullAccess","v1",True,"2020-10-02T17:26:30+00:00",1,1,0,5,0,0,18
 "SecurityAudit","v21",False,"2018-09-10T22:49:44+00:00",0,0,0,0,0,0,0
 "SecurityAudit","v6",False,"2016-08-25T20:26:01+00:00",0,0,0,0,0,0,0
@@ -1069,8 +1078,9 @@
 "AWSWAFFullAccess","v1",False,"2015-10-06T20:44:00+00:00",1,1,0,2,0,0,43
 "AWSWAFFullAccess","v3",False,"2020-01-07T20:50:25+00:00",3,3,0,9,0,0,111
 "AWSMarketplaceSellerProductsFullAccess","v2",False,"2020-03-05T23:11:44+00:00",0,1,0,1,0,0,2
+"AWSMarketplaceSellerProductsFullAccess","v4",True,"2021-11-26T18:50:50+00:00",0,1,0,1,0,0,2
 "AWSMarketplaceSellerProductsFullAccess","v1",False,"2019-07-02T21:06:25+00:00",0,1,0,1,0,0,2
-"AWSMarketplaceSellerProductsFullAccess","v3",True,"2020-10-09T22:22:38+00:00",0,1,0,1,0,0,2
+"AWSMarketplaceSellerProductsFullAccess","v3",False,"2020-10-09T22:22:38+00:00",0,1,0,1,0,0,2
 "AWSIoTWirelessGatewayCertManager","v1",True,"2020-12-15T15:30:48+00:00",0,0,0,0,0,0,0
 "AmazonDevOpsGuruServiceRolePolicy","v2",False,"2021-04-21T23:51:53+00:00",0,0,0,0,0,0,0
 "AmazonDevOpsGuruServiceRolePolicy","v5",True,"2021-11-24T01:23:43+00:00",0,1,0,0,0,0,1
@@ -1096,11 +1106,13 @@
 "AmazonEC2RoleforAWSCodeDeployLimited","v1",True,"2020-08-24T17:55:18+00:00",0,1,0,0,0,0,1
 "AmazonKendraReadOnlyAccess","v2",True,"2021-05-27T17:01:20+00:00",0,0,0,0,0,0,0
 "AmazonKendraReadOnlyAccess","v1",False,"2019-12-03T16:13:45+00:00",0,0,0,0,0,0,0
+"AmazonCloudWatchEvidentlyFullAccess","v1",True,"2021-11-29T15:10:14+00:00",1,0,0,0,0,0,0
 "AWSNetworkManagerServiceRolePolicy","v2",False,"2019-12-10T20:41:38+00:00",0,0,0,0,0,0,0
 "AWSNetworkManagerServiceRolePolicy","v5",True,"2021-11-23T21:38:47+00:00",0,0,0,0,0,0,0
 "AWSNetworkManagerServiceRolePolicy","v4",False,"2021-06-07T16:18:24+00:00",0,0,0,0,0,0,0
 "AWSNetworkManagerServiceRolePolicy","v1",False,"2019-12-03T14:03:35+00:00",0,0,0,0,0,0,0
 "AWSNetworkManagerServiceRolePolicy","v3",False,"2020-12-10T12:06:22+00:00",0,0,0,0,0,0,0
+"AWSIotRoboRunnerFullAccess","v1",True,"2021-11-29T03:54:37+00:00",1,0,0,0,0,0,0
 "AWSElementalMediaLiveFullAccess","v1",True,"2020-07-08T17:07:14+00:00",1,1,0,0,0,0,35
 "AWSDataSyncReadOnlyAccess","v2",False,"2020-01-24T17:59:11+00:00",0,0,0,0,0,0,0
 "AWSDataSyncReadOnlyAccess","v1",False,"2019-01-18T19:18:44+00:00",0,0,0,0,0,0,0
@@ -1110,7 +1122,8 @@
 "AmazonPersonalizeFullAccess","v1",False,"2018-12-04T22:24:33+00:00",1,2,0,1,0,0,22
 "CloudSearchReadOnlyAccess","v1",True,"2015-02-06T18:39:57+00:00",0,0,0,0,0,0,0
 "AWSAccountManagementReadOnlyAccess","v1",True,"2021-09-30T23:29:53+00:00",0,0,0,0,0,0,0
-"AmazonDevOpsGuruFullAccess","v1",True,"2020-12-01T16:38:12+00:00",1,1,0,0,0,0,2
+"AmazonDevOpsGuruFullAccess","v2",True,"2021-11-26T20:39:13+00:00",1,1,0,0,0,0,2
+"AmazonDevOpsGuruFullAccess","v1",False,"2020-12-01T16:38:12+00:00",1,1,0,0,0,0,2
 "AmazonZocaloReadOnlyAccess","v1",True,"2015-02-06T18:41:14+00:00",0,0,0,0,0,0,0
 "AmazonWorkDocsReadOnlyAccess","v1",True,"2020-01-08T23:49:59+00:00",0,0,0,0,0,0,0
 "AWSMigrationHubStrategyServiceRolePolicy","v1",True,"2021-10-19T20:02:37+00:00",0,0,0,0,0,0,0
@@ -1279,8 +1292,10 @@
 "AWSElasticBeanstalkWorkerTier","v1",False,"2016-02-08T23:12:02+00:00",0,1,0,0,0,0,3
 "AWSElasticBeanstalkWorkerTier","v3",False,"2016-12-09T18:29:00+00:00",0,1,0,0,0,0,3
 "AmazonDevOpsGuruOrganizationsAccess","v1",True,"2021-11-15T23:50:52+00:00",0,1,0,0,0,0,2
-"AmazonBraketFullAccess","v2",True,"2021-02-18T07:48:38+00:00",1,1,0,0,0,0,4
+"AmazonBraketFullAccess","v2",False,"2021-02-18T07:48:38+00:00",1,1,0,0,0,0,4
+"AmazonBraketFullAccess","v4",True,"2021-11-28T05:31:50+00:00",1,2,0,0,0,1,4
 "AmazonBraketFullAccess","v1",False,"2020-08-06T20:12:37+00:00",1,1,0,0,0,0,4
+"AmazonBraketFullAccess","v3",False,"2021-11-26T19:32:02+00:00",1,2,0,0,0,1,4
 "AmazonSageMakerFullAccess","v21",True,"2021-09-08T17:12:25+00:00",2,14,0,4,0,1,37
 "AmazonSageMakerFullAccess","v6",False,"2018-08-21T17:00:52+00:00",1,7,0,3,0,1,143
 "AmazonSageMakerFullAccess","v11",False,"2019-05-09T04:44:05+00:00",2,12,0,4,0,1,162
@@ -1389,8 +1404,9 @@
 "AmazonFISServiceRolePolicy","v3",True,"2021-06-30T13:50:04+00:00",0,1,0,0,0,0,4
 "AmazonLexV2BotPolicy","v1",True,"2021-01-13T20:10:29+00:00",0,0,0,0,0,0,0
 "AmazonDevOpsGuruReadOnlyAccess","v2",False,"2021-04-23T18:44:36+00:00",0,0,0,0,0,0,0
+"AmazonDevOpsGuruReadOnlyAccess","v4",True,"2021-11-26T21:05:22+00:00",0,0,0,0,0,0,0
 "AmazonDevOpsGuruReadOnlyAccess","v1",False,"2020-12-01T16:34:40+00:00",0,0,0,0,0,0,0
-"AmazonDevOpsGuruReadOnlyAccess","v3",True,"2021-06-14T22:34:43+00:00",0,0,0,0,0,0,0
+"AmazonDevOpsGuruReadOnlyAccess","v3",False,"2021-06-14T22:34:43+00:00",0,0,0,0,0,0,0
 "AWSBackupFullAccess","v6",False,"2020-11-09T16:49:24+00:00",2,5,0,3,0,0,26
 "AWSBackupFullAccess","v2",False,"2020-01-13T18:40:45+00:00",2,2,0,3,0,0,22
 "AWSBackupFullAccess","v5",False,"2020-09-14T22:35:25+00:00",2,5,0,3,0,0,26
@@ -1431,8 +1447,9 @@
 "AWSDataExchangeProviderFullAccess","v6",False,"2021-05-10T21:11:47+00:00",0,2,0,0,0,0,12
 "AWSDataExchangeProviderFullAccess","v2",False,"2019-11-25T16:25:47+00:00",0,2,0,0,0,0,12
 "AWSDataExchangeProviderFullAccess","v5",False,"2021-01-14T21:20:09+00:00",0,2,0,0,0,0,12
+"AWSDataExchangeProviderFullAccess","v9",True,"2021-11-29T23:01:23+00:00",0,3,0,1,0,0,14
 "AWSDataExchangeProviderFullAccess","v4",False,"2020-04-27T14:30:12+00:00",0,2,0,0,0,0,12
-"AWSDataExchangeProviderFullAccess","v8",True,"2021-11-01T15:13:01+00:00",0,3,0,1,0,0,14
+"AWSDataExchangeProviderFullAccess","v8",False,"2021-11-01T15:13:01+00:00",0,3,0,1,0,0,14
 "AWSDataExchangeProviderFullAccess","v1",False,"2019-11-13T19:27:55+00:00",0,2,0,0,0,0,10
 "AWSDataExchangeProviderFullAccess","v3",False,"2020-04-08T15:27:08+00:00",0,2,0,0,0,0,12
 "AWSDataExchangeProviderFullAccess","v7",False,"2021-05-25T19:26:14+00:00",0,2,0,0,0,0,12
@@ -1444,7 +1461,8 @@
 "ComprehendMedicalFullAccess","v1",True,"2018-11-27T17:55:52+00:00",1,0,0,0,0,0,0
 "AWSCodeDeployRoleForCloudFormation","v1",True,"2020-05-19T17:12:52+00:00",0,0,0,0,0,0,0
 "ComputeOptimizerReadOnlyAccess","v2",False,"2020-11-04T20:57:54+00:00",0,0,0,0,0,0,0
-"ComputeOptimizerReadOnlyAccess","v4",True,"2021-08-26T18:34:10+00:00",0,0,0,0,0,0,0
+"ComputeOptimizerReadOnlyAccess","v5",True,"2021-11-29T16:03:07+00:00",0,0,0,0,0,0,0
+"ComputeOptimizerReadOnlyAccess","v4",False,"2021-08-26T18:34:10+00:00",0,0,0,0,0,0,0
 "ComputeOptimizerReadOnlyAccess","v1",False,"2020-03-07T00:11:02+00:00",0,0,0,0,0,0,0
 "ComputeOptimizerReadOnlyAccess","v3",False,"2020-12-23T18:00:54+00:00",0,0,0,0,0,0,0
 "AmazonRoute53DomainsFullAccess","v1",True,"2015-02-06T18:40:56+00:00",1,1,0,0,0,0,1
@@ -1491,6 +1509,7 @@
 "AmazonRDSPreviewServiceRolePolicy","v1",False,"2018-05-31T18:02:00+00:00",0,2,0,0,0,0,8
 "AmazonRDSPreviewServiceRolePolicy","v3",False,"2020-10-21T22:28:54+00:00",0,2,0,0,0,0,8
 "ElementalActivationsGenerateLicenses","v1",True,"2020-08-28T18:28:58+00:00",0,0,0,0,0,0,0
+"AmazonCloudWatchRUMReadOnlyAccess","v1",True,"2021-11-29T15:43:47+00:00",0,0,0,0,0,0,0
 "AWSCodeDeployRoleForLambdaLimited","v1",True,"2020-08-17T17:14:14+00:00",0,2,0,0,0,0,2
 "AWSIoTSiteWiseFullAccess","v1",True,"2018-12-04T20:53:39+00:00",1,1,0,0,0,0,27
 "AmazonKinesisAnalyticsReadOnly","v1",True,"2016-09-21T18:16:43+00:00",0,0,0,0,0,0,0
@@ -1572,7 +1591,8 @@
 "AmazonKinesisVideoStreamsReadOnlyAccess","v1",True,"2017-12-01T23:14:32+00:00",0,0,0,0,0,0,0
 "SimpleWorkflowFullAccess","v1",True,"2015-02-06T18:41:04+00:00",1,1,0,0,0,0,30
 "AmazonRedshiftQueryEditorV2ReadWriteSharing","v1",True,"2021-09-24T14:25:37+00:00",0,0,0,0,0,0,0
-"ComputeOptimizerServiceRolePolicy","v1",True,"2019-12-03T08:45:19+00:00",1,0,0,0,0,0,0
+"ComputeOptimizerServiceRolePolicy","v2",True,"2021-11-29T16:04:07+00:00",1,0,0,0,0,0,0
+"ComputeOptimizerServiceRolePolicy","v1",False,"2019-12-03T08:45:19+00:00",1,0,0,0,0,0,0
 "AWSIoTSiteWiseMonitorServiceRolePolicy","v2",True,"2019-12-13T22:19:25+00:00",0,1,0,0,0,0,11
 "AWSIoTSiteWiseMonitorServiceRolePolicy","v1",False,"2019-11-14T00:59:10+00:00",0,1,0,0,0,0,11
 "AmazonRekognitionFullAccess","v1",True,"2016-11-30T14:40:44+00:00",1,1,0,0,0,0,15
@@ -1736,6 +1756,7 @@
 "AWSIoTOTAUpdate","v1",True,"2017-12-20T20:36:53+00:00",0,1,0,0,0,0,1
 "AWSCloud9EnvironmentMember","v2",True,"2020-07-29T06:29:08+00:00",0,0,0,0,0,0,0
 "AWSCloud9EnvironmentMember","v1",False,"2017-11-30T16:18:28+00:00",0,0,0,0,0,0,0
+"AWSMigrationHubRefactorSpacesServiceRolePolicy","v1",True,"2021-11-29T06:50:15+00:00",0,3,0,3,0,0,15
 "AmazonCloudDirectoryReadOnlyAccess","v1",True,"2017-02-28T23:42:06+00:00",0,0,0,0,0,0,0
 "AmazonElasticMapReducePlacementGroupPolicy","v1",True,"2020-09-29T00:37:08+00:00",0,0,0,0,0,0,0
 "AmazonRDSBetaServiceRolePolicy","v2",False,"2018-05-08T22:28:12+00:00",0,2,0,0,0,0,10
@@ -2211,6 +2232,7 @@
 "AmazonEC2FullAccess","v1",False,"2015-02-06T18:40:15+00:00",4,4,0,5,0,1,338
 "AmazonEC2FullAccess","v3",False,"2018-01-11T20:16:43+00:00",4,4,0,5,0,1,338
 "AmazonMobileAnalyticsNon-financialReportAccess","v1",True,"2015-02-06T18:40:36+00:00",0,0,0,0,0,0,0
+"AWSECRPullThroughCache_ServiceRolePolicy","v1",True,"2021-11-26T21:51:09+00:00",0,1,0,0,0,1,4
 "AWSHealthFullAccess","v2",False,"2019-12-22T14:25:03+00:00",1,1,0,3,0,0,1
 "AWSHealthFullAccess","v1",False,"2016-12-06T12:30:31+00:00",1,0,0,2,0,0,0
 "AWSHealthFullAccess","v3",True,"2020-11-16T18:11:34+00:00",1,1,0,3,0,0,1
@@ -2244,8 +2266,9 @@
 "AWSPanoramaServiceRolePolicy","v1",True,"2020-12-01T13:14:43+00:00",0,1,0,0,0,0,1
 "AWSAppSyncPushToCloudWatchLogs","v1",True,"2018-04-09T19:38:55+00:00",0,1,0,0,0,0,3
 "WellArchitectedConsoleFullAccess","v1",True,"2018-11-29T18:19:23+00:00",1,1,0,0,0,0,14
+"AWSDataExchangeSubscriberFullAccess","v6",True,"2021-11-29T23:00:06+00:00",0,1,0,0,0,0,3
 "AWSDataExchangeSubscriberFullAccess","v2",False,"2020-04-27T14:28:00+00:00",0,1,0,0,0,0,3
-"AWSDataExchangeSubscriberFullAccess","v5",True,"2021-09-30T21:31:28+00:00",0,1,0,0,0,0,3
+"AWSDataExchangeSubscriberFullAccess","v5",False,"2021-09-30T21:31:28+00:00",0,1,0,0,0,0,3
 "AWSDataExchangeSubscriberFullAccess","v4",False,"2021-02-08T23:34:25+00:00",0,1,0,0,0,0,3
 "AWSDataExchangeSubscriberFullAccess","v1",False,"2019-11-13T19:27:52+00:00",0,1,0,0,0,0,3
 "AWSDataExchangeSubscriberFullAccess","v3",False,"2021-01-14T17:06:28+00:00",0,1,0,0,0,0,3
@@ -2334,6 +2357,8 @@
 "AWSShieldDRTAccessPolicy","v3",False,"2019-02-11T17:08:57+00:00",3,1,0,0,0,0,2
 "AWSElementalMediaPackageFullAccess","v1",True,"2017-12-29T23:39:52+00:00",1,1,0,1,0,1,7
 "AmazonMachineLearningBatchPredictionsAccess","v1",True,"2015-04-09T17:12:19+00:00",0,1,0,0,0,0,3
+"AmazonBraketJobsExecutionPolicy","v2",True,"2021-11-28T05:34:55+00:00",0,2,0,0,0,1,4
+"AmazonBraketJobsExecutionPolicy","v1",False,"2021-11-26T19:34:41+00:00",0,2,0,0,0,1,4
 "AmazonElasticsearchServiceRolePolicy","v2",False,"2018-02-08T21:38:27+00:00",0,1,0,0,0,0,3
 "AmazonElasticsearchServiceRolePolicy","v1",False,"2017-07-07T00:15:31+00:00",0,1,0,0,0,0,3
 "AmazonElasticsearchServiceRolePolicy","v3",True,"2020-08-31T10:30:23+00:00",0,2,0,0,0,0,5
@@ -2403,6 +2428,7 @@
 "AmazonEC2ContainerRegistryPowerUser","v2",False,"2016-10-11T22:28:07+00:00",0,1,0,0,0,1,4
 "AmazonEC2ContainerRegistryPowerUser","v1",False,"2015-12-21T17:05:33+00:00",0,1,0,0,0,1,4
 "AmazonEC2ContainerRegistryPowerUser","v3",True,"2019-12-10T20:48:08+00:00",0,1,0,0,0,1,4
+"AmazonInspector2FullAccess","v1",True,"2021-11-29T19:10:15+00:00",1,2,0,1,0,0,2
 "AmazonESReadOnlyAccess","v2",True,"2018-10-03T03:32:56+00:00",0,0,0,0,0,0,0
 "AmazonESReadOnlyAccess","v1",False,"2015-10-01T19:18:24+00:00",0,0,0,0,0,0,0
 "AWSGrafanaAccountAdministrator","v2",True,"2021-10-13T22:13:18+00:00",1,0,0,0,0,0,0

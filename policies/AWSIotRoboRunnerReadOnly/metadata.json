@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSIotRoboRunnerReadOnly",
+    "PolicyId": "ANPAZKAPJZG4NPMSUTQWF",
+    "Arn": "arn:aws:iam::aws:policy/AWSIotRoboRunnerReadOnly",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2021-11-29T03:43:32+00:00",
+    "UpdateDate": "2021-11-29T03:43:32+00:00"
+}

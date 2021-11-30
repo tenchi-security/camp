@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonCloudWatchRUMFullAccess",
+    "PolicyId": "ANPAZKAPJZG4DPYSNOE6F",
+    "Arn": "arn:aws:iam::aws:policy/AmazonCloudWatchRUMFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2021-11-29T15:46:12+00:00",
+    "UpdateDate": "2021-11-29T15:46:12+00:00"
+}

@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4FI27MEARJ",
     "Arn": "arn:aws:iam::aws:policy/ComputeOptimizerReadOnlyAccess",
     "Path": "/",
-    "DefaultVersionId": "v4",
+    "DefaultVersionId": "v5",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2020-03-07T00:11:02+00:00",
-    "UpdateDate": "2021-08-26T18:34:10+00:00"
+    "UpdateDate": "2021-11-29T16:03:07+00:00"
 }

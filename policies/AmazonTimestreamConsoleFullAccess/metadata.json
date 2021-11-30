@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4AZJLUKMAZ",
     "Arn": "arn:aws:iam::aws:policy/AmazonTimestreamConsoleFullAccess",
     "Path": "/",
-    "DefaultVersionId": "v2",
+    "DefaultVersionId": "v3",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2020-09-30T21:47:18+00:00",
-    "UpdateDate": "2021-05-20T00:48:09+00:00"
+    "UpdateDate": "2021-11-26T23:43:50+00:00"
 }

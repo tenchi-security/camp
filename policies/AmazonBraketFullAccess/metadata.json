@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4HUAKO7NZO",
     "Arn": "arn:aws:iam::aws:policy/AmazonBraketFullAccess",
     "Path": "/",
-    "DefaultVersionId": "v2",
+    "DefaultVersionId": "v4",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2020-08-06T20:12:37+00:00",
-    "UpdateDate": "2021-02-18T07:48:38+00:00"
+    "UpdateDate": "2021-11-28T05:31:50+00:00"
 }

@@ -1,0 +1,19 @@
+{
+    "ServiceWildcard": [
+        "inspector2"
+    ],
+    "ServicesAffected": [
+        "iam",
+        "organizations"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:CreateServiceLinkedRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "iam:CreateServiceLinkedRole",
+        "organizations:RegisterDelegatedAdministrator"
+    ]
+}

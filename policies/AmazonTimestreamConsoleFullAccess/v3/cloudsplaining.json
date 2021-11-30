@@ -1,0 +1,27 @@
+{
+    "ServiceWildcard": [
+        "timestream"
+    ],
+    "ServicesAffected": [
+        "kms",
+        "timestream"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "kms:CreateGrant"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "kms:CreateGrant",
+        "timestream:CreateDatabase",
+        "timestream:CreateTable",
+        "timestream:DeleteDatabase",
+        "timestream:DeleteTable",
+        "timestream:TagResource",
+        "timestream:UntagResource",
+        "timestream:UpdateDatabase",
+        "timestream:UpdateTable",
+        "timestream:WriteRecords"
+    ]
+}

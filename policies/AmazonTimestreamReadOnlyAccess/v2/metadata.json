@@ -1,0 +1,6 @@
+{
+    "VersionId": "v2",
+    "IsDefaultVersion": true,
+    "CreateDate": "2021-11-26T23:39:30+00:00",
+    "PolicyName": "AmazonTimestreamReadOnlyAccess"
+}
