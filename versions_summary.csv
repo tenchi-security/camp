@@ -1652,7 +1652,8 @@
 "AmazonRoute53RecoveryControlConfigFullAccess","v1",True,"2021-08-18T17:48:35+00:00",1,0,0,0,0,0,0
 "AmazonRoute53AutoNamingReadOnlyAccess","v1",True,"2018-01-18T03:02:59+00:00",0,0,0,0,0,0,0
 "AmazonMSKFullAccess","v2",False,"2020-02-28T01:16:55+00:00",1,2,0,1,0,0,3
-"AmazonMSKFullAccess","v4",True,"2021-11-18T21:26:51+00:00",1,3,0,1,0,0,4
+"AmazonMSKFullAccess","v5",True,"2021-11-30T18:04:10+00:00",1,3,0,1,0,0,4
+"AmazonMSKFullAccess","v4",False,"2021-11-18T21:26:51+00:00",1,3,0,1,0,0,4
 "AmazonMSKFullAccess","v1",False,"2019-01-14T22:07:52+00:00",1,2,0,1,0,0,3
 "AmazonMSKFullAccess","v3",False,"2020-03-14T00:45:51+00:00",1,3,0,2,0,0,4
 "AdministratorAccess-AWSElasticBeanstalk","v2",True,"2021-03-09T22:36:27+00:00",3,3,0,0,0,0,45
