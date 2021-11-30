@@ -1489,6 +1489,7 @@
 "AWSMarketplaceRead-only","v2",False,"2018-07-31T23:24:24+00:00",0,0,0,0,0,0,0
 "AWSMarketplaceRead-only","v1",False,"2015-02-06T18:40:31+00:00",0,0,0,0,0,0,0
 "AWSMarketplaceRead-only","v3",True,"2019-10-28T21:51:31+00:00",0,0,0,0,0,0,0
+"AWSIPAMServiceRolePolicy","v1",True,"2021-11-30T19:08:11+00:00",0,0,0,0,0,0,0
 "AmazonInspectorServiceRolePolicy","v2",False,"2018-01-08T17:30:57+00:00",0,0,0,0,0,0,0
 "AmazonInspectorServiceRolePolicy","v5",True,"2020-09-11T17:12:02+00:00",0,0,0,0,0,0,0
 "AmazonInspectorServiceRolePolicy","v4",False,"2018-05-10T18:36:01+00:00",0,0,0,0,0,0,0
@@ -1841,7 +1842,8 @@
 "AWSMigrationHubStrategyCollector","v1",True,"2021-10-19T20:15:15+00:00",0,0,0,0,0,0,0
 "CloudWatchLogsFullAccess","v1",True,"2015-02-06T18:40:02+00:00",1,1,0,2,0,0,16
 "AWSMarketplaceSellerFullAccess","v2",False,"2020-03-05T23:10:50+00:00",0,1,0,1,0,0,2
-"AWSMarketplaceSellerFullAccess","v4",True,"2020-10-09T22:23:38+00:00",0,1,0,1,0,0,2
+"AWSMarketplaceSellerFullAccess","v5",True,"2021-11-30T19:26:49+00:00",0,1,0,1,0,0,2
+"AWSMarketplaceSellerFullAccess","v4",False,"2020-10-09T22:23:38+00:00",0,1,0,1,0,0,2
 "AWSMarketplaceSellerFullAccess","v1",False,"2019-07-02T20:40:09+00:00",0,1,0,1,0,0,2
 "AWSMarketplaceSellerFullAccess","v3",False,"2020-05-28T21:07:22+00:00",0,1,0,1,0,0,2
 "AmazonRDSDirectoryServiceAccess","v2",True,"2019-05-15T16:51:50+00:00",0,1,0,0,0,0,2
