@@ -648,9 +648,10 @@
 "AmazonSageMakerReadOnly","v1",False,"2017-11-29T13:07:09+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerReadOnly","v7",False,"2019-12-03T16:40:33+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerReadOnly","v5",False,"2019-01-04T22:22:07+00:00",0,0,0,0,0,0,0
+"AmazonSageMakerReadOnly","v11",True,"2021-12-01T16:29:20+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerReadOnly","v6",False,"2019-06-10T20:38:21+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerReadOnly","v3",False,"2018-06-07T19:03:28+00:00",0,0,0,0,0,0,0
-"AmazonSageMakerReadOnly","v10",True,"2021-06-10T20:19:55+00:00",0,0,0,0,0,0,0
+"AmazonSageMakerReadOnly","v10",False,"2021-06-10T20:19:55+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerReadOnly","v9",False,"2020-12-08T16:17:08+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerReadOnly","v4",False,"2018-11-28T16:23:18+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerReadOnly","v2",False,"2018-02-23T00:39:10+00:00",0,0,0,0,0,0,0
