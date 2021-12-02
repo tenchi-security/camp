@@ -1,0 +1,32 @@
+{
+    "ServiceWildcard": [
+        "dataexchange"
+    ],
+    "ServicesAffected": [
+        "dataexchange",
+        "redshift",
+        "s3"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "redshift:AuthorizeDataShare"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "dataexchange:CancelJob",
+        "dataexchange:CreateJob",
+        "dataexchange:DeleteAsset",
+        "dataexchange:DeleteDataSet",
+        "dataexchange:DeleteRevision",
+        "dataexchange:PublishDataSet",
+        "dataexchange:StartJob",
+        "dataexchange:TagResource",
+        "dataexchange:UntagResource",
+        "dataexchange:UpdateAsset",
+        "dataexchange:UpdateDataSet",
+        "dataexchange:UpdateRevision",
+        "redshift:AuthorizeDataShare",
+        "s3:GetObject"
+    ]
+}

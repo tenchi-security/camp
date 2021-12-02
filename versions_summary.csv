@@ -1879,7 +1879,8 @@
 "AWSElasticDisasterRecoveryConversionServerPolicy","v1",True,"2021-11-17T13:42:23+00:00",0,0,0,0,0,0,0
 "AWSLicenseManagerConsumptionPolicy","v1",True,"2021-08-11T23:18:08+00:00",0,0,0,0,0,0,0
 "AWSDataExchangeFullAccess","v1",False,"2019-11-13T19:27:59+00:00",1,2,0,0,0,0,12
-"AWSDataExchangeFullAccess","v5",True,"2021-11-01T18:55:49+00:00",1,3,0,1,0,0,14
+"AWSDataExchangeFullAccess","v5",False,"2021-11-01T18:55:49+00:00",1,3,0,1,0,0,14
+"AWSDataExchangeFullAccess","v6",True,"2021-12-02T16:14:27+00:00",1,3,0,1,0,0,14
 "AWSDataExchangeFullAccess","v3",False,"2021-01-19T19:42:47+00:00",1,2,0,0,0,0,12
 "AWSDataExchangeFullAccess","v4",False,"2021-05-10T21:07:38+00:00",1,2,0,0,0,0,12
 "AWSDataExchangeFullAccess","v2",False,"2020-04-27T14:22:05+00:00",1,2,0,0,0,0,12
@@ -2277,7 +2278,8 @@
 "AWSDataExchangeProviderFullAccess","v5",False,"2021-01-14T21:20:09+00:00",0,2,0,0,0,0,12
 "AWSDataExchangeProviderFullAccess","v6",False,"2021-05-10T21:11:47+00:00",0,2,0,0,0,0,12
 "AWSDataExchangeProviderFullAccess","v3",False,"2020-04-08T15:27:08+00:00",0,2,0,0,0,0,12
-"AWSDataExchangeProviderFullAccess","v9",True,"2021-11-29T23:01:23+00:00",0,3,0,1,0,0,14
+"AWSDataExchangeProviderFullAccess","v10",True,"2021-12-02T16:12:19+00:00",0,3,0,1,0,0,14
+"AWSDataExchangeProviderFullAccess","v9",False,"2021-11-29T23:01:23+00:00",0,3,0,1,0,0,14
 "AWSDataExchangeProviderFullAccess","v4",False,"2020-04-27T14:30:12+00:00",0,2,0,0,0,0,12
 "AWSDataExchangeProviderFullAccess","v2",False,"2019-11-25T16:25:47+00:00",0,2,0,0,0,0,12
 "AWSDataExchangeProviderFullAccess","v8",False,"2021-11-01T15:13:01+00:00",0,3,0,1,0,0,14
