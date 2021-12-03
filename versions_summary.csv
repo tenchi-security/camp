@@ -1142,7 +1142,8 @@
 "AWSCodeCommitFullAccess","v4",False,"2019-11-05T21:02:49+00:00",1,2,0,0,0,0,47
 "AWSCodeCommitFullAccess","v2",False,"2017-11-20T20:04:31+00:00",1,1,0,0,0,0,42
 "AWSCodeCommitFullAccess","v8",False,"2020-06-24T17:08:06+00:00",1,4,0,0,0,0,53
-"AmazonEMRContainersServiceRolePolicy","v1",True,"2020-12-09T00:38:19+00:00",0,0,0,0,0,0,0
+"AmazonEMRContainersServiceRolePolicy","v1",False,"2020-12-09T00:38:19+00:00",0,0,0,0,0,0,0
+"AmazonEMRContainersServiceRolePolicy","v2",True,"2021-12-03T19:55:44+00:00",0,1,0,0,0,0,3
 "AmazonGuardDutyServiceRolePolicy","v1",False,"2017-11-28T20:12:59+00:00",0,0,0,0,0,0,0
 "AmazonGuardDutyServiceRolePolicy","v3",False,"2020-05-14T20:25:50+00:00",0,0,0,0,0,0,0
 "AmazonGuardDutyServiceRolePolicy","v4",True,"2021-08-03T23:14:07+00:00",0,0,0,0,0,0,0
