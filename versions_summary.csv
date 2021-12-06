@@ -2465,9 +2465,10 @@
 "AWSServiceRoleForImageBuilder","v5",False,"2020-04-01T19:42:50+00:00",0,6,0,2,0,0,19
 "AWSServiceRoleForImageBuilder","v11",False,"2020-09-28T18:13:06+00:00",0,6,0,2,0,0,18
 "AWSServiceRoleForImageBuilder","v6",False,"2020-04-16T19:45:25+00:00",0,6,0,2,0,0,19
+"AWSServiceRoleForImageBuilder","v14",True,"2021-12-06T20:55:41+00:00",0,6,0,3,0,0,21
 "AWSServiceRoleForImageBuilder","v3",False,"2019-12-02T06:18:40+00:00",0,6,0,2,0,0,19
 "AWSServiceRoleForImageBuilder","v10",False,"2020-08-31T20:49:10+00:00",0,6,0,2,0,0,18
-"AWSServiceRoleForImageBuilder","v13",True,"2021-08-11T18:07:10+00:00",0,6,0,3,0,0,21
+"AWSServiceRoleForImageBuilder","v13",False,"2021-08-11T18:07:10+00:00",0,6,0,3,0,0,21
 "AWSServiceRoleForImageBuilder","v9",False,"2020-07-30T21:37:31+00:00",0,6,0,2,0,0,18
 "AWSServiceRoleForImageBuilder","v4",False,"2020-02-28T19:03:21+00:00",0,6,0,2,0,0,19
 "AWSServiceRoleForImageBuilder","v2",False,"2019-12-02T02:04:36+00:00",0,6,0,2,0,0,19
