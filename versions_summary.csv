@@ -2072,10 +2072,11 @@
 "AWSServiceCatalogAdminFullAccess","v3",False,"2018-10-16T23:15:23+00:00",1,2,0,3,0,0,35
 "AWSServiceCatalogAdminFullAccess","v4",False,"2018-11-02T23:07:49+00:00",1,2,0,3,0,0,35
 "AWSServiceCatalogAdminFullAccess","v2",False,"2018-09-29T00:29:55+00:00",1,2,0,3,0,0,35
+"AWSBatchServiceRole","v12",True,"2021-12-07T02:22:29+00:00",0,5,0,2,0,0,29
 "AWSBatchServiceRole","v1",False,"2016-12-06T19:36:24+00:00",0,5,0,1,0,0,19
 "AWSBatchServiceRole","v7",False,"2018-10-11T02:26:11+00:00",0,5,0,2,0,0,27
 "AWSBatchServiceRole","v5",False,"2017-12-14T23:11:45+00:00",0,5,0,1,0,0,24
-"AWSBatchServiceRole","v11",True,"2020-11-23T18:19:27+00:00",0,5,0,2,0,0,29
+"AWSBatchServiceRole","v11",False,"2020-11-23T18:19:27+00:00",0,5,0,2,0,0,29
 "AWSBatchServiceRole","v6",False,"2018-03-21T21:28:43+00:00",0,5,0,2,0,0,25
 "AWSBatchServiceRole","v3",False,"2017-03-30T23:26:31+00:00",0,5,0,1,0,0,24
 "AWSBatchServiceRole","v10",False,"2019-10-08T19:31:12+00:00",0,5,0,2,0,0,29
