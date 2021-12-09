@@ -1,6 +1,6 @@
 {
     "VersionId": "v1",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2021-05-11T19:11:07+00:00",
     "PolicyName": "AmazonLookoutVisionReadOnlyAccess"
 }

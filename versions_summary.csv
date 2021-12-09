@@ -183,7 +183,8 @@
 "AWSCodeCommitReadOnly","v2",False,"2017-11-20T20:01:56+00:00",0,0,0,0,0,0,0
 "AWSCodeCommitReadOnly","v8",False,"2020-03-26T16:09:12+00:00",0,0,0,0,0,0,0
 "AmazonTextractServiceRole","v1",True,"2018-11-28T19:12:16+00:00",0,0,0,0,0,0,0
-"AmazonLookoutVisionConsoleReadOnlyAccess","v1",True,"2021-05-11T19:32:02+00:00",0,0,0,0,0,0,0
+"AmazonLookoutVisionConsoleReadOnlyAccess","v1",False,"2021-05-11T19:32:02+00:00",0,0,0,0,0,0,0
+"AmazonLookoutVisionConsoleReadOnlyAccess","v2",True,"2021-12-09T02:46:29+00:00",0,0,0,0,0,0,0
 "WAFV2LoggingServiceRolePolicy","v1",False,"2019-11-07T00:40:56+00:00",0,0,0,0,0,0,0
 "WAFV2LoggingServiceRolePolicy","v2",True,"2020-07-23T17:04:25+00:00",0,0,0,0,0,0,0
 "AWSOrganizationsFullAccess","v1",True,"2018-11-06T20:31:57+00:00",1,1,0,0,0,0,19
@@ -1121,7 +1122,8 @@
 "AWSQuickSightIoTAnalyticsAccess","v1",True,"2017-11-29T17:00:54+00:00",0,0,0,0,0,0,0
 "AmazonMobileAnalyticsNon-financialReportAccess","v1",True,"2015-02-06T18:40:36+00:00",0,0,0,0,0,0,0
 "AWSApplicationAutoscalingComprehendEndpointPolicy","v1",True,"2019-11-14T18:39:07+00:00",0,2,0,0,0,0,3
-"AmazonLookoutVisionReadOnlyAccess","v1",True,"2021-05-11T19:11:07+00:00",0,0,0,0,0,0,0
+"AmazonLookoutVisionReadOnlyAccess","v1",False,"2021-05-11T19:11:07+00:00",0,0,0,0,0,0,0
+"AmazonLookoutVisionReadOnlyAccess","v2",True,"2021-12-09T03:01:51+00:00",0,0,0,0,0,0,0
 "AWSIoTDeviceDefenderEnableIoTLoggingMitigationAction","v1",True,"2019-08-07T17:04:07+00:00",0,1,0,1,0,0,1
 "AWSMarketplaceProcurementSystemAdminFullAccess","v1",True,"2019-06-25T13:07:47+00:00",0,0,0,0,0,0,0
 "AWSBatchServiceEventTargetRole","v1",True,"2018-02-28T22:31:13+00:00",0,1,0,0,0,0,1
