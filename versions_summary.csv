@@ -2442,6 +2442,7 @@
 "AmazonRDSServiceRolePolicy","v2",False,"2018-07-10T15:54:54+00:00",0,2,0,0,0,0,11
 "AWSApplicationAutoscalingDynamoDBTablePolicy","v1",True,"2017-10-20T21:34:57+00:00",0,2,0,0,0,0,3
 "AmazonOpenSearchServiceCognitoAccess","v1",True,"2021-09-02T06:31:49+00:00",0,0,0,0,0,0,0
+"AmazonDevOpsGuruConsoleFullAccess","v1",True,"2021-12-17T18:43:09+00:00",1,1,0,0,0,0,2
 "AdministratorAccess-AWSElasticBeanstalk","v1",False,"2021-01-22T19:36:54+00:00",3,3,0,0,0,0,45
 "AdministratorAccess-AWSElasticBeanstalk","v2",True,"2021-03-09T22:36:27+00:00",3,3,0,0,0,0,45
 "AmazonInspector2FullAccess","v1",True,"2021-11-29T19:10:15+00:00",1,2,0,1,0,0,2

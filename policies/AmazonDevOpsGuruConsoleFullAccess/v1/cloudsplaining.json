@@ -1,0 +1,16 @@
+{
+    "ServiceWildcard": [
+        "devops-guru"
+    ],
+    "ServicesAffected": [
+        "devops-guru"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "devops-guru:AddNotificationChannel",
+        "devops-guru:RemoveNotificationChannel"
+    ]
+}
