@@ -1,0 +1,24 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "cognito-identity",
+        "cognito-idp",
+        "iam"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "cognito-identity:UpdateIdentityPool",
+        "iam:PassRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "cognito-identity:UpdateIdentityPool",
+        "cognito-idp:AdminInitiateAuth",
+        "cognito-idp:AdminUserGlobalSignOut",
+        "cognito-idp:CreateUserPoolClient",
+        "cognito-idp:DeleteUserPoolClient",
+        "cognito-idp:UpdateUserPoolClient",
+        "iam:PassRole"
+    ]
+}
