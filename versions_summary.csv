@@ -2159,7 +2159,8 @@
 "AWSEC2SpotFleetServiceRolePolicy","v2",False,"2017-11-17T22:01:06+00:00",0,2,0,1,0,0,3
 "AmazonECSTaskExecutionRolePolicy","v1",True,"2017-11-16T18:48:22+00:00",0,2,0,0,0,1,2
 "AmazonFSxReadOnlyAccess","v1",True,"2018-11-28T16:33:32+00:00",0,0,0,0,0,0,0
-"AmazonChimeVoiceConnectorServiceLinkedRolePolicy","v1",True,"2019-09-30T22:16:42+00:00",0,0,0,0,0,0,0
+"AmazonChimeVoiceConnectorServiceLinkedRolePolicy","v1",False,"2019-09-30T22:16:42+00:00",0,0,0,0,0,0,0
+"AmazonChimeVoiceConnectorServiceLinkedRolePolicy","v2",True,"2021-12-21T00:08:05+00:00",0,0,0,0,0,0,0
 "AWSIotRoboRunnerFullAccess","v1",True,"2021-11-29T03:54:37+00:00",1,0,0,0,0,0,0
 "AWSApplicationAutoscalingAppStreamFleetPolicy","v1",True,"2017-10-20T19:04:06+00:00",0,2,0,0,0,0,3
 "AmazonInspectorReadOnlyAccess","v3",False,"2017-09-12T16:53:06+00:00",0,0,0,0,0,0,0
