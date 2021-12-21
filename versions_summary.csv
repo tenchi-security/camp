@@ -2250,10 +2250,11 @@
 "AmazonEC2ContainerServiceRole","v2",True,"2016-08-11T13:08:01+00:00",0,2,0,0,0,0,3
 "AWSLambdaSQSQueueExecutionRole","v1",True,"2018-06-14T21:50:45+00:00",0,2,0,0,0,0,4
 "ViewOnlyAccess","v8",False,"2020-01-16T17:42:09+00:00",0,0,0,0,0,0,0
-"ViewOnlyAccess","v11",True,"2021-06-11T19:27:03+00:00",0,0,0,0,0,0,0
+"ViewOnlyAccess","v11",False,"2021-06-11T19:27:03+00:00",0,0,0,0,0,0,0
 "ViewOnlyAccess","v7",False,"2018-10-15T18:34:54+00:00",0,0,0,0,0,0,0
 "ViewOnlyAccess","v6",False,"2018-09-12T21:57:01+00:00",0,0,0,0,0,0,0
 "ViewOnlyAccess","v3",False,"2017-06-26T22:35:31+00:00",0,0,0,0,0,0,0
+"ViewOnlyAccess","v12",True,"2021-12-21T02:53:03+00:00",0,0,0,0,0,0,0
 "ViewOnlyAccess","v4",False,"2018-02-06T22:35:33+00:00",0,0,0,0,0,0,0
 "ViewOnlyAccess","v5",False,"2018-05-16T20:35:13+00:00",0,0,0,0,0,0,0
 "ViewOnlyAccess","v10",False,"2020-08-18T22:51:43+00:00",0,0,0,0,0,0,0
