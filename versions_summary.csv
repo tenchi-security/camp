@@ -1097,7 +1097,8 @@
 "AWSPanoramaServiceLinkedRolePolicy","v1",True,"2021-10-20T12:12:50+00:00",0,0,0,0,0,0,0
 "AWSApplicationAutoscalingSageMakerEndpointPolicy","v1",True,"2018-02-06T19:58:21+00:00",0,2,0,0,0,0,3
 "AWSThinkboxDeadlineResourceTrackerAdminPolicy","v3",False,"2021-07-27T21:13:41+00:00",0,1,0,0,0,0,1
-"AWSThinkboxDeadlineResourceTrackerAdminPolicy","v4",True,"2021-08-12T21:28:43+00:00",0,1,0,0,0,0,1
+"AWSThinkboxDeadlineResourceTrackerAdminPolicy","v4",False,"2021-08-12T21:28:43+00:00",0,1,0,0,0,0,1
+"AWSThinkboxDeadlineResourceTrackerAdminPolicy","v5",True,"2021-12-23T01:01:48+00:00",0,1,0,0,0,0,1
 "AWSThinkboxDeadlineResourceTrackerAdminPolicy","v1",False,"2020-05-27T19:29:09+00:00",0,1,0,0,0,0,1
 "AWSThinkboxDeadlineResourceTrackerAdminPolicy","v2",False,"2020-10-06T19:06:57+00:00",0,1,0,0,0,0,1
 "AWSAppMeshReadOnly","v3",False,"2019-10-03T22:25:42+00:00",0,0,0,0,0,0,0
