@@ -2117,7 +2117,8 @@
 "AmazonRedshiftReadOnlyAccess","v1",True,"2015-02-06T18:40:51+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerMechanicalTurkAccess","v1",True,"2019-12-03T16:19:36+00:00",0,1,0,0,0,0,2
 "AWSCloud9SSMInstanceProfile","v1",True,"2020-05-14T11:40:49+00:00",0,0,0,0,0,0,0
-"AmazonLookoutMetricsReadOnlyAccess","v1",True,"2021-05-07T00:43:34+00:00",0,0,0,0,0,0,0
+"AmazonLookoutMetricsReadOnlyAccess","v1",False,"2021-05-07T00:43:34+00:00",0,0,0,0,0,0,0
+"AmazonLookoutMetricsReadOnlyAccess","v2",True,"2022-01-04T18:19:27+00:00",0,0,0,0,0,0,0
 "AWSElasticBeanstalkServiceRolePolicy","v6",True,"2019-06-06T21:59:51+00:00",0,3,0,0,0,0,3
 "AWSElasticBeanstalkServiceRolePolicy","v3",False,"2017-12-06T22:30:51+00:00",0,3,0,0,0,0,3
 "AWSElasticBeanstalkServiceRolePolicy","v4",False,"2017-12-06T22:36:51+00:00",0,3,0,0,0,0,3
