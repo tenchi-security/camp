@@ -2272,7 +2272,8 @@
 "AmazonElasticFileSystemFullAccess","v1",False,"2015-05-27T16:22:28+00:00",1,2,0,2,0,0,21
 "AmazonElasticFileSystemFullAccess","v2",False,"2017-07-26T15:48:42+00:00",1,2,0,2,0,0,21
 "AmazonRedshiftQueryEditorV2FullAccess","v1",True,"2021-09-24T14:06:02+00:00",1,0,0,0,0,0,0
-"AmazonFISServiceRolePolicy","v3",True,"2021-06-30T13:50:04+00:00",0,1,0,0,0,0,4
+"AmazonFISServiceRolePolicy","v3",False,"2021-06-30T13:50:04+00:00",0,1,0,0,0,0,4
+"AmazonFISServiceRolePolicy","v4",True,"2022-01-06T16:43:13+00:00",0,1,0,0,0,0,4
 "AmazonFISServiceRolePolicy","v1",False,"2020-12-21T21:18:19+00:00",0,1,0,0,0,0,4
 "AmazonFISServiceRolePolicy","v2",False,"2021-01-18T15:40:47+00:00",0,1,0,0,0,0,4
 "AWSCodeDeployRoleForECS","v3",True,"2019-09-23T22:37:46+00:00",0,6,0,1,1,0,8
