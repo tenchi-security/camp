@@ -3,10 +3,10 @@
     "PolicyId": "ANPAJERQQQTWI5OMENTQE",
     "Arn": "arn:aws:iam::aws:policy/AmazonMSKFullAccess",
     "Path": "/",
-    "DefaultVersionId": "v5",
+    "DefaultVersionId": "v6",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2019-01-14T22:07:52+00:00",
-    "UpdateDate": "2021-11-30T18:04:10+00:00"
+    "UpdateDate": "2022-01-06T21:18:01+00:00"
 }

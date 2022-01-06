@@ -552,9 +552,10 @@
 "AmazonChimeFullAccess","v3",True,"2020-12-14T21:00:52+00:00",1,2,0,3,0,1,35
 "AmazonChimeFullAccess","v1",False,"2017-11-01T22:15:43+00:00",1,1,0,2,0,1,34
 "AmazonChimeFullAccess","v2",False,"2020-05-19T18:17:17+00:00",1,2,0,3,0,1,35
+"AmazonMSKFullAccess","v6",True,"2022-01-06T21:18:01+00:00",1,3,0,1,0,0,4
 "AmazonMSKFullAccess","v3",False,"2020-03-14T00:45:51+00:00",1,3,0,2,0,0,4
 "AmazonMSKFullAccess","v4",False,"2021-11-18T21:26:51+00:00",1,3,0,1,0,0,4
-"AmazonMSKFullAccess","v5",True,"2021-11-30T18:04:10+00:00",1,3,0,1,0,0,4
+"AmazonMSKFullAccess","v5",False,"2021-11-30T18:04:10+00:00",1,3,0,1,0,0,4
 "AmazonMSKFullAccess","v1",False,"2019-01-14T22:07:52+00:00",1,2,0,1,0,0,3
 "AmazonMSKFullAccess","v2",False,"2020-02-28T01:16:55+00:00",1,2,0,1,0,0,3
 "AmazonElasticTranscoder_FullAccess","v1",False,"2018-04-27T18:59:35+00:00",1,2,0,1,0,0,10
@@ -2221,7 +2222,7 @@
 "FMSServiceRolePolicy","v8",False,"2019-08-14T21:35:01+00:00",0,3,0,0,0,0,5
 "FMSServiceRolePolicy","v11",False,"2020-04-06T18:55:16+00:00",0,3,0,0,0,0,5
 "FMSServiceRolePolicy","v7",False,"2019-03-08T18:02:51+00:00",0,2,0,0,0,0,3
-"FMSServiceRolePolicy","v21",True,"2021-11-18T19:05:49+00:00",0,6,0,2,0,0,27
+"FMSServiceRolePolicy","v21",False,"2021-11-18T19:05:49+00:00",0,6,0,2,0,0,27
 "FMSServiceRolePolicy","v6",False,"2019-02-18T19:12:31+00:00",0,2,0,0,0,0,3
 "FMSServiceRolePolicy","v3",False,"2018-08-29T17:46:50+00:00",0,2,0,0,0,0,4
 "FMSServiceRolePolicy","v12",False,"2020-05-12T21:02:44+00:00",0,3,0,0,0,0,5
@@ -2231,6 +2232,7 @@
 "FMSServiceRolePolicy","v16",False,"2020-09-08T18:03:00+00:00",0,3,0,0,0,0,5
 "FMSServiceRolePolicy","v20",False,"2021-09-30T17:12:33+00:00",0,6,0,3,0,0,27
 "FMSServiceRolePolicy","v18",False,"2021-03-31T21:02:38+00:00",0,5,0,2,0,0,26
+"FMSServiceRolePolicy","v22",True,"2022-01-06T21:30:04+00:00",0,6,0,2,0,0,27
 "FMSServiceRolePolicy","v1",False,"2018-03-28T23:01:12+00:00",0,2,0,0,0,0,3
 "FMSServiceRolePolicy","v13",False,"2020-07-20T23:05:16+00:00",0,3,0,0,0,0,5
 "FMSServiceRolePolicy","v9",False,"2020-03-09T22:10:00+00:00",0,3,0,0,0,0,5
