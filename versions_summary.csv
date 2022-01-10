@@ -1715,6 +1715,7 @@
 "AWSElementalMediaConvertReadOnly","v2",True,"2019-06-10T22:52:18+00:00",0,0,0,0,0,0,0
 "AmazonEKSForFargateServiceRolePolicy","v1",True,"2019-11-22T04:36:25+00:00",0,1,0,1,0,0,3
 "CloudWatchAgentAdminPolicy","v1",True,"2018-03-07T00:52:31+00:00",0,1,0,0,0,0,3
+"EC2FastLaunchServiceRolePolicy","v1",True,"2022-01-10T13:08:21+00:00",0,1,0,1,0,0,1
 "AWSCloudMapFullAccess","v1",False,"2018-11-28T23:57:31+00:00",1,2,0,0,0,0,11
 "AWSCloudMapFullAccess","v2",True,"2020-07-29T19:15:35+00:00",1,2,0,0,0,0,11
 "AWSCodeStarFullAccess","v1",False,"2017-04-19T16:23:19+00:00",1,1,0,5,0,0,12
