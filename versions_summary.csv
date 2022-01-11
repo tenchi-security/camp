@@ -1083,6 +1083,7 @@
 "AWSWAFConsoleReadOnlyAccess","v2",False,"2020-06-22T22:38:54+00:00",0,0,0,0,0,0,0
 "AWSApplicationAutoscalingEC2SpotFleetRequestPolicy","v1",True,"2017-10-25T18:23:27+00:00",0,2,0,0,0,0,3
 "AmazonSESFullAccess","v1",True,"2015-02-06T18:41:02+00:00",1,1,0,3,0,0,36
+"AWSAppRunnerFullAccess","v1",True,"2022-01-11T04:02:09+00:00",1,2,0,1,0,0,15
 "AmazonDevOpsGuruOrganizationsAccess","v1",True,"2021-11-15T23:50:52+00:00",0,1,0,0,0,0,2
 "AWSWAFReadOnlyAccess","v3",False,"2020-01-07T19:27:38+00:00",0,0,0,0,0,0,0
 "AWSWAFReadOnlyAccess","v4",True,"2020-06-22T22:38:54+00:00",0,0,0,0,0,0,0

@@ -1,0 +1,6 @@
+{
+    "VersionId": "v1",
+    "IsDefaultVersion": true,
+    "CreateDate": "2022-01-11T04:02:09+00:00",
+    "PolicyName": "AWSAppRunnerFullAccess"
+}

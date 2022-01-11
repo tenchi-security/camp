@@ -1,0 +1,32 @@
+{
+    "ServiceWildcard": [
+        "apprunner"
+    ],
+    "ServicesAffected": [
+        "apprunner",
+        "iam"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:PassRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "apprunner:AssociateCustomDomain",
+        "apprunner:CreateAutoScalingConfiguration",
+        "apprunner:CreateConnection",
+        "apprunner:CreateService",
+        "apprunner:DeleteAutoScalingConfiguration",
+        "apprunner:DeleteConnection",
+        "apprunner:DeleteService",
+        "apprunner:DisassociateCustomDomain",
+        "apprunner:PauseService",
+        "apprunner:ResumeService",
+        "apprunner:StartDeployment",
+        "apprunner:TagResource",
+        "apprunner:UntagResource",
+        "apprunner:UpdateService",
+        "iam:PassRole"
+    ]
+}
