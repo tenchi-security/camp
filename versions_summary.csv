@@ -1513,7 +1513,8 @@
 "AWSCodePipelineFullAccess","v1",False,"2015-07-09T16:58:07+00:00",1,2,0,1,1,1,22
 "AWSCodePipelineFullAccess","v9",False,"2020-03-26T16:06:34+00:00",1,6,0,1,0,1,30
 "AWSCodePipelineFullAccess","v2",False,"2015-07-09T22:12:17+00:00",1,3,0,2,1,1,23
-"AWSWAFFullAccess","v6",True,"2021-11-15T19:33:27+00:00",3,4,0,9,0,0,112
+"AWSWAFFullAccess","v7",True,"2022-01-11T19:33:38+00:00",3,4,0,9,0,0,112
+"AWSWAFFullAccess","v6",False,"2021-11-15T19:33:27+00:00",3,4,0,9,0,0,112
 "AWSWAFFullAccess","v3",False,"2020-01-07T20:50:25+00:00",3,3,0,9,0,0,111
 "AWSWAFFullAccess","v4",False,"2020-04-08T00:21:06+00:00",3,4,0,9,0,0,112
 "AWSWAFFullAccess","v5",False,"2020-10-01T20:13:54+00:00",3,4,0,9,0,0,112
@@ -2115,7 +2116,8 @@
 "AmazonRDSFullAccess","v1",False,"2015-02-06T18:40:52+00:00",1,1,0,3,0,0,84
 "AmazonRDSFullAccess","v2",False,"2015-12-16T21:02:23+00:00",1,1,0,3,0,0,84
 "AWSLambda_FullAccess","v1",True,"2020-11-17T21:14:08+00:00",1,2,1,7,0,0,36
-"AWSWAFConsoleFullAccess","v3",True,"2021-11-15T19:33:52+00:00",3,5,0,9,0,0,113
+"AWSWAFConsoleFullAccess","v3",False,"2021-11-15T19:33:52+00:00",3,5,0,9,0,0,113
+"AWSWAFConsoleFullAccess","v4",True,"2022-01-11T19:34:04+00:00",3,5,0,9,0,0,113
 "AWSWAFConsoleFullAccess","v1",False,"2020-04-06T18:38:38+00:00",3,5,0,9,0,0,113
 "AWSWAFConsoleFullAccess","v2",False,"2020-10-01T20:13:57+00:00",3,5,0,9,0,0,113
 "AmazonElasticMapReducePlacementGroupPolicy","v1",True,"2020-09-29T00:37:08+00:00",0,0,0,0,0,0,0

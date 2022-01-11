@@ -1,6 +1,6 @@
 {
     "VersionId": "v3",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2021-11-15T19:33:52+00:00",
     "PolicyName": "AWSWAFConsoleFullAccess"
 }
