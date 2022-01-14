@@ -185,7 +185,8 @@
 "AWSBackupServiceLinkedRolePolicyForBackup","v2",False,"2020-11-10T18:37:51+00:00",0,2,0,1,0,0,6
 "AWSBackupServiceLinkedRolePolicyForBackup","v3",False,"2021-04-12T18:11:02+00:00",0,2,0,1,0,0,6
 "AWSBackupServiceLinkedRolePolicyForBackup","v1",False,"2020-06-02T23:08:40+00:00",0,0,0,0,0,0,0
-"AWSBackupServiceLinkedRolePolicyForBackup","v6",True,"2021-11-23T22:00:49+00:00",0,2,0,1,0,0,6
+"AWSBackupServiceLinkedRolePolicyForBackup","v6",False,"2021-11-23T22:00:49+00:00",0,2,0,1,0,0,6
+"AWSBackupServiceLinkedRolePolicyForBackup","v7",True,"2022-01-14T19:17:42+00:00",0,2,0,1,0,0,6
 "AmazonCodeGuruProfilerReadOnlyAccess","v2",False,"2020-04-06T20:34:53+00:00",0,0,0,0,0,0,0
 "AmazonCodeGuruProfilerReadOnlyAccess","v3",True,"2020-06-27T23:52:52+00:00",0,0,0,0,0,0,0
 "AmazonCodeGuruProfilerReadOnlyAccess","v1",False,"2019-12-03T10:30:15+00:00",0,0,0,0,0,0,0
