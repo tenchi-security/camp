@@ -1,6 +1,6 @@
 {
     "VersionId": "v7",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2020-10-06T12:43:49+00:00",
     "PolicyName": "AWSCloud9ServiceRolePolicy"
 }
