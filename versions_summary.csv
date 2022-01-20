@@ -1874,7 +1874,8 @@
 "AmazonRDSDirectoryServiceAccess","v1",False,"2016-02-26T02:02:05+00:00",0,1,0,0,0,0,2
 "AmazonTimestreamReadOnlyAccess","v2",True,"2021-11-26T23:39:30+00:00",0,0,0,0,0,0,0
 "AmazonTimestreamReadOnlyAccess","v1",False,"2020-09-30T21:47:08+00:00",0,0,0,0,0,0,0
-"AmazonEC2RoleforAWSCodeDeployLimited","v1",True,"2020-08-24T17:55:18+00:00",0,1,0,0,0,0,1
+"AmazonEC2RoleforAWSCodeDeployLimited","v2",True,"2022-01-20T21:37:31+00:00",0,1,0,0,0,0,1
+"AmazonEC2RoleforAWSCodeDeployLimited","v1",False,"2020-08-24T17:55:18+00:00",0,1,0,0,0,0,1
 "AWSGlobalAcceleratorSLRPolicy","v5",False,"2021-05-19T17:10:49+00:00",0,1,0,0,0,0,5
 "AWSGlobalAcceleratorSLRPolicy","v3",False,"2019-09-24T20:55:42+00:00",0,1,0,0,0,0,5
 "AWSGlobalAcceleratorSLRPolicy","v4",False,"2019-10-14T21:05:22+00:00",0,1,0,0,0,0,5
