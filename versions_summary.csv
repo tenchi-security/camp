@@ -839,7 +839,8 @@
 "AWSGlueServiceRole","v4",True,"2018-06-25T18:23:09+00:00",1,2,1,2,0,0,46
 "AWSGlueServiceRole","v2",False,"2017-08-17T18:08:13+00:00",1,2,1,2,0,0,45
 "AWSGlueServiceRole","v1",False,"2017-08-14T13:37:21+00:00",1,2,1,2,0,0,45
-"CloudWatchApplicationInsightsFullAccess","v3",True,"2021-11-04T17:13:25+00:00",1,0,0,0,0,0,0
+"CloudWatchApplicationInsightsFullAccess","v3",False,"2021-11-04T17:13:25+00:00",1,0,0,0,0,0,0
+"CloudWatchApplicationInsightsFullAccess","v4",True,"2022-01-25T17:51:29+00:00",1,0,0,0,0,0,0
 "CloudWatchApplicationInsightsFullAccess","v2",False,"2021-10-18T17:48:51+00:00",1,0,0,0,0,0,0
 "CloudWatchApplicationInsightsFullAccess","v1",False,"2020-11-24T18:44:14+00:00",1,0,0,0,0,0,0
 "AmazonRedshiftReadOnlyAccess","v1",True,"2015-02-06T18:40:51+00:00",0,0,0,0,0,0,0
@@ -1820,12 +1821,13 @@
 "AWSMarketplaceManageSubscriptions","v1",False,"2015-02-06T18:40:32+00:00",0,0,0,0,0,0,0
 "CloudwatchApplicationInsightsServiceLinkedRolePolicy","v5",False,"2019-06-24T18:54:53+00:00",0,1,0,0,0,0,2
 "CloudwatchApplicationInsightsServiceLinkedRolePolicy","v10",False,"2020-10-16T17:53:38+00:00",0,1,0,0,0,0,2
+"CloudwatchApplicationInsightsServiceLinkedRolePolicy","v19",True,"2022-01-25T17:51:32+00:00",0,2,0,0,0,0,3
 "CloudwatchApplicationInsightsServiceLinkedRolePolicy","v8",False,"2020-06-02T19:50:03+00:00",0,1,0,0,0,0,2
 "CloudwatchApplicationInsightsServiceLinkedRolePolicy","v7",False,"2020-03-13T19:39:57+00:00",0,1,0,0,0,0,2
 "CloudwatchApplicationInsightsServiceLinkedRolePolicy","v17",False,"2021-09-22T22:35:38+00:00",0,1,0,0,0,0,2
 "CloudwatchApplicationInsightsServiceLinkedRolePolicy","v12",False,"2021-01-19T20:27:15+00:00",0,1,0,0,0,0,2
 "CloudwatchApplicationInsightsServiceLinkedRolePolicy","v15",False,"2021-08-13T19:59:56+00:00",0,1,0,0,0,0,2
-"CloudwatchApplicationInsightsServiceLinkedRolePolicy","v18",True,"2021-11-11T23:03:50+00:00",0,2,0,0,0,0,3
+"CloudwatchApplicationInsightsServiceLinkedRolePolicy","v18",False,"2021-11-11T23:03:50+00:00",0,2,0,0,0,0,3
 "CloudwatchApplicationInsightsServiceLinkedRolePolicy","v16",False,"2021-08-27T22:03:15+00:00",0,1,0,0,0,0,2
 "CloudwatchApplicationInsightsServiceLinkedRolePolicy","v3",False,"2019-05-24T18:26:41+00:00",0,1,0,0,0,0,2
 "CloudwatchApplicationInsightsServiceLinkedRolePolicy","v9",False,"2020-07-13T17:19:09+00:00",0,1,0,0,0,0,2
