@@ -335,8 +335,9 @@
 "ComprehendReadOnly","v5",False,"2018-11-20T01:54:51+00:00",0,0,0,0,0,0,0
 "ComprehendReadOnly","v4",False,"2018-11-16T00:44:32+00:00",0,0,0,0,0,0,0
 "ComprehendReadOnly","v3",False,"2018-07-17T22:01:51+00:00",0,0,0,0,0,0,0
-"ComprehendReadOnly","v9",True,"2021-09-28T19:07:01+00:00",0,0,0,0,0,0,0
+"ComprehendReadOnly","v9",False,"2021-09-28T19:07:01+00:00",0,0,0,0,0,0,0
 "ComprehendReadOnly","v7",False,"2020-09-17T19:01:28+00:00",0,0,0,0,0,0,0
+"ComprehendReadOnly","v10",True,"2022-02-02T21:08:24+00:00",0,0,0,0,0,0,0
 "ComprehendReadOnly","v2",False,"2018-06-27T18:38:58+00:00",0,0,0,0,0,0,0
 "ComprehendReadOnly","v6",False,"2019-11-25T19:35:48+00:00",0,0,0,0,0,0,0
 "AmazonCodeGuruProfilerAgentAccess","v1",False,"2021-02-05T22:11:56+00:00",0,1,0,0,0,0,2
