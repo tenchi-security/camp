@@ -1,6 +1,6 @@
 {
     "VersionId": "v4",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2022-01-06T16:43:13+00:00",
     "PolicyName": "AmazonFISServiceRolePolicy"
 }
