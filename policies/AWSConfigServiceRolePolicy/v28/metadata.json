@@ -1,6 +1,6 @@
 {
     "VersionId": "v28",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2022-01-21T18:35:45+00:00",
     "PolicyName": "AWSConfigServiceRolePolicy"
 }
