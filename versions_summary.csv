@@ -1950,7 +1950,8 @@
 "AWSMigrationHubFullAccess","v2",False,"2017-08-14T14:09:27+00:00",2,1,0,0,0,0,9
 "AmazonS3OutpostsReadOnlyAccess","v1",True,"2020-10-02T18:55:58+00:00",0,0,0,0,0,0,0
 "AWSSecurityHubFullAccess","v1",True,"2018-11-27T23:54:34+00:00",1,2,0,1,0,0,31
-"AmazonEMRServicePolicy_v2","v1",True,"2021-03-12T01:11:08+00:00",0,1,0,0,0,0,9
+"AmazonEMRServicePolicy_v2","v1",False,"2021-03-12T01:11:08+00:00",0,1,0,0,0,0,9
+"AmazonEMRServicePolicy_v2","v2",True,"2022-02-15T16:48:29+00:00",0,1,0,0,0,0,10
 "AmazonEMRContainersServiceRolePolicy","v1",False,"2020-12-09T00:38:19+00:00",0,0,0,0,0,0,0
 "AmazonEMRContainersServiceRolePolicy","v2",True,"2021-12-03T19:55:44+00:00",0,1,0,0,0,0,3
 "AWSOpsWorksCloudWatchLogs","v1",True,"2017-03-30T17:47:19+00:00",0,0,0,0,0,0,0
