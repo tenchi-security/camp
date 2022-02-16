@@ -1675,7 +1675,8 @@
 "AmazonEC2SpotFleetAutoscaleRole","v2",False,"2017-11-14T22:24:10+00:00",0,2,0,0,0,0,3
 "AWSOpsWorksRegisterCLI_EC2","v1",True,"2019-06-18T15:56:17+00:00",0,1,0,0,0,0,4
 "AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v1",False,"2020-11-27T18:48:07+00:00",0,3,0,0,0,0,14
-"AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v3",True,"2021-09-15T20:00:26+00:00",0,3,0,0,0,0,14
+"AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v4",True,"2022-02-16T19:52:11+00:00",0,4,0,0,0,0,20
+"AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v3",False,"2021-09-15T20:00:26+00:00",0,3,0,0,0,0,14
 "AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v2",False,"2021-07-02T06:13:39+00:00",0,3,0,0,0,0,14
 "AmazonElasticTranscoderRole","v1",False,"2015-02-06T18:41:26+00:00",0,2,0,8,1,0,35
 "AmazonElasticTranscoderRole","v2",True,"2019-06-13T22:48:22+00:00",0,2,0,1,1,0,5
@@ -2412,6 +2413,7 @@
 "FMSServiceRolePolicy","v12",False,"2020-05-12T21:02:44+00:00",0,3,0,0,0,0,5
 "FMSServiceRolePolicy","v7",False,"2019-03-08T18:02:51+00:00",0,2,0,0,0,0,3
 "FMSServiceRolePolicy","v14",False,"2020-07-28T16:30:44+00:00",0,3,0,0,0,0,5
+"FMSServiceRolePolicy","v23",True,"2022-02-16T18:35:29+00:00",0,7,0,2,0,0,28
 "FMSServiceRolePolicy","v18",False,"2021-03-31T21:02:38+00:00",0,5,0,2,0,0,26
 "FMSServiceRolePolicy","v10",False,"2020-03-10T20:10:50+00:00",0,3,0,0,0,0,5
 "FMSServiceRolePolicy","v2",False,"2018-04-02T19:16:15+00:00",0,2,0,0,0,0,4
@@ -2421,7 +2423,7 @@
 "FMSServiceRolePolicy","v13",False,"2020-07-20T23:05:16+00:00",0,3,0,0,0,0,5
 "FMSServiceRolePolicy","v19",False,"2021-08-12T19:21:06+00:00",0,6,0,2,0,0,26
 "FMSServiceRolePolicy","v20",False,"2021-09-30T17:12:33+00:00",0,6,0,3,0,0,27
-"FMSServiceRolePolicy","v22",True,"2022-01-06T21:30:04+00:00",0,6,0,2,0,0,27
+"FMSServiceRolePolicy","v22",False,"2022-01-06T21:30:04+00:00",0,6,0,2,0,0,27
 "AWSCloud9EnvironmentMember","v1",False,"2017-11-30T16:18:28+00:00",0,0,0,0,0,0,0
 "AWSCloud9EnvironmentMember","v2",True,"2020-07-29T06:29:08+00:00",0,0,0,0,0,0,0
 "AWSCodeDeployFullAccess","v1",False,"2015-05-19T18:13:23+00:00",1,1,0,0,0,0,16
