@@ -454,7 +454,8 @@
 "AWSCloudTrailReadOnlyAccess","v2",False,"2015-03-12T20:14:36+00:00",0,0,0,0,0,0,0
 "AWSCloudTrailReadOnlyAccess","v6",False,"2016-12-14T20:41:52+00:00",0,1,0,0,1,0,1
 "AWSGrafanaAccountAdministrator","v1",False,"2021-02-23T00:20:38+00:00",1,0,0,0,0,0,0
-"AWSGrafanaAccountAdministrator","v2",True,"2021-10-13T22:13:18+00:00",1,0,0,0,0,0,0
+"AWSGrafanaAccountAdministrator","v3",True,"2022-02-15T22:36:18+00:00",1,1,0,1,0,0,6
+"AWSGrafanaAccountAdministrator","v2",False,"2021-10-13T22:13:18+00:00",1,0,0,0,0,0,0
 "IAMAccessAnalyzerReadOnlyAccess","v1",False,"2019-12-02T17:12:53+00:00",0,0,0,0,0,0,0
 "IAMAccessAnalyzerReadOnlyAccess","v2",True,"2021-03-16T20:37:30+00:00",0,0,0,0,0,0,0
 "AmazonLookoutMetricsReadOnlyAccess","v1",False,"2021-05-07T00:43:34+00:00",0,0,0,0,0,0,0
@@ -665,7 +666,8 @@
 "AmazonKinesisVideoStreamsReadOnlyAccess","v1",True,"2017-12-01T23:14:32+00:00",0,0,0,0,0,0,0
 "AmazonElasticMapReduceEditorsRole","v1",True,"2018-11-16T21:55:25+00:00",0,1,0,2,0,0,8
 "AWSGrafanaConsoleReadOnlyAccess","v1",False,"2021-02-23T00:10:40+00:00",0,0,0,0,0,0,0
-"AWSGrafanaConsoleReadOnlyAccess","v2",True,"2021-09-21T20:36:14+00:00",0,0,0,0,0,0,0
+"AWSGrafanaConsoleReadOnlyAccess","v3",True,"2022-02-15T22:30:54+00:00",0,0,0,0,0,0,0
+"AWSGrafanaConsoleReadOnlyAccess","v2",False,"2021-09-21T20:36:14+00:00",0,0,0,0,0,0,0
 "AmazonKeyspacesFullAccess","v1",False,"2020-04-23T17:06:37+00:00",1,2,0,0,0,0,8
 "AmazonKeyspacesFullAccess","v2",True,"2021-06-01T19:31:39+00:00",1,2,0,0,0,0,8
 "AmazonElasticsearchServiceRolePolicy","v1",False,"2017-07-07T00:15:31+00:00",0,1,0,0,0,0,3

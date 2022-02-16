@@ -1,0 +1,22 @@
+{
+    "ServiceWildcard": [
+        "grafana"
+    ],
+    "ServicesAffected": [
+        "grafana"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "grafana:UpdatePermissions"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "grafana:AssociateLicense",
+        "grafana:DeleteWorkspace",
+        "grafana:DisassociateLicense",
+        "grafana:UpdatePermissions",
+        "grafana:UpdateWorkspace",
+        "grafana:UpdateWorkspaceAuthentication"
+    ]
+}
