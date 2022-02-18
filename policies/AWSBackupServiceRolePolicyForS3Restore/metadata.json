@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSBackupServiceRolePolicyForS3Restore",
+    "PolicyId": "ANPAZKAPJZG4KPHGRYXGS",
+    "Arn": "arn:aws:iam::aws:policy/AWSBackupServiceRolePolicyForS3Restore",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2022-02-18T17:39:37+00:00",
+    "UpdateDate": "2022-02-18T17:39:37+00:00"
+}
