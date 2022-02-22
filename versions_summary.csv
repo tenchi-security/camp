@@ -1568,7 +1568,8 @@
 "TranslateFullAccess","v1",False,"2018-11-27T23:36:20+00:00",1,0,0,0,0,0,0
 "TranslateFullAccess","v2",True,"2020-01-08T21:22:27+00:00",1,0,0,0,0,0,0
 "AmazonSageMakerPipelinesIntegrations","v1",True,"2021-07-30T16:35:10+00:00",0,0,0,0,0,0,0
-"AWSApplicationMigrationFullAccess","v1",True,"2021-04-07T06:56:05+00:00",1,0,0,0,0,0,0
+"AWSApplicationMigrationFullAccess","v1",False,"2021-04-07T06:56:05+00:00",1,0,0,0,0,0,0
+"AWSApplicationMigrationFullAccess","v2",True,"2022-02-22T11:16:56+00:00",1,1,0,0,0,0,33
 "AmazonSageMakerEdgeDeviceFleetPolicy","v1",True,"2020-12-08T16:17:22+00:00",0,1,0,0,0,0,1
 "ServerMigrationServiceRoleForInstanceValidation","v1",True,"2020-07-20T22:25:07+00:00",0,0,0,0,0,0,0
 "MediaPackageServiceRolePolicy","v1",True,"2020-09-18T17:45:47+00:00",0,0,0,0,0,0,0
