@@ -349,6 +349,7 @@
 "AWSBackupServiceRolePolicyForS3Restore","v1",True,"2022-02-18T17:39:37+00:00",0,1,0,0,0,0,1
 "AmazonElasticContainerRegistryPublicFullAccess","v1",True,"2020-12-01T17:25:52+00:00",1,1,0,1,0,0,11
 "AWSAppSyncPushToCloudWatchLogs","v1",True,"2018-04-09T19:38:55+00:00",0,1,0,0,0,0,3
+"AmazonSageMakerServiceCatalogProductsGlueServiceRolePolicy","v1",True,"2022-02-22T09:51:13+00:00",0,0,0,0,0,0,0
 "AWSBackupFullAccess","v8",False,"2021-07-05T23:28:54+00:00",2,6,0,4,0,0,27
 "AWSBackupFullAccess","v1",False,"2019-11-18T22:21:52+00:00",2,2,0,3,0,0,22
 "AWSBackupFullAccess","v5",False,"2020-09-14T22:35:25+00:00",2,5,0,3,0,0,26
@@ -677,6 +678,7 @@
 "AmazonElasticsearchServiceRolePolicy","v3",True,"2020-08-31T10:30:23+00:00",0,2,0,0,0,0,5
 "AmazonElasticsearchServiceRolePolicy","v2",False,"2018-02-08T21:38:27+00:00",0,1,0,0,0,0,3
 "AWSMigrationHubRefactorSpacesServiceRolePolicy","v1",True,"2021-11-29T06:50:15+00:00",0,3,0,3,0,0,15
+"AmazonSageMakerServiceCatalogProductsCodePipelineServiceRolePolicy","v1",True,"2022-02-22T09:53:17+00:00",0,0,0,0,0,0,0
 "AmazonHoneycodeWorkbookFullAccess","v1",False,"2020-06-24T20:28:46+00:00",0,1,0,0,0,0,1
 "AmazonHoneycodeWorkbookFullAccess","v2",True,"2020-12-01T17:30:06+00:00",0,1,0,0,0,0,6
 "AmazonSNSReadOnlyAccess","v1",True,"2015-02-06T18:41:06+00:00",0,0,0,0,0,0,0
@@ -1351,6 +1353,7 @@
 "PowerUserAccess","v2",False,"2016-12-06T18:11:16+00:00",0,199,2,242,5,23,3893
 "AWSConfigRoleForOrganizations","v1",False,"2018-03-19T22:53:01+00:00",0,0,0,0,0,0,0
 "AWSConfigRoleForOrganizations","v2",True,"2020-11-24T20:19:13+00:00",0,0,0,0,0,0,0
+"AmazonSageMakerServiceCatalogProductsFirehoseServiceRolePolicy","v1",True,"2022-02-22T09:54:35+00:00",0,0,0,0,0,0,0
 "AWSHealthFullAccess","v1",False,"2016-12-06T12:30:31+00:00",1,0,0,2,0,0,0
 "AWSHealthFullAccess","v3",True,"2020-11-16T18:11:34+00:00",1,1,0,3,0,0,1
 "AWSHealthFullAccess","v2",False,"2019-12-22T14:25:03+00:00",1,1,0,3,0,0,1
@@ -2145,6 +2148,7 @@
 "AmazonECS_FullAccess","v6",False,"2018-03-06T22:34:31+00:00",1,11,0,2,0,0,76
 "AmazonECS_FullAccess","v13",False,"2018-11-21T23:34:33+00:00",1,12,0,2,0,0,83
 "AmazonECS_FullAccess","v19",True,"2020-10-12T21:02:23+00:00",1,12,0,2,0,0,84
+"AmazonSageMakerServiceCatalogProductsEventsServiceRolePolicy","v1",True,"2022-02-22T09:53:59+00:00",0,0,0,0,0,0,0
 "AWSECRPullThroughCache_ServiceRolePolicy","v1",True,"2021-11-26T21:51:09+00:00",0,1,0,0,0,1,4
 "AWSDataSyncReadOnlyAccess","v1",False,"2019-01-18T19:18:44+00:00",0,0,0,0,0,0,0
 "AWSDataSyncReadOnlyAccess","v3",True,"2020-06-30T17:59:22+00:00",0,0,0,0,0,0,0

@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonSageMakerServiceCatalogProductsGlueServiceRolePolicy",
+    "PolicyId": "ANPAZKAPJZG4DOYZH7RTZ",
+    "Arn": "arn:aws:iam::aws:policy/service-role/AmazonSageMakerServiceCatalogProductsGlueServiceRolePolicy",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2022-02-22T09:51:13+00:00",
+    "UpdateDate": "2022-02-22T09:51:13+00:00"
+}

@@ -1,0 +1,6 @@
+{
+    "VersionId": "v1",
+    "IsDefaultVersion": true,
+    "CreateDate": "2022-02-22T09:51:13+00:00",
+    "PolicyName": "AmazonSageMakerServiceCatalogProductsGlueServiceRolePolicy"
+}
