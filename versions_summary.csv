@@ -270,7 +270,8 @@
 "AmazonFSxServiceRolePolicy","v4",False,"2021-06-07T21:03:26+00:00",0,3,0,1,0,0,7
 "AmazonFSxServiceRolePolicy","v3",False,"2020-11-12T20:19:45+00:00",0,3,0,1,0,0,7
 "AmazonFSxServiceRolePolicy","v2",False,"2019-06-18T13:25:32+00:00",0,3,0,1,0,0,6
-"AmazonRedshiftQueryEditorV2ReadSharing","v1",True,"2021-09-24T14:22:21+00:00",0,0,0,0,0,0,0
+"AmazonRedshiftQueryEditorV2ReadSharing","v1",False,"2021-09-24T14:22:21+00:00",0,0,0,0,0,0,0
+"AmazonRedshiftQueryEditorV2ReadSharing","v2",True,"2022-02-23T17:03:58+00:00",0,1,0,0,0,0,16
 "AmazonConnectReadOnlyAccess","v1",False,"2018-10-17T21:00:44+00:00",0,1,0,0,0,1,1
 "AmazonConnectReadOnlyAccess","v3",True,"2019-11-06T22:10:18+00:00",0,1,0,0,0,1,1
 "AmazonConnectReadOnlyAccess","v2",False,"2019-11-06T01:34:37+00:00",0,1,0,0,0,0,1
@@ -318,7 +319,8 @@
 "AmazonRDSFullAccess","v2",False,"2015-12-16T21:02:23+00:00",1,1,0,3,0,0,84
 "AmazonRDSFullAccess","v6",False,"2018-04-09T17:42:48+00:00",2,4,0,4,0,0,88
 "AmazonMachineLearningFullAccess","v1",True,"2015-04-09T17:25:41+00:00",1,1,0,0,0,0,19
-"AmazonRedshiftQueryEditorV2ReadWriteSharing","v1",True,"2021-09-24T14:25:37+00:00",0,0,0,0,0,0,0
+"AmazonRedshiftQueryEditorV2ReadWriteSharing","v1",False,"2021-09-24T14:25:37+00:00",0,0,0,0,0,0,0
+"AmazonRedshiftQueryEditorV2ReadWriteSharing","v2",True,"2022-02-23T17:02:35+00:00",0,1,0,0,0,0,16
 "AWSGlueConsoleFullAccess","v8",False,"2018-06-22T20:26:02+00:00",1,1,1,2,0,0,44
 "AWSGlueConsoleFullAccess","v11",False,"2019-02-07T19:37:51+00:00",1,1,1,2,0,0,44
 "AWSGlueConsoleFullAccess","v1",False,"2017-08-14T13:37:39+00:00",1,2,1,2,0,0,48
@@ -947,7 +949,8 @@
 "ApplicationAutoScalingForAmazonAppStreamAccess","v1",True,"2017-02-06T21:39:56+00:00",0,1,0,0,0,0,1
 "AmazonEventBridgeSchemasServiceRolePolicy","v1",True,"2019-11-27T01:10:40+00:00",0,0,0,0,0,0,0
 "AWSElementalMediaLiveFullAccess","v1",True,"2020-07-08T17:07:14+00:00",1,1,0,0,0,0,35
-"AmazonRedshiftQueryEditorV2FullAccess","v1",True,"2021-09-24T14:06:02+00:00",1,0,0,0,0,0,0
+"AmazonRedshiftQueryEditorV2FullAccess","v1",False,"2021-09-24T14:06:02+00:00",1,0,0,0,0,0,0
+"AmazonRedshiftQueryEditorV2FullAccess","v2",True,"2022-02-23T17:05:06+00:00",1,1,0,0,0,0,16
 "AWSIoTSiteWiseReadOnlyAccess","v1",True,"2018-12-04T20:55:11+00:00",0,0,0,0,0,0,0
 "SupportUser","v1",False,"2016-11-10T17:21:53+00:00",1,1,0,0,0,1,1
 "SupportUser","v5",False,"2021-06-11T19:46:10+00:00",1,1,0,0,0,1,1
@@ -2026,7 +2029,8 @@
 "AmazonGuardDutyServiceRolePolicy","v4",True,"2021-08-03T23:14:07+00:00",0,0,0,0,0,0,0
 "AmazonGuardDutyServiceRolePolicy","v3",False,"2020-05-14T20:25:50+00:00",0,0,0,0,0,0,0
 "AmazonGuardDutyServiceRolePolicy","v2",False,"2020-04-20T16:01:34+00:00",0,0,0,0,0,0,0
-"AmazonRedshiftQueryEditorV2NoSharing","v1",True,"2021-09-24T14:18:42+00:00",0,0,0,0,0,0,0
+"AmazonRedshiftQueryEditorV2NoSharing","v1",False,"2021-09-24T14:18:42+00:00",0,0,0,0,0,0,0
+"AmazonRedshiftQueryEditorV2NoSharing","v2",True,"2022-02-23T17:04:20+00:00",0,1,0,0,0,0,15
 "AWSElementalMediaStoreReadOnly","v1",True,"2018-03-08T19:48:22+00:00",0,0,0,0,0,0,0
 "AmazonZocaloFullAccess","v1",True,"2015-02-06T18:41:13+00:00",2,2,0,5,0,0,50
 "AmazonKendraFullAccess","v1",True,"2019-12-03T16:15:37+00:00",1,2,0,1,0,0,18
