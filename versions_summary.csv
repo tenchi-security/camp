@@ -1947,6 +1947,7 @@
 "AmazonLexRunBotsOnly","v1",False,"2017-04-11T23:06:24+00:00",0,0,0,0,0,0,0
 "AmazonLexRunBotsOnly","v3",True,"2021-08-18T00:15:48+00:00",0,1,0,0,0,0,4
 "AmazonLexRunBotsOnly","v2",False,"2020-05-12T19:26:15+00:00",0,1,0,0,0,0,2
+"AWSAppRunnerReadOnlyAccess","v1",True,"2022-02-24T21:24:15+00:00",0,0,0,0,0,0,0
 "AWSApplicationMigrationReadOnlyAccess","v1",False,"2021-04-07T07:15:26+00:00",0,0,0,0,0,0,0
 "AWSApplicationMigrationReadOnlyAccess","v2",True,"2021-11-08T12:54:08+00:00",0,0,0,0,0,0,0
 "AWSLambdaDynamoDBExecutionRole","v1",True,"2015-04-09T15:09:29+00:00",0,1,0,0,0,0,3
