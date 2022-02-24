@@ -1384,8 +1384,9 @@
 "AmazonRDSServiceRolePolicy","v5",False,"2019-02-04T18:16:17+00:00",0,2,0,0,0,0,13
 "AmazonRDSServiceRolePolicy","v4",False,"2018-11-19T22:40:08+00:00",0,2,0,0,0,0,13
 "AmazonRDSServiceRolePolicy","v3",False,"2018-10-16T19:47:43+00:00",0,2,0,0,0,0,13
-"AmazonRDSServiceRolePolicy","v9",True,"2020-11-21T00:08:24+00:00",0,2,0,0,0,0,17
+"AmazonRDSServiceRolePolicy","v9",False,"2020-11-21T00:08:24+00:00",0,2,0,0,0,0,17
 "AmazonRDSServiceRolePolicy","v7",False,"2020-07-31T01:14:11+00:00",0,2,0,0,0,0,13
+"AmazonRDSServiceRolePolicy","v10",True,"2022-02-24T01:07:42+00:00",0,2,0,0,0,0,17
 "AmazonRDSServiceRolePolicy","v2",False,"2018-07-10T15:54:54+00:00",0,2,0,0,0,0,11
 "AmazonRDSServiceRolePolicy","v6",False,"2019-04-16T20:12:27+00:00",0,2,0,0,0,0,13
 "AWSWAFConsoleReadOnlyAccess","v1",False,"2020-04-06T18:43:24+00:00",0,0,0,0,0,0,0
