@@ -1,0 +1,6 @@
+{
+    "VersionId": "v2",
+    "IsDefaultVersion": true,
+    "CreateDate": "2022-02-28T20:42:58+00:00",
+    "PolicyName": "AmazonAppFlowReadOnlyAccess"
+}
