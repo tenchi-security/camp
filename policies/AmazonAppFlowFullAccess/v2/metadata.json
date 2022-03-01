@@ -1,6 +1,6 @@
 {
     "VersionId": "v2",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2020-12-07T22:49:15+00:00",
     "PolicyName": "AmazonAppFlowFullAccess"
 }

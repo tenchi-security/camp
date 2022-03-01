@@ -1,0 +1,33 @@
+{
+    "ServiceWildcard": [
+        "appflow"
+    ],
+    "ServicesAffected": [
+        "appflow",
+        "kms",
+        "secretsmanager"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "kms:CreateGrant",
+        "secretsmanager:PutResourcePolicy"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "appflow:DeleteConnectorProfile",
+        "appflow:DeleteFlow",
+        "appflow:RunFlow",
+        "appflow:StartFlow",
+        "appflow:StopFlow",
+        "appflow:TagResource",
+        "appflow:UnRegisterConnector",
+        "appflow:UntagResource",
+        "appflow:UpdateConnectorProfile",
+        "appflow:UpdateFlow",
+        "appflow:UseConnectorProfile",
+        "kms:CreateGrant",
+        "secretsmanager:CreateSecret",
+        "secretsmanager:PutResourcePolicy"
+    ]
+}
