@@ -2063,7 +2063,8 @@
 "EC2FleetTimeShiftableServiceRolePolicy","v1",True,"2019-12-23T19:47:15+00:00",0,2,0,1,0,0,4
 "AmazonAppStreamReadOnlyAccess","v1",False,"2015-02-06T18:40:10+00:00",0,0,0,0,0,0,0
 "AmazonAppStreamReadOnlyAccess","v2",True,"2016-12-07T21:00:06+00:00",0,0,0,0,0,0,0
-"AWSApplicationMigrationEC2Access","v1",True,"2021-04-07T07:05:22+00:00",0,0,0,0,0,0,0
+"AWSApplicationMigrationEC2Access","v1",False,"2021-04-07T07:05:22+00:00",0,0,0,0,0,0,0
+"AWSApplicationMigrationEC2Access","v2",True,"2022-03-02T08:49:20+00:00",0,0,0,0,0,0,0
 "AmazonPrometheusQueryAccess","v1",True,"2020-12-19T01:02:58+00:00",0,0,0,0,0,0,0
 "AlexaForBusinessGatewayExecution","v1",True,"2017-11-30T16:47:19+00:00",0,1,0,0,0,0,3
 "SimpleWorkflowFullAccess","v1",True,"2015-02-06T18:41:04+00:00",1,1,0,0,0,0,30
