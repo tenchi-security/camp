@@ -1445,7 +1445,8 @@
 "AWSDataExchangeProviderFullAccess","v2",False,"2019-11-25T16:25:47+00:00",0,2,0,0,0,0,12
 "AWSDataExchangeProviderFullAccess","v6",False,"2021-05-10T21:11:47+00:00",0,2,0,0,0,0,12
 "AWSServiceCatalogAppRegistryServiceRolePolicy","v1",False,"2021-05-18T22:18:55+00:00",0,1,0,0,0,0,4
-"AWSServiceCatalogAppRegistryServiceRolePolicy","v2",True,"2021-08-11T19:49:17+00:00",0,1,0,0,0,0,4
+"AWSServiceCatalogAppRegistryServiceRolePolicy","v3",True,"2022-03-04T21:06:44+00:00",0,1,0,0,0,0,4
+"AWSServiceCatalogAppRegistryServiceRolePolicy","v2",False,"2021-08-11T19:49:17+00:00",0,1,0,0,0,0,4
 "FSxDeleteServiceLinkedRoleAccess","v1",True,"2018-11-28T10:40:24+00:00",0,0,0,0,0,0,0
 "AmazonTranscribeFullAccess","v1",True,"2018-04-04T16:06:16+00:00",1,0,0,0,0,0,0
 "AWSXrayWriteOnlyAccess","v1",False,"2016-12-01T18:19:53+00:00",0,0,0,0,0,0,0
