@@ -1,6 +1,6 @@
 {
     "VersionId": "v2",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2018-08-08T21:11:59+00:00",
     "PolicyName": "AWSMarketplaceImageBuildFullAccess"
 }

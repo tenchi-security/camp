@@ -1214,7 +1214,8 @@
 "IAMSelfManageServiceSpecificCredentials","v1",True,"2016-12-22T17:25:18+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryAgentPolicy","v1",True,"2021-11-17T10:32:32+00:00",0,0,0,0,0,0,0
 "AWSMarketplaceImageBuildFullAccess","v1",False,"2018-07-31T23:29:49+00:00",0,2,0,0,0,0,8
-"AWSMarketplaceImageBuildFullAccess","v2",True,"2018-08-08T21:11:59+00:00",0,2,0,0,0,0,10
+"AWSMarketplaceImageBuildFullAccess","v3",True,"2022-03-04T17:05:09+00:00",0,2,0,1,0,0,7
+"AWSMarketplaceImageBuildFullAccess","v2",False,"2018-08-08T21:11:59+00:00",0,2,0,0,0,0,10
 "AWSDataPipeline_PowerUser","v1",False,"2017-01-19T23:16:46+00:00",1,0,0,0,0,0,0
 "AWSDataPipeline_PowerUser","v2",True,"2017-08-17T18:49:42+00:00",1,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryConsoleFullAccess","v1",True,"2021-11-17T10:46:29+00:00",1,0,0,0,0,0,0
@@ -2406,7 +2407,8 @@
 "AmazonEKS_CNI_Policy","v3",False,"2019-06-27T18:10:37+00:00",0,1,0,0,0,0,7
 "AmazonEKS_CNI_Policy","v2",False,"2018-05-31T22:16:00+00:00",0,1,0,0,0,0,6
 "AWSMarketplaceFullAccess","v1",False,"2015-02-11T17:21:45+00:00",1,2,0,0,0,0,10
-"AWSMarketplaceFullAccess","v3",True,"2018-08-08T21:13:02+00:00",1,5,0,2,0,0,20
+"AWSMarketplaceFullAccess","v4",True,"2022-03-04T17:04:00+00:00",1,5,0,3,0,0,18
+"AWSMarketplaceFullAccess","v3",False,"2018-08-08T21:13:02+00:00",1,5,0,2,0,0,20
 "AWSMarketplaceFullAccess","v2",False,"2018-07-31T23:18:28+00:00",1,5,0,2,0,0,19
 "AWSWAFFullAccess","v1",False,"2015-10-06T20:44:00+00:00",1,1,0,2,0,0,43
 "AWSWAFFullAccess","v5",False,"2020-10-01T20:13:54+00:00",3,4,0,9,0,0,112
