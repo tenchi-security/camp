@@ -2515,7 +2515,8 @@
 "Route53ResolverServiceRolePolicy","v1",True,"2020-08-12T17:47:24+00:00",0,0,0,0,0,0,0
 "AmazonWorkMailMessageFlowFullAccess","v1",True,"2021-02-11T11:08:35+00:00",1,0,0,0,0,0,0
 "AmazonDevOpsGuruReadOnlyAccess","v1",False,"2020-12-01T16:34:40+00:00",0,0,0,0,0,0,0
-"AmazonDevOpsGuruReadOnlyAccess","v4",True,"2021-11-26T21:05:22+00:00",0,0,0,0,0,0,0
+"AmazonDevOpsGuruReadOnlyAccess","v5",True,"2022-03-04T02:37:19+00:00",0,0,0,0,0,0,0
+"AmazonDevOpsGuruReadOnlyAccess","v4",False,"2021-11-26T21:05:22+00:00",0,0,0,0,0,0,0
 "AmazonDevOpsGuruReadOnlyAccess","v3",False,"2021-06-14T22:34:43+00:00",0,0,0,0,0,0,0
 "AmazonDevOpsGuruReadOnlyAccess","v2",False,"2021-04-23T18:44:36+00:00",0,0,0,0,0,0,0
 "AWSDataLifecycleManagerServiceRole","v1",False,"2018-07-06T19:34:16+00:00",0,1,0,0,0,0,2
