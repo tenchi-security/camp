@@ -1,0 +1,24 @@
+{
+    "ServiceWildcard": [
+        "macie2"
+    ],
+    "ServicesAffected": [
+        "macie2"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "macie2:CreateClassificationJob",
+        "macie2:CreateCustomDataIdentifier",
+        "macie2:CreateFindingsFilter",
+        "macie2:CreateMember",
+        "macie2:DeleteCustomDataIdentifier",
+        "macie2:DeleteFindingsFilter",
+        "macie2:DeleteMember",
+        "macie2:DisassociateMember",
+        "macie2:UpdateClassificationJob",
+        "macie2:UpdateFindingsFilter"
+    ]
+}

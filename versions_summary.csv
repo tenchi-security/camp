@@ -1140,7 +1140,8 @@
 "AWSTransferLoggingAccess","v1",True,"2019-01-14T15:32:50+00:00",0,1,0,0,0,0,3
 "AmazonMachineLearningRoleforRedshiftDataSourceV3","v1",True,"2020-06-24T18:00:09+00:00",0,2,0,0,0,0,7
 "AmazonMacieFullAccess","v1",False,"2017-08-14T14:54:30+00:00",1,0,0,0,0,0,0
-"AmazonMacieFullAccess","v3",True,"2020-05-13T19:05:16+00:00",2,2,0,1,0,0,11
+"AmazonMacieFullAccess","v4",True,"2022-03-07T18:08:14+00:00",1,1,0,0,0,0,10
+"AmazonMacieFullAccess","v3",False,"2020-05-13T19:05:16+00:00",2,2,0,1,0,0,11
 "AmazonMacieFullAccess","v2",False,"2018-06-28T15:54:57+00:00",1,1,0,1,0,0,1
 "AWSIoT1ClickFullAccess","v1",True,"2018-05-11T22:10:14+00:00",1,1,0,0,0,0,12
 "AmazonCloudDirectoryFullAccess","v1",True,"2017-02-25T00:41:39+00:00",1,1,0,0,0,0,32
