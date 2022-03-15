@@ -1,0 +1,36 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "aws-marketplace",
+        "dataexchange",
+        "redshift",
+        "s3"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "redshift:AuthorizeDataShare"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "aws-marketplace:CancelChangeSet",
+        "aws-marketplace:StartChangeSet",
+        "dataexchange:CancelJob",
+        "dataexchange:CreateJob",
+        "dataexchange:DeleteAsset",
+        "dataexchange:DeleteDataSet",
+        "dataexchange:DeleteEventAction",
+        "dataexchange:DeleteRevision",
+        "dataexchange:PublishDataSet",
+        "dataexchange:SendApiAsset",
+        "dataexchange:StartJob",
+        "dataexchange:TagResource",
+        "dataexchange:UntagResource",
+        "dataexchange:UpdateAsset",
+        "dataexchange:UpdateDataSet",
+        "dataexchange:UpdateEventAction",
+        "dataexchange:UpdateRevision",
+        "redshift:AuthorizeDataShare",
+        "s3:GetObject"
+    ]
+}
