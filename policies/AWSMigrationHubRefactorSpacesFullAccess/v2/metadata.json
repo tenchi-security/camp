@@ -1,6 +1,6 @@
 {
     "VersionId": "v2",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2021-11-29T14:07:52+00:00",
     "PolicyName": "AWSMigrationHubRefactorSpacesFullAccess"
 }

@@ -706,7 +706,8 @@
 "AmazonFISServiceRolePolicy","v2",False,"2021-01-18T15:40:47+00:00",0,1,0,0,0,0,4
 "AWSIPAMServiceRolePolicy","v1",True,"2021-11-30T19:08:11+00:00",0,0,0,0,0,0,0
 "AWSMigrationHubRefactorSpacesFullAccess","v1",False,"2021-11-29T07:12:55+00:00",1,4,0,1,0,0,21
-"AWSMigrationHubRefactorSpacesFullAccess","v2",True,"2021-11-29T14:07:52+00:00",1,4,0,2,0,0,21
+"AWSMigrationHubRefactorSpacesFullAccess","v3",True,"2022-03-21T17:41:49+00:00",1,5,0,2,0,0,27
+"AWSMigrationHubRefactorSpacesFullAccess","v2",False,"2021-11-29T14:07:52+00:00",1,4,0,2,0,0,21
 "AmazonMQApiReadOnlyAccess","v1",True,"2018-12-18T20:31:13+00:00",0,0,0,0,0,0,0
 "AlexaForBusinessDeviceSetup","v1",False,"2017-11-30T16:47:16+00:00",0,0,0,0,0,0,0
 "AlexaForBusinessDeviceSetup","v2",True,"2019-05-20T21:05:39+00:00",0,0,0,0,0,0,0
@@ -1701,7 +1702,8 @@
 "AmazonEC2SpotFleetAutoscaleRole","v2",False,"2017-11-14T22:24:10+00:00",0,2,0,0,0,0,3
 "AWSOpsWorksRegisterCLI_EC2","v1",True,"2019-06-18T15:56:17+00:00",0,1,0,0,0,0,4
 "AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v1",False,"2020-11-27T18:48:07+00:00",0,3,0,0,0,0,14
-"AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v4",True,"2022-02-16T19:52:11+00:00",0,4,0,0,0,0,20
+"AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v5",True,"2022-03-21T17:33:28+00:00",0,4,0,0,0,0,20
+"AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v4",False,"2022-02-16T19:52:11+00:00",0,4,0,0,0,0,20
 "AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v3",False,"2021-09-15T20:00:26+00:00",0,3,0,0,0,0,14
 "AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v2",False,"2021-07-02T06:13:39+00:00",0,3,0,0,0,0,14
 "AmazonElasticTranscoderRole","v1",False,"2015-02-06T18:41:26+00:00",0,2,0,8,1,0,35
