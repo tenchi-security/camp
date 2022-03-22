@@ -2465,7 +2465,8 @@
 "AWSCodeDeployFullAccess","v1",False,"2015-05-19T18:13:23+00:00",1,1,0,0,0,0,16
 "AWSCodeDeployFullAccess","v3",True,"2020-04-02T16:14:47+00:00",1,2,0,0,0,0,21
 "AWSCodeDeployFullAccess","v2",False,"2019-11-05T22:57:28+00:00",1,2,0,0,0,0,21
-"AmazonEKSWorkerNodePolicy","v1",True,"2018-05-27T21:09:01+00:00",0,0,0,0,0,0,0
+"AmazonEKSWorkerNodePolicy","v1",False,"2018-05-27T21:09:01+00:00",0,0,0,0,0,0,0
+"AmazonEKSWorkerNodePolicy","v2",True,"2022-03-21T22:39:36+00:00",0,0,0,0,0,0,0
 "AmazonEKSVPCResourceController","v1",True,"2020-08-12T00:55:34+00:00",0,1,0,1,0,0,8
 "AmazonKinesisFirehoseFullAccess","v1",True,"2015-10-07T18:45:26+00:00",1,1,0,0,0,0,9
 "AmazonHoneycodeTeamAssociationFullAccess","v1",True,"2020-06-24T20:28:27+00:00",0,0,0,0,0,0,0
