@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSIdentitySyncFullAccess",
+    "PolicyId": "ANPAZKAPJZG4ERMGGBXIS",
+    "Arn": "arn:aws:iam::aws:policy/AWSIdentitySyncFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2022-03-23T23:29:33+00:00",
+    "UpdateDate": "2022-03-23T23:29:33+00:00"
+}
