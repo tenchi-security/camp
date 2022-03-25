@@ -437,7 +437,8 @@
 "AmazonDynamoDBFullAccess","v6",False,"2017-11-29T16:22:51+00:00",2,6,0,3,0,0,50
 "AmazonDynamoDBFullAccess","v13",False,"2020-11-16T18:19:47+00:00",2,7,0,4,0,0,52
 "AWSSSODirectoryAdministrator","v1",False,"2018-10-31T23:54:00+00:00",1,0,0,13,0,0,0
-"AWSSSODirectoryAdministrator","v2",True,"2020-08-18T17:17:40+00:00",1,0,0,13,0,0,0
+"AWSSSODirectoryAdministrator","v3",True,"2022-03-25T20:31:19+00:00",2,0,0,0,0,0,0
+"AWSSSODirectoryAdministrator","v2",False,"2020-08-18T17:17:40+00:00",1,0,0,13,0,0,0
 "AWSPurchaseOrdersServiceRolePolicy","v1",False,"2020-05-06T18:15:47+00:00",0,0,0,0,0,0,0
 "AWSPurchaseOrdersServiceRolePolicy","v2",True,"2021-11-22T20:06:47+00:00",0,0,0,0,0,0,0
 "AWSOutpostsServiceRolePolicy","v1",True,"2020-11-09T22:55:56+00:00",0,1,0,0,0,0,2
@@ -999,7 +1000,8 @@
 "AmazonDynamoDBReadOnlyAccess","v6",False,"2017-11-29T16:12:24+00:00",0,0,0,0,0,0,0
 "AmazonDynamoDBReadOnlyAccess","v13",True,"2021-01-27T01:01:47+00:00",0,0,0,0,0,0,0
 "AWSSSODirectoryReadOnly","v1",False,"2018-10-31T23:49:32+00:00",0,0,0,0,0,0,0
-"AWSSSODirectoryReadOnly","v2",True,"2019-11-26T22:37:16+00:00",0,0,0,0,0,0,0
+"AWSSSODirectoryReadOnly","v3",True,"2022-03-25T20:57:20+00:00",0,0,0,0,0,0,0
+"AWSSSODirectoryReadOnly","v2",False,"2019-11-26T22:37:16+00:00",0,0,0,0,0,0,0
 "AmazonDocDBConsoleFullAccess","v1",False,"2019-01-09T20:37:28+00:00",0,3,0,1,0,0,62
 "AmazonDocDBConsoleFullAccess","v3",True,"2021-04-05T22:42:40+00:00",0,3,0,1,0,0,62
 "AmazonDocDBConsoleFullAccess","v2",False,"2019-10-21T18:57:02+00:00",0,3,0,1,0,0,62
@@ -2248,7 +2250,8 @@
 "AWSCloudHSMReadOnlyAccess","v1",True,"2015-02-06T18:39:52+00:00",0,0,0,0,0,0,0
 "AWSMigrationHubStrategyCollector","v1",True,"2021-10-19T20:15:15+00:00",0,0,0,0,0,0,0
 "AWSSSOMemberAccountAdministrator","v1",False,"2018-06-27T20:45:42+00:00",1,2,0,31,0,0,17
-"AWSSSOMemberAccountAdministrator","v3",True,"2021-08-04T20:13:14+00:00",2,2,0,44,0,0,18
+"AWSSSOMemberAccountAdministrator","v4",True,"2022-03-25T20:11:32+00:00",3,2,0,5,0,0,18
+"AWSSSOMemberAccountAdministrator","v3",False,"2021-08-04T20:13:14+00:00",2,2,0,44,0,0,18
 "AWSSSOMemberAccountAdministrator","v2",False,"2018-10-17T20:35:52+00:00",1,2,0,31,0,0,18
 "AmazonEventBridgeSchemasReadOnlyAccess","v1",False,"2019-11-28T23:05:57+00:00",0,0,0,0,0,0,0
 "AmazonEventBridgeSchemasReadOnlyAccess","v2",True,"2020-05-01T00:50:53+00:00",0,0,0,0,0,0,0

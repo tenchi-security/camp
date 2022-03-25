@@ -1,0 +1,12 @@
+{
+    "ServiceWildcard": [
+        "identitystore",
+        "sso-directory"
+    ],
+    "ServicesAffected": [],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": []
+}

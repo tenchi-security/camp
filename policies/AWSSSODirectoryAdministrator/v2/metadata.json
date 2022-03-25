@@ -1,6 +1,6 @@
 {
     "VersionId": "v2",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2020-08-18T17:17:40+00:00",
     "PolicyName": "AWSSSODirectoryAdministrator"
 }
