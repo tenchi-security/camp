@@ -292,7 +292,8 @@
 "EC2InstanceProfileForImageBuilder","v3",True,"2020-08-27T16:40:50+00:00",0,1,0,0,0,0,1
 "EC2InstanceProfileForImageBuilder","v2",False,"2020-06-15T17:44:31+00:00",0,1,0,0,0,0,1
 "AWSSSOMasterAccountAdministrator","v1",False,"2018-06-27T20:36:51+00:00",1,2,0,31,0,0,17
-"AWSSSOMasterAccountAdministrator","v4",True,"2021-08-04T21:10:42+00:00",2,2,0,44,0,0,18
+"AWSSSOMasterAccountAdministrator","v5",True,"2022-03-25T18:53:19+00:00",3,2,0,5,0,0,18
+"AWSSSOMasterAccountAdministrator","v4",False,"2021-08-04T21:10:42+00:00",2,2,0,44,0,0,18
 "AWSSSOMasterAccountAdministrator","v3",False,"2018-10-17T20:41:20+00:00",1,2,0,31,0,0,18
 "AWSSSOMasterAccountAdministrator","v2",False,"2018-07-03T20:10:59+00:00",1,2,0,31,0,0,17
 "AmazonEC2RoleforAWSCodeDeployLimited","v1",False,"2020-08-24T17:55:18+00:00",0,1,0,0,0,0,1
