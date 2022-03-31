@@ -5,3 +5,4 @@ pandas
 matplotlib
 data-science-types
 pretty_html_table
+markupsafe==2.0.1
