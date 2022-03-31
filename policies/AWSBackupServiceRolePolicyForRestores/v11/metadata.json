@@ -1,0 +1,6 @@
+{
+    "VersionId": "v11",
+    "IsDefaultVersion": true,
+    "CreateDate": "2022-03-31T18:21:27+00:00",
+    "PolicyName": "AWSBackupServiceRolePolicyForRestores"
+}
