@@ -1,6 +1,6 @@
 {
     "VersionId": "v23",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2022-02-16T18:35:29+00:00",
     "PolicyName": "FMSServiceRolePolicy"
 }
