@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonSageMakerServiceCatalogProductsLambdaServiceRolePolicy",
+    "PolicyId": "ANPAZKAPJZG4CMUQVI4HY",
+    "Arn": "arn:aws:iam::aws:policy/service-role/AmazonSageMakerServiceCatalogProductsLambdaServiceRolePolicy",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2022-04-04T16:34:43+00:00",
+    "UpdateDate": "2022-04-04T16:34:43+00:00"
+}

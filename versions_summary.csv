@@ -1671,6 +1671,7 @@
 "ElastiCacheServiceRolePolicy","v2",False,"2019-09-25T23:09:07+00:00",0,1,0,0,0,0,7
 "ElastiCacheServiceRolePolicy","v3",True,"2020-02-06T21:27:13+00:00",0,1,0,0,0,0,7
 "AWSOpsWorksInstanceRegistration","v1",True,"2016-06-03T14:23:15+00:00",0,1,0,0,0,0,1
+"AmazonEBSCSIDriverPolicy","v1",True,"2022-04-04T17:24:29+00:00",0,1,0,0,0,0,7
 "AWSConfigRulesExecutionRole","v1",False,"2016-03-25T17:59:36+00:00",0,1,0,0,0,0,5
 "AWSConfigRulesExecutionRole","v2",False,"2018-12-20T22:16:14+00:00",0,1,0,0,0,0,5
 "AWSConfigRulesExecutionRole","v3",True,"2019-05-13T21:33:30+00:00",0,1,0,0,0,0,5
@@ -1795,7 +1796,8 @@
 "AmazonMemoryDBFullAccess","v1",True,"2021-10-08T19:24:16+00:00",1,1,0,0,0,0,20
 "AWSApplicationMigrationReplicationServerPolicy","v1",True,"2021-04-07T07:21:57+00:00",0,1,0,0,0,0,1
 "AWSSecurityHubReadOnlyAccess","v1",False,"2018-11-28T01:34:29+00:00",0,0,0,0,0,0,0
-"AWSSecurityHubReadOnlyAccess","v2",True,"2019-06-25T22:45:52+00:00",0,0,0,0,0,0,0
+"AWSSecurityHubReadOnlyAccess","v2",False,"2019-06-25T22:45:52+00:00",0,0,0,0,0,0,0
+"AWSSecurityHubReadOnlyAccess","v3",True,"2022-04-04T17:46:51+00:00",0,0,0,0,0,0,0
 "EC2FastLaunchServiceRolePolicy","v1",True,"2022-01-10T13:08:21+00:00",0,1,0,1,0,0,1
 "AmazonRoute53ResolverFullAccess","v1",False,"2019-05-30T18:10:50+00:00",1,2,0,2,0,0,23
 "AmazonRoute53ResolverFullAccess","v2",True,"2020-07-17T19:03:27+00:00",1,2,0,2,0,0,23
@@ -2035,7 +2037,8 @@
 "AWSIoTFleetHubFederationAccess","v1",False,"2020-12-15T08:08:05+00:00",0,1,0,0,0,0,3
 "AWSIoTFleetHubFederationAccess","v2",False,"2021-04-12T18:27:43+00:00",0,1,0,0,0,0,3
 "AWSIoTFleetHubFederationAccess","v3",False,"2021-05-24T14:12:59+00:00",0,1,0,0,0,0,5
-"AWSIoTFleetHubFederationAccess","v4",True,"2021-11-15T23:28:19+00:00",0,1,0,0,0,0,6
+"AWSIoTFleetHubFederationAccess","v5",True,"2022-04-04T18:03:01+00:00",0,1,0,0,0,0,6
+"AWSIoTFleetHubFederationAccess","v4",False,"2021-11-15T23:28:19+00:00",0,1,0,0,0,0,6
 "AmazonRoute53FullAccess","v1",False,"2015-02-06T18:40:54+00:00",1,1,0,0,0,0,20
 "AmazonRoute53FullAccess","v2",False,"2017-02-14T21:25:53+00:00",2,1,0,0,0,0,20
 "AmazonRoute53FullAccess","v3",False,"2017-11-13T22:22:04+00:00",2,1,0,0,0,0,20
@@ -2124,6 +2127,7 @@
 "AWSApplicationMigrationFullAccess","v2",True,"2022-02-22T11:16:56+00:00",1,1,0,0,0,0,33
 "ComprehendFullAccess","v1",False,"2017-11-29T18:08:43+00:00",1,1,0,0,0,0,11
 "ComprehendFullAccess","v2",True,"2017-12-05T01:36:24+00:00",1,1,0,0,0,0,11
+"AmazonSageMakerServiceCatalogProductsLambdaServiceRolePolicy","v1",True,"2022-04-04T16:34:43+00:00",0,0,0,0,0,0,0
 "AWSKeyManagementServicePowerUser","v1",False,"2015-02-06T18:40:40+00:00",0,1,0,0,0,0,2
 "AWSKeyManagementServicePowerUser","v2",True,"2017-03-07T00:55:11+00:00",0,1,0,0,0,0,4
 "AWSBackupAuditAccess","v1",True,"2021-08-24T01:02:23+00:00",0,0,0,0,0,0,0
