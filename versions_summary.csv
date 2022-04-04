@@ -2422,6 +2422,7 @@
 "AmazonFreeRTOSOTAUpdate","v1",False,"2018-08-27T22:43:07+00:00",0,2,0,0,0,0,3
 "AmazonFreeRTOSOTAUpdate","v2",False,"2019-10-07T20:11:30+00:00",0,2,0,0,0,0,3
 "AmazonFreeRTOSOTAUpdate","v3",True,"2020-12-18T17:47:30+00:00",0,2,0,0,0,0,3
+"AmazonChimeSDKMediaPipelinesServiceLinkedRolePolicy","v1",True,"2022-04-04T22:02:05+00:00",0,1,0,0,0,0,2
 "AWSPrivateNetworksServiceRolePolicy","v1",True,"2021-12-16T23:17:46+00:00",0,0,0,0,0,0,0
 "AmazonPrometheusFullAccess","v1",True,"2020-12-15T18:10:46+00:00",1,1,0,0,0,0,3
 "AWSBugBustFullAccess","v1",False,"2021-06-24T07:03:26+00:00",1,0,0,0,0,0,0
