@@ -622,7 +622,8 @@
 "AWSGlobalAcceleratorSLRPolicy","v5",False,"2021-05-19T17:10:49+00:00",0,1,0,0,0,0,5
 "AWSGlobalAcceleratorSLRPolicy","v6",True,"2021-11-02T18:33:56+00:00",0,1,0,0,0,0,7
 "AWSGlobalAcceleratorSLRPolicy","v4",False,"2019-10-14T21:05:22+00:00",0,1,0,0,0,0,5
-"AmazonWorkSpacesWebServiceRolePolicy","v1",True,"2021-11-30T13:15:53+00:00",0,1,0,0,0,0,4
+"AmazonWorkSpacesWebServiceRolePolicy","v1",False,"2021-11-30T13:15:53+00:00",0,1,0,0,0,0,4
+"AmazonWorkSpacesWebServiceRolePolicy","v2",True,"2022-04-05T22:01:09+00:00",0,1,0,0,0,0,4
 "NeptuneConsoleFullAccess","v1",False,"2018-06-19T21:35:19+00:00",0,3,0,1,0,0,60
 "NeptuneConsoleFullAccess","v2",False,"2018-11-06T21:19:54+00:00",0,4,0,2,0,0,61
 "NeptuneConsoleFullAccess","v3",False,"2020-01-23T20:49:41+00:00",0,4,0,2,0,0,61
