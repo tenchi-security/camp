@@ -2457,6 +2457,7 @@
 "AWSMediaTailorServiceRolePolicy","v1",True,"2021-09-17T22:27:10+00:00",0,0,0,0,0,0,0
 "AWSIoTDeviceDefenderReplaceDefaultPolicyMitigationAction","v1",True,"2019-08-07T17:04:57+00:00",0,1,0,0,0,0,1
 "AmazonMobileAnalyticsWriteOnlyAccess","v1",True,"2015-02-06T18:40:37+00:00",0,0,0,0,0,0,0
+"AmazonRDSPerformanceInsightsReadOnly","v1",True,"2022-04-05T00:02:08+00:00",0,0,0,0,0,0,0
 "AWSVPCTransitGatewayServiceRolePolicy","v1",False,"2018-11-26T16:21:17+00:00",0,1,0,1,0,0,4
 "AWSVPCTransitGatewayServiceRolePolicy","v2",True,"2021-04-15T16:31:44+00:00",0,1,0,1,0,0,6
 "AWSPanoramaFullAccess","v1",False,"2020-12-01T13:12:47+00:00",1,1,0,0,0,0,14
