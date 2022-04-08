@@ -190,8 +190,9 @@
 "AWSGlueDataBrewServiceRole","v2",True,"2021-11-18T19:44:16+00:00",0,1,0,0,0,0,2
 "AWSGlueDataBrewServiceRole","v1",False,"2020-12-04T21:26:50+00:00",0,1,0,0,0,0,2
 "AmazonEventBridgeReadOnlyAccess","v2",False,"2020-11-06T03:15:41+00:00",0,0,0,0,0,0,0
+"AmazonEventBridgeReadOnlyAccess","v4",True,"2022-04-08T20:42:18+00:00",0,0,0,0,0,0,0
 "AmazonEventBridgeReadOnlyAccess","v1",False,"2019-07-11T13:59:07+00:00",0,0,0,0,0,0,0
-"AmazonEventBridgeReadOnlyAccess","v3",True,"2021-03-04T19:08:31+00:00",0,0,0,0,0,0,0
+"AmazonEventBridgeReadOnlyAccess","v3",False,"2021-03-04T19:08:31+00:00",0,0,0,0,0,0,0
 "AWSDeviceFarmTestGridServiceRolePolicy","v1",True,"2021-05-26T22:01:35+00:00",0,0,0,0,0,0,0
 "GlobalAcceleratorFullAccess","v2",False,"2019-07-08T22:15:16+00:00",1,1,0,0,0,0,23
 "GlobalAcceleratorFullAccess","v4",False,"2019-10-21T21:25:42+00:00",1,1,0,0,0,0,23
