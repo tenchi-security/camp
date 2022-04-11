@@ -548,7 +548,8 @@
 "AmazonNimbleStudio-StudioAdmin","v2",True,"2021-11-01T20:02:36+00:00",0,3,0,1,0,0,12
 "AmazonNimbleStudio-StudioAdmin","v1",False,"2021-04-28T04:47:36+00:00",0,2,0,2,0,0,4
 "AmazonPollyFullAccess","v1",True,"2016-11-30T18:59:06+00:00",1,1,0,0,0,0,3
-"AmazonSageMakerGroundTruthExecution","v1",True,"2020-07-09T19:30:20+00:00",0,2,0,0,0,0,4
+"AmazonSageMakerGroundTruthExecution","v2",True,"2022-04-11T21:22:37+00:00",0,2,0,0,0,0,4
+"AmazonSageMakerGroundTruthExecution","v1",False,"2020-07-09T19:30:20+00:00",0,2,0,0,0,0,4
 "AWSGrafanaAccountAdministrator","v2",False,"2021-10-13T22:13:18+00:00",1,0,0,0,0,0,0
 "AWSGrafanaAccountAdministrator","v1",False,"2021-02-23T00:20:38+00:00",1,0,0,0,0,0,0
 "AWSGrafanaAccountAdministrator","v3",True,"2022-02-15T22:36:18+00:00",1,1,0,1,0,0,6
@@ -1416,6 +1417,7 @@
 "AWSSSOServiceRolePolicy","v5",False,"2019-02-05T18:20:34+00:00",0,0,0,0,0,0,0
 "AWSSSOServiceRolePolicy","v3",False,"2017-12-06T20:41:34+00:00",0,0,0,0,0,0,0
 "AWSSSOServiceRolePolicy","v12",False,"2020-10-21T20:27:38+00:00",0,1,0,0,0,0,1
+"ROSAManageSubscription","v1",True,"2022-04-11T20:58:08+00:00",0,0,0,0,0,0,0
 "AWSResourceGroupsReadOnlyAccess","v2",True,"2019-02-05T17:56:25+00:00",0,0,0,0,0,0,0
 "AWSResourceGroupsReadOnlyAccess","v1",False,"2018-03-07T10:27:04+00:00",0,0,0,0,0,0,0
 "AWSCloudShellFullAccess","v1",True,"2020-12-15T18:07:44+00:00",1,1,0,0,0,0,7
