@@ -351,6 +351,7 @@
 "WAFV2LoggingServiceRolePolicy","v1",False,"2019-11-07T00:40:56+00:00",0,0,0,0,0,0,0
 "AmazonDetectiveServiceLinkedRolePolicy","v1",True,"2021-11-18T19:47:32+00:00",0,0,0,0,0,0,0
 "AmazonMacieServiceRole","v1",True,"2017-08-14T14:53:26+00:00",0,1,0,0,1,0,1
+"AWSBillingConductorFullAccess","v1",True,"2022-04-13T18:02:29+00:00",1,0,0,0,0,0,0
 "ElementalSupportCenterFullAccess","v2",True,"2021-02-05T21:02:54+00:00",2,0,0,0,0,0,0
 "ElementalSupportCenterFullAccess","v1",False,"2020-11-25T18:08:30+00:00",2,0,0,0,0,0,0
 "ElasticLoadBalancingReadOnly","v1",True,"2018-09-20T20:17:09+00:00",0,0,0,0,0,0,0
@@ -2060,6 +2061,7 @@
 "AWSWAFConsoleFullAccess","v4",True,"2022-01-11T19:34:04+00:00",3,5,0,9,0,0,113
 "AWSWAFConsoleFullAccess","v1",False,"2020-04-06T18:38:38+00:00",3,5,0,9,0,0,113
 "AWSWAFConsoleFullAccess","v3",False,"2021-11-15T19:33:52+00:00",3,5,0,9,0,0,113
+"AWSBillingConductorReadOnlyAccess","v1",True,"2022-04-13T18:02:59+00:00",0,0,0,0,0,0,0
 "AWSForWordPressPluginPolicy","v2",True,"2020-01-20T23:20:47+00:00",0,3,0,0,0,0,10
 "AWSForWordPressPluginPolicy","v1",False,"2019-10-30T00:27:46+00:00",0,3,0,0,0,0,9
 "AmazonHoneycodeTeamAssociationReadOnlyAccess","v1",True,"2020-06-24T20:27:46+00:00",0,0,0,0,0,0,0

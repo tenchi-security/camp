@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSBillingConductorFullAccess",
+    "PolicyId": "ANPAZKAPJZG4D2AMFVFND",
+    "Arn": "arn:aws:iam::aws:policy/AWSBillingConductorFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2022-04-13T18:02:29+00:00",
+    "UpdateDate": "2022-04-13T18:02:29+00:00"
+}
