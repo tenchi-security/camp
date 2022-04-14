@@ -1425,9 +1425,10 @@
 "AWSResourceGroupsReadOnlyAccess","v1",False,"2018-03-07T10:27:04+00:00",0,0,0,0,0,0,0
 "AWSCloudShellFullAccess","v1",True,"2020-12-15T18:07:44+00:00",1,1,0,0,0,0,7
 "AdministratorAccess-Amplify","v2",False,"2021-01-13T22:36:27+00:00",2,15,2,25,1,1,174
-"AdministratorAccess-Amplify","v7",True,"2021-12-01T19:07:19+00:00",5,19,7,51,1,1,236
+"AdministratorAccess-Amplify","v7",False,"2021-12-01T19:07:19+00:00",5,19,7,51,1,1,236
 "AdministratorAccess-Amplify","v4",False,"2021-09-23T23:12:41+00:00",4,19,7,55,1,1,233
 "AdministratorAccess-Amplify","v1",False,"2020-12-01T19:03:08+00:00",0,12,0,22,1,0,99
+"AdministratorAccess-Amplify","v8",True,"2022-04-13T22:42:11+00:00",5,20,7,51,1,1,249
 "AdministratorAccess-Amplify","v6",False,"2021-11-04T17:51:32+00:00",4,19,7,51,1,1,236
 "AdministratorAccess-Amplify","v5",False,"2021-10-13T20:03:40+00:00",4,19,7,55,1,1,234
 "AdministratorAccess-Amplify","v3",False,"2021-07-26T22:49:07+00:00",3,16,3,40,1,1,199
