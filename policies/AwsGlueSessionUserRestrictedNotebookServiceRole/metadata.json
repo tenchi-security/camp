@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AwsGlueSessionUserRestrictedNotebookServiceRole",
+    "PolicyId": "ANPAZKAPJZG4GLSDXUPXM",
+    "Arn": "arn:aws:iam::aws:policy/service-role/AwsGlueSessionUserRestrictedNotebookServiceRole",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2022-04-18T15:27:11+00:00",
+    "UpdateDate": "2022-04-18T15:27:11+00:00"
+}

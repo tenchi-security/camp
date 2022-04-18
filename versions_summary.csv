@@ -1422,6 +1422,8 @@
 "AWSSSOServiceRolePolicy","v3",False,"2017-12-06T20:41:34+00:00",0,0,0,0,0,0,0
 "AWSSSOServiceRolePolicy","v12",False,"2020-10-21T20:27:38+00:00",0,1,0,0,0,0,1
 "ROSAManageSubscription","v1",True,"2022-04-11T20:58:08+00:00",0,0,0,0,0,0,0
+"AwsGlueSessionUserRestrictedNotebookPolicy","v1",True,"2022-04-18T15:24:56+00:00",0,0,0,0,0,0,0
+"AwsGlueSessionUserRestrictedNotebookServiceRole","v1",True,"2022-04-18T15:27:11+00:00",1,0,0,0,0,0,0
 "AWSResourceGroupsReadOnlyAccess","v2",True,"2019-02-05T17:56:25+00:00",0,0,0,0,0,0,0
 "AWSResourceGroupsReadOnlyAccess","v1",False,"2018-03-07T10:27:04+00:00",0,0,0,0,0,0,0
 "AWSCloudShellFullAccess","v1",True,"2020-12-15T18:07:44+00:00",1,1,0,0,0,0,7
