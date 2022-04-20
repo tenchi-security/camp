@@ -836,6 +836,7 @@
 "AWSMarketplaceMeteringFullAccess","v1",True,"2016-03-17T22:39:22+00:00",0,0,0,0,0,0,0
 "AmazonHoneycodeServiceRolePolicy","v1",True,"2020-11-18T18:03:08+00:00",0,0,0,0,0,0,0
 "AWSIoTAnalyticsReadOnlyAccess","v1",True,"2018-06-18T21:37:49+00:00",0,0,0,0,0,0,0
+"AWSMigrationHubOrchestratorPlugin","v1",True,"2022-04-20T02:25:10+00:00",0,0,0,0,0,0,0
 "AWSQuickSightSageMakerPolicy","v1",True,"2020-01-17T17:18:13+00:00",0,0,0,0,0,0,0
 "AmazonDynamoDBFullAccess","v2",False,"2015-11-12T02:17:28+00:00",1,4,0,2,0,0,37
 "AmazonDynamoDBFullAccess","v7",False,"2018-01-12T00:38:17+00:00",2,6,0,4,0,0,51
@@ -1008,6 +1009,7 @@
 "CloudWatchReadOnlyAccess","v3",False,"2018-05-10T21:40:42+00:00",0,0,0,0,0,0,0
 "AmazonKeyspacesFullAccess","v2",True,"2021-06-01T19:31:39+00:00",1,2,0,0,0,0,8
 "AmazonKeyspacesFullAccess","v1",False,"2020-04-23T17:06:37+00:00",1,2,0,0,0,0,8
+"AWSMigrationHubOrchestratorServiceRolePolicy","v1",True,"2022-04-20T02:24:04+00:00",0,2,0,0,0,0,8
 "AWSElasticBeanstalkWorkerTier","v2",False,"2016-03-07T23:38:26+00:00",0,1,0,0,0,0,3
 "AWSElasticBeanstalkWorkerTier","v4",False,"2016-12-21T02:01:55+00:00",0,1,0,0,0,0,3
 "AWSElasticBeanstalkWorkerTier","v1",False,"2016-02-08T23:12:02+00:00",0,1,0,0,0,0,3
@@ -1448,6 +1450,7 @@
 "AmazonRedshiftQueryEditorV2ReadWriteSharing","v1",False,"2021-09-24T14:25:37+00:00",0,0,0,0,0,0,0
 "AmazonWorkSpacesWebServiceRolePolicy","v2",True,"2022-04-05T22:01:09+00:00",0,1,0,0,0,0,4
 "AmazonWorkSpacesWebServiceRolePolicy","v1",False,"2021-11-30T13:15:53+00:00",0,1,0,0,0,0,4
+"AWSMigrationHubOrchestratorInstanceRolePolicy","v1",True,"2022-04-20T02:43:50+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerMechanicalTurkAccess","v1",True,"2019-12-03T16:19:36+00:00",0,1,0,0,0,0,2
 "AWSDataExchangeFullAccess","v2",False,"2020-04-27T14:22:05+00:00",1,2,0,0,0,0,12
 "AWSDataExchangeFullAccess","v4",False,"2021-05-10T21:07:38+00:00",1,2,0,0,0,0,12
@@ -1739,6 +1742,7 @@
 "AutoScalingServiceRolePolicy","v6",True,"2021-10-29T22:06:23+00:00",0,7,0,2,1,0,24
 "AutoScalingServiceRolePolicy","v5",False,"2021-03-29T22:33:25+00:00",0,6,0,2,0,0,23
 "AutoScalingServiceRolePolicy","v3",False,"2020-10-30T00:01:26+00:00",0,6,0,2,0,0,21
+"AWSMigrationHubOrchestratorConsoleFullAccess","v1",True,"2022-04-20T02:26:28+00:00",1,1,0,1,0,0,1
 "AWSServiceCatalogAppRegistryServiceRolePolicy","v2",False,"2021-08-11T19:49:17+00:00",0,1,0,0,0,0,4
 "AWSServiceCatalogAppRegistryServiceRolePolicy","v1",False,"2021-05-18T22:18:55+00:00",0,1,0,0,0,0,4
 "AWSServiceCatalogAppRegistryServiceRolePolicy","v3",True,"2022-03-04T21:06:44+00:00",0,1,0,0,0,0,4
