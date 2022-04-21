@@ -388,7 +388,8 @@
 "AWSMarketplaceImageBuildFullAccess","v1",False,"2018-07-31T23:29:49+00:00",0,2,0,0,0,0,8
 "AWSMarketplaceImageBuildFullAccess","v3",True,"2022-03-04T17:05:09+00:00",0,2,0,1,0,0,7
 "AmazonAugmentedAIIntegratedAPIAccess","v1",True,"2020-04-22T20:47:32+00:00",0,1,0,0,0,0,6
-"AWSProtonReadOnlyAccess","v1",True,"2021-02-17T19:09:12+00:00",0,0,0,0,0,0,0
+"AWSProtonReadOnlyAccess","v2",True,"2022-04-21T12:33:42+00:00",0,0,0,0,0,0,0
+"AWSProtonReadOnlyAccess","v1",False,"2021-02-17T19:09:12+00:00",0,0,0,0,0,0,0
 "AmazonSNSRole","v1",True,"2015-02-06T18:41:30+00:00",0,1,0,0,0,0,5
 "AWSEC2SpotFleetServiceRolePolicy","v2",False,"2017-11-17T22:01:06+00:00",0,2,0,1,0,0,3
 "AWSEC2SpotFleetServiceRolePolicy","v4",True,"2020-03-16T19:16:21+00:00",0,2,0,1,0,0,4
@@ -1172,7 +1173,8 @@
 "AmazonElasticFileSystemServiceRolePolicy","v4",True,"2022-01-10T19:27:33+00:00",0,2,0,1,0,0,4
 "AmazonElasticFileSystemServiceRolePolicy","v1",False,"2019-11-05T16:52:41+00:00",0,1,0,0,0,0,3
 "AmazonElasticFileSystemServiceRolePolicy","v3",False,"2020-07-16T19:27:41+00:00",0,2,0,1,0,0,4
-"AWSProtonDeveloperAccess","v1",True,"2021-02-17T19:02:08+00:00",0,1,0,0,0,0,5
+"AWSProtonDeveloperAccess","v2",True,"2022-04-21T12:57:14+00:00",0,1,0,0,0,0,7
+"AWSProtonDeveloperAccess","v1",False,"2021-02-17T19:02:08+00:00",0,1,0,0,0,0,5
 "AmazonKendraReadOnlyAccess","v2",True,"2021-05-27T17:01:20+00:00",0,0,0,0,0,0,0
 "AmazonKendraReadOnlyAccess","v1",False,"2019-12-03T16:13:45+00:00",0,0,0,0,0,0,0
 "AWSCodeCommitReadOnly","v2",False,"2017-11-20T20:01:56+00:00",0,0,0,0,0,0,0
