@@ -669,7 +669,8 @@
 "DataScientist","v3",False,"2019-01-18T19:26:23+00:00",13,19,1,16,1,1,496
 "AmazonECSTaskExecutionRolePolicy","v1",True,"2017-11-16T18:48:22+00:00",0,2,0,0,0,1,2
 "CloudSearchFullAccess","v1",True,"2015-02-06T18:39:56+00:00",1,1,0,1,0,0,19
-"AmazonEMRReadOnlyAccessPolicy_v2","v1",True,"2021-03-12T01:39:16+00:00",0,0,0,0,0,0,0
+"AmazonEMRReadOnlyAccessPolicy_v2","v2",True,"2022-04-21T22:31:26+00:00",0,0,0,0,0,0,0
+"AmazonEMRReadOnlyAccessPolicy_v2","v1",False,"2021-03-12T01:39:16+00:00",0,0,0,0,0,0,0
 "AWSElasticBeanstalkRoleCore","v2",True,"2020-09-09T20:31:14+00:00",0,2,0,0,0,0,18
 "AWSElasticBeanstalkRoleCore","v1",False,"2020-06-05T21:48:24+00:00",0,2,0,0,0,0,18
 "APIGatewayServiceRolePolicy","v2",False,"2018-01-05T19:09:44+00:00",0,1,0,0,0,0,3
@@ -1288,8 +1289,9 @@
 "AmazonFreeRTOSOTAUpdate","v2",False,"2019-10-07T20:11:30+00:00",0,2,0,0,0,0,3
 "AmazonFreeRTOSOTAUpdate","v1",False,"2018-08-27T22:43:07+00:00",0,2,0,0,0,0,3
 "AmazonFreeRTOSOTAUpdate","v3",True,"2020-12-18T17:47:30+00:00",0,2,0,0,0,0,3
-"AmazonEMRFullAccessPolicy_v2","v2",True,"2021-03-23T16:57:10+00:00",0,1,0,1,0,0,20
+"AmazonEMRFullAccessPolicy_v2","v2",False,"2021-03-23T16:57:10+00:00",0,1,0,1,0,0,20
 "AmazonEMRFullAccessPolicy_v2","v1",False,"2021-03-12T01:50:29+00:00",0,2,0,2,0,0,21
+"AmazonEMRFullAccessPolicy_v2","v3",True,"2022-04-21T22:31:45+00:00",0,1,0,0,0,0,20
 "AWSGlueSchemaRegistryReadonlyAccess","v1",True,"2020-11-20T00:20:06+00:00",0,0,0,0,0,0,0
 "AmazonTextractServiceRole","v1",True,"2018-11-28T19:12:16+00:00",0,0,0,0,0,0,0
 "EC2InstanceConnect","v1",True,"2019-06-27T18:53:34+00:00",0,1,0,0,0,0,1
