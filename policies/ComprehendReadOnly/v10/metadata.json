@@ -1,6 +1,6 @@
 {
     "VersionId": "v10",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2022-02-02T21:08:24+00:00",
     "PolicyName": "ComprehendReadOnly"
 }

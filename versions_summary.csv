@@ -1988,9 +1988,10 @@
 "AWSApplicationDiscoveryAgentAccess","v1",False,"2016-05-11T21:38:47+00:00",0,0,0,0,0,0,0
 "ComprehendReadOnly","v2",False,"2018-06-27T18:38:58+00:00",0,0,0,0,0,0,0
 "ComprehendReadOnly","v7",False,"2020-09-17T19:01:28+00:00",0,0,0,0,0,0,0
+"ComprehendReadOnly","v11",True,"2022-04-26T21:32:41+00:00",0,0,0,0,0,0,0
 "ComprehendReadOnly","v9",False,"2021-09-28T19:07:01+00:00",0,0,0,0,0,0,0
 "ComprehendReadOnly","v4",False,"2018-11-16T00:44:32+00:00",0,0,0,0,0,0,0
-"ComprehendReadOnly","v10",True,"2022-02-02T21:08:24+00:00",0,0,0,0,0,0,0
+"ComprehendReadOnly","v10",False,"2022-02-02T21:08:24+00:00",0,0,0,0,0,0,0
 "ComprehendReadOnly","v1",False,"2017-11-29T18:10:19+00:00",0,0,0,0,0,0,0
 "ComprehendReadOnly","v8",False,"2021-03-26T21:19:49+00:00",0,0,0,0,0,0,0
 "ComprehendReadOnly","v6",False,"2019-11-25T19:35:48+00:00",0,0,0,0,0,0,0
