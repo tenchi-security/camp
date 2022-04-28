@@ -1,0 +1,6 @@
+{
+    "VersionId": "v3",
+    "IsDefaultVersion": true,
+    "CreateDate": "2022-04-27T23:43:22+00:00",
+    "PolicyName": "AmazonLexReadOnly"
+}

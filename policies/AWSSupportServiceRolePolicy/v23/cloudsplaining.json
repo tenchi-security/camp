@@ -1,0 +1,15 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "ssm",
+        "transfer"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "ssm:LabelParameterVersion",
+        "transfer:SendWorkflowStepState"
+    ]
+}
