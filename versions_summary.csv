@@ -614,8 +614,9 @@
 "AmazonEC2RoleforDataPipelineRole","v1",False,"2015-02-06T18:41:25+00:00",0,2,0,8,1,0,35
 "AmazonEC2RoleforDataPipelineRole","v3",True,"2016-02-22T17:24:05+00:00",7,7,0,21,1,0,134
 "AWSPriceListServiceFullAccess","v1",True,"2017-11-22T00:36:27+00:00",1,0,0,0,0,0,0
+"AWSSSOMemberAccountAdministrator","v5",True,"2022-04-28T18:53:46+00:00",3,2,0,5,0,0,18
 "AWSSSOMemberAccountAdministrator","v2",False,"2018-10-17T20:35:52+00:00",1,2,0,31,0,0,18
-"AWSSSOMemberAccountAdministrator","v4",True,"2022-03-25T20:11:32+00:00",3,2,0,5,0,0,18
+"AWSSSOMemberAccountAdministrator","v4",False,"2022-03-25T20:11:32+00:00",3,2,0,5,0,0,18
 "AWSSSOMemberAccountAdministrator","v1",False,"2018-06-27T20:45:42+00:00",1,2,0,31,0,0,17
 "AWSSSOMemberAccountAdministrator","v3",False,"2021-08-04T20:13:14+00:00",2,2,0,44,0,0,18
 "KafkaConnectServiceRolePolicy","v1",True,"2021-09-07T13:12:44+00:00",0,0,0,0,0,0,0
@@ -1162,9 +1163,10 @@
 "AWSSSOReadOnly","v5",False,"2020-04-28T21:17:21+00:00",0,0,0,0,0,0,0
 "AWSSSOReadOnly","v2",False,"2018-10-17T20:44:15+00:00",0,0,0,0,0,0,0
 "AWSSSOReadOnly","v4",False,"2019-10-24T15:45:14+00:00",0,0,0,0,0,0,0
-"AWSSSOReadOnly","v6",True,"2020-09-10T21:26:29+00:00",0,0,0,0,0,0,0
+"AWSSSOReadOnly","v6",False,"2020-09-10T21:26:29+00:00",0,0,0,0,0,0,0
 "AWSSSOReadOnly","v1",False,"2018-06-27T20:24:34+00:00",0,0,0,0,0,0,0
 "AWSSSOReadOnly","v3",False,"2018-12-19T20:17:58+00:00",0,0,0,0,0,0,0
+"AWSSSOReadOnly","v7",True,"2022-04-28T18:46:11+00:00",0,0,0,0,0,0,0
 "AmazonWorkLinkFullAccess","v2",True,"2019-09-23T18:37:42+00:00",1,0,0,0,0,0,0
 "AmazonWorkLinkFullAccess","v1",False,"2019-01-23T18:52:09+00:00",1,0,0,0,0,0,0
 "AWSThinkboxDeadlineResourceTrackerAdminPolicy","v5",True,"2021-12-23T01:01:48+00:00",0,1,0,0,0,0,1
@@ -2121,9 +2123,10 @@
 "AWSBackupOperatorAccess","v3",False,"2020-05-29T21:52:16+00:00",0,1,0,0,0,0,5
 "AWSBackupOperatorAccess","v7",False,"2021-03-10T18:31:50+00:00",0,1,0,0,0,0,5
 "AWSBackupOperatorAccess","v8",True,"2021-11-23T22:00:28+00:00",0,1,0,0,0,0,5
-"AWSSSOMasterAccountAdministrator","v5",True,"2022-03-25T18:53:19+00:00",3,2,0,5,0,0,18
+"AWSSSOMasterAccountAdministrator","v5",False,"2022-03-25T18:53:19+00:00",3,2,0,5,0,0,18
 "AWSSSOMasterAccountAdministrator","v2",False,"2018-07-03T20:10:59+00:00",1,2,0,31,0,0,17
 "AWSSSOMasterAccountAdministrator","v4",False,"2021-08-04T21:10:42+00:00",2,2,0,44,0,0,18
+"AWSSSOMasterAccountAdministrator","v6",True,"2022-04-28T18:38:55+00:00",3,2,0,5,0,0,18
 "AWSSSOMasterAccountAdministrator","v1",False,"2018-06-27T20:36:51+00:00",1,2,0,31,0,0,17
 "AWSSSOMasterAccountAdministrator","v3",False,"2018-10-17T20:41:20+00:00",1,2,0,31,0,0,18
 "AmazonSESReadOnlyAccess","v1",True,"2015-02-06T18:41:03+00:00",0,0,0,0,0,0,0

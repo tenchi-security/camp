@@ -3,10 +3,10 @@
     "PolicyId": "ANPAIQYHEY7KJWXZFNDPY",
     "Arn": "arn:aws:iam::aws:policy/AWSSSOMemberAccountAdministrator",
     "Path": "/",
-    "DefaultVersionId": "v4",
+    "DefaultVersionId": "v5",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2018-06-27T20:45:42+00:00",
-    "UpdateDate": "2022-03-25T20:11:32+00:00"
+    "UpdateDate": "2022-04-28T18:53:46+00:00"
 }
