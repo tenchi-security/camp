@@ -1069,7 +1069,8 @@
 "DynamoDBReplicationServiceRolePolicy","v6",True,"2020-09-09T18:43:04+00:00",0,2,0,1,0,0,6
 "DynamoDBReplicationServiceRolePolicy","v1",False,"2017-11-09T23:55:34+00:00",0,1,0,0,0,0,3
 "DynamoDBReplicationServiceRolePolicy","v3",False,"2018-07-02T21:48:12+00:00",0,2,0,1,0,0,4
-"AWSAuditManagerAdministratorAccess","v1",True,"2020-12-11T20:02:42+00:00",1,4,0,1,0,0,24
+"AWSAuditManagerAdministratorAccess","v2",True,"2022-04-30T00:02:56+00:00",1,4,0,1,0,0,25
+"AWSAuditManagerAdministratorAccess","v1",False,"2020-12-11T20:02:42+00:00",1,4,0,1,0,0,24
 "AmazonElasticFileSystemsUtils","v1",True,"2020-09-29T15:16:47+00:00",0,2,0,0,2,0,9
 "AWSMarketplaceImageBuildFullAccess","v2",False,"2018-08-08T21:11:59+00:00",0,2,0,0,0,0,10
 "AWSMarketplaceImageBuildFullAccess","v1",False,"2018-07-31T23:29:49+00:00",0,2,0,0,0,0,8
