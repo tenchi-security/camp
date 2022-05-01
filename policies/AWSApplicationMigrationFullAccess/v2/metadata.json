@@ -1,6 +1,6 @@
 {
     "VersionId": "v2",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2022-02-22T11:16:56+00:00",
     "PolicyName": "AWSApplicationMigrationFullAccess"
 }

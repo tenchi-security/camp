@@ -1045,8 +1045,9 @@
 "AWSApplicationMigrationEC2Access","v1",False,"2021-04-07T07:05:22+00:00",0,0,0,0,0,0,0
 "AmazonLookoutMetricsReadOnlyAccess","v2",True,"2022-01-04T18:19:27+00:00",0,0,0,0,0,0,0
 "AmazonLookoutMetricsReadOnlyAccess","v1",False,"2021-05-07T00:43:34+00:00",0,0,0,0,0,0,0
-"AWSApplicationMigrationReadOnlyAccess","v2",True,"2021-11-08T12:54:08+00:00",0,0,0,0,0,0,0
+"AWSApplicationMigrationReadOnlyAccess","v2",False,"2021-11-08T12:54:08+00:00",0,0,0,0,0,0,0
 "AWSApplicationMigrationReadOnlyAccess","v1",False,"2021-04-07T07:15:26+00:00",0,0,0,0,0,0,0
+"AWSApplicationMigrationReadOnlyAccess","v3",True,"2022-05-01T08:32:53+00:00",0,0,0,0,0,0,0
 "AWSIdentitySyncReadOnlyAccess","v1",True,"2022-03-23T23:29:52+00:00",0,0,0,0,0,0,0
 "CloudWatchEventsServiceRolePolicy","v1",True,"2017-11-17T00:42:04+00:00",0,1,0,0,0,0,4
 "AWSOpsWorks_FullAccess","v1",True,"2021-01-22T16:29:08+00:00",1,2,0,3,0,0,46
@@ -1731,8 +1732,9 @@
 "AWSIoTConfigReadOnlyAccess","v8",True,"2019-09-27T20:52:40+00:00",0,0,0,0,0,0,0
 "AmazonLexV2BotPolicy","v1",True,"2021-01-13T20:10:29+00:00",0,0,0,0,0,0,0
 "AmazonZocaloFullAccess","v1",True,"2015-02-06T18:41:13+00:00",2,2,0,5,0,0,50
-"AWSApplicationMigrationFullAccess","v2",True,"2022-02-22T11:16:56+00:00",1,1,0,0,0,0,33
+"AWSApplicationMigrationFullAccess","v2",False,"2022-02-22T11:16:56+00:00",1,1,0,0,0,0,33
 "AWSApplicationMigrationFullAccess","v1",False,"2021-04-07T06:56:05+00:00",1,0,0,0,0,0,0
+"AWSApplicationMigrationFullAccess","v3",True,"2022-05-01T08:31:14+00:00",1,1,0,0,0,0,33
 "AWSDeepRacerDefaultMultiUserAccess","v1",True,"2021-10-28T01:27:13+00:00",0,1,0,0,0,0,16
 "AWSPanoramaApplianceRolePolicy","v1",True,"2020-12-01T13:13:18+00:00",0,0,0,0,0,0,0
 "AmazonLexRunBotsOnly","v2",False,"2020-05-12T19:26:15+00:00",0,1,0,0,0,0,2
