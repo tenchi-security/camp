@@ -2580,6 +2580,7 @@
 "AmazonAthenaFullAccess","v1",False,"2016-11-30T16:46:01+00:00",1,1,0,0,0,0,12
 "AmazonAthenaFullAccess","v3",False,"2017-09-13T00:13:48+00:00",1,2,0,0,0,0,24
 "AmazonAthenaFullAccess","v7",True,"2021-07-07T20:15:04+00:00",1,3,0,0,0,0,29
+"MonitronServiceRolePolicy","v1",True,"2022-05-02T19:22:03+00:00",0,0,0,0,0,0,0
 "AmazonTimestreamReadOnlyAccess","v2",True,"2021-11-26T23:39:30+00:00",0,0,0,0,0,0,0
 "AmazonTimestreamReadOnlyAccess","v1",False,"2020-09-30T21:47:08+00:00",0,0,0,0,0,0,0
 "AmazonFSxReadOnlyAccess","v1",True,"2018-11-28T16:33:32+00:00",0,0,0,0,0,0,0
