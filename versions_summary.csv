@@ -219,8 +219,9 @@
 "AWSBackupServiceLinkedRolePolicyForBackup","v6",False,"2021-11-23T22:00:49+00:00",0,2,0,1,0,0,6
 "AWSBackupServiceLinkedRolePolicyForBackup","v1",False,"2020-06-02T23:08:40+00:00",0,0,0,0,0,0,0
 "AWSBackupServiceLinkedRolePolicyForBackup","v3",False,"2021-04-12T18:11:02+00:00",0,2,0,1,0,0,6
+"AWSBackupServiceLinkedRolePolicyForBackup","v9",True,"2022-05-05T17:45:06+00:00",0,2,0,1,0,0,6
 "AWSBackupServiceLinkedRolePolicyForBackup","v7",False,"2022-01-14T19:17:42+00:00",0,2,0,1,0,0,6
-"AWSBackupServiceLinkedRolePolicyForBackup","v8",True,"2022-02-18T17:38:21+00:00",0,2,0,1,0,0,6
+"AWSBackupServiceLinkedRolePolicyForBackup","v8",False,"2022-02-18T17:38:21+00:00",0,2,0,1,0,0,6
 "AWSMarketplaceFullAccess","v2",False,"2018-07-31T23:18:28+00:00",1,5,0,2,0,0,19
 "AWSMarketplaceFullAccess","v4",True,"2022-03-04T17:04:00+00:00",1,5,0,3,0,0,18
 "AWSMarketplaceFullAccess","v1",False,"2015-02-11T17:21:45+00:00",1,2,0,0,0,0,10
