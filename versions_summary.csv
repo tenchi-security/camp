@@ -372,8 +372,9 @@
 "CloudWatchSyntheticsFullAccess","v6",False,"2021-03-25T18:40:18+00:00",1,1,0,0,0,0,6
 "CloudWatchSyntheticsFullAccess","v1",False,"2019-11-25T17:39:46+00:00",1,1,0,0,0,0,6
 "CloudWatchSyntheticsFullAccess","v3",False,"2020-04-22T18:37:11+00:00",1,1,0,0,0,0,6
+"CloudWatchSyntheticsFullAccess","v9",True,"2022-05-06T18:14:01+00:00",1,1,0,0,0,0,6
 "CloudWatchSyntheticsFullAccess","v7",False,"2021-07-20T15:56:52+00:00",1,1,0,0,0,0,6
-"CloudWatchSyntheticsFullAccess","v8",True,"2021-09-29T23:07:11+00:00",1,1,0,0,0,0,6
+"CloudWatchSyntheticsFullAccess","v8",False,"2021-09-29T23:07:11+00:00",1,1,0,0,0,0,6
 "AmazonSageMakerCoreServiceRolePolicy","v1",True,"2020-12-21T21:40:47+00:00",0,1,0,2,0,0,3
 "AmazonMobileAnalyticsWriteOnlyAccess","v1",True,"2015-02-06T18:40:37+00:00",0,0,0,0,0,0,0
 "AmazonEKSServicePolicy","v5",False,"2020-03-30T23:43:02+00:00",0,5,0,2,0,0,8
