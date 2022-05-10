@@ -238,8 +238,9 @@
 "AWSGlueConsoleFullAccess","v7",False,"2018-05-07T21:23:46+00:00",1,1,1,2,0,0,44
 "AWSGlueConsoleFullAccess","v11",False,"2019-02-07T19:37:51+00:00",1,1,1,2,0,0,44
 "AWSGlueConsoleFullAccess","v8",False,"2018-06-22T20:26:02+00:00",1,1,1,2,0,0,44
-"AWSGlueDataBrewServiceRole","v2",True,"2021-11-18T19:44:16+00:00",0,1,0,0,0,0,2
+"AWSGlueDataBrewServiceRole","v2",False,"2021-11-18T19:44:16+00:00",0,1,0,0,0,0,2
 "AWSGlueDataBrewServiceRole","v1",False,"2020-12-04T21:26:50+00:00",0,1,0,0,0,0,2
+"AWSGlueDataBrewServiceRole","v3",True,"2022-05-09T23:06:36+00:00",0,1,0,0,0,0,2
 "AmazonDynamoDBReadOnlyAccess","v5",False,"2017-06-12T21:11:40+00:00",0,0,0,0,0,0,0
 "AmazonDynamoDBReadOnlyAccess","v10",False,"2019-11-25T19:08:05+00:00",0,0,0,0,0,0,0
 "AmazonDynamoDBReadOnlyAccess","v2",False,"2015-11-11T23:39:05+00:00",0,0,0,0,0,0,0
