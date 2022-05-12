@@ -527,9 +527,10 @@
 "AWSSSOServiceRolePolicy","v2",False,"2017-12-06T19:34:14+00:00",0,0,0,0,0,0,0
 "AWSSSOServiceRolePolicy","v5",False,"2019-02-05T18:20:34+00:00",0,0,0,0,0,0,0
 "AWSSSOServiceRolePolicy","v6",False,"2019-05-15T20:45:42+00:00",0,1,0,0,0,0,1
+"AWSSSOServiceRolePolicy","v15",True,"2022-05-12T21:14:40+00:00",0,1,0,0,0,0,1
 "AWSSSOServiceRolePolicy","v13",False,"2020-11-19T00:02:00+00:00",0,1,0,0,0,0,1
 "AWSSSOServiceRolePolicy","v3",False,"2017-12-06T20:41:34+00:00",0,0,0,0,0,0,0
-"AWSSSOServiceRolePolicy","v14",True,"2022-05-03T16:12:15+00:00",0,1,0,0,0,0,1
+"AWSSSOServiceRolePolicy","v14",False,"2022-05-03T16:12:15+00:00",0,1,0,0,0,0,1
 "AWSSSOServiceRolePolicy","v12",False,"2020-10-21T20:27:38+00:00",0,1,0,0,0,0,1
 "AWSSSOServiceRolePolicy","v11",False,"2020-08-26T17:46:14+00:00",0,1,0,0,0,0,1
 "AWSSSOServiceRolePolicy","v10",False,"2020-07-24T22:05:44+00:00",0,1,0,0,0,0,1
