@@ -977,8 +977,9 @@
 "AWSSupportServiceRolePolicy","v11",False,"2020-07-09T23:29:32+00:00",0,2,0,0,0,0,5
 "AWSSupportServiceRolePolicy","v10",False,"2020-04-29T18:42:38+00:00",0,2,0,0,0,0,5
 "AWSBackupOperatorAccess","v4",False,"2020-06-24T16:24:21+00:00",0,1,0,0,0,0,5
-"AWSBackupOperatorAccess","v8",True,"2021-11-23T22:00:28+00:00",0,1,0,0,0,0,5
+"AWSBackupOperatorAccess","v8",False,"2021-11-23T22:00:28+00:00",0,1,0,0,0,0,5
 "AWSBackupOperatorAccess","v1",False,"2019-11-18T22:23:17+00:00",0,1,0,0,0,0,4
+"AWSBackupOperatorAccess","v9",True,"2022-05-13T17:57:32+00:00",0,1,0,0,0,0,5
 "AWSBackupOperatorAccess","v7",False,"2021-03-10T18:31:50+00:00",0,1,0,0,0,0,5
 "AWSBackupOperatorAccess","v2",False,"2020-01-13T16:15:02+00:00",0,1,0,0,0,0,5
 "AWSBackupOperatorAccess","v5",False,"2020-09-14T22:35:03+00:00",0,1,0,0,0,0,5
@@ -1492,12 +1493,13 @@
 "AWSBackupFullAccess","v4",False,"2020-06-06T00:06:57+00:00",2,5,0,3,0,0,27
 "AWSBackupFullAccess","v8",False,"2021-07-05T23:28:54+00:00",2,6,0,4,0,0,27
 "AWSBackupFullAccess","v1",False,"2019-11-18T22:21:52+00:00",2,2,0,3,0,0,22
-"AWSBackupFullAccess","v9",True,"2021-11-23T22:00:22+00:00",2,6,0,4,0,0,34
+"AWSBackupFullAccess","v9",False,"2021-11-23T22:00:22+00:00",2,6,0,4,0,0,34
 "AWSBackupFullAccess","v7",False,"2021-03-10T18:32:22+00:00",2,5,0,3,0,0,26
 "AWSBackupFullAccess","v2",False,"2020-01-13T18:40:45+00:00",2,2,0,3,0,0,22
 "AWSBackupFullAccess","v5",False,"2020-09-14T22:35:25+00:00",2,5,0,3,0,0,26
 "AWSBackupFullAccess","v6",False,"2020-11-09T16:49:24+00:00",2,5,0,3,0,0,26
 "AWSBackupFullAccess","v3",False,"2020-05-29T23:46:51+00:00",2,5,0,3,0,0,27
+"AWSBackupFullAccess","v10",True,"2022-05-13T17:52:29+00:00",2,7,0,4,0,0,47
 "AmazonKinesisFullAccess","v1",True,"2015-02-06T18:40:29+00:00",1,1,0,0,0,0,14
 "AwsGlueSessionUserRestrictedServiceRole","v1",True,"2022-04-14T21:30:07+00:00",1,0,0,0,0,0,0
 "AmazonElasticFileSystemClientReadOnlyAccess","v1",True,"2020-01-13T16:24:36+00:00",0,0,0,0,0,0,0
