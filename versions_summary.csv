@@ -2382,12 +2382,13 @@
 "AmazonEC2RolePolicyForLaunchWizard","v4",False,"2020-06-03T18:30:04+00:00",0,2,0,0,0,0,11
 "AmazonEC2RolePolicyForLaunchWizard","v8",False,"2021-05-24T23:05:02+00:00",0,2,0,0,0,0,5
 "AmazonEC2RolePolicyForLaunchWizard","v1",False,"2019-11-13T08:05:53+00:00",0,1,0,0,0,0,5
-"AmazonEC2RolePolicyForLaunchWizard","v9",True,"2022-01-27T23:01:20+00:00",0,2,0,0,0,0,3
+"AmazonEC2RolePolicyForLaunchWizard","v9",False,"2022-01-27T23:01:20+00:00",0,2,0,0,0,0,3
 "AmazonEC2RolePolicyForLaunchWizard","v7",False,"2020-10-09T22:28:01+00:00",0,2,0,0,0,0,5
 "AmazonEC2RolePolicyForLaunchWizard","v2",False,"2019-11-24T21:48:01+00:00",0,2,0,0,0,0,7
 "AmazonEC2RolePolicyForLaunchWizard","v5",False,"2020-06-03T23:17:35+00:00",0,2,0,0,0,0,11
 "AmazonEC2RolePolicyForLaunchWizard","v6",False,"2020-07-01T19:04:48+00:00",0,2,0,0,0,0,5
 "AmazonEC2RolePolicyForLaunchWizard","v3",False,"2020-03-31T22:01:02+00:00",0,2,0,0,0,0,11
+"AmazonEC2RolePolicyForLaunchWizard","v10",True,"2022-05-16T21:16:38+00:00",0,2,0,0,0,0,3
 "AWSAppMeshEnvoyAccess","v1",True,"2019-07-03T21:29:37+00:00",0,0,0,0,0,0,0
 "AWSAccountManagementReadOnlyAccess","v1",True,"2021-09-30T23:29:53+00:00",0,0,0,0,0,0,0
 "AmazonWorkMailEventsServiceRolePolicy","v1",True,"2019-04-16T16:52:43+00:00",0,1,0,0,0,0,3
