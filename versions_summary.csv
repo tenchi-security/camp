@@ -2539,8 +2539,9 @@
 "AmazonESCognitoAccess","v1",False,"2018-02-28T22:29:18+00:00",0,3,0,3,0,0,6
 "AmazonESCognitoAccess","v2",True,"2021-12-20T14:04:44+00:00",0,3,0,2,0,0,7
 "AmazonMacieServiceRolePolicy","v4",False,"2020-07-17T21:31:07+00:00",0,1,0,0,1,0,1
-"AmazonMacieServiceRolePolicy","v5",True,"2021-04-13T17:55:07+00:00",0,1,0,0,1,0,1
+"AmazonMacieServiceRolePolicy","v5",False,"2021-04-13T17:55:07+00:00",0,1,0,0,1,0,1
 "AmazonMacieServiceRolePolicy","v1",False,"2018-06-19T22:17:38+00:00",0,1,0,0,1,0,1
+"AmazonMacieServiceRolePolicy","v6",True,"2022-05-19T19:16:56+00:00",0,1,0,0,1,0,1
 "AmazonMacieServiceRolePolicy","v3",False,"2020-04-30T17:41:57+00:00",0,1,0,0,1,0,1
 "AmazonMacieServiceRolePolicy","v2",False,"2019-09-27T21:50:33+00:00",0,1,0,0,1,0,1
 "AmazonDocDBFullAccess","v1",True,"2019-01-09T20:21:44+00:00",0,2,0,1,0,0,39
