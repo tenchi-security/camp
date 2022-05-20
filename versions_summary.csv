@@ -68,7 +68,8 @@
 "AmazonLaunchWizard_Fullaccess","v12",False,"2022-02-10T00:28:41+00:00",2,9,0,2,3,1,88
 "AmazonLaunchWizard_Fullaccess","v2",False,"2020-09-01T20:02:51+00:00",2,8,0,3,3,1,80
 "AWSAuditManagerServiceRolePolicy","v1",False,"2020-12-08T15:12:12+00:00",0,1,0,0,0,0,1
-"AWSAuditManagerServiceRolePolicy","v2",True,"2021-11-22T19:36:39+00:00",0,1,0,0,0,0,1
+"AWSAuditManagerServiceRolePolicy","v3",True,"2022-05-20T16:26:09+00:00",0,0,0,0,0,0,0
+"AWSAuditManagerServiceRolePolicy","v2",False,"2021-11-22T19:36:39+00:00",0,1,0,0,0,0,1
 "AmazonDynamoDBFullAccesswithDataPipeline","v1",False,"2015-02-06T18:40:14+00:00",3,7,2,11,1,0,93
 "AmazonDynamoDBFullAccesswithDataPipeline","v2",True,"2015-11-12T02:17:42+00:00",4,8,6,18,1,0,129
 "AWSLambdaReplicator","v1",False,"2017-05-23T17:53:03+00:00",0,1,0,1,0,0,1
