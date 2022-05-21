@@ -1,6 +1,6 @@
 {
     "VersionId": "v3",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2020-12-07T23:11:36+00:00",
     "PolicyName": "AWSLakeFormationCrossAccountManager"
 }

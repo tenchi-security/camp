@@ -657,8 +657,9 @@
 "AmazonEC2ContainerRegistryFullAccess","v1",False,"2015-12-21T17:06:48+00:00",1,1,0,4,0,1,18
 "AmazonEC2ContainerRegistryFullAccess","v3",True,"2020-12-05T00:04:19+00:00",1,2,0,5,0,1,19
 "AmazonEC2ContainerRegistryFullAccess","v2",False,"2017-11-10T17:54:49+00:00",1,1,0,4,0,1,18
+"AWSLakeFormationCrossAccountManager","v4",True,"2022-05-20T22:19:37+00:00",0,2,0,6,0,0,6
 "AWSLakeFormationCrossAccountManager","v1",False,"2020-08-04T20:59:46+00:00",0,2,0,4,0,0,3
-"AWSLakeFormationCrossAccountManager","v3",True,"2020-12-07T23:11:36+00:00",0,2,0,5,0,0,4
+"AWSLakeFormationCrossAccountManager","v3",False,"2020-12-07T23:11:36+00:00",0,2,0,5,0,0,4
 "AWSLakeFormationCrossAccountManager","v2",False,"2020-10-07T22:39:34+00:00",0,2,0,6,0,0,3
 "AWSIotRoboRunnerFullAccess","v1",True,"2021-11-29T03:54:37+00:00",1,0,0,0,0,0,0
 "AmazonTextractServiceRole","v1",True,"2018-11-28T19:12:16+00:00",0,0,0,0,0,0,0
@@ -1071,6 +1072,7 @@
 "AWSEC2SpotServiceRolePolicy","v1",False,"2017-09-18T18:51:54+00:00",0,2,0,1,0,0,3
 "AWSEC2SpotServiceRolePolicy","v3",False,"2018-06-07T21:00:25+00:00",0,2,0,1,0,0,4
 "AWSEC2SpotServiceRolePolicy","v2",False,"2017-11-15T00:03:05+00:00",0,2,0,1,0,0,3
+"AmazonEMRServerlessServiceRolePolicy","v1",True,"2022-05-20T23:15:42+00:00",0,1,0,0,0,0,2
 "ServerMigrationServiceLaunchRole","v4",True,"2020-10-15T17:29:00+00:00",0,2,0,1,0,0,6
 "ServerMigrationServiceLaunchRole","v1",False,"2018-11-26T19:53:06+00:00",0,1,0,0,0,0,5
 "ServerMigrationServiceLaunchRole","v3",False,"2020-09-30T17:50:15+00:00",0,2,0,1,0,0,6
