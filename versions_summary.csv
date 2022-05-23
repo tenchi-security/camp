@@ -1451,7 +1451,7 @@
 "AmazonSageMakerGroundTruthExecution","v3",True,"2022-04-29T20:49:54+00:00",0,3,0,0,0,0,6
 "AmazonSageMakerGroundTruthExecution","v2",False,"2022-04-11T21:22:37+00:00",0,2,0,0,0,0,4
 "ReadOnlyAccess","v80",False,"2021-09-09T00:01:51+00:00",0,10,0,0,4,9,5
-"ReadOnlyAccess","v86",True,"2022-05-06T21:06:35+00:00",0,9,0,0,4,9,4
+"ReadOnlyAccess","v86",False,"2022-05-06T21:06:35+00:00",0,9,0,0,4,9,4
 "ReadOnlyAccess","v52",False,"2019-07-23T18:41:14+00:00",0,9,0,1,4,11,5
 "ReadOnlyAccess","v34",False,"2018-06-06T17:57:22+00:00",0,10,0,1,4,13,9
 "ReadOnlyAccess","v23",False,"2017-02-13T20:51:36+00:00",0,3,0,0,4,1,4
@@ -1507,6 +1507,7 @@
 "ReadOnlyAccess","v8",False,"2015-12-23T00:19:22+00:00",0,2,0,0,1,1,1
 "ReadOnlyAccess","v11",False,"2016-05-05T21:28:37+00:00",0,2,0,0,1,1,1
 "ReadOnlyAccess","v13",False,"2016-05-25T00:04:24+00:00",0,2,0,0,1,1,1
+"ReadOnlyAccess","v87",True,"2022-05-23T20:16:18+00:00",0,9,0,0,4,9,4
 "ReadOnlyAccess","v3",False,"2015-06-15T22:15:54+00:00",0,1,0,0,1,0,1
 "ReadOnlyAccess","v17",False,"2016-09-06T17:05:05+00:00",0,2,0,0,1,1,1
 "ReadOnlyAccess","v21",False,"2017-01-04T22:19:33+00:00",0,3,0,0,4,1,4
