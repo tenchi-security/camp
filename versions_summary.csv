@@ -736,8 +736,9 @@
 "AmazonAPIGatewayInvokeFullAccess","v2",True,"2018-12-18T18:25:10+00:00",0,0,0,0,0,0,0
 "AWSQuicksightOpenSearchPolicy","v1",True,"2021-09-07T23:26:19+00:00",0,0,0,0,0,0,0
 "AWSNetworkManagerServiceRolePolicy","v4",False,"2021-06-07T16:18:24+00:00",0,0,0,0,0,0,0
-"AWSNetworkManagerServiceRolePolicy","v5",True,"2021-11-23T21:38:47+00:00",0,0,0,0,0,0,0
+"AWSNetworkManagerServiceRolePolicy","v5",False,"2021-11-23T21:38:47+00:00",0,0,0,0,0,0,0
 "AWSNetworkManagerServiceRolePolicy","v1",False,"2019-12-03T14:03:35+00:00",0,0,0,0,0,0,0
+"AWSNetworkManagerServiceRolePolicy","v6",True,"2022-05-24T14:42:03+00:00",0,0,0,0,0,0,0
 "AWSNetworkManagerServiceRolePolicy","v3",False,"2020-12-10T12:06:22+00:00",0,0,0,0,0,0,0
 "AWSNetworkManagerServiceRolePolicy","v2",False,"2019-12-10T20:41:38+00:00",0,0,0,0,0,0,0
 "AmazonMonitronFullAccess","v1",True,"2020-12-02T22:40:28+00:00",1,3,0,5,0,0,9
