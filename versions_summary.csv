@@ -701,6 +701,7 @@
 "AmazonFSxFullAccess","v1",False,"2018-11-28T16:34:43+00:00",1,2,0,2,0,0,13
 "AmazonFSxFullAccess","v3",True,"2021-08-26T13:17:29+00:00",1,2,0,3,0,0,17
 "AmazonFSxFullAccess","v2",False,"2021-06-08T12:05:31+00:00",1,2,0,2,0,0,13
+"AWSBudgetsActions_RolePolicyForResourceAdministrationWithSSM","v1",True,"2022-05-25T19:03:30+00:00",0,2,0,0,0,0,4
 "AmazonSQSReadOnlyAccess","v1",False,"2015-02-06T18:41:08+00:00",0,0,0,0,0,0,0
 "AmazonSQSReadOnlyAccess","v2",True,"2018-08-20T23:35:49+00:00",0,0,0,0,0,0,0
 "AmazonAugmentedAIIntegratedAPIAccess","v1",True,"2020-04-22T20:47:32+00:00",0,1,0,0,0,0,6
