@@ -2719,8 +2719,9 @@
 "AWSCertificateManagerPrivateCAReadOnly","v2",False,"2019-03-14T17:17:21+00:00",0,0,0,0,0,0,0
 "AmazonEKSVPCResourceController","v1",True,"2020-08-12T00:55:34+00:00",0,1,0,1,0,0,8
 "AmazonRedshiftServiceLinkedRolePolicy","v4",False,"2021-11-15T06:41:10+00:00",0,1,0,0,0,0,8
-"AmazonRedshiftServiceLinkedRolePolicy","v5",True,"2021-11-22T21:08:22+00:00",0,1,0,0,0,0,8
+"AmazonRedshiftServiceLinkedRolePolicy","v5",False,"2021-11-22T21:08:22+00:00",0,1,0,0,0,0,8
 "AmazonRedshiftServiceLinkedRolePolicy","v1",False,"2017-09-18T19:19:45+00:00",0,1,0,0,0,0,5
+"AmazonRedshiftServiceLinkedRolePolicy","v6",True,"2022-05-25T05:09:53+00:00",0,1,0,0,0,0,8
 "AmazonRedshiftServiceLinkedRolePolicy","v3",False,"2020-09-15T20:44:31+00:00",0,1,0,0,0,0,8
 "AmazonRedshiftServiceLinkedRolePolicy","v2",False,"2017-09-25T21:20:15+00:00",0,1,0,0,0,0,5
 "AWSLambdaENIManagementAccess","v1",False,"2016-12-06T00:37:27+00:00",0,1,0,0,0,0,2
