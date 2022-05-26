@@ -1031,6 +1031,7 @@
 "AWSSecurityHubServiceRolePolicy","v3",False,"2020-02-05T21:38:52+00:00",0,0,0,0,0,0,0
 "AWSSecurityHubServiceRolePolicy","v7",False,"2020-09-21T19:59:01+00:00",0,0,0,0,0,0,0
 "AWSSecurityHubServiceRolePolicy","v2",False,"2019-07-12T21:11:13+00:00",0,0,0,0,0,0,0
+"AWSElasticDisasterRecoveryEc2InstancePolicy","v1",True,"2022-05-26T12:30:18+00:00",0,0,0,0,0,0,0
 "AWSDirectoryServiceFullAccess","v4",False,"2019-02-05T20:29:43+00:00",1,2,0,5,0,0,47
 "AWSDirectoryServiceFullAccess","v5",True,"2020-11-24T23:24:10+00:00",1,2,0,5,0,0,47
 "AWSDirectoryServiceFullAccess","v1",False,"2015-02-06T18:41:11+00:00",1,2,0,5,0,0,47
