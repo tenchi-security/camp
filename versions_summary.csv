@@ -1687,9 +1687,10 @@
 "AWS_ConfigRole","v9",False,"2022-01-21T18:35:41+00:00",0,1,0,0,0,0,5
 "AWS_ConfigRole","v8",False,"2021-09-08T18:09:40+00:00",0,1,0,0,0,0,5
 "AWS_ConfigRole","v11",False,"2022-03-11T21:35:16+00:00",0,1,0,0,0,0,5
+"AWS_ConfigRole","v13",True,"2022-05-27T03:11:37+00:00",0,1,0,0,0,0,5
 "AWS_ConfigRole","v3",False,"2021-01-29T19:24:13+00:00",0,1,0,0,0,0,5
 "AWS_ConfigRole","v7",False,"2021-07-27T22:41:23+00:00",0,1,0,0,0,0,5
-"AWS_ConfigRole","v12",True,"2022-04-06T21:41:08+00:00",0,1,0,0,0,0,5
+"AWS_ConfigRole","v12",False,"2022-04-06T21:41:08+00:00",0,1,0,0,0,0,5
 "AWS_ConfigRole","v2",False,"2020-12-18T22:10:53+00:00",0,1,0,0,0,0,5
 "AWSCodeDeployDeployerAccess","v1",False,"2015-05-19T18:18:43+00:00",0,1,0,0,0,0,2
 "AWSCodeDeployDeployerAccess","v3",True,"2020-04-02T16:16:11+00:00",0,2,0,0,0,0,6
