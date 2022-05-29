@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4AACAUJE3T",
     "Arn": "arn:aws:iam::aws:policy/AWSElasticDisasterRecoveryReadOnlyAccess",
     "Path": "/",
-    "DefaultVersionId": "v1",
+    "DefaultVersionId": "v2",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2021-11-17T10:50:05+00:00",
-    "UpdateDate": "2021-11-17T10:50:05+00:00"
+    "UpdateDate": "2022-05-29T08:27:37+00:00"
 }
