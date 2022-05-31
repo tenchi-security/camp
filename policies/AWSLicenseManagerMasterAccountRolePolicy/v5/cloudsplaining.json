@@ -1,0 +1,26 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "athena",
+        "ram",
+        "resource-groups"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "ram:AssociateResourceShare",
+        "ram:DeleteResourceShare",
+        "ram:DisassociateResourceShare",
+        "ram:UpdateResourceShare"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "athena:StartQueryExecution",
+        "ram:AssociateResourceShare",
+        "ram:DeleteResourceShare",
+        "ram:DisassociateResourceShare",
+        "ram:TagResource",
+        "ram:UpdateResourceShare",
+        "resource-groups:PutGroupPolicy"
+    ]
+}

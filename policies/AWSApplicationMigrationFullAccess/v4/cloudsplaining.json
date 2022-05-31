@@ -1,0 +1,47 @@
+{
+    "ServiceWildcard": [
+        "mgn"
+    ],
+    "ServicesAffected": [
+        "mgn"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "mgn:BatchCreateVolumeSnapshotGroupForMgn",
+        "mgn:ChangeServerLifeCycleState",
+        "mgn:DeleteJob",
+        "mgn:DeleteReplicationConfigurationTemplate",
+        "mgn:DeleteSourceServer",
+        "mgn:DeleteVcenterClient",
+        "mgn:DisconnectFromService",
+        "mgn:FinalizeCutover",
+        "mgn:MarkAsArchived",
+        "mgn:NotifyAgentAuthenticationForMgn",
+        "mgn:NotifyAgentConnectedForMgn",
+        "mgn:NotifyAgentDisconnectedForMgn",
+        "mgn:NotifyAgentReplicationProgressForMgn",
+        "mgn:NotifyVcenterClientStartedForMgn",
+        "mgn:RetryDataReplication",
+        "mgn:SendAgentLogsForMgn",
+        "mgn:SendAgentMetricsForMgn",
+        "mgn:SendVcenterClientCommandResultForMgn",
+        "mgn:SendVcenterClientLogsForMgn",
+        "mgn:SendVcenterClientMetricsForMgn",
+        "mgn:StartCutover",
+        "mgn:StartReplication",
+        "mgn:StartTest",
+        "mgn:TerminateTargetInstances",
+        "mgn:UpdateAgentBacklogForMgn",
+        "mgn:UpdateAgentConversionInfoForMgn",
+        "mgn:UpdateAgentReplicationInfoForMgn",
+        "mgn:UpdateAgentReplicationProcessStateForMgn",
+        "mgn:UpdateAgentSourcePropertiesForMgn",
+        "mgn:UpdateLaunchConfiguration",
+        "mgn:UpdateReplicationConfiguration",
+        "mgn:UpdateReplicationConfigurationTemplate",
+        "mgn:UpdateSourceServerReplicationType"
+    ]
+}
