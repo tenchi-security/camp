@@ -1222,6 +1222,7 @@
 "AWSIoTConfigReadOnlyAccess","v2",False,"2016-04-11T16:31:16+00:00",0,0,0,0,0,0,0
 "AWSIQFullAccess","v1",False,"2019-04-04T23:13:42+00:00",1,0,0,0,0,0,0
 "AWSIQFullAccess","v2",True,"2019-09-25T20:22:34+00:00",2,1,0,1,0,0,1
+"AWSApplicationMigrationAgentPolicy_v2","v1",True,"2022-06-06T14:14:38+00:00",0,0,0,0,0,0,0
 "ElementalActivationsGenerateLicenses","v1",True,"2020-08-28T18:28:58+00:00",0,0,0,0,0,0,0
 "CloudWatchFullAccess","v3",True,"2018-08-09T19:10:43+00:00",3,3,0,6,0,0,40
 "CloudWatchFullAccess","v1",False,"2015-02-06T18:40:00+00:00",3,3,0,6,0,0,40
