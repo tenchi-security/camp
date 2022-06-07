@@ -44,7 +44,8 @@
 "AmazonZocaloFullAccess","v1",True,"2015-02-06T18:41:13+00:00",2,2,0,5,0,0,50
 "AWSMigrationHubOrchestratorInstanceRolePolicy","v1",True,"2022-04-20T02:43:50+00:00",0,0,0,0,0,0,0
 "AmazonRDSPreviewServiceRolePolicy","v3",False,"2020-10-21T22:28:54+00:00",0,2,0,0,0,0,8
-"AmazonRDSPreviewServiceRolePolicy","v5",True,"2022-02-22T20:46:58+00:00",0,2,0,0,0,0,12
+"AmazonRDSPreviewServiceRolePolicy","v6",True,"2022-06-07T16:55:33+00:00",0,2,0,0,0,0,14
+"AmazonRDSPreviewServiceRolePolicy","v5",False,"2022-02-22T20:46:58+00:00",0,2,0,0,0,0,12
 "AmazonRDSPreviewServiceRolePolicy","v1",False,"2018-05-31T18:02:00+00:00",0,2,0,0,0,0,8
 "AmazonRDSPreviewServiceRolePolicy","v4",False,"2020-11-19T19:54:51+00:00",0,2,0,0,0,0,12
 "AmazonRDSPreviewServiceRolePolicy","v2",False,"2020-07-29T00:05:20+00:00",0,2,0,0,0,0,8
@@ -1123,9 +1124,10 @@
 "AmazonKinesisVideoStreamsFullAccess","v1",True,"2017-12-01T23:27:18+00:00",1,1,0,0,0,0,15
 "AmazonZocaloReadOnlyAccess","v1",True,"2015-02-06T18:41:14+00:00",0,0,0,0,0,0,0
 "AmazonRDSBetaServiceRolePolicy","v3",False,"2018-07-05T18:29:48+00:00",0,2,0,0,0,0,11
-"AmazonRDSBetaServiceRolePolicy","v6",True,"2022-02-22T20:46:59+00:00",0,2,0,0,0,0,15
+"AmazonRDSBetaServiceRolePolicy","v6",False,"2022-02-22T20:46:59+00:00",0,2,0,0,0,0,15
 "AmazonRDSBetaServiceRolePolicy","v5",False,"2020-11-18T22:40:34+00:00",0,2,0,0,0,0,15
 "AmazonRDSBetaServiceRolePolicy","v1",False,"2018-05-02T19:41:04+00:00",0,2,0,0,0,0,8
+"AmazonRDSBetaServiceRolePolicy","v7",True,"2022-06-07T17:10:39+00:00",0,2,0,0,0,0,17
 "AmazonRDSBetaServiceRolePolicy","v4",False,"2020-07-28T19:26:48+00:00",0,2,0,0,0,0,11
 "AmazonRDSBetaServiceRolePolicy","v2",False,"2018-05-08T22:28:12+00:00",0,2,0,0,0,0,10
 "AmazonSSMFullAccess","v3",False,"2018-07-23T22:53:18+00:00",3,3,0,3,3,0,68
