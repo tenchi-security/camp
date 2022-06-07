@@ -1179,6 +1179,7 @@
 "AmazonRekognitionServiceRole","v1",True,"2017-11-29T16:52:13+00:00",0,0,0,0,0,0,0
 "CloudSearchFullAccess","v1",True,"2015-02-06T18:39:56+00:00",1,1,0,1,0,0,19
 "AmazonElastiCacheReadOnlyAccess","v1",True,"2015-02-06T18:40:21+00:00",0,0,0,0,0,0,0
+"AWSM2ServicePolicy","v1",True,"2022-06-07T20:26:39+00:00",0,2,0,1,0,0,6
 "AWSBackupServiceRolePolicyForRestores","v12",True,"2022-05-17T17:36:12+00:00",0,3,0,1,0,0,13
 "AWSBackupServiceRolePolicyForRestores","v10",False,"2021-11-23T22:00:41+00:00",0,3,0,1,0,0,13
 "AWSBackupServiceRolePolicyForRestores","v3",False,"2019-04-25T19:17:26+00:00",0,2,0,1,0,0,4
