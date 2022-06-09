@@ -2688,6 +2688,7 @@
 "MigrationHubServiceRolePolicy","v1",False,"2019-06-12T17:22:16+00:00",0,0,0,0,0,0,0
 "MigrationHubServiceRolePolicy","v2",False,"2020-02-20T16:59:36+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerServiceCatalogProductsApiGatewayServiceRolePolicy","v1",True,"2022-03-25T04:25:36+00:00",0,0,0,0,0,0,0
+"AWSManagedServicesDeploymentToolkitPolicy","v1",True,"2022-06-09T18:33:03+00:00",0,0,0,0,0,0,0
 "AmazonGrafanaAthenaAccess","v1",True,"2021-11-22T17:11:11+00:00",0,1,0,0,0,0,2
 "AWSPanoramaSageMakerRolePolicy","v1",True,"2020-12-01T13:13:54+00:00",0,0,0,0,0,0,0
 "AmazonAugmentedAIIntegratedAPIAccess","v1",True,"2020-04-22T20:47:32+00:00",0,1,0,0,0,0,6
