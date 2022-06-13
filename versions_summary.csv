@@ -292,8 +292,9 @@
 "LexBotPolicy","v2",True,"2019-11-13T22:29:16+00:00",0,0,0,0,0,0,0
 "AmazonMachineLearningRoleforRedshiftDataSourceV3","v1",True,"2020-06-24T18:00:09+00:00",0,2,0,0,0,0,7
 "AWSQuicksightOpenSearchPolicy","v1",True,"2021-09-07T23:26:19+00:00",0,0,0,0,0,0,0
+"ComputeOptimizerServiceRolePolicy","v3",True,"2022-06-13T19:05:04+00:00",1,0,0,0,0,0,0
 "ComputeOptimizerServiceRolePolicy","v1",False,"2019-12-03T08:45:19+00:00",1,0,0,0,0,0,0
-"ComputeOptimizerServiceRolePolicy","v2",True,"2021-11-29T16:04:07+00:00",1,0,0,0,0,0,0
+"ComputeOptimizerServiceRolePolicy","v2",False,"2021-11-29T16:04:07+00:00",1,0,0,0,0,0,0
 "APIGatewayServiceRolePolicy","v3",False,"2018-08-10T17:57:44+00:00",0,1,0,0,0,0,3
 "APIGatewayServiceRolePolicy","v8",False,"2020-02-25T20:24:49+00:00",0,2,0,1,0,0,8
 "APIGatewayServiceRolePolicy","v6",False,"2019-10-22T18:22:01+00:00",0,1,0,0,0,0,3
