@@ -1,0 +1,6 @@
+{
+    "VersionId": "v1",
+    "IsDefaultVersion": true,
+    "CreateDate": "2022-06-14T17:19:05+00:00",
+    "PolicyName": "AWSCloudTrail_ReadOnlyAccess"
+}

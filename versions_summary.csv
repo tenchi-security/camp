@@ -1649,6 +1649,7 @@
 "AmazonFSxConsoleFullAccess","v1",False,"2018-11-28T16:36:05+00:00",1,2,0,2,0,0,13
 "AmazonFSxConsoleFullAccess","v4",False,"2021-06-08T12:14:00+00:00",1,2,0,2,0,0,13
 "AmazonFSxConsoleFullAccess","v2",False,"2019-09-10T13:11:13+00:00",1,2,0,2,0,0,13
+"AWSCloudTrail_ReadOnlyAccess","v1",True,"2022-06-14T17:19:05+00:00",0,0,0,0,0,0,0
 "AWSPanoramaServiceRolePolicy","v1",True,"2020-12-01T13:14:43+00:00",0,1,0,0,0,0,1
 "AWSResourceGroupsReadOnlyAccess","v1",False,"2018-03-07T10:27:04+00:00",0,0,0,0,0,0,0
 "AWSResourceGroupsReadOnlyAccess","v2",True,"2019-02-05T17:56:25+00:00",0,0,0,0,0,0,0
