@@ -1488,8 +1488,9 @@
 "GameLiftGameServerGroupPolicy","v1",False,"2020-04-03T23:12:19+00:00",0,2,0,0,0,0,8
 "GameLiftGameServerGroupPolicy","v2",False,"2020-04-16T17:13:11+00:00",0,2,0,0,0,0,8
 "AmazonMacieHandshakeRole","v1",True,"2018-06-28T15:46:10+00:00",0,1,0,1,0,0,1
+"AmazonRedshiftQueryEditorV2NoSharing","v3",True,"2022-06-15T09:48:24+00:00",0,1,0,0,0,0,15
 "AmazonRedshiftQueryEditorV2NoSharing","v1",False,"2021-09-24T14:18:42+00:00",0,0,0,0,0,0,0
-"AmazonRedshiftQueryEditorV2NoSharing","v2",True,"2022-02-23T17:04:20+00:00",0,1,0,0,0,0,15
+"AmazonRedshiftQueryEditorV2NoSharing","v2",False,"2022-02-23T17:04:20+00:00",0,1,0,0,0,0,15
 "AWSFMAdminFullAccess","v1",True,"2018-05-09T18:06:18+00:00",3,3,0,4,0,0,96
 "AWSApplicationAutoScalingCustomResourcePolicy","v1",True,"2018-06-04T23:22:44+00:00",0,2,0,0,0,0,3
 "ServiceQuotasServiceRolePolicy","v1",False,"2019-05-22T20:44:17+00:00",0,0,0,0,0,0,0
