@@ -1,6 +1,6 @@
 {
     "VersionId": "v2",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2022-02-23T17:03:58+00:00",
     "PolicyName": "AmazonRedshiftQueryEditorV2ReadSharing"
 }
