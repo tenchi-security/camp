@@ -618,11 +618,12 @@
 "AWSElasticDisasterRecoveryReadOnlyAccess","v1",False,"2021-11-17T10:50:05+00:00",0,0,0,0,0,0,0
 "AWSServiceRoleForImageBuilder","v13",False,"2021-08-11T18:07:10+00:00",0,6,0,3,0,0,21
 "AWSServiceRoleForImageBuilder","v4",False,"2020-02-28T19:03:21+00:00",0,6,0,2,0,0,19
-"AWSServiceRoleForImageBuilder","v16",True,"2022-02-17T00:01:44+00:00",0,6,0,3,0,0,22
+"AWSServiceRoleForImageBuilder","v16",False,"2022-02-17T00:01:44+00:00",0,6,0,3,0,0,22
 "AWSServiceRoleForImageBuilder","v14",False,"2021-12-06T20:55:41+00:00",0,6,0,3,0,0,21
 "AWSServiceRoleForImageBuilder","v11",False,"2020-09-28T18:13:06+00:00",0,6,0,2,0,0,18
 "AWSServiceRoleForImageBuilder","v2",False,"2019-12-02T02:04:36+00:00",0,6,0,2,0,0,19
 "AWSServiceRoleForImageBuilder","v1",False,"2019-11-29T22:02:13+00:00",0,6,0,1,0,0,16
+"AWSServiceRoleForImageBuilder","v17",True,"2022-06-16T00:09:27+00:00",0,6,0,3,0,0,22
 "AWSServiceRoleForImageBuilder","v3",False,"2019-12-02T06:18:40+00:00",0,6,0,2,0,0,19
 "AWSServiceRoleForImageBuilder","v15",False,"2022-02-16T18:01:43+00:00",0,6,0,3,0,0,22
 "AWSServiceRoleForImageBuilder","v10",False,"2020-08-31T20:49:10+00:00",0,6,0,2,0,0,18
