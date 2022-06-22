@@ -430,7 +430,8 @@
 "AWSThinkboxDeadlineResourceTrackerAdminPolicy","v4",False,"2021-08-12T21:28:43+00:00",0,1,0,0,0,0,1
 "AWSThinkboxDeadlineResourceTrackerAdminPolicy","v2",False,"2020-10-06T19:06:57+00:00",0,1,0,0,0,0,1
 "AWSThinkboxDeadlineResourceTrackerAdminPolicy","v1",False,"2020-05-27T19:29:09+00:00",0,1,0,0,0,0,1
-"AWSThinkboxDeadlineResourceTrackerAdminPolicy","v5",True,"2021-12-23T01:01:48+00:00",0,1,0,0,0,0,1
+"AWSThinkboxDeadlineResourceTrackerAdminPolicy","v6",True,"2022-06-22T18:08:40+00:00",0,1,0,0,0,0,1
+"AWSThinkboxDeadlineResourceTrackerAdminPolicy","v5",False,"2021-12-23T01:01:48+00:00",0,1,0,0,0,0,1
 "AWSThinkboxDeadlineResourceTrackerAdminPolicy","v3",False,"2021-07-27T21:13:41+00:00",0,1,0,0,0,0,1
 "CloudWatchSyntheticsReadOnlyAccess","v2",True,"2020-03-06T19:26:01+00:00",0,0,0,0,0,0,0
 "CloudWatchSyntheticsReadOnlyAccess","v1",False,"2019-11-25T17:45:40+00:00",0,0,0,0,0,0,0
