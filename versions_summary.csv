@@ -2623,7 +2623,8 @@
 "AmazonConnectServiceLinkedRolePolicy","v4",False,"2021-04-14T00:13:10+00:00",1,1,0,0,0,2,58
 "AmazonConnectServiceLinkedRolePolicy","v2",False,"2018-09-25T21:29:18+00:00",1,1,0,0,0,2,58
 "AmazonConnectServiceLinkedRolePolicy","v1",False,"2018-09-07T00:21:43+00:00",1,1,0,0,0,2,58
-"AmazonConnectServiceLinkedRolePolicy","v6",True,"2021-12-09T22:12:26+00:00",1,1,0,0,0,2,71
+"AmazonConnectServiceLinkedRolePolicy","v6",False,"2021-12-09T22:12:26+00:00",1,1,0,0,0,2,71
+"AmazonConnectServiceLinkedRolePolicy","v7",True,"2022-06-27T19:35:06+00:00",1,1,0,0,0,2,87
 "AmazonConnectServiceLinkedRolePolicy","v5",False,"2021-11-11T20:33:20+00:00",1,1,0,0,0,2,71
 "AmazonConnectServiceLinkedRolePolicy","v3",False,"2020-10-08T01:40:01+00:00",1,1,0,0,0,2,58
 "AmazonMacieServiceRolePolicy","v4",False,"2020-07-17T21:31:07+00:00",0,1,0,0,1,0,1
