@@ -2672,7 +2672,7 @@
 "AWSSSOServiceRolePolicy","v4",False,"2018-10-29T17:17:16+00:00",0,0,0,0,0,0,0
 "AWSSSOServiceRolePolicy","v2",False,"2017-12-06T19:34:14+00:00",0,0,0,0,0,0,0
 "AWSSSOServiceRolePolicy","v10",False,"2020-07-24T22:05:44+00:00",0,1,0,0,0,0,1
-"AWSSSOServiceRolePolicy","v15",True,"2022-05-12T21:14:40+00:00",0,1,0,0,0,0,1
+"AWSSSOServiceRolePolicy","v15",False,"2022-05-12T21:14:40+00:00",0,1,0,0,0,0,1
 "AWSSSOServiceRolePolicy","v14",False,"2022-05-03T16:12:15+00:00",0,1,0,0,0,0,1
 "AWSSSOServiceRolePolicy","v8",False,"2020-03-12T20:36:59+00:00",0,1,0,0,0,0,1
 "AWSSSOServiceRolePolicy","v12",False,"2020-10-21T20:27:38+00:00",0,1,0,0,0,0,1
@@ -2682,6 +2682,7 @@
 "AWSSSOServiceRolePolicy","v7",False,"2019-08-30T19:55:59+00:00",0,1,0,0,0,0,1
 "AWSSSOServiceRolePolicy","v13",False,"2020-11-19T00:02:00+00:00",0,1,0,0,0,0,1
 "AWSSSOServiceRolePolicy","v5",False,"2019-02-05T18:20:34+00:00",0,0,0,0,0,0,0
+"AWSSSOServiceRolePolicy","v16",True,"2022-06-28T20:08:47+00:00",0,1,0,0,0,0,1
 "AWSSSOServiceRolePolicy","v3",False,"2017-12-06T20:41:34+00:00",0,0,0,0,0,0,0
 "AWSAppMeshPreviewEnvoyAccess","v1",True,"2019-08-05T23:32:39+00:00",0,0,0,0,0,0,0
 "AmazonKinesisReadOnlyAccess","v1",True,"2015-02-06T18:40:30+00:00",0,0,0,0,0,0,0
