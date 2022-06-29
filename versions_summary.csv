@@ -199,12 +199,13 @@
 "AWSLambdaVPCAccessExecutionRole","v1",False,"2016-02-11T23:15:26+00:00",0,2,0,0,0,0,5
 "AmazonSageMakerFullAccess","v11",False,"2019-05-09T04:44:05+00:00",2,12,0,4,0,1,162
 "AmazonSageMakerFullAccess","v4",False,"2018-02-28T18:31:02+00:00",1,6,0,1,0,1,140
+"AmazonSageMakerFullAccess","v23",True,"2022-06-29T18:30:43+00:00",2,16,0,3,0,1,42
 "AmazonSageMakerFullAccess","v20",False,"2021-07-16T00:06:59+00:00",2,14,0,4,0,1,37
 "AmazonSageMakerFullAccess","v2",False,"2018-01-08T22:18:43+00:00",1,5,0,1,0,1,138
 "AmazonSageMakerFullAccess","v18",False,"2020-12-01T16:31:19+00:00",2,14,0,4,0,1,37
 "AmazonSageMakerFullAccess","v10",False,"2019-05-06T23:20:57+00:00",2,12,0,4,0,1,164
 "AmazonSageMakerFullAccess","v19",False,"2021-02-24T01:19:55+00:00",2,14,0,4,0,1,37
-"AmazonSageMakerFullAccess","v22",True,"2022-05-02T06:19:13+00:00",2,16,0,3,0,1,42
+"AmazonSageMakerFullAccess","v22",False,"2022-05-02T06:19:13+00:00",2,16,0,3,0,1,42
 "AmazonSageMakerFullAccess","v15",False,"2019-12-03T16:32:12+00:00",2,12,0,4,0,1,35
 "AmazonSageMakerFullAccess","v14",False,"2019-10-29T22:22:26+00:00",2,12,0,4,0,1,161
 "AmazonSageMakerFullAccess","v8",False,"2018-11-28T16:16:06+00:00",2,12,0,4,0,1,164
