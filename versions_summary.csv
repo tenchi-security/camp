@@ -1618,9 +1618,10 @@
 "AWSElasticBeanstalkService","v3",False,"2016-05-06T19:12:17+00:00",3,10,0,2,1,0,56
 "AmazonEBSCSIDriverPolicy","v1",True,"2022-04-04T17:24:29+00:00",0,1,0,0,0,0,7
 "AWSIdentitySyncReadOnlyAccess","v1",True,"2022-03-23T23:29:52+00:00",0,0,0,0,0,0,0
-"AmazonMacieFullAccess","v4",True,"2022-03-07T18:08:14+00:00",1,1,0,0,0,0,10
+"AmazonMacieFullAccess","v4",False,"2022-03-07T18:08:14+00:00",1,1,0,0,0,0,10
 "AmazonMacieFullAccess","v2",False,"2018-06-28T15:54:57+00:00",1,1,0,1,0,0,1
 "AmazonMacieFullAccess","v1",False,"2017-08-14T14:54:30+00:00",1,0,0,0,0,0,0
+"AmazonMacieFullAccess","v5",True,"2022-07-01T00:41:53+00:00",1,1,0,0,0,0,10
 "AmazonMacieFullAccess","v3",False,"2020-05-13T19:05:16+00:00",2,2,0,1,0,0,11
 "IAMAccessAdvisorReadOnly","v1",True,"2019-06-21T19:33:45+00:00",0,0,0,0,0,0,0
 "AWSIoTDeviceDefenderEnableIoTLoggingMitigationAction","v1",True,"2019-08-07T17:04:07+00:00",0,1,0,1,0,0,1
