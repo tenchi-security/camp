@@ -2001,7 +2001,8 @@
 "AWSVPCTransitGatewayServiceRolePolicy","v1",False,"2018-11-26T16:21:17+00:00",0,1,0,1,0,0,4
 "AmazonOpenSearchServiceCognitoAccess","v2",True,"2021-12-20T14:04:18+00:00",0,0,0,0,0,0,0
 "AmazonOpenSearchServiceCognitoAccess","v1",False,"2021-09-02T06:31:49+00:00",0,0,0,0,0,0,0
-"AWSElasticDisasterRecoveryAgentInstallationPolicy","v1",True,"2021-11-17T10:37:54+00:00",0,0,0,0,0,0,0
+"AWSElasticDisasterRecoveryAgentInstallationPolicy","v2",True,"2022-07-03T09:11:23+00:00",0,1,0,0,0,0,1
+"AWSElasticDisasterRecoveryAgentInstallationPolicy","v1",False,"2021-11-17T10:37:54+00:00",0,0,0,0,0,0,0
 "IAMAccessAnalyzerFullAccess","v1",True,"2019-12-02T17:12:40+00:00",1,2,0,1,0,0,11
 "AWSServiceRoleForEC2ScheduledInstances","v1",True,"2017-10-12T18:31:55+00:00",0,1,0,0,0,0,1
 "AmazonChimeUserManagement","v4",False,"2018-10-29T22:40:29+00:00",0,0,0,0,0,0,0
