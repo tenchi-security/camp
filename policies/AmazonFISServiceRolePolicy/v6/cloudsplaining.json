@@ -1,0 +1,16 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "events"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "events:DeleteRule",
+        "events:PutRule",
+        "events:PutTargets",
+        "events:RemoveTargets"
+    ]
+}
