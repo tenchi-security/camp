@@ -1938,8 +1938,9 @@
 "AWS_ConfigRole","v3",False,"2021-01-29T19:24:13+00:00",0,1,0,0,0,0,5
 "AmazonRedshiftAllCommandsFullAccess","v2",True,"2021-11-25T02:27:31+00:00",0,2,0,0,0,1,1
 "AmazonRedshiftAllCommandsFullAccess","v1",False,"2021-11-04T00:48:08+00:00",0,2,0,1,0,1,7
-"AmazonKeyspacesFullAccess","v2",True,"2021-06-01T19:31:39+00:00",1,2,0,0,0,0,8
+"AmazonKeyspacesFullAccess","v2",False,"2021-06-01T19:31:39+00:00",1,2,0,0,0,0,8
 "AmazonKeyspacesFullAccess","v1",False,"2020-04-23T17:06:37+00:00",1,2,0,0,0,0,8
+"AmazonKeyspacesFullAccess","v3",True,"2022-07-07T15:02:41+00:00",1,2,0,0,0,0,9
 "AmazonEMRReadOnlyAccessPolicy_v2","v2",True,"2022-04-21T22:31:26+00:00",0,0,0,0,0,0,0
 "AmazonEMRReadOnlyAccessPolicy_v2","v1",False,"2021-03-12T01:39:16+00:00",0,0,0,0,0,0,0
 "AmazonDetectiveFullAccess","v2",True,"2020-10-21T22:07:28+00:00",1,1,0,0,0,0,7
@@ -2415,8 +2416,9 @@
 "CloudWatchReadOnlyAccess","v1",False,"2015-02-06T18:40:01+00:00",0,0,0,0,0,0,0
 "CloudWatchReadOnlyAccess","v3",False,"2018-05-10T21:40:42+00:00",0,0,0,0,0,0,0
 "AmazonCloudDirectoryFullAccess","v1",True,"2017-02-25T00:41:39+00:00",1,1,0,0,0,0,32
-"AmazonKeyspacesReadOnlyAccess","v2",True,"2021-06-01T19:32:47+00:00",0,0,0,0,0,0,0
+"AmazonKeyspacesReadOnlyAccess","v2",False,"2021-06-01T19:32:47+00:00",0,0,0,0,0,0,0
 "AmazonKeyspacesReadOnlyAccess","v1",False,"2020-04-23T17:07:14+00:00",0,0,0,0,0,0,0
+"AmazonKeyspacesReadOnlyAccess","v3",True,"2022-07-07T14:54:05+00:00",0,0,0,0,0,0,0
 "AWSMarketplaceMeteringFullAccess","v1",True,"2016-03-17T22:39:22+00:00",0,0,0,0,0,0,0
 "QuickSightAccessForS3StorageManagementAnalyticsReadOnly","v4",True,"2019-10-08T23:53:11+00:00",0,0,0,0,0,0,0
 "QuickSightAccessForS3StorageManagementAnalyticsReadOnly","v2",False,"2017-07-07T21:16:47+00:00",0,0,0,0,0,0,0

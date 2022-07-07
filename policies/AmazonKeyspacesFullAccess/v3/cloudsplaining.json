@@ -1,0 +1,24 @@
+{
+    "ServiceWildcard": [
+        "cassandra"
+    ],
+    "ServicesAffected": [
+        "cassandra",
+        "cloudwatch"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "cassandra:Alter",
+        "cassandra:Create",
+        "cassandra:Drop",
+        "cassandra:Modify",
+        "cassandra:Restore",
+        "cassandra:TagResource",
+        "cassandra:UntagResource",
+        "cloudwatch:DeleteAlarms",
+        "cloudwatch:PutMetricAlarm"
+    ]
+}
