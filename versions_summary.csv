@@ -1651,8 +1651,9 @@
 "AmazonChimeFullAccess","v3",True,"2020-12-14T21:00:52+00:00",1,2,0,3,0,1,35
 "AWSAgentlessDiscoveryService","v2",True,"2020-02-24T23:08:23+00:00",1,0,0,0,0,0,0
 "AWSAgentlessDiscoveryService","v1",False,"2016-08-02T01:35:11+00:00",1,0,0,0,0,0,0
-"AmazonRedshiftDataFullAccess","v2",True,"2021-07-27T20:05:33+00:00",0,1,0,0,0,0,1
+"AmazonRedshiftDataFullAccess","v2",False,"2021-07-27T20:05:33+00:00",0,1,0,0,0,0,1
 "AmazonRedshiftDataFullAccess","v1",False,"2020-09-09T19:23:55+00:00",0,1,0,0,0,0,1
+"AmazonRedshiftDataFullAccess","v3",True,"2022-07-08T01:44:27+00:00",0,2,0,0,0,0,3
 "AmazonElasticContainerRegistryPublicReadOnly","v1",True,"2020-12-01T17:27:04+00:00",0,0,0,0,0,0,0
 "AWSCertificateManagerPrivateCAFullAccess","v1",True,"2018-10-23T16:54:50+00:00",1,1,0,4,0,0,13
 "AmazonRDSPreviewServiceRolePolicy","v4",False,"2020-11-19T19:54:51+00:00",0,2,0,0,0,0,12

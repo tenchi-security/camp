@@ -1,0 +1,16 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "redshift-data",
+        "secretsmanager"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "redshift-data:BatchExecuteStatement",
+        "redshift-data:ExecuteStatement",
+        "secretsmanager:GetSecretValue"
+    ]
+}
