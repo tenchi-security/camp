@@ -1,0 +1,20 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "drs",
+        "ec2"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "drs:BatchCreateVolumeSnapshotGroupForDrs",
+        "drs:NotifyAgentAuthenticationForDrs",
+        "drs:NotifyAgentConnectedForDrs",
+        "drs:NotifyAgentDisconnectedForDrs",
+        "drs:NotifyAgentReplicationProgressForDrs",
+        "drs:UpdateAgentReplicationProcessStateForDrs",
+        "ec2:CreateTags"
+    ]
+}

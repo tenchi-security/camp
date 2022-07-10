@@ -163,7 +163,8 @@
 "AWSMigrationHubSMSAccess","v1",False,"2017-08-14T13:57:54+00:00",0,0,0,0,0,0,0
 "AmazonMWAAServiceRolePolicy","v1",True,"2020-11-24T14:13:41+00:00",0,1,0,2,0,0,5
 "AWSMigrationHubOrchestratorInstanceRolePolicy","v1",True,"2022-04-20T02:43:50+00:00",0,0,0,0,0,0,0
-"AWSElasticDisasterRecoveryReplicationServerPolicy","v1",True,"2021-11-17T13:34:00+00:00",0,1,0,0,0,0,1
+"AWSElasticDisasterRecoveryReplicationServerPolicy","v2",True,"2022-07-10T12:34:15+00:00",0,2,0,0,0,0,7
+"AWSElasticDisasterRecoveryReplicationServerPolicy","v1",False,"2021-11-17T13:34:00+00:00",0,1,0,0,0,0,1
 "GreengrassOTAUpdateArtifactAccess","v2",True,"2018-12-18T00:59:43+00:00",0,0,0,0,0,0,0
 "GreengrassOTAUpdateArtifactAccess","v1",False,"2017-11-29T18:11:47+00:00",0,0,0,0,0,0,0
 "AWSResourceAccessManagerResourceShareParticipantAccess","v1",True,"2019-12-09T20:41:37+00:00",0,1,0,2,0,0,2
@@ -1828,7 +1829,8 @@
 "AWSSSOMasterAccountAdministrator","v3",False,"2018-10-17T20:41:20+00:00",1,2,0,31,0,0,18
 "AmazonPrometheusRemoteWriteAccess","v1",True,"2020-12-19T01:04:32+00:00",0,1,0,0,0,0,1
 "IVSRecordToS3","v1",True,"2020-12-05T00:10:43+00:00",0,0,0,0,0,0,0
-"AWSElasticDisasterRecoveryServiceRolePolicy","v1",True,"2021-11-17T10:56:17+00:00",0,1,0,0,0,0,1
+"AWSElasticDisasterRecoveryServiceRolePolicy","v2",True,"2022-07-10T12:44:41+00:00",0,1,0,0,0,0,2
+"AWSElasticDisasterRecoveryServiceRolePolicy","v1",False,"2021-11-17T10:56:17+00:00",0,1,0,0,0,0,1
 "AWSElasticBeanstalkRoleECS","v1",True,"2020-06-05T21:47:27+00:00",0,1,0,0,0,0,1
 "AWSThinkboxDeadlineSpotEventPluginAdminPolicy","v1",True,"2020-05-27T19:38:34+00:00",0,1,0,0,0,0,4
 "AWSServiceRoleForSMS","v4",False,"2020-04-20T17:55:26+00:00",0,2,0,2,0,0,12
