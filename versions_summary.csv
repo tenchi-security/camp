@@ -2608,8 +2608,9 @@
 "AmazonSageMakerReadOnly","v3",False,"2018-06-07T19:03:28+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerReadOnly","v1",False,"2017-11-29T13:07:09+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryConversionServerPolicy","v1",True,"2021-11-17T13:42:23+00:00",0,0,0,0,0,0,0
+"AWSNetworkManagerServiceRolePolicy","v7",True,"2022-07-12T12:03:37+00:00",0,0,0,0,0,0,0
 "AWSNetworkManagerServiceRolePolicy","v5",False,"2021-11-23T21:38:47+00:00",0,0,0,0,0,0,0
-"AWSNetworkManagerServiceRolePolicy","v6",True,"2022-05-24T14:42:03+00:00",0,0,0,0,0,0,0
+"AWSNetworkManagerServiceRolePolicy","v6",False,"2022-05-24T14:42:03+00:00",0,0,0,0,0,0,0
 "AWSNetworkManagerServiceRolePolicy","v2",False,"2019-12-10T20:41:38+00:00",0,0,0,0,0,0,0
 "AWSNetworkManagerServiceRolePolicy","v4",False,"2021-06-07T16:18:24+00:00",0,0,0,0,0,0,0
 "AWSNetworkManagerServiceRolePolicy","v3",False,"2020-12-10T12:06:22+00:00",0,0,0,0,0,0,0
