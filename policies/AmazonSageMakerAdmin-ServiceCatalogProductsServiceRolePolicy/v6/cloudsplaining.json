@@ -1,0 +1,35 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "apigateway",
+        "cognito-idp",
+        "glue",
+        "s3"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "apigateway:DELETE",
+        "apigateway:PATCH",
+        "apigateway:POST",
+        "apigateway:PUT",
+        "cognito-idp:CreateGroup",
+        "cognito-idp:CreateUserPoolClient",
+        "cognito-idp:CreateUserPoolDomain",
+        "cognito-idp:DeleteGroup",
+        "cognito-idp:DeleteUserPool",
+        "cognito-idp:DeleteUserPoolClient",
+        "cognito-idp:DeleteUserPoolDomain",
+        "cognito-idp:TagResource",
+        "cognito-idp:UpdateUserPool",
+        "cognito-idp:UpdateUserPoolClient",
+        "glue:DeleteCrawler",
+        "glue:DeleteJob",
+        "glue:DeleteTrigger",
+        "glue:DeleteWorkflow",
+        "glue:StopCrawler",
+        "s3:GetObject"
+    ]
+}

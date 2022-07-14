@@ -1410,7 +1410,8 @@
 "AmazonEC2FullAccess","v4",False,"2018-02-08T18:11:24+00:00",4,5,0,6,0,1,339
 "AmazonEC2FullAccess","v3",False,"2018-01-11T20:16:43+00:00",4,4,0,5,0,1,338
 "AmazonEC2FullAccess","v1",False,"2015-02-06T18:40:15+00:00",4,4,0,5,0,1,338
-"AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v5",True,"2022-03-21T17:33:28+00:00",0,4,0,0,0,0,20
+"AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v5",False,"2022-03-21T17:33:28+00:00",0,4,0,0,0,0,20
+"AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v6",True,"2022-07-14T19:36:42+00:00",0,4,0,0,0,0,20
 "AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v2",False,"2021-07-02T06:13:39+00:00",0,3,0,0,0,0,14
 "AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v4",False,"2022-02-16T19:52:11+00:00",0,4,0,0,0,0,20
 "AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v3",False,"2021-09-15T20:00:26+00:00",0,3,0,0,0,0,14
