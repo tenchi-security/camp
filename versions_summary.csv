@@ -177,6 +177,7 @@
 "AWSFMAdminReadOnlyAccess","v1",True,"2018-05-09T20:07:39+00:00",0,0,0,0,0,0,0
 "AWSThinkboxAssetServerPolicy","v1",True,"2020-05-27T19:18:53+00:00",0,0,0,0,0,0,0
 "AWSThinkboxDeadlineResourceTrackerAccessPolicy","v1",True,"2020-05-27T19:25:05+00:00",0,2,0,0,0,0,3
+"AmazonGuardDutyMalwareProtectionServiceRolePolicy","v1",True,"2022-07-19T19:06:53+00:00",0,0,0,0,0,0,0
 "AWSElementalMediaTailorFullAccess","v1",True,"2021-11-23T00:04:39+00:00",1,1,0,2,0,0,14
 "AWSLicenseManagerMasterAccountRolePolicy","v3",False,"2019-08-29T22:56:41+00:00",0,2,0,5,0,0,6
 "AWSLicenseManagerMasterAccountRolePolicy","v1",False,"2018-11-26T19:03:51+00:00",0,2,0,5,0,0,6
