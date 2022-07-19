@@ -1,6 +1,6 @@
 {
     "VersionId": "v2",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2021-02-16T23:39:53+00:00",
     "PolicyName": "AmazonGuardDutyFullAccess"
 }
