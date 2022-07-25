@@ -203,7 +203,8 @@
 "AmazonAppStreamServiceAccess","v5",False,"2019-01-17T20:22:45+00:00",0,1,0,0,0,0,4
 "AmazonAppStreamServiceAccess","v4",False,"2018-08-13T18:19:51+00:00",0,1,0,0,0,0,4
 "AWSIoTDeviceDefenderPublishFindingsToSNSMitigationAction","v1",True,"2019-08-07T17:04:37+00:00",0,1,0,0,0,0,1
-"AWSWellArchitectedOrganizationsServiceRolePolicy","v1",True,"2022-06-23T17:15:26+00:00",0,0,0,0,0,0,0
+"AWSWellArchitectedOrganizationsServiceRolePolicy","v1",False,"2022-06-23T17:15:26+00:00",0,0,0,0,0,0,0
+"AWSWellArchitectedOrganizationsServiceRolePolicy","v2",True,"2022-07-25T18:03:31+00:00",0,0,0,0,0,0,0
 "AWSIoT1ClickReadOnlyAccess","v1",True,"2018-05-11T21:49:24+00:00",0,0,0,0,0,0,0
 "AWSQuickSightSageMakerPolicy","v1",True,"2020-01-17T17:18:13+00:00",0,0,0,0,0,0,0
 "AWSXRayDaemonWriteAccess","v1",True,"2018-08-28T23:00:33+00:00",0,0,0,0,0,0,0
