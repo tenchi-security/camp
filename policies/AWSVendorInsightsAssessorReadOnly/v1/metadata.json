@@ -1,0 +1,6 @@
+{
+    "VersionId": "v1",
+    "IsDefaultVersion": true,
+    "CreateDate": "2022-07-26T15:05:56+00:00",
+    "PolicyName": "AWSVendorInsightsAssessorReadOnly"
+}

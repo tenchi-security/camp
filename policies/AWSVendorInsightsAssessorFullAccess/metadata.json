@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSVendorInsightsAssessorFullAccess",
+    "PolicyId": "ANPAZKAPJZG4AEED3KMDL",
+    "Arn": "arn:aws:iam::aws:policy/AWSVendorInsightsAssessorFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2022-07-26T15:05:40+00:00",
+    "UpdateDate": "2022-07-26T15:05:40+00:00"
+}

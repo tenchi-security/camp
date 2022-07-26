@@ -861,6 +861,7 @@
 "AWSCloud9User","v1",False,"2017-11-30T16:16:17+00:00",0,2,0,1,0,0,2
 "AWSCloud9User","v2",False,"2018-04-26T21:16:21+00:00",0,1,0,1,0,0,1
 "AWSCloud9User","v4",True,"2020-07-29T06:26:43+00:00",0,1,0,1,0,0,1
+"AWSVendorInsightsAssessorReadOnly","v1",True,"2022-07-26T15:05:56+00:00",0,0,0,0,0,0,0
 "AWSElasticBeanstalkRoleRDS","v1",True,"2020-06-05T21:46:55+00:00",0,0,0,0,0,0,0
 "ServerMigrationServiceLaunchRole","v3",False,"2020-09-30T17:50:15+00:00",0,2,0,1,0,0,6
 "ServerMigrationServiceLaunchRole","v1",False,"2018-11-26T19:53:06+00:00",0,1,0,0,0,0,5
@@ -1080,7 +1081,8 @@
 "AWSMarketplaceSellerFullAccess","v3",False,"2020-05-28T21:07:22+00:00",0,1,0,1,0,0,2
 "AWSMarketplaceSellerFullAccess","v1",False,"2019-07-02T20:40:09+00:00",0,1,0,1,0,0,2
 "AWSMarketplaceSellerFullAccess","v2",False,"2020-03-05T23:10:50+00:00",0,1,0,1,0,0,2
-"AWSMarketplaceSellerFullAccess","v5",True,"2021-11-30T19:26:49+00:00",0,1,0,1,0,0,2
+"AWSMarketplaceSellerFullAccess","v6",True,"2022-07-26T15:06:13+00:00",0,2,0,1,0,0,4
+"AWSMarketplaceSellerFullAccess","v5",False,"2021-11-30T19:26:49+00:00",0,1,0,1,0,0,2
 "AWSMarketplaceSellerFullAccess","v4",False,"2020-10-09T22:23:38+00:00",0,1,0,1,0,0,2
 "AmazonManagedBlockchainConsoleFullAccess","v1",True,"2019-04-29T21:23:25+00:00",1,2,0,0,0,0,12
 "AWSBudgetsReadOnlyAccess","v1",True,"2020-10-15T17:18:28+00:00",0,0,0,0,0,0,0
@@ -1313,6 +1315,7 @@
 "NeptuneFullAccess","v2",False,"2018-07-10T17:15:04+00:00",0,2,0,1,0,0,37
 "NeptuneFullAccess","v5",True,"2020-09-02T17:24:56+00:00",0,3,0,2,0,0,38
 "NeptuneFullAccess","v4",False,"2020-02-12T23:28:19+00:00",0,3,0,2,0,0,38
+"AWSVendorInsightsVendorReadOnly","v1",True,"2022-07-26T15:05:34+00:00",0,0,0,0,0,0,0
 "AWSNetworkManagerReadOnlyAccess","v1",True,"2019-12-03T17:35:05+00:00",0,0,0,0,0,0,0
 "AWSResourceAccessManagerFullAccess","v1",True,"2019-06-04T17:28:22+00:00",1,1,0,8,0,0,11
 "AWSGlueSchemaRegistryFullAccess","v1",True,"2020-11-20T00:19:00+00:00",0,1,0,0,0,0,10
@@ -1598,6 +1601,7 @@
 "AmazonEC2SpotFleetAutoscaleRole","v1",False,"2016-08-19T18:27:22+00:00",0,1,0,0,0,0,1
 "AmazonEC2SpotFleetAutoscaleRole","v2",False,"2017-11-14T22:24:10+00:00",0,2,0,0,0,0,3
 "AWSPanoramaApplianceServiceRolePolicy","v1",True,"2021-10-20T12:14:03+00:00",0,1,0,0,0,0,1
+"AWSVendorInsightsAssessorFullAccess","v1",True,"2022-07-26T15:05:40+00:00",0,0,0,0,0,0,0
 "AWSCloud9SSMInstanceProfile","v1",True,"2020-05-14T11:40:49+00:00",0,0,0,0,0,0,0
 "AWSElasticBeanstalkService","v3",False,"2016-05-06T19:12:17+00:00",3,10,0,2,1,0,56
 "AWSElasticBeanstalkService","v16",True,"2019-06-14T23:18:46+00:00",3,11,0,3,1,0,75
@@ -2084,7 +2088,8 @@
 "AWSMarketplaceSellerProductsFullAccess","v3",False,"2020-10-09T22:22:38+00:00",0,1,0,1,0,0,2
 "AWSMarketplaceSellerProductsFullAccess","v1",False,"2019-07-02T21:06:25+00:00",0,1,0,1,0,0,2
 "AWSMarketplaceSellerProductsFullAccess","v2",False,"2020-03-05T23:11:44+00:00",0,1,0,1,0,0,2
-"AWSMarketplaceSellerProductsFullAccess","v4",True,"2021-11-26T18:50:50+00:00",0,1,0,1,0,0,2
+"AWSMarketplaceSellerProductsFullAccess","v5",True,"2022-07-26T15:06:29+00:00",0,2,0,1,0,0,4
+"AWSMarketplaceSellerProductsFullAccess","v4",False,"2021-11-26T18:50:50+00:00",0,1,0,1,0,0,2
 "AWSMediaTailorServiceRolePolicy","v1",True,"2021-09-17T22:27:10+00:00",0,0,0,0,0,0,0
 "AmazonWorkDocsReadOnlyAccess","v1",True,"2020-01-08T23:49:59+00:00",0,0,0,0,0,0,0
 "AmazonRekognitionFullAccess","v1",True,"2016-11-30T14:40:44+00:00",1,1,0,0,0,0,15
@@ -2536,6 +2541,7 @@
 "AWSSecurityHubServiceRolePolicy","v4",False,"2020-04-08T20:26:47+00:00",0,0,0,0,0,0,0
 "AmazonElasticTranscoder_ReadOnlyAccess","v1",False,"2018-06-07T21:09:56+00:00",0,0,0,0,0,0,0
 "AmazonElasticTranscoder_ReadOnlyAccess","v2",True,"2019-06-10T22:48:32+00:00",0,0,0,0,0,0,0
+"AWSVendorInsightsVendorFullAccess","v1",True,"2022-07-26T15:05:27+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerFullAccess","v20",False,"2021-07-16T00:06:59+00:00",2,14,0,4,0,1,37
 "AmazonSageMakerFullAccess","v3",False,"2018-02-23T00:37:08+00:00",1,6,0,1,0,1,140
 "AmazonSageMakerFullAccess","v16",False,"2020-01-13T20:47:34+00:00",2,12,0,4,0,1,33
