@@ -1072,10 +1072,11 @@
 "AWSBackupServiceLinkedRolePolicyForBackup","v7",False,"2022-01-14T19:17:42+00:00",0,2,0,1,0,0,6
 "AWSBackupServiceLinkedRolePolicyForBackup","v2",False,"2020-11-10T18:37:51+00:00",0,2,0,1,0,0,6
 "AWSBackupServiceLinkedRolePolicyForBackup","v9",False,"2022-05-05T17:45:06+00:00",0,2,0,1,0,0,6
+"AWSBackupServiceLinkedRolePolicyForBackup","v11",True,"2022-07-28T17:29:44+00:00",0,2,0,1,0,0,6
 "AWSBackupServiceLinkedRolePolicyForBackup","v6",False,"2021-11-23T22:00:49+00:00",0,2,0,1,0,0,6
 "AWSBackupServiceLinkedRolePolicyForBackup","v5",False,"2021-10-20T18:16:29+00:00",0,2,0,1,0,0,6
 "AWSBackupServiceLinkedRolePolicyForBackup","v4",False,"2021-07-05T23:27:46+00:00",0,2,0,1,0,0,6
-"AWSBackupServiceLinkedRolePolicyForBackup","v10",True,"2022-05-17T17:21:50+00:00",0,2,0,1,0,0,6
+"AWSBackupServiceLinkedRolePolicyForBackup","v10",False,"2022-05-17T17:21:50+00:00",0,2,0,1,0,0,6
 "AmazonS3OutpostsReadOnlyAccess","v1",True,"2020-10-02T18:55:58+00:00",0,0,0,0,0,0,0
 "RDSCloudHsmAuthorizationRole","v1",False,"2015-02-06T18:41:29+00:00",0,0,0,0,0,0,0
 "RDSCloudHsmAuthorizationRole","v2",True,"2019-09-26T22:14:29+00:00",0,0,0,0,0,0,0
