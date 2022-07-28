@@ -1316,7 +1316,8 @@
 "NeptuneFullAccess","v3",False,"2018-11-06T21:21:19+00:00",0,3,0,2,0,0,38
 "NeptuneFullAccess","v1",False,"2018-05-30T19:17:31+00:00",0,2,0,1,0,0,37
 "NeptuneFullAccess","v2",False,"2018-07-10T17:15:04+00:00",0,2,0,1,0,0,37
-"NeptuneFullAccess","v5",True,"2020-09-02T17:24:56+00:00",0,3,0,2,0,0,38
+"NeptuneFullAccess","v6",True,"2022-07-28T19:58:27+00:00",1,4,0,2,0,0,49
+"NeptuneFullAccess","v5",False,"2020-09-02T17:24:56+00:00",0,3,0,2,0,0,38
 "NeptuneFullAccess","v4",False,"2020-02-12T23:28:19+00:00",0,3,0,2,0,0,38
 "AWSVendorInsightsVendorReadOnly","v1",True,"2022-07-26T15:05:34+00:00",0,0,0,0,0,0,0
 "AWSNetworkManagerReadOnlyAccess","v1",True,"2019-12-03T17:35:05+00:00",0,0,0,0,0,0,0
