@@ -1116,9 +1116,10 @@
 "AWSServiceCatalogAdminFullAccess","v5",True,"2019-02-06T01:57:54+00:00",1,2,0,3,0,0,35
 "AWSServiceCatalogAdminFullAccess","v4",False,"2018-11-02T23:07:49+00:00",1,2,0,3,0,0,35
 "AWSCloudMapDiscoverInstanceAccess","v1",True,"2018-11-29T00:02:42+00:00",0,0,0,0,0,0,0
-"AmazonOpenSearchServiceRolePolicy","v3",True,"2021-09-09T10:43:21+00:00",0,0,0,0,0,0,0
+"AmazonOpenSearchServiceRolePolicy","v3",False,"2021-09-09T10:43:21+00:00",0,0,0,0,0,0,0
 "AmazonOpenSearchServiceRolePolicy","v1",False,"2021-08-26T09:27:09+00:00",0,0,0,0,0,0,0
 "AmazonOpenSearchServiceRolePolicy","v2",False,"2021-09-01T05:43:03+00:00",0,0,0,0,0,0,0
+"AmazonOpenSearchServiceRolePolicy","v4",True,"2022-07-28T13:10:24+00:00",0,0,0,0,0,0,0
 "AWSAppRunnerReadOnlyAccess","v1",True,"2022-02-24T21:24:15+00:00",0,0,0,0,0,0,0
 "AmazonEMRFullAccessPolicy_v2","v3",True,"2022-04-21T22:31:45+00:00",0,1,0,0,0,0,20
 "AmazonEMRFullAccessPolicy_v2","v1",False,"2021-03-12T01:50:29+00:00",0,2,0,2,0,0,21
