@@ -1389,6 +1389,7 @@
 "AmazonDMSVPCManagementRole","v1",False,"2015-11-18T16:33:19+00:00",0,1,0,0,0,0,2
 "AmazonDMSVPCManagementRole","v2",False,"2015-12-17T21:09:34+00:00",0,1,0,0,0,0,2
 "ReadOnlyAccess","v20",False,"2016-12-01T22:19:08+00:00",0,3,0,0,4,1,4
+"ReadOnlyAccess","v90",True,"2022-07-29T19:19:00+00:00",0,9,0,0,4,9,4
 "ReadOnlyAccess","v28",False,"2017-06-29T19:42:10+00:00",0,11,0,1,4,13,13
 "ReadOnlyAccess","v57",False,"2019-11-22T01:10:29+00:00",0,9,0,1,4,11,5
 "ReadOnlyAccess","v3",False,"2015-06-15T22:15:54+00:00",0,1,0,0,1,0,1
@@ -1414,7 +1415,7 @@
 "ReadOnlyAccess","v24",False,"2017-03-20T18:53:58+00:00",0,3,0,0,4,1,4
 "ReadOnlyAccess","v84",False,"2022-04-12T19:46:58+00:00",0,9,0,0,4,9,4
 "ReadOnlyAccess","v1",False,"2015-02-06T18:39:48+00:00",0,1,0,0,1,0,1
-"ReadOnlyAccess","v89",True,"2022-07-25T21:19:31+00:00",0,9,0,0,4,9,4
+"ReadOnlyAccess","v89",False,"2022-07-25T21:19:31+00:00",0,9,0,0,4,9,4
 "ReadOnlyAccess","v48",False,"2019-04-02T19:07:24+00:00",0,9,0,1,4,11,5
 "ReadOnlyAccess","v41",False,"2018-09-12T22:05:40+00:00",0,9,0,1,4,11,7
 "ReadOnlyAccess","v43",False,"2018-11-08T20:20:13+00:00",0,9,0,1,4,11,7
