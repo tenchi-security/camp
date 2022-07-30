@@ -680,6 +680,7 @@
 "AWSBackupServiceRolePolicyForRestores","v13",True,"2022-07-19T23:22:51+00:00",0,3,0,1,0,0,13
 "AWSBackupServiceRolePolicyForRestores","v4",False,"2019-10-03T19:10:42+00:00",0,2,0,1,0,0,9
 "AWSBackupServiceRolePolicyForRestores","v10",False,"2021-11-23T22:00:41+00:00",0,3,0,1,0,0,13
+"AWSLicenseManagerUserSubscriptionsServiceRolePolicy","v1",True,"2022-07-30T01:17:18+00:00",0,0,0,0,0,0,0
 "AmazonElasticTranscoder_FullAccess","v1",False,"2018-04-27T18:59:35+00:00",1,2,0,1,0,0,10
 "AmazonElasticTranscoder_FullAccess","v2",True,"2019-06-10T22:51:51+00:00",1,2,0,1,0,0,10
 "AmazonWorkDocsFullAccess","v1",True,"2020-04-16T23:05:11+00:00",1,0,0,0,0,0,0
