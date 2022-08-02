@@ -1628,8 +1628,9 @@
 "AWSElasticBeanstalkService","v10",False,"2017-03-23T23:17:41+00:00",3,11,0,2,1,0,66
 "AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v3",False,"2021-09-15T20:00:26+00:00",0,3,0,0,0,0,14
 "AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v1",False,"2020-11-27T18:48:07+00:00",0,3,0,0,0,0,14
+"AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v7",True,"2022-08-02T19:12:55+00:00",0,4,0,0,0,0,20
 "AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v2",False,"2021-07-02T06:13:39+00:00",0,3,0,0,0,0,14
-"AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v6",True,"2022-07-14T19:36:42+00:00",0,4,0,0,0,0,20
+"AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v6",False,"2022-07-14T19:36:42+00:00",0,4,0,0,0,0,20
 "AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v5",False,"2022-03-21T17:33:28+00:00",0,4,0,0,0,0,20
 "AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v4",False,"2022-02-16T19:52:11+00:00",0,4,0,0,0,0,20
 "AmazonSageMakerPipelinesIntegrations","v1",False,"2021-07-30T16:35:10+00:00",0,0,0,0,0,0,0
