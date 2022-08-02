@@ -257,9 +257,10 @@
 "AmazonBraketFullAccess","v5",True,"2022-03-31T19:03:33+00:00",1,2,0,0,0,1,4
 "AmazonBraketFullAccess","v4",False,"2021-11-28T05:31:50+00:00",1,2,0,0,0,1,4
 "CloudWatchEventsBuiltInTargetExecutionAccess","v1",True,"2016-01-14T18:35:49+00:00",0,1,0,0,0,0,4
-"AmazonElasticsearchServiceRolePolicy","v3",True,"2020-08-31T10:30:23+00:00",0,2,0,0,0,0,5
+"AmazonElasticsearchServiceRolePolicy","v3",False,"2020-08-31T10:30:23+00:00",0,2,0,0,0,0,5
 "AmazonElasticsearchServiceRolePolicy","v1",False,"2017-07-07T00:15:31+00:00",0,1,0,0,0,0,3
 "AmazonElasticsearchServiceRolePolicy","v2",False,"2018-02-08T21:38:27+00:00",0,1,0,0,0,0,3
+"AmazonElasticsearchServiceRolePolicy","v4",True,"2022-08-02T15:31:35+00:00",0,2,0,0,0,0,5
 "AmazonKinesisFullAccess","v1",True,"2015-02-06T18:40:29+00:00",1,1,0,0,0,0,14
 "AWSThinkboxAWSPortalAdminPolicy","v3",False,"2020-08-18T21:01:54+00:00",0,4,0,0,0,0,45
 "AWSThinkboxAWSPortalAdminPolicy","v1",False,"2020-05-27T19:41:02+00:00",0,4,0,0,0,0,45
