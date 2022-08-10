@@ -2654,8 +2654,9 @@
 "AWSGrafanaConsoleReadOnlyAccess","v2",False,"2021-09-21T20:36:14+00:00",0,0,0,0,0,0,0
 "AmazonEC2ContainerServiceAutoscaleRole","v1",False,"2016-05-12T23:25:44+00:00",0,1,0,0,0,0,1
 "AmazonEC2ContainerServiceAutoscaleRole","v2",True,"2018-02-05T19:15:15+00:00",0,2,0,0,0,0,2
+"AWSCompromisedKeyQuarantineV2","v3",True,"2022-08-10T21:15:53+00:00",0,0,0,0,0,0,0
 "AWSCompromisedKeyQuarantineV2","v1",False,"2021-04-21T22:30:59+00:00",0,0,0,0,0,0,0
-"AWSCompromisedKeyQuarantineV2","v2",True,"2021-11-11T21:32:48+00:00",0,0,0,0,0,0,0
+"AWSCompromisedKeyQuarantineV2","v2",False,"2021-11-11T21:32:48+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryEc2InstancePolicy","v1",True,"2022-05-26T12:30:18+00:00",0,0,0,0,0,0,0
 "AmazonMSKReadOnlyAccess","v1",True,"2019-01-14T22:28:45+00:00",0,0,0,0,0,0,0
 "AmazonCognitoReadOnly","v3",False,"2019-02-16T00:18:11+00:00",0,1,0,1,0,3,0

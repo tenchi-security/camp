@@ -1,6 +1,6 @@
 {
     "VersionId": "v2",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2021-11-11T21:32:48+00:00",
     "PolicyName": "AWSCompromisedKeyQuarantineV2"
 }
