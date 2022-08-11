@@ -1,0 +1,13 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "ecr"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [
+        "ecr:GetAuthorizationToken"
+    ],
+    "InfrastructureModification": []
+}
