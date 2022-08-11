@@ -1281,7 +1281,8 @@
 "AWSApplicationMigrationFullAccess","v3",False,"2022-05-01T08:31:14+00:00",1,1,0,0,0,0,33
 "AWSApplicationMigrationFullAccess","v1",False,"2021-04-07T06:56:05+00:00",1,0,0,0,0,0,0
 "AWSApplicationMigrationFullAccess","v2",False,"2022-02-22T11:16:56+00:00",1,1,0,0,0,0,33
-"AWSApplicationMigrationFullAccess","v4",True,"2022-05-31T21:14:49+00:00",1,1,0,0,0,0,33
+"AWSApplicationMigrationFullAccess","v5",True,"2022-08-11T16:08:08+00:00",1,1,0,0,0,0,33
+"AWSApplicationMigrationFullAccess","v4",False,"2022-05-31T21:14:49+00:00",1,1,0,0,0,0,33
 "AWSIotRoboRunnerFullAccess","v1",True,"2021-11-29T03:54:37+00:00",1,0,0,0,0,0,0
 "IAMFullAccess","v1",False,"2015-02-06T18:40:38+00:00",1,1,10,79,0,5,90
 "IAMFullAccess","v2",True,"2019-06-21T19:40:00+00:00",1,1,10,79,0,5,90
