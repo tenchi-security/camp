@@ -284,7 +284,8 @@
 "ElasticLoadBalancingFullAccess","v3",False,"2018-12-12T18:49:21+00:00",1,2,0,1,0,0,24
 "ElasticLoadBalancingFullAccess","v1",False,"2018-09-20T20:42:07+00:00",1,2,0,1,0,0,24
 "AmazonRekognitionCustomLabelsFullAccess","v2",False,"2020-04-17T17:26:10+00:00",0,1,0,0,0,0,6
-"AmazonRekognitionCustomLabelsFullAccess","v3",True,"2021-11-03T02:53:05+00:00",0,1,0,0,0,0,8
+"AmazonRekognitionCustomLabelsFullAccess","v4",True,"2022-08-16T20:20:43+00:00",0,1,0,0,0,0,12
+"AmazonRekognitionCustomLabelsFullAccess","v3",False,"2021-11-03T02:53:05+00:00",0,1,0,0,0,0,8
 "AmazonRekognitionCustomLabelsFullAccess","v1",False,"2020-01-08T19:18:34+00:00",0,1,0,0,0,0,4
 "AWSResourceAccessManagerResourceShareParticipantAccess","v1",True,"2019-12-09T20:41:37+00:00",0,1,0,2,0,0,2
 "AmazonEKSClusterPolicy","v2",False,"2018-10-03T20:56:30+00:00",0,4,0,1,0,0,28
@@ -1545,7 +1546,8 @@
 "AWSTrustedAdvisorServiceRolePolicy","v5",False,"2019-01-22T19:58:36+00:00",0,0,0,0,0,0,0
 "AWSTrustedAdvisorServiceRolePolicy","v3",False,"2018-10-08T21:27:22+00:00",0,0,0,0,0,0,0
 "AWSTrustedAdvisorServiceRolePolicy","v1",False,"2018-02-22T21:24:25+00:00",0,0,0,0,0,0,0
-"AWSOrganizationsFullAccess","v2",True,"2022-02-07T18:26:04+00:00",1,2,0,0,0,0,21
+"AWSOrganizationsFullAccess","v2",False,"2022-02-07T18:26:04+00:00",1,2,0,0,0,0,21
+"AWSOrganizationsFullAccess","v3",True,"2022-08-16T20:42:36+00:00",1,3,0,1,0,0,23
 "AWSOrganizationsFullAccess","v1",False,"2018-11-06T20:31:57+00:00",1,1,0,0,0,0,19
 "DynamoDBReplicationServiceRolePolicy","v6",True,"2020-09-09T18:43:04+00:00",0,2,0,1,0,0,6
 "DynamoDBReplicationServiceRolePolicy","v2",False,"2018-02-05T19:08:52+00:00",0,1,0,0,0,0,3
@@ -1834,6 +1836,7 @@
 "Health_OrganizationsServiceRolePolicy","v1",False,"2019-12-16T13:28:21+00:00",0,0,0,0,0,0,0
 "AmazonTranscribeFullAccess","v1",True,"2018-04-04T16:06:16+00:00",1,0,0,0,0,0,0
 "IAMAccessAdvisorReadOnly","v1",True,"2019-06-21T19:33:45+00:00",0,0,0,0,0,0,0
+"AWSApplicationDiscoveryAgentlessCollectorAccess","v1",True,"2022-08-16T21:00:59+00:00",0,0,0,0,0,0,0
 "AmazonSSMAutomationApproverAccess","v1",True,"2017-08-07T23:07:28+00:00",0,0,0,0,0,0,0
 "AWSCodePipeline_ReadOnlyAccess","v1",True,"2020-08-03T22:25:17+00:00",0,0,0,0,0,0,0
 "AWSElasticBeanstalkCustomPlatformforEC2Role","v1",True,"2017-02-21T22:50:30+00:00",0,1,0,1,0,1,21
@@ -2119,8 +2122,9 @@
 "BatchServiceRolePolicy","v3",False,"2021-03-25T22:50:04+00:00",0,4,0,2,0,0,11
 "BatchServiceRolePolicy","v1",False,"2021-03-10T06:55:36+00:00",0,4,0,2,0,0,11
 "AWSCodePipelineCustomActionAccess","v1",True,"2015-07-09T17:02:54+00:00",0,1,0,0,0,1,1
-"AmazonRekognitionReadOnlyAccess","v7",True,"2021-11-03T02:53:36+00:00",0,0,0,0,0,0,0
+"AmazonRekognitionReadOnlyAccess","v7",False,"2021-11-03T02:53:36+00:00",0,0,0,0,0,0,0
 "AmazonRekognitionReadOnlyAccess","v6",False,"2020-10-15T22:07:44+00:00",0,0,0,0,0,0,0
+"AmazonRekognitionReadOnlyAccess","v8",True,"2022-08-16T20:25:04+00:00",0,0,0,0,0,0,0
 "AmazonRekognitionReadOnlyAccess","v2",False,"2017-12-06T23:28:39+00:00",0,0,0,0,0,0,0
 "AmazonRekognitionReadOnlyAccess","v4",False,"2020-02-20T21:26:20+00:00",0,0,0,0,0,0,0
 "AmazonRekognitionReadOnlyAccess","v5",False,"2020-07-06T20:21:19+00:00",0,0,0,0,0,0,0

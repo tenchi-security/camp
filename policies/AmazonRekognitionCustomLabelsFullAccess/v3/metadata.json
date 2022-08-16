@@ -1,6 +1,6 @@
 {
     "VersionId": "v3",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2021-11-03T02:53:05+00:00",
     "PolicyName": "AmazonRekognitionCustomLabelsFullAccess"
 }

@@ -1,0 +1,24 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "rekognition"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "rekognition:CreateDataset",
+        "rekognition:CreateProject",
+        "rekognition:CreateProjectVersion",
+        "rekognition:DeleteDataset",
+        "rekognition:DeleteProject",
+        "rekognition:DeleteProjectVersion",
+        "rekognition:DistributeDatasetEntries",
+        "rekognition:StartProjectVersion",
+        "rekognition:StopProjectVersion",
+        "rekognition:TagResource",
+        "rekognition:UntagResource",
+        "rekognition:UpdateDatasetEntries"
+    ]
+}

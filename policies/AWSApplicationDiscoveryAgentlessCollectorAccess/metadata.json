@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSApplicationDiscoveryAgentlessCollectorAccess",
+    "PolicyId": "ANPAZKAPJZG4AMW5AV4HF",
+    "Arn": "arn:aws:iam::aws:policy/AWSApplicationDiscoveryAgentlessCollectorAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2022-08-16T21:00:59+00:00",
+    "UpdateDate": "2022-08-16T21:00:59+00:00"
+}
