@@ -2556,9 +2556,10 @@
 "AmazonTextractFullAccess","v1",True,"2018-11-28T19:07:42+00:00",1,0,0,0,0,0,0
 "AmazonRDSCustomPreviewServiceRolePolicy","v1",True,"2021-10-08T21:44:15+00:00",0,1,0,0,0,0,6
 "AmazonSageMakerMechanicalTurkAccess","v1",True,"2019-12-03T16:19:36+00:00",0,1,0,0,0,0,2
+"AWS_ConfigRole","v15",True,"2022-08-19T22:05:27+00:00",0,2,0,1,0,0,6
 "AWS_ConfigRole","v7",False,"2021-07-27T22:41:23+00:00",0,1,0,0,0,0,5
 "AWS_ConfigRole","v12",False,"2022-04-06T21:41:08+00:00",0,1,0,0,0,0,5
-"AWS_ConfigRole","v14",True,"2022-07-15T01:37:13+00:00",0,2,0,1,0,0,6
+"AWS_ConfigRole","v14",False,"2022-07-15T01:37:13+00:00",0,2,0,1,0,0,6
 "AWS_ConfigRole","v6",False,"2021-06-07T23:02:26+00:00",0,1,0,0,0,0,5
 "AWS_ConfigRole","v13",False,"2022-05-27T03:11:37+00:00",0,1,0,0,0,0,5
 "AWS_ConfigRole","v8",False,"2021-09-08T18:09:40+00:00",0,1,0,0,0,0,5
