@@ -1,0 +1,44 @@
+{
+    "ServiceWildcard": [
+        "identitystore",
+        "sso",
+        "sso-directory"
+    ],
+    "ServicesAffected": [
+        "ds",
+        "organizations",
+        "sso"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "sso:AttachManagedPolicyToPermissionSet",
+        "sso:CreatePermissionSet",
+        "sso:DeletePermissionSet",
+        "sso:DetachManagedPolicyFromPermissionSet",
+        "sso:UpdatePermissionSet"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "ds:AuthorizeApplication",
+        "ds:CreateAlias",
+        "ds:UnauthorizeApplication",
+        "organizations:DeregisterDelegatedAdministrator",
+        "organizations:RegisterDelegatedAdministrator",
+        "sso:AttachManagedPolicyToPermissionSet",
+        "sso:CreateAccountAssignment",
+        "sso:CreateInstanceAccessControlAttributeConfiguration",
+        "sso:CreatePermissionSet",
+        "sso:DeleteAccountAssignment",
+        "sso:DeleteInlinePolicyFromPermissionSet",
+        "sso:DeleteInstanceAccessControlAttributeConfiguration",
+        "sso:DeletePermissionSet",
+        "sso:DetachManagedPolicyFromPermissionSet",
+        "sso:ProvisionPermissionSet",
+        "sso:PutInlinePolicyToPermissionSet",
+        "sso:TagResource",
+        "sso:UntagResource",
+        "sso:UpdateInstanceAccessControlAttributeConfiguration",
+        "sso:UpdatePermissionSet"
+    ]
+}

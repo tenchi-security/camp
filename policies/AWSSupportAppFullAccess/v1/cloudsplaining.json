@@ -1,0 +1,17 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "iam",
+        "servicequotas"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:CreateServiceLinkedRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "iam:CreateServiceLinkedRole",
+        "servicequotas:RequestServiceQuotaIncrease"
+    ]
+}
