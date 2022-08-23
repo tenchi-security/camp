@@ -1,6 +1,6 @@
 {
     "VersionId": "v3",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2022-08-15T17:38:32+00:00",
     "PolicyName": "AmazonInspector2ServiceRolePolicy"
 }
