@@ -1355,6 +1355,7 @@
 "AWSDataExchangeFullAccess","v5",False,"2021-11-01T18:55:49+00:00",1,3,0,1,0,0,14
 "AWSDataExchangeFullAccess","v3",False,"2021-01-19T19:42:47+00:00",1,2,0,0,0,0,12
 "AWSDataExchangeFullAccess","v1",False,"2019-11-13T19:27:59+00:00",1,2,0,0,0,0,12
+"AmazonEKSLocalOutpostServiceRolePolicy","v1",True,"2022-08-23T21:53:02+00:00",0,3,0,1,0,0,8
 "ROSAManageSubscription","v1",True,"2022-04-11T20:58:08+00:00",0,0,0,0,0,0,0
 "AWSMigrationHubOrchestratorConsoleFullAccess","v1",True,"2022-04-20T02:26:28+00:00",1,1,0,1,0,0,1
 "CloudWatchSyntheticsFullAccess","v7",False,"2021-07-20T15:56:52+00:00",1,1,0,0,0,0,6
