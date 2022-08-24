@@ -1337,13 +1337,14 @@
 "AWSBackupOperatorAccess","v7",False,"2021-03-10T18:31:50+00:00",0,1,0,0,0,0,5
 "AWSBackupOperatorAccess","v6",False,"2020-11-09T16:43:44+00:00",0,1,0,0,0,0,5
 "AWSBackupOperatorAccess","v8",False,"2021-11-23T22:00:28+00:00",0,1,0,0,0,0,5
+"AWSBackupOperatorAccess","v11",True,"2022-08-24T22:03:30+00:00",0,1,0,0,0,0,5
 "AWSBackupOperatorAccess","v2",False,"2020-01-13T16:15:02+00:00",0,1,0,0,0,0,5
 "AWSBackupOperatorAccess","v4",False,"2020-06-24T16:24:21+00:00",0,1,0,0,0,0,5
 "AWSBackupOperatorAccess","v9",False,"2022-05-13T17:57:32+00:00",0,1,0,0,0,0,5
 "AWSBackupOperatorAccess","v5",False,"2020-09-14T22:35:03+00:00",0,1,0,0,0,0,5
 "AWSBackupOperatorAccess","v3",False,"2020-05-29T21:52:16+00:00",0,1,0,0,0,0,5
 "AWSBackupOperatorAccess","v1",False,"2019-11-18T22:23:17+00:00",0,1,0,0,0,0,4
-"AWSBackupOperatorAccess","v10",True,"2022-06-01T17:35:31+00:00",0,1,0,0,0,0,5
+"AWSBackupOperatorAccess","v10",False,"2022-06-01T17:35:31+00:00",0,1,0,0,0,0,5
 "DynamoDBCloudWatchContributorInsightsServiceRolePolicy","v1",True,"2019-11-15T21:13:58+00:00",0,0,0,0,0,0,0
 "AWSLicenseManagerMemberAccountRolePolicy","v2",True,"2019-11-15T22:09:32+00:00",0,3,0,1,0,0,5
 "AWSLicenseManagerMemberAccountRolePolicy","v1",False,"2018-11-26T19:04:32+00:00",0,3,0,1,0,0,5
@@ -1888,6 +1889,7 @@
 "AmazonZocaloReadOnlyAccess","v1",True,"2015-02-06T18:41:14+00:00",0,0,0,0,0,0,0
 "AwsGlueSessionUserRestrictedServiceRole","v1",True,"2022-04-14T21:30:07+00:00",1,0,0,0,0,0,0
 "AmazonSSMReadOnlyAccess","v1",True,"2015-05-29T17:44:19+00:00",0,1,0,0,3,0,3
+"AmazonEKSLocalOutpostClusterPolicy","v1",True,"2022-08-24T21:56:47+00:00",0,2,0,0,0,1,2
 "AmazonWorkMailReadOnlyAccess","v2",False,"2018-12-04T13:40:28+00:00",0,0,0,0,0,0,0
 "AmazonWorkMailReadOnlyAccess","v4",True,"2019-07-25T08:24:50+00:00",0,0,0,0,0,0,0
 "AmazonWorkMailReadOnlyAccess","v3",False,"2019-05-13T15:12:46+00:00",0,0,0,0,0,0,0
@@ -2388,6 +2390,7 @@
 "ReadOnlyAccess","v51",False,"2019-06-26T21:54:17+00:00",0,9,0,1,4,11,5
 "ReadOnlyAccess","v12",False,"2016-05-12T21:16:37+00:00",0,2,0,0,1,1,1
 "ReadOnlyAccess","v69",False,"2020-10-15T23:26:47+00:00",1,2,0,0,0,0,8
+"ReadOnlyAccess","v91",True,"2022-08-24T20:17:43+00:00",0,9,0,0,4,9,4
 "ReadOnlyAccess","v14",False,"2016-06-02T18:28:57+00:00",0,2,0,0,1,1,1
 "ReadOnlyAccess","v20",False,"2016-12-01T22:19:08+00:00",0,3,0,0,4,1,4
 "ReadOnlyAccess","v26",False,"2017-05-17T23:03:45+00:00",0,3,0,0,4,1,4
@@ -2449,7 +2452,7 @@
 "ReadOnlyAccess","v67",False,"2020-09-23T20:35:11+00:00",0,9,0,0,4,10,5
 "ReadOnlyAccess","v63",False,"2020-03-09T23:45:01+00:00",0,9,0,0,4,11,5
 "ReadOnlyAccess","v64",False,"2020-05-28T21:30:14+00:00",0,9,0,0,4,10,5
-"ReadOnlyAccess","v90",True,"2022-07-29T19:19:00+00:00",0,9,0,0,4,9,4
+"ReadOnlyAccess","v90",False,"2022-07-29T19:19:00+00:00",0,9,0,0,4,9,4
 "ReadOnlyAccess","v22",False,"2017-01-26T21:25:39+00:00",0,3,0,0,4,1,4
 "ReadOnlyAccess","v78",False,"2021-05-25T23:10:47+00:00",0,10,0,0,4,9,5
 "ReadOnlyAccess","v87",False,"2022-05-23T20:16:18+00:00",0,9,0,0,4,9,4
@@ -2681,9 +2684,10 @@
 "AWSAppMeshServiceRolePolicy","v2",True,"2019-09-10T22:44:43+00:00",0,0,0,0,0,0,0
 "AWSAppMeshServiceRolePolicy","v1",False,"2019-06-03T18:30:51+00:00",0,0,0,0,0,0,0
 "AWSBackupFullAccess","v7",False,"2021-03-10T18:32:22+00:00",2,5,0,3,0,0,26
+"AWSBackupFullAccess","v12",True,"2022-08-24T22:03:13+00:00",2,7,0,4,0,0,46
 "AWSBackupFullAccess","v6",False,"2020-11-09T16:49:24+00:00",2,5,0,3,0,0,26
 "AWSBackupFullAccess","v8",False,"2021-07-05T23:28:54+00:00",2,6,0,4,0,0,27
-"AWSBackupFullAccess","v11",True,"2022-06-01T17:36:04+00:00",2,7,0,4,0,0,47
+"AWSBackupFullAccess","v11",False,"2022-06-01T17:36:04+00:00",2,7,0,4,0,0,47
 "AWSBackupFullAccess","v2",False,"2020-01-13T18:40:45+00:00",2,2,0,3,0,0,22
 "AWSBackupFullAccess","v4",False,"2020-06-06T00:06:57+00:00",2,5,0,3,0,0,27
 "AWSBackupFullAccess","v9",False,"2021-11-23T22:00:22+00:00",2,6,0,4,0,0,34
