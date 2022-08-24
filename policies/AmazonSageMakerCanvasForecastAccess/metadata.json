@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonSageMakerCanvasForecastAccess",
+    "PolicyId": "ANPAZKAPJZG4NXKPWTG5T",
+    "Arn": "arn:aws:iam::aws:policy/service-role/AmazonSageMakerCanvasForecastAccess",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2022-08-24T20:04:20+00:00",
+    "UpdateDate": "2022-08-24T20:04:20+00:00"
+}

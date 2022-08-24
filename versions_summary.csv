@@ -2171,6 +2171,7 @@
 "AWSCertificateManagerPrivateCAUser","v3",False,"2019-03-14T17:17:02+00:00",0,0,0,0,0,0,0
 "AWSCertificateManagerPrivateCAUser","v1",False,"2018-10-23T16:53:33+00:00",0,0,0,0,0,0,0
 "AWSDenyAll","v1",True,"2019-05-01T22:36:14+00:00",0,0,0,0,0,0,0
+"AmazonSageMakerCanvasForecastAccess","v1",True,"2022-08-24T20:04:20+00:00",0,0,0,0,0,0,0
 "AutoScalingNotificationAccessRole","v1",True,"2015-02-06T18:41:22+00:00",0,2,0,0,0,0,2
 "AWSNetworkManagerCloudWANServiceRolePolicy","v1",True,"2022-07-12T12:17:49+00:00",0,1,0,0,0,0,2
 "AWSXrayFullAccess","v1",True,"2016-12-01T18:30:55+00:00",1,1,0,1,0,0,8
