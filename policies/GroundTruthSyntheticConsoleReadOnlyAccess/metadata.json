@@ -1,0 +1,12 @@
+{
+    "PolicyName": "GroundTruthSyntheticConsoleReadOnlyAccess",
+    "PolicyId": "ANPAZKAPJZG4CS74COTOM",
+    "Arn": "arn:aws:iam::aws:policy/GroundTruthSyntheticConsoleReadOnlyAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2022-08-25T15:58:49+00:00",
+    "UpdateDate": "2022-08-25T15:58:49+00:00"
+}

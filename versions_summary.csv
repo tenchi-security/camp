@@ -442,6 +442,7 @@
 "AmazonGuardDutyServiceRolePolicy","v1",False,"2017-11-28T20:12:59+00:00",0,0,0,0,0,0,0
 "AWSElasticBeanstalkMaintenance","v2",True,"2019-06-04T17:48:27+00:00",0,0,0,0,0,0,0
 "AWSElasticBeanstalkMaintenance","v1",False,"2019-01-11T23:22:52+00:00",0,0,0,0,0,0,0
+"GroundTruthSyntheticConsoleFullAccess","v1",True,"2022-08-25T15:58:49+00:00",1,0,0,0,0,0,0
 "AmazonElasticFileSystemReadOnlyAccess","v7",True,"2022-01-10T18:53:37+00:00",0,0,0,0,0,0,0
 "AmazonElasticFileSystemReadOnlyAccess","v6",False,"2021-05-10T14:20:55+00:00",0,0,0,0,0,0,0
 "AmazonElasticFileSystemReadOnlyAccess","v2",False,"2017-07-26T16:17:01+00:00",0,0,0,0,0,0,0
@@ -2821,6 +2822,7 @@
 "AmazonSSMFullAccess","v4",True,"2019-11-20T20:08:56+00:00",3,3,0,3,3,0,68
 "AmazonSSMFullAccess","v3",False,"2018-07-23T22:53:18+00:00",3,3,0,3,3,0,68
 "AmazonSSMFullAccess","v1",False,"2015-05-29T17:39:47+00:00",2,3,0,3,3,0,68
+"GroundTruthSyntheticConsoleReadOnlyAccess","v1",True,"2022-08-25T15:58:49+00:00",0,0,0,0,0,0,0
 "CloudWatchAgentServerPolicy","v2",True,"2019-10-17T23:08:51+00:00",0,1,0,0,0,0,3
 "CloudWatchAgentServerPolicy","v1",False,"2018-03-07T01:06:44+00:00",0,1,0,0,0,0,3
 "IAMUserSSHKeys","v1",True,"2015-07-09T17:08:54+00:00",0,0,0,0,0,0,0

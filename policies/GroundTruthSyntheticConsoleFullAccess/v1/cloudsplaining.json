@@ -1,0 +1,11 @@
+{
+    "ServiceWildcard": [
+        "sagemaker-groundtruth-synthetic"
+    ],
+    "ServicesAffected": [],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": []
+}
