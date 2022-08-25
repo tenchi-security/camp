@@ -623,12 +623,14 @@
 "AmazonInspector2ReadOnlyAccess","v1",True,"2022-01-21T14:45:14+00:00",0,0,0,0,0,0,0
 "AmazonWorkSpacesApplicationManagerAdminAccess","v1",True,"2015-04-09T14:03:18+00:00",0,0,0,0,0,0,0
 "AWSWAFConsoleReadOnlyAccess","v2",False,"2020-06-22T22:38:54+00:00",0,0,0,0,0,0,0
-"AWSWAFConsoleReadOnlyAccess","v3",True,"2020-10-01T20:13:54+00:00",0,0,0,0,0,0,0
+"AWSWAFConsoleReadOnlyAccess","v4",True,"2022-08-25T20:13:55+00:00",0,0,0,0,0,0,0
+"AWSWAFConsoleReadOnlyAccess","v3",False,"2020-10-01T20:13:54+00:00",0,0,0,0,0,0,0
 "AWSWAFConsoleReadOnlyAccess","v1",False,"2020-04-06T18:43:24+00:00",0,0,0,0,0,0,0
 "AmazonElasticFileSystemClientReadWriteAccess","v1",True,"2020-01-13T16:21:55+00:00",0,1,0,0,0,0,1
 "AWSElasticDisasterRecoveryStagingAccountPolicy","v1",True,"2022-05-26T09:49:18+00:00",0,0,0,0,0,0,0
 "AWSWAFReadOnlyAccess","v2",False,"2016-12-07T21:30:54+00:00",0,0,0,0,0,0,0
-"AWSWAFReadOnlyAccess","v4",True,"2020-06-22T22:38:54+00:00",0,0,0,0,0,0,0
+"AWSWAFReadOnlyAccess","v4",False,"2020-06-22T22:38:54+00:00",0,0,0,0,0,0,0
+"AWSWAFReadOnlyAccess","v5",True,"2022-08-25T20:12:57+00:00",0,0,0,0,0,0,0
 "AWSWAFReadOnlyAccess","v3",False,"2020-01-07T19:27:38+00:00",0,0,0,0,0,0,0
 "AWSWAFReadOnlyAccess","v1",False,"2015-10-06T20:43:45+00:00",0,0,0,0,0,0,0
 "AWSPanoramaServiceLinkedRolePolicy","v1",True,"2021-10-20T12:12:50+00:00",0,0,0,0,0,0,0
@@ -2149,8 +2151,9 @@
 "AWSIoTDataAccess","v2",False,"2017-11-16T18:24:11+00:00",0,1,0,0,0,0,6
 "AWSIoTDataAccess","v3",True,"2021-06-23T21:34:47+00:00",0,1,0,0,0,0,6
 "AWSIoTDataAccess","v1",False,"2015-10-27T21:51:18+00:00",0,1,0,0,0,0,5
-"AWSWAFFullAccess","v7",True,"2022-01-11T19:33:38+00:00",3,4,0,9,0,0,112
+"AWSWAFFullAccess","v7",False,"2022-01-11T19:33:38+00:00",3,4,0,9,0,0,112
 "AWSWAFFullAccess","v6",False,"2021-11-15T19:33:27+00:00",3,4,0,9,0,0,112
+"AWSWAFFullAccess","v8",True,"2022-08-25T20:11:30+00:00",3,4,0,7,0,0,114
 "AWSWAFFullAccess","v2",False,"2016-12-07T21:33:25+00:00",2,2,0,4,0,0,88
 "AWSWAFFullAccess","v4",False,"2020-04-08T00:21:06+00:00",3,4,0,9,0,0,112
 "AWSWAFFullAccess","v5",False,"2020-10-01T20:13:54+00:00",3,4,0,9,0,0,112
@@ -2834,7 +2837,8 @@
 "AmazonAPIGatewayInvokeFullAccess","v1",False,"2015-07-09T17:36:12+00:00",0,0,0,0,0,0,0
 "AWSOpsWorks_FullAccess","v1",True,"2021-01-22T16:29:08+00:00",1,2,0,3,0,0,46
 "AWSWAFConsoleFullAccess","v2",False,"2020-10-01T20:13:57+00:00",3,5,0,9,0,0,113
-"AWSWAFConsoleFullAccess","v4",True,"2022-01-11T19:34:04+00:00",3,5,0,9,0,0,113
+"AWSWAFConsoleFullAccess","v4",False,"2022-01-11T19:34:04+00:00",3,5,0,9,0,0,113
+"AWSWAFConsoleFullAccess","v5",True,"2022-08-25T20:13:28+00:00",3,5,0,7,0,0,115
 "AWSWAFConsoleFullAccess","v3",False,"2021-11-15T19:33:52+00:00",3,5,0,9,0,0,113
 "AWSWAFConsoleFullAccess","v1",False,"2020-04-06T18:38:38+00:00",3,5,0,9,0,0,113
 "AWSMarketplaceImageBuildFullAccess","v2",False,"2018-08-08T21:11:59+00:00",0,2,0,0,0,0,10
