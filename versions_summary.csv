@@ -336,7 +336,8 @@
 "AWSApplicationMigrationAgentPolicy","v1",True,"2021-04-07T07:00:21+00:00",0,0,0,0,0,0,0
 "AmazonRoute53DomainsFullAccess","v1",True,"2015-02-06T18:40:56+00:00",1,1,0,0,0,0,1
 "AWSDeepRacerDefaultMultiUserAccess","v1",True,"2021-10-28T01:27:13+00:00",0,1,0,0,0,0,16
-"AWSAppSyncSchemaAuthor","v1",True,"2018-03-20T21:21:06+00:00",0,1,0,0,0,0,1
+"AWSAppSyncSchemaAuthor","v2",True,"2022-08-25T17:18:23+00:00",0,1,0,0,0,0,3
+"AWSAppSyncSchemaAuthor","v1",False,"2018-03-20T21:21:06+00:00",0,1,0,0,0,0,1
 "AmazonAugmentedAIFullAccess","v1",True,"2019-12-03T16:21:56+00:00",0,1,0,0,0,0,6
 "IAMFullAccess","v2",True,"2019-06-21T19:40:00+00:00",1,1,10,79,0,5,90
 "IAMFullAccess","v1",False,"2015-02-06T18:40:38+00:00",1,1,10,79,0,5,90
