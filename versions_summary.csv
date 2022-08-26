@@ -1222,7 +1222,8 @@
 "AmazonWorkLinkReadOnly","v2",False,"2019-08-01T21:35:07+00:00",0,0,0,0,0,0,0
 "AmazonWorkLinkReadOnly","v3",True,"2019-09-23T18:37:21+00:00",0,0,0,0,0,0,0
 "AmazonWorkLinkReadOnly","v1",False,"2019-01-23T19:07:10+00:00",0,0,0,0,0,0,0
-"AmazonSageMakerServiceCatalogProductsGlueServiceRolePolicy","v1",True,"2022-02-22T09:51:13+00:00",0,0,0,0,0,0,0
+"AmazonSageMakerServiceCatalogProductsGlueServiceRolePolicy","v2",True,"2022-08-26T19:13:02+00:00",0,0,0,0,0,0,0
+"AmazonSageMakerServiceCatalogProductsGlueServiceRolePolicy","v1",False,"2022-02-22T09:51:13+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v7",True,"2022-08-02T19:12:55+00:00",0,4,0,0,0,0,20
 "AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v6",False,"2022-07-14T19:36:42+00:00",0,4,0,0,0,0,20
 "AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v2",False,"2021-07-02T06:13:39+00:00",0,3,0,0,0,0,14
