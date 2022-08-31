@@ -55,7 +55,8 @@
 "AmazonDetectiveServiceLinkedRolePolicy","v1",True,"2021-11-18T19:47:32+00:00",0,0,0,0,0,0,0
 "VMImportExportRoleForAWSConnector","v1",True,"2015-09-03T20:48:59+00:00",0,1,0,1,0,0,2
 "Route53RecoveryReadinessServiceRolePolicy","v2",False,"2021-10-06T18:52:33+00:00",0,0,0,0,0,0,0
-"Route53RecoveryReadinessServiceRolePolicy","v3",True,"2021-10-29T07:09:46+00:00",0,0,0,0,0,0,0
+"Route53RecoveryReadinessServiceRolePolicy","v4",True,"2022-08-31T17:16:56+00:00",0,0,0,0,0,0,0
+"Route53RecoveryReadinessServiceRolePolicy","v3",False,"2021-10-29T07:09:46+00:00",0,0,0,0,0,0,0
 "Route53RecoveryReadinessServiceRolePolicy","v1",False,"2021-07-15T16:06:21+00:00",0,0,0,0,0,0,0
 "AWSSystemsManagerAccountDiscoveryServicePolicy","v2",True,"2020-05-27T18:04:51+00:00",0,0,0,0,0,0,0
 "AWSSystemsManagerAccountDiscoveryServicePolicy","v1",False,"2019-10-24T17:21:05+00:00",0,0,0,0,0,0,0
