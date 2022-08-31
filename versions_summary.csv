@@ -332,7 +332,8 @@
 "AmazonGuardDutyMalwareProtectionServiceRolePolicy","v1",True,"2022-07-19T19:06:53+00:00",0,0,0,0,0,0,0
 "AWSIoTDeviceDefenderReplaceDefaultPolicyMitigationAction","v1",True,"2019-08-07T17:04:57+00:00",0,1,0,0,0,0,1
 "AmazonRedshiftQueryEditorV2ReadSharing","v2",False,"2022-02-23T17:03:58+00:00",0,1,0,0,0,0,16
-"AmazonRedshiftQueryEditorV2ReadSharing","v3",True,"2022-06-15T10:16:40+00:00",0,1,0,0,0,0,16
+"AmazonRedshiftQueryEditorV2ReadSharing","v4",True,"2022-08-31T04:02:10+00:00",0,1,0,0,0,0,16
+"AmazonRedshiftQueryEditorV2ReadSharing","v3",False,"2022-06-15T10:16:40+00:00",0,1,0,0,0,0,16
 "AmazonRedshiftQueryEditorV2ReadSharing","v1",False,"2021-09-24T14:22:21+00:00",0,0,0,0,0,0,0
 "AWSApplicationMigrationAgentPolicy","v1",True,"2021-04-07T07:00:21+00:00",0,0,0,0,0,0,0
 "AmazonRoute53DomainsFullAccess","v1",True,"2015-02-06T18:40:56+00:00",1,1,0,0,0,0,1
@@ -1789,7 +1790,8 @@
 "AWSForWordPressPluginPolicy","v2",True,"2020-01-20T23:20:47+00:00",0,3,0,0,0,0,10
 "AWSForWordPressPluginPolicy","v1",False,"2019-10-30T00:27:46+00:00",0,3,0,0,0,0,9
 "AmazonRedshiftQueryEditorV2ReadWriteSharing","v2",False,"2022-02-23T17:02:35+00:00",0,1,0,0,0,0,16
-"AmazonRedshiftQueryEditorV2ReadWriteSharing","v3",True,"2022-06-15T10:59:24+00:00",0,1,0,0,0,0,16
+"AmazonRedshiftQueryEditorV2ReadWriteSharing","v4",True,"2022-08-31T04:01:05+00:00",0,1,0,0,0,0,16
+"AmazonRedshiftQueryEditorV2ReadWriteSharing","v3",False,"2022-06-15T10:59:24+00:00",0,1,0,0,0,0,16
 "AmazonRedshiftQueryEditorV2ReadWriteSharing","v1",False,"2021-09-24T14:25:37+00:00",0,0,0,0,0,0,0
 "AmazonRoute53ResolverFullAccess","v2",True,"2020-07-17T19:03:27+00:00",1,2,0,2,0,0,23
 "AmazonRoute53ResolverFullAccess","v1",False,"2019-05-30T18:10:50+00:00",1,2,0,2,0,0,23
@@ -2849,7 +2851,8 @@
 "AWSMarketplaceImageBuildFullAccess","v1",False,"2018-07-31T23:29:49+00:00",0,2,0,0,0,0,8
 "AWSVendorInsightsAssessorReadOnly","v1",True,"2022-07-26T15:05:56+00:00",0,0,0,0,0,0,0
 "AmazonRedshiftQueryEditorV2NoSharing","v2",False,"2022-02-23T17:04:20+00:00",0,1,0,0,0,0,15
-"AmazonRedshiftQueryEditorV2NoSharing","v3",True,"2022-06-15T09:48:24+00:00",0,1,0,0,0,0,15
+"AmazonRedshiftQueryEditorV2NoSharing","v4",True,"2022-08-31T03:59:54+00:00",0,1,0,0,0,0,15
+"AmazonRedshiftQueryEditorV2NoSharing","v3",False,"2022-06-15T09:48:24+00:00",0,1,0,0,0,0,15
 "AmazonRedshiftQueryEditorV2NoSharing","v1",False,"2021-09-24T14:18:42+00:00",0,0,0,0,0,0,0
 "AmazonVPCFullAccess","v7",False,"2018-03-15T18:30:25+00:00",0,1,0,3,0,0,97
 "AmazonVPCFullAccess","v6",False,"2017-12-20T16:32:09+00:00",0,1,0,2,0,0,88
