@@ -1242,7 +1242,8 @@
 "AWSMarketplaceManageSubscriptions","v2",True,"2019-10-28T21:49:43+00:00",0,0,0,0,0,0,0
 "AWSMarketplaceManageSubscriptions","v1",False,"2015-02-06T18:40:32+00:00",0,0,0,0,0,0,0
 "AWSTrustedAdvisorPriorityFullAccess","v1",True,"2022-08-16T16:08:24+00:00",0,0,0,0,0,0,0
-"AWSBackupServiceRolePolicyForS3Backup","v2",True,"2022-02-26T00:01:09+00:00",0,1,0,0,0,0,1
+"AWSBackupServiceRolePolicyForS3Backup","v2",False,"2022-02-26T00:01:09+00:00",0,1,0,0,0,0,1
+"AWSBackupServiceRolePolicyForS3Backup","v3",True,"2022-09-01T16:52:33+00:00",0,1,0,0,0,0,1
 "AWSBackupServiceRolePolicyForS3Backup","v1",False,"2022-02-18T17:40:24+00:00",0,1,0,0,0,0,1
 "AWSElasticBeanstalkManagedUpdatesServiceRolePolicy","v6",True,"2022-08-23T18:07:08+00:00",1,3,0,1,0,0,34
 "AWSElasticBeanstalkManagedUpdatesServiceRolePolicy","v2",False,"2020-05-01T21:54:12+00:00",1,3,0,1,0,0,32
@@ -1901,7 +1902,8 @@
 "AmazonZocaloReadOnlyAccess","v1",True,"2015-02-06T18:41:14+00:00",0,0,0,0,0,0,0
 "AwsGlueSessionUserRestrictedServiceRole","v1",True,"2022-04-14T21:30:07+00:00",1,0,0,0,0,0,0
 "AmazonSSMReadOnlyAccess","v1",True,"2015-05-29T17:44:19+00:00",0,1,0,0,3,0,3
-"AmazonEKSLocalOutpostClusterPolicy","v1",True,"2022-08-24T21:56:47+00:00",0,2,0,0,0,1,2
+"AmazonEKSLocalOutpostClusterPolicy","v2",True,"2022-09-01T16:30:43+00:00",0,2,0,0,0,1,2
+"AmazonEKSLocalOutpostClusterPolicy","v1",False,"2022-08-24T21:56:47+00:00",0,2,0,0,0,1,2
 "AmazonWorkMailReadOnlyAccess","v2",False,"2018-12-04T13:40:28+00:00",0,0,0,0,0,0,0
 "AmazonWorkMailReadOnlyAccess","v4",True,"2019-07-25T08:24:50+00:00",0,0,0,0,0,0,0
 "AmazonWorkMailReadOnlyAccess","v3",False,"2019-05-13T15:12:46+00:00",0,0,0,0,0,0,0
