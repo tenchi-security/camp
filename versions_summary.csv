@@ -1033,6 +1033,7 @@
 "AmazonCodeGuruReviewerFullAccess","v2",False,"2020-05-07T00:43:09+00:00",1,4,0,0,0,0,11
 "AmazonCodeGuruReviewerFullAccess","v3",True,"2020-08-29T04:16:08+00:00",2,4,0,0,0,0,11
 "AmazonCodeGuruReviewerFullAccess","v1",False,"2019-12-03T08:33:47+00:00",1,3,0,0,0,0,9
+"AmazonSageMakerCanvasFullAccess","v1",True,"2022-09-09T00:44:25+00:00",0,4,0,0,0,1,3
 "AmazonSageMakerServiceCatalogProductsEventsServiceRolePolicy","v1",True,"2022-02-22T09:53:59+00:00",0,0,0,0,0,0,0
 "WAFRegionalLoggingServiceRolePolicy","v1",True,"2018-08-24T18:40:55+00:00",0,0,0,0,0,0,0
 "AWSServiceRolePolicyForBackupReports","v1",True,"2021-08-19T21:16:45+00:00",0,0,0,0,0,0,0
