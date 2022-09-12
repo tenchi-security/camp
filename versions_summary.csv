@@ -590,7 +590,8 @@
 "AmazonRDSReadOnlyAccess","v1",False,"2015-02-06T18:40:53+00:00",0,0,0,0,0,0,0
 "ElementalActivationsDownloadSoftwareAccess","v1",True,"2020-09-08T17:26:09+00:00",0,0,0,0,0,0,0
 "AmazonElasticsearchServiceRolePolicy","v2",False,"2018-02-08T21:38:27+00:00",0,1,0,0,0,0,3
-"AmazonElasticsearchServiceRolePolicy","v4",True,"2022-08-02T15:31:35+00:00",0,2,0,0,0,0,5
+"AmazonElasticsearchServiceRolePolicy","v4",False,"2022-08-02T15:31:35+00:00",0,2,0,0,0,0,5
+"AmazonElasticsearchServiceRolePolicy","v5",True,"2022-09-12T15:01:51+00:00",0,2,0,0,0,0,5
 "AmazonElasticsearchServiceRolePolicy","v3",False,"2020-08-31T10:30:23+00:00",0,2,0,0,0,0,5
 "AmazonElasticsearchServiceRolePolicy","v1",False,"2017-07-07T00:15:31+00:00",0,1,0,0,0,0,3
 "GameLiftGameServerGroupPolicy","v2",False,"2020-04-16T17:13:11+00:00",0,2,0,0,0,0,8
@@ -1040,7 +1041,8 @@
 "AWSTrustedAdvisorReportingServiceRolePolicy","v2",True,"2020-09-11T21:36:48+00:00",0,0,0,0,0,0,0
 "AWSTrustedAdvisorReportingServiceRolePolicy","v1",False,"2019-11-19T17:41:13+00:00",0,0,0,0,0,0,0
 "AmazonOpenSearchServiceRolePolicy","v2",False,"2021-09-01T05:43:03+00:00",0,0,0,0,0,0,0
-"AmazonOpenSearchServiceRolePolicy","v4",True,"2022-07-28T13:10:24+00:00",0,0,0,0,0,0,0
+"AmazonOpenSearchServiceRolePolicy","v4",False,"2022-07-28T13:10:24+00:00",0,0,0,0,0,0,0
+"AmazonOpenSearchServiceRolePolicy","v5",True,"2022-09-12T15:03:06+00:00",0,0,0,0,0,0,0
 "AmazonOpenSearchServiceRolePolicy","v3",False,"2021-09-09T10:43:21+00:00",0,0,0,0,0,0,0
 "AmazonOpenSearchServiceRolePolicy","v1",False,"2021-08-26T09:27:09+00:00",0,0,0,0,0,0,0
 "AWSOpsWorksCMServiceRole","v7",False,"2018-09-25T08:05:37+00:00",0,2,0,0,0,0,16
