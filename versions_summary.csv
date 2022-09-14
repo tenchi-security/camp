@@ -130,6 +130,7 @@
 "AWSConfigServiceRolePolicy","v8",False,"2019-02-05T23:47:52+00:00",0,1,0,0,0,0,5
 "AWSConfigServiceRolePolicy","v11",False,"2019-05-13T21:18:44+00:00",0,1,0,0,0,0,5
 "AWSConfigServiceRolePolicy","v19",False,"2020-05-15T18:39:10+00:00",0,1,0,0,0,0,5
+"AWSConfigServiceRolePolicy","v36",True,"2022-09-14T19:19:27+00:00",0,2,0,2,0,0,7
 "AWSConfigServiceRolePolicy","v33",False,"2022-07-15T01:41:02+00:00",0,2,0,1,0,0,6
 "AWSConfigServiceRolePolicy","v16",False,"2019-09-17T17:40:10+00:00",0,1,0,0,0,0,5
 "AWSConfigServiceRolePolicy","v2",False,"2018-07-31T19:20:09+00:00",0,1,0,0,0,0,5
@@ -137,7 +138,7 @@
 "AWSConfigServiceRolePolicy","v18",False,"2019-11-18T22:33:22+00:00",0,1,0,0,0,0,5
 "AWSConfigServiceRolePolicy","v4",False,"2018-08-31T22:23:52+00:00",0,1,0,0,0,0,5
 "AWSConfigServiceRolePolicy","v24",False,"2021-05-11T00:14:41+00:00",0,1,0,0,0,0,5
-"AWSConfigServiceRolePolicy","v35",True,"2022-09-07T20:48:52+00:00",0,2,0,2,0,0,7
+"AWSConfigServiceRolePolicy","v35",False,"2022-09-07T20:48:52+00:00",0,2,0,2,0,0,7
 "AWSConfigServiceRolePolicy","v9",False,"2019-03-06T18:47:18+00:00",0,1,0,0,0,0,5
 "AWSConfigServiceRolePolicy","v27",False,"2021-09-08T18:12:00+00:00",0,1,0,0,0,0,5
 "AWSConfigServiceRolePolicy","v22",False,"2021-01-29T19:19:53+00:00",0,1,0,0,0,0,5
@@ -1723,8 +1724,9 @@
 "AWSCloudFormationFullAccess","v1",True,"2019-07-26T21:50:35+00:00",1,1,0,1,0,0,19
 "AmazonSSMServiceRolePolicy","v7",False,"2020-06-04T18:02:45+00:00",0,2,0,1,1,0,4
 "AmazonSSMServiceRolePolicy","v12",False,"2021-03-23T18:12:57+00:00",0,2,0,1,1,0,4
+"AmazonSSMServiceRolePolicy","v14",True,"2022-09-14T19:46:49+00:00",0,3,0,1,1,0,6
 "AmazonSSMServiceRolePolicy","v6",False,"2020-04-20T21:01:22+00:00",0,2,0,1,1,0,4
-"AmazonSSMServiceRolePolicy","v13",True,"2021-04-26T20:43:46+00:00",0,3,0,1,1,0,6
+"AmazonSSMServiceRolePolicy","v13",False,"2021-04-26T20:43:46+00:00",0,3,0,1,1,0,6
 "AmazonSSMServiceRolePolicy","v8",False,"2020-07-31T19:21:40+00:00",0,2,0,1,1,0,4
 "AmazonSSMServiceRolePolicy","v11",False,"2021-01-05T23:57:10+00:00",0,2,0,1,1,0,4
 "AmazonSSMServiceRolePolicy","v2",False,"2017-11-15T21:25:26+00:00",0,1,0,0,0,0,1
@@ -2602,10 +2604,11 @@
 "AWS_ConfigRole","v13",False,"2022-05-27T03:11:37+00:00",0,1,0,0,0,0,5
 "AWS_ConfigRole","v8",False,"2021-09-08T18:09:40+00:00",0,1,0,0,0,0,5
 "AWS_ConfigRole","v11",False,"2022-03-11T21:35:16+00:00",0,1,0,0,0,0,5
-"AWS_ConfigRole","v16",True,"2022-09-07T20:46:38+00:00",0,2,0,2,0,0,7
+"AWS_ConfigRole","v16",False,"2022-09-07T20:46:38+00:00",0,2,0,2,0,0,7
 "AWS_ConfigRole","v2",False,"2020-12-18T22:10:53+00:00",0,1,0,0,0,0,5
 "AWS_ConfigRole","v4",False,"2021-03-31T21:44:14+00:00",0,1,0,0,0,0,5
 "AWS_ConfigRole","v9",False,"2022-01-21T18:35:41+00:00",0,1,0,0,0,0,5
+"AWS_ConfigRole","v17",True,"2022-09-14T19:21:07+00:00",0,2,0,2,0,0,7
 "AWS_ConfigRole","v5",False,"2021-05-11T00:14:06+00:00",0,1,0,0,0,0,5
 "AWS_ConfigRole","v3",False,"2021-01-29T19:24:13+00:00",0,1,0,0,0,0,5
 "AWS_ConfigRole","v1",False,"2020-09-15T20:30:30+00:00",0,1,0,0,0,0,5
