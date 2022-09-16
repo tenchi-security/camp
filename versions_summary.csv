@@ -283,7 +283,8 @@
 "AWSDataSyncFullAccess","v3",True,"2020-06-30T17:58:58+00:00",1,4,0,2,0,0,15
 "AWSDataSyncFullAccess","v1",False,"2019-01-18T19:40:36+00:00",1,4,0,2,0,0,15
 "AmazonRoute53RecoveryControlConfigFullAccess","v1",True,"2021-08-18T17:48:35+00:00",1,0,0,0,0,0,0
-"AWSIoTSiteWiseReadOnlyAccess","v1",True,"2018-12-04T20:55:11+00:00",0,0,0,0,0,0,0
+"AWSIoTSiteWiseReadOnlyAccess","v2",True,"2022-09-16T19:05:20+00:00",0,0,0,0,0,0,0
+"AWSIoTSiteWiseReadOnlyAccess","v1",False,"2018-12-04T20:55:11+00:00",0,0,0,0,0,0,0
 "ElasticLoadBalancingFullAccess","v6",True,"2021-08-26T18:32:13+00:00",1,2,0,1,0,0,24
 "ElasticLoadBalancingFullAccess","v2",False,"2018-12-03T18:07:30+00:00",1,2,0,1,0,0,24
 "ElasticLoadBalancingFullAccess","v4",False,"2019-03-25T21:33:12+00:00",1,2,0,1,0,0,24
