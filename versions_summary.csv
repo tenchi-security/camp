@@ -1031,6 +1031,7 @@
 "AWSCloud9ServiceRolePolicy","v5",False,"2020-05-07T09:15:24+00:00",0,2,0,0,0,0,8
 "AWSCloud9ServiceRolePolicy","v3",False,"2020-01-08T12:35:15+00:00",0,2,0,0,0,0,8
 "AWSCloud9ServiceRolePolicy","v1",False,"2017-11-30T13:44:08+00:00",0,2,0,0,0,0,8
+"AWSDeviceFarmServiceRolePolicy","v1",True,"2022-09-20T21:02:28+00:00",0,0,0,0,0,0,0
 "AmazonEKSFargatePodExecutionRolePolicy","v1",True,"2019-11-22T04:34:29+00:00",0,1,0,0,0,1,0
 "AWSBugBustPlayerAccess","v1",True,"2021-06-24T07:15:00+00:00",0,0,0,0,0,0,0
 "ApplicationDiscoveryServiceContinuousExportServiceRolePolicy","v2",True,"2018-08-13T22:31:21+00:00",0,3,0,0,0,0,6
