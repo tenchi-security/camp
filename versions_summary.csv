@@ -341,7 +341,8 @@
 "AmazonRedshiftQueryEditorV2ReadSharing","v4",True,"2022-08-31T04:02:10+00:00",0,1,0,0,0,0,16
 "AmazonRedshiftQueryEditorV2ReadSharing","v3",False,"2022-06-15T10:16:40+00:00",0,1,0,0,0,0,16
 "AmazonRedshiftQueryEditorV2ReadSharing","v1",False,"2021-09-24T14:22:21+00:00",0,0,0,0,0,0,0
-"AWSApplicationMigrationAgentPolicy","v1",True,"2021-04-07T07:00:21+00:00",0,0,0,0,0,0,0
+"AWSApplicationMigrationAgentPolicy","v2",True,"2022-09-20T11:13:40+00:00",0,1,0,0,0,0,6
+"AWSApplicationMigrationAgentPolicy","v1",False,"2021-04-07T07:00:21+00:00",0,0,0,0,0,0,0
 "AmazonRoute53DomainsFullAccess","v1",True,"2015-02-06T18:40:56+00:00",1,1,0,0,0,0,1
 "AWSDeepRacerDefaultMultiUserAccess","v1",True,"2021-10-28T01:27:13+00:00",0,1,0,0,0,0,16
 "AWSAppSyncSchemaAuthor","v2",True,"2022-08-25T17:18:23+00:00",0,1,0,0,0,0,3
@@ -1218,7 +1219,8 @@
 "AmazonRDSDataFullAccess","v2",False,"2019-05-30T17:11:26+00:00",0,1,0,0,0,0,1
 "AmazonRDSDataFullAccess","v3",True,"2019-11-20T21:58:46+00:00",0,1,0,0,0,0,1
 "AmazonRDSDataFullAccess","v1",False,"2018-11-20T21:29:36+00:00",0,1,0,0,0,0,1
-"AWSApplicationMigrationAgentInstallationPolicy","v1",True,"2022-06-19T07:51:04+00:00",0,0,0,0,0,0,0
+"AWSApplicationMigrationAgentInstallationPolicy","v2",True,"2022-09-20T11:21:24+00:00",0,0,0,0,0,0,0
+"AWSApplicationMigrationAgentInstallationPolicy","v1",False,"2022-06-19T07:51:04+00:00",0,0,0,0,0,0,0
 "AWSElasticBeanstalkRoleECS","v1",True,"2020-06-05T21:47:27+00:00",0,1,0,0,0,0,1
 "AdministratorAccess-AWSElasticBeanstalk","v2",True,"2021-03-09T22:36:27+00:00",3,3,0,0,0,0,45
 "AdministratorAccess-AWSElasticBeanstalk","v1",False,"2021-01-22T19:36:54+00:00",3,3,0,0,0,0,45

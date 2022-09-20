@@ -1,0 +1,18 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "mgn"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "mgn:SendAgentLogsForMgn",
+        "mgn:SendAgentMetricsForMgn",
+        "mgn:UpdateAgentBacklogForMgn",
+        "mgn:UpdateAgentConversionInfoForMgn",
+        "mgn:UpdateAgentReplicationInfoForMgn",
+        "mgn:UpdateAgentSourcePropertiesForMgn"
+    ]
+}
