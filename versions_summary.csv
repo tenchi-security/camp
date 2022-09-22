@@ -734,7 +734,8 @@
 "AmazonCodeGuruReviewerReadOnlyAccess","v1",False,"2019-12-03T08:48:24+00:00",0,0,0,0,0,0,0
 "AWSApplicationAutoscalingLambdaConcurrencyPolicy","v1",True,"2019-10-21T20:04:17+00:00",0,2,0,0,0,0,4
 "AmazonFSxConsoleReadOnlyAccess","v2",False,"2019-09-10T13:17:59+00:00",0,0,0,0,0,0,0
-"AmazonFSxConsoleReadOnlyAccess","v3",True,"2021-06-08T12:21:09+00:00",0,0,0,0,0,0,0
+"AmazonFSxConsoleReadOnlyAccess","v4",True,"2022-09-22T14:07:26+00:00",0,0,0,0,0,0,0
+"AmazonFSxConsoleReadOnlyAccess","v3",False,"2021-06-08T12:21:09+00:00",0,0,0,0,0,0,0
 "AmazonFSxConsoleReadOnlyAccess","v1",False,"2018-11-28T16:35:24+00:00",0,0,0,0,0,0,0
 "AWSLakeFormationDataAdmin","v2",True,"2019-12-16T22:41:40+00:00",1,1,0,5,0,0,6
 "AWSLakeFormationDataAdmin","v1",False,"2019-08-08T17:33:44+00:00",1,1,0,5,0,0,6
@@ -2745,9 +2746,10 @@
 "AmazonRedshiftServiceLinkedRolePolicy","v5",False,"2021-11-22T21:08:22+00:00",0,1,0,0,0,0,8
 "AmazonRedshiftServiceLinkedRolePolicy","v3",False,"2020-09-15T20:44:31+00:00",0,1,0,0,0,0,8
 "AmazonRedshiftServiceLinkedRolePolicy","v1",False,"2017-09-18T19:19:45+00:00",0,1,0,0,0,0,5
+"AmazonFSxConsoleFullAccess","v6",True,"2022-09-22T14:08:01+00:00",1,2,0,3,0,0,32
 "AmazonFSxConsoleFullAccess","v2",False,"2019-09-10T13:11:13+00:00",1,2,0,2,0,0,13
 "AmazonFSxConsoleFullAccess","v4",False,"2021-06-08T12:14:00+00:00",1,2,0,2,0,0,13
-"AmazonFSxConsoleFullAccess","v5",True,"2021-08-26T13:18:46+00:00",1,2,0,3,0,0,17
+"AmazonFSxConsoleFullAccess","v5",False,"2021-08-26T13:18:46+00:00",1,2,0,3,0,0,17
 "AmazonFSxConsoleFullAccess","v3",False,"2020-01-21T16:42:58+00:00",1,2,0,2,0,0,13
 "AmazonFSxConsoleFullAccess","v1",False,"2018-11-28T16:36:05+00:00",1,2,0,2,0,0,13
 "AWSDeviceFarmTestGridServiceRolePolicy","v1",True,"2021-05-26T22:01:35+00:00",0,0,0,0,0,0,0

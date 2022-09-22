@@ -1,0 +1,51 @@
+{
+    "ServiceWildcard": [
+        "fsx"
+    ],
+    "ServicesAffected": [
+        "fsx",
+        "iam"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "fsx:ManageBackupPrincipalAssociations",
+        "iam:CreateServiceLinkedRole",
+        "iam:CreateServiceLinkedRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "fsx:AssociateFileGateway",
+        "fsx:AssociateFileSystemAliases",
+        "fsx:CancelDataRepositoryTask",
+        "fsx:CopyBackup",
+        "fsx:CreateBackup",
+        "fsx:CreateDataRepositoryAssociation",
+        "fsx:CreateDataRepositoryTask",
+        "fsx:CreateFileSystem",
+        "fsx:CreateFileSystemFromBackup",
+        "fsx:CreateSnapshot",
+        "fsx:CreateStorageVirtualMachine",
+        "fsx:CreateVolume",
+        "fsx:CreateVolumeFromBackup",
+        "fsx:DeleteBackup",
+        "fsx:DeleteDataRepositoryAssociation",
+        "fsx:DeleteFileSystem",
+        "fsx:DeleteSnapshot",
+        "fsx:DeleteStorageVirtualMachine",
+        "fsx:DeleteVolume",
+        "fsx:DisassociateFileGateway",
+        "fsx:DisassociateFileSystemAliases",
+        "fsx:ManageBackupPrincipalAssociations",
+        "fsx:ReleaseFileSystemNfsV3Locks",
+        "fsx:RestoreVolumeFromSnapshot",
+        "fsx:TagResource",
+        "fsx:UntagResource",
+        "fsx:UpdateDataRepositoryAssociation",
+        "fsx:UpdateFileSystem",
+        "fsx:UpdateSnapshot",
+        "fsx:UpdateStorageVirtualMachine",
+        "fsx:UpdateVolume",
+        "iam:CreateServiceLinkedRole"
+    ]
+}
