@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSSupportPlansFullAccess",
+    "PolicyId": "ANPAZKAPJZG4K42KXJODL",
+    "Arn": "arn:aws:iam::aws:policy/AWSSupportPlansFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2022-09-27T18:19:30+00:00",
+    "UpdateDate": "2022-09-27T18:19:30+00:00"
+}

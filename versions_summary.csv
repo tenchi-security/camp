@@ -1143,6 +1143,7 @@
 "AmazonOpenSearchServiceRolePolicy","v4",False,"2022-07-28T13:10:24+00:00",0,0,0,0,0,0,0
 "AmazonOpenSearchServiceRolePolicy","v2",False,"2021-09-01T05:43:03+00:00",0,0,0,0,0,0,0
 "AmazonOpenSearchServiceRolePolicy","v3",False,"2021-09-09T10:43:21+00:00",0,0,0,0,0,0,0
+"AWSSupportPlansFullAccess","v1",True,"2022-09-27T18:19:30+00:00",0,0,0,0,0,0,0
 "AWSMarketplaceMeteringRegisterUsage","v1",True,"2019-11-21T01:17:54+00:00",0,0,0,0,0,0,0
 "AmazonRDSReadOnlyAccess","v1",False,"2015-02-06T18:40:53+00:00",0,0,0,0,0,0,0
 "AmazonRDSReadOnlyAccess","v2",False,"2015-12-16T20:58:30+00:00",0,0,0,0,0,0,0
