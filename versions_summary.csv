@@ -2560,7 +2560,8 @@
 "AWSDeepLensLambdaFunctionAccessPolicy","v3",False,"2018-05-29T22:08:02+00:00",1,2,0,1,0,0,8
 "AWSLambdaBasicExecutionRole","v1",True,"2015-04-09T15:03:43+00:00",0,1,0,0,0,0,3
 "AmazonRDSPerformanceInsightsReadOnly","v1",True,"2022-04-05T00:02:08+00:00",0,0,0,0,0,0,0
-"AWSMigrationHubStrategyCollector","v1",True,"2021-10-19T20:15:15+00:00",0,0,0,0,0,0,0
+"AWSMigrationHubStrategyCollector","v1",False,"2021-10-19T20:15:15+00:00",0,0,0,0,0,0,0
+"AWSMigrationHubStrategyCollector","v2",True,"2022-09-28T00:06:57+00:00",0,0,0,0,0,0,0
 "AWSIoTAnalyticsFullAccess","v1",True,"2018-06-18T23:02:45+00:00",1,1,0,0,0,0,19
 "AmazonEKSForFargateServiceRolePolicy","v1",True,"2019-11-22T04:36:25+00:00",0,1,0,1,0,0,3
 "AmazonPrometheusQueryAccess","v1",True,"2020-12-19T01:02:58+00:00",0,0,0,0,0,0,0
