@@ -2390,7 +2390,8 @@
 "AWSCodeBuildDeveloperAccess","v12",False,"2020-07-30T18:25:47+00:00",0,2,0,0,0,0,10
 "AWSCodeBuildDeveloperAccess","v2",False,"2017-10-25T19:54:49+00:00",0,1,0,0,0,0,2
 "AWSCodeBuildDeveloperAccess","v3",False,"2018-10-03T18:56:53+00:00",0,1,0,0,0,0,2
-"AWSServiceRoleForMonitronPolicy","v1",True,"2020-12-02T19:06:08+00:00",0,0,0,1,0,0,0
+"AWSServiceRoleForMonitronPolicy","v1",False,"2020-12-02T19:06:08+00:00",0,0,0,1,0,0,0
+"AWSServiceRoleForMonitronPolicy","v2",True,"2022-09-29T20:38:15+00:00",0,0,0,0,0,0,0
 "DynamoDBReplicationServiceRolePolicy","v5",False,"2020-07-24T21:40:41+00:00",0,2,0,1,0,0,6
 "DynamoDBReplicationServiceRolePolicy","v6",True,"2020-09-09T18:43:04+00:00",0,2,0,1,0,0,6
 "DynamoDBReplicationServiceRolePolicy","v1",False,"2017-11-09T23:55:34+00:00",0,1,0,0,0,0,3
