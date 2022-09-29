@@ -33,9 +33,6 @@ jobs:
           role-duration-seconds: 1200
           role-session-name: GH-Actions-camp
       
-      - name: Who Am I?
-        run: aws sts get-caller-identity
-      
       - name: pwd
         run: |
           pwd
