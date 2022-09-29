@@ -731,8 +731,9 @@
 "AWSDataPipeline_PowerUser","v1",False,"2017-01-19T23:16:46+00:00",1,0,0,0,0,0,0
 "AWSDataPipeline_PowerUser","v2",True,"2017-08-17T18:49:42+00:00",1,0,0,0,0,0,0
 "AmazonFSxFullAccess","v1",False,"2018-11-28T16:34:43+00:00",1,2,0,2,0,0,13
+"AmazonFSxFullAccess","v4",True,"2022-09-29T18:27:51+00:00",1,2,0,3,0,0,32
 "AmazonFSxFullAccess","v2",False,"2021-06-08T12:05:31+00:00",1,2,0,2,0,0,13
-"AmazonFSxFullAccess","v3",True,"2021-08-26T13:17:29+00:00",1,2,0,3,0,0,17
+"AmazonFSxFullAccess","v3",False,"2021-08-26T13:17:29+00:00",1,2,0,3,0,0,17
 "AWSCodeBuildAdminAccess","v5",False,"2018-10-03T18:20:00+00:00",1,2,0,4,0,0,31
 "AWSCodeBuildAdminAccess","v6",False,"2018-11-15T21:21:56+00:00",1,2,0,4,0,0,31
 "AWSCodeBuildAdminAccess","v1",False,"2016-12-01T19:04:44+00:00",1,1,0,4,0,0,25
