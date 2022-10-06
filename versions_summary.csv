@@ -2176,6 +2176,7 @@
 "AmazonAthenaFullAccess","v3",False,"2017-09-13T00:13:48+00:00",1,2,0,0,0,0,24
 "AmazonRekognitionServiceRole","v1",True,"2017-11-29T16:52:13+00:00",0,0,0,0,0,0,0
 "SecurityAudit","v30",False,"2019-08-16T10:06:35+00:00",0,1,0,2,0,0,2
+"SecurityAudit","v36",True,"2022-10-06T19:49:40+00:00",0,1,0,2,0,0,2
 "SecurityAudit","v14",False,"2018-01-03T17:58:38+00:00",0,0,0,0,0,0,0
 "SecurityAudit","v24",False,"2018-11-05T19:03:40+00:00",0,0,0,0,0,0,0
 "SecurityAudit","v32",False,"2020-02-25T16:08:50+00:00",0,1,0,2,0,0,2
@@ -2192,7 +2193,7 @@
 "SecurityAudit","v22",False,"2018-09-17T20:33:00+00:00",0,0,0,0,0,0,0
 "SecurityAudit","v4",False,"2015-12-14T17:19:36+00:00",0,0,0,0,0,0,0
 "SecurityAudit","v19",False,"2018-05-15T18:30:21+00:00",0,0,0,0,0,0,0
-"SecurityAudit","v35",True,"2021-04-14T20:28:28+00:00",0,1,0,2,0,0,2
+"SecurityAudit","v35",False,"2021-04-14T20:28:28+00:00",0,1,0,2,0,0,2
 "SecurityAudit","v11",False,"2017-05-31T21:34:02+00:00",0,0,0,0,0,0,0
 "SecurityAudit","v20",False,"2018-07-30T18:30:09+00:00",0,0,0,0,0,0,0
 "SecurityAudit","v28",False,"2019-06-06T18:09:18+00:00",0,1,0,2,0,0,2
@@ -2777,8 +2778,9 @@
 "AmazonMCSFullAccess","v2",True,"2020-04-17T19:19:29+00:00",1,2,0,0,0,0,8
 "AWSElasticBeanstalkReadOnly","v1",True,"2021-01-22T19:02:37+00:00",0,0,0,0,0,0,0
 "AWSMigrationHubRefactorSpacesFullAccess","v1",False,"2021-11-29T07:12:55+00:00",1,4,0,1,0,0,21
+"AWSMigrationHubRefactorSpacesFullAccess","v4",True,"2022-10-06T19:05:50+00:00",1,5,0,2,0,0,26
 "AWSMigrationHubRefactorSpacesFullAccess","v2",False,"2021-11-29T14:07:52+00:00",1,4,0,2,0,0,21
-"AWSMigrationHubRefactorSpacesFullAccess","v3",True,"2022-03-21T17:41:49+00:00",1,5,0,2,0,0,27
+"AWSMigrationHubRefactorSpacesFullAccess","v3",False,"2022-03-21T17:41:49+00:00",1,5,0,2,0,0,27
 "AmazonWorkMailMessageFlowFullAccess","v1",True,"2021-02-11T11:08:35+00:00",1,0,0,0,0,0,0
 "AWSBudgetsReadOnlyAccess","v1",True,"2020-10-15T17:18:28+00:00",0,0,0,0,0,0,0
 "AWSOpsWorksCMInstanceProfileRole","v5",True,"2021-04-23T17:34:03+00:00",0,1,0,0,0,0,1
