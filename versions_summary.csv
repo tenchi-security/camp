@@ -2008,11 +2008,12 @@
 "CloudwatchApplicationInsightsServiceLinkedRolePolicy","v4",False,"2019-06-05T01:47:36+00:00",0,1,0,0,0,0,2
 "CloudwatchApplicationInsightsServiceLinkedRolePolicy","v19",False,"2022-01-25T17:51:32+00:00",0,2,0,0,0,0,3
 "CloudwatchApplicationInsightsServiceLinkedRolePolicy","v11",False,"2020-11-09T22:39:19+00:00",0,1,0,0,0,0,2
-"CloudwatchApplicationInsightsServiceLinkedRolePolicy","v20",True,"2022-09-03T17:23:50+00:00",0,2,0,0,0,0,3
+"CloudwatchApplicationInsightsServiceLinkedRolePolicy","v20",False,"2022-09-03T17:23:50+00:00",0,2,0,0,0,0,3
 "CloudwatchApplicationInsightsServiceLinkedRolePolicy","v13",False,"2021-04-15T00:30:19+00:00",0,1,0,0,0,0,2
 "CloudwatchApplicationInsightsServiceLinkedRolePolicy","v10",False,"2020-10-16T17:53:38+00:00",0,1,0,0,0,0,2
 "CloudwatchApplicationInsightsServiceLinkedRolePolicy","v8",False,"2020-06-02T19:50:03+00:00",0,1,0,0,0,0,2
 "CloudwatchApplicationInsightsServiceLinkedRolePolicy","v18",False,"2021-11-11T23:03:50+00:00",0,2,0,0,0,0,3
+"CloudwatchApplicationInsightsServiceLinkedRolePolicy","v21",True,"2022-10-10T19:01:17+00:00",0,2,0,0,0,0,3
 "CloudwatchApplicationInsightsServiceLinkedRolePolicy","v15",False,"2021-08-13T19:59:56+00:00",0,1,0,0,0,0,2
 "CloudwatchApplicationInsightsServiceLinkedRolePolicy","v12",False,"2021-01-19T20:27:15+00:00",0,1,0,0,0,0,2
 "CloudwatchApplicationInsightsServiceLinkedRolePolicy","v17",False,"2021-09-22T22:35:38+00:00",0,1,0,0,0,0,2
