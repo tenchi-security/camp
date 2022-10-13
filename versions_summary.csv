@@ -1139,7 +1139,8 @@
 "AmazonEKSServiceRolePolicy","v2",True,"2020-05-27T19:30:19+00:00",0,1,0,1,0,0,6
 "AmazonEMRServicePolicy_v2","v1",False,"2021-03-12T01:11:08+00:00",0,1,0,0,0,0,9
 "AmazonEMRServicePolicy_v2","v2",True,"2022-02-15T16:48:29+00:00",0,1,0,0,0,0,10
-"AmazonOpenSearchServiceRolePolicy","v5",True,"2022-09-12T15:03:06+00:00",0,0,0,0,0,0,0
+"AmazonOpenSearchServiceRolePolicy","v5",False,"2022-09-12T15:03:06+00:00",0,0,0,0,0,0,0
+"AmazonOpenSearchServiceRolePolicy","v6",True,"2022-10-13T14:05:59+00:00",0,0,0,0,0,0,0
 "AmazonOpenSearchServiceRolePolicy","v1",False,"2021-08-26T09:27:09+00:00",0,0,0,0,0,0,0
 "AmazonOpenSearchServiceRolePolicy","v4",False,"2022-07-28T13:10:24+00:00",0,0,0,0,0,0,0
 "AmazonOpenSearchServiceRolePolicy","v2",False,"2021-09-01T05:43:03+00:00",0,0,0,0,0,0,0
@@ -1603,7 +1604,8 @@
 "AWSLambdaVPCAccessExecutionRole","v1",False,"2016-02-11T23:15:26+00:00",0,2,0,0,0,0,5
 "AWSLambdaVPCAccessExecutionRole","v2",True,"2020-10-15T22:53:03+00:00",0,2,0,0,0,0,7
 "ElementalAppliancesSoftwareReadOnlyAccess","v1",True,"2020-04-01T22:31:09+00:00",0,0,0,0,0,0,0
-"AmazonElasticsearchServiceRolePolicy","v5",True,"2022-09-12T15:01:51+00:00",0,2,0,0,0,0,5
+"AmazonElasticsearchServiceRolePolicy","v5",False,"2022-09-12T15:01:51+00:00",0,2,0,0,0,0,5
+"AmazonElasticsearchServiceRolePolicy","v6",True,"2022-10-13T13:45:16+00:00",0,2,0,0,0,0,5
 "AmazonElasticsearchServiceRolePolicy","v1",False,"2017-07-07T00:15:31+00:00",0,1,0,0,0,0,3
 "AmazonElasticsearchServiceRolePolicy","v4",False,"2022-08-02T15:31:35+00:00",0,2,0,0,0,0,5
 "AmazonElasticsearchServiceRolePolicy","v2",False,"2018-02-08T21:38:27+00:00",0,1,0,0,0,0,3
