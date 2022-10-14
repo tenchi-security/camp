@@ -1125,9 +1125,10 @@
 "AmazonECSServiceRolePolicy","v5",False,"2018-10-18T23:18:18+00:00",0,4,0,2,0,0,12
 "AmazonECSServiceRolePolicy","v6",False,"2019-06-24T23:16:41+00:00",0,4,0,2,0,0,12
 "AmazonECSServiceRolePolicy","v1",False,"2017-10-14T01:18:58+00:00",0,2,0,2,0,0,7
+"AmazonECSServiceRolePolicy","v9",True,"2022-10-14T18:10:03+00:00",0,5,0,2,0,0,21
 "AmazonECSServiceRolePolicy","v7",False,"2019-11-21T19:49:23+00:00",0,5,0,2,0,0,16
 "AmazonECSServiceRolePolicy","v4",False,"2018-03-22T01:20:59+00:00",0,4,0,2,0,0,12
-"AmazonECSServiceRolePolicy","v8",True,"2021-01-13T20:04:13+00:00",0,5,0,2,0,0,16
+"AmazonECSServiceRolePolicy","v8",False,"2021-01-13T20:04:13+00:00",0,5,0,2,0,0,16
 "AmazonECSServiceRolePolicy","v2",False,"2018-03-01T18:01:12+00:00",0,3,0,2,0,0,9
 "AmazonECSServiceRolePolicy","v3",False,"2018-03-07T18:29:40+00:00",0,4,0,2,0,0,12
 "AmazonAPIGatewayInvokeFullAccess","v1",False,"2015-07-09T17:36:12+00:00",0,0,0,0,0,0,0
