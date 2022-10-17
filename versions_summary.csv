@@ -545,8 +545,9 @@
 "AmazonHoneycodeServiceRolePolicy","v1",True,"2020-11-18T18:03:08+00:00",0,0,0,0,0,0,0
 "AmazonSESFullAccess","v1",True,"2015-02-06T18:41:02+00:00",1,1,0,3,0,0,36
 "AmazonCognitoIdpServiceRolePolicy","v1",True,"2020-06-26T22:30:20+00:00",0,0,0,0,0,0,0
+"AmazonRedshiftQueryEditorV2NoSharing","v5",True,"2022-10-17T17:37:30+00:00",0,1,0,0,0,0,15
 "AmazonRedshiftQueryEditorV2NoSharing","v1",False,"2021-09-24T14:18:42+00:00",0,0,0,0,0,0,0
-"AmazonRedshiftQueryEditorV2NoSharing","v4",True,"2022-08-31T03:59:54+00:00",0,1,0,0,0,0,15
+"AmazonRedshiftQueryEditorV2NoSharing","v4",False,"2022-08-31T03:59:54+00:00",0,1,0,0,0,0,15
 "AmazonRedshiftQueryEditorV2NoSharing","v2",False,"2022-02-23T17:04:20+00:00",0,1,0,0,0,0,15
 "AmazonRedshiftQueryEditorV2NoSharing","v3",False,"2022-06-15T09:48:24+00:00",0,1,0,0,0,0,15
 "AWSVendorInsightsVendorReadOnly","v1",True,"2022-07-26T15:05:34+00:00",0,0,0,0,0,0,0
@@ -643,8 +644,9 @@
 "AmazonGlacierReadOnlyAccess","v1",False,"2015-02-06T18:40:27+00:00",0,0,0,0,0,0,0
 "AmazonGlacierReadOnlyAccess","v2",True,"2016-05-05T18:46:10+00:00",0,0,0,0,0,0,0
 "AWSCloudMapDiscoverInstanceAccess","v1",True,"2018-11-29T00:02:42+00:00",0,0,0,0,0,0,0
+"AmazonRedshiftQueryEditorV2ReadWriteSharing","v5",True,"2022-10-17T16:53:42+00:00",0,1,0,0,0,0,16
 "AmazonRedshiftQueryEditorV2ReadWriteSharing","v1",False,"2021-09-24T14:25:37+00:00",0,0,0,0,0,0,0
-"AmazonRedshiftQueryEditorV2ReadWriteSharing","v4",True,"2022-08-31T04:01:05+00:00",0,1,0,0,0,0,16
+"AmazonRedshiftQueryEditorV2ReadWriteSharing","v4",False,"2022-08-31T04:01:05+00:00",0,1,0,0,0,0,16
 "AmazonRedshiftQueryEditorV2ReadWriteSharing","v2",False,"2022-02-23T17:02:35+00:00",0,1,0,0,0,0,16
 "AmazonRedshiftQueryEditorV2ReadWriteSharing","v3",False,"2022-06-15T10:59:24+00:00",0,1,0,0,0,0,16
 "AWSBillingReadOnlyAccess","v1",True,"2020-08-27T20:08:51+00:00",0,0,0,0,0,0,0
@@ -654,7 +656,8 @@
 "AmazonDMSVPCManagementRole","v1",False,"2015-11-18T16:33:19+00:00",0,1,0,0,0,0,2
 "AmazonDMSVPCManagementRole","v2",False,"2015-12-17T21:09:34+00:00",0,1,0,0,0,0,2
 "AmazonDMSVPCManagementRole","v3",True,"2016-05-23T16:29:57+00:00",0,1,0,0,0,0,3
-"BatchServiceRolePolicy","v5",True,"2022-05-18T20:05:56+00:00",0,4,0,2,0,0,11
+"BatchServiceRolePolicy","v5",False,"2022-05-18T20:05:56+00:00",0,4,0,2,0,0,11
+"BatchServiceRolePolicy","v6",True,"2022-10-17T17:20:22+00:00",0,4,0,2,0,0,11
 "BatchServiceRolePolicy","v1",False,"2021-03-10T06:55:36+00:00",0,4,0,2,0,0,11
 "BatchServiceRolePolicy","v4",False,"2021-12-07T02:15:31+00:00",0,4,0,2,0,0,11
 "BatchServiceRolePolicy","v2",False,"2021-03-11T18:03:48+00:00",0,4,0,2,0,0,11
@@ -1672,8 +1675,9 @@
 "AWSLicenseManagerServiceRolePolicy","v2",False,"2019-11-15T22:10:12+00:00",0,2,0,0,0,0,2
 "AWSLicenseManagerServiceRolePolicy","v3",False,"2020-12-03T08:38:18+00:00",0,2,0,0,0,0,2
 "AmazonWorkSpacesWebServiceRolePolicy","v1",False,"2021-11-30T13:15:53+00:00",0,1,0,0,0,0,4
+"AmazonWorkSpacesWebServiceRolePolicy","v4",True,"2022-10-17T16:43:45+00:00",0,1,0,0,0,0,4
 "AmazonWorkSpacesWebServiceRolePolicy","v2",False,"2022-04-05T22:01:09+00:00",0,1,0,0,0,0,4
-"AmazonWorkSpacesWebServiceRolePolicy","v3",True,"2022-09-06T20:46:50+00:00",0,1,0,0,0,0,4
+"AmazonWorkSpacesWebServiceRolePolicy","v3",False,"2022-09-06T20:46:50+00:00",0,1,0,0,0,0,4
 "AWSCodePipelineCustomActionAccess","v1",True,"2015-07-09T17:02:54+00:00",0,1,0,0,0,1,1
 "CloudFrontFullAccess","v5",False,"2020-08-27T17:09:55+00:00",1,1,0,0,0,0,14
 "CloudFrontFullAccess","v6",True,"2020-09-03T20:18:42+00:00",1,1,0,0,0,0,14
@@ -2473,8 +2477,9 @@
 "AWSMigrationHubSMSAccess","v2",True,"2019-10-07T18:01:22+00:00",0,0,0,0,0,0,0
 "AmazonEventBridgeSchemasReadOnlyAccess","v1",False,"2019-11-28T23:05:57+00:00",0,0,0,0,0,0,0
 "AmazonEventBridgeSchemasReadOnlyAccess","v2",True,"2020-05-01T00:50:53+00:00",0,0,0,0,0,0,0
+"AmazonRedshiftQueryEditorV2ReadSharing","v5",True,"2022-10-17T17:29:34+00:00",0,1,0,0,0,0,16
 "AmazonRedshiftQueryEditorV2ReadSharing","v1",False,"2021-09-24T14:22:21+00:00",0,0,0,0,0,0,0
-"AmazonRedshiftQueryEditorV2ReadSharing","v4",True,"2022-08-31T04:02:10+00:00",0,1,0,0,0,0,16
+"AmazonRedshiftQueryEditorV2ReadSharing","v4",False,"2022-08-31T04:02:10+00:00",0,1,0,0,0,0,16
 "AmazonRedshiftQueryEditorV2ReadSharing","v2",False,"2022-02-23T17:03:58+00:00",0,1,0,0,0,0,16
 "AmazonRedshiftQueryEditorV2ReadSharing","v3",False,"2022-06-15T10:16:40+00:00",0,1,0,0,0,0,16
 "AWSAccountActivityAccess","v1",True,"2015-02-06T18:41:18+00:00",0,0,0,0,0,0,0

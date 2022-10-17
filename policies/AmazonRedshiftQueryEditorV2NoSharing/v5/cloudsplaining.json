@@ -1,0 +1,27 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "sqlworkbench"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "sqlworkbench:AssociateConnectionWithChart",
+        "sqlworkbench:AssociateConnectionWithTab",
+        "sqlworkbench:AssociateQueryWithTab",
+        "sqlworkbench:CreateChart",
+        "sqlworkbench:CreateConnection",
+        "sqlworkbench:CreateSavedQuery",
+        "sqlworkbench:DeleteChart",
+        "sqlworkbench:DeleteConnection",
+        "sqlworkbench:DeleteSavedQuery",
+        "sqlworkbench:DriverExecute",
+        "sqlworkbench:TagResource",
+        "sqlworkbench:UpdateChart",
+        "sqlworkbench:UpdateConnection",
+        "sqlworkbench:UpdateFileFolder",
+        "sqlworkbench:UpdateSavedQuery"
+    ]
+}
