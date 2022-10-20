@@ -2818,7 +2818,7 @@
 "AmazonEC2ReadOnlyAccess","v1",True,"2015-02-06T18:40:17+00:00",0,0,0,0,0,0,0
 "AWSPanoramaApplianceServiceRolePolicy","v1",True,"2021-10-20T12:14:03+00:00",0,1,0,0,0,0,1
 "AWSVendorInsightsVendorReadOnly","v1",True,"2022-07-26T15:05:34+00:00",0,0,0,0,0,0,0
-"AWSSSOServiceRolePolicy","v16",True,"2022-06-28T20:08:47+00:00",0,1,0,0,0,0,1
+"AWSSSOServiceRolePolicy","v16",False,"2022-06-28T20:08:47+00:00",0,1,0,0,0,0,1
 "AWSSSOServiceRolePolicy","v2",False,"2017-12-06T19:34:14+00:00",0,0,0,0,0,0,0
 "AWSSSOServiceRolePolicy","v5",False,"2019-02-05T18:20:34+00:00",0,0,0,0,0,0,0
 "AWSSSOServiceRolePolicy","v8",False,"2020-03-12T20:36:59+00:00",0,1,0,0,0,0,1
@@ -2833,6 +2833,7 @@
 "AWSSSOServiceRolePolicy","v7",False,"2019-08-30T19:55:59+00:00",0,1,0,0,0,0,1
 "AWSSSOServiceRolePolicy","v1",False,"2017-12-05T18:36:15+00:00",0,0,0,0,0,0,0
 "AWSSSOServiceRolePolicy","v9",False,"2020-07-02T20:20:49+00:00",0,1,0,0,0,0,1
+"AWSSSOServiceRolePolicy","v17",True,"2022-10-20T20:05:47+00:00",0,1,0,0,0,0,1
 "AWSSSOServiceRolePolicy","v11",False,"2020-08-26T17:46:14+00:00",0,1,0,0,0,0,1
 "AWSAppMeshFullAccess","v2",False,"2019-06-05T18:47:32+00:00",1,1,0,0,0,0,23
 "AWSAppMeshFullAccess","v5",False,"2020-03-05T23:36:53+00:00",1,1,0,0,0,0,23
