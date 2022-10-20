@@ -1,6 +1,6 @@
 {
     "VersionId": "v7",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2022-08-22T17:07:31+00:00",
     "PolicyName": "AWSSSOMasterAccountAdministrator"
 }

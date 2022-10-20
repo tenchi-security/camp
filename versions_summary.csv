@@ -274,10 +274,11 @@
 "AmazonElasticMapReduceFullAccess","v1",False,"2015-02-06T18:40:22+00:00",4,6,1,15,1,0,111
 "AWSSSOMasterAccountAdministrator","v2",False,"2018-07-03T20:10:59+00:00",1,2,0,31,0,0,17
 "AWSSSOMasterAccountAdministrator","v5",False,"2022-03-25T18:53:19+00:00",3,2,0,5,0,0,18
+"AWSSSOMasterAccountAdministrator","v8",True,"2022-10-20T20:34:27+00:00",4,3,0,5,0,0,20
 "AWSSSOMasterAccountAdministrator","v4",False,"2021-08-04T21:10:42+00:00",2,2,0,44,0,0,18
 "AWSSSOMasterAccountAdministrator","v3",False,"2018-10-17T20:41:20+00:00",1,2,0,31,0,0,18
 "AWSSSOMasterAccountAdministrator","v6",False,"2022-04-28T18:38:55+00:00",3,2,0,5,0,0,18
-"AWSSSOMasterAccountAdministrator","v7",True,"2022-08-22T17:07:31+00:00",3,3,0,5,0,0,20
+"AWSSSOMasterAccountAdministrator","v7",False,"2022-08-22T17:07:31+00:00",3,3,0,5,0,0,20
 "AWSSSOMasterAccountAdministrator","v1",False,"2018-06-27T20:36:51+00:00",1,2,0,31,0,0,17
 "NeptuneReadOnlyAccess","v2",True,"2022-08-03T18:53:32+00:00",0,0,0,0,0,0,0
 "NeptuneReadOnlyAccess","v1",False,"2018-05-30T19:16:37+00:00",0,0,0,0,0,0,0
@@ -1700,7 +1701,8 @@
 "AWSSSOMemberAccountAdministrator","v5",False,"2022-04-28T18:53:46+00:00",3,2,0,5,0,0,18
 "AWSSSOMemberAccountAdministrator","v4",False,"2022-03-25T20:11:32+00:00",3,2,0,5,0,0,18
 "AWSSSOMemberAccountAdministrator","v3",False,"2021-08-04T20:13:14+00:00",2,2,0,44,0,0,18
-"AWSSSOMemberAccountAdministrator","v6",True,"2022-08-22T17:18:20+00:00",3,3,0,5,0,0,20
+"AWSSSOMemberAccountAdministrator","v6",False,"2022-08-22T17:18:20+00:00",3,3,0,5,0,0,20
+"AWSSSOMemberAccountAdministrator","v7",True,"2022-10-20T20:32:45+00:00",4,3,0,5,0,0,20
 "AWSSSOMemberAccountAdministrator","v1",False,"2018-06-27T20:45:42+00:00",1,2,0,31,0,0,17
 "AutoScalingServiceRolePolicy","v2",False,"2018-10-31T18:19:10+00:00",0,5,0,2,0,0,17
 "AutoScalingServiceRolePolicy","v5",False,"2021-03-29T22:33:25+00:00",0,6,0,2,0,0,23
@@ -2672,7 +2674,8 @@
 "AWSCodeDeployRole","v9",True,"2021-05-19T00:42:51+00:00",0,5,0,0,0,0,20
 "AWSBugBustServiceRolePolicy","v1",True,"2021-06-24T06:59:05+00:00",0,1,0,0,0,0,1
 "AWSSSODirectoryAdministrator","v2",False,"2020-08-18T17:17:40+00:00",1,0,0,13,0,0,0
-"AWSSSODirectoryAdministrator","v3",True,"2022-03-25T20:31:19+00:00",2,0,0,0,0,0,0
+"AWSSSODirectoryAdministrator","v4",True,"2022-10-20T20:34:07+00:00",3,0,0,0,0,0,0
+"AWSSSODirectoryAdministrator","v3",False,"2022-03-25T20:31:19+00:00",2,0,0,0,0,0,0
 "AWSSSODirectoryAdministrator","v1",False,"2018-10-31T23:54:00+00:00",1,0,0,13,0,0,0
 "AWSLakeFormationCrossAccountManager","v2",False,"2020-10-07T22:39:34+00:00",0,2,0,6,0,0,3
 "AWSLakeFormationCrossAccountManager","v4",True,"2022-05-20T22:19:37+00:00",0,2,0,6,0,0,6
