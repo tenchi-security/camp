@@ -329,7 +329,8 @@
 "AWSBatchFullAccess","v5",False,"2018-11-05T21:09:23+00:00",1,1,0,0,0,0,11
 "AWSBatchFullAccess","v4",False,"2018-06-12T17:46:09+00:00",1,1,0,0,0,0,11
 "AWSBatchFullAccess","v3",False,"2018-04-04T22:58:33+00:00",1,1,0,0,0,0,11
-"AWSBatchFullAccess","v6",True,"2021-03-10T07:02:45+00:00",1,1,0,0,0,0,11
+"AWSBatchFullAccess","v6",False,"2021-03-10T07:02:45+00:00",1,1,0,0,0,0,11
+"AWSBatchFullAccess","v7",True,"2022-10-24T16:09:09+00:00",1,1,0,0,0,0,16
 "AWSBatchFullAccess","v1",False,"2016-12-06T19:35:42+00:00",1,1,0,0,0,0,11
 "AWSAppRunnerFullAccess","v1",True,"2022-01-11T04:02:09+00:00",1,2,0,1,0,0,15
 "AWSElasticBeanstalkCustomPlatformforEC2Role","v1",True,"2017-02-21T22:50:30+00:00",0,1,0,1,0,1,21
