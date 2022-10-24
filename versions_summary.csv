@@ -1118,6 +1118,7 @@
 "AWSOrganizationsServiceTrustPolicy","v2",True,"2017-11-01T06:01:18+00:00",0,1,0,1,0,0,1
 "AWSOrganizationsServiceTrustPolicy","v1",False,"2017-10-10T23:04:07+00:00",0,0,0,0,0,0,0
 "ElementalAppliancesSoftwareReadOnlyAccess","v1",True,"2020-04-01T22:31:09+00:00",0,0,0,0,0,0,0
+"AmazonAppStreamPCAAccess","v1",True,"2022-10-24T17:05:03+00:00",0,0,0,0,0,0,0
 "AmazonOpenSearchServiceFullAccess","v1",True,"2021-09-08T05:33:47+00:00",1,1,0,2,0,0,15
 "CloudwatchApplicationInsightsServiceLinkedRolePolicy","v16",False,"2021-08-27T22:03:15+00:00",0,1,0,0,0,0,2
 "CloudwatchApplicationInsightsServiceLinkedRolePolicy","v2",False,"2019-04-24T17:25:29+00:00",0,1,0,0,0,0,2
@@ -1760,7 +1761,8 @@
 "AmazonRedshiftQueryEditorV2ReadWriteSharing","v4",False,"2022-08-31T04:01:05+00:00",0,1,0,0,0,0,16
 "AmazonRedshiftQueryEditorV2ReadWriteSharing","v3",False,"2022-06-15T10:59:24+00:00",0,1,0,0,0,0,16
 "AmazonRedshiftQueryEditorV2ReadWriteSharing","v1",False,"2021-09-24T14:25:37+00:00",0,0,0,0,0,0,0
-"AmazonEKSLocalOutpostServiceRolePolicy","v1",True,"2022-08-23T21:53:02+00:00",0,3,0,1,0,0,8
+"AmazonEKSLocalOutpostServiceRolePolicy","v2",True,"2022-10-24T16:24:51+00:00",0,3,0,1,0,0,8
+"AmazonEKSLocalOutpostServiceRolePolicy","v1",False,"2022-08-23T21:53:02+00:00",0,3,0,1,0,0,8
 "IAMAccessAnalyzerReadOnlyAccess","v2",True,"2021-03-16T20:37:30+00:00",0,0,0,0,0,0,0
 "IAMAccessAnalyzerReadOnlyAccess","v1",False,"2019-12-02T17:12:53+00:00",0,0,0,0,0,0,0
 "AWSServiceRoleForLogDeliveryPolicy","v2",False,"2020-07-27T19:38:52+00:00",0,1,0,0,0,0,2
