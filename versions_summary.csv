@@ -1798,7 +1798,8 @@
 "AmazonFISServiceRolePolicy","v5",False,"2022-02-07T11:13:04+00:00",0,1,0,0,0,0,4
 "AmazonFISServiceRolePolicy","v4",False,"2022-01-06T16:43:13+00:00",0,1,0,0,0,0,4
 "AmazonFISServiceRolePolicy","v3",False,"2021-06-30T13:50:04+00:00",0,1,0,0,0,0,4
-"AmazonFISServiceRolePolicy","v6",True,"2022-07-06T11:03:20+00:00",0,1,0,0,0,0,4
+"AmazonFISServiceRolePolicy","v6",False,"2022-07-06T11:03:20+00:00",0,1,0,0,0,0,4
+"AmazonFISServiceRolePolicy","v7",True,"2022-10-25T09:05:23+00:00",0,1,0,0,0,0,4
 "AmazonFISServiceRolePolicy","v1",False,"2020-12-21T21:18:19+00:00",0,1,0,0,0,0,4
 "RDSCloudHsmAuthorizationRole","v2",True,"2019-09-26T22:14:29+00:00",0,0,0,0,0,0,0
 "RDSCloudHsmAuthorizationRole","v1",False,"2015-02-06T18:41:29+00:00",0,0,0,0,0,0,0
