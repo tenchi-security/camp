@@ -1,0 +1,25 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "aps"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "aps:CreateAlertManagerDefinition",
+        "aps:CreateLoggingConfiguration",
+        "aps:CreateRuleGroupsNamespace",
+        "aps:DeleteAlertManagerDefinition",
+        "aps:DeleteLoggingConfiguration",
+        "aps:DeleteRuleGroupsNamespace",
+        "aps:DeleteWorkspace",
+        "aps:PutAlertManagerDefinition",
+        "aps:PutRuleGroupsNamespace",
+        "aps:TagResource",
+        "aps:UntagResource",
+        "aps:UpdateLoggingConfiguration",
+        "aps:UpdateWorkspaceAlias"
+    ]
+}
