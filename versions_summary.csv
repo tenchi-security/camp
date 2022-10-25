@@ -169,10 +169,11 @@
 "CloudFrontReadOnlyAccess","v1",False,"2015-02-06T18:39:55+00:00",0,0,0,0,0,0,0
 "AccessAnalyzerServiceRolePolicy","v2",False,"2020-03-02T15:55:03+00:00",0,0,0,0,0,0,0
 "AccessAnalyzerServiceRolePolicy","v5",False,"2020-11-24T20:58:37+00:00",0,0,0,0,0,0,0
+"AccessAnalyzerServiceRolePolicy","v8",True,"2022-10-25T16:50:52+00:00",0,0,0,0,0,0,0
 "AccessAnalyzerServiceRolePolicy","v4",False,"2020-05-19T19:10:16+00:00",0,0,0,0,0,0,0
 "AccessAnalyzerServiceRolePolicy","v3",False,"2020-04-30T20:28:02+00:00",0,0,0,0,0,0,0
 "AccessAnalyzerServiceRolePolicy","v6",False,"2021-09-02T16:49:47+00:00",0,0,0,0,0,0,0
-"AccessAnalyzerServiceRolePolicy","v7",True,"2022-04-06T20:18:51+00:00",0,0,0,0,0,0,0
+"AccessAnalyzerServiceRolePolicy","v7",False,"2022-04-06T20:18:51+00:00",0,0,0,0,0,0,0
 "AccessAnalyzerServiceRolePolicy","v1",False,"2019-12-02T17:13:10+00:00",0,0,0,0,0,0,0
 "AmazonCodeGuruProfilerAgentAccess","v2",False,"2021-04-02T23:21:37+00:00",0,1,0,0,0,0,2
 "AmazonCodeGuruProfilerAgentAccess","v3",True,"2022-05-05T18:11:03+00:00",0,0,0,0,0,0,0
@@ -717,6 +718,7 @@
 "AWSCodeCommitReadOnly","v9",False,"2020-06-24T16:06:55+00:00",0,0,0,0,0,0,0
 "AWSCodeCommitReadOnly","v11",True,"2021-08-18T18:18:01+00:00",0,0,0,0,0,0,0
 "AmazonHoneycodeTeamAssociationReadOnlyAccess","v1",True,"2020-06-24T20:27:46+00:00",0,0,0,0,0,0,0
+"AWSRefactoringToolkitFullAccess","v1",True,"2022-10-25T16:41:15+00:00",0,2,0,0,0,0,20
 "AWSMediaTailorServiceRolePolicy","v1",True,"2021-09-17T22:27:10+00:00",0,0,0,0,0,0,0
 "AmazonRedshiftReadOnlyAccess","v1",True,"2015-02-06T18:40:51+00:00",0,0,0,0,0,0,0
 "AWSMarketplacePurchaseOrdersServiceRolePolicy","v1",True,"2021-10-27T15:12:37+00:00",0,0,0,0,0,0,0
@@ -1427,6 +1429,7 @@
 "AWSVendorInsightsAssessorFullAccess","v1",True,"2022-07-26T15:05:40+00:00",0,0,0,0,0,0,0
 "AmazonElasticMapReducePlacementGroupPolicy","v1",True,"2020-09-29T00:37:08+00:00",0,0,0,0,0,0,0
 "AWSOpsWorksRegisterCLI_EC2","v1",True,"2019-06-18T15:56:17+00:00",0,1,0,0,0,0,4
+"AWSRefactoringToolkitSidecarPolicy","v1",True,"2022-10-25T16:41:12+00:00",0,0,0,0,0,0,0
 "AmazonKinesisFullAccess","v1",True,"2015-02-06T18:40:29+00:00",1,1,0,0,0,0,14
 "AWSVPCTransitGatewayServiceRolePolicy","v2",True,"2021-04-15T16:31:44+00:00",0,1,0,1,0,0,6
 "AWSVPCTransitGatewayServiceRolePolicy","v1",False,"2018-11-26T16:21:17+00:00",0,1,0,1,0,0,4

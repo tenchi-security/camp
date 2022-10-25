@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSRefactoringToolkitSidecarPolicy",
+    "PolicyId": "ANPAZKAPJZG4LC67532NW",
+    "Arn": "arn:aws:iam::aws:policy/AWSRefactoringToolkitSidecarPolicy",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2022-10-25T16:41:12+00:00",
+    "UpdateDate": "2022-10-25T16:41:12+00:00"
+}
