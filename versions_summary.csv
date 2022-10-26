@@ -2343,6 +2343,7 @@
 "CloudWatchEventsReadOnlyAccess","v1",False,"2016-01-14T18:27:18+00:00",0,0,0,0,0,0,0
 "AWSRoboMakerReadOnlyAccess","v2",True,"2020-08-28T23:10:18+00:00",0,0,0,0,0,0,0
 "AWSRoboMakerReadOnlyAccess","v1",False,"2018-11-26T05:30:50+00:00",0,0,0,0,0,0,0
+"AWSFaultInjectionSimulatorSSMAccess","v1",True,"2022-10-26T15:33:44+00:00",0,0,0,0,0,0,0
 "AWSMigrationHubOrchestratorInstanceRolePolicy","v1",True,"2022-04-20T02:43:50+00:00",0,0,0,0,0,0,0
 "AWSSupportAccess","v1",True,"2015-02-06T18:41:11+00:00",1,0,0,0,0,0,0
 "AWSServiceRoleForSMS","v2",False,"2019-11-21T00:14:49+00:00",0,2,0,2,0,0,12
@@ -2887,7 +2888,8 @@
 "AmazonEC2RoleforSSM","v7",False,"2018-10-24T19:37:47+00:00",0,4,0,0,2,0,11
 "AmazonEC2RoleforSSM","v1",False,"2015-05-29T17:48:35+00:00",0,3,0,0,0,0,5
 "AWSServiceCatalogAppRegistryServiceRolePolicy","v2",False,"2021-08-11T19:49:17+00:00",0,1,0,0,0,0,4
-"AWSServiceCatalogAppRegistryServiceRolePolicy","v3",True,"2022-03-04T21:06:44+00:00",0,1,0,0,0,0,4
+"AWSServiceCatalogAppRegistryServiceRolePolicy","v4",True,"2022-10-26T16:05:52+00:00",0,1,0,0,0,0,4
+"AWSServiceCatalogAppRegistryServiceRolePolicy","v3",False,"2022-03-04T21:06:44+00:00",0,1,0,0,0,0,4
 "AWSServiceCatalogAppRegistryServiceRolePolicy","v1",False,"2021-05-18T22:18:55+00:00",0,1,0,0,0,0,4
 "SecretsManagerReadWrite","v2",False,"2018-05-03T20:02:35+00:00",1,2,0,3,1,0,16
 "SecretsManagerReadWrite","v3",True,"2020-06-24T18:01:22+00:00",1,2,0,3,1,0,16
