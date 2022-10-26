@@ -92,6 +92,7 @@
 "AmazonLookoutVisionFullAccess","v1",True,"2021-05-11T19:24:54+00:00",1,1,0,0,0,0,8
 "AmazonHoneycodeReadOnlyAccess","v2",True,"2020-12-01T17:27:53+00:00",0,0,0,0,0,0,0
 "AmazonHoneycodeReadOnlyAccess","v1",False,"2020-06-24T20:28:16+00:00",0,0,0,0,0,0,0
+"AWSFaultInjectionSimulatorECSAccess","v1",True,"2022-10-26T20:37:56+00:00",0,0,0,0,0,0,0
 "AWSBudgetsActionsWithAWSResourceControlAccess","v1",True,"2020-10-15T17:19:12+00:00",1,2,0,1,0,0,6
 "DynamoDBCloudWatchContributorInsightsServiceRolePolicy","v1",True,"2019-11-15T21:13:58+00:00",0,0,0,0,0,0,0
 "AWSDataSyncReadOnlyAccess","v2",False,"2020-01-24T17:59:11+00:00",0,0,0,0,0,0,0
@@ -300,6 +301,7 @@
 "AWSPrivateMarketplaceAdminFullAccess","v3",False,"2020-12-03T15:12:31+00:00",0,0,0,0,0,0,0
 "AWSPrivateMarketplaceAdminFullAccess","v1",False,"2018-11-27T16:32:32+00:00",0,0,0,0,0,0,0
 "AWSIoT1ClickFullAccess","v1",True,"2018-05-11T22:10:14+00:00",1,1,0,0,0,0,12
+"AWSFaultInjectionSimulatorRDSAccess","v1",True,"2022-10-26T20:30:57+00:00",0,0,0,0,0,0,0
 "AWSApplicationDiscoveryAgentlessCollectorAccess","v1",True,"2022-08-16T21:00:59+00:00",0,0,0,0,0,0,0
 "NeptuneConsoleFullAccess","v2",False,"2018-11-06T21:19:54+00:00",0,4,0,2,0,0,61
 "NeptuneConsoleFullAccess","v4",True,"2020-09-02T17:25:07+00:00",0,4,0,2,0,0,61
@@ -738,6 +740,7 @@
 "AmazonRDSEnhancedMonitoringRole","v1",True,"2015-11-11T19:58:29+00:00",0,0,0,0,0,0,0
 "AmazonS3FullAccess","v2",True,"2021-09-27T20:16:37+00:00",2,2,0,16,1,0,77
 "AmazonS3FullAccess","v1",False,"2015-02-06T18:40:58+00:00",1,1,0,13,1,0,60
+"AWSFaultInjectionSimulatorNetworkAccess","v1",True,"2022-10-26T20:32:50+00:00",0,0,0,0,0,0,0
 "AWSSavingsPlansFullAccess","v1",True,"2019-11-06T22:45:18+00:00",1,1,0,0,0,0,3
 "AmazonLookoutEquipmentFullAccess","v2",False,"2021-05-05T16:46:56+00:00",1,3,0,3,0,0,15
 "AmazonLookoutEquipmentFullAccess","v3",True,"2021-11-24T21:00:13+00:00",1,3,0,2,0,0,14
@@ -1407,6 +1410,7 @@
 "AWSLambdaKinesisExecutionRole","v2",True,"2018-11-19T20:09:24+00:00",0,1,0,0,0,0,3
 "AWSLambdaKinesisExecutionRole","v1",False,"2015-04-09T15:14:16+00:00",0,1,0,0,0,0,3
 "AWSIoTWirelessFullAccess","v1",True,"2020-12-15T15:27:57+00:00",1,1,0,0,0,0,25
+"AWSFaultInjectionSimulatorEC2Access","v1",True,"2022-10-26T20:39:26+00:00",0,0,0,0,0,0,0
 "AmazonInspectorFullAccess","v2",False,"2016-03-09T04:06:22+00:00",1,0,0,0,0,0,0
 "AmazonInspectorFullAccess","v5",True,"2017-12-21T14:53:31+00:00",1,1,0,1,0,0,1
 "AmazonInspectorFullAccess","v4",False,"2017-11-01T18:20:39+00:00",1,0,0,0,0,0,0
@@ -1947,7 +1951,8 @@
 "AWSCloudTrailReadOnlyAccess","v7",False,"2017-12-11T19:51:37+00:00",0,1,0,0,1,0,1
 "AWSCloudTrailReadOnlyAccess","v1",False,"2015-02-06T18:39:59+00:00",0,0,0,0,0,0,0
 "AWSCloudTrailReadOnlyAccess","v9",True,"2019-11-20T21:06:49+00:00",0,1,0,0,1,0,1
-"AmazonCloudWatchRUMServiceRolePolicy","v1",True,"2021-11-17T23:17:23+00:00",0,0,0,0,0,0,0
+"AmazonCloudWatchRUMServiceRolePolicy","v2",True,"2022-10-26T21:33:26+00:00",0,0,0,0,0,0,0
+"AmazonCloudWatchRUMServiceRolePolicy","v1",False,"2021-11-17T23:17:23+00:00",0,0,0,0,0,0,0
 "ApplicationAutoScalingForAmazonAppStreamAccess","v1",True,"2017-02-06T21:39:56+00:00",0,1,0,0,0,0,1
 "AWSLambda_ReadOnlyAccess","v1",True,"2020-11-17T21:10:32+00:00",0,0,0,0,0,0,0
 "AmazonCloudDirectoryFullAccess","v1",True,"2017-02-25T00:41:39+00:00",1,1,0,0,0,0,32
@@ -2059,6 +2064,7 @@
 "AWSCodeDeployReadOnlyAccess","v2",False,"2019-11-05T23:01:32+00:00",0,0,0,0,0,0,0
 "AWSCodeDeployReadOnlyAccess","v3",True,"2020-04-02T16:20:09+00:00",0,0,0,0,0,0,0
 "AWSCodeDeployReadOnlyAccess","v1",False,"2015-05-19T18:21:32+00:00",0,0,0,0,0,0,0
+"AWSFaultInjectionSimulatorEKSAccess","v1",True,"2022-10-26T20:34:43+00:00",0,0,0,0,0,0,0
 "AmazonFSxFullAccess","v2",False,"2021-06-08T12:05:31+00:00",1,2,0,2,0,0,13
 "AmazonFSxFullAccess","v4",True,"2022-09-29T18:27:51+00:00",1,2,0,3,0,0,32
 "AmazonFSxFullAccess","v3",False,"2021-08-26T13:17:29+00:00",1,2,0,3,0,0,17
