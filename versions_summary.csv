@@ -804,7 +804,8 @@
 "AmazonEC2RoleforAWSCodeDeploy","v2",True,"2017-03-20T17:14:10+00:00",0,1,0,0,1,0,1
 "AmazonEC2RoleforAWSCodeDeploy","v1",False,"2015-05-19T18:10:14+00:00",0,1,0,0,1,0,1
 "AWSElementalMediaStoreFullAccess","v1",True,"2018-03-05T23:15:31+00:00",1,0,0,2,0,0,0
-"AWSElasticDisasterRecoveryRecoveryInstancePolicy","v1",True,"2021-11-17T10:20:43+00:00",0,0,0,0,0,0,0
+"AWSElasticDisasterRecoveryRecoveryInstancePolicy","v2",True,"2022-10-30T13:17:11+00:00",0,0,0,0,0,0,0
+"AWSElasticDisasterRecoveryRecoveryInstancePolicy","v1",False,"2021-11-17T10:20:43+00:00",0,0,0,0,0,0,0
 "AWSCloudMapDiscoverInstanceAccess","v1",True,"2018-11-29T00:02:42+00:00",0,0,0,0,0,0,0
 "ConfigConformsServiceRolePolicy","v2",False,"2019-10-02T00:31:15+00:00",0,1,0,1,0,0,1
 "ConfigConformsServiceRolePolicy","v5",True,"2022-07-26T00:33:20+00:00",0,1,0,1,0,0,1
