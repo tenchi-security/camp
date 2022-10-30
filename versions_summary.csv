@@ -1435,7 +1435,8 @@
 "AWSVendorInsightsAssessorFullAccess","v1",True,"2022-07-26T15:05:40+00:00",0,0,0,0,0,0,0
 "AmazonElasticMapReducePlacementGroupPolicy","v1",True,"2020-09-29T00:37:08+00:00",0,0,0,0,0,0,0
 "AWSOpsWorksRegisterCLI_EC2","v1",True,"2019-06-18T15:56:17+00:00",0,1,0,0,0,0,4
-"AWSRefactoringToolkitSidecarPolicy","v1",True,"2022-10-25T16:41:12+00:00",0,0,0,0,0,0,0
+"AWSRefactoringToolkitSidecarPolicy","v2",True,"2022-10-29T22:15:51+00:00",0,0,0,0,0,0,0
+"AWSRefactoringToolkitSidecarPolicy","v1",False,"2022-10-25T16:41:12+00:00",0,0,0,0,0,0,0
 "AmazonKinesisFullAccess","v1",True,"2015-02-06T18:40:29+00:00",1,1,0,0,0,0,14
 "AWSVPCTransitGatewayServiceRolePolicy","v2",True,"2021-04-15T16:31:44+00:00",0,1,0,1,0,0,6
 "AWSVPCTransitGatewayServiceRolePolicy","v1",False,"2018-11-26T16:21:17+00:00",0,1,0,1,0,0,4
