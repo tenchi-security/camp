@@ -1,0 +1,25 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "config",
+        "iam",
+        "logs",
+        "organizations",
+        "servicecatalog"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:CreateServiceLinkedRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "config:DeleteConfigurationAggregator",
+        "config:PutConfigurationAggregator",
+        "config:TagResource",
+        "iam:CreateServiceLinkedRole",
+        "logs:CreateLogGroup",
+        "organizations:MoveAccount",
+        "servicecatalog:AssociatePrincipalWithPortfolio"
+    ]
+}
