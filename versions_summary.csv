@@ -1199,7 +1199,8 @@
 "AmazonRoute53FullAccess","v3",False,"2017-11-13T22:22:04+00:00",2,1,0,0,0,0,20
 "AmazonRoute53FullAccess","v1",False,"2015-02-06T18:40:54+00:00",1,1,0,0,0,0,20
 "AWSGreengrassFullAccess","v1",True,"2017-05-03T00:47:37+00:00",1,1,0,0,0,0,6
-"AWSFMAdminReadOnlyAccess","v1",True,"2018-05-09T20:07:39+00:00",0,0,0,0,0,0,0
+"AWSFMAdminReadOnlyAccess","v2",True,"2022-10-31T22:42:13+00:00",0,0,0,0,0,0,0
+"AWSFMAdminReadOnlyAccess","v1",False,"2018-05-09T20:07:39+00:00",0,0,0,0,0,0,0
 "AWSDataLifecycleManagerServiceRole","v2",False,"2019-05-29T16:44:12+00:00",0,1,0,0,0,0,3
 "AWSDataLifecycleManagerServiceRole","v5",False,"2020-09-09T18:52:08+00:00",0,1,0,1,0,0,7
 "AWSDataLifecycleManagerServiceRole","v4",False,"2019-12-19T19:42:29+00:00",0,1,0,0,0,0,6
