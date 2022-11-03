@@ -1983,7 +1983,8 @@
 "AWSStepFunctionsFullAccess","v1",True,"2017-01-11T21:51:32+00:00",1,1,0,0,0,0,11
 "AmazonGlacierReadOnlyAccess","v2",True,"2016-05-05T18:46:10+00:00",0,0,0,0,0,0,0
 "AmazonGlacierReadOnlyAccess","v1",False,"2015-02-06T18:40:27+00:00",0,0,0,0,0,0,0
-"CloudTrailServiceRolePolicy","v1",True,"2018-10-24T21:21:44+00:00",1,1,0,0,0,0,9
+"CloudTrailServiceRolePolicy","v2",True,"2022-11-03T20:35:01+00:00",1,1,0,0,0,0,16
+"CloudTrailServiceRolePolicy","v1",False,"2018-10-24T21:21:44+00:00",1,1,0,0,0,0,9
 "AmazonSageMakerServiceCatalogProductsLambdaServiceRolePolicy","v1",True,"2022-04-04T16:34:43+00:00",0,0,0,0,0,0,0
 "AWSDeepRacerAccountAdminAccess","v1",True,"2021-10-28T01:27:13+00:00",1,1,0,0,0,0,16
 "AWSBackupServiceRolePolicyForRestores","v2",False,"2019-01-14T19:37:08+00:00",0,1,0,0,0,0,3

@@ -1,0 +1,6 @@
+{
+    "VersionId": "v2",
+    "IsDefaultVersion": true,
+    "CreateDate": "2022-11-03T20:35:01+00:00",
+    "PolicyName": "CloudTrailServiceRolePolicy"
+}

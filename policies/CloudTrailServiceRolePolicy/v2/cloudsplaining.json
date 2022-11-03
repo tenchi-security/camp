@@ -1,0 +1,30 @@
+{
+    "ServiceWildcard": [
+        "cloudtrail"
+    ],
+    "ServicesAffected": [
+        "cloudtrail"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "cloudtrail:AddTags",
+        "cloudtrail:CreateEventDataStore",
+        "cloudtrail:CreateServiceLinkedChannel",
+        "cloudtrail:CreateTrail",
+        "cloudtrail:DeleteEventDataStore",
+        "cloudtrail:DeleteServiceLinkedChannel",
+        "cloudtrail:DeleteTrail",
+        "cloudtrail:PutEventSelectors",
+        "cloudtrail:PutInsightSelectors",
+        "cloudtrail:RemoveTags",
+        "cloudtrail:RestoreEventDataStore",
+        "cloudtrail:StartLogging",
+        "cloudtrail:StopLogging",
+        "cloudtrail:UpdateEventDataStore",
+        "cloudtrail:UpdateServiceLinkedChannel",
+        "cloudtrail:UpdateTrail"
+    ]
+}
