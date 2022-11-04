@@ -734,7 +734,8 @@
 "AWSDeepLensServiceRolePolicy","v6",True,"2019-09-25T19:25:06+00:00",1,4,0,2,0,0,10
 "AWSDeepLensServiceRolePolicy","v1",False,"2017-11-29T15:46:36+00:00",1,4,0,2,0,0,10
 "AmazonQLDBConsoleFullAccess","v2",False,"2020-05-19T17:45:54+00:00",1,1,0,0,0,0,12
-"AmazonQLDBConsoleFullAccess","v4",True,"2021-09-02T23:21:23+00:00",1,2,0,1,0,0,22
+"AmazonQLDBConsoleFullAccess","v5",True,"2022-11-04T17:01:10+00:00",1,2,0,1,0,0,22
+"AmazonQLDBConsoleFullAccess","v4",False,"2021-09-02T23:21:23+00:00",1,2,0,1,0,0,22
 "AmazonQLDBConsoleFullAccess","v3",False,"2021-05-27T17:22:17+00:00",1,1,0,0,0,0,12
 "AmazonQLDBConsoleFullAccess","v1",False,"2019-09-05T18:24:20+00:00",1,1,0,0,0,0,10
 "AWSCodeDeployRoleForECSLimited","v2",False,"2018-12-19T18:06:16+00:00",0,3,0,0,0,0,5
@@ -2269,7 +2270,8 @@
 "AmazonWorkMailMessageFlowReadOnlyAccess","v1",True,"2021-01-28T12:40:08+00:00",0,0,0,0,0,0,0
 "CertificateManagerServiceRolePolicy","v1",True,"2020-06-25T17:56:49+00:00",0,1,0,0,0,0,1
 "AmazonQLDBFullAccess","v2",False,"2020-05-19T17:47:10+00:00",0,1,0,0,0,0,9
-"AmazonQLDBFullAccess","v4",True,"2021-09-02T23:21:04+00:00",0,2,0,1,0,0,19
+"AmazonQLDBFullAccess","v5",True,"2022-11-04T17:01:27+00:00",0,2,0,1,0,0,19
+"AmazonQLDBFullAccess","v4",False,"2021-09-02T23:21:04+00:00",0,2,0,1,0,0,19
 "AmazonQLDBFullAccess","v3",False,"2021-05-27T17:15:06+00:00",0,1,0,0,0,0,9
 "AmazonQLDBFullAccess","v1",False,"2019-09-05T18:23:32+00:00",0,1,0,0,0,0,7
 "AWSBudgetsReadOnlyAccess","v1",True,"2020-10-15T17:18:28+00:00",0,0,0,0,0,0,0
