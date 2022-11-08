@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonWorkspacesPCAAccess",
+    "PolicyId": "ANPAZKAPJZG4EYKDVYFZC",
+    "Arn": "arn:aws:iam::aws:policy/AmazonWorkspacesPCAAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2022-11-08T00:25:55+00:00",
+    "UpdateDate": "2022-11-08T00:25:55+00:00"
+}

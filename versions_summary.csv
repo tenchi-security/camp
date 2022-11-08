@@ -913,6 +913,7 @@
 "AWSDirectoryServiceReadOnlyAccess","v4",True,"2018-09-25T21:54:01+00:00",0,0,0,0,0,0,0
 "AWSDirectoryServiceReadOnlyAccess","v3",False,"2016-02-24T23:11:18+00:00",0,0,0,0,0,0,0
 "AWSDirectoryServiceReadOnlyAccess","v1",False,"2015-02-06T18:41:12+00:00",0,0,0,0,0,0,0
+"AmazonWorkspacesPCAAccess","v1",True,"2022-11-08T00:25:55+00:00",0,0,0,0,0,0,0
 "AmazonEC2ContainerServiceEventsRole","v2",True,"2018-05-22T19:13:11+00:00",0,2,0,1,0,0,2
 "AmazonEC2ContainerServiceEventsRole","v1",False,"2017-05-30T16:51:35+00:00",0,1,0,0,0,0,1
 "AWSChatbotServiceLinkedRolePolicy","v1",True,"2019-11-18T16:39:50+00:00",0,1,0,0,0,0,1
