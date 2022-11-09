@@ -640,6 +640,7 @@
 "AWSConfigRulesExecutionRole","v1",False,"2016-03-25T17:59:36+00:00",0,1,0,0,0,0,5
 "IAMUserSSHKeys","v1",True,"2015-07-09T17:08:54+00:00",0,0,0,0,0,0,0
 "AmazonPollyFullAccess","v1",True,"2016-11-30T18:59:06+00:00",1,1,0,0,0,0,3
+"AmazonGrafanaServiceLinkedRolePolicy","v1",True,"2022-11-08T23:10:33+00:00",0,1,0,0,0,0,2
 "AWSIdentitySyncReadOnlyAccess","v1",True,"2022-03-23T23:29:52+00:00",0,0,0,0,0,0,0
 "AWSServiceRoleForEC2ScheduledInstances","v1",True,"2017-10-12T18:31:55+00:00",0,1,0,0,0,0,1
 "AWSCostAndUsageReportAutomationPolicy","v1",True,"2021-11-01T21:27:29+00:00",0,0,0,0,0,0,0
@@ -1484,7 +1485,8 @@
 "AWSOrganizationsReadOnlyAccess","v3",True,"2022-10-21T17:31:21+00:00",0,0,0,0,0,0,0
 "AWSOrganizationsReadOnlyAccess","v1",False,"2018-11-06T20:32:38+00:00",0,0,0,0,0,0,0
 "EC2FastLaunchServiceRolePolicy","v1",True,"2022-01-10T13:08:21+00:00",0,1,0,1,0,0,1
-"AWSMigrationHubStrategyConsoleFullAccess","v1",True,"2021-10-19T20:13:26+00:00",1,1,0,1,0,0,1
+"AWSMigrationHubStrategyConsoleFullAccess","v2",True,"2022-11-09T00:00:06+00:00",1,1,0,1,0,0,1
+"AWSMigrationHubStrategyConsoleFullAccess","v1",False,"2021-10-19T20:13:26+00:00",1,1,0,1,0,0,1
 "AmazonESFullAccess","v1",True,"2015-10-01T19:14:00+00:00",1,1,0,2,0,0,11
 "AWSIoTWirelessLogging","v1",True,"2020-12-15T15:32:40+00:00",0,0,0,0,0,0,0
 "AWSWellArchitectedOrganizationsServiceRolePolicy","v2",True,"2022-07-25T18:03:31+00:00",0,0,0,0,0,0,0
