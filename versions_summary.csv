@@ -292,6 +292,7 @@
 "AWSLambdaVPCAccessExecutionRole","v1",False,"2016-02-11T23:15:26+00:00",0,2,0,0,0,0,5
 "AWSTransferLoggingAccess","v1",True,"2019-01-14T15:32:50+00:00",0,1,0,0,0,0,3
 "ElementalActivationsDownloadSoftwareAccess","v1",True,"2020-09-08T17:26:09+00:00",0,0,0,0,0,0,0
+"AWSProtonCodeBuildProvisioningBasicAccess","v1",True,"2022-11-09T21:04:16+00:00",0,0,0,0,0,0,0
 "AutoScalingConsoleReadOnlyAccess","v1",True,"2017-01-12T19:48:53+00:00",0,0,0,0,0,0,0
 "AWSRoboMakerServiceRolePolicy","v1",True,"2018-11-26T05:33:19+00:00",0,3,0,2,0,0,4
 "AWSMigrationHubStrategyServiceRolePolicy","v1",True,"2021-10-19T20:02:37+00:00",0,0,0,0,0,0,0
@@ -1625,6 +1626,7 @@
 "AWSIoTThingsRegistration","v2",False,"2020-02-27T23:27:23+00:00",0,1,0,1,0,0,10
 "AWSIoTThingsRegistration","v3",True,"2020-10-05T19:20:12+00:00",0,1,0,3,0,0,12
 "AWSIoTThingsRegistration","v1",False,"2017-12-01T20:21:52+00:00",0,1,0,1,0,0,8
+"AWSProtonCodeBuildProvisioningServiceRolePolicy","v1",True,"2022-11-09T21:32:06+00:00",0,1,0,1,0,0,1
 "AWSIoTDataAccess","v2",False,"2017-11-16T18:24:11+00:00",0,1,0,0,0,0,6
 "AWSIoTDataAccess","v3",True,"2021-06-23T21:34:47+00:00",0,1,0,0,0,0,6
 "AWSIoTDataAccess","v1",False,"2015-10-27T21:51:18+00:00",0,1,0,0,0,0,5
