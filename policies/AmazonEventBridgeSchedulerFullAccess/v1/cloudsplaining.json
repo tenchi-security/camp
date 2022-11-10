@@ -1,0 +1,11 @@
+{
+    "ServiceWildcard": [
+        "scheduler"
+    ],
+    "ServicesAffected": [],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": []
+}

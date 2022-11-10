@@ -288,6 +288,7 @@
 "AWSSSOMasterAccountAdministrator","v1",False,"2018-06-27T20:36:51+00:00",1,2,0,31,0,0,17
 "NeptuneReadOnlyAccess","v2",True,"2022-08-03T18:53:32+00:00",0,0,0,0,0,0,0
 "NeptuneReadOnlyAccess","v1",False,"2018-05-30T19:16:37+00:00",0,0,0,0,0,0,0
+"AmazonEventBridgeSchedulerFullAccess","v1",True,"2022-11-10T18:37:25+00:00",1,0,0,0,0,0,0
 "AWSLambdaVPCAccessExecutionRole","v2",True,"2020-10-15T22:53:03+00:00",0,2,0,0,0,0,7
 "AWSLambdaVPCAccessExecutionRole","v1",False,"2016-02-11T23:15:26+00:00",0,2,0,0,0,0,5
 "AWSTransferLoggingAccess","v1",True,"2019-01-14T15:32:50+00:00",0,1,0,0,0,0,3
@@ -2105,6 +2106,7 @@
 "IAMAccessAdvisorReadOnly","v1",True,"2019-06-21T19:33:45+00:00",0,0,0,0,0,0,0
 "AmazonGrafanaRedshiftAccess","v1",True,"2021-11-26T23:15:15+00:00",0,2,0,0,0,0,2
 "AWSElementalMediaLiveFullAccess","v1",True,"2020-07-08T17:07:14+00:00",1,1,0,0,0,0,35
+"AmazonEventBridgeSchedulerReadOnlyAccess","v1",True,"2022-11-10T18:50:12+00:00",0,0,0,0,0,0,0
 "AWSRoboMakerServicePolicy","v2",False,"2019-04-04T22:15:35+00:00",0,3,0,2,0,0,4
 "AWSRoboMakerServicePolicy","v5",False,"2020-08-04T20:38:08+00:00",0,4,0,2,0,0,5
 "AWSRoboMakerServicePolicy","v4",False,"2020-02-04T19:33:08+00:00",0,4,0,2,0,0,5
