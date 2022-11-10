@@ -651,7 +651,8 @@
 "AWSElasticBeanstalkEnhancedHealth","v1",False,"2016-02-08T23:17:27+00:00",0,1,0,0,0,0,1
 "AWSProtonReadOnlyAccess","v2",True,"2022-04-21T12:33:42+00:00",0,0,0,0,0,0,0
 "AWSProtonReadOnlyAccess","v1",False,"2021-02-17T19:09:12+00:00",0,0,0,0,0,0,0
-"AmazonRDSCustomServiceRolePolicy","v1",True,"2021-10-08T21:39:12+00:00",0,1,0,0,0,0,6
+"AmazonRDSCustomServiceRolePolicy","v2",True,"2022-11-09T22:17:08+00:00",0,1,0,0,0,0,7
+"AmazonRDSCustomServiceRolePolicy","v1",False,"2021-10-08T21:39:12+00:00",0,1,0,0,0,0,6
 "AWSIoTRuleActions","v2",True,"2018-01-16T19:28:19+00:00",0,9,0,0,0,0,10
 "AWSIoTRuleActions","v1",False,"2015-10-08T15:14:51+00:00",0,6,0,0,0,0,7
 "AWSIoTLogging","v1",True,"2015-10-08T15:17:25+00:00",0,1,0,0,0,0,6
