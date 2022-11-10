@@ -1745,7 +1745,8 @@
 "AutoScalingServiceRolePolicy","v3",False,"2020-10-30T00:01:26+00:00",0,6,0,2,0,0,21
 "AutoScalingServiceRolePolicy","v6",True,"2021-10-29T22:06:23+00:00",0,7,0,2,1,0,24
 "AutoScalingServiceRolePolicy","v1",False,"2018-01-08T23:10:55+00:00",0,5,0,2,0,0,16
-"AmazonLookoutEquipmentReadOnlyAccess","v2",True,"2022-06-30T18:33:42+00:00",0,0,0,0,0,0,0
+"AmazonLookoutEquipmentReadOnlyAccess","v2",False,"2022-06-30T18:33:42+00:00",0,0,0,0,0,0,0
+"AmazonLookoutEquipmentReadOnlyAccess","v3",True,"2022-11-10T22:04:33+00:00",0,0,0,0,0,0,0
 "AmazonLookoutEquipmentReadOnlyAccess","v1",False,"2021-05-05T16:47:55+00:00",0,0,0,0,0,0,0
 "AWSApplicationMigrationReadOnlyAccess","v2",False,"2021-11-08T12:54:08+00:00",0,0,0,0,0,0,0
 "AWSApplicationMigrationReadOnlyAccess","v3",True,"2022-05-01T08:32:53+00:00",0,0,0,0,0,0,0
