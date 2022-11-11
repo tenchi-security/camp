@@ -1,0 +1,6 @@
+{
+    "VersionId": "v6",
+    "IsDefaultVersion": true,
+    "CreateDate": "2022-11-11T19:46:21+00:00",
+    "PolicyName": "AWSXrayReadOnlyAccess"
+}
