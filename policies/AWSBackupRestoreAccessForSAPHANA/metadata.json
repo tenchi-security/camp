@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSBackupRestoreAccessForSAPHANA",
+    "PolicyId": "ANPAZKAPJZG4KKKORFFTK",
+    "Arn": "arn:aws:iam::aws:policy/AWSBackupRestoreAccessForSAPHANA",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2022-11-10T22:43:27+00:00",
+    "UpdateDate": "2022-11-10T22:43:27+00:00"
+}

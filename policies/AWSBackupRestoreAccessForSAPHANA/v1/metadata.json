@@ -1,0 +1,6 @@
+{
+    "VersionId": "v1",
+    "IsDefaultVersion": true,
+    "CreateDate": "2022-11-10T22:43:27+00:00",
+    "PolicyName": "AWSBackupRestoreAccessForSAPHANA"
+}
