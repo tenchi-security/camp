@@ -2571,10 +2571,11 @@
 "AWSMigrationHubRefactorSpacesFullAccess","v1",False,"2021-11-29T07:12:55+00:00",1,4,0,1,0,0,21
 "AmazonAthenaFullAccess","v2",False,"2017-08-11T23:42:03+00:00",1,2,0,0,0,0,24
 "AmazonAthenaFullAccess","v5",False,"2019-02-19T00:13:03+00:00",1,3,0,0,0,0,26
+"AmazonAthenaFullAccess","v8",True,"2022-11-14T21:05:56+00:00",1,3,0,0,0,0,30
 "AmazonAthenaFullAccess","v4",False,"2018-05-21T18:47:32+00:00",1,2,0,0,0,0,24
 "AmazonAthenaFullAccess","v3",False,"2017-09-13T00:13:48+00:00",1,2,0,0,0,0,24
 "AmazonAthenaFullAccess","v6",False,"2019-08-08T17:52:27+00:00",1,3,0,0,0,0,26
-"AmazonAthenaFullAccess","v7",True,"2021-07-07T20:15:04+00:00",1,3,0,0,0,0,29
+"AmazonAthenaFullAccess","v7",False,"2021-07-07T20:15:04+00:00",1,3,0,0,0,0,29
 "AmazonAthenaFullAccess","v1",False,"2016-11-30T16:46:01+00:00",1,1,0,0,0,0,12
 "AmazonVPCFullAccess","v2",False,"2015-03-24T19:54:44+00:00",0,1,0,0,0,0,51
 "AmazonVPCFullAccess","v5",False,"2015-12-17T17:25:44+00:00",0,1,0,0,0,0,74
