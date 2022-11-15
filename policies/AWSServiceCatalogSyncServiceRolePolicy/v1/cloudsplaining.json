@@ -1,0 +1,15 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "servicecatalog"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "servicecatalog:CreateProvisioningArtifact",
+        "servicecatalog:DeleteProvisioningArtifact",
+        "servicecatalog:UpdateProvisioningArtifact"
+    ]
+}

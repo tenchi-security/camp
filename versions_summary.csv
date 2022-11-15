@@ -976,7 +976,7 @@
 "AWSBillingConductorFullAccess","v1",True,"2022-04-13T18:02:29+00:00",1,0,0,0,0,0,0
 "AWSIoTAnalyticsReadOnlyAccess","v1",True,"2018-06-18T21:37:49+00:00",0,0,0,0,0,0,0
 "AWSDeviceFarmServiceRolePolicy","v1",True,"2022-09-20T21:02:28+00:00",0,0,0,0,0,0,0
-"FMSServiceRolePolicy","v25",True,"2022-06-24T20:29:28+00:00",0,7,0,2,0,0,28
+"FMSServiceRolePolicy","v25",False,"2022-06-24T20:29:28+00:00",0,7,0,2,0,0,28
 "FMSServiceRolePolicy","v16",False,"2020-09-08T18:03:00+00:00",0,3,0,0,0,0,5
 "FMSServiceRolePolicy","v2",False,"2018-04-02T19:16:15+00:00",0,2,0,0,0,0,4
 "FMSServiceRolePolicy","v5",False,"2019-01-21T21:12:11+00:00",0,1,0,0,0,0,1
@@ -991,6 +991,7 @@
 "FMSServiceRolePolicy","v12",False,"2020-05-12T21:02:44+00:00",0,3,0,0,0,0,5
 "FMSServiceRolePolicy","v10",False,"2020-03-10T20:10:50+00:00",0,3,0,0,0,0,5
 "FMSServiceRolePolicy","v6",False,"2019-02-18T19:12:31+00:00",0,2,0,0,0,0,3
+"FMSServiceRolePolicy","v26",True,"2022-11-15T20:51:43+00:00",0,7,0,2,0,0,28
 "FMSServiceRolePolicy","v20",False,"2021-09-30T17:12:33+00:00",0,6,0,3,0,0,27
 "FMSServiceRolePolicy","v14",False,"2020-07-28T16:30:44+00:00",0,3,0,0,0,0,5
 "FMSServiceRolePolicy","v13",False,"2020-07-20T23:05:16+00:00",0,3,0,0,0,0,5
@@ -2448,6 +2449,7 @@
 "AmazonElasticFileSystemFullAccess","v7",False,"2021-05-10T14:25:43+00:00",0,3,0,3,0,0,20
 "AmazonElasticFileSystemFullAccess","v1",False,"2015-05-27T16:22:28+00:00",1,2,0,2,0,0,21
 "AWSApplicationAutoscalingEC2SpotFleetRequestPolicy","v1",True,"2017-10-25T18:23:27+00:00",0,2,0,0,0,0,3
+"AWSServiceCatalogSyncServiceRolePolicy","v1",True,"2022-11-15T21:20:15+00:00",0,1,0,0,0,0,3
 "AmazonEMRCleanupPolicy","v2",False,"2020-06-25T20:40:52+00:00",0,1,0,0,0,0,7
 "AmazonEMRCleanupPolicy","v3",True,"2020-09-29T21:11:54+00:00",0,1,0,0,0,0,7
 "AmazonEMRCleanupPolicy","v1",False,"2017-09-26T23:54:19+00:00",0,1,0,0,0,0,6
