@@ -1255,7 +1255,8 @@
 "AWSElasticDisasterRecoveryStagingAccountPolicy","v1",True,"2022-05-26T09:49:18+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerServiceCatalogProductsFirehoseServiceRolePolicy","v1",True,"2022-02-22T09:54:35+00:00",0,0,0,0,0,0,0
 "AWSSSODirectoryReadOnly","v2",False,"2019-11-26T22:37:16+00:00",0,0,0,0,0,0,0
-"AWSSSODirectoryReadOnly","v3",True,"2022-03-25T20:57:20+00:00",0,0,0,0,0,0,0
+"AWSSSODirectoryReadOnly","v4",True,"2022-11-16T18:17:48+00:00",0,0,0,0,0,0,0
+"AWSSSODirectoryReadOnly","v3",False,"2022-03-25T20:57:20+00:00",0,0,0,0,0,0,0
 "AWSSSODirectoryReadOnly","v1",False,"2018-10-31T23:49:32+00:00",0,0,0,0,0,0,0
 "AlexaForBusinessPolyDelegatedAccessPolicy","v1",True,"2019-10-16T19:48:45+00:00",0,1,0,0,0,0,4
 "AWSMigrationHubSMSAccess","v2",True,"2019-10-07T18:01:22+00:00",0,0,0,0,0,0,0
