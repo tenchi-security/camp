@@ -1900,6 +1900,7 @@
 "AWSMobileHub_ReadOnly","v1",False,"2016-01-05T19:55:48+00:00",0,0,0,0,0,0,0
 "AWSMobileHub_ReadOnly","v9",False,"2018-02-05T23:24:53+00:00",0,0,0,0,0,0,0
 "AWSApplicationAutoscalingElastiCacheRGPolicy","v1",True,"2021-08-17T23:41:42+00:00",0,1,0,0,0,0,3
+"AWSSSMForSAPServiceLinkedRolePolicy","v1",True,"2022-11-16T01:18:21+00:00",0,0,0,0,0,0,0
 "AmazonKinesisAnalyticsReadOnly","v1",True,"2016-09-21T18:16:43+00:00",0,0,0,0,0,0,0
 "AWSCodePipelineReadOnlyAccess","v2",False,"2015-07-09T22:02:56+00:00",0,1,0,0,1,0,1
 "AWSCodePipelineReadOnlyAccess","v5",False,"2016-11-04T00:08:16+00:00",0,1,0,0,1,0,1
