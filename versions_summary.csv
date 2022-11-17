@@ -362,6 +362,7 @@
 "AWSDataLifecycleManagerServiceRoleForAMIManagement","v1",False,"2020-10-21T19:39:41+00:00",0,1,0,0,0,0,5
 "AmazonS3OutpostsFullAccess","v1",True,"2020-10-02T17:26:30+00:00",1,1,0,5,0,0,18
 "AWSAppMeshEnvoyAccess","v1",True,"2019-07-03T21:29:37+00:00",0,0,0,0,0,0,0
+"AWSSystemsManagerForSAPReadOnlyAccess","v1",True,"2022-11-17T02:11:44+00:00",0,0,0,0,0,0,0
 "AWSCodeCommitPowerUser","v2",False,"2015-10-22T17:21:25+00:00",0,1,0,0,0,0,16
 "AWSCodeCommitPowerUser","v5",False,"2019-05-15T23:18:26+00:00",0,1,0,0,0,0,33
 "AWSCodeCommitPowerUser","v8",False,"2019-11-05T20:55:56+00:00",0,2,0,0,0,0,37
@@ -2620,6 +2621,7 @@
 "AmazonInspectorReadOnlyAccess","v4",True,"2019-10-01T15:17:54+00:00",0,0,0,0,0,0,0
 "AmazonInspectorReadOnlyAccess","v3",False,"2017-09-12T16:53:06+00:00",0,0,0,0,0,0,0
 "AmazonInspectorReadOnlyAccess","v1",False,"2015-10-07T17:08:01+00:00",0,0,0,0,0,0,0
+"AWSSystemsManagerForSAPFullAccess","v1",True,"2022-11-17T02:11:09+00:00",1,0,0,0,0,0,0
 "SupportUser","v2",False,"2017-05-17T23:11:51+00:00",1,1,0,0,0,1,1
 "SupportUser","v5",False,"2021-06-11T19:46:10+00:00",1,1,0,0,0,1,1
 "SupportUser","v4",False,"2020-08-18T22:30:18+00:00",1,1,0,0,0,1,1
@@ -2721,7 +2723,8 @@
 "AWSAppMeshServiceRolePolicy","v2",True,"2019-09-10T22:44:43+00:00",0,0,0,0,0,0,0
 "AWSAppMeshServiceRolePolicy","v1",False,"2019-06-03T18:30:51+00:00",0,0,0,0,0,0,0
 "AWSNetworkManagerCloudWANServiceRolePolicy","v1",True,"2022-07-12T12:17:49+00:00",0,1,0,0,0,0,2
-"AmazonMWAAServiceRolePolicy","v1",True,"2020-11-24T14:13:41+00:00",0,1,0,2,0,0,5
+"AmazonMWAAServiceRolePolicy","v2",True,"2022-11-17T00:56:25+00:00",0,1,0,2,0,0,6
+"AmazonMWAAServiceRolePolicy","v1",False,"2020-11-24T14:13:41+00:00",0,1,0,2,0,0,5
 "AmazonEKSWorkerNodePolicy","v2",True,"2022-03-21T22:39:36+00:00",0,0,0,0,0,0,0
 "AmazonEKSWorkerNodePolicy","v1",False,"2018-05-27T21:09:01+00:00",0,0,0,0,0,0,0
 "AWSCodeDeployRole","v2",False,"2016-02-17T16:35:27+00:00",0,2,0,0,0,0,5
