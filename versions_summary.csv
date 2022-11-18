@@ -2629,7 +2629,8 @@
 "AmazonInspectorReadOnlyAccess","v4",True,"2019-10-01T15:17:54+00:00",0,0,0,0,0,0,0
 "AmazonInspectorReadOnlyAccess","v3",False,"2017-09-12T16:53:06+00:00",0,0,0,0,0,0,0
 "AmazonInspectorReadOnlyAccess","v1",False,"2015-10-07T17:08:01+00:00",0,0,0,0,0,0,0
-"AWSSystemsManagerForSAPFullAccess","v1",True,"2022-11-17T02:11:09+00:00",1,0,0,0,0,0,0
+"AWSSystemsManagerForSAPFullAccess","v2",True,"2022-11-18T21:58:54+00:00",1,0,0,0,0,0,0
+"AWSSystemsManagerForSAPFullAccess","v1",False,"2022-11-17T02:11:09+00:00",1,0,0,0,0,0,0
 "SupportUser","v2",False,"2017-05-17T23:11:51+00:00",1,1,0,0,0,1,1
 "SupportUser","v5",False,"2021-06-11T19:46:10+00:00",1,1,0,0,0,1,1
 "SupportUser","v4",False,"2020-08-18T22:30:18+00:00",1,1,0,0,0,1,1
