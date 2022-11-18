@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4E5BC3XLFS",
     "Arn": "arn:aws:iam::aws:policy/AWSBackupOrganizationAdminAccess",
     "Path": "/",
-    "DefaultVersionId": "v2",
+    "DefaultVersionId": "v3",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2020-06-24T16:23:14+00:00",
-    "UpdateDate": "2020-11-24T22:09:43+00:00"
+    "UpdateDate": "2022-11-18T18:26:40+00:00"
 }

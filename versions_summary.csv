@@ -80,7 +80,8 @@
 "AmazonSageMakerServiceCatalogProductsGlueServiceRolePolicy","v2",True,"2022-08-26T19:13:02+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerServiceCatalogProductsGlueServiceRolePolicy","v1",False,"2022-02-22T09:51:13+00:00",0,0,0,0,0,0,0
 "AmazonHoneycodeFullAccess","v1",True,"2020-06-24T20:28:11+00:00",1,1,0,0,0,0,6
-"AWSBackupOrganizationAdminAccess","v2",True,"2020-11-24T22:09:43+00:00",0,1,0,0,0,0,6
+"AWSBackupOrganizationAdminAccess","v2",False,"2020-11-24T22:09:43+00:00",0,1,0,0,0,0,6
+"AWSBackupOrganizationAdminAccess","v3",True,"2022-11-18T18:26:40+00:00",0,1,0,0,0,0,6
 "AWSBackupOrganizationAdminAccess","v1",False,"2020-06-24T16:23:14+00:00",0,1,0,0,0,0,6
 "AmazonECSTaskExecutionRolePolicy","v1",True,"2017-11-16T18:48:22+00:00",0,2,0,0,0,1,2
 "AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v2",False,"2021-07-02T06:13:39+00:00",0,3,0,0,0,0,14
@@ -653,7 +654,8 @@
 "AWSElasticBeanstalkEnhancedHealth","v4",True,"2018-04-09T22:12:53+00:00",0,2,0,0,0,0,2
 "AWSElasticBeanstalkEnhancedHealth","v3",False,"2018-03-01T22:59:05+00:00",0,2,0,0,0,0,2
 "AWSElasticBeanstalkEnhancedHealth","v1",False,"2016-02-08T23:17:27+00:00",0,1,0,0,0,0,1
-"AWSProtonReadOnlyAccess","v2",True,"2022-04-21T12:33:42+00:00",0,0,0,0,0,0,0
+"AWSProtonReadOnlyAccess","v2",False,"2022-04-21T12:33:42+00:00",0,0,0,0,0,0,0
+"AWSProtonReadOnlyAccess","v3",True,"2022-11-18T18:28:24+00:00",0,0,0,0,0,0,0
 "AWSProtonReadOnlyAccess","v1",False,"2021-02-17T19:09:12+00:00",0,0,0,0,0,0,0
 "AmazonRDSCustomServiceRolePolicy","v2",True,"2022-11-09T22:17:08+00:00",0,1,0,0,0,0,7
 "AmazonRDSCustomServiceRolePolicy","v1",False,"2021-10-08T21:39:12+00:00",0,1,0,0,0,0,6
@@ -2561,7 +2563,8 @@
 "AWSOpsWorksCloudWatchLogs","v1",True,"2017-03-30T17:47:19+00:00",0,0,0,0,0,0,0
 "AWSKeyManagementServiceCustomKeyStoresServiceRolePolicy","v1",True,"2018-11-14T20:10:53+00:00",0,1,0,0,0,0,5
 "AmazonChimeTranscriptionServiceLinkedRolePolicy","v1",True,"2021-08-04T21:47:41+00:00",0,0,0,0,0,0,0
-"AWSProtonDeveloperAccess","v2",True,"2022-04-21T12:57:14+00:00",0,1,0,0,0,0,7
+"AWSProtonDeveloperAccess","v2",False,"2022-04-21T12:57:14+00:00",0,1,0,0,0,0,7
+"AWSProtonDeveloperAccess","v3",True,"2022-11-18T18:35:07+00:00",0,1,0,0,0,0,7
 "AWSProtonDeveloperAccess","v1",False,"2021-02-17T19:02:08+00:00",0,1,0,0,0,0,5
 "AmazonDocDBReadOnlyAccess","v1",True,"2019-01-09T20:30:28+00:00",0,0,0,0,0,0,0
 "AWSImportExportReadOnlyAccess","v1",True,"2015-02-06T18:40:42+00:00",0,0,0,0,0,0,0
