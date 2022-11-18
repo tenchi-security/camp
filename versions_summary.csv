@@ -2872,7 +2872,8 @@
 "AmazonRedshiftDataFullAccess","v4",True,"2022-07-12T03:34:16+00:00",0,2,0,0,0,0,3
 "AmazonRedshiftDataFullAccess","v3",False,"2022-07-08T01:44:27+00:00",0,2,0,0,0,0,3
 "AmazonRedshiftDataFullAccess","v1",False,"2020-09-09T19:23:55+00:00",0,1,0,0,0,0,1
-"AmazonEBSCSIDriverPolicy","v1",True,"2022-04-04T17:24:29+00:00",0,1,0,0,0,0,7
+"AmazonEBSCSIDriverPolicy","v2",True,"2022-11-18T14:42:46+00:00",0,1,0,0,0,0,7
+"AmazonEBSCSIDriverPolicy","v1",False,"2022-04-04T17:24:29+00:00",0,1,0,0,0,0,7
 "AWSElasticDisasterRecoveryFailbackInstallationPolicy","v2",True,"2022-06-27T09:13:40+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryFailbackInstallationPolicy","v1",False,"2021-11-17T11:02:03+00:00",0,0,0,0,0,0,0
 "AmazonMQServiceRolePolicy","v1",True,"2020-11-04T16:07:17+00:00",0,0,0,0,0,0,0
