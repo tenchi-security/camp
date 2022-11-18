@@ -6,6 +6,7 @@
 "AWSElasticDisasterRecoveryServiceRolePolicy","v1",False,"2021-11-17T10:56:17+00:00",0,1,0,0,0,0,1
 "AmazonRoute53AutoNamingRegistrantAccess","v1",True,"2018-03-12T22:33:20+00:00",0,2,0,0,0,0,5
 "CloudWatch-CrossAccountAccess","v1",True,"2019-07-23T09:59:27+00:00",0,0,0,0,0,0,0
+"AmazonOpenSearchIngestionServiceRolePolicy","v1",True,"2022-11-18T16:49:50+00:00",0,0,0,0,0,0,0
 "AmazonRedshiftQueryEditor","v2",False,"2020-09-09T19:51:14+00:00",0,2,0,0,0,1,4
 "AmazonRedshiftQueryEditor","v4",True,"2021-02-16T19:33:45+00:00",0,1,0,0,0,1,1
 "AmazonRedshiftQueryEditor","v3",False,"2020-09-11T01:07:22+00:00",0,1,0,0,0,1,1
