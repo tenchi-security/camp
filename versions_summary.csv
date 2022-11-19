@@ -218,7 +218,7 @@
 "WorkLinkServiceRolePolicy","v1",True,"2019-01-23T19:03:45+00:00",0,1,0,2,0,0,4
 "SecurityAudit","v34",False,"2020-12-15T00:04:54+00:00",0,1,0,2,0,0,2
 "SecurityAudit","v25",False,"2019-01-11T01:51:30+00:00",0,1,0,2,0,0,2
-"SecurityAudit","v36",True,"2022-10-06T19:49:40+00:00",0,1,0,2,0,0,2
+"SecurityAudit","v36",False,"2022-10-06T19:49:40+00:00",0,1,0,2,0,0,2
 "SecurityAudit","v16",False,"2018-02-05T21:51:47+00:00",0,0,0,0,0,0,0
 "SecurityAudit","v28",False,"2019-06-06T18:09:18+00:00",0,1,0,2,0,0,2
 "SecurityAudit","v29",False,"2019-07-18T20:16:48+00:00",0,1,0,2,0,0,2
@@ -229,6 +229,7 @@
 "SecurityAudit","v30",False,"2019-08-16T10:06:35+00:00",0,1,0,2,0,0,2
 "SecurityAudit","v18",False,"2018-05-01T20:06:14+00:00",0,0,0,0,0,0,0
 "SecurityAudit","v22",False,"2018-09-17T20:33:00+00:00",0,0,0,0,0,0,0
+"SecurityAudit","v37",True,"2022-11-19T01:02:40+00:00",0,1,0,2,0,0,2
 "SecurityAudit","v4",False,"2015-12-14T17:19:36+00:00",0,0,0,0,0,0,0
 "SecurityAudit","v19",False,"2018-05-15T18:30:21+00:00",0,0,0,0,0,0,0
 "SecurityAudit","v32",False,"2020-02-25T16:08:50+00:00",0,1,0,2,0,0,2
@@ -1031,10 +1032,10 @@
 "AmazonSQSReadOnlyAccess","v1",False,"2015-02-06T18:41:08+00:00",0,0,0,0,0,0,0
 "AWSBatchServiceEventTargetRole","v1",True,"2018-02-28T22:31:13+00:00",0,1,0,0,0,0,1
 "AWSServiceCatalogAdminFullAccess","v2",False,"2018-09-29T00:29:55+00:00",1,2,0,3,0,0,35
-"AWSServiceCatalogAdminFullAccess","v5",False,"2019-02-06T01:57:54+00:00",1,2,0,3,0,0,35
+"AWSServiceCatalogAdminFullAccess","v5",True,"2019-02-06T01:57:54+00:00",1,2,0,3,0,0,35
 "AWSServiceCatalogAdminFullAccess","v4",False,"2018-11-02T23:07:49+00:00",1,2,0,3,0,0,35
 "AWSServiceCatalogAdminFullAccess","v3",False,"2018-10-16T23:15:23+00:00",1,2,0,3,0,0,35
-"AWSServiceCatalogAdminFullAccess","v6",True,"2022-11-17T23:03:44+00:00",0,2,0,4,0,0,36
+"AWSServiceCatalogAdminFullAccess","v6",False,"2022-11-17T23:03:44+00:00",0,2,0,4,0,0,36
 "AWSServiceCatalogAdminFullAccess","v1",False,"2018-02-15T17:19:40+00:00",1,2,0,3,0,0,35
 "AmazonLookoutMetricsFullAccess","v1",True,"2021-05-07T00:43:38+00:00",1,1,0,0,0,0,12
 "CloudWatchSyntheticsFullAccess","v2",False,"2020-04-03T17:53:31+00:00",1,1,0,0,0,0,6
