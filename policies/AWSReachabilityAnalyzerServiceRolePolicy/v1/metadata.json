@@ -1,0 +1,6 @@
+{
+    "VersionId": "v1",
+    "IsDefaultVersion": true,
+    "CreateDate": "2022-11-23T17:12:28+00:00",
+    "PolicyName": "AWSReachabilityAnalyzerServiceRolePolicy"
+}
