@@ -2986,6 +2986,7 @@
 "AWSApplicationDiscoveryServiceFullAccess","v2",False,"2018-01-16T21:35:48+00:00",2,1,0,0,0,0,9
 "AWSApplicationDiscoveryServiceFullAccess","v4",True,"2019-06-19T21:21:26+00:00",2,2,0,1,0,0,10
 "AWSApplicationDiscoveryServiceFullAccess","v1",False,"2016-05-11T21:30:50+00:00",1,0,0,0,0,0,0
+"AmazonOpenSearchServerlessServiceRolePolicy","v1",True,"2022-11-24T19:50:12+00:00",0,0,0,0,0,0,0
 "AmazonEKSConnectorServiceRolePolicy","v1",True,"2021-09-04T20:31:08+00:00",0,2,0,1,0,0,3
 "AWSElasticDisasterRecoveryAgentPolicy","v1",True,"2021-11-17T10:32:32+00:00",0,0,0,0,0,0,0
 "KafkaConnectServiceRolePolicy","v1",True,"2021-09-07T13:12:44+00:00",0,0,0,0,0,0,0
