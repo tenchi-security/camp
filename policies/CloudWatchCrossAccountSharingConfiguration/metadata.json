@@ -1,0 +1,12 @@
+{
+    "PolicyName": "CloudWatchCrossAccountSharingConfiguration",
+    "PolicyId": "ANPAZKAPJZG4PJS4RPZHS",
+    "Arn": "arn:aws:iam::aws:policy/CloudWatchCrossAccountSharingConfiguration",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2022-11-27T14:01:10+00:00",
+    "UpdateDate": "2022-11-27T14:01:10+00:00"
+}

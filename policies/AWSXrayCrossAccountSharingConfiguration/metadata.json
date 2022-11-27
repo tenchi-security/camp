@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSXrayCrossAccountSharingConfiguration",
+    "PolicyId": "ANPAZKAPJZG4HNLJFUIQJ",
+    "Arn": "arn:aws:iam::aws:policy/AWSXrayCrossAccountSharingConfiguration",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2022-11-27T13:46:35+00:00",
+    "UpdateDate": "2022-11-27T13:46:35+00:00"
+}

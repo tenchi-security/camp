@@ -114,8 +114,9 @@
 "AmazonRedshiftDataFullAccess","v4",True,"2022-07-12T03:34:16+00:00",0,2,0,0,0,0,3
 "AmazonRedshiftDataFullAccess","v1",False,"2020-09-09T19:23:55+00:00",0,1,0,0,0,0,1
 "AmazonSESFullAccess","v1",True,"2015-02-06T18:41:02+00:00",1,1,0,3,0,0,36
-"CloudWatchFullAccess","v3",True,"2018-08-09T19:10:43+00:00",3,3,0,6,0,0,40
+"CloudWatchFullAccess","v3",False,"2018-08-09T19:10:43+00:00",3,3,0,6,0,0,40
 "CloudWatchFullAccess","v2",False,"2017-12-13T17:52:41+00:00",3,3,0,6,0,0,40
+"CloudWatchFullAccess","v4",True,"2022-11-27T13:23:49+00:00",3,3,0,4,0,0,45
 "CloudWatchFullAccess","v1",False,"2015-02-06T18:40:00+00:00",3,3,0,6,0,0,40
 "AWSServiceRoleForEC2ScheduledInstances","v1",True,"2017-10-12T18:31:55+00:00",0,1,0,0,0,0,1
 "AWSPurchaseOrdersServiceRolePolicy","v2",True,"2021-11-22T20:06:47+00:00",0,0,0,0,0,0,0
@@ -602,6 +603,7 @@
 "AWSXRayDaemonWriteAccess","v1",True,"2018-08-28T23:00:33+00:00",0,0,0,0,0,0,0
 "ElementalActivationsFullAccess","v1",True,"2020-06-04T21:00:13+00:00",1,1,0,0,0,0,2
 "AlexaForBusinessPolyDelegatedAccessPolicy","v1",True,"2019-10-16T19:48:45+00:00",0,1,0,0,0,0,4
+"OAMReadOnlyAccess","v1",True,"2022-11-27T13:29:39+00:00",0,0,0,0,0,0,0
 "AmazonConnectReadOnlyAccess","v3",True,"2019-11-06T22:10:18+00:00",0,1,0,0,0,1,1
 "AmazonConnectReadOnlyAccess","v2",False,"2019-11-06T01:34:37+00:00",0,1,0,0,0,0,1
 "AmazonConnectReadOnlyAccess","v1",False,"2018-10-17T21:00:44+00:00",0,1,0,0,0,1,1
@@ -874,9 +876,10 @@
 "AWSServiceRoleForImageBuilder","v10",False,"2020-08-31T20:49:10+00:00",0,6,0,2,0,0,18
 "AWSServiceRoleForImageBuilder","v1",False,"2019-11-29T22:02:13+00:00",0,6,0,1,0,0,16
 "AWSElasticDisasterRecoveryConversionServerPolicy","v1",True,"2021-11-17T13:42:23+00:00",0,0,0,0,0,0,0
+"CloudWatchReadOnlyAccess","v5",True,"2022-11-27T13:08:46+00:00",0,0,0,0,0,0,0
 "CloudWatchReadOnlyAccess","v3",False,"2018-05-10T21:40:42+00:00",0,0,0,0,0,0,0
 "CloudWatchReadOnlyAccess","v2",False,"2017-11-02T20:50:10+00:00",0,0,0,0,0,0,0
-"CloudWatchReadOnlyAccess","v4",True,"2020-07-17T17:49:09+00:00",0,0,0,0,0,0,0
+"CloudWatchReadOnlyAccess","v4",False,"2020-07-17T17:49:09+00:00",0,0,0,0,0,0,0
 "CloudWatchReadOnlyAccess","v1",False,"2015-02-06T18:40:01+00:00",0,0,0,0,0,0,0
 "MonitronServiceRolePolicy","v1",True,"2022-05-02T19:22:03+00:00",0,0,0,0,0,0,0
 "AWSIotRoboRunnerFullAccess","v1",True,"2021-11-29T03:54:37+00:00",1,0,0,0,0,0,0
@@ -1696,6 +1699,7 @@
 "GameLiftGameServerGroupPolicy","v1",False,"2020-04-03T23:12:19+00:00",0,2,0,0,0,0,8
 "AWSIoTRuleActions","v2",True,"2018-01-16T19:28:19+00:00",0,9,0,0,0,0,10
 "AWSIoTRuleActions","v1",False,"2015-10-08T15:14:51+00:00",0,6,0,0,0,0,7
+"CloudWatchLogsCrossAccountSharingConfiguration","v1",True,"2022-11-27T13:55:22+00:00",0,0,0,0,0,0,0
 "AmazonFSxFullAccess","v3",False,"2021-08-26T13:17:29+00:00",1,2,0,3,0,0,17
 "AmazonFSxFullAccess","v2",False,"2021-06-08T12:05:31+00:00",1,2,0,2,0,0,13
 "AmazonFSxFullAccess","v4",True,"2022-09-29T18:27:51+00:00",1,2,0,3,0,0,32
@@ -1962,6 +1966,7 @@
 "AWSControlTowerServiceRolePolicy","v1",False,"2019-05-03T18:19:11+00:00",0,3,0,0,0,0,3
 "AWSResourceGroupsReadOnlyAccess","v2",True,"2019-02-05T17:56:25+00:00",0,0,0,0,0,0,0
 "AWSResourceGroupsReadOnlyAccess","v1",False,"2018-03-07T10:27:04+00:00",0,0,0,0,0,0,0
+"AWSXrayCrossAccountSharingConfiguration","v1",True,"2022-11-27T13:46:35+00:00",0,0,0,0,0,0,0
 "CloudTrailServiceRolePolicy","v2",True,"2022-11-03T20:35:01+00:00",1,1,0,0,0,0,16
 "CloudTrailServiceRolePolicy","v1",False,"2018-10-24T21:21:44+00:00",1,1,0,0,0,0,9
 "AWSResourceAccessManagerReadOnlyAccess","v1",True,"2019-12-09T20:58:37+00:00",0,0,0,0,0,0,0
@@ -2206,6 +2211,7 @@
 "AWSElasticBeanstalkMulticontainerDocker","v1",False,"2016-02-08T23:15:29+00:00",0,1,0,0,0,0,9
 "AWSStorageGatewayReadOnlyAccess","v2",True,"2022-09-06T20:24:17+00:00",0,0,0,0,0,0,0
 "AWSStorageGatewayReadOnlyAccess","v1",False,"2015-02-06T18:41:10+00:00",0,0,0,0,0,0,0
+"OAMFullAccess","v1",True,"2022-11-27T13:38:29+00:00",1,0,0,0,0,0,0
 "AWSAppMeshFullAccess","v5",False,"2020-03-05T23:36:53+00:00",1,1,0,0,0,0,23
 "AWSAppMeshFullAccess","v3",False,"2019-07-18T21:18:35+00:00",1,1,0,0,0,0,23
 "AWSAppMeshFullAccess","v2",False,"2019-06-05T18:47:32+00:00",1,1,0,0,0,0,23
@@ -2739,6 +2745,7 @@
 "AWSHealthFullAccess","v1",False,"2016-12-06T12:30:31+00:00",1,0,0,2,0,0,0
 "ElementalActivationsDownloadSoftwareAccess","v1",True,"2020-09-08T17:26:09+00:00",0,0,0,0,0,0,0
 "ElementalAppliancesSoftwareReadOnlyAccess","v1",True,"2020-04-01T22:31:09+00:00",0,0,0,0,0,0,0
+"CloudWatchCrossAccountSharingConfiguration","v1",True,"2022-11-27T14:01:10+00:00",0,0,0,0,0,0,0
 "AWSIoTSiteWiseMonitorPortalAccess","v1",True,"2020-05-19T20:01:21+00:00",0,1,0,0,0,0,11
 "AWSApplicationDiscoveryAgentAccess","v2",True,"2020-02-24T22:26:45+00:00",0,0,0,0,0,0,0
 "AWSApplicationDiscoveryAgentAccess","v1",False,"2016-05-11T21:38:47+00:00",0,0,0,0,0,0,0
