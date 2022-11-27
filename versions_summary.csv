@@ -753,6 +753,7 @@
 "AmazonFSxConsoleFullAccess","v6",True,"2022-09-22T14:08:01+00:00",1,2,0,3,0,0,32
 "AmazonFSxConsoleFullAccess","v1",False,"2018-11-28T16:36:05+00:00",1,2,0,2,0,0,13
 "AWSApplicationAutoscalingComprehendEndpointPolicy","v1",True,"2019-11-14T18:39:07+00:00",0,2,0,0,0,0,3
+"CloudWatchInternetMonitorServiceRolePolicy","v1",True,"2022-11-27T17:46:24+00:00",0,0,0,0,0,0,0
 "AmazonSQSReadOnlyAccess","v2",True,"2018-08-20T23:35:49+00:00",0,0,0,0,0,0,0
 "AmazonSQSReadOnlyAccess","v1",False,"2015-02-06T18:41:08+00:00",0,0,0,0,0,0,0
 "AmazonTimestreamConsoleFullAccess","v3",False,"2021-11-26T23:43:50+00:00",1,2,0,1,0,0,10
