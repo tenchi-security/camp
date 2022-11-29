@@ -835,7 +835,8 @@
 "AWSMigrationHubFullAccess","v2",False,"2017-08-14T14:09:27+00:00",2,1,0,0,0,0,9
 "AWSMigrationHubFullAccess","v4",True,"2019-06-19T21:14:41+00:00",2,2,0,1,0,0,10
 "AWSMigrationHubFullAccess","v1",False,"2017-08-14T14:02:54+00:00",2,1,0,0,0,0,9
-"ElasticLoadBalancingReadOnly","v1",True,"2018-09-20T20:17:09+00:00",0,0,0,0,0,0,0
+"ElasticLoadBalancingReadOnly","v2",True,"2022-11-29T01:44:23+00:00",0,0,0,0,0,0,0
+"ElasticLoadBalancingReadOnly","v1",False,"2018-09-20T20:17:09+00:00",0,0,0,0,0,0,0
 "AWSOpsWorksCloudWatchLogs","v1",True,"2017-03-30T17:47:19+00:00",0,0,0,0,0,0,0
 "AmazonLaunchWizard_Fullaccess","v8",False,"2021-02-12T17:06:05+00:00",2,8,0,3,3,1,80
 "AmazonLaunchWizard_Fullaccess","v5",False,"2020-11-14T02:27:14+00:00",2,8,0,3,3,1,80
@@ -1947,7 +1948,8 @@
 "ElasticLoadBalancingFullAccess","v3",False,"2018-12-12T18:49:21+00:00",1,2,0,1,0,0,24
 "ElasticLoadBalancingFullAccess","v2",False,"2018-12-03T18:07:30+00:00",1,2,0,1,0,0,24
 "ElasticLoadBalancingFullAccess","v4",False,"2019-03-25T21:33:12+00:00",1,2,0,1,0,0,24
-"ElasticLoadBalancingFullAccess","v6",True,"2021-08-26T18:32:13+00:00",1,2,0,1,0,0,24
+"ElasticLoadBalancingFullAccess","v7",True,"2022-11-29T01:45:49+00:00",2,2,0,1,0,0,41
+"ElasticLoadBalancingFullAccess","v6",False,"2021-08-26T18:32:13+00:00",1,2,0,1,0,0,24
 "ElasticLoadBalancingFullAccess","v1",False,"2018-09-20T20:42:07+00:00",1,2,0,1,0,0,24
 "AWSIQFullAccess","v2",True,"2019-09-25T20:22:34+00:00",2,1,0,1,0,0,1
 "AWSIQFullAccess","v1",False,"2019-04-04T23:13:42+00:00",1,0,0,0,0,0,0

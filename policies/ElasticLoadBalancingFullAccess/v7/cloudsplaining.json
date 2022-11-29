@@ -1,0 +1,59 @@
+{
+    "ServiceWildcard": [
+        "arc-zonal-shift",
+        "elasticloadbalancing"
+    ],
+    "ServicesAffected": [
+        "elasticloadbalancing",
+        "iam"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:CreateServiceLinkedRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "elasticloadbalancing:AddListenerCertificates",
+        "elasticloadbalancing:AddTags",
+        "elasticloadbalancing:ApplySecurityGroupsToLoadBalancer",
+        "elasticloadbalancing:AttachLoadBalancerToSubnets",
+        "elasticloadbalancing:ConfigureHealthCheck",
+        "elasticloadbalancing:CreateAppCookieStickinessPolicy",
+        "elasticloadbalancing:CreateLBCookieStickinessPolicy",
+        "elasticloadbalancing:CreateListener",
+        "elasticloadbalancing:CreateLoadBalancer",
+        "elasticloadbalancing:CreateLoadBalancerListeners",
+        "elasticloadbalancing:CreateLoadBalancerPolicy",
+        "elasticloadbalancing:CreateRule",
+        "elasticloadbalancing:CreateTargetGroup",
+        "elasticloadbalancing:DeleteListener",
+        "elasticloadbalancing:DeleteLoadBalancer",
+        "elasticloadbalancing:DeleteLoadBalancerListeners",
+        "elasticloadbalancing:DeleteLoadBalancerPolicy",
+        "elasticloadbalancing:DeleteRule",
+        "elasticloadbalancing:DeleteTargetGroup",
+        "elasticloadbalancing:DeregisterInstancesFromLoadBalancer",
+        "elasticloadbalancing:DeregisterTargets",
+        "elasticloadbalancing:DetachLoadBalancerFromSubnets",
+        "elasticloadbalancing:DisableAvailabilityZonesForLoadBalancer",
+        "elasticloadbalancing:EnableAvailabilityZonesForLoadBalancer",
+        "elasticloadbalancing:ModifyListener",
+        "elasticloadbalancing:ModifyLoadBalancerAttributes",
+        "elasticloadbalancing:ModifyRule",
+        "elasticloadbalancing:ModifyTargetGroup",
+        "elasticloadbalancing:ModifyTargetGroupAttributes",
+        "elasticloadbalancing:RegisterInstancesWithLoadBalancer",
+        "elasticloadbalancing:RegisterTargets",
+        "elasticloadbalancing:RemoveListenerCertificates",
+        "elasticloadbalancing:RemoveTags",
+        "elasticloadbalancing:SetIpAddressType",
+        "elasticloadbalancing:SetLoadBalancerListenerSSLCertificate",
+        "elasticloadbalancing:SetLoadBalancerPoliciesForBackendServer",
+        "elasticloadbalancing:SetLoadBalancerPoliciesOfListener",
+        "elasticloadbalancing:SetRulePriorities",
+        "elasticloadbalancing:SetSecurityGroups",
+        "elasticloadbalancing:SetSubnets",
+        "iam:CreateServiceLinkedRole"
+    ]
+}
