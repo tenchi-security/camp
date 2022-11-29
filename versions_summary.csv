@@ -1752,6 +1752,7 @@
 "AmazonSageMakerReadOnly","v10",False,"2021-06-10T20:19:55+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerReadOnly","v1",False,"2017-11-29T13:07:09+00:00",0,0,0,0,0,0,0
 "AWSVendorInsightsAssessorFullAccess","v1",True,"2022-07-26T15:05:40+00:00",0,0,0,0,0,0,0
+"AmazonSecurityLakePermissionsBoundary","v1",True,"2022-11-29T14:11:12+00:00",0,3,0,0,0,0,7
 "AWSMigrationHubStrategyServiceRolePolicy","v1",True,"2021-10-19T20:02:37+00:00",0,0,0,0,0,0,0
 "AWSLicenseManagerConsumptionPolicy","v1",True,"2021-08-11T23:18:08+00:00",0,0,0,0,0,0,0
 "AWSSSOMasterAccountAdministrator","v8",True,"2022-10-20T20:34:27+00:00",4,3,0,5,0,0,20
