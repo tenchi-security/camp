@@ -1708,6 +1708,7 @@
 "AmazonFSxFullAccess","v2",False,"2021-06-08T12:05:31+00:00",1,2,0,2,0,0,13
 "AmazonFSxFullAccess","v4",True,"2022-09-29T18:27:51+00:00",1,2,0,3,0,0,32
 "AmazonFSxFullAccess","v1",False,"2018-11-28T16:34:43+00:00",1,2,0,2,0,0,13
+"AmazonOmicsReadOnlyAccess","v1",True,"2022-11-29T04:17:07+00:00",0,0,0,0,0,0,0
 "AmazonDetectiveFullAccess","v2",True,"2020-10-21T22:07:28+00:00",1,1,0,0,0,0,7
 "AmazonDetectiveFullAccess","v1",False,"2020-04-30T17:57:15+00:00",1,1,0,0,0,0,7
 "ElementalActivationsGenerateLicenses","v1",True,"2020-08-28T18:28:58+00:00",0,0,0,0,0,0,0
