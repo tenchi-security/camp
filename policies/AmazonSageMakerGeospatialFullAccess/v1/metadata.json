@@ -1,0 +1,6 @@
+{
+    "VersionId": "v1",
+    "IsDefaultVersion": true,
+    "CreateDate": "2022-11-30T10:06:48+00:00",
+    "PolicyName": "AmazonSageMakerGeospatialFullAccess"
+}

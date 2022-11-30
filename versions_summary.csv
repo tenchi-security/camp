@@ -1496,6 +1496,7 @@
 "AWSEC2FleetServiceRolePolicy","v2",False,"2018-04-19T21:37:07+00:00",0,2,0,2,0,0,5
 "AWSEC2FleetServiceRolePolicy","v1",False,"2018-03-21T00:08:55+00:00",0,2,0,1,0,0,4
 "AWSApplicationMigrationConversionServerPolicy","v1",True,"2021-04-07T06:48:58+00:00",0,0,0,0,0,0,0
+"AmazonSageMakerGeospatialFullAccess","v1",True,"2022-11-30T10:06:48+00:00",1,0,0,0,0,0,0
 "AWSApplicationAutoscalingECSServicePolicy","v1",True,"2017-10-25T23:53:08+00:00",0,2,0,0,0,0,3
 "AmazonMachineLearningCreateOnlyAccess","v2",True,"2016-06-29T20:55:03+00:00",0,1,0,0,0,0,14
 "AmazonMachineLearningCreateOnlyAccess","v1",False,"2015-04-09T17:18:09+00:00",0,1,0,0,0,0,13
@@ -2010,6 +2011,7 @@
 "NeptuneConsoleFullAccess","v4",True,"2020-09-02T17:25:07+00:00",0,4,0,2,0,0,61
 "NeptuneConsoleFullAccess","v1",False,"2018-06-19T21:35:19+00:00",0,3,0,1,0,0,60
 "AmazonOpenSearchServiceReadOnlyAccess","v1",True,"2021-09-08T05:38:13+00:00",0,0,0,0,0,0,0
+"AmazonSageMakerGeospatialExecutionRole","v1",True,"2022-11-30T10:08:36+00:00",0,0,0,0,0,0,0
 "AWSLambdaExecute","v1",True,"2015-02-06T18:40:46+00:00",1,0,0,0,0,0,0
 "AmazonZocaloReadOnlyAccess","v1",True,"2015-02-06T18:41:14+00:00",0,0,0,0,0,0,0
 "AWSForWordPressPluginPolicy","v2",True,"2020-01-20T23:20:47+00:00",0,3,0,0,0,0,10

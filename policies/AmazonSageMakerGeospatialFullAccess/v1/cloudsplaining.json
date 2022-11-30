@@ -1,0 +1,11 @@
+{
+    "ServiceWildcard": [
+        "sagemaker-geospatial"
+    ],
+    "ServicesAffected": [],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": []
+}
