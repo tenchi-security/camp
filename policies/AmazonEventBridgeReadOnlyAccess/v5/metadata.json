@@ -1,6 +1,6 @@
 {
     "VersionId": "v5",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2022-11-10T18:01:54+00:00",
     "PolicyName": "AmazonEventBridgeReadOnlyAccess"
 }

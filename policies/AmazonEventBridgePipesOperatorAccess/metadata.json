@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonEventBridgePipesOperatorAccess",
+    "PolicyId": "ANPAZKAPJZG4FYDFHBWYU",
+    "Arn": "arn:aws:iam::aws:policy/AmazonEventBridgePipesOperatorAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2022-12-01T17:04:32+00:00",
+    "UpdateDate": "2022-12-01T17:04:32+00:00"
+}

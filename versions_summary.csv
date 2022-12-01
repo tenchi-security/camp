@@ -1125,8 +1125,9 @@
 "AmazonEC2ContainerRegistryPowerUser","v3",True,"2019-12-10T20:48:08+00:00",0,1,0,0,0,1,4
 "AmazonEC2ContainerRegistryPowerUser","v2",False,"2016-10-11T22:28:07+00:00",0,1,0,0,0,1,4
 "AmazonEC2ContainerRegistryPowerUser","v1",False,"2015-12-21T17:05:33+00:00",0,1,0,0,0,1,4
-"AmazonEventBridgeFullAccess","v3",True,"2022-11-10T18:01:43+00:00",3,2,0,0,0,0,48
+"AmazonEventBridgeFullAccess","v3",False,"2022-11-10T18:01:43+00:00",3,2,0,0,0,0,48
 "AmazonEventBridgeFullAccess","v2",False,"2021-03-04T18:56:38+00:00",1,1,0,2,0,0,27
+"AmazonEventBridgeFullAccess","v4",True,"2022-12-01T17:00:46+00:00",4,2,0,0,0,0,48
 "AmazonEventBridgeFullAccess","v1",False,"2019-07-11T14:08:55+00:00",1,1,0,2,0,0,27
 "AmazonLookoutMetricsFullAccess","v1",True,"2021-05-07T00:43:38+00:00",1,1,0,0,0,0,12
 "AWSFaultInjectionSimulatorEC2Access","v1",True,"2022-10-26T20:39:26+00:00",0,0,0,0,0,0,0
@@ -1231,6 +1232,7 @@
 "AWSMigrationHubStrategyConsoleFullAccess","v1",False,"2021-10-19T20:13:26+00:00",1,1,0,1,0,0,1
 "AWSIoTFullAccess","v2",True,"2022-05-19T21:39:11+00:00",2,1,0,6,0,0,109
 "AWSIoTFullAccess","v1",False,"2015-10-08T15:19:49+00:00",1,1,0,6,0,0,98
+"AmazonEventBridgePipesFullAccess","v1",True,"2022-12-01T17:03:20+00:00",1,0,0,0,0,0,0
 "LexBotPolicy","v2",True,"2019-11-13T22:29:16+00:00",0,0,0,0,0,0,0
 "LexBotPolicy","v1",False,"2017-02-17T22:18:13+00:00",0,0,0,0,0,0,0
 "AWSLicenseManagerMasterAccountRolePolicy","v5",True,"2022-05-31T20:50:26+00:00",0,3,0,4,0,0,7
@@ -1769,7 +1771,8 @@
 "AWSSSOMasterAccountAdministrator","v7",False,"2022-08-22T17:07:31+00:00",3,3,0,5,0,0,20
 "AWSSSOMasterAccountAdministrator","v6",False,"2022-04-28T18:38:55+00:00",3,2,0,5,0,0,18
 "AWSSSOMasterAccountAdministrator","v1",False,"2018-06-27T20:36:51+00:00",1,2,0,31,0,0,17
-"CloudWatchEventsFullAccess","v1",True,"2016-01-14T18:37:08+00:00",1,1,0,2,0,0,27
+"CloudWatchEventsFullAccess","v2",True,"2022-12-01T17:05:05+00:00",4,2,0,0,0,0,48
+"CloudWatchEventsFullAccess","v1",False,"2016-01-14T18:37:08+00:00",1,1,0,2,0,0,27
 "AWSCloud9User","v3",False,"2018-07-02T08:46:37+00:00",0,1,0,1,0,0,1
 "AWSCloud9User","v2",False,"2018-04-26T21:16:21+00:00",0,1,0,1,0,0,1
 "AWSCloud9User","v4",True,"2020-07-29T06:26:43+00:00",0,1,0,1,0,0,1
@@ -2391,6 +2394,7 @@
 "AWSThinkboxDeadlineResourceTrackerAdminPolicy","v1",False,"2020-05-27T19:29:09+00:00",0,1,0,0,0,0,1
 "MemoryDBServiceRolePolicy","v2",True,"2021-08-18T23:48:16+00:00",0,0,0,0,0,0,0
 "MemoryDBServiceRolePolicy","v1",False,"2021-08-17T22:34:59+00:00",0,0,0,0,0,0,0
+"AmazonEventBridgePipesOperatorAccess","v1",True,"2022-12-01T17:04:32+00:00",0,0,0,0,0,0,0
 "AmazonNimbleStudio-LaunchProfileWorker","v1",True,"2021-04-28T04:47:02+00:00",0,0,0,0,0,0,0
 "AWSMarketplaceSellerProductsReadOnly","v3",True,"2022-11-19T00:08:42+00:00",0,0,0,0,0,0,0
 "AWSMarketplaceSellerProductsReadOnly","v2",False,"2020-03-05T23:11:53+00:00",0,0,0,0,0,0,0
@@ -2434,7 +2438,8 @@
 "AWSBackupFullAccess","v1",False,"2019-11-18T22:21:52+00:00",2,2,0,3,0,0,22
 "AmazonLookoutMetricsReadOnlyAccess","v2",True,"2022-01-04T18:19:27+00:00",0,0,0,0,0,0,0
 "AmazonLookoutMetricsReadOnlyAccess","v1",False,"2021-05-07T00:43:34+00:00",0,0,0,0,0,0,0
-"CloudWatchEventsReadOnlyAccess","v2",True,"2017-08-10T17:25:34+00:00",0,0,0,0,0,0,0
+"CloudWatchEventsReadOnlyAccess","v3",True,"2022-12-01T16:29:31+00:00",0,0,0,0,0,0,0
+"CloudWatchEventsReadOnlyAccess","v2",False,"2017-08-10T17:25:34+00:00",0,0,0,0,0,0,0
 "CloudWatchEventsReadOnlyAccess","v1",False,"2016-01-14T18:27:18+00:00",0,0,0,0,0,0,0
 "AWSCloudMapFullAccess","v2",True,"2020-07-29T19:15:35+00:00",1,2,0,0,0,0,11
 "AWSCloudMapFullAccess","v1",False,"2018-11-28T23:57:31+00:00",1,2,0,0,0,0,11
@@ -2607,6 +2612,7 @@
 "LightsailExportAccess","v1",False,"2018-09-28T16:35:54+00:00",0,1,0,0,0,0,2
 "AWSFMMemberReadOnlyAccess","v1",True,"2018-05-09T21:05:29+00:00",0,0,0,0,0,0,0
 "CloudWatchEventsBuiltInTargetExecutionAccess","v1",True,"2016-01-14T18:35:49+00:00",0,1,0,0,0,0,4
+"AmazonEventBridgePipesReadOnlyAccess","v1",True,"2022-12-01T17:04:03+00:00",0,0,0,0,0,0,0
 "AmazonECSServiceRolePolicy","v8",False,"2021-01-13T20:04:13+00:00",0,5,0,2,0,0,16
 "AmazonECSServiceRolePolicy","v5",False,"2018-10-18T23:18:18+00:00",0,4,0,2,0,0,12
 "AmazonECSServiceRolePolicy","v3",False,"2018-03-07T18:29:40+00:00",0,4,0,2,0,0,12
@@ -2981,10 +2987,11 @@
 "AmazonWorkLinkReadOnly","v3",True,"2019-09-23T18:37:21+00:00",0,0,0,0,0,0,0
 "AmazonWorkLinkReadOnly","v2",False,"2019-08-01T21:35:07+00:00",0,0,0,0,0,0,0
 "AmazonWorkLinkReadOnly","v1",False,"2019-01-23T19:07:10+00:00",0,0,0,0,0,0,0
-"AmazonEventBridgeReadOnlyAccess","v5",True,"2022-11-10T18:01:54+00:00",0,0,0,0,0,0,0
+"AmazonEventBridgeReadOnlyAccess","v5",False,"2022-11-10T18:01:54+00:00",0,0,0,0,0,0,0
 "AmazonEventBridgeReadOnlyAccess","v3",False,"2021-03-04T19:08:31+00:00",0,0,0,0,0,0,0
 "AmazonEventBridgeReadOnlyAccess","v2",False,"2020-11-06T03:15:41+00:00",0,0,0,0,0,0,0
 "AmazonEventBridgeReadOnlyAccess","v4",False,"2022-04-08T20:42:18+00:00",0,0,0,0,0,0,0
+"AmazonEventBridgeReadOnlyAccess","v6",True,"2022-12-01T17:02:48+00:00",0,0,0,0,0,0,0
 "AmazonEventBridgeReadOnlyAccess","v1",False,"2019-07-11T13:59:07+00:00",0,0,0,0,0,0,0
 "AWSTransferConsoleFullAccess","v1",True,"2020-12-14T19:33:25+00:00",1,2,0,1,0,0,12
 "AmazonFSxServiceRolePolicy","v5",True,"2021-08-20T12:51:29+00:00",0,3,0,1,0,0,7
