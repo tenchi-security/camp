@@ -852,7 +852,8 @@
 "AmazonLaunchWizard_Fullaccess","v6",False,"2020-12-04T16:01:43+00:00",2,8,0,3,3,1,80
 "AmazonLaunchWizard_Fullaccess","v10",False,"2021-05-24T23:04:20+00:00",2,9,0,3,3,1,86
 "AmazonLaunchWizard_Fullaccess","v1",False,"2020-08-06T17:47:30+00:00",2,8,0,3,3,1,80
-"AWSVendorInsightsVendorReadOnly","v1",True,"2022-07-26T15:05:34+00:00",0,0,0,0,0,0,0
+"AWSVendorInsightsVendorReadOnly","v2",True,"2022-12-01T00:54:38+00:00",0,0,0,0,0,0,0
+"AWSVendorInsightsVendorReadOnly","v1",False,"2022-07-26T15:05:34+00:00",0,0,0,0,0,0,0
 "AmazonElasticMapReduceforEC2Role","v3",True,"2017-08-11T23:57:30+00:00",6,8,0,21,1,0,151
 "AmazonElasticMapReduceforEC2Role","v2",False,"2015-05-13T21:23:05+00:00",6,7,0,21,1,0,137
 "AmazonElasticMapReduceforEC2Role","v1",False,"2015-02-06T18:41:21+00:00",6,6,0,21,1,0,132
@@ -963,7 +964,8 @@
 "AmazonEKS_CNI_Policy","v2",False,"2018-05-31T22:16:00+00:00",0,1,0,0,0,0,6
 "AmazonEKS_CNI_Policy","v4",True,"2020-04-20T20:52:01+00:00",0,1,0,0,0,0,7
 "AmazonEKS_CNI_Policy","v1",False,"2018-05-27T21:07:42+00:00",0,1,0,0,0,0,6
-"AWSVendorInsightsAssessorReadOnly","v1",True,"2022-07-26T15:05:56+00:00",0,0,0,0,0,0,0
+"AWSVendorInsightsAssessorReadOnly","v2",True,"2022-12-01T00:55:16+00:00",0,0,0,0,0,0,0
+"AWSVendorInsightsAssessorReadOnly","v1",False,"2022-07-26T15:05:56+00:00",0,0,0,0,0,0,0
 "AmazonKinesisVideoStreamsFullAccess","v1",True,"2017-12-01T23:27:18+00:00",1,1,0,0,0,0,15
 "DatabaseAdministrator","v2",True,"2019-01-08T00:48:02+00:00",4,9,0,13,1,1,253
 "DatabaseAdministrator","v1",False,"2016-11-10T17:25:43+00:00",4,9,0,13,1,1,253
@@ -1754,7 +1756,8 @@
 "AmazonSageMakerReadOnly","v6",False,"2019-06-10T20:38:21+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerReadOnly","v10",False,"2021-06-10T20:19:55+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerReadOnly","v1",False,"2017-11-29T13:07:09+00:00",0,0,0,0,0,0,0
-"AWSVendorInsightsAssessorFullAccess","v1",True,"2022-07-26T15:05:40+00:00",0,0,0,0,0,0,0
+"AWSVendorInsightsAssessorFullAccess","v2",True,"2022-12-01T00:51:44+00:00",0,0,0,0,0,0,0
+"AWSVendorInsightsAssessorFullAccess","v1",False,"2022-07-26T15:05:40+00:00",0,0,0,0,0,0,0
 "AmazonSecurityLakePermissionsBoundary","v1",True,"2022-11-29T14:11:12+00:00",0,3,0,0,0,0,7
 "AWSMigrationHubStrategyServiceRolePolicy","v1",True,"2021-10-19T20:02:37+00:00",0,0,0,0,0,0,0
 "AWSLicenseManagerConsumptionPolicy","v1",True,"2021-08-11T23:18:08+00:00",0,0,0,0,0,0,0
@@ -2851,7 +2854,8 @@
 "AWSConfigUserAccess","v1",False,"2015-02-18T19:38:41+00:00",0,0,0,0,0,0,0
 "IAMFullAccess","v2",True,"2019-06-21T19:40:00+00:00",1,1,10,79,0,5,90
 "IAMFullAccess","v1",False,"2015-02-06T18:40:38+00:00",1,1,10,79,0,5,90
-"AWSVendorInsightsVendorFullAccess","v1",True,"2022-07-26T15:05:27+00:00",0,0,0,0,0,0,0
+"AWSVendorInsightsVendorFullAccess","v2",True,"2022-12-01T00:49:35+00:00",0,1,0,0,0,0,6
+"AWSVendorInsightsVendorFullAccess","v1",False,"2022-07-26T15:05:27+00:00",0,0,0,0,0,0,0
 "AWSSupportAccess","v1",True,"2015-02-06T18:41:11+00:00",1,0,0,0,0,0,0
 "CloudWatch-CrossAccountAccess","v1",True,"2019-07-23T09:59:27+00:00",0,0,0,0,0,0,0
 "AmazonConnectServiceLinkedRolePolicy","v8",True,"2022-11-07T19:01:31+00:00",1,1,0,0,0,2,100

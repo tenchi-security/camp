@@ -1,0 +1,18 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "vendor-insights"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "vendor-insights:ActivateSecurityProfile",
+        "vendor-insights:AssociateDataSource",
+        "vendor-insights:DeactivateSecurityProfile",
+        "vendor-insights:DeleteDataSource",
+        "vendor-insights:DisassociateDataSource",
+        "vendor-insights:UpdateSecurityProfile"
+    ]
+}
