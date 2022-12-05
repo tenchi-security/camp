@@ -2416,7 +2416,8 @@
 "AmazonDevOpsGuruConsoleFullAccess","v1",False,"2021-12-17T18:43:09+00:00",1,1,0,0,0,0,2
 "AmazonGrafanaServiceLinkedRolePolicy","v1",True,"2022-11-08T23:10:33+00:00",0,1,0,0,0,0,2
 "AmazonSageMakerModelGovernanceUseAccess","v1",True,"2022-11-30T08:58:19+00:00",0,1,0,0,0,0,4
-"AmazonSageMakerFeatureStoreAccess","v2",True,"2021-02-24T02:18:50+00:00",0,0,0,0,0,0,0
+"AmazonSageMakerFeatureStoreAccess","v3",True,"2022-12-05T14:19:58+00:00",0,0,0,0,0,0,0
+"AmazonSageMakerFeatureStoreAccess","v2",False,"2021-02-24T02:18:50+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerFeatureStoreAccess","v1",False,"2020-12-01T16:24:05+00:00",0,0,0,0,0,0,0
 "AmazonMacieServiceRolePolicy","v5",False,"2021-04-13T17:55:07+00:00",0,1,0,0,1,0,1
 "AmazonMacieServiceRolePolicy","v3",False,"2020-04-30T17:41:57+00:00",0,1,0,0,1,0,1
