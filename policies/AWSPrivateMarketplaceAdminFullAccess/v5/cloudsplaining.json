@@ -1,0 +1,14 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "aws-marketplace"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "aws-marketplace:CancelChangeSet",
+        "aws-marketplace:StartChangeSet"
+    ]
+}

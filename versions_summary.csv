@@ -29,8 +29,9 @@
 "ComputeOptimizerReadOnlyAccess","v5",True,"2021-11-29T16:03:07+00:00",0,0,0,0,0,0,0
 "ComputeOptimizerReadOnlyAccess","v3",False,"2020-12-23T18:00:54+00:00",0,0,0,0,0,0,0
 "ComputeOptimizerReadOnlyAccess","v2",False,"2020-11-04T20:57:54+00:00",0,0,0,0,0,0,0
-"AWSPrivateMarketplaceAdminFullAccess","v4",True,"2021-08-27T15:34:07+00:00",0,0,0,0,0,0,0
+"AWSPrivateMarketplaceAdminFullAccess","v4",False,"2021-08-27T15:34:07+00:00",0,0,0,0,0,0,0
 "AWSPrivateMarketplaceAdminFullAccess","v1",False,"2018-11-27T16:32:32+00:00",0,0,0,0,0,0,0
+"AWSPrivateMarketplaceAdminFullAccess","v5",True,"2022-12-07T20:02:37+00:00",0,1,0,0,0,0,2
 "AWSPrivateMarketplaceAdminFullAccess","v3",False,"2020-12-03T15:12:31+00:00",0,0,0,0,0,0,0
 "AWSPrivateMarketplaceAdminFullAccess","v2",False,"2019-10-28T21:48:03+00:00",0,0,0,0,0,0,0
 "AWSCodeBuildAdminAccess","v10",False,"2020-04-02T17:21:40+00:00",1,3,0,4,0,0,36
