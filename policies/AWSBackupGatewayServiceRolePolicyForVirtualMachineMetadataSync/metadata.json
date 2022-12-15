@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSBackupGatewayServiceRolePolicyForVirtualMachineMetadataSync",
+    "PolicyId": "ANPAZKAPJZG4IWILMJXSE",
+    "Arn": "arn:aws:iam::aws:policy/service-role/AWSBackupGatewayServiceRolePolicyForVirtualMachineMetadataSync",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2022-12-15T19:43:11+00:00",
+    "UpdateDate": "2022-12-15T19:43:11+00:00"
+}

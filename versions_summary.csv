@@ -500,6 +500,7 @@
 "AmazonKeyspacesFullAccess","v3",True,"2022-07-07T15:02:41+00:00",1,2,0,0,0,0,9
 "AmazonKeyspacesFullAccess","v2",False,"2021-06-01T19:31:39+00:00",1,2,0,0,0,0,8
 "VMImportExportRoleForAWSConnector","v1",True,"2015-09-03T20:48:59+00:00",0,1,0,1,0,0,2
+"AWSBackupGatewayServiceRolePolicyForVirtualMachineMetadataSync","v1",True,"2022-12-15T19:43:11+00:00",0,0,0,0,0,0,0
 "AWSDeepRacerFullAccess","v1",True,"2020-10-05T22:03:10+00:00",0,0,0,0,0,0,0
 "QuickSightAccessForS3StorageManagementAnalyticsReadOnly","v1",False,"2017-06-12T18:18:38+00:00",0,0,0,0,0,0,0
 "QuickSightAccessForS3StorageManagementAnalyticsReadOnly","v3",False,"2017-07-21T00:02:14+00:00",0,0,0,0,0,0,0
@@ -2502,8 +2503,9 @@
 "AmazonSSMFullAccess","v2",False,"2016-03-07T21:09:12+00:00",3,3,0,3,3,0,68
 "AmazonSSMFullAccess","v4",True,"2019-11-20T20:08:56+00:00",3,3,0,3,3,0,68
 "AmazonWorkSpacesAdmin","v1",False,"2015-09-22T22:21:15+00:00",0,1,0,0,0,0,4
-"AmazonWorkSpacesAdmin","v3",True,"2022-08-31T18:28:53+00:00",0,1,0,0,0,0,7
+"AmazonWorkSpacesAdmin","v3",False,"2022-08-31T18:28:53+00:00",0,1,0,0,0,0,7
 "AmazonWorkSpacesAdmin","v2",False,"2016-08-18T23:08:42+00:00",0,1,0,0,0,0,7
+"AmazonWorkSpacesAdmin","v4",True,"2022-12-15T19:43:23+00:00",0,1,0,0,0,0,9
 "AWSEC2FleetServiceRolePolicy","v1",False,"2018-03-21T00:08:55+00:00",0,2,0,1,0,0,4
 "AWSEC2FleetServiceRolePolicy","v3",True,"2020-05-04T20:10:31+00:00",0,2,0,2,0,0,5
 "AWSEC2FleetServiceRolePolicy","v2",False,"2018-04-19T21:37:07+00:00",0,2,0,2,0,0,5

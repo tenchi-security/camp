@@ -1,0 +1,21 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "workspaces"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "workspaces:CreateWorkspaceImage",
+        "workspaces:CreateWorkspaces",
+        "workspaces:ModifySamlProperties",
+        "workspaces:ModifyWorkspaceProperties",
+        "workspaces:RebootWorkspaces",
+        "workspaces:RebuildWorkspaces",
+        "workspaces:StartWorkspaces",
+        "workspaces:StopWorkspaces",
+        "workspaces:TerminateWorkspaces"
+    ]
+}
