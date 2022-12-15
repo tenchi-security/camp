@@ -1,0 +1,6 @@
+{
+    "VersionId": "v14",
+    "IsDefaultVersion": true,
+    "CreateDate": "2022-12-15T20:15:51+00:00",
+    "PolicyName": "AWSBackupFullAccess"
+}
