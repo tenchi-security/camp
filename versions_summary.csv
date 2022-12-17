@@ -2676,7 +2676,8 @@
 "AmazonSNSReadOnlyAccess","v1",True,"2015-02-06T18:41:06+00:00",0,0,0,0,0,0,0
 "AmazonPollyReadOnlyAccess","v1",False,"2016-11-30T18:59:24+00:00",0,0,0,0,0,0,0
 "AmazonPollyReadOnlyAccess","v2",True,"2018-07-17T16:41:07+00:00",0,0,0,0,0,0,0
-"AWSRefactoringToolkitFullAccess","v1",True,"2022-10-25T16:41:15+00:00",0,2,0,0,0,0,20
+"AWSRefactoringToolkitFullAccess","v1",False,"2022-10-25T16:41:15+00:00",0,2,0,0,0,0,20
+"AWSRefactoringToolkitFullAccess","v2",True,"2022-12-16T23:26:55+00:00",0,2,0,0,0,0,20
 "AmazonAugmentedAIHumanLoopFullAccess","v1",True,"2019-12-03T16:20:47+00:00",0,1,0,0,0,0,3
 "AWSSystemsManagerForSAPReadOnlyAccess","v1",True,"2022-11-17T02:11:44+00:00",0,0,0,0,0,0,0
 "AmazonManagedBlockchainReadOnlyAccess","v1",True,"2019-04-30T18:17:31+00:00",0,0,0,0,0,0,0
