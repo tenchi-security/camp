@@ -669,8 +669,9 @@
 "AWSEC2SpotFleetServiceRolePolicy","v4",True,"2020-03-16T19:16:21+00:00",0,2,0,1,0,0,4
 "AmazonPollyFullAccess","v1",True,"2016-11-30T18:59:06+00:00",1,1,0,0,0,0,3
 "AmazonRDSReadOnlyAccess","v1",False,"2015-02-06T18:40:53+00:00",0,0,0,0,0,0,0
-"AmazonRDSReadOnlyAccess","v3",True,"2017-08-28T21:36:32+00:00",0,0,0,0,0,0,0
+"AmazonRDSReadOnlyAccess","v3",False,"2017-08-28T21:36:32+00:00",0,0,0,0,0,0,0
 "AmazonRDSReadOnlyAccess","v2",False,"2015-12-16T20:58:30+00:00",0,0,0,0,0,0,0
+"AmazonRDSReadOnlyAccess","v4",True,"2022-12-19T20:44:13+00:00",0,0,0,0,0,0,0
 "AmazonCognitoReadOnly","v1",False,"2015-03-24T17:06:46+00:00",0,1,0,1,0,3,0
 "AmazonCognitoReadOnly","v3",False,"2019-02-16T00:18:11+00:00",0,1,0,1,0,3,0
 "AmazonCognitoReadOnly","v2",False,"2016-06-02T17:30:24+00:00",0,1,0,1,0,3,0
@@ -2586,12 +2587,13 @@
 "AmazonRDSFullAccess","v7",False,"2020-08-27T23:38:56+00:00",2,4,0,4,0,0,88
 "AmazonRDSFullAccess","v1",False,"2015-02-06T18:40:52+00:00",1,1,0,3,0,0,84
 "AmazonRDSFullAccess","v6",False,"2018-04-09T17:42:48+00:00",2,4,0,4,0,0,88
+"AmazonRDSFullAccess","v10",True,"2022-12-19T20:09:11+00:00",2,4,0,4,0,0,96
 "AmazonRDSFullAccess","v8",False,"2020-11-24T19:30:26+00:00",2,4,0,4,0,0,88
 "AmazonRDSFullAccess","v5",False,"2017-11-20T18:36:33+00:00",2,2,0,3,0,0,85
 "AmazonRDSFullAccess","v3",False,"2017-08-28T21:35:27+00:00",1,1,0,3,0,0,84
 "AmazonRDSFullAccess","v2",False,"2015-12-16T21:02:23+00:00",1,1,0,3,0,0,84
 "AmazonRDSFullAccess","v4",False,"2017-09-14T23:40:45+00:00",2,1,0,3,0,0,84
-"AmazonRDSFullAccess","v9",True,"2022-03-07T21:11:46+00:00",2,4,0,4,0,0,94
+"AmazonRDSFullAccess","v9",False,"2022-03-07T21:11:46+00:00",2,4,0,4,0,0,94
 "CertificateManagerServiceRolePolicy","v1",True,"2020-06-25T17:56:49+00:00",0,1,0,0,0,0,1
 "AWSResourceExplorerFullAccess","v1",True,"2022-11-07T20:01:20+00:00",1,1,0,1,0,0,1
 "AmazonAppStreamFullAccess","v1",False,"2015-02-06T18:40:09+00:00",1,1,0,0,0,0,25

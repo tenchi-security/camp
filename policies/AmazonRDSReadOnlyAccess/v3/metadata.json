@@ -1,6 +1,6 @@
 {
     "VersionId": "v3",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2017-08-28T21:36:32+00:00",
     "PolicyName": "AmazonRDSReadOnlyAccess"
 }
