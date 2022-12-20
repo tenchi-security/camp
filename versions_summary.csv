@@ -2948,7 +2948,8 @@
 "AWS_ConfigRole","v13",False,"2022-05-27T03:11:37+00:00",0,1,0,0,0,0,5
 "AWSDenyAll","v1",True,"2019-05-01T22:36:14+00:00",0,0,0,0,0,0,0
 "AWSGrafanaWorkspacePermissionManagement","v1",False,"2021-02-23T00:15:54+00:00",0,0,0,0,0,0,0
-"AWSGrafanaWorkspacePermissionManagement","v2",True,"2021-09-21T20:30:06+00:00",0,0,0,0,0,0,0
+"AWSGrafanaWorkspacePermissionManagement","v3",True,"2022-12-20T20:27:55+00:00",0,0,0,0,0,0,0
+"AWSGrafanaWorkspacePermissionManagement","v2",False,"2021-09-21T20:30:06+00:00",0,0,0,0,0,0,0
 "AmazonHoneycodeTeamAssociationReadOnlyAccess","v1",True,"2020-06-24T20:27:46+00:00",0,0,0,0,0,0,0
 "AWSIoTAnalyticsReadOnlyAccess","v1",True,"2018-06-18T21:37:49+00:00",0,0,0,0,0,0,0
 "AwsGlueSessionUserRestrictedPolicy","v1",True,"2022-04-14T21:31:01+00:00",0,0,0,0,0,0,0
