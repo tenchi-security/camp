@@ -773,6 +773,7 @@
 "AWSCodeDeployRole","v2",False,"2016-02-17T16:35:27+00:00",0,2,0,0,0,0,5
 "AWSCodeDeployRole","v4",False,"2017-01-24T23:42:04+00:00",0,3,0,0,0,0,16
 "AWSCodeDeployRole","v9",True,"2021-05-19T00:42:51+00:00",0,5,0,0,0,0,20
+"AWSManagedServices_DetectiveControlsConfig_ServiceRolePolicy","v1",True,"2022-12-19T23:11:17+00:00",0,0,0,0,0,0,0
 "AWSApplicationMigrationReadOnlyAccess","v1",False,"2021-04-07T07:15:26+00:00",0,0,0,0,0,0,0
 "AWSApplicationMigrationReadOnlyAccess","v3",False,"2022-05-01T08:32:53+00:00",0,0,0,0,0,0,0
 "AWSApplicationMigrationReadOnlyAccess","v2",False,"2021-11-08T12:54:08+00:00",0,0,0,0,0,0,0

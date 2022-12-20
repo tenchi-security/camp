@@ -1,0 +1,6 @@
+{
+    "VersionId": "v1",
+    "IsDefaultVersion": true,
+    "CreateDate": "2022-12-19T23:11:17+00:00",
+    "PolicyName": "AWSManagedServices_DetectiveControlsConfig_ServiceRolePolicy"
+}
