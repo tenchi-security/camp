@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSLicenseManagerLinuxSubscriptionsServiceRolePolicy",
+    "PolicyId": "ANPAZKAPJZG4KZ4W4E4X2",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/AWSLicenseManagerLinuxSubscriptionsServiceRolePolicy",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2022-12-20T18:54:54+00:00",
+    "UpdateDate": "2022-12-20T18:54:54+00:00"
+}

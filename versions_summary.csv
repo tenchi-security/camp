@@ -103,6 +103,7 @@
 "AmazonConnect_FullAccess","v1",False,"2020-11-20T19:54:21+00:00",1,4,0,1,0,2,64
 "AmazonConnect_FullAccess","v3",True,"2021-11-23T22:05:12+00:00",1,4,0,1,0,2,77
 "AmazonConnect_FullAccess","v2",False,"2021-07-01T18:41:26+00:00",1,4,0,1,0,2,64
+"AWSLicenseManagerLinuxSubscriptionsServiceRolePolicy","v1",True,"2022-12-20T18:54:54+00:00",0,0,0,0,0,0,0
 "AWSCloudHSMFullAccess","v1",True,"2015-02-06T18:39:51+00:00",1,1,0,0,0,0,9
 "AmazonRoute53ResolverReadOnlyAccess","v1",False,"2019-05-30T18:11:31+00:00",0,0,0,0,0,0,0
 "AmazonRoute53ResolverReadOnlyAccess","v2",True,"2019-09-27T16:37:48+00:00",0,0,0,0,0,0,0
@@ -1386,8 +1387,9 @@
 "SecretsManagerReadWrite","v3",True,"2020-06-24T18:01:22+00:00",1,2,0,3,1,0,16
 "SecretsManagerReadWrite","v2",False,"2018-05-03T20:02:35+00:00",1,2,0,3,1,0,16
 "AmazonNimbleStudio-StudioUser","v1",False,"2021-04-28T04:48:11+00:00",0,2,0,2,0,0,4
-"AmazonNimbleStudio-StudioUser","v3",True,"2021-11-01T20:01:52+00:00",0,3,0,1,0,0,7
+"AmazonNimbleStudio-StudioUser","v3",False,"2021-11-01T20:01:52+00:00",0,3,0,1,0,0,7
 "AmazonNimbleStudio-StudioUser","v2",False,"2021-08-16T18:26:50+00:00",0,3,0,2,0,0,7
+"AmazonNimbleStudio-StudioUser","v4",True,"2022-12-20T19:31:23+00:00",0,3,0,2,0,0,10
 "AWSSSOMemberAccountAdministrator","v7",True,"2022-10-20T20:32:45+00:00",4,3,0,5,0,0,20
 "AWSSSOMemberAccountAdministrator","v1",False,"2018-06-27T20:45:42+00:00",1,2,0,31,0,0,17
 "AWSSSOMemberAccountAdministrator","v6",False,"2022-08-22T17:18:20+00:00",3,3,0,5,0,0,20
@@ -2020,7 +2022,8 @@
 "AmazonEC2RoleforDataPipelineRole","v3",True,"2016-02-22T17:24:05+00:00",7,7,0,21,1,0,134
 "AmazonEC2RoleforDataPipelineRole","v2",False,"2015-03-19T19:18:17+00:00",7,7,0,21,1,0,133
 "AmazonNimbleStudio-StudioAdmin","v1",False,"2021-04-28T04:47:36+00:00",0,2,0,2,0,0,4
-"AmazonNimbleStudio-StudioAdmin","v2",True,"2021-11-01T20:02:36+00:00",0,3,0,1,0,0,12
+"AmazonNimbleStudio-StudioAdmin","v3",True,"2022-12-20T19:25:22+00:00",0,3,0,2,0,0,15
+"AmazonNimbleStudio-StudioAdmin","v2",False,"2021-11-01T20:02:36+00:00",0,3,0,1,0,0,12
 "AmazonEC2RoleforSSM","v7",False,"2018-10-24T19:37:47+00:00",0,4,0,0,2,0,11
 "AmazonEC2RoleforSSM","v1",False,"2015-05-29T17:48:35+00:00",0,3,0,0,0,0,5
 "AmazonEC2RoleforSSM","v6",False,"2018-08-15T14:24:05+00:00",0,4,0,0,2,0,11
