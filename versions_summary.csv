@@ -2159,7 +2159,8 @@
 "AmazonRedshiftQueryEditor","v4",True,"2021-02-16T19:33:45+00:00",0,1,0,0,0,1,1
 "AmazonBraketJobsExecutionPolicy","v1",False,"2021-11-26T19:34:41+00:00",0,2,0,0,0,1,4
 "AmazonBraketJobsExecutionPolicy","v2",True,"2021-11-28T05:34:55+00:00",0,2,0,0,0,1,4
-"AWSMigrationHubOrchestratorServiceRolePolicy","v1",True,"2022-04-20T02:24:04+00:00",0,2,0,0,0,0,8
+"AWSMigrationHubOrchestratorServiceRolePolicy","v1",False,"2022-04-20T02:24:04+00:00",0,2,0,0,0,0,8
+"AWSMigrationHubOrchestratorServiceRolePolicy","v2",True,"2022-12-21T18:48:26+00:00",0,2,0,0,0,0,8
 "AmazonDocDB-ElasticServiceRolePolicy","v1",True,"2022-11-30T14:17:05+00:00",0,0,0,0,0,0,0
 "IAMSelfManageServiceSpecificCredentials","v1",True,"2016-12-22T17:25:18+00:00",0,0,0,0,0,0,0
 "CloudWatchAgentAdminPolicy","v1",True,"2018-03-07T00:52:31+00:00",0,1,0,0,0,0,3
