@@ -1,0 +1,6 @@
+{
+    "VersionId": "v4",
+    "IsDefaultVersion": true,
+    "CreateDate": "2022-12-22T18:08:03+00:00",
+    "PolicyName": "AWSOrganizationsReadOnlyAccess"
+}
