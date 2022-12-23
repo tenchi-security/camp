@@ -2826,9 +2826,10 @@
 "AWSElasticDisasterRecoveryRecoveryInstancePolicy","v1",False,"2021-11-17T10:20:43+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryRecoveryInstancePolicy","v2",True,"2022-10-30T13:17:11+00:00",0,0,0,0,0,0,0
 "MonitronServiceRolePolicy","v1",True,"2022-05-02T19:22:03+00:00",0,0,0,0,0,0,0
-"AWSMarketplaceSellerFullAccess","v7",True,"2022-11-18T23:54:51+00:00",0,2,0,1,0,0,4
+"AWSMarketplaceSellerFullAccess","v7",False,"2022-11-18T23:54:51+00:00",0,2,0,1,0,0,4
 "AWSMarketplaceSellerFullAccess","v1",False,"2019-07-02T20:40:09+00:00",0,1,0,1,0,0,2
 "AWSMarketplaceSellerFullAccess","v6",False,"2022-07-26T15:06:13+00:00",0,2,0,1,0,0,4
+"AWSMarketplaceSellerFullAccess","v8",True,"2022-12-22T23:33:23+00:00",0,2,0,1,0,0,4
 "AWSMarketplaceSellerFullAccess","v5",False,"2021-11-30T19:26:49+00:00",0,1,0,1,0,0,2
 "AWSMarketplaceSellerFullAccess","v3",False,"2020-05-28T21:07:22+00:00",0,1,0,1,0,0,2
 "AWSMarketplaceSellerFullAccess","v2",False,"2020-03-05T23:10:50+00:00",0,1,0,1,0,0,2

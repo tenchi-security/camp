@@ -1,6 +1,6 @@
 {
     "VersionId": "v7",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2022-11-18T23:54:51+00:00",
     "PolicyName": "AWSMarketplaceSellerFullAccess"
 }
