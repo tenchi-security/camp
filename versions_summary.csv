@@ -736,7 +736,8 @@
 "AWSBackupOperatorAccess","v13",True,"2022-12-15T20:13:00+00:00",0,1,0,0,0,0,5
 "AmazonChimeTranscriptionServiceLinkedRolePolicy","v1",True,"2021-08-04T21:47:41+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryAgentInstallationPolicy","v1",False,"2021-11-17T10:37:54+00:00",0,0,0,0,0,0,0
-"AWSElasticDisasterRecoveryAgentInstallationPolicy","v2",True,"2022-07-03T09:11:23+00:00",0,1,0,0,0,0,1
+"AWSElasticDisasterRecoveryAgentInstallationPolicy","v3",True,"2022-12-28T07:10:44+00:00",0,1,0,0,0,0,1
+"AWSElasticDisasterRecoveryAgentInstallationPolicy","v2",False,"2022-07-03T09:11:23+00:00",0,1,0,0,0,0,1
 "AWSProtonFullAccess","v1",False,"2021-02-17T19:07:18+00:00",1,3,0,2,0,0,30
 "AWSProtonFullAccess","v2",True,"2022-06-20T12:36:26+00:00",1,3,0,2,0,0,47
 "AWSBugBustServiceRolePolicy","v1",True,"2021-06-24T06:59:05+00:00",0,1,0,0,0,0,1
