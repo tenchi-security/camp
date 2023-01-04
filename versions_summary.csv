@@ -238,10 +238,11 @@
 "AmazonECS_FullAccess","v14",False,"2019-01-04T21:11:09+00:00",1,12,0,2,0,0,83
 "AmazonECS_FullAccess","v5",False,"2018-01-26T22:57:28+00:00",1,9,0,2,0,0,72
 "AmazonECS_FullAccess","v18",False,"2020-07-01T15:16:30+00:00",1,12,0,2,0,0,84
+"AmazonECS_FullAccess","v20",True,"2023-01-04T16:26:05+00:00",1,12,0,2,0,0,87
 "AmazonECS_FullAccess","v3",False,"2017-11-24T17:57:00+00:00",1,9,0,1,0,0,70
 "AmazonECS_FullAccess","v16",False,"2019-06-20T17:53:43+00:00",1,12,0,2,0,0,84
 "AmazonECS_FullAccess","v2",False,"2017-11-10T17:28:08+00:00",1,8,0,1,0,0,69
-"AmazonECS_FullAccess","v19",True,"2020-10-12T21:02:23+00:00",1,12,0,2,0,0,84
+"AmazonECS_FullAccess","v19",False,"2020-10-12T21:02:23+00:00",1,12,0,2,0,0,84
 "AmazonECS_FullAccess","v4",False,"2017-12-27T23:30:50+00:00",1,9,0,2,0,0,71
 "AmazonECS_FullAccess","v9",False,"2018-07-23T17:54:23+00:00",1,11,0,2,0,0,77
 "AmazonECS_FullAccess","v13",False,"2018-11-21T23:34:33+00:00",1,12,0,2,0,0,83
