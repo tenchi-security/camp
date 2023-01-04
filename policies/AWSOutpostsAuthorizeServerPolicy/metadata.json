@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSOutpostsAuthorizeServerPolicy",
+    "PolicyId": "ANPAZKAPJZG4O5PV3BNGP",
+    "Arn": "arn:aws:iam::aws:policy/AWSOutpostsAuthorizeServerPolicy",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2023-01-04T19:23:22+00:00",
+    "UpdateDate": "2023-01-04T19:23:22+00:00"
+}
