@@ -2139,6 +2139,7 @@
 "ServerMigrationServiceRoleForInstanceValidation","v1",True,"2020-07-20T22:25:07+00:00",0,0,0,0,0,0,0
 "AWSMarketplaceLicenseManagementServiceRolePolicy","v1",True,"2020-12-03T08:33:40+00:00",0,1,0,0,0,0,4
 "AWSElasticBeanstalkRoleSNS","v1",True,"2020-06-05T21:46:22+00:00",0,1,0,0,0,0,2
+"ResourceGroupsServiceRolePolicy","v1",True,"2023-01-05T16:57:08+00:00",0,0,0,0,0,0,0
 "AmazonElasticTranscoderRole","v1",False,"2015-02-06T18:41:26+00:00",0,2,0,8,1,0,35
 "AmazonElasticTranscoderRole","v2",True,"2019-06-13T22:48:22+00:00",0,2,0,1,1,0,5
 "AmazonRoute53RecoveryClusterFullAccess","v1",True,"2021-08-18T18:37:00+00:00",1,0,0,0,0,0,0
