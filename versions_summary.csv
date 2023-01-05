@@ -2905,6 +2905,7 @@
 "AmazonEC2ContainerRegistryReadOnly","v1",False,"2015-12-21T17:04:15+00:00",0,1,0,0,0,1,0
 "AmazonEC2ContainerRegistryReadOnly","v3",True,"2019-12-10T20:56:32+00:00",0,1,0,0,0,1,0
 "AmazonEC2ContainerRegistryReadOnly","v2",False,"2016-10-11T22:08:43+00:00",0,1,0,0,0,1,0
+"AWSElasticDisasterRecoveryStagingAccountPolicy_v2","v1",True,"2023-01-05T12:11:44+00:00",0,1,0,0,0,0,1
 "AWSWellArchitectedOrganizationsServiceRolePolicy","v1",False,"2022-06-23T17:15:26+00:00",0,0,0,0,0,0,0
 "AWSWellArchitectedOrganizationsServiceRolePolicy","v2",True,"2022-07-25T18:03:31+00:00",0,0,0,0,0,0,0
 "AmazonConnectServiceLinkedRolePolicy","v7",False,"2022-06-27T19:35:06+00:00",1,1,0,0,0,2,87
