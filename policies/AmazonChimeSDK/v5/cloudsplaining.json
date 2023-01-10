@@ -1,0 +1,24 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "chime"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "chime:BatchCreateAttendee",
+        "chime:CreateAttendee",
+        "chime:DeleteAttendee",
+        "chime:DeleteMediaCapturePipeline",
+        "chime:DeleteMediaPipeline",
+        "chime:DeleteMeeting",
+        "chime:TagAttendee",
+        "chime:TagMeeting",
+        "chime:TagResource",
+        "chime:UntagAttendee",
+        "chime:UntagMeeting",
+        "chime:UntagResource"
+    ]
+}
