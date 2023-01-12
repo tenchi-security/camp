@@ -2095,7 +2095,8 @@
 "AmazonChimeVoiceConnectorServiceLinkedRolePolicy","v2",False,"2021-12-21T00:08:05+00:00",0,0,0,0,0,0,0
 "EC2InstanceConnect","v1",True,"2019-06-27T18:53:34+00:00",0,1,0,0,0,0,1
 "ConfigConformsServiceRolePolicy","v1",False,"2019-07-25T21:38:05+00:00",0,0,0,0,0,0,0
-"ConfigConformsServiceRolePolicy","v5",True,"2022-07-26T00:33:20+00:00",0,1,0,1,0,0,1
+"ConfigConformsServiceRolePolicy","v6",True,"2023-01-12T04:17:34+00:00",0,1,0,1,0,0,1
+"ConfigConformsServiceRolePolicy","v5",False,"2022-07-26T00:33:20+00:00",0,1,0,1,0,0,1
 "ConfigConformsServiceRolePolicy","v3",False,"2019-10-17T22:16:14+00:00",0,1,0,1,0,0,1
 "ConfigConformsServiceRolePolicy","v2",False,"2019-10-02T00:31:15+00:00",0,1,0,1,0,0,1
 "ConfigConformsServiceRolePolicy","v4",False,"2019-11-13T18:29:21+00:00",0,1,0,1,0,0,1
