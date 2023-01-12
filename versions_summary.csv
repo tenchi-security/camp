@@ -2488,6 +2488,7 @@
 "AmazonKeyspacesReadOnlyAccess","v3",True,"2022-07-07T14:54:05+00:00",0,0,0,0,0,0,0
 "AmazonKeyspacesReadOnlyAccess","v1",False,"2020-04-23T17:07:14+00:00",0,0,0,0,0,0,0
 "AmazonMobileAnalyticsFinancialReportAccess","v1",True,"2015-02-06T18:40:35+00:00",0,0,0,0,0,0,0
+"AWSCleanRoomsFullAccess","v1",True,"2023-01-12T16:10:54+00:00",1,0,0,0,0,0,0
 "LightsailExportAccess","v2",True,"2022-01-15T01:45:33+00:00",0,1,0,0,0,0,2
 "LightsailExportAccess","v1",False,"2018-09-28T16:35:54+00:00",0,1,0,0,0,0,2
 "ViewOnlyAccess","v14",False,"2022-05-04T18:10:49+00:00",0,0,0,0,0,0,0
@@ -2569,6 +2570,7 @@
 "AmazonRDSPerformanceInsightsReadOnly","v1",True,"2022-04-05T00:02:08+00:00",0,0,0,0,0,0,0
 "AmazonKinesisVideoStreamsReadOnlyAccess","v1",True,"2017-12-01T23:14:32+00:00",0,0,0,0,0,0,0
 "AWSApplicationMigrationMGHAccess","v1",True,"2021-04-07T07:10:01+00:00",0,1,0,0,0,0,6
+"AWSCleanRoomsReadOnlyAccess","v1",True,"2023-01-12T16:10:48+00:00",0,0,0,0,0,0,0
 "AmazonMQFullAccess","v2",False,"2018-01-11T19:39:06+00:00",1,2,0,2,0,0,13
 "AmazonMQFullAccess","v4",False,"2018-12-18T20:33:17+00:00",1,3,0,2,0,0,16
 "AmazonMQFullAccess","v3",False,"2018-07-31T16:28:07+00:00",1,2,0,2,0,0,13

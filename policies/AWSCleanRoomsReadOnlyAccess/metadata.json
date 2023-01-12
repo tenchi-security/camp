@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSCleanRoomsReadOnlyAccess",
+    "PolicyId": "ANPAZKAPJZG4FRFM45XQJ",
+    "Arn": "arn:aws:iam::aws:policy/AWSCleanRoomsReadOnlyAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2023-01-12T16:10:48+00:00",
+    "UpdateDate": "2023-01-12T16:10:48+00:00"
+}
