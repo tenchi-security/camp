@@ -2252,8 +2252,9 @@
 "AmazonSageMakerNotebooksServiceRolePolicy","v2",False,"2019-11-14T22:43:23+00:00",0,2,0,1,0,0,13
 "AmazonSageMakerNotebooksServiceRolePolicy","v4",False,"2020-04-02T21:13:37+00:00",0,3,0,1,0,0,14
 "AmazonSageMakerNotebooksServiceRolePolicy","v3",False,"2019-11-26T18:58:12+00:00",0,3,0,1,0,0,14
+"AmazonSageMakerNotebooksServiceRolePolicy","v6",True,"2023-01-12T20:01:49+00:00",0,3,0,2,0,0,15
 "AmazonSageMakerNotebooksServiceRolePolicy","v1",False,"2019-10-18T20:27:37+00:00",0,2,0,1,0,0,9
-"AmazonSageMakerNotebooksServiceRolePolicy","v5",True,"2020-08-28T22:39:39+00:00",0,3,0,2,0,0,14
+"AmazonSageMakerNotebooksServiceRolePolicy","v5",False,"2020-08-28T22:39:39+00:00",0,3,0,2,0,0,14
 "EC2FastLaunchServiceRolePolicy","v1",True,"2022-01-10T13:08:21+00:00",0,1,0,1,0,0,1
 "AmazonWorkLinkReadOnly","v2",False,"2019-08-01T21:35:07+00:00",0,0,0,0,0,0,0
 "AmazonWorkLinkReadOnly","v3",True,"2019-09-23T18:37:21+00:00",0,0,0,0,0,0,0
