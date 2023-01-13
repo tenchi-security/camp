@@ -1757,6 +1757,7 @@
 "AWSCodeDeployDeployerAccess","v2",False,"2019-11-05T22:59:06+00:00",0,2,0,0,0,0,6
 "AWSCodeDeployDeployerAccess","v3",True,"2020-04-02T16:16:11+00:00",0,2,0,0,0,0,6
 "AWSCodeDeployDeployerAccess","v1",False,"2015-05-19T18:18:43+00:00",0,1,0,0,0,0,2
+"AmazonLaunchWizard_Fullaccess","v14",True,"2023-01-12T23:55:29+00:00",2,9,0,2,3,1,88
 "AmazonLaunchWizard_Fullaccess","v2",False,"2020-09-01T20:02:51+00:00",2,8,0,3,3,1,80
 "AmazonLaunchWizard_Fullaccess","v9",False,"2021-04-08T19:03:02+00:00",2,8,0,3,3,1,82
 "AmazonLaunchWizard_Fullaccess","v10",False,"2021-05-24T23:04:20+00:00",2,9,0,3,3,1,86
@@ -1764,7 +1765,7 @@
 "AmazonLaunchWizard_Fullaccess","v4",False,"2020-11-11T20:26:48+00:00",2,8,0,3,3,1,80
 "AmazonLaunchWizard_Fullaccess","v3",False,"2020-10-09T22:27:30+00:00",2,8,0,3,3,1,80
 "AmazonLaunchWizard_Fullaccess","v6",False,"2020-12-04T16:01:43+00:00",2,8,0,3,3,1,80
-"AmazonLaunchWizard_Fullaccess","v13",True,"2022-04-12T19:16:27+00:00",2,9,0,2,3,1,87
+"AmazonLaunchWizard_Fullaccess","v13",False,"2022-04-12T19:16:27+00:00",2,9,0,2,3,1,87
 "AmazonLaunchWizard_Fullaccess","v1",False,"2020-08-06T17:47:30+00:00",2,8,0,3,3,1,80
 "AmazonLaunchWizard_Fullaccess","v8",False,"2021-02-12T17:06:05+00:00",2,8,0,3,3,1,80
 "AmazonLaunchWizard_Fullaccess","v11",False,"2021-08-25T17:24:45+00:00",2,9,0,3,3,1,86
