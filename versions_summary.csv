@@ -2222,7 +2222,8 @@
 "AWSSSMForSAPServiceLinkedRolePolicy","v2",True,"2023-01-06T02:41:02+00:00",0,0,0,0,0,0,0
 "AWSSSMForSAPServiceLinkedRolePolicy","v1",False,"2022-11-16T01:18:21+00:00",0,0,0,0,0,0,0
 "AWSPanoramaServiceLinkedRolePolicy","v1",True,"2021-10-20T12:12:50+00:00",0,0,0,0,0,0,0
-"AWSPanoramaApplianceServiceRolePolicy","v1",True,"2021-10-20T12:14:03+00:00",0,1,0,0,0,0,1
+"AWSPanoramaApplianceServiceRolePolicy","v2",True,"2023-01-17T21:32:36+00:00",0,0,0,0,0,0,0
+"AWSPanoramaApplianceServiceRolePolicy","v1",False,"2021-10-20T12:14:03+00:00",0,1,0,0,0,0,1
 "AWSElasticBeanstalkManagedUpdatesCustomerRolePolicy","v2",False,"2021-03-09T22:36:04+00:00",2,2,0,0,0,0,42
 "AWSElasticBeanstalkManagedUpdatesCustomerRolePolicy","v4",True,"2022-12-22T01:07:07+00:00",2,2,0,0,0,0,43
 "AWSElasticBeanstalkManagedUpdatesCustomerRolePolicy","v3",False,"2021-06-16T22:40:31+00:00",2,2,0,0,0,0,42
