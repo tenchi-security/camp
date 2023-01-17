@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonDetectiveInvestigatorAccess",
+    "PolicyId": "ANPAZKAPJZG4KOT67VSLJ",
+    "Arn": "arn:aws:iam::aws:policy/AmazonDetectiveInvestigatorAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2023-01-17T15:24:26+00:00",
+    "UpdateDate": "2023-01-17T15:24:26+00:00"
+}

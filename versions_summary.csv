@@ -1462,7 +1462,8 @@
 "AWSOpsWorksCMServiceRole","v11",False,"2019-11-07T13:03:31+00:00",0,3,0,0,0,0,19
 "AWSOpsWorksCMServiceRole","v5",False,"2017-03-07T14:12:21+00:00",0,2,0,0,0,0,11
 "AWSOpsWorksCMServiceRole","v7",False,"2018-09-25T08:05:37+00:00",0,2,0,0,0,0,16
-"AmazonDetectiveFullAccess","v2",True,"2020-10-21T22:07:28+00:00",1,1,0,0,0,0,7
+"AmazonDetectiveFullAccess","v2",False,"2020-10-21T22:07:28+00:00",1,1,0,0,0,0,7
+"AmazonDetectiveFullAccess","v3",True,"2023-01-17T14:35:33+00:00",1,1,0,0,0,0,9
 "AmazonDetectiveFullAccess","v1",False,"2020-04-30T17:57:15+00:00",1,1,0,0,0,0,7
 "AmazonSSMDirectoryServiceAccess","v1",True,"2019-03-15T17:44:38+00:00",0,1,0,0,0,0,1
 "GlobalAcceleratorReadOnlyAccess","v1",True,"2018-11-27T02:41:00+00:00",0,0,0,0,0,0,0
@@ -1934,6 +1935,7 @@
 "AmazonWorkSpacesAdmin","v3",False,"2022-08-31T18:28:53+00:00",0,1,0,0,0,0,7
 "AmazonWorkSpacesAdmin","v1",False,"2015-09-22T22:21:15+00:00",0,1,0,0,0,0,4
 "AWSIoTSiteWiseMonitorPortalAccess","v1",True,"2020-05-19T20:01:21+00:00",0,1,0,0,0,0,11
+"AmazonDetectiveMemberAccess","v1",True,"2023-01-17T15:16:14+00:00",0,0,0,0,0,0,0
 "AmazonEC2ContainerRegistryReadOnly","v2",False,"2016-10-11T22:08:43+00:00",0,1,0,0,0,1,0
 "AmazonEC2ContainerRegistryReadOnly","v3",True,"2019-12-10T20:56:32+00:00",0,1,0,0,0,1,0
 "AmazonEC2ContainerRegistryReadOnly","v1",False,"2015-12-21T17:04:15+00:00",0,1,0,0,0,1,0
@@ -2247,6 +2249,7 @@
 "AWSGrafanaConsoleReadOnlyAccess","v3",True,"2022-02-15T22:30:54+00:00",0,0,0,0,0,0,0
 "AWSGrafanaConsoleReadOnlyAccess","v1",False,"2021-02-23T00:10:40+00:00",0,0,0,0,0,0,0
 "AmazonMQApiReadOnlyAccess","v1",True,"2018-12-18T20:31:13+00:00",0,0,0,0,0,0,0
+"AmazonDetectiveInvestigatorAccess","v1",True,"2023-01-17T15:24:26+00:00",0,0,0,0,0,0,0
 "AmazonSSMFullAccess","v2",False,"2016-03-07T21:09:12+00:00",3,3,0,3,3,0,68
 "AmazonSSMFullAccess","v4",True,"2019-11-20T20:08:56+00:00",3,3,0,3,3,0,68
 "AmazonSSMFullAccess","v3",False,"2018-07-23T22:53:18+00:00",3,3,0,3,3,0,68

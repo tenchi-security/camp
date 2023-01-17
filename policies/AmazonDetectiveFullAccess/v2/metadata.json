@@ -1,6 +1,6 @@
 {
     "VersionId": "v2",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2020-10-21T22:07:28+00:00",
     "PolicyName": "AmazonDetectiveFullAccess"
 }
