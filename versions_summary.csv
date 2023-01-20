@@ -578,7 +578,8 @@
 "ComprehendReadOnly","v10",False,"2022-02-02T21:08:24+00:00",0,0,0,0,0,0,0
 "AWSResourceAccessManagerReadOnlyAccess","v1",True,"2019-12-09T20:58:37+00:00",0,0,0,0,0,0,0
 "AmazonMacieHandshakeRole","v1",True,"2018-06-28T15:46:10+00:00",0,1,0,1,0,0,1
-"AWSMarketplaceManageSubscriptions","v2",True,"2019-10-28T21:49:43+00:00",0,0,0,0,0,0,0
+"AWSMarketplaceManageSubscriptions","v3",True,"2023-01-19T23:45:29+00:00",0,0,0,0,0,0,0
+"AWSMarketplaceManageSubscriptions","v2",False,"2019-10-28T21:49:43+00:00",0,0,0,0,0,0,0
 "AWSMarketplaceManageSubscriptions","v1",False,"2015-02-06T18:40:32+00:00",0,0,0,0,0,0,0
 "SecurityLakeServiceLinkedRole","v1",True,"2022-11-29T14:03:33+00:00",0,0,0,0,0,0,0
 "AWSPanoramaSageMakerRolePolicy","v1",True,"2020-12-01T13:13:54+00:00",0,0,0,0,0,0,0
@@ -941,8 +942,9 @@
 "AWSLakeFormationCrossAccountManager","v4",True,"2022-05-20T22:19:37+00:00",0,2,0,6,0,0,6
 "AWSLakeFormationCrossAccountManager","v1",False,"2020-08-04T20:59:46+00:00",0,2,0,4,0,0,3
 "AmazonSageMakerModelGovernanceUseAccess","v1",True,"2022-11-30T08:58:19+00:00",0,1,0,0,0,0,4
-"AWSMarketplaceRead-only","v3",True,"2019-10-28T21:51:31+00:00",0,0,0,0,0,0,0
+"AWSMarketplaceRead-only","v3",False,"2019-10-28T21:51:31+00:00",0,0,0,0,0,0,0
 "AWSMarketplaceRead-only","v2",False,"2018-07-31T23:24:24+00:00",0,0,0,0,0,0,0
+"AWSMarketplaceRead-only","v4",True,"2023-01-19T23:30:25+00:00",0,0,0,0,0,0,0
 "AWSMarketplaceRead-only","v1",False,"2015-02-06T18:40:31+00:00",0,0,0,0,0,0,0
 "AWSAppMeshPreviewEnvoyAccess","v1",True,"2019-08-05T23:32:39+00:00",0,0,0,0,0,0,0
 "ResourceGroupsandTagEditorFullAccess","v5",True,"2019-10-02T23:57:57+00:00",1,1,0,0,0,0,8
