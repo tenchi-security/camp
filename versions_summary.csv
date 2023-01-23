@@ -1768,6 +1768,7 @@
 "AmazonEC2ContainerRegistryReadOnly","v1",False,"2015-12-21T17:04:15+00:00",0,1,0,0,0,1,0
 "AWSIoTAnalyticsFullAccess","v1",True,"2018-06-18T23:02:45+00:00",1,1,0,0,0,0,19
 "CloudwatchApplicationInsightsServiceLinkedRolePolicy","v8",False,"2020-06-02T19:50:03+00:00",0,1,0,0,0,0,2
+"CloudwatchApplicationInsightsServiceLinkedRolePolicy","v23",True,"2023-01-23T21:38:30+00:00",0,2,0,0,0,0,3
 "CloudwatchApplicationInsightsServiceLinkedRolePolicy","v5",False,"2019-06-24T18:54:53+00:00",0,1,0,0,0,0,2
 "CloudwatchApplicationInsightsServiceLinkedRolePolicy","v20",False,"2022-09-03T17:23:50+00:00",0,2,0,0,0,0,3
 "CloudwatchApplicationInsightsServiceLinkedRolePolicy","v13",False,"2021-04-15T00:30:19+00:00",0,1,0,0,0,0,2
@@ -1775,7 +1776,7 @@
 "CloudwatchApplicationInsightsServiceLinkedRolePolicy","v12",False,"2021-01-19T20:27:15+00:00",0,1,0,0,0,0,2
 "CloudwatchApplicationInsightsServiceLinkedRolePolicy","v18",False,"2021-11-11T23:03:50+00:00",0,2,0,0,0,0,3
 "CloudwatchApplicationInsightsServiceLinkedRolePolicy","v2",False,"2019-04-24T17:25:29+00:00",0,1,0,0,0,0,2
-"CloudwatchApplicationInsightsServiceLinkedRolePolicy","v22",True,"2023-01-04T19:28:35+00:00",0,2,0,0,0,0,3
+"CloudwatchApplicationInsightsServiceLinkedRolePolicy","v22",False,"2023-01-04T19:28:35+00:00",0,2,0,0,0,0,3
 "CloudwatchApplicationInsightsServiceLinkedRolePolicy","v14",False,"2021-05-11T22:38:14+00:00",0,1,0,0,0,0,2
 "CloudwatchApplicationInsightsServiceLinkedRolePolicy","v11",False,"2020-11-09T22:39:19+00:00",0,1,0,0,0,0,2
 "CloudwatchApplicationInsightsServiceLinkedRolePolicy","v21",False,"2022-10-10T19:01:17+00:00",0,2,0,0,0,0,3
