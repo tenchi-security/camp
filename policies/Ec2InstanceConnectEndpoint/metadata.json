@@ -1,0 +1,12 @@
+{
+    "PolicyName": "Ec2InstanceConnectEndpoint",
+    "PolicyId": "ANPAZKAPJZG4PP6VJFZS6",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/Ec2InstanceConnectEndpoint",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2023-01-24T20:19:21+00:00",
+    "UpdateDate": "2023-01-24T20:19:21+00:00"
+}
