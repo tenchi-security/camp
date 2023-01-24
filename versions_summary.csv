@@ -326,9 +326,10 @@
 "AWSThinkboxDeadlineResourceTrackerAccessPolicy","v1",True,"2020-05-27T19:25:05+00:00",0,2,0,0,0,0,3
 "AmazonWorkLinkServiceRolePolicy","v2",True,"2020-02-07T20:48:49+00:00",0,2,0,2,0,0,7
 "AmazonWorkLinkServiceRolePolicy","v1",False,"2019-03-18T18:00:16+00:00",0,1,0,2,0,0,4
+"AWSElasticBeanstalkManagedUpdatesCustomerRolePolicy","v5",True,"2023-01-23T23:48:56+00:00",2,2,0,0,0,0,43
 "AWSElasticBeanstalkManagedUpdatesCustomerRolePolicy","v3",False,"2021-06-16T22:40:31+00:00",2,2,0,0,0,0,42
 "AWSElasticBeanstalkManagedUpdatesCustomerRolePolicy","v2",False,"2021-03-09T22:36:04+00:00",2,2,0,0,0,0,42
-"AWSElasticBeanstalkManagedUpdatesCustomerRolePolicy","v4",True,"2022-12-22T01:07:07+00:00",2,2,0,0,0,0,43
+"AWSElasticBeanstalkManagedUpdatesCustomerRolePolicy","v4",False,"2022-12-22T01:07:07+00:00",2,2,0,0,0,0,43
 "AWSElasticBeanstalkManagedUpdatesCustomerRolePolicy","v1",False,"2021-03-03T22:18:00+00:00",2,2,0,0,0,0,42
 "AmazonOpenSearchServiceReadOnlyAccess","v1",True,"2021-09-08T05:38:13+00:00",0,0,0,0,0,0,0
 "AmazonSSMPatchAssociation","v1",True,"2020-05-13T16:00:42+00:00",0,0,0,0,0,0,0

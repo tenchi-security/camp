@@ -1,0 +1,6 @@
+{
+    "VersionId": "v5",
+    "IsDefaultVersion": true,
+    "CreateDate": "2023-01-23T23:48:56+00:00",
+    "PolicyName": "AWSElasticBeanstalkManagedUpdatesCustomerRolePolicy"
+}
