@@ -2396,7 +2396,8 @@
 "AWSCodeDeployReadOnlyAccess","v1",False,"2015-05-19T18:21:32+00:00",0,0,0,0,0,0,0
 "AWSConfigRoleForOrganizations","v2",True,"2020-11-24T20:19:13+00:00",0,0,0,0,0,0,0
 "AWSConfigRoleForOrganizations","v1",False,"2018-03-19T22:53:01+00:00",0,0,0,0,0,0,0
-"AWSIPAMServiceRolePolicy","v1",True,"2021-11-30T19:08:11+00:00",0,0,0,0,0,0,0
+"AWSIPAMServiceRolePolicy","v2",True,"2023-01-25T20:13:08+00:00",0,0,0,0,0,0,0
+"AWSIPAMServiceRolePolicy","v1",False,"2021-11-30T19:08:11+00:00",0,0,0,0,0,0,0
 "AWSWAFReadOnlyAccess","v5",True,"2022-08-25T20:12:57+00:00",0,0,0,0,0,0,0
 "AWSWAFReadOnlyAccess","v3",False,"2020-01-07T19:27:38+00:00",0,0,0,0,0,0,0
 "AWSWAFReadOnlyAccess","v2",False,"2016-12-07T21:30:54+00:00",0,0,0,0,0,0,0
