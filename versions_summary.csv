@@ -874,7 +874,8 @@
 "AmazonCloudDirectoryFullAccess","v1",True,"2017-02-25T00:41:39+00:00",1,1,0,0,0,0,32
 "AmazonRDSCustomServiceRolePolicy","v2",True,"2022-11-09T22:17:08+00:00",0,1,0,0,0,0,7
 "AmazonRDSCustomServiceRolePolicy","v1",False,"2021-10-08T21:39:12+00:00",0,1,0,0,0,0,6
-"AWSResourceExplorerServiceRolePolicy","v2",True,"2022-10-31T17:23:15+00:00",0,0,0,0,0,0,0
+"AWSResourceExplorerServiceRolePolicy","v3",True,"2023-01-26T14:43:30+00:00",0,0,0,0,0,0,0
+"AWSResourceExplorerServiceRolePolicy","v2",False,"2022-10-31T17:23:15+00:00",0,0,0,0,0,0,0
 "AWSResourceExplorerServiceRolePolicy","v1",False,"2022-10-25T20:35:29+00:00",0,0,0,0,0,0,0
 "AmazonEC2SpotFleetAutoscaleRole","v3",True,"2019-02-18T19:17:03+00:00",0,2,0,0,0,0,3
 "AmazonEC2SpotFleetAutoscaleRole","v2",False,"2017-11-14T22:24:10+00:00",0,2,0,0,0,0,3
