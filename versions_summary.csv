@@ -2564,6 +2564,7 @@
 "AWSConfigServiceRolePolicy","v24",False,"2021-05-11T00:14:41+00:00",0,1,0,0,0,0,5
 "AWSConfigServiceRolePolicy","v2",False,"2018-07-31T19:20:09+00:00",0,1,0,0,0,0,5
 "AWSConfigServiceRolePolicy","v22",False,"2021-01-29T19:19:53+00:00",0,1,0,0,0,0,5
+"AWSConfigServiceRolePolicy","v40",True,"2023-01-31T19:52:15+00:00",0,2,0,2,0,0,7
 "AWSConfigServiceRolePolicy","v14",False,"2019-07-23T19:18:04+00:00",0,1,0,0,0,0,5
 "AWSConfigServiceRolePolicy","v11",False,"2019-05-13T21:18:44+00:00",0,1,0,0,0,0,5
 "AWSConfigServiceRolePolicy","v36",False,"2022-09-14T19:19:27+00:00",0,2,0,2,0,0,7
@@ -2584,7 +2585,7 @@
 "AWSConfigServiceRolePolicy","v27",False,"2021-09-08T18:12:00+00:00",0,1,0,0,0,0,5
 "AWSConfigServiceRolePolicy","v10",False,"2019-03-12T18:10:21+00:00",0,1,0,0,0,0,5
 "AWSConfigServiceRolePolicy","v17",False,"2019-10-21T21:54:04+00:00",0,1,0,0,0,0,5
-"AWSConfigServiceRolePolicy","v39",True,"2023-01-05T22:27:05+00:00",0,2,0,2,0,0,7
+"AWSConfigServiceRolePolicy","v39",False,"2023-01-05T22:27:05+00:00",0,2,0,2,0,0,7
 "AWSConfigServiceRolePolicy","v29",False,"2022-02-10T18:34:59+00:00",0,1,0,0,0,0,5
 "AmazonCodeGuruReviewerFullAccess","v3",True,"2020-08-29T04:16:08+00:00",2,4,0,0,0,0,11
 "AmazonCodeGuruReviewerFullAccess","v2",False,"2020-05-07T00:43:09+00:00",1,4,0,0,0,0,11
@@ -2749,8 +2750,9 @@
 "AWSIoTDeviceTesterForGreengrassFullAccess","v2",False,"2020-02-26T18:26:52+00:00",1,2,0,0,0,0,8
 "AWSIoTDeviceTesterForGreengrassFullAccess","v4",True,"2020-06-25T17:01:56+00:00",1,2,0,0,0,0,8
 "AWSIoTDeviceTesterForGreengrassFullAccess","v1",False,"2020-02-20T21:21:27+00:00",1,2,0,0,0,0,8
-"AmazonLexReadOnly","v3",True,"2022-04-27T23:43:22+00:00",0,0,0,0,0,0,0
+"AmazonLexReadOnly","v3",False,"2022-04-27T23:43:22+00:00",0,0,0,0,0,0,0
 "AmazonLexReadOnly","v2",False,"2021-07-26T22:04:56+00:00",0,0,0,0,0,0,0
+"AmazonLexReadOnly","v4",True,"2023-01-31T19:31:41+00:00",0,0,0,0,0,0,0
 "AmazonLexReadOnly","v1",False,"2017-04-11T23:13:33+00:00",0,0,0,0,0,0,0
 "AmazonOpenSearchServiceFullAccess","v1",True,"2021-09-08T05:33:47+00:00",1,1,0,2,0,0,15
 "QuickSightAccessForS3StorageManagementAnalyticsReadOnly","v3",False,"2017-07-21T00:02:14+00:00",0,0,0,0,0,0,0

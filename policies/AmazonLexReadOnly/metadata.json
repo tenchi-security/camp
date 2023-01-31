@@ -3,10 +3,10 @@
     "PolicyId": "ANPAJGBI5LSMAJNDGBNAM",
     "Arn": "arn:aws:iam::aws:policy/AmazonLexReadOnly",
     "Path": "/",
-    "DefaultVersionId": "v3",
+    "DefaultVersionId": "v4",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2017-04-11T23:13:33+00:00",
-    "UpdateDate": "2022-04-27T23:43:22+00:00"
+    "UpdateDate": "2023-01-31T19:31:41+00:00"
 }
