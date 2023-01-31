@@ -1685,7 +1685,8 @@
 "AWSApplicationAutoscalingSageMakerEndpointPolicy","v1",True,"2018-02-06T19:58:21+00:00",0,2,0,0,0,0,3
 "AmazonEMRReadOnlyAccessPolicy_v2","v2",True,"2022-04-21T22:31:26+00:00",0,0,0,0,0,0,0
 "AmazonEMRReadOnlyAccessPolicy_v2","v1",False,"2021-03-12T01:39:16+00:00",0,0,0,0,0,0,0
-"AWSManagedServicesDeploymentToolkitPolicy","v1",True,"2022-06-09T18:33:03+00:00",0,0,0,0,0,0,0
+"AWSManagedServicesDeploymentToolkitPolicy","v2",True,"2023-01-30T22:10:28+00:00",0,0,0,0,0,0,0
+"AWSManagedServicesDeploymentToolkitPolicy","v1",False,"2022-06-09T18:33:03+00:00",0,0,0,0,0,0,0
 "AmazonMachineLearningFullAccess","v1",True,"2015-04-09T17:25:41+00:00",1,1,0,0,0,0,19
 "ElasticLoadBalancingFullAccess","v5",False,"2020-12-04T20:01:39+00:00",1,2,0,1,0,0,24
 "ElasticLoadBalancingFullAccess","v3",False,"2018-12-12T18:49:21+00:00",1,2,0,1,0,0,24
