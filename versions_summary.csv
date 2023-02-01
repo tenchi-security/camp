@@ -2455,7 +2455,8 @@
 "AWSDeepRacerServiceRolePolicy","v3",True,"2019-06-12T20:55:34+00:00",3,7,0,1,0,0,169
 "AWSDeepRacerServiceRolePolicy","v2",False,"2019-04-06T04:08:05+00:00",4,8,0,1,0,5,173
 "AWSDeepRacerServiceRolePolicy","v1",False,"2019-02-28T21:58:09+00:00",4,8,0,1,0,5,172
-"AWSAppSyncSchemaAuthor","v2",True,"2022-08-25T17:18:23+00:00",0,1,0,0,0,0,3
+"AWSAppSyncSchemaAuthor","v3",True,"2023-02-01T18:36:20+00:00",0,1,0,0,0,0,3
+"AWSAppSyncSchemaAuthor","v2",False,"2022-08-25T17:18:23+00:00",0,1,0,0,0,0,3
 "AWSAppSyncSchemaAuthor","v1",False,"2018-03-20T21:21:06+00:00",0,1,0,0,0,0,1
 "AWSQuickSightListIAM","v1",True,"2015-11-10T23:25:07+00:00",0,0,0,0,0,0,0
 "AmazonEventBridgeSchedulerReadOnlyAccess","v1",True,"2022-11-10T18:50:12+00:00",0,0,0,0,0,0,0
