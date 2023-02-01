@@ -1,0 +1,41 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "sqlworkbench"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "sqlworkbench:AssociateConnectionWithChart",
+        "sqlworkbench:AssociateConnectionWithTab",
+        "sqlworkbench:AssociateQueryWithTab",
+        "sqlworkbench:CreateChart",
+        "sqlworkbench:CreateConnection",
+        "sqlworkbench:CreateNotebook",
+        "sqlworkbench:CreateNotebookCell",
+        "sqlworkbench:CreateNotebookFromVersion",
+        "sqlworkbench:CreateNotebookVersion",
+        "sqlworkbench:CreateSavedQuery",
+        "sqlworkbench:DeleteChart",
+        "sqlworkbench:DeleteConnection",
+        "sqlworkbench:DeleteNotebook",
+        "sqlworkbench:DeleteNotebookCell",
+        "sqlworkbench:DeleteNotebookVersion",
+        "sqlworkbench:DeleteSavedQuery",
+        "sqlworkbench:DriverExecute",
+        "sqlworkbench:DuplicateNotebook",
+        "sqlworkbench:ImportNotebook",
+        "sqlworkbench:RestoreNotebookVersion",
+        "sqlworkbench:TagResource",
+        "sqlworkbench:UntagResource",
+        "sqlworkbench:UpdateChart",
+        "sqlworkbench:UpdateConnection",
+        "sqlworkbench:UpdateFileFolder",
+        "sqlworkbench:UpdateNotebook",
+        "sqlworkbench:UpdateNotebookCellContent",
+        "sqlworkbench:UpdateNotebookCellLayout",
+        "sqlworkbench:UpdateSavedQuery"
+    ]
+}
