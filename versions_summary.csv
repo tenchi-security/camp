@@ -1258,7 +1258,7 @@
 "FMSServiceRolePolicy","v25",False,"2022-06-24T20:29:28+00:00",0,7,0,2,0,0,28
 "FMSServiceRolePolicy","v5",False,"2019-01-21T21:12:11+00:00",0,1,0,0,0,0,1
 "FMSServiceRolePolicy","v20",False,"2021-09-30T17:12:33+00:00",0,6,0,3,0,0,27
-"FMSServiceRolePolicy","v26",True,"2022-11-15T20:51:43+00:00",0,7,0,2,0,0,28
+"FMSServiceRolePolicy","v26",False,"2022-11-15T20:51:43+00:00",0,7,0,2,0,0,28
 "FMSServiceRolePolicy","v13",False,"2020-07-20T23:05:16+00:00",0,3,0,0,0,0,5
 "FMSServiceRolePolicy","v3",False,"2018-08-29T17:46:50+00:00",0,2,0,0,0,0,4
 "FMSServiceRolePolicy","v12",False,"2020-05-12T21:02:44+00:00",0,3,0,0,0,0,5
@@ -1276,6 +1276,7 @@
 "FMSServiceRolePolicy","v19",False,"2021-08-12T19:21:06+00:00",0,6,0,2,0,0,26
 "FMSServiceRolePolicy","v16",False,"2020-09-08T18:03:00+00:00",0,3,0,0,0,0,5
 "FMSServiceRolePolicy","v6",False,"2019-02-18T19:12:31+00:00",0,2,0,0,0,0,3
+"FMSServiceRolePolicy","v27",True,"2023-02-03T23:53:37+00:00",0,7,0,2,0,0,28
 "FMSServiceRolePolicy","v10",False,"2020-03-10T20:10:50+00:00",0,3,0,0,0,0,5
 "FMSServiceRolePolicy","v17",False,"2020-11-17T17:35:16+00:00",0,5,0,2,0,0,26
 "AmazonSageMakerGeospatialFullAccess","v1",True,"2022-11-30T10:06:48+00:00",1,0,0,0,0,0,0
