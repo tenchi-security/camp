@@ -209,8 +209,9 @@
 "AWSLambdaVPCAccessExecutionRole","v1",False,"2016-02-11T23:15:26+00:00",0,2,0,0,0,0,5
 "AmazonRoute53RecoveryControlConfigReadOnlyAccess","v2",True,"2021-12-09T23:38:51+00:00",0,0,0,0,0,0,0
 "AmazonRoute53RecoveryControlConfigReadOnlyAccess","v1",False,"2021-08-18T18:01:12+00:00",0,0,0,0,0,0,0
-"AWSApplicationMigrationEC2Access","v3",True,"2022-11-27T09:36:21+00:00",0,0,0,0,0,0,0
+"AWSApplicationMigrationEC2Access","v3",False,"2022-11-27T09:36:21+00:00",0,0,0,0,0,0,0
 "AWSApplicationMigrationEC2Access","v2",False,"2022-03-02T08:49:20+00:00",0,0,0,0,0,0,0
+"AWSApplicationMigrationEC2Access","v4",True,"2023-02-06T16:07:02+00:00",0,0,0,0,0,0,0
 "AWSApplicationMigrationEC2Access","v1",False,"2021-04-07T07:05:22+00:00",0,0,0,0,0,0,0
 "AmazonAugmentedAIIntegratedAPIAccess","v1",True,"2020-04-22T20:47:32+00:00",0,1,0,0,0,0,6
 "AWSElasticDisasterRecoveryAgentPolicy","v1",True,"2021-11-17T10:32:32+00:00",0,0,0,0,0,0,0
