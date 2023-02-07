@@ -1368,11 +1368,12 @@
 "AWSSupportPlansReadOnlyAccess","v1",True,"2022-09-27T18:08:29+00:00",0,0,0,0,0,0,0
 "AmazonAugmentedAIHumanLoopFullAccess","v1",True,"2019-12-03T16:20:47+00:00",0,1,0,0,0,0,3
 "AmazonElasticFileSystemClientFullAccess","v1",True,"2020-01-13T16:27:00+00:00",0,1,0,0,0,0,2
-"AmazonEKSClusterPolicy","v5",True,"2021-06-15T20:57:05+00:00",0,4,0,1,0,0,28
+"AmazonEKSClusterPolicy","v5",False,"2021-06-15T20:57:05+00:00",0,4,0,1,0,0,28
 "AmazonEKSClusterPolicy","v3",False,"2019-05-22T22:04:46+00:00",0,4,0,1,0,0,28
 "AmazonEKSClusterPolicy","v2",False,"2018-10-03T20:56:30+00:00",0,4,0,1,0,0,28
 "AmazonEKSClusterPolicy","v4",False,"2020-02-21T20:10:11+00:00",0,4,0,1,0,0,28
 "AmazonEKSClusterPolicy","v1",False,"2018-05-27T21:06:14+00:00",0,3,0,0,0,0,27
+"AmazonEKSClusterPolicy","v6",True,"2023-02-07T17:33:23+00:00",0,4,0,1,0,0,39
 "CloudFormationStackSetsOrgAdminServiceRolePolicy","v1",True,"2019-12-10T00:20:05+00:00",0,0,0,0,0,0,0
 "AWSApplicationMigrationMGHAccess","v1",True,"2021-04-07T07:10:01+00:00",0,1,0,0,0,0,6
 "AWSElasticDisasterRecoveryConsoleFullAccess","v2",True,"2022-05-29T08:40:00+00:00",1,1,0,0,0,0,35
