@@ -1054,7 +1054,8 @@
 "CloudWatchLogsReadOnlyAccess","v2",False,"2015-12-03T19:59:32+00:00",0,0,0,0,0,0,0
 "CloudWatchLogsReadOnlyAccess","v4",True,"2019-01-14T19:32:45+00:00",0,0,0,0,0,0,0
 "CloudWatchLogsReadOnlyAccess","v1",False,"2015-02-06T18:40:03+00:00",0,0,0,0,0,0,0
-"AWSBackupServiceRolePolicyForS3Restore","v1",True,"2022-02-18T17:39:37+00:00",0,1,0,0,0,0,1
+"AWSBackupServiceRolePolicyForS3Restore","v2",True,"2023-02-07T00:06:00+00:00",0,1,0,0,0,0,2
+"AWSBackupServiceRolePolicyForS3Restore","v1",False,"2022-02-18T17:39:37+00:00",0,1,0,0,0,0,1
 "CloudWatchLogsCrossAccountSharingConfiguration","v1",True,"2022-11-27T13:55:22+00:00",0,0,0,0,0,0,0
 "AWSHealth_EventProcessorServiceRolePolicy","v1",True,"2023-01-13T19:24:56+00:00",0,1,0,0,0,0,4
 "AmazonElasticTranscoder_ReadOnlyAccess","v2",True,"2019-06-10T22:48:32+00:00",0,0,0,0,0,0,0

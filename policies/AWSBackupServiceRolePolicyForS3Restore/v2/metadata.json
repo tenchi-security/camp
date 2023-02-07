@@ -1,0 +1,6 @@
+{
+    "VersionId": "v2",
+    "IsDefaultVersion": true,
+    "CreateDate": "2023-02-07T00:06:00+00:00",
+    "PolicyName": "AWSBackupServiceRolePolicyForS3Restore"
+}
