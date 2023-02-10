@@ -1,6 +1,6 @@
 {
     "VersionId": "v1",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2018-11-16T21:55:25+00:00",
     "PolicyName": "AmazonElasticMapReduceEditorsRole"
 }
