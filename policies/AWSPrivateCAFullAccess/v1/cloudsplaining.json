@@ -1,0 +1,32 @@
+{
+    "ServiceWildcard": [
+        "acm-pca"
+    ],
+    "ServicesAffected": [
+        "acm-pca"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "acm-pca:CreatePermission",
+        "acm-pca:DeletePermission",
+        "acm-pca:DeletePolicy",
+        "acm-pca:PutPolicy"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "acm-pca:CreateCertificateAuthorityAuditReport",
+        "acm-pca:CreatePermission",
+        "acm-pca:DeleteCertificateAuthority",
+        "acm-pca:DeletePermission",
+        "acm-pca:DeletePolicy",
+        "acm-pca:ImportCertificateAuthorityCertificate",
+        "acm-pca:IssueCertificate",
+        "acm-pca:PutPolicy",
+        "acm-pca:RestoreCertificateAuthority",
+        "acm-pca:RevokeCertificate",
+        "acm-pca:TagCertificateAuthority",
+        "acm-pca:UntagCertificateAuthority",
+        "acm-pca:UpdateCertificateAuthority"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSPrivateCAAuditor",
+    "PolicyId": "ANPAZKAPJZG4O6EOPUK2L",
+    "Arn": "arn:aws:iam::aws:policy/AWSPrivateCAAuditor",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2023-02-14T18:33:44+00:00",
+    "UpdateDate": "2023-02-14T18:33:44+00:00"
+}

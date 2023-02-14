@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSPrivateCAReadOnly",
+    "PolicyId": "ANPAZKAPJZG4PF3O4E3NU",
+    "Arn": "arn:aws:iam::aws:policy/AWSPrivateCAReadOnly",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2023-02-14T18:30:50+00:00",
+    "UpdateDate": "2023-02-14T18:30:50+00:00"
+}
