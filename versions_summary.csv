@@ -690,7 +690,8 @@
 "AWSIoTRuleActions","v2",True,"2018-01-16T19:28:19+00:00",0,9,0,0,0,0,10
 "AWSIoTRuleActions","v1",False,"2015-10-08T15:14:51+00:00",0,6,0,0,0,0,7
 "AmazonRoute53AutoNamingReadOnlyAccess","v1",True,"2018-01-18T03:02:59+00:00",0,0,0,0,0,0,0
-"AWSNetworkFirewallServiceRolePolicy","v1",True,"2020-11-17T17:17:26+00:00",0,1,0,0,0,0,2
+"AWSNetworkFirewallServiceRolePolicy","v2",True,"2023-02-14T17:09:19+00:00",0,1,0,0,0,0,2
+"AWSNetworkFirewallServiceRolePolicy","v1",False,"2020-11-17T17:17:26+00:00",0,1,0,0,0,0,2
 "AWSDataExchangeSubscriberFullAccess","v5",False,"2021-09-30T21:31:28+00:00",0,1,0,0,0,0,3
 "AWSDataExchangeSubscriberFullAccess","v3",False,"2021-01-14T17:06:28+00:00",0,1,0,0,0,0,3
 "AWSDataExchangeSubscriberFullAccess","v2",False,"2020-04-27T14:28:00+00:00",0,1,0,0,0,0,3
