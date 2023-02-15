@@ -1403,7 +1403,8 @@
 "AlexaForBusinessLifesizeDelegatedAccessPolicy","v2",True,"2020-06-12T20:31:59+00:00",0,1,0,0,0,0,8
 "AlexaForBusinessLifesizeDelegatedAccessPolicy","v1",False,"2020-06-04T19:46:56+00:00",0,1,0,0,0,0,8
 "AmazonSecurityLakePermissionsBoundary","v1",True,"2022-11-29T14:11:12+00:00",0,3,0,0,0,0,7
-"AmazonRDSCustomPreviewServiceRolePolicy","v2",True,"2022-11-08T18:01:22+00:00",0,1,0,0,0,0,7
+"AmazonRDSCustomPreviewServiceRolePolicy","v3",True,"2023-02-14T23:58:11+00:00",0,1,0,0,0,0,7
+"AmazonRDSCustomPreviewServiceRolePolicy","v2",False,"2022-11-08T18:01:22+00:00",0,1,0,0,0,0,7
 "AmazonRDSCustomPreviewServiceRolePolicy","v1",False,"2021-10-08T21:44:15+00:00",0,1,0,0,0,0,6
 "AmazonDevOpsGuruFullAccess","v3",True,"2022-08-25T18:23:41+00:00",1,1,0,0,0,0,2
 "AmazonDevOpsGuruFullAccess","v2",False,"2021-11-26T20:39:13+00:00",1,1,0,0,0,0,2
