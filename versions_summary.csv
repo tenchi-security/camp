@@ -2521,6 +2521,7 @@
 "AWSBillingConductorReadOnlyAccess","v1",True,"2022-04-13T18:02:59+00:00",0,0,0,0,0,0,0
 "AWSCloudFormationFullAccess","v1",True,"2019-07-26T21:50:35+00:00",1,1,0,1,0,0,19
 "AmazonSageMakerServiceCatalogProductsApiGatewayServiceRolePolicy","v1",True,"2022-03-25T04:25:36+00:00",0,0,0,0,0,0,0
+"AWSIotRoboRunnerServiceRolePolicy","v1",True,"2023-02-21T16:56:31+00:00",0,0,0,0,0,0,0
 "AWSMarketplaceRead-only","v2",False,"2018-07-31T23:24:24+00:00",0,0,0,0,0,0,0
 "AWSMarketplaceRead-only","v1",False,"2015-02-06T18:40:31+00:00",0,0,0,0,0,0,0
 "AWSMarketplaceRead-only","v3",False,"2019-10-28T21:51:31+00:00",0,0,0,0,0,0,0
@@ -2657,7 +2658,8 @@
 "AmazonGuardDutyServiceRolePolicy","v2",False,"2020-04-20T16:01:34+00:00",0,0,0,0,0,0,0
 "AmazonGuardDutyServiceRolePolicy","v1",False,"2017-11-28T20:12:59+00:00",0,0,0,0,0,0,0
 "AmazonGuardDutyServiceRolePolicy","v3",False,"2020-05-14T20:25:50+00:00",0,0,0,0,0,0,0
-"AmazonGuardDutyServiceRolePolicy","v4",True,"2021-08-03T23:14:07+00:00",0,0,0,0,0,0,0
+"AmazonGuardDutyServiceRolePolicy","v4",False,"2021-08-03T23:14:07+00:00",0,0,0,0,0,0,0
+"AmazonGuardDutyServiceRolePolicy","v5",True,"2023-02-21T16:56:23+00:00",0,1,0,1,0,0,1
 "AWSIoTSiteWiseMonitorPortalAccess","v1",True,"2020-05-19T20:01:21+00:00",0,1,0,0,0,0,11
 "AmazonWorkSpacesApplicationManagerAdminAccess","v1",True,"2015-04-09T14:03:18+00:00",0,0,0,0,0,0,0
 "AmazonCognitoUnauthenticatedIdentities","v1",True,"2023-02-01T22:36:27+00:00",0,1,0,0,0,0,1

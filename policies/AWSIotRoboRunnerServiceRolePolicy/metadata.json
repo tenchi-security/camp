@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSIotRoboRunnerServiceRolePolicy",
+    "PolicyId": "ANPAZKAPJZG4OULCJ64OO",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/AWSIotRoboRunnerServiceRolePolicy",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2023-02-21T16:56:31+00:00",
+    "UpdateDate": "2023-02-21T16:56:31+00:00"
+}
