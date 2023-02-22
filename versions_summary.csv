@@ -2582,8 +2582,9 @@
 "AmazonFreeRTOSOTAUpdate","v2",False,"2019-10-07T20:11:30+00:00",0,2,0,0,0,0,3
 "AmazonFreeRTOSOTAUpdate","v1",False,"2018-08-27T22:43:07+00:00",0,2,0,0,0,0,3
 "AmazonFreeRTOSOTAUpdate","v3",True,"2020-12-18T17:47:30+00:00",0,2,0,0,0,0,3
-"AmazonRDSCustomServiceRolePolicy","v2",True,"2022-11-09T22:17:08+00:00",0,1,0,0,0,0,7
+"AmazonRDSCustomServiceRolePolicy","v2",False,"2022-11-09T22:17:08+00:00",0,1,0,0,0,0,7
 "AmazonRDSCustomServiceRolePolicy","v1",False,"2021-10-08T21:39:12+00:00",0,1,0,0,0,0,6
+"AmazonRDSCustomServiceRolePolicy","v3",True,"2023-02-21T23:14:53+00:00",0,1,0,0,0,0,7
 "AWSDataSyncReadOnlyAccess","v2",False,"2020-01-24T17:59:11+00:00",0,0,0,0,0,0,0
 "AWSDataSyncReadOnlyAccess","v1",False,"2019-01-18T19:18:44+00:00",0,0,0,0,0,0,0
 "AWSDataSyncReadOnlyAccess","v3",True,"2020-06-30T17:59:22+00:00",0,0,0,0,0,0,0
