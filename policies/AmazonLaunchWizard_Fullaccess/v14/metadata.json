@@ -1,6 +1,6 @@
 {
     "VersionId": "v14",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2023-01-12T23:55:29+00:00",
     "PolicyName": "AmazonLaunchWizard_Fullaccess"
 }
