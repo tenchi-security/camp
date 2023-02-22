@@ -2564,8 +2564,9 @@
 "AWSConfigRulesExecutionRole","v3",True,"2019-05-13T21:33:30+00:00",0,1,0,0,0,0,5
 "AmazonMachineLearningRealTimePredictionOnlyAccess","v1",True,"2015-04-09T17:44:06+00:00",0,1,0,0,0,0,1
 "AmazonEventBridgePipesFullAccess","v1",True,"2022-12-01T17:03:20+00:00",1,0,0,0,0,0,0
-"AmazonCloudWatchRUMServiceRolePolicy","v2",True,"2022-10-26T21:33:26+00:00",0,0,0,0,0,0,0
+"AmazonCloudWatchRUMServiceRolePolicy","v2",False,"2022-10-26T21:33:26+00:00",0,0,0,0,0,0,0
 "AmazonCloudWatchRUMServiceRolePolicy","v1",False,"2021-11-17T23:17:23+00:00",0,0,0,0,0,0,0
+"AmazonCloudWatchRUMServiceRolePolicy","v3",True,"2023-02-22T20:35:15+00:00",0,0,0,0,0,0,0
 "AWSMigrationHubStrategyConsoleFullAccess","v2",True,"2022-11-09T00:00:06+00:00",1,1,0,1,0,0,1
 "AWSMigrationHubStrategyConsoleFullAccess","v1",False,"2021-10-19T20:13:26+00:00",1,1,0,1,0,0,1
 "AmazonRoute53RecoveryClusterFullAccess","v1",True,"2021-08-18T18:37:00+00:00",1,0,0,0,0,0,0
