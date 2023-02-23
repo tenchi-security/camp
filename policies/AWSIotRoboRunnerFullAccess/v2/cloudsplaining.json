@@ -1,0 +1,33 @@
+{
+    "ServiceWildcard": [
+        "iotroborunner"
+    ],
+    "ServicesAffected": [
+        "iotroborunner"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "iotroborunner:CreateDestination",
+        "iotroborunner:CreateWorker",
+        "iotroborunner:CreateWorkerFleet",
+        "iotroborunner:DeleteAction",
+        "iotroborunner:DeleteActionTemplate",
+        "iotroborunner:DeleteActivity",
+        "iotroborunner:DeleteDestination",
+        "iotroborunner:DeleteDestinationRelationship",
+        "iotroborunner:DeleteSite",
+        "iotroborunner:DeleteTask",
+        "iotroborunner:DeleteWorker",
+        "iotroborunner:DeleteWorkerFleet",
+        "iotroborunner:UpdateActionState",
+        "iotroborunner:UpdateActivity",
+        "iotroborunner:UpdateDestination",
+        "iotroborunner:UpdateSite",
+        "iotroborunner:UpdateTask",
+        "iotroborunner:UpdateWorker",
+        "iotroborunner:UpdateWorkerFleet"
+    ]
+}
