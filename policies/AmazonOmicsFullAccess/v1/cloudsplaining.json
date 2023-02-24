@@ -1,0 +1,20 @@
+{
+    "ServiceWildcard": [
+        "omics"
+    ],
+    "ServicesAffected": [
+        "iam",
+        "ram"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "ram:AcceptResourceShareInvitation",
+        "iam:PassRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "iam:PassRole",
+        "ram:AcceptResourceShareInvitation"
+    ]
+}

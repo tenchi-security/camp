@@ -1,6 +1,6 @@
 {
     "VersionId": "v4",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2020-05-21T22:59:26+00:00",
     "PolicyName": "AWSConfigMultiAccountSetupPolicy"
 }
