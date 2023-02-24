@@ -1,0 +1,21 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "ec2",
+        "mgn"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "ec2:CreateLaunchTemplateVersion",
+        "ec2:ModifyLaunchTemplate",
+        "mgn:ChangeServerLifeCycleState",
+        "mgn:FinalizeCutover",
+        "mgn:MarkAsArchived",
+        "mgn:StartCutover",
+        "mgn:StartTest",
+        "mgn:UpdateReplicationConfiguration"
+    ]
+}

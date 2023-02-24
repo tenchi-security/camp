@@ -1390,12 +1390,13 @@
 "AdministratorAccess-Amplify","v2",False,"2021-01-13T22:36:27+00:00",2,15,2,25,1,1,174
 "AdministratorAccess-Amplify","v1",False,"2020-12-01T19:03:08+00:00",0,12,0,22,1,0,99
 "AdministratorAccess-Amplify","v3",False,"2021-07-26T22:49:07+00:00",3,16,3,40,1,1,199
-"AdministratorAccess-Amplify","v9",True,"2022-08-30T23:24:53+00:00",5,20,7,51,1,1,249
+"AdministratorAccess-Amplify","v9",False,"2022-08-30T23:24:53+00:00",5,20,7,51,1,1,249
 "AdministratorAccess-Amplify","v4",False,"2021-09-23T23:12:41+00:00",4,19,7,55,1,1,233
 "AdministratorAccess-Amplify","v8",False,"2022-04-13T22:42:11+00:00",5,20,7,51,1,1,249
 "AdministratorAccess-Amplify","v6",False,"2021-11-04T17:51:32+00:00",4,19,7,51,1,1,236
 "AdministratorAccess-Amplify","v5",False,"2021-10-13T20:03:40+00:00",4,19,7,55,1,1,234
 "AdministratorAccess-Amplify","v7",False,"2021-12-01T19:07:19+00:00",5,19,7,51,1,1,236
+"AdministratorAccess-Amplify","v10",True,"2023-02-24T20:14:32+00:00",5,20,7,53,1,1,254
 "Route53ResolverServiceRolePolicy","v1",True,"2020-08-12T17:47:24+00:00",0,0,0,0,0,0,0
 "AWSCodeArtifactAdminAccess","v1",True,"2020-06-16T23:53:23+00:00",1,1,0,2,0,0,18
 "AWSLambda_ReadOnlyAccess","v1",True,"2020-11-17T21:10:32+00:00",0,0,0,0,0,0,0
@@ -2388,8 +2389,9 @@
 "AmazonWorkLinkReadOnly","v3",True,"2019-09-23T18:37:21+00:00",0,0,0,0,0,0,0
 "AmazonRDSPerformanceInsightsReadOnly","v1",True,"2022-04-05T00:02:08+00:00",0,0,0,0,0,0,0
 "ServerMigrationServiceRoleForInstanceValidation","v1",True,"2020-07-20T22:25:07+00:00",0,0,0,0,0,0,0
-"AWSMigrationHubOrchestratorServiceRolePolicy","v2",True,"2022-12-21T18:48:26+00:00",0,2,0,0,0,0,8
+"AWSMigrationHubOrchestratorServiceRolePolicy","v2",False,"2022-12-21T18:48:26+00:00",0,2,0,0,0,0,8
 "AWSMigrationHubOrchestratorServiceRolePolicy","v1",False,"2022-04-20T02:24:04+00:00",0,2,0,0,0,0,8
+"AWSMigrationHubOrchestratorServiceRolePolicy","v3",True,"2023-02-24T20:28:36+00:00",0,2,0,0,0,0,8
 "ResourceGroupsandTagEditorFullAccess","v2",False,"2017-12-19T21:00:42+00:00",0,0,0,0,0,0,0
 "ResourceGroupsandTagEditorFullAccess","v1",False,"2015-02-06T18:39:53+00:00",0,0,0,0,0,0,0
 "ResourceGroupsandTagEditorFullAccess","v3",False,"2018-04-03T18:56:09+00:00",0,0,0,0,0,0,0
