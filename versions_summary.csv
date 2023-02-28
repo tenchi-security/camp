@@ -1726,8 +1726,9 @@
 "AWSShieldServiceRolePolicy","v1",True,"2021-11-17T19:17:46+00:00",0,1,0,1,0,0,1
 "AWSManagedServicesDeploymentToolkitPolicy","v2",True,"2023-01-30T22:10:28+00:00",0,0,0,0,0,0,0
 "AWSManagedServicesDeploymentToolkitPolicy","v1",False,"2022-06-09T18:33:03+00:00",0,0,0,0,0,0,0
-"AmazonTimestreamReadOnlyAccess","v2",True,"2021-11-26T23:39:30+00:00",0,0,0,0,0,0,0
+"AmazonTimestreamReadOnlyAccess","v2",False,"2021-11-26T23:39:30+00:00",0,0,0,0,0,0,0
 "AmazonTimestreamReadOnlyAccess","v1",False,"2020-09-30T21:47:08+00:00",0,0,0,0,0,0,0
+"AmazonTimestreamReadOnlyAccess","v3",True,"2023-02-28T18:22:57+00:00",0,0,0,0,0,0,0
 "AmazonEKSLocalOutpostServiceRolePolicy","v2",True,"2022-10-24T16:24:51+00:00",0,3,0,1,0,0,8
 "AmazonEKSLocalOutpostServiceRolePolicy","v1",False,"2022-08-23T21:53:02+00:00",0,3,0,1,0,0,8
 "AmazonEventBridgeFullAccess","v2",False,"2021-03-04T18:56:38+00:00",1,1,0,2,0,0,27
