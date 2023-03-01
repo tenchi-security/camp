@@ -3031,8 +3031,9 @@
 "AWSLicenseManagerServiceRolePolicy","v6",False,"2021-06-17T03:54:13+00:00",0,2,0,0,0,0,2
 "AWSLicenseManagerServiceRolePolicy","v5",False,"2021-06-15T17:06:26+00:00",0,2,0,0,0,0,2
 "AWSLicenseManagerServiceRolePolicy","v7",True,"2021-07-30T01:43:19+00:00",0,2,0,0,0,0,2
-"AWSTrustedAdvisorReportingServiceRolePolicy","v2",True,"2020-09-11T21:36:48+00:00",0,0,0,0,0,0,0
+"AWSTrustedAdvisorReportingServiceRolePolicy","v2",False,"2020-09-11T21:36:48+00:00",0,0,0,0,0,0,0
 "AWSTrustedAdvisorReportingServiceRolePolicy","v1",False,"2019-11-19T17:41:13+00:00",0,0,0,0,0,0,0
+"AWSTrustedAdvisorReportingServiceRolePolicy","v3",True,"2023-02-28T23:23:45+00:00",0,0,0,0,0,0,0
 "AWSOpsWorksRegisterCLI_EC2","v1",True,"2019-06-18T15:56:17+00:00",0,1,0,0,0,0,4
 "AWSIdentitySyncFullAccess","v1",True,"2022-03-23T23:29:33+00:00",0,0,0,0,0,0,0
 "AWSResourceAccessManagerResourceShareParticipantAccess","v1",True,"2019-12-09T20:41:37+00:00",0,1,0,2,0,0,2
