@@ -547,6 +547,7 @@
 "AmazonDetectiveMemberAccess","v1",True,"2023-01-17T15:16:14+00:00",0,0,0,0,0,0,0
 "AWSXrayWriteOnlyAccess","v2",True,"2018-08-28T23:03:04+00:00",0,0,0,0,0,0,0
 "AWSXrayWriteOnlyAccess","v1",False,"2016-12-01T18:19:53+00:00",0,0,0,0,0,0,0
+"AWSSupplyChainFederationAdminAccess","v1",True,"2023-03-01T18:54:25+00:00",1,0,0,0,0,0,0
 "AmazonRedshiftFullAccess","v2",False,"2017-09-19T18:27:44+00:00",1,3,0,7,0,1,59
 "AmazonRedshiftFullAccess","v1",False,"2015-02-06T18:40:50+00:00",1,3,0,7,0,1,59
 "AmazonRedshiftFullAccess","v3",False,"2019-08-06T00:05:05+00:00",1,3,0,7,0,1,59
