@@ -1,0 +1,20 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "detective",
+        "iam",
+        "organizations"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:CreateServiceLinkedRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "detective:DisableOrganizationAdminAccount",
+        "iam:CreateServiceLinkedRole",
+        "organizations:DeregisterDelegatedAdministrator",
+        "organizations:RegisterDelegatedAdministrator"
+    ]
+}

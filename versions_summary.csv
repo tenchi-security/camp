@@ -2675,6 +2675,7 @@
 "AWSSecurityHubReadOnlyAccess","v2",False,"2019-06-25T22:45:52+00:00",0,0,0,0,0,0,0
 "AWSSecurityHubReadOnlyAccess","v1",False,"2018-11-28T01:34:29+00:00",0,0,0,0,0,0,0
 "AWSSecurityHubReadOnlyAccess","v3",True,"2022-04-04T17:46:51+00:00",0,0,0,0,0,0,0
+"AmazonDetectiveOrganizationsAccess","v1",True,"2023-03-02T15:20:50+00:00",0,3,0,1,0,0,4
 "LexBotPolicy","v2",True,"2019-11-13T22:29:16+00:00",0,0,0,0,0,0,0
 "LexBotPolicy","v1",False,"2017-02-17T22:18:13+00:00",0,0,0,0,0,0,0
 "AWSCodeDeployReadOnlyAccess","v2",False,"2019-11-05T23:01:32+00:00",0,0,0,0,0,0,0
