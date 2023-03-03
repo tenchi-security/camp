@@ -1898,6 +1898,7 @@
 "AmazonOpenSearchServiceCognitoAccess","v2",True,"2021-12-20T14:04:18+00:00",0,0,0,0,0,0,0
 "AmazonOpenSearchServiceCognitoAccess","v1",False,"2021-09-02T06:31:49+00:00",0,0,0,0,0,0,0
 "AmazonElastiCacheReadOnlyAccess","v1",True,"2015-02-06T18:40:21+00:00",0,0,0,0,0,0,0
+"AmazonChimeSDKMessagingServiceRolePolicy","v1",True,"2023-03-03T01:43:49+00:00",0,1,0,0,0,0,1
 "AWSFMAdminReadOnlyAccess","v2",True,"2022-10-31T22:42:13+00:00",0,0,0,0,0,0,0
 "AWSFMAdminReadOnlyAccess","v1",False,"2018-05-09T20:07:39+00:00",0,0,0,0,0,0,0
 "AWSCompromisedKeyQuarantine","v1",True,"2020-08-11T18:04:13+00:00",0,0,0,0,0,0,0
@@ -2049,8 +2050,9 @@
 "AWSMarketplaceManageSubscriptions","v2",False,"2019-10-28T21:49:43+00:00",0,0,0,0,0,0,0
 "AWSMarketplaceManageSubscriptions","v1",False,"2015-02-06T18:40:32+00:00",0,0,0,0,0,0,0
 "AWSMarketplaceManageSubscriptions","v3",True,"2023-01-19T23:45:29+00:00",0,0,0,0,0,0,0
-"AWSMigrationHubStrategyCollector","v2",True,"2022-09-28T00:06:57+00:00",0,0,0,0,0,0,0
+"AWSMigrationHubStrategyCollector","v2",False,"2022-09-28T00:06:57+00:00",0,0,0,0,0,0,0
 "AWSMigrationHubStrategyCollector","v1",False,"2021-10-19T20:15:15+00:00",0,0,0,0,0,0,0
+"AWSMigrationHubStrategyCollector","v3",True,"2023-03-02T22:08:23+00:00",0,0,0,0,0,0,0
 "AmazonEC2ReadOnlyAccess","v1",True,"2015-02-06T18:40:17+00:00",0,0,0,0,0,0,0
 "AWSIoTDataAccess","v2",False,"2017-11-16T18:24:11+00:00",0,1,0,0,0,0,6
 "AWSIoTDataAccess","v1",False,"2015-10-27T21:51:18+00:00",0,1,0,0,0,0,5
@@ -2991,7 +2993,7 @@
 "AWSConfigServiceRolePolicy","v21",False,"2020-12-18T22:02:34+00:00",0,1,0,0,0,0,5
 "AWSConfigServiceRolePolicy","v18",False,"2019-11-18T22:33:22+00:00",0,1,0,0,0,0,5
 "AWSConfigServiceRolePolicy","v4",False,"2018-08-31T22:23:52+00:00",0,1,0,0,0,0,5
-"AWSConfigServiceRolePolicy","v40",True,"2023-01-31T19:52:15+00:00",0,2,0,2,0,0,7
+"AWSConfigServiceRolePolicy","v40",False,"2023-01-31T19:52:15+00:00",0,2,0,2,0,0,7
 "AWSConfigServiceRolePolicy","v25",False,"2021-06-07T23:01:42+00:00",0,1,0,0,0,0,5
 "AWSConfigServiceRolePolicy","v34",False,"2022-08-19T22:19:46+00:00",0,2,0,1,0,0,6
 "AWSConfigServiceRolePolicy","v19",False,"2020-05-15T18:39:10+00:00",0,1,0,0,0,0,5
@@ -3006,6 +3008,7 @@
 "AWSConfigServiceRolePolicy","v5",False,"2018-11-07T18:34:37+00:00",0,1,0,0,0,0,5
 "AWSConfigServiceRolePolicy","v12",False,"2019-06-10T22:59:58+00:00",0,1,0,0,0,0,5
 "AWSConfigServiceRolePolicy","v26",False,"2021-07-27T22:31:53+00:00",0,1,0,0,0,0,5
+"AWSConfigServiceRolePolicy","v41",True,"2023-03-02T22:12:23+00:00",0,2,0,2,0,0,7
 "AWSConfigServiceRolePolicy","v7",False,"2019-01-23T20:43:11+00:00",0,1,0,0,0,0,5
 "AWSConfigServiceRolePolicy","v32",False,"2022-05-31T18:25:11+00:00",0,1,0,0,0,0,5
 "AWSConfigServiceRolePolicy","v24",False,"2021-05-11T00:14:41+00:00",0,1,0,0,0,0,5
@@ -3044,11 +3047,12 @@
 "AWS_ConfigRole","v2",False,"2020-12-18T22:10:53+00:00",0,1,0,0,0,0,5
 "AWS_ConfigRole","v17",False,"2022-09-14T19:21:07+00:00",0,2,0,2,0,0,7
 "AWS_ConfigRole","v1",False,"2020-09-15T20:30:30+00:00",0,1,0,0,0,0,5
+"AWS_ConfigRole","v22",True,"2023-03-02T22:08:11+00:00",0,2,0,2,0,0,7
 "AWS_ConfigRole","v3",False,"2021-01-29T19:24:13+00:00",0,1,0,0,0,0,5
 "AWS_ConfigRole","v20",False,"2023-01-05T22:14:48+00:00",0,2,0,2,0,0,7
 "AWS_ConfigRole","v9",False,"2022-01-21T18:35:41+00:00",0,1,0,0,0,0,5
 "AWS_ConfigRole","v14",False,"2022-07-15T01:37:13+00:00",0,2,0,1,0,0,6
-"AWS_ConfigRole","v21",True,"2023-01-30T21:21:51+00:00",0,2,0,2,0,0,7
+"AWS_ConfigRole","v21",False,"2023-01-30T21:21:51+00:00",0,2,0,2,0,0,7
 "AWS_ConfigRole","v18",False,"2022-10-18T17:17:17+00:00",0,2,0,2,0,0,7
 "AWS_ConfigRole","v4",False,"2021-03-31T21:44:14+00:00",0,1,0,0,0,0,5
 "AWS_ConfigRole","v19",False,"2022-10-31T19:24:48+00:00",0,2,0,2,0,0,7
