@@ -1,0 +1,18 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "ecs",
+        "iam"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:PassRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "ecs:RunTask",
+        "ecs:TagResource",
+        "iam:PassRole"
+    ]
+}

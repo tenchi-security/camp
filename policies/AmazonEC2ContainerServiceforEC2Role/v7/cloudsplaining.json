@@ -1,0 +1,27 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "ecr",
+        "ecs",
+        "logs"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [
+        "ecr:GetAuthorizationToken"
+    ],
+    "InfrastructureModification": [
+        "ecs:DeregisterContainerInstance",
+        "ecs:Poll",
+        "ecs:RegisterContainerInstance",
+        "ecs:StartTelemetrySession",
+        "ecs:SubmitAttachmentStateChanges",
+        "ecs:SubmitContainerStateChange",
+        "ecs:SubmitTaskStateChange",
+        "ecs:TagResource",
+        "ecs:UpdateContainerInstancesState",
+        "logs:CreateLogStream",
+        "logs:PutLogEvents"
+    ]
+}
