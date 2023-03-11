@@ -3075,7 +3075,8 @@
 "AmazonEC2SpotFleetAutoscaleRole","v2",False,"2017-11-14T22:24:10+00:00",0,2,0,0,0,0,3
 "AmazonEC2SpotFleetAutoscaleRole","v3",True,"2019-02-18T19:17:03+00:00",0,2,0,0,0,0,3
 "AmazonEC2SpotFleetAutoscaleRole","v1",False,"2016-08-19T18:27:22+00:00",0,1,0,0,0,0,1
-"AmazonEMRContainersServiceRolePolicy","v2",True,"2021-12-03T19:55:44+00:00",0,1,0,0,0,0,3
+"AmazonEMRContainersServiceRolePolicy","v2",False,"2021-12-03T19:55:44+00:00",0,1,0,0,0,0,3
+"AmazonEMRContainersServiceRolePolicy","v3",True,"2023-03-10T22:58:13+00:00",0,1,0,0,0,0,3
 "AmazonEMRContainersServiceRolePolicy","v1",False,"2020-12-09T00:38:19+00:00",0,0,0,0,0,0,0
 "AmazonGrafanaAthenaAccess","v1",True,"2021-11-22T17:11:11+00:00",0,1,0,0,0,0,2
 "ComprehendFullAccess","v2",True,"2017-12-05T01:36:24+00:00",1,1,0,0,0,0,11
