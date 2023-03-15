@@ -1,0 +1,6 @@
+{
+    "VersionId": "v11",
+    "IsDefaultVersion": true,
+    "CreateDate": "2023-03-15T13:44:54+00:00",
+    "PolicyName": "AmazonRDSFullAccess"
+}
