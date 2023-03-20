@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4HPQNMM2HL",
     "Arn": "arn:aws:iam::aws:policy/AWSApplicationMigrationFullAccess",
     "Path": "/",
-    "DefaultVersionId": "v5",
+    "DefaultVersionId": "v6",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2021-04-07T06:56:05+00:00",
-    "UpdateDate": "2022-08-11T16:08:08+00:00"
+    "UpdateDate": "2023-03-20T10:43:04+00:00"
 }

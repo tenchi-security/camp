@@ -1133,8 +1133,9 @@
 "AWSApplicationAutoscalingSageMakerEndpointPolicy","v1",True,"2018-02-06T19:58:21+00:00",0,2,0,0,0,0,3
 "AWSApplicationMigrationFullAccess","v2",False,"2022-02-22T11:16:56+00:00",1,1,0,0,0,0,33
 "AWSApplicationMigrationFullAccess","v3",False,"2022-05-01T08:31:14+00:00",1,1,0,0,0,0,33
-"AWSApplicationMigrationFullAccess","v5",True,"2022-08-11T16:08:08+00:00",1,1,0,0,0,0,33
+"AWSApplicationMigrationFullAccess","v5",False,"2022-08-11T16:08:08+00:00",1,1,0,0,0,0,33
 "AWSApplicationMigrationFullAccess","v1",False,"2021-04-07T06:56:05+00:00",1,0,0,0,0,0,0
+"AWSApplicationMigrationFullAccess","v6",True,"2023-03-20T10:43:04+00:00",1,1,0,0,0,0,38
 "AWSApplicationMigrationFullAccess","v4",False,"2022-05-31T21:14:49+00:00",1,1,0,0,0,0,33
 "AWSECRPullThroughCache_ServiceRolePolicy","v1",True,"2021-11-26T21:51:09+00:00",0,1,0,0,0,1,4
 "AmazonEventBridgeSchemasServiceRolePolicy","v1",True,"2019-11-27T01:10:40+00:00",0,0,0,0,0,0,0
@@ -1281,7 +1282,8 @@
 "AWSAuditManagerServiceRolePolicy","v1",False,"2020-12-08T15:12:12+00:00",0,1,0,0,0,0,1
 "AWSAuditManagerServiceRolePolicy","v4",True,"2022-07-07T22:26:07+00:00",0,0,0,0,0,0,0
 "AWSElasticBeanstalkCustomPlatformforEC2Role","v1",True,"2017-02-21T22:50:30+00:00",0,1,0,1,0,1,21
-"AWSApplicationMigrationSSMAccess","v1",True,"2022-11-27T09:29:05+00:00",0,0,0,0,0,0,0
+"AWSApplicationMigrationSSMAccess","v2",True,"2023-03-20T10:57:51+00:00",0,0,0,0,0,0,0
+"AWSApplicationMigrationSSMAccess","v1",False,"2022-11-27T09:29:05+00:00",0,0,0,0,0,0,0
 "AmazonChimeServiceRolePolicy","v1",True,"2019-09-30T22:25:06+00:00",0,0,0,0,0,0,0
 "AWSImportExportReadOnlyAccess","v1",True,"2015-02-06T18:40:42+00:00",0,0,0,0,0,0,0
 "SupportUser","v2",False,"2017-05-17T23:11:51+00:00",1,1,0,0,0,1,1
