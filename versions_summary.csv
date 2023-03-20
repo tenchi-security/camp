@@ -326,8 +326,9 @@
 "AWSSSOMasterAccountAdministrator","v4",False,"2021-08-04T21:10:42+00:00",2,2,0,44,0,0,18
 "AWSApplicationMigrationReadOnlyAccess","v2",False,"2021-11-08T12:54:08+00:00",0,0,0,0,0,0,0
 "AWSApplicationMigrationReadOnlyAccess","v3",False,"2022-05-01T08:32:53+00:00",0,0,0,0,0,0,0
+"AWSApplicationMigrationReadOnlyAccess","v5",True,"2023-03-20T08:58:08+00:00",0,0,0,0,0,0,0
 "AWSApplicationMigrationReadOnlyAccess","v1",False,"2021-04-07T07:15:26+00:00",0,0,0,0,0,0,0
-"AWSApplicationMigrationReadOnlyAccess","v4",True,"2022-11-27T09:08:30+00:00",0,0,0,0,0,0,0
+"AWSApplicationMigrationReadOnlyAccess","v4",False,"2022-11-27T09:08:30+00:00",0,0,0,0,0,0,0
 "AWSServiceRoleForLogDeliveryPolicy","v2",False,"2020-07-27T19:38:52+00:00",0,1,0,0,0,0,2
 "AWSServiceRoleForLogDeliveryPolicy","v3",True,"2021-07-15T20:07:44+00:00",0,1,0,0,0,0,2
 "AWSServiceRoleForLogDeliveryPolicy","v1",False,"2019-10-04T17:31:19+00:00",0,1,0,0,0,0,2
