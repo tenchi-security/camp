@@ -2869,6 +2869,7 @@
 "AmazonElastiCacheFullAccess","v2",True,"2017-12-07T17:48:26+00:00",1,1,0,0,0,0,46
 "AmazonElastiCacheFullAccess","v1",False,"2015-02-06T18:40:20+00:00",1,1,0,0,0,0,46
 "AWSConfigRemediationServiceRolePolicy","v1",True,"2019-06-18T21:21:35+00:00",0,2,0,1,0,0,2
+"AWSDataSyncDiscoveryServiceRolePolicy","v1",True,"2023-03-20T22:19:51+00:00",0,0,0,0,0,0,0
 "AmazonCognitoReadOnly","v2",False,"2016-06-02T17:30:24+00:00",0,1,0,1,0,3,0
 "AmazonCognitoReadOnly","v3",False,"2019-02-16T00:18:11+00:00",0,1,0,1,0,3,0
 "AmazonCognitoReadOnly","v1",False,"2015-03-24T17:06:46+00:00",0,1,0,1,0,3,0
