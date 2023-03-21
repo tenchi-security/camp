@@ -300,6 +300,7 @@
 "AlexaForBusinessNetworkProfileServicePolicy","v2",True,"2019-04-05T21:57:56+00:00",0,1,0,0,0,0,2
 "AlexaForBusinessNetworkProfileServicePolicy","v1",False,"2019-03-13T00:53:40+00:00",0,1,0,0,0,0,2
 "AmazonOpenSearchServiceReadOnlyAccess","v1",True,"2021-09-08T05:38:13+00:00",0,0,0,0,0,0,0
+"AmazonDataZoneProjectDeploymentPermissionsBoundary","v1",True,"2023-03-21T02:54:30+00:00",0,7,0,2,0,1,25
 "AmazonDevOpsGuruServiceRolePolicy","v2",False,"2021-04-21T23:51:53+00:00",0,0,0,0,0,0,0
 "AmazonDevOpsGuruServiceRolePolicy","v3",False,"2021-11-01T23:24:23+00:00",0,1,0,0,0,0,1
 "AmazonDevOpsGuruServiceRolePolicy","v5",False,"2021-11-24T01:23:43+00:00",0,1,0,0,0,0,1
@@ -490,6 +491,7 @@
 "AmazonWorkLinkFullAccess","v2",True,"2019-09-23T18:37:42+00:00",1,0,0,0,0,0,0
 "AmazonWorkLinkFullAccess","v1",False,"2019-01-23T18:52:09+00:00",1,0,0,0,0,0,0
 "AWSOpsWorksInstanceRegistration","v1",True,"2016-06-03T14:23:15+00:00",0,1,0,0,0,0,1
+"AmazonDataZoneProjectRolePermissionsBoundary","v1",True,"2023-03-21T02:51:56+00:00",5,10,0,12,0,1,155
 "AmazonChimeUserManagement","v2",False,"2018-01-16T17:19:47+00:00",0,0,0,0,0,0,0
 "AmazonChimeUserManagement","v3",False,"2018-03-30T16:25:02+00:00",0,0,0,0,0,0,0
 "AmazonChimeUserManagement","v5",False,"2018-12-19T21:29:09+00:00",0,0,0,0,0,0,0
