@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4G5PCICHSV",
     "Arn": "arn:aws:iam::aws:policy/AmazonRedshiftQueryEditorV2ReadSharing",
     "Path": "/",
-    "DefaultVersionId": "v6",
+    "DefaultVersionId": "v7",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2021-09-24T14:22:21+00:00",
-    "UpdateDate": "2023-02-01T20:09:28+00:00"
+    "UpdateDate": "2023-03-21T08:39:48+00:00"
 }

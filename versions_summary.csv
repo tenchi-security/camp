@@ -786,7 +786,8 @@
 "AmazonRedshiftQueryEditorV2ReadWriteSharing","v3",False,"2022-06-15T10:59:24+00:00",0,1,0,0,0,0,16
 "AmazonRedshiftQueryEditorV2ReadWriteSharing","v5",False,"2022-10-17T16:53:42+00:00",0,1,0,0,0,0,16
 "AmazonRedshiftQueryEditorV2ReadWriteSharing","v1",False,"2021-09-24T14:25:37+00:00",0,0,0,0,0,0,0
-"AmazonRedshiftQueryEditorV2ReadWriteSharing","v6",True,"2023-02-01T20:09:47+00:00",0,1,0,0,0,0,29
+"AmazonRedshiftQueryEditorV2ReadWriteSharing","v6",False,"2023-02-01T20:09:47+00:00",0,1,0,0,0,0,29
+"AmazonRedshiftQueryEditorV2ReadWriteSharing","v7",True,"2023-03-21T08:20:00+00:00",0,1,0,0,0,0,29
 "AmazonRedshiftQueryEditorV2ReadWriteSharing","v4",False,"2022-08-31T04:01:05+00:00",0,1,0,0,0,0,16
 "AWSGrafanaAccountAdministrator","v2",False,"2021-10-13T22:13:18+00:00",1,0,0,0,0,0,0
 "AWSGrafanaAccountAdministrator","v3",True,"2022-02-15T22:36:18+00:00",1,1,0,1,0,0,6
@@ -1006,7 +1007,8 @@
 "AmazonRedshiftQueryEditorV2ReadSharing","v3",False,"2022-06-15T10:16:40+00:00",0,1,0,0,0,0,16
 "AmazonRedshiftQueryEditorV2ReadSharing","v5",False,"2022-10-17T17:29:34+00:00",0,1,0,0,0,0,16
 "AmazonRedshiftQueryEditorV2ReadSharing","v1",False,"2021-09-24T14:22:21+00:00",0,0,0,0,0,0,0
-"AmazonRedshiftQueryEditorV2ReadSharing","v6",True,"2023-02-01T20:09:28+00:00",0,1,0,0,0,0,29
+"AmazonRedshiftQueryEditorV2ReadSharing","v6",False,"2023-02-01T20:09:28+00:00",0,1,0,0,0,0,29
+"AmazonRedshiftQueryEditorV2ReadSharing","v7",True,"2023-03-21T08:39:48+00:00",0,1,0,0,0,0,29
 "AmazonRedshiftQueryEditorV2ReadSharing","v4",False,"2022-08-31T04:02:10+00:00",0,1,0,0,0,0,16
 "AWSAppRunnerFullAccess","v1",True,"2022-01-11T04:02:09+00:00",1,2,0,1,0,0,15
 "EC2InstanceConnect","v1",True,"2019-06-27T18:53:34+00:00",0,1,0,0,0,0,1
@@ -1636,7 +1638,8 @@
 "AmazonRedshiftQueryEditorV2NoSharing","v3",False,"2022-06-15T09:48:24+00:00",0,1,0,0,0,0,15
 "AmazonRedshiftQueryEditorV2NoSharing","v5",False,"2022-10-17T17:37:30+00:00",0,1,0,0,0,0,15
 "AmazonRedshiftQueryEditorV2NoSharing","v1",False,"2021-09-24T14:18:42+00:00",0,0,0,0,0,0,0
-"AmazonRedshiftQueryEditorV2NoSharing","v6",True,"2023-02-01T20:10:01+00:00",0,1,0,0,0,0,28
+"AmazonRedshiftQueryEditorV2NoSharing","v6",False,"2023-02-01T20:10:01+00:00",0,1,0,0,0,0,28
+"AmazonRedshiftQueryEditorV2NoSharing","v7",True,"2023-03-21T09:03:27+00:00",0,1,0,0,0,0,28
 "AmazonRedshiftQueryEditorV2NoSharing","v4",False,"2022-08-31T03:59:54+00:00",0,1,0,0,0,0,15
 "AWSPrivateNetworksServiceRolePolicy","v1",True,"2021-12-16T23:17:46+00:00",0,0,0,0,0,0,0
 "AWSDeepLensServiceRolePolicy","v2",False,"2018-02-09T01:32:56+00:00",1,4,0,2,0,0,10
