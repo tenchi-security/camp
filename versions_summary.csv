@@ -127,6 +127,7 @@
 "AWSMarketplaceRead-only","v3",False,"2019-10-28T21:51:31+00:00",0,0,0,0,0,0,0
 "AWSMarketplaceRead-only","v1",False,"2015-02-06T18:40:31+00:00",0,0,0,0,0,0,0
 "AWSMarketplaceRead-only","v4",True,"2023-01-19T23:30:25+00:00",0,0,0,0,0,0,0
+"MediaConnectGatewayInstanceRolePolicy","v1",True,"2023-03-22T20:43:25+00:00",0,0,0,0,0,0,0
 "AmazonKinesisVideoStreamsReadOnlyAccess","v1",True,"2017-12-01T23:14:32+00:00",0,0,0,0,0,0,0
 "AWSResourceExplorerReadOnlyAccess","v1",True,"2022-11-07T19:56:00+00:00",0,0,0,0,0,0,0
 "AWSBudgetsActionsWithAWSResourceControlAccess","v1",True,"2020-10-15T17:19:12+00:00",1,2,0,1,0,0,6
