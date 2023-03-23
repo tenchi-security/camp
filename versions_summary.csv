@@ -2675,8 +2675,9 @@
 "AWSCloud9ServiceRolePolicy","v7",False,"2020-10-06T12:43:49+00:00",0,2,0,0,0,0,8
 "AWSCloud9ServiceRolePolicy","v4",False,"2020-03-16T10:20:54+00:00",0,2,0,0,0,0,8
 "AmazonChimeVoiceConnectorServiceLinkedRolePolicy","v2",False,"2021-12-21T00:08:05+00:00",0,0,0,0,0,0,0
-"AmazonChimeVoiceConnectorServiceLinkedRolePolicy","v3",True,"2022-03-17T16:18:11+00:00",0,0,0,0,0,0,0
+"AmazonChimeVoiceConnectorServiceLinkedRolePolicy","v3",False,"2022-03-17T16:18:11+00:00",0,0,0,0,0,0,0
 "AmazonChimeVoiceConnectorServiceLinkedRolePolicy","v1",False,"2019-09-30T22:16:42+00:00",0,0,0,0,0,0,0
+"AmazonChimeVoiceConnectorServiceLinkedRolePolicy","v4",True,"2023-03-23T19:39:40+00:00",0,0,0,0,0,0,0
 "AWSIoTFleetwiseServiceRolePolicy","v1",True,"2022-09-21T23:27:48+00:00",0,0,0,0,0,0,0
 "AmazonCodeGuruProfilerFullAccess","v2",False,"2020-04-06T21:16:38+00:00",2,1,0,2,0,0,11
 "AmazonCodeGuruProfilerFullAccess","v3",False,"2020-06-28T00:04:51+00:00",2,1,0,2,0,0,11

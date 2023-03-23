@@ -1,6 +1,6 @@
 {
     "VersionId": "v3",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2022-03-17T16:18:11+00:00",
     "PolicyName": "AmazonChimeVoiceConnectorServiceLinkedRolePolicy"
 }
