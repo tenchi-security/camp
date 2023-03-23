@@ -268,6 +268,7 @@
 "AWSMobileHub_FullAccess","v8",False,"2017-04-05T17:44:24+00:00",0,2,0,0,0,0,4
 "AWSMobileHub_FullAccess","v7",False,"2017-03-27T21:31:50+00:00",0,2,0,0,0,0,4
 "AWSMobileHub_FullAccess","v4",False,"2016-11-04T17:16:33+00:00",0,1,0,0,0,0,3
+"AWSManagedServices_ContactsServiceRolePolicy","v1",True,"2023-03-23T17:07:46+00:00",0,0,0,0,0,0,0
 "AmazonAppStreamFullAccess","v2",False,"2017-09-07T23:56:23+00:00",1,2,0,0,0,0,27
 "AmazonAppStreamFullAccess","v3",False,"2018-09-10T17:29:25+00:00",1,2,0,0,0,0,27
 "AmazonAppStreamFullAccess","v5",False,"2020-07-09T21:54:51+00:00",1,2,0,0,0,0,27

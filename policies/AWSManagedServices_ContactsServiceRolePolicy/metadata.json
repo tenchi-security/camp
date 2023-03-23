@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSManagedServices_ContactsServiceRolePolicy",
+    "PolicyId": "ANPAZKAPJZG4OWIC4KQFJ",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/AWSManagedServices_ContactsServiceRolePolicy",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2023-03-23T17:07:46+00:00",
+    "UpdateDate": "2023-03-23T17:07:46+00:00"
+}
