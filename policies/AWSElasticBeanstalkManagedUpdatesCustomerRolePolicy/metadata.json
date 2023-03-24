@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4AKB7QD2CZ",
     "Arn": "arn:aws:iam::aws:policy/AWSElasticBeanstalkManagedUpdatesCustomerRolePolicy",
     "Path": "/",
-    "DefaultVersionId": "v5",
+    "DefaultVersionId": "v6",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2021-03-03T22:18:00+00:00",
-    "UpdateDate": "2023-01-23T23:48:56+00:00"
+    "UpdateDate": "2023-03-23T23:15:54+00:00"
 }
