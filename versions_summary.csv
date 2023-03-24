@@ -2188,6 +2188,7 @@
 "CloudWatchSyntheticsFullAccess","v4",False,"2020-09-18T16:39:53+00:00",1,1,0,0,0,0,6
 "AWSServiceRoleForCodeGuru-Profiler","v1",True,"2020-06-26T22:04:26+00:00",0,1,0,0,0,0,1
 "AmazonSSMDirectoryServiceAccess","v1",True,"2019-03-15T17:44:38+00:00",0,1,0,0,0,0,1
+"AWSServiceRoleForCodeWhispererPolicy","v1",True,"2023-03-24T19:39:12+00:00",0,0,0,0,0,0,0
 "VMImportExportRoleForAWSConnector","v1",True,"2015-09-03T20:48:59+00:00",0,1,0,1,0,0,2
 "AmazonAppStreamPCAAccess","v1",True,"2022-10-24T17:05:03+00:00",0,0,0,0,0,0,0
 "AWSAccountManagementFullAccess","v1",True,"2021-09-30T23:20:37+00:00",1,0,0,0,0,0,0
