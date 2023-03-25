@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonGrafanaCloudWatchAccess",
+    "PolicyId": "ANPAZKAPJZG4NIUWOK5KU",
+    "Arn": "arn:aws:iam::aws:policy/service-role/AmazonGrafanaCloudWatchAccess",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2023-03-24T22:41:53+00:00",
+    "UpdateDate": "2023-03-24T22:41:53+00:00"
+}
