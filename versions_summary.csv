@@ -2002,6 +2002,7 @@
 "AmazonPrometheusConsoleFullAccess","v2",False,"2021-09-29T15:29:28+00:00",0,1,0,0,0,0,4
 "AmazonPrometheusConsoleFullAccess","v3",True,"2022-10-24T22:25:39+00:00",0,1,0,0,0,0,13
 "AmazonPrometheusConsoleFullAccess","v1",False,"2020-12-15T18:11:10+00:00",0,1,0,0,0,0,2
+"AmazonDataZonePortalFullAccessPolicy","v1",True,"2023-03-26T18:24:35+00:00",1,0,0,0,0,0,0
 "AmazonMachineLearningRealTimePredictionOnlyAccess","v1",True,"2015-04-09T17:44:06+00:00",0,1,0,0,0,0,1
 "AmazonGlacierReadOnlyAccess","v2",True,"2016-05-05T18:46:10+00:00",0,0,0,0,0,0,0
 "AmazonGlacierReadOnlyAccess","v1",False,"2015-02-06T18:40:27+00:00",0,0,0,0,0,0,0

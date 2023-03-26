@@ -1,0 +1,11 @@
+{
+    "ServiceWildcard": [
+        "datazonecontrol"
+    ],
+    "ServicesAffected": [],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": []
+}
