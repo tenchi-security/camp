@@ -989,6 +989,7 @@
 "AmazonEC2RoleforAWSCodeDeploy","v2",True,"2017-03-20T17:14:10+00:00",0,1,0,0,1,0,1
 "AmazonEC2RoleforAWSCodeDeploy","v1",False,"2015-05-19T18:10:14+00:00",0,1,0,0,1,0,1
 "AWSPriceListServiceFullAccess","v1",True,"2017-11-22T00:36:27+00:00",1,0,0,0,0,0,0
+"AmazonDataZonePreviewConsoleFullAccess","v1",True,"2023-03-28T15:16:04+00:00",1,0,0,0,0,0,0
 "AutoScalingConsoleReadOnlyAccess","v1",True,"2017-01-12T19:48:53+00:00",0,0,0,0,0,0,0
 "AmazonRDSReadOnlyAccess","v2",False,"2015-12-16T20:58:30+00:00",0,0,0,0,0,0,0
 "AmazonRDSReadOnlyAccess","v3",False,"2017-08-28T21:36:32+00:00",0,0,0,0,0,0,0
