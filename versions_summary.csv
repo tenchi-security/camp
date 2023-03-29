@@ -2802,6 +2802,7 @@
 "AWSControlTowerServiceRolePolicy","v7",False,"2021-06-04T23:00:46+00:00",0,4,0,0,0,0,6
 "AWSControlTowerServiceRolePolicy","v4",False,"2020-05-11T23:04:15+00:00",0,4,0,0,0,0,6
 "AmazonSESReadOnlyAccess","v1",True,"2015-02-06T18:41:03+00:00",0,0,0,0,0,0,0
+"AWSGroundStationAgentInstancePolicy","v1",True,"2023-03-29T15:23:12+00:00",0,0,0,0,0,0,0
 "AWSCloudShellFullAccess","v1",True,"2020-12-15T18:07:44+00:00",1,1,0,0,0,0,7
 "AWSSupportAppReadOnlyAccess","v1",True,"2022-08-22T17:01:15+00:00",0,0,0,0,0,0,0
 "AWSDirectoryServiceFullAccess","v2",False,"2016-02-24T23:10:36+00:00",1,2,0,5,0,0,47
