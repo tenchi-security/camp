@@ -2136,8 +2136,9 @@
 "AmazonEC2RoleforDataPipelineRole","v2",False,"2015-03-19T19:18:17+00:00",7,7,0,21,1,0,133
 "AmazonEC2RoleforDataPipelineRole","v3",True,"2016-02-22T17:24:05+00:00",7,7,0,21,1,0,134
 "AmazonEC2RoleforDataPipelineRole","v1",False,"2015-02-06T18:41:25+00:00",0,2,0,8,1,0,35
+"AWSBackupServiceRolePolicyForRestores","v16",True,"2023-03-28T23:32:58+00:00",0,3,0,1,0,0,14
 "AWSBackupServiceRolePolicyForRestores","v11",False,"2022-03-31T18:21:27+00:00",0,3,0,1,0,0,13
-"AWSBackupServiceRolePolicyForRestores","v15",True,"2022-11-10T22:45:54+00:00",0,3,0,1,0,0,13
+"AWSBackupServiceRolePolicyForRestores","v15",False,"2022-11-10T22:45:54+00:00",0,3,0,1,0,0,13
 "AWSBackupServiceRolePolicyForRestores","v2",False,"2019-01-14T19:37:08+00:00",0,1,0,0,0,0,3
 "AWSBackupServiceRolePolicyForRestores","v3",False,"2019-04-25T19:17:26+00:00",0,2,0,1,0,0,4
 "AWSBackupServiceRolePolicyForRestores","v14",False,"2022-10-12T22:12:43+00:00",0,3,0,1,0,0,13
