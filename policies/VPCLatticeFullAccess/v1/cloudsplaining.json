@@ -1,0 +1,11 @@
+{
+    "ServiceWildcard": [
+        "vpc-lattice"
+    ],
+    "ServicesAffected": [],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": []
+}

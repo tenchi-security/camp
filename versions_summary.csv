@@ -693,6 +693,7 @@
 "AmazonGrafanaServiceLinkedRolePolicy","v1",True,"2022-11-08T23:10:33+00:00",0,1,0,0,0,0,2
 "AmazonEMRReadOnlyAccessPolicy_v2","v2",True,"2022-04-21T22:31:26+00:00",0,0,0,0,0,0,0
 "AmazonEMRReadOnlyAccessPolicy_v2","v1",False,"2021-03-12T01:39:16+00:00",0,0,0,0,0,0,0
+"VPCLatticeFullAccess","v1",True,"2023-03-30T02:49:02+00:00",1,0,0,0,0,0,0
 "AWSIoTConfigAccess","v2",False,"2016-04-11T16:32:15+00:00",0,1,0,3,0,0,21
 "AWSIoTConfigAccess","v3",False,"2016-06-08T18:20:49+00:00",0,1,0,3,0,0,21
 "AWSIoTConfigAccess","v5",False,"2017-11-29T18:33:46+00:00",0,1,0,6,0,0,44
@@ -1434,6 +1435,7 @@
 "AmazonRedshiftDataFullAccess","v1",False,"2020-09-09T19:23:55+00:00",0,1,0,0,0,0,1
 "AmazonRedshiftDataFullAccess","v4",True,"2022-07-12T03:34:16+00:00",0,2,0,0,0,0,3
 "AmazonChimeSDKMediaPipelinesServiceLinkedRolePolicy","v1",True,"2022-04-04T22:02:05+00:00",0,1,0,0,0,0,2
+"VPCLatticeServicesInvokeAccess","v1",True,"2023-03-30T02:45:07+00:00",0,0,0,0,0,0,0
 "AWSApplicationAutoscalingAppStreamFleetPolicy","v1",True,"2017-10-20T19:04:06+00:00",0,2,0,0,0,0,3
 "AWSPanoramaApplianceServiceRolePolicy","v2",True,"2023-01-17T21:32:36+00:00",0,0,0,0,0,0,0
 "AWSPanoramaApplianceServiceRolePolicy","v1",False,"2021-10-20T12:14:03+00:00",0,1,0,0,0,0,1
@@ -1561,6 +1563,7 @@
 "AmazonDevOpsGuruReadOnlyAccess","v1",False,"2020-12-01T16:34:40+00:00",0,0,0,0,0,0,0
 "AmazonDevOpsGuruReadOnlyAccess","v6",True,"2022-08-25T18:11:21+00:00",0,0,0,0,0,0,0
 "AmazonDevOpsGuruReadOnlyAccess","v4",False,"2021-11-26T21:05:22+00:00",0,0,0,0,0,0,0
+"VPCLatticeReadOnlyAccess","v1",True,"2023-03-30T02:47:25+00:00",0,0,0,0,0,0,0
 "AWSRoboMakerServicePolicy","v2",False,"2019-04-04T22:15:35+00:00",0,3,0,2,0,0,4
 "AWSRoboMakerServicePolicy","v3",False,"2020-01-23T20:44:52+00:00",0,4,0,2,0,0,5
 "AWSRoboMakerServicePolicy","v5",False,"2020-08-04T20:38:08+00:00",0,4,0,2,0,0,5
