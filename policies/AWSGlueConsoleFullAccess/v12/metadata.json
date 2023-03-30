@@ -1,6 +1,6 @@
 {
     "VersionId": "v12",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2019-02-11T19:49:01+00:00",
     "PolicyName": "AWSGlueConsoleFullAccess"
 }
