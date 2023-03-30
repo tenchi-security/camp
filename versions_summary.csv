@@ -1286,7 +1286,8 @@
 "CloudWatchReadOnlyAccess","v5",True,"2022-11-27T13:08:46+00:00",0,0,0,0,0,0,0
 "CloudWatchReadOnlyAccess","v1",False,"2015-02-06T18:40:01+00:00",0,0,0,0,0,0,0
 "CloudWatchReadOnlyAccess","v4",False,"2020-07-17T17:49:09+00:00",0,0,0,0,0,0,0
-"AWSNetworkFirewallServiceRolePolicy","v2",True,"2023-02-14T17:09:19+00:00",0,1,0,0,0,0,2
+"AWSNetworkFirewallServiceRolePolicy","v2",False,"2023-02-14T17:09:19+00:00",0,1,0,0,0,0,2
+"AWSNetworkFirewallServiceRolePolicy","v3",True,"2023-03-30T17:19:09+00:00",0,1,0,0,0,0,2
 "AWSNetworkFirewallServiceRolePolicy","v1",False,"2020-11-17T17:17:26+00:00",0,1,0,0,0,0,2
 "AWSHealthFullAccess","v2",False,"2019-12-22T14:25:03+00:00",1,1,0,3,0,0,1
 "AWSHealthFullAccess","v3",True,"2020-11-16T18:11:34+00:00",1,1,0,3,0,0,1
