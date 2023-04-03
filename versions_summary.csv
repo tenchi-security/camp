@@ -1639,6 +1639,7 @@
 "AWSEC2SpotServiceRolePolicy","v3",False,"2018-06-07T21:00:25+00:00",0,2,0,1,0,0,4
 "AWSEC2SpotServiceRolePolicy","v1",False,"2017-09-18T18:51:54+00:00",0,2,0,1,0,0,3
 "AWSEC2SpotServiceRolePolicy","v4",True,"2018-12-12T00:13:51+00:00",0,2,0,1,0,0,5
+"AWSProtonServiceSyncServiceRolePolicy","v1",True,"2023-04-03T20:40:05+00:00",0,1,0,0,0,0,7
 "AWSCloudMapFullAccess","v2",True,"2020-07-29T19:15:35+00:00",1,2,0,0,0,0,11
 "AWSCloudMapFullAccess","v1",False,"2018-11-28T23:57:31+00:00",1,2,0,0,0,0,11
 "AWSVendorInsightsVendorFullAccess","v2",True,"2022-12-01T00:49:35+00:00",0,1,0,0,0,0,6
@@ -2296,6 +2297,7 @@
 "AWSNetworkManagerServiceRolePolicy","v4",False,"2021-06-07T16:18:24+00:00",0,0,0,0,0,0,0
 "AmazonMachineLearningCreateOnlyAccess","v2",True,"2016-06-29T20:55:03+00:00",0,1,0,0,0,0,14
 "AmazonMachineLearningCreateOnlyAccess","v1",False,"2015-04-09T17:18:09+00:00",0,1,0,0,0,0,13
+"AWSMigrationHubRefactorSpaces-EnvironmentsWithoutBridgesFullAccess","v1",True,"2023-04-03T20:09:48+00:00",1,5,0,2,0,0,17
 "AWSIoTWirelessLogging","v1",True,"2020-12-15T15:32:40+00:00",0,0,0,0,0,0,0
 "AWSThinkboxDeadlineSpotEventPluginWorkerPolicy","v2",True,"2020-12-07T23:31:31+00:00",0,0,0,0,0,0,0
 "AWSThinkboxDeadlineSpotEventPluginWorkerPolicy","v1",False,"2020-05-27T19:35:00+00:00",0,0,0,0,0,0,0
