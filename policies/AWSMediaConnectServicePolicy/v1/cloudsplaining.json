@@ -1,0 +1,21 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "ecs"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "ecs:CreateService",
+        "ecs:DeleteAttributes",
+        "ecs:DeleteService",
+        "ecs:PutAttributes",
+        "ecs:RunTask",
+        "ecs:StartTask",
+        "ecs:StopTask",
+        "ecs:UpdateContainerInstancesState",
+        "ecs:UpdateService"
+    ]
+}

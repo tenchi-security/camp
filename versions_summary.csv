@@ -2848,6 +2848,7 @@
 "MemoryDBServiceRolePolicy","v2",True,"2021-08-18T23:48:16+00:00",0,0,0,0,0,0,0
 "MemoryDBServiceRolePolicy","v1",False,"2021-08-17T22:34:59+00:00",0,0,0,0,0,0,0
 "KafkaConnectServiceRolePolicy","v1",True,"2021-09-07T13:12:44+00:00",0,0,0,0,0,0,0
+"AWSMediaConnectServicePolicy","v1",True,"2023-04-03T22:11:40+00:00",0,1,0,0,0,0,9
 "AwsGlueSessionUserRestrictedNotebookServiceRole","v1",True,"2022-04-18T15:27:11+00:00",1,0,0,0,0,0,0
 "AmazonSESFullAccess","v1",True,"2015-02-06T18:41:02+00:00",1,1,0,3,0,0,36
 "AWSCodeDeployRoleForCloudFormation","v1",True,"2020-05-19T17:12:52+00:00",0,0,0,0,0,0,0

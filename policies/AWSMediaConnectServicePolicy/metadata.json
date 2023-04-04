@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSMediaConnectServicePolicy",
+    "PolicyId": "ANPAZKAPJZG4HLQANTOAO",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/AWSMediaConnectServicePolicy",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2023-04-03T22:11:40+00:00",
+    "UpdateDate": "2023-04-03T22:11:40+00:00"
+}
