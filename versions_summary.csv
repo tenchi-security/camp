@@ -1,4 +1,5 @@
 "PolicyName","VersionId","IsDefaultVersion","CreateDate","ServiceWildcard","ServicesAffected","PrivilegeEscalation","ResourceExposure","DataExfiltration","CredentialsExposure","InfrastructureModification"
+"AWSProtonServiceGitSyncServiceRolePolicy","v1",True,"2023-04-04T15:55:48+00:00",0,1,0,0,0,0,7
 "MonitronServiceRolePolicy","v1",True,"2022-05-02T19:22:03+00:00",0,0,0,0,0,0,0
 "AmazonDetectiveInvestigatorAccess","v1",True,"2023-01-17T15:24:26+00:00",0,0,0,0,0,0,0
 "AWSThinkboxDeadlineSpotEventPluginAdminPolicy","v1",True,"2020-05-27T19:38:34+00:00",0,1,0,0,0,0,4

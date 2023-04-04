@@ -1,0 +1,19 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "proton"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "proton:CreateComponent",
+        "proton:CreateEnvironment",
+        "proton:UpdateComponent",
+        "proton:UpdateEnvironment",
+        "proton:UpdateService",
+        "proton:UpdateServiceInstance",
+        "proton:UpdateServicePipeline"
+    ]
+}
