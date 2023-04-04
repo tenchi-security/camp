@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4OQ4O7Q263",
     "Arn": "arn:aws:iam::aws:policy/AmazonDataZoneProjectDeploymentPermissionsBoundary",
     "Path": "/",
-    "DefaultVersionId": "v1",
+    "DefaultVersionId": "v2",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2023-03-21T02:54:30+00:00",
-    "UpdateDate": "2023-03-21T02:54:30+00:00"
+    "UpdateDate": "2023-04-04T02:48:38+00:00"
 }
