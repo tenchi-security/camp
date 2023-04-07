@@ -1033,10 +1033,11 @@
 "AWSProtonReadOnlyAccess","v3",True,"2022-11-18T18:28:24+00:00",0,0,0,0,0,0,0
 "MigrationHubDMSAccessServiceRolePolicy","v1",False,"2019-06-12T17:50:39+00:00",0,0,0,0,0,0,0
 "MigrationHubDMSAccessServiceRolePolicy","v2",True,"2019-10-07T17:57:44+00:00",0,0,0,0,0,0,0
+"AmazonRedshiftDataFullAccess","v5",True,"2023-04-07T18:18:32+00:00",0,1,0,0,0,0,2
 "AmazonRedshiftDataFullAccess","v1",False,"2020-09-09T19:23:55+00:00",0,1,0,0,0,0,1
 "AmazonRedshiftDataFullAccess","v2",False,"2021-07-27T20:05:33+00:00",0,1,0,0,0,0,1
 "AmazonRedshiftDataFullAccess","v3",False,"2022-07-08T01:44:27+00:00",0,2,0,0,0,0,3
-"AmazonRedshiftDataFullAccess","v4",True,"2022-07-12T03:34:16+00:00",0,2,0,0,0,0,3
+"AmazonRedshiftDataFullAccess","v4",False,"2022-07-12T03:34:16+00:00",0,2,0,0,0,0,3
 "AWSMediaConnectServicePolicy","v1",True,"2023-04-03T22:11:40+00:00",0,1,0,0,0,0,9
 "AWSWAFFullAccess","v5",False,"2020-10-01T20:13:54+00:00",3,4,0,9,0,0,112
 "AWSWAFFullAccess","v8",False,"2022-08-25T20:11:30+00:00",3,4,0,7,0,0,114
