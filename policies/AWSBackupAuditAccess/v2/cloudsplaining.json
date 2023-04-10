@@ -1,0 +1,19 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "backup"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "backup:CreateFramework",
+        "backup:CreateReportPlan",
+        "backup:DeleteFramework",
+        "backup:DeleteReportPlan",
+        "backup:StartReportJob",
+        "backup:UpdateFramework",
+        "backup:UpdateReportPlan"
+    ]
+}
