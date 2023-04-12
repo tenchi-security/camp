@@ -1597,9 +1597,10 @@
 "AWSControlTowerServiceRolePolicy","v6",False,"2020-11-10T21:08:05+00:00",0,4,0,0,0,0,6
 "AWSControlTowerServiceRolePolicy","v7",False,"2021-06-04T23:00:46+00:00",0,4,0,0,0,0,6
 "AWSControlTowerServiceRolePolicy","v2",False,"2019-05-23T19:14:24+00:00",0,3,0,0,0,0,3
-"AWSControlTowerServiceRolePolicy","v9",True,"2022-10-31T19:12:41+00:00",0,5,0,1,0,0,7
+"AWSControlTowerServiceRolePolicy","v9",False,"2022-10-31T19:12:41+00:00",0,5,0,1,0,0,7
 "AWSControlTowerServiceRolePolicy","v3",False,"2019-06-13T16:36:30+00:00",0,3,0,0,0,0,3
 "AWSControlTowerServiceRolePolicy","v4",False,"2020-05-11T23:04:15+00:00",0,4,0,0,0,0,6
+"AWSControlTowerServiceRolePolicy","v10",True,"2023-04-12T19:15:51+00:00",0,5,0,1,0,0,7
 "AWSApplicationAutoscalingComprehendEndpointPolicy","v1",True,"2019-11-14T18:39:07+00:00",0,2,0,0,0,0,3
 "AmazonKinesisFirehoseFullAccess","v1",True,"2015-10-07T18:45:26+00:00",1,1,0,0,0,0,9
 "CloudWatchSyntheticsReadOnlyAccess","v1",False,"2019-11-25T17:45:40+00:00",0,0,0,0,0,0,0
