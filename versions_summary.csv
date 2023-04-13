@@ -482,9 +482,10 @@
 "SecretsManagerReadWrite","v2",False,"2018-05-03T20:02:35+00:00",1,2,0,3,1,0,16
 "SecretsManagerReadWrite","v3",True,"2020-06-24T18:01:22+00:00",1,2,0,3,1,0,16
 "AWSServiceCatalogAdminFullAccess","v5",False,"2019-02-06T01:57:54+00:00",1,2,0,3,0,0,35
+"AWSServiceCatalogAdminFullAccess","v8",True,"2023-04-13T18:43:01+00:00",0,2,0,4,0,0,36
 "AWSServiceCatalogAdminFullAccess","v1",False,"2018-02-15T17:19:40+00:00",1,2,0,3,0,0,35
 "AWSServiceCatalogAdminFullAccess","v6",False,"2022-11-17T23:03:44+00:00",0,2,0,4,0,0,36
-"AWSServiceCatalogAdminFullAccess","v7",True,"2023-01-11T18:08:18+00:00",0,2,0,4,0,0,36
+"AWSServiceCatalogAdminFullAccess","v7",False,"2023-01-11T18:08:18+00:00",0,2,0,4,0,0,36
 "AWSServiceCatalogAdminFullAccess","v2",False,"2018-09-29T00:29:55+00:00",1,2,0,3,0,0,35
 "AWSServiceCatalogAdminFullAccess","v3",False,"2018-10-16T23:15:23+00:00",1,2,0,3,0,0,35
 "AWSServiceCatalogAdminFullAccess","v4",False,"2018-11-02T23:07:49+00:00",1,2,0,3,0,0,35
