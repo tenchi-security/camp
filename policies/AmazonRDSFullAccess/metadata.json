@@ -3,10 +3,10 @@
     "PolicyId": "ANPAI3R4QMOG6Q5A4VWVG",
     "Arn": "arn:aws:iam::aws:policy/AmazonRDSFullAccess",
     "Path": "/",
-    "DefaultVersionId": "v12",
+    "DefaultVersionId": "v13",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2015-02-06T18:40:52+00:00",
-    "UpdateDate": "2023-03-30T12:05:22+00:00"
+    "UpdateDate": "2023-04-14T12:27:01+00:00"
 }
