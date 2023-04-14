@@ -3190,10 +3190,11 @@
 "AWSCertificateManagerPrivateCAAuditor","v2",False,"2018-12-07T20:41:56+00:00",0,0,0,0,0,0,0
 "AWSCertificateManagerPrivateCAAuditor","v3",False,"2019-03-14T17:17:38+00:00",0,0,0,0,0,0,0
 "AWSCertificateManagerPrivateCAAuditor","v4",True,"2020-08-17T22:54:12+00:00",0,0,0,0,0,0,0
+"AmazonChimeVoiceConnectorServiceLinkedRolePolicy","v5",True,"2023-04-14T21:49:14+00:00",0,0,0,0,0,0,0
 "AmazonChimeVoiceConnectorServiceLinkedRolePolicy","v1",False,"2019-09-30T22:16:42+00:00",0,0,0,0,0,0,0
 "AmazonChimeVoiceConnectorServiceLinkedRolePolicy","v2",False,"2021-12-21T00:08:05+00:00",0,0,0,0,0,0,0
 "AmazonChimeVoiceConnectorServiceLinkedRolePolicy","v3",False,"2022-03-17T16:18:11+00:00",0,0,0,0,0,0,0
-"AmazonChimeVoiceConnectorServiceLinkedRolePolicy","v4",True,"2023-03-23T19:39:40+00:00",0,0,0,0,0,0,0
+"AmazonChimeVoiceConnectorServiceLinkedRolePolicy","v4",False,"2023-03-23T19:39:40+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerModelGovernanceUseAccess","v1",True,"2022-11-30T08:58:19+00:00",0,1,0,0,0,0,4
 "SupportUser","v5",False,"2021-06-11T19:46:10+00:00",1,1,0,0,0,1,1
 "SupportUser","v1",False,"2016-11-10T17:21:53+00:00",1,1,0,0,0,1,1
