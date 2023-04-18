@@ -2839,8 +2839,9 @@
 "AmazonCodeGuruProfilerFullAccess","v3",False,"2020-06-28T00:04:51+00:00",2,1,0,2,0,0,11
 "AmazonCodeGuruProfilerFullAccess","v4",True,"2020-07-15T03:23:08+00:00",2,1,0,2,0,0,11
 "AWSServiceRoleForCloudWatchAlarmsActionSSMServiceRolePolicy","v1",True,"2020-10-01T09:49:01+00:00",0,0,0,0,0,0,0
-"AWSThinkboxAWSPortalAdminPolicy","v5",True,"2023-03-23T20:12:28+00:00",0,4,0,0,0,0,45
+"AWSThinkboxAWSPortalAdminPolicy","v5",False,"2023-03-23T20:12:28+00:00",0,4,0,0,0,0,45
 "AWSThinkboxAWSPortalAdminPolicy","v1",False,"2020-05-27T19:41:02+00:00",0,4,0,0,0,0,45
+"AWSThinkboxAWSPortalAdminPolicy","v6",True,"2023-04-18T18:24:02+00:00",0,4,0,0,0,0,45
 "AWSThinkboxAWSPortalAdminPolicy","v2",False,"2020-08-08T03:39:47+00:00",0,4,0,0,0,0,45
 "AWSThinkboxAWSPortalAdminPolicy","v3",False,"2020-08-18T21:01:54+00:00",0,4,0,0,0,0,45
 "AWSThinkboxAWSPortalAdminPolicy","v4",False,"2020-08-20T17:16:03+00:00",0,4,0,0,0,0,44
