@@ -223,6 +223,7 @@
 "AWSIQFullAccess","v2",True,"2019-09-25T20:22:34+00:00",2,1,0,1,0,0,1
 "ServerMigrationServiceConsoleFullAccess","v1",False,"2020-05-09T17:18:57+00:00",1,1,0,1,0,0,1
 "ServerMigrationServiceConsoleFullAccess","v2",True,"2020-07-20T22:00:37+00:00",1,1,0,1,0,0,1
+"AWSUserNotificationsServiceLinkedRolePolicy","v1",True,"2023-04-19T13:28:34+00:00",0,0,0,0,0,0,0
 "AmazonSSMManagedEC2InstanceDefaultPolicy","v1",True,"2022-08-30T20:54:27+00:00",0,1,0,0,0,0,3
 "AWSConfigServiceRolePolicy","v17",False,"2019-10-21T21:54:04+00:00",0,1,0,0,0,0,5
 "AWSConfigServiceRolePolicy","v41",False,"2023-03-02T22:12:23+00:00",0,2,0,2,0,0,7
