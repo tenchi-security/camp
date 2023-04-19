@@ -171,7 +171,8 @@
 "AWSApplicationDiscoveryAgentAccess","v1",False,"2016-05-11T21:38:47+00:00",0,0,0,0,0,0,0
 "AWSApplicationDiscoveryAgentAccess","v2",True,"2020-02-24T22:26:45+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerEdgeDeviceFleetPolicy","v1",True,"2020-12-08T16:17:22+00:00",0,1,0,0,0,0,1
-"AmazonInspector2FullAccess","v1",True,"2021-11-29T19:10:15+00:00",1,2,0,1,0,0,2
+"AmazonInspector2FullAccess","v1",False,"2021-11-29T19:10:15+00:00",1,2,0,1,0,0,2
+"AmazonInspector2FullAccess","v2",True,"2023-04-19T21:33:48+00:00",1,3,0,1,0,0,5
 "AWSRefactoringToolkitSidecarPolicy","v1",False,"2022-10-25T16:41:12+00:00",0,0,0,0,0,0,0
 "AWSRefactoringToolkitSidecarPolicy","v2",True,"2022-10-29T22:15:51+00:00",0,0,0,0,0,0,0
 "CloudWatchApplicationInsightsReadOnlyAccess","v1",True,"2020-11-24T18:48:00+00:00",0,0,0,0,0,0,0
@@ -546,10 +547,11 @@
 "AWSDirectConnectReadOnlyAccess","v3",False,"2019-04-30T15:23:18+00:00",0,0,0,0,0,0,0
 "AWSDirectConnectReadOnlyAccess","v4",True,"2020-05-18T18:48:22+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerServiceCatalogProductsLambdaServiceRolePolicy","v1",True,"2022-04-04T16:34:43+00:00",0,0,0,0,0,0,0
+"AmazonFSxFullAccess","v5",True,"2023-04-19T20:43:42+00:00",1,2,0,3,0,0,35
 "AmazonFSxFullAccess","v1",False,"2018-11-28T16:34:43+00:00",1,2,0,2,0,0,13
 "AmazonFSxFullAccess","v2",False,"2021-06-08T12:05:31+00:00",1,2,0,2,0,0,13
 "AmazonFSxFullAccess","v3",False,"2021-08-26T13:17:29+00:00",1,2,0,3,0,0,17
-"AmazonFSxFullAccess","v4",True,"2022-09-29T18:27:51+00:00",1,2,0,3,0,0,32
+"AmazonFSxFullAccess","v4",False,"2022-09-29T18:27:51+00:00",1,2,0,3,0,0,32
 "AWSMarketplaceSellerFullAccess","v5",False,"2021-11-30T19:26:49+00:00",0,1,0,1,0,0,2
 "AWSMarketplaceSellerFullAccess","v8",True,"2022-12-22T23:33:23+00:00",0,2,0,1,0,0,4
 "AWSMarketplaceSellerFullAccess","v1",False,"2019-07-02T20:40:09+00:00",0,1,0,1,0,0,2
