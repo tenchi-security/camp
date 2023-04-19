@@ -1,6 +1,6 @@
 {
     "VersionId": "v5",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2022-03-31T19:03:33+00:00",
     "PolicyName": "AmazonBraketFullAccess"
 }

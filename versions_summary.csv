@@ -1159,8 +1159,9 @@
 "AWSMarketplaceSellerProductsReadOnly","v1",False,"2019-07-02T21:40:47+00:00",0,0,0,0,0,0,0
 "AWSMarketplaceSellerProductsReadOnly","v2",False,"2020-03-05T23:11:53+00:00",0,0,0,0,0,0,0
 "AWSMarketplaceSellerProductsReadOnly","v3",True,"2022-11-19T00:08:42+00:00",0,0,0,0,0,0,0
-"AmazonBraketFullAccess","v5",True,"2022-03-31T19:03:33+00:00",1,2,0,0,0,1,4
+"AmazonBraketFullAccess","v5",False,"2022-03-31T19:03:33+00:00",1,2,0,0,0,1,4
 "AmazonBraketFullAccess","v1",False,"2020-08-06T20:12:37+00:00",1,1,0,0,0,0,4
+"AmazonBraketFullAccess","v6",True,"2023-04-19T16:25:29+00:00",1,2,0,0,0,1,4
 "AmazonBraketFullAccess","v2",False,"2021-02-18T07:48:38+00:00",1,1,0,0,0,0,4
 "AmazonBraketFullAccess","v3",False,"2021-11-26T19:32:02+00:00",1,2,0,0,0,1,4
 "AmazonBraketFullAccess","v4",False,"2021-11-28T05:31:50+00:00",1,2,0,0,0,1,4
