@@ -1301,7 +1301,8 @@
 "AWSMobileHub_ReadOnly","v4",False,"2016-11-30T17:19:23+00:00",0,0,0,0,0,0,0
 "AWSMobileHub_ReadOnly","v10",True,"2018-07-23T21:59:05+00:00",0,1,0,0,0,0,1
 "AWSElasticDisasterRecoveryConsoleFullAccess","v1",False,"2021-11-17T10:46:29+00:00",1,0,0,0,0,0,0
-"AWSElasticDisasterRecoveryConsoleFullAccess","v2",True,"2022-05-29T08:40:00+00:00",1,1,0,0,0,0,35
+"AWSElasticDisasterRecoveryConsoleFullAccess","v2",False,"2022-05-29T08:40:00+00:00",1,1,0,0,0,0,35
+"AWSElasticDisasterRecoveryConsoleFullAccess","v3",True,"2023-04-19T09:52:11+00:00",1,1,0,0,0,0,40
 "AmazonCodeGuruReviewerReadOnlyAccess","v1",False,"2019-12-03T08:48:24+00:00",0,0,0,0,0,0,0
 "AmazonCodeGuruReviewerReadOnlyAccess","v2",True,"2020-08-29T04:15:32+00:00",0,0,0,0,0,0,0
 "AWSAppSyncInvokeFullAccess","v1",True,"2018-03-20T21:21:20+00:00",0,1,0,0,0,0,1
