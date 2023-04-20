@@ -1,0 +1,17 @@
+{
+    "ServiceWildcard": [
+        "codecatalyst"
+    ],
+    "ServicesAffected": [
+        "iam"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:PassRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "iam:PassRole"
+    ]
+}

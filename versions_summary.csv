@@ -378,6 +378,7 @@
 "AmazonRoute53RecoveryClusterReadOnlyAccess","v1",False,"2021-08-18T17:36:01+00:00",0,0,0,0,0,0,0
 "AmazonRoute53RecoveryClusterReadOnlyAccess","v2",True,"2022-04-01T17:37:55+00:00",0,0,0,0,0,0,0
 "AWSTrustedAdvisorPriorityFullAccess","v1",True,"2022-08-16T16:08:24+00:00",0,0,0,0,0,0,0
+"AmazonCodeCatalystReadOnlyAccess","v1",True,"2023-04-20T16:49:12+00:00",0,0,0,0,0,0,0
 "SimpleWorkflowFullAccess","v1",True,"2015-02-06T18:41:04+00:00",1,1,0,0,0,0,30
 "WorkLinkServiceRolePolicy","v1",True,"2019-01-23T19:03:45+00:00",0,1,0,2,0,0,4
 "ElementalActivationsDownloadSoftwareAccess","v1",True,"2020-09-08T17:26:09+00:00",0,0,0,0,0,0,0
@@ -834,6 +835,7 @@
 "NeptuneReadOnlyAccess","v1",False,"2018-05-30T19:16:37+00:00",0,0,0,0,0,0,0
 "NeptuneReadOnlyAccess","v2",True,"2022-08-03T18:53:32+00:00",0,0,0,0,0,0,0
 "AWSAppRunnerReadOnlyAccess","v1",True,"2022-02-24T21:24:15+00:00",0,0,0,0,0,0,0
+"AmazonCodeCatalystFullAccess","v1",True,"2023-04-20T16:50:16+00:00",1,1,0,1,0,0,1
 "AmazonDetectiveFullAccess","v1",False,"2020-04-30T17:57:15+00:00",1,1,0,0,0,0,7
 "AmazonDetectiveFullAccess","v2",False,"2020-10-21T22:07:28+00:00",1,1,0,0,0,0,7
 "AmazonDetectiveFullAccess","v3",True,"2023-01-17T14:35:33+00:00",1,1,0,0,0,0,9
@@ -1453,7 +1455,8 @@
 "AWSApplicationMigrationAgentInstallationPolicy","v2",True,"2022-09-20T11:21:24+00:00",0,0,0,0,0,0,0
 "AWSApplicationMigrationFullAccess","v5",False,"2022-08-11T16:08:08+00:00",1,1,0,0,0,0,33
 "AWSApplicationMigrationFullAccess","v1",False,"2021-04-07T06:56:05+00:00",1,0,0,0,0,0,0
-"AWSApplicationMigrationFullAccess","v6",True,"2023-03-20T10:43:04+00:00",1,1,0,0,0,0,38
+"AWSApplicationMigrationFullAccess","v6",False,"2023-03-20T10:43:04+00:00",1,1,0,0,0,0,38
+"AWSApplicationMigrationFullAccess","v7",True,"2023-04-20T17:28:13+00:00",1,1,0,0,0,0,38
 "AWSApplicationMigrationFullAccess","v2",False,"2022-02-22T11:16:56+00:00",1,1,0,0,0,0,33
 "AWSApplicationMigrationFullAccess","v3",False,"2022-05-01T08:31:14+00:00",1,1,0,0,0,0,33
 "AWSApplicationMigrationFullAccess","v4",False,"2022-05-31T21:14:49+00:00",1,1,0,0,0,0,33
