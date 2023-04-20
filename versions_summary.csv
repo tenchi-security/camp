@@ -2634,6 +2634,7 @@
 "AWSIoTFleetHubFederationAccess","v2",False,"2021-04-12T18:27:43+00:00",0,1,0,0,0,0,3
 "AWSIoTFleetHubFederationAccess","v3",False,"2021-05-24T14:12:59+00:00",0,1,0,0,0,0,5
 "AWSIoTFleetHubFederationAccess","v4",False,"2021-11-15T23:28:19+00:00",0,1,0,0,0,0,6
+"AmazonCodeCatalystSupportAccess","v1",True,"2023-04-20T12:34:44+00:00",0,0,0,0,0,0,0
 "AWSGlueServiceNotebookRole","v1",False,"2017-08-14T13:37:42+00:00",0,1,1,0,0,0,19
 "AWSGlueServiceNotebookRole","v2",False,"2017-08-17T18:08:29+00:00",0,1,1,0,0,0,19
 "AWSGlueServiceNotebookRole","v3",True,"2019-10-07T18:05:54+00:00",0,1,1,0,0,0,19
