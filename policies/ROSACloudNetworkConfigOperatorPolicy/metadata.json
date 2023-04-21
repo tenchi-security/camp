@@ -1,0 +1,12 @@
+{
+    "PolicyName": "ROSACloudNetworkConfigOperatorPolicy",
+    "PolicyId": "ANPAZKAPJZG4ME3FE6Z2B",
+    "Arn": "arn:aws:iam::aws:policy/service-role/ROSACloudNetworkConfigOperatorPolicy",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2023-04-20T22:34:36+00:00",
+    "UpdateDate": "2023-04-20T22:34:36+00:00"
+}

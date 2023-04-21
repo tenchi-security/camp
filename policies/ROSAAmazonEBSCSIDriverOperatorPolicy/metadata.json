@@ -1,0 +1,12 @@
+{
+    "PolicyName": "ROSAAmazonEBSCSIDriverOperatorPolicy",
+    "PolicyId": "ANPAZKAPJZG4F2443B4WJ",
+    "Arn": "arn:aws:iam::aws:policy/service-role/ROSAAmazonEBSCSIDriverOperatorPolicy",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2023-04-20T22:36:00+00:00",
+    "UpdateDate": "2023-04-20T22:36:00+00:00"
+}

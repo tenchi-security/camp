@@ -1,0 +1,12 @@
+{
+    "PolicyName": "ROSAWorkerInstancePolicy",
+    "PolicyId": "ANPAZKAPJZG4KL5MKQW7V",
+    "Arn": "arn:aws:iam::aws:policy/service-role/ROSAWorkerInstancePolicy",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2023-04-20T22:35:32+00:00",
+    "UpdateDate": "2023-04-20T22:35:32+00:00"
+}
