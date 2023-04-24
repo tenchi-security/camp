@@ -612,11 +612,12 @@
 "AmazonSageMakerPipelinesIntegrations","v1",False,"2021-07-30T16:35:10+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerPipelinesIntegrations","v2",False,"2022-04-20T18:39:06+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerPipelinesIntegrations","v3",True,"2023-02-17T21:28:19+00:00",0,0,0,0,0,0,0
+"AWSBackupServiceRolePolicyForRestores","v17",True,"2023-04-24T21:24:51+00:00",0,3,0,1,0,0,14
 "AWSBackupServiceRolePolicyForRestores","v5",False,"2020-01-13T16:04:56+00:00",0,3,0,1,0,0,10
 "AWSBackupServiceRolePolicyForRestores","v15",False,"2022-11-10T22:45:54+00:00",0,3,0,1,0,0,13
 "AWSBackupServiceRolePolicyForRestores","v8",False,"2021-03-10T18:30:25+00:00",0,3,0,1,0,0,13
 "AWSBackupServiceRolePolicyForRestores","v1",False,"2019-01-12T00:23:54+00:00",0,1,0,0,0,0,3
-"AWSBackupServiceRolePolicyForRestores","v16",True,"2023-03-28T23:32:58+00:00",0,3,0,1,0,0,14
+"AWSBackupServiceRolePolicyForRestores","v16",False,"2023-03-28T23:32:58+00:00",0,3,0,1,0,0,14
 "AWSBackupServiceRolePolicyForRestores","v6",False,"2020-05-29T21:48:32+00:00",0,3,0,1,0,0,12
 "AWSBackupServiceRolePolicyForRestores","v11",False,"2022-03-31T18:21:27+00:00",0,3,0,1,0,0,13
 "AWSBackupServiceRolePolicyForRestores","v7",False,"2020-11-09T16:52:12+00:00",0,3,0,1,0,0,12
@@ -1719,6 +1720,7 @@
 "AWSElasticBeanstalkRoleCWL","v1",True,"2020-06-05T21:49:06+00:00",0,0,0,0,0,0,0
 "AWSElasticBeanstalkRoleWorkerTier","v1",True,"2020-06-05T21:43:37+00:00",0,0,0,0,0,0,0
 "AWSBackupServiceRolePolicyForBackup","v5",False,"2020-06-03T07:06:09+00:00",0,3,0,1,0,0,9
+"AWSBackupServiceRolePolicyForBackup","v15",True,"2023-04-24T21:27:09+00:00",0,3,0,2,0,0,13
 "AWSBackupServiceRolePolicyForBackup","v8",False,"2020-11-18T23:16:27+00:00",0,3,0,2,0,0,11
 "AWSBackupServiceRolePolicyForBackup","v1",False,"2019-01-10T21:01:28+00:00",0,1,0,0,0,0,3
 "AWSBackupServiceRolePolicyForBackup","v6",False,"2020-09-14T22:33:50+00:00",0,3,0,1,0,0,9
@@ -1726,7 +1728,7 @@
 "AWSBackupServiceRolePolicyForBackup","v7",False,"2020-11-09T16:50:56+00:00",0,3,0,2,0,0,11
 "AWSBackupServiceRolePolicyForBackup","v12",False,"2022-05-17T17:31:44+00:00",0,3,0,2,0,0,13
 "AWSBackupServiceRolePolicyForBackup","v2",False,"2019-04-25T19:15:48+00:00",0,2,0,1,0,0,4
-"AWSBackupServiceRolePolicyForBackup","v14",True,"2022-11-10T22:38:14+00:00",0,3,0,2,0,0,13
+"AWSBackupServiceRolePolicyForBackup","v14",False,"2022-11-10T22:38:14+00:00",0,3,0,2,0,0,13
 "AWSBackupServiceRolePolicyForBackup","v13",False,"2022-10-12T22:14:45+00:00",0,3,0,2,0,0,13
 "AWSBackupServiceRolePolicyForBackup","v9",False,"2021-03-10T18:32:53+00:00",0,3,0,2,0,0,13
 "AWSBackupServiceRolePolicyForBackup","v3",False,"2019-06-25T20:26:08+00:00",0,2,0,1,0,0,4
@@ -2821,8 +2823,9 @@
 "AWSBackupServiceLinkedRolePolicyForBackup","v6",False,"2021-11-23T22:00:49+00:00",0,2,0,1,0,0,6
 "AWSBackupServiceLinkedRolePolicyForBackup","v11",False,"2022-07-28T17:29:44+00:00",0,2,0,1,0,0,6
 "AWSBackupServiceLinkedRolePolicyForBackup","v7",False,"2022-01-14T19:17:42+00:00",0,2,0,1,0,0,6
-"AWSBackupServiceLinkedRolePolicyForBackup","v12",True,"2022-11-10T22:51:20+00:00",0,2,0,1,0,0,6
+"AWSBackupServiceLinkedRolePolicyForBackup","v12",False,"2022-11-10T22:51:20+00:00",0,2,0,1,0,0,6
 "AWSBackupServiceLinkedRolePolicyForBackup","v2",False,"2020-11-10T18:37:51+00:00",0,2,0,1,0,0,6
+"AWSBackupServiceLinkedRolePolicyForBackup","v13",True,"2023-04-24T21:22:45+00:00",0,2,0,1,0,0,6
 "AWSBackupServiceLinkedRolePolicyForBackup","v9",False,"2022-05-05T17:45:06+00:00",0,2,0,1,0,0,6
 "AWSBackupServiceLinkedRolePolicyForBackup","v3",False,"2021-04-12T18:11:02+00:00",0,2,0,1,0,0,6
 "AWSBackupServiceLinkedRolePolicyForBackup","v4",False,"2021-07-05T23:27:46+00:00",0,2,0,1,0,0,6
