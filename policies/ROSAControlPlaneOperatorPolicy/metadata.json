@@ -1,0 +1,12 @@
+{
+    "PolicyName": "ROSAControlPlaneOperatorPolicy",
+    "PolicyId": "ANPAZKAPJZG4KA4P7YA2C",
+    "Arn": "arn:aws:iam::aws:policy/service-role/ROSAControlPlaneOperatorPolicy",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2023-04-24T23:02:49+00:00",
+    "UpdateDate": "2023-04-24T23:02:49+00:00"
+}

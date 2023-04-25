@@ -2121,6 +2121,7 @@
 "AWSSecurityHubReadOnlyAccess","v2",False,"2019-06-25T22:45:52+00:00",0,0,0,0,0,0,0
 "AWSSecurityHubReadOnlyAccess","v3",True,"2022-04-04T17:46:51+00:00",0,0,0,0,0,0,0
 "AWSResourceExplorerReadOnlyAccess","v1",True,"2022-11-07T19:56:00+00:00",0,0,0,0,0,0,0
+"ROSAControlPlaneOperatorPolicy","v1",True,"2023-04-24T23:02:49+00:00",0,1,0,0,0,0,1
 "ServerMigrationServiceLaunchRole","v1",False,"2018-11-26T19:53:06+00:00",0,1,0,0,0,0,5
 "ServerMigrationServiceLaunchRole","v2",False,"2020-07-20T21:56:41+00:00",0,2,0,1,0,0,6
 "ServerMigrationServiceLaunchRole","v3",False,"2020-09-30T17:50:15+00:00",0,2,0,1,0,0,6
