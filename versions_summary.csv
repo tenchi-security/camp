@@ -491,6 +491,7 @@
 "AmazonCodeGuruProfilerFullAccess","v3",False,"2020-06-28T00:04:51+00:00",2,1,0,2,0,0,11
 "AmazonCodeGuruProfilerFullAccess","v4",True,"2020-07-15T03:23:08+00:00",2,1,0,2,0,0,11
 "AmazonCodeGuruProfilerFullAccess","v2",False,"2020-04-06T21:16:38+00:00",2,1,0,2,0,0,11
+"AWSWellArchitectedDiscoveryServiceRolePolicy","v1",True,"2023-04-26T18:36:40+00:00",0,1,0,0,0,0,1
 "CloudFrontFullAccess","v1",False,"2015-02-06T18:39:50+00:00",1,1,0,0,0,0,14
 "CloudFrontFullAccess","v3",False,"2016-01-21T17:03:57+00:00",1,1,0,0,0,0,14
 "CloudFrontFullAccess","v6",True,"2020-09-03T20:18:42+00:00",1,1,0,0,0,0,14
@@ -1118,6 +1119,7 @@
 "AmazonWorkMailReadOnlyAccess","v3",False,"2019-05-13T15:12:46+00:00",0,0,0,0,0,0,0
 "AmazonWorkMailReadOnlyAccess","v4",True,"2019-07-25T08:24:50+00:00",0,0,0,0,0,0,0
 "AmazonWorkMailReadOnlyAccess","v2",False,"2018-12-04T13:40:28+00:00",0,0,0,0,0,0,0
+"AmazonOpenSearchIngestionFullAccess","v1",True,"2023-04-26T18:11:38+00:00",0,0,0,0,0,0,0
 "AmazonFreeRTOSOTAUpdate","v1",False,"2018-08-27T22:43:07+00:00",0,2,0,0,0,0,3
 "AmazonFreeRTOSOTAUpdate","v3",True,"2020-12-18T17:47:30+00:00",0,2,0,0,0,0,3
 "AmazonFreeRTOSOTAUpdate","v2",False,"2019-10-07T20:11:30+00:00",0,2,0,0,0,0,3
@@ -2857,6 +2859,7 @@
 "CloudTrailServiceRolePolicy","v1",False,"2018-10-24T21:21:44+00:00",1,1,0,0,0,0,9
 "CloudTrailServiceRolePolicy","v2",True,"2022-11-03T20:35:01+00:00",1,1,0,0,0,0,16
 "AWSMediaConnectServicePolicy","v1",True,"2023-04-03T22:11:40+00:00",0,1,0,0,0,0,9
+"AmazonOpenSearchIngestionReadOnlyAccess","v1",True,"2023-04-26T18:09:52+00:00",0,0,0,0,0,0,0
 "AWSOrganizationsServiceTrustPolicy","v1",False,"2017-10-10T23:04:07+00:00",0,0,0,0,0,0,0
 "AWSOrganizationsServiceTrustPolicy","v2",True,"2017-11-01T06:01:18+00:00",0,1,0,1,0,0,1
 "AWSResourceAccessManagerReadOnlyAccess","v1",True,"2019-12-09T20:58:37+00:00",0,0,0,0,0,0,0

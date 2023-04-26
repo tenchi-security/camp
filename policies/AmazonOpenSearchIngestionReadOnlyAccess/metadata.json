@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonOpenSearchIngestionReadOnlyAccess",
+    "PolicyId": "ANPAZKAPJZG4G7EWDJ7DQ",
+    "Arn": "arn:aws:iam::aws:policy/AmazonOpenSearchIngestionReadOnlyAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2023-04-26T18:09:52+00:00",
+    "UpdateDate": "2023-04-26T18:09:52+00:00"
+}
