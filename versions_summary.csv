@@ -443,6 +443,7 @@
 "AlexaForBusinessPolyDelegatedAccessPolicy","v1",True,"2019-10-16T19:48:45+00:00",0,1,0,0,0,0,4
 "AWSVendorInsightsVendorReadOnly","v1",False,"2022-07-26T15:05:34+00:00",0,0,0,0,0,0,0
 "AWSVendorInsightsVendorReadOnly","v2",True,"2022-12-01T00:54:38+00:00",0,0,0,0,0,0,0
+"ROSAKubeControllerPolicy","v1",True,"2023-04-27T20:09:29+00:00",0,1,0,0,0,0,8
 "AmazonConnect_FullAccess","v1",False,"2020-11-20T19:54:21+00:00",1,4,0,1,0,2,64
 "AmazonConnect_FullAccess","v3",False,"2021-11-23T22:05:12+00:00",1,4,0,1,0,2,77
 "AmazonConnect_FullAccess","v4",True,"2023-03-07T14:49:25+00:00",1,4,0,1,0,2,109
@@ -484,6 +485,7 @@
 "AWSOpsWorksCMInstanceProfileRole","v4",False,"2021-01-12T09:37:42+00:00",0,1,0,0,0,0,1
 "AWSOpsWorksCMInstanceProfileRole","v2",False,"2017-11-03T12:01:32+00:00",0,1,0,0,0,0,1
 "AWSOpsWorksCMInstanceProfileRole","v5",True,"2021-04-23T17:34:03+00:00",0,1,0,0,0,0,1
+"ROSAImageRegistryOperatorPolicy","v1",True,"2023-04-27T20:13:18+00:00",0,0,0,0,0,0,0
 "AmazonRedshiftQueryEditorV2FullAccess","v1",False,"2021-09-24T14:06:02+00:00",1,0,0,0,0,0,0
 "AmazonRedshiftQueryEditorV2FullAccess","v2",True,"2022-02-23T17:05:06+00:00",1,1,0,0,0,0,16
 "AWSKeyManagementServiceMultiRegionKeysServiceRolePolicy","v1",True,"2021-06-16T15:37:37+00:00",0,0,0,0,0,0,0
@@ -986,6 +988,7 @@
 "AmazonElasticTranscoder_FullAccess","v1",False,"2018-04-27T18:59:35+00:00",1,2,0,1,0,0,10
 "AmazonElasticTranscoder_FullAccess","v2",True,"2019-06-10T22:51:51+00:00",1,2,0,1,0,0,10
 "AWSApplicationAutoscalingDynamoDBTablePolicy","v1",True,"2017-10-20T21:34:57+00:00",0,2,0,0,0,0,3
+"ROSAKMSProviderPolicy","v1",True,"2023-04-27T20:10:20+00:00",0,1,0,0,0,0,2
 "AmazonQLDBConsoleFullAccess","v1",False,"2019-09-05T18:24:20+00:00",1,1,0,0,0,0,10
 "AmazonQLDBConsoleFullAccess","v3",False,"2021-05-27T17:22:17+00:00",1,1,0,0,0,0,12
 "AmazonQLDBConsoleFullAccess","v4",False,"2021-09-02T23:21:23+00:00",1,2,0,1,0,0,22

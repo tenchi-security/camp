@@ -1,0 +1,12 @@
+{
+    "PolicyName": "ROSAKubeControllerPolicy",
+    "PolicyId": "ANPAZKAPJZG4JWF64Q542",
+    "Arn": "arn:aws:iam::aws:policy/service-role/ROSAKubeControllerPolicy",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2023-04-27T20:09:29+00:00",
+    "UpdateDate": "2023-04-27T20:09:29+00:00"
+}

@@ -1,0 +1,12 @@
+{
+    "PolicyName": "ROSAKMSProviderPolicy",
+    "PolicyId": "ANPAZKAPJZG4PLOZJX4SX",
+    "Arn": "arn:aws:iam::aws:policy/service-role/ROSAKMSProviderPolicy",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2023-04-27T20:10:20+00:00",
+    "UpdateDate": "2023-04-27T20:10:20+00:00"
+}

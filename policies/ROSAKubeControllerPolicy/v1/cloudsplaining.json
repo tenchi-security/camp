@@ -1,0 +1,20 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "elasticloadbalancing"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "elasticloadbalancing:AddTags",
+        "elasticloadbalancing:ConfigureHealthCheck",
+        "elasticloadbalancing:CreateLoadBalancerPolicy",
+        "elasticloadbalancing:DeleteLoadBalancer",
+        "elasticloadbalancing:DeregisterInstancesFromLoadBalancer",
+        "elasticloadbalancing:ModifyLoadBalancerAttributes",
+        "elasticloadbalancing:RegisterInstancesWithLoadBalancer",
+        "elasticloadbalancing:SetLoadBalancerPoliciesForBackendServer"
+    ]
+}
