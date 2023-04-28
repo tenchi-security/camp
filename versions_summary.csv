@@ -1858,8 +1858,9 @@
 "AmazonInspector2ServiceRolePolicy","v4",False,"2022-08-23T13:23:52+00:00",0,1,0,0,0,1,0
 "AmazonInspector2ServiceRolePolicy","v7",False,"2023-02-24T17:57:17+00:00",0,1,0,0,0,1,0
 "AmazonInspector2ServiceRolePolicy","v2",False,"2022-08-11T18:45:32+00:00",0,1,0,0,0,1,0
+"AmazonInspector2ServiceRolePolicy","v9",True,"2023-04-28T18:13:17+00:00",0,1,0,0,0,1,0
 "AmazonInspector2ServiceRolePolicy","v5",False,"2022-11-17T20:32:51+00:00",0,1,0,0,0,1,0
-"AmazonInspector2ServiceRolePolicy","v8",True,"2023-04-14T14:12:30+00:00",0,1,0,0,0,1,0
+"AmazonInspector2ServiceRolePolicy","v8",False,"2023-04-14T14:12:30+00:00",0,1,0,0,0,1,0
 "AmazonS3OutpostsReadOnlyAccess","v1",True,"2020-10-02T18:55:58+00:00",0,0,0,0,0,0,0
 "AmazonChimeSDKMessagingServiceRolePolicy","v1",True,"2023-03-03T01:43:49+00:00",0,1,0,0,0,0,1
 "DAXServiceRolePolicy","v1",True,"2018-03-05T17:51:25+00:00",0,1,0,0,0,0,7
