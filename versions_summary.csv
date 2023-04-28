@@ -1950,7 +1950,8 @@
 "AWSElasticBeanstalkWorkerTier","v2",False,"2016-03-07T23:38:26+00:00",0,1,0,0,0,0,3
 "AWSElasticBeanstalkWorkerTier","v5",False,"2019-03-01T00:07:00+00:00",0,1,0,0,0,0,3
 "KafkaServiceRolePolicy","v1",False,"2018-11-15T23:31:48+00:00",0,1,0,1,0,0,5
-"KafkaServiceRolePolicy","v3",True,"2020-08-26T20:40:53+00:00",0,2,0,3,0,0,7
+"KafkaServiceRolePolicy","v3",False,"2020-08-26T20:40:53+00:00",0,2,0,3,0,0,7
+"KafkaServiceRolePolicy","v4",True,"2023-04-28T00:39:35+00:00",0,2,0,3,0,0,7
 "KafkaServiceRolePolicy","v2",False,"2019-05-23T19:58:58+00:00",0,1,0,1,0,0,5
 "AdministratorAccess","v1",True,"2015-02-06T18:39:46+00:00",263,201,22,321,5,28,4002
 "ECRReplicationServiceRolePolicy","v1",True,"2020-12-04T22:11:28+00:00",0,1,0,0,0,0,2
