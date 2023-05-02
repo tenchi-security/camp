@@ -1,0 +1,13 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "cassandra"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "cassandra:Modify"
+    ]
+}

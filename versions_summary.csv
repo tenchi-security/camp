@@ -452,7 +452,8 @@
 "AWSMigrationHubOrchestratorPlugin","v1",True,"2022-04-20T02:25:10+00:00",0,0,0,0,0,0,0
 "AWSSavingsPlansFullAccess","v1",True,"2019-11-06T22:45:18+00:00",1,1,0,0,0,0,3
 "AWSDataSyncFullAccess","v1",False,"2019-01-18T19:40:36+00:00",1,4,0,2,0,0,15
-"AWSDataSyncFullAccess","v3",True,"2020-06-30T17:58:58+00:00",1,4,0,2,0,0,15
+"AWSDataSyncFullAccess","v3",False,"2020-06-30T17:58:58+00:00",1,4,0,2,0,0,15
+"AWSDataSyncFullAccess","v4",True,"2023-05-02T16:37:43+00:00",1,4,0,2,0,0,20
 "AWSDataSyncFullAccess","v2",False,"2020-01-24T17:59:16+00:00",1,4,0,2,0,0,15
 "ServerMigrationServiceConsoleFullAccess","v1",False,"2020-05-09T17:18:57+00:00",1,1,0,1,0,0,1
 "ServerMigrationServiceConsoleFullAccess","v2",True,"2020-07-20T22:00:37+00:00",1,1,0,1,0,0,1
@@ -970,6 +971,7 @@
 "AWSBackupServiceRolePolicyForRestores","v9",False,"2021-05-25T00:02:53+00:00",0,3,0,1,0,0,13
 "AWSBackupServiceRolePolicyForRestores","v5",False,"2020-01-13T16:04:56+00:00",0,3,0,1,0,0,10
 "AWSBackupServiceRolePolicyForRestores","v8",False,"2021-03-10T18:30:25+00:00",0,3,0,1,0,0,13
+"KeyspacesReplicationServiceRolePolicy","v1",True,"2023-05-02T16:15:49+00:00",0,1,0,0,0,0,1
 "AWSSystemsManagerAccountDiscoveryServicePolicy","v1",False,"2019-10-24T17:21:05+00:00",0,0,0,0,0,0,0
 "AWSSystemsManagerAccountDiscoveryServicePolicy","v3",True,"2022-10-17T20:25:02+00:00",0,0,0,0,0,0,0
 "AWSSystemsManagerAccountDiscoveryServicePolicy","v2",False,"2020-05-27T18:04:51+00:00",0,0,0,0,0,0,0

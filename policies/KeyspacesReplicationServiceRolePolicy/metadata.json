@@ -1,0 +1,12 @@
+{
+    "PolicyName": "KeyspacesReplicationServiceRolePolicy",
+    "PolicyId": "ANPAZKAPJZG4C2B6EEBHZ",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/KeyspacesReplicationServiceRolePolicy",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2023-05-02T16:15:49+00:00",
+    "UpdateDate": "2023-05-02T16:15:49+00:00"
+}
