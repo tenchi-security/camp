@@ -1975,6 +1975,7 @@
 "AWSSupportServiceRolePolicy","v12",False,"2020-08-26T19:01:32+00:00",0,2,0,0,0,0,5
 "AWSSupportServiceRolePolicy","v17",False,"2021-09-16T21:02:10+00:00",0,2,0,0,0,0,5
 "AWSSupportServiceRolePolicy","v19",False,"2021-11-12T00:01:03+00:00",0,1,0,0,0,0,1
+"AWSSupportServiceRolePolicy","v29",True,"2023-05-02T23:33:56+00:00",0,1,0,0,0,0,1
 "AWSSupportServiceRolePolicy","v18",False,"2021-10-06T19:23:26+00:00",0,1,0,0,0,0,1
 "AWSSupportServiceRolePolicy","v23",False,"2022-04-27T22:37:55+00:00",0,2,0,0,0,0,2
 "AWSSupportServiceRolePolicy","v4",False,"2019-02-06T18:06:11+00:00",0,3,0,0,1,1,6
@@ -1987,7 +1988,7 @@
 "AWSSupportServiceRolePolicy","v22",False,"2022-03-14T20:39:03+00:00",0,1,0,0,0,0,1
 "AWSSupportServiceRolePolicy","v5",False,"2019-07-23T22:01:08+00:00",0,3,0,0,1,1,6
 "AWSSupportServiceRolePolicy","v8",False,"2019-12-16T19:39:42+00:00",0,2,0,0,0,1,5
-"AWSSupportServiceRolePolicy","v28",True,"2023-03-16T20:29:42+00:00",0,1,0,0,0,0,1
+"AWSSupportServiceRolePolicy","v28",False,"2023-03-16T20:29:42+00:00",0,1,0,0,0,0,1
 "AWSSupportServiceRolePolicy","v25",False,"2022-08-17T20:08:17+00:00",0,1,0,0,0,0,1
 "AWSSupportServiceRolePolicy","v24",False,"2022-06-24T16:27:09+00:00",0,1,0,0,0,0,1
 "GroundTruthSyntheticConsoleFullAccess","v1",True,"2022-08-25T15:58:49+00:00",1,0,0,0,0,0,0
