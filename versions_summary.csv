@@ -1050,10 +1050,11 @@
 "AmazonRedshiftServiceLinkedRolePolicy","v1",False,"2017-09-18T19:19:45+00:00",0,1,0,0,0,0,5
 "AmazonRedshiftServiceLinkedRolePolicy","v3",False,"2020-09-15T20:44:31+00:00",0,1,0,0,0,0,8
 "AmazonRedshiftServiceLinkedRolePolicy","v6",False,"2022-05-25T05:09:53+00:00",0,1,0,0,0,0,8
+"AmazonRedshiftServiceLinkedRolePolicy","v10",True,"2023-05-08T18:57:44+00:00",0,1,0,0,0,0,8
 "AmazonRedshiftServiceLinkedRolePolicy","v4",False,"2021-11-15T06:41:10+00:00",0,1,0,0,0,0,8
 "AmazonRedshiftServiceLinkedRolePolicy","v7",False,"2022-06-01T00:34:09+00:00",0,1,0,0,0,0,8
 "AmazonRedshiftServiceLinkedRolePolicy","v2",False,"2017-09-25T21:20:15+00:00",0,1,0,0,0,0,5
-"AmazonRedshiftServiceLinkedRolePolicy","v9",True,"2023-04-05T20:32:17+00:00",0,1,0,0,0,0,8
+"AmazonRedshiftServiceLinkedRolePolicy","v9",False,"2023-04-05T20:32:17+00:00",0,1,0,0,0,0,8
 "AmazonRedshiftServiceLinkedRolePolicy","v5",False,"2021-11-22T21:08:22+00:00",0,1,0,0,0,0,8
 "AmazonRedshiftServiceLinkedRolePolicy","v8",False,"2022-09-07T20:27:51+00:00",0,1,0,0,0,0,8
 "AWSEC2FleetServiceRolePolicy","v1",False,"2018-03-21T00:08:55+00:00",0,2,0,1,0,0,4
