@@ -48,6 +48,7 @@
 "AWSApplicationAutoscalingCassandraTablePolicy","v1",True,"2020-03-18T22:49:23+00:00",0,2,0,0,0,0,3
 "AmazonSageMakerCoreServiceRolePolicy","v1",True,"2020-12-21T21:40:47+00:00",0,1,0,2,0,0,3
 "AutoScalingConsoleReadOnlyAccess","v1",True,"2017-01-12T19:48:53+00:00",0,0,0,0,0,0,0
+"AmazonCodeGuruSecurityFullAccess","v1",True,"2023-05-09T21:03:38+00:00",1,0,0,0,0,0,0
 "AWSApplicationDiscoveryAgentAccess","v1",False,"2016-05-11T21:38:47+00:00",0,0,0,0,0,0,0
 "AWSApplicationDiscoveryAgentAccess","v2",True,"2020-02-24T22:26:45+00:00",0,0,0,0,0,0,0
 "IAMAccessAnalyzerReadOnlyAccess","v1",False,"2019-12-02T17:12:53+00:00",0,0,0,0,0,0,0
@@ -135,6 +136,7 @@
 "AmazonMachineLearningBatchPredictionsAccess","v1",True,"2015-04-09T17:12:19+00:00",0,1,0,0,0,0,3
 "AWSCodePipeline_FullAccess","v1",True,"2020-08-03T22:38:28+00:00",1,4,0,1,0,1,26
 "AWSLambdaDynamoDBExecutionRole","v1",True,"2015-04-09T15:09:29+00:00",0,1,0,0,0,0,3
+"AmazonCodeGuruSecurityScanAccess","v1",True,"2023-05-09T20:54:32+00:00",0,0,0,0,0,0,0
 "AmazonECS_FullAccess","v1",False,"2017-11-07T21:36:54+00:00",1,8,0,1,0,0,69
 "AmazonECS_FullAccess","v3",False,"2017-11-24T17:57:00+00:00",1,9,0,1,0,0,70
 "AmazonECS_FullAccess","v11",False,"2018-11-20T21:51:35+00:00",1,12,0,2,0,0,82
@@ -2741,7 +2743,8 @@
 "AWSBackupServiceRolePolicyForS3Backup","v2",False,"2022-02-26T00:01:09+00:00",0,1,0,0,0,0,1
 "AmazonMCSReadOnlyAccess","v1",False,"2019-12-03T13:46:21+00:00",0,0,0,0,0,0,0
 "AmazonMCSReadOnlyAccess","v2",True,"2020-04-17T19:21:34+00:00",0,0,0,0,0,0,0
-"AWSSupportPlansFullAccess","v1",True,"2022-09-27T18:19:30+00:00",0,0,0,0,0,0,0
+"AWSSupportPlansFullAccess","v1",False,"2022-09-27T18:19:30+00:00",0,0,0,0,0,0,0
+"AWSSupportPlansFullAccess","v2",True,"2023-05-09T21:07:01+00:00",0,0,0,0,0,0,0
 "AWSThinkboxAWSPortalGatewayPolicy","v1",False,"2020-05-27T19:05:00+00:00",0,1,0,0,0,0,1
 "AWSThinkboxAWSPortalGatewayPolicy","v2",True,"2020-06-30T16:02:07+00:00",0,1,0,0,0,0,1
 "AmazonElasticMapReduceRole","v1",False,"2015-02-06T18:41:20+00:00",0,4,1,1,1,0,14

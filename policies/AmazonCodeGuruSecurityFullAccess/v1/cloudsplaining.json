@@ -1,0 +1,11 @@
+{
+    "ServiceWildcard": [
+        "codeguru-security"
+    ],
+    "ServicesAffected": [],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": []
+}
