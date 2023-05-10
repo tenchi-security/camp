@@ -290,9 +290,10 @@
 "AWSElasticBeanstalkService","v14",False,"2019-01-11T22:19:00+00:00",3,11,0,3,1,0,71
 "AWSElasticBeanstalkService","v13",False,"2018-04-19T16:34:35+00:00",3,11,0,3,1,0,67
 "AWSElasticBeanstalkService","v12",False,"2018-03-10T00:02:36+00:00",3,11,0,3,1,0,67
+"AWSElasticBeanstalkService","v17",True,"2023-05-10T19:29:34+00:00",3,11,0,3,1,0,83
 "AWSElasticBeanstalkService","v4",False,"2016-05-13T00:07:30+00:00",3,10,0,2,1,0,57
 "AWSElasticBeanstalkService","v7",False,"2016-12-01T19:09:36+00:00",3,11,0,2,1,0,65
-"AWSElasticBeanstalkService","v16",True,"2019-06-14T23:18:46+00:00",3,11,0,3,1,0,75
+"AWSElasticBeanstalkService","v16",False,"2019-06-14T23:18:46+00:00",3,11,0,3,1,0,75
 "AWSElasticBeanstalkService","v2",False,"2016-04-22T17:08:49+00:00",3,9,0,2,1,0,54
 "AWSElasticBeanstalkService","v9",False,"2017-02-22T21:12:13+00:00",3,11,0,2,1,0,66
 "AWSElasticBeanstalkService","v5",False,"2016-09-22T22:31:46+00:00",3,10,0,2,1,0,59
