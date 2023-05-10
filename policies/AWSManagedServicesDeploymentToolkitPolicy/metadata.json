@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4AJVRS2BUS",
     "Arn": "arn:aws:iam::aws:policy/aws-service-role/AWSManagedServicesDeploymentToolkitPolicy",
     "Path": "/aws-service-role/",
-    "DefaultVersionId": "v2",
+    "DefaultVersionId": "v3",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2022-06-09T18:33:03+00:00",
-    "UpdateDate": "2023-01-30T22:10:28+00:00"
+    "UpdateDate": "2023-05-10T17:48:44+00:00"
 }

@@ -660,7 +660,8 @@
 "ElasticLoadBalancingFullAccess","v2",False,"2018-12-03T18:07:30+00:00",1,2,0,1,0,0,24
 "ElasticLoadBalancingFullAccess","v5",False,"2020-12-04T20:01:39+00:00",1,2,0,1,0,0,24
 "AWSManagedServicesDeploymentToolkitPolicy","v1",False,"2022-06-09T18:33:03+00:00",0,0,0,0,0,0,0
-"AWSManagedServicesDeploymentToolkitPolicy","v2",True,"2023-01-30T22:10:28+00:00",0,0,0,0,0,0,0
+"AWSManagedServicesDeploymentToolkitPolicy","v3",True,"2023-05-10T17:48:44+00:00",0,0,0,0,0,0,0
+"AWSManagedServicesDeploymentToolkitPolicy","v2",False,"2023-01-30T22:10:28+00:00",0,0,0,0,0,0,0
 "AmazonDevOpsGuruReadOnlyAccess","v1",False,"2020-12-01T16:34:40+00:00",0,0,0,0,0,0,0
 "AmazonDevOpsGuruReadOnlyAccess","v3",False,"2021-06-14T22:34:43+00:00",0,0,0,0,0,0,0
 "AmazonDevOpsGuruReadOnlyAccess","v6",True,"2022-08-25T18:11:21+00:00",0,0,0,0,0,0,0
@@ -2086,8 +2087,9 @@
 "AWSApplicationMigrationServiceRolePolicy","v1",True,"2021-04-07T06:43:20+00:00",0,2,0,0,0,0,7
 "DynamoDBReplicationServiceRolePolicy","v1",False,"2017-11-09T23:55:34+00:00",0,1,0,0,0,0,3
 "DynamoDBReplicationServiceRolePolicy","v3",False,"2018-07-02T21:48:12+00:00",0,2,0,1,0,0,4
-"DynamoDBReplicationServiceRolePolicy","v6",True,"2020-09-09T18:43:04+00:00",0,2,0,1,0,0,6
+"DynamoDBReplicationServiceRolePolicy","v6",False,"2020-09-09T18:43:04+00:00",0,2,0,1,0,0,6
 "DynamoDBReplicationServiceRolePolicy","v4",False,"2020-01-22T22:55:38+00:00",0,2,0,1,0,0,5
+"DynamoDBReplicationServiceRolePolicy","v7",True,"2023-05-10T17:04:21+00:00",0,2,0,1,0,0,6
 "DynamoDBReplicationServiceRolePolicy","v2",False,"2018-02-05T19:08:52+00:00",0,1,0,0,0,0,3
 "DynamoDBReplicationServiceRolePolicy","v5",False,"2020-07-24T21:40:41+00:00",0,2,0,1,0,0,6
 "SystemAdministrator","v1",False,"2016-11-10T17:23:56+00:00",16,23,1,41,1,2,563
