@@ -2083,7 +2083,8 @@
 "AWSIdentitySyncFullAccess","v1",True,"2022-03-23T23:29:33+00:00",0,0,0,0,0,0,0
 "AmazonElasticTranscoderRole","v1",False,"2015-02-06T18:41:26+00:00",0,2,0,8,1,0,35
 "AmazonElasticTranscoderRole","v2",True,"2019-06-13T22:48:22+00:00",0,2,0,1,1,0,5
-"AmazonSageMakerGeospatialExecutionRole","v1",True,"2022-11-30T10:08:36+00:00",0,0,0,0,0,0,0
+"AmazonSageMakerGeospatialExecutionRole","v1",False,"2022-11-30T10:08:36+00:00",0,0,0,0,0,0,0
+"AmazonSageMakerGeospatialExecutionRole","v2",True,"2023-05-10T20:28:02+00:00",0,0,0,0,0,0,0
 "AmazonGrafanaCloudWatchAccess","v1",True,"2023-03-24T22:41:53+00:00",0,0,0,0,0,0,0
 "AWSApplicationMigrationServiceRolePolicy","v1",True,"2021-04-07T06:43:20+00:00",0,2,0,0,0,0,7
 "DynamoDBReplicationServiceRolePolicy","v1",False,"2017-11-09T23:55:34+00:00",0,1,0,0,0,0,3
