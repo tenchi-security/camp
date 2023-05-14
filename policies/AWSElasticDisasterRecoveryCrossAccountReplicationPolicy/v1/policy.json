@@ -1,0 +1,28 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": [
+                "ec2:DescribeVolumes",
+                "ec2:DescribeInstances",
+                "drs:DescribeSourceServers",
+                "drs:DescribeReplicationConfigurationTemplates",
+                "drs:CreateSourceServerForDrs"
+            ],
+            "Resource": "*"
+        },
+        {
+            "Effect": "Allow",
+            "Action": [
+                "drs:TagResource"
+            ],
+            "Resource": "arn:aws:drs:*:*:source-server/*",
+            "Condition": {
+                "StringEquals": {
+                    "drs:CreateAction": "CreateSourceServerForDrs"
+                }
+            }
+        }
+    ]
+}

@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4DUAC4ANEW",
     "Arn": "arn:aws:iam::aws:policy/service-role/AWSElasticDisasterRecoveryEc2InstancePolicy",
     "Path": "/service-role/",
-    "DefaultVersionId": "v1",
+    "DefaultVersionId": "v2",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2022-05-26T12:30:18+00:00",
-    "UpdateDate": "2022-05-26T12:30:18+00:00"
+    "UpdateDate": "2023-05-14T07:27:48+00:00"
 }
