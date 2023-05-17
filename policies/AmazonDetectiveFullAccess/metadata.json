@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4IRLX3QVOO",
     "Arn": "arn:aws:iam::aws:policy/AmazonDetectiveFullAccess",
     "Path": "/",
-    "DefaultVersionId": "v3",
+    "DefaultVersionId": "v4",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2020-04-30T17:57:15+00:00",
-    "UpdateDate": "2023-01-17T14:35:33+00:00"
+    "UpdateDate": "2023-05-17T19:39:57+00:00"
 }

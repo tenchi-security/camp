@@ -1178,8 +1178,9 @@
 "AmazonRedshiftQueryEditorV2NoSharing","v2",False,"2022-02-23T17:04:20+00:00",0,1,0,0,0,0,15
 "AmazonRedshiftQueryEditorV2NoSharing","v3",False,"2022-06-15T09:48:24+00:00",0,1,0,0,0,0,15
 "AmazonDetectiveFullAccess","v1",False,"2020-04-30T17:57:15+00:00",1,1,0,0,0,0,7
+"AmazonDetectiveFullAccess","v4",True,"2023-05-17T19:39:57+00:00",1,1,0,0,0,0,9
 "AmazonDetectiveFullAccess","v2",False,"2020-10-21T22:07:28+00:00",1,1,0,0,0,0,7
-"AmazonDetectiveFullAccess","v3",True,"2023-01-17T14:35:33+00:00",1,1,0,0,0,0,9
+"AmazonDetectiveFullAccess","v3",False,"2023-01-17T14:35:33+00:00",1,1,0,0,0,0,9
 "ElementalActivationsReadOnlyAccess","v1",True,"2020-08-28T16:51:01+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryFailbackInstallationPolicy","v1",False,"2021-11-17T11:02:03+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryFailbackInstallationPolicy","v2",True,"2022-06-27T09:13:40+00:00",0,0,0,0,0,0,0
@@ -2578,7 +2579,8 @@
 "AWSIoTFleetHubFederationAccess","v5",True,"2022-04-04T18:03:01+00:00",0,1,0,0,0,0,6
 "AWSIoTFleetHubFederationAccess","v2",False,"2021-04-12T18:27:43+00:00",0,1,0,0,0,0,3
 "AWSIoTFleetHubFederationAccess","v3",False,"2021-05-24T14:12:59+00:00",0,1,0,0,0,0,5
-"AmazonDetectiveInvestigatorAccess","v1",True,"2023-01-17T15:24:26+00:00",0,0,0,0,0,0,0
+"AmazonDetectiveInvestigatorAccess","v1",False,"2023-01-17T15:24:26+00:00",0,0,0,0,0,0,0
+"AmazonDetectiveInvestigatorAccess","v2",True,"2023-05-17T19:41:09+00:00",0,0,0,0,0,0,0
 "AmazonPrometheusRemoteWriteAccess","v1",True,"2020-12-19T01:04:32+00:00",0,1,0,0,0,0,1
 "AWSLambdaReplicator","v1",False,"2017-05-23T17:53:03+00:00",0,1,0,1,0,0,1
 "AWSLambdaReplicator","v2",False,"2017-10-03T23:31:32+00:00",0,1,0,1,0,0,1

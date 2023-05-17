@@ -1,0 +1,23 @@
+{
+    "ServiceWildcard": [
+        "detective"
+    ],
+    "ServicesAffected": [
+        "detective"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "detective:CreateMembers",
+        "detective:DeleteGraph",
+        "detective:DeleteMembers",
+        "detective:DisableOrganizationAdminAccount",
+        "detective:StartMonitoringMember",
+        "detective:TagResource",
+        "detective:UntagResource",
+        "detective:UpdateDatasourcePackages",
+        "detective:UpdateOrganizationConfiguration"
+    ]
+}
