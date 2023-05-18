@@ -1786,6 +1786,7 @@
 "AWSPanoramaServiceRolePolicy","v1",True,"2020-12-01T13:14:43+00:00",0,1,0,0,0,0,1
 "AWSMigrationHubSMSAccess","v1",False,"2017-08-14T13:57:54+00:00",0,0,0,0,0,0,0
 "AWSMigrationHubSMSAccess","v2",True,"2019-10-07T18:01:22+00:00",0,0,0,0,0,0,0
+"AWSDMSServerlessServiceRolePolicy","v1",True,"2023-05-18T20:28:05+00:00",0,1,0,0,0,0,1
 "MigrationHubDMSAccessServiceRolePolicy","v1",False,"2019-06-12T17:50:39+00:00",0,0,0,0,0,0,0
 "MigrationHubDMSAccessServiceRolePolicy","v2",True,"2019-10-07T17:57:44+00:00",0,0,0,0,0,0,0
 "AmazonElasticFileSystemsUtils","v1",True,"2020-09-29T15:16:47+00:00",0,2,0,0,2,0,9
