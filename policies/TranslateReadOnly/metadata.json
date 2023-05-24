@@ -3,10 +3,10 @@
     "PolicyId": "ANPAJYAMZMTQNWUDJKY2E",
     "Arn": "arn:aws:iam::aws:policy/TranslateReadOnly",
     "Path": "/",
-    "DefaultVersionId": "v6",
+    "DefaultVersionId": "v7",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2017-11-29T18:22:00+00:00",
-    "UpdateDate": "2020-11-23T17:31:06+00:00"
+    "UpdateDate": "2023-05-24T17:19:30+00:00"
 }
