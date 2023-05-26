@@ -334,7 +334,8 @@
 "AWSCertificateManagerPrivateCAUser","v3",False,"2019-03-14T17:17:02+00:00",0,0,0,0,0,0,0
 "AWSStepFunctionsReadOnlyAccess","v1",False,"2017-01-11T21:46:19+00:00",0,0,0,0,0,0,0
 "AWSStepFunctionsReadOnlyAccess","v2",True,"2017-11-10T22:03:49+00:00",0,0,0,0,0,0,0
-"AWSServiceRoleForCodeWhispererPolicy","v1",True,"2023-03-24T19:39:12+00:00",0,0,0,0,0,0,0
+"AWSServiceRoleForCodeWhispererPolicy","v1",False,"2023-03-24T19:39:12+00:00",0,0,0,0,0,0,0
+"AWSServiceRoleForCodeWhispererPolicy","v2",True,"2023-05-26T18:27:32+00:00",0,0,0,0,0,0,0
 "AmazonSSMServiceRolePolicy","v13",False,"2021-04-26T20:43:46+00:00",0,3,0,1,1,0,6
 "AmazonSSMServiceRolePolicy","v1",False,"2017-11-13T19:20:08+00:00",0,1,0,0,0,0,1
 "AmazonSSMServiceRolePolicy","v8",False,"2020-07-31T19:21:40+00:00",0,2,0,1,1,0,4
