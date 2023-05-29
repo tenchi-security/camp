@@ -2715,7 +2715,8 @@
 "EC2InstanceProfileForImageBuilder","v2",False,"2020-06-15T17:44:31+00:00",0,1,0,0,0,0,1
 "EC2InstanceProfileForImageBuilder","v3",True,"2020-08-27T16:40:50+00:00",0,1,0,0,0,0,1
 "AmazonRDSCustomServiceRolePolicy","v1",False,"2021-10-08T21:39:12+00:00",0,1,0,0,0,0,6
-"AmazonRDSCustomServiceRolePolicy","v4",True,"2023-03-08T23:32:54+00:00",0,1,0,0,0,0,7
+"AmazonRDSCustomServiceRolePolicy","v4",False,"2023-03-08T23:32:54+00:00",0,1,0,0,0,0,7
+"AmazonRDSCustomServiceRolePolicy","v5",True,"2023-05-29T03:33:55+00:00",0,1,0,0,0,0,7
 "AmazonRDSCustomServiceRolePolicy","v2",False,"2022-11-09T22:17:08+00:00",0,1,0,0,0,0,7
 "AmazonRDSCustomServiceRolePolicy","v3",False,"2023-02-21T23:14:53+00:00",0,1,0,0,0,0,7
 "AmazonSageMakerServiceCatalogProductsCodePipelineServiceRolePolicy","v1",True,"2022-02-22T09:53:17+00:00",0,0,0,0,0,0,0
