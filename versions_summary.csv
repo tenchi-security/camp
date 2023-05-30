@@ -864,6 +864,7 @@
 "AWSAppSyncSchemaAuthor","v1",False,"2018-03-20T21:21:06+00:00",0,1,0,0,0,0,1
 "AWSAppSyncSchemaAuthor","v2",False,"2022-08-25T17:18:23+00:00",0,1,0,0,0,0,3
 "AWSAppSyncSchemaAuthor","v3",True,"2023-02-01T18:36:20+00:00",0,1,0,0,0,0,3
+"AmazonSecurityLakeAdministrator","v1",True,"2023-05-30T22:04:10+00:00",1,1,0,4,0,0,4
 "AWSConfigRole","v16",False,"2018-07-31T19:10:41+00:00",0,2,0,0,1,0,6
 "AWSConfigRole","v37",False,"2021-03-31T21:17:48+00:00",0,2,0,0,1,0,6
 "AWSConfigRole","v33",False,"2020-05-15T18:25:47+00:00",0,2,0,0,1,0,6
