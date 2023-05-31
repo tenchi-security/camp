@@ -134,7 +134,8 @@
 "AWSLambdaVPCAccessExecutionRole","v2",True,"2020-10-15T22:53:03+00:00",0,2,0,0,0,0,7
 "AWSWAFConsoleReadOnlyAccess","v1",False,"2020-04-06T18:43:24+00:00",0,0,0,0,0,0,0
 "AWSWAFConsoleReadOnlyAccess","v4",False,"2022-08-25T20:13:55+00:00",0,0,0,0,0,0,0
-"AWSWAFConsoleReadOnlyAccess","v5",True,"2023-03-30T20:59:06+00:00",0,0,0,0,0,0,0
+"AWSWAFConsoleReadOnlyAccess","v6",True,"2023-05-31T19:12:04+00:00",0,0,0,0,0,0,0
+"AWSWAFConsoleReadOnlyAccess","v5",False,"2023-03-30T20:59:06+00:00",0,0,0,0,0,0,0
 "AWSWAFConsoleReadOnlyAccess","v2",False,"2020-06-22T22:38:54+00:00",0,0,0,0,0,0,0
 "AWSWAFConsoleReadOnlyAccess","v3",False,"2020-10-01T20:13:54+00:00",0,0,0,0,0,0,0
 "AmazonESReadOnlyAccess","v1",False,"2015-10-01T19:18:24+00:00",0,0,0,0,0,0,0
@@ -546,10 +547,11 @@
 "AWSWAFFullAccess","v4",False,"2020-04-08T00:21:06+00:00",3,4,0,9,0,0,112
 "AWSWAFFullAccess","v7",False,"2022-01-11T19:33:38+00:00",3,4,0,9,0,0,112
 "AWSWAFFullAccess","v6",False,"2021-11-15T19:33:27+00:00",3,4,0,9,0,0,112
-"AWSWAFFullAccess","v9",True,"2023-03-30T20:24:20+00:00",3,5,0,7,0,0,116
+"AWSWAFFullAccess","v9",False,"2023-03-30T20:24:20+00:00",3,5,0,7,0,0,116
 "AWSWAFFullAccess","v5",False,"2020-10-01T20:13:54+00:00",3,4,0,9,0,0,112
 "AWSWAFFullAccess","v2",False,"2016-12-07T21:33:25+00:00",2,2,0,4,0,0,88
 "AWSWAFFullAccess","v3",False,"2020-01-07T20:50:25+00:00",3,3,0,9,0,0,111
+"AWSWAFFullAccess","v10",True,"2023-05-31T19:08:18+00:00",3,5,0,7,0,0,116
 "AWSCertificateManagerReadOnly","v1",False,"2016-01-21T17:07:33+00:00",0,0,0,0,0,0,0
 "AWSCertificateManagerReadOnly","v4",True,"2021-03-15T16:25:21+00:00",0,0,0,0,0,0,0
 "AWSCertificateManagerReadOnly","v2",False,"2016-04-21T15:08:16+00:00",0,0,0,0,0,0,0
@@ -1820,7 +1822,8 @@
 "AWSApplicationMigrationVCenterClientPolicy","v1",True,"2021-11-08T12:53:08+00:00",0,0,0,0,0,0,0
 "AWSWAFConsoleFullAccess","v1",False,"2020-04-06T18:38:38+00:00",3,5,0,9,0,0,113
 "AWSWAFConsoleFullAccess","v4",False,"2022-01-11T19:34:04+00:00",3,5,0,9,0,0,113
-"AWSWAFConsoleFullAccess","v6",True,"2023-03-30T20:56:05+00:00",3,6,0,7,0,0,117
+"AWSWAFConsoleFullAccess","v7",True,"2023-05-31T19:11:14+00:00",3,6,0,7,0,0,117
+"AWSWAFConsoleFullAccess","v6",False,"2023-03-30T20:56:05+00:00",3,6,0,7,0,0,117
 "AWSWAFConsoleFullAccess","v5",False,"2022-08-25T20:13:28+00:00",3,5,0,7,0,0,115
 "AWSWAFConsoleFullAccess","v2",False,"2020-10-01T20:13:57+00:00",3,5,0,9,0,0,113
 "AWSWAFConsoleFullAccess","v3",False,"2021-11-15T19:33:52+00:00",3,5,0,9,0,0,113
@@ -2729,7 +2732,8 @@
 "AWSMarketplaceAmiIngestion","v1",True,"2020-09-25T20:55:10+00:00",0,1,0,0,0,0,1
 "AWSWAFReadOnlyAccess","v1",False,"2015-10-06T20:43:45+00:00",0,0,0,0,0,0,0
 "AWSWAFReadOnlyAccess","v4",False,"2020-06-22T22:38:54+00:00",0,0,0,0,0,0,0
-"AWSWAFReadOnlyAccess","v6",True,"2023-03-30T20:53:00+00:00",0,0,0,0,0,0,0
+"AWSWAFReadOnlyAccess","v7",True,"2023-05-31T19:12:30+00:00",0,0,0,0,0,0,0
+"AWSWAFReadOnlyAccess","v6",False,"2023-03-30T20:53:00+00:00",0,0,0,0,0,0,0
 "AWSWAFReadOnlyAccess","v5",False,"2022-08-25T20:12:57+00:00",0,0,0,0,0,0,0
 "AWSWAFReadOnlyAccess","v2",False,"2016-12-07T21:30:54+00:00",0,0,0,0,0,0,0
 "AWSWAFReadOnlyAccess","v3",False,"2020-01-07T19:27:38+00:00",0,0,0,0,0,0,0
@@ -3157,10 +3161,11 @@
 "AmazonInspector2ServiceRolePolicy","v4",False,"2022-08-23T13:23:52+00:00",0,1,0,0,0,1,0
 "AmazonInspector2ServiceRolePolicy","v7",False,"2023-02-24T17:57:17+00:00",0,1,0,0,0,1,0
 "AmazonInspector2ServiceRolePolicy","v6",False,"2023-02-15T17:01:23+00:00",0,1,0,0,0,1,0
-"AmazonInspector2ServiceRolePolicy","v9",True,"2023-04-28T18:13:17+00:00",0,1,0,0,0,1,0
+"AmazonInspector2ServiceRolePolicy","v9",False,"2023-04-28T18:13:17+00:00",0,1,0,0,0,1,0
 "AmazonInspector2ServiceRolePolicy","v5",False,"2022-11-17T20:32:51+00:00",0,1,0,0,0,1,0
 "AmazonInspector2ServiceRolePolicy","v2",False,"2022-08-11T18:45:32+00:00",0,1,0,0,0,1,0
 "AmazonInspector2ServiceRolePolicy","v3",False,"2022-08-15T17:38:32+00:00",0,1,0,0,0,1,0
+"AmazonInspector2ServiceRolePolicy","v10",True,"2023-05-31T18:30:12+00:00",0,1,0,0,0,1,0
 "AmazonElasticFileSystemClientReadWriteAccess","v1",True,"2020-01-13T16:21:55+00:00",0,1,0,0,0,0,1
 "FMSServiceRolePolicy","v16",False,"2020-09-08T18:03:00+00:00",0,3,0,0,0,0,5
 "FMSServiceRolePolicy","v18",False,"2021-03-31T21:02:38+00:00",0,5,0,2,0,0,26
