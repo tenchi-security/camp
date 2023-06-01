@@ -12,6 +12,7 @@
 "AmazonElasticFileSystemFullAccess","v5",False,"2020-01-13T16:15:01+00:00",0,3,0,3,0,0,19
 "AmazonElasticFileSystemFullAccess","v2",False,"2017-07-26T15:48:42+00:00",1,2,0,2,0,0,21
 "AmazonElasticFileSystemFullAccess","v3",False,"2017-08-14T10:18:34+00:00",1,2,0,2,0,0,21
+"ROSASRESupportPolicy","v1",True,"2023-06-01T14:36:06+00:00",0,0,0,0,0,0,0
 "AmazonMechanicalTurkReadOnly","v1",False,"2015-12-11T19:08:28+00:00",0,0,0,0,0,0,0
 "AmazonMechanicalTurkReadOnly","v2",False,"2017-02-27T21:45:50+00:00",0,0,0,0,0,0,0
 "AmazonMechanicalTurkReadOnly","v3",True,"2019-09-25T21:06:26+00:00",0,0,0,0,0,0,0
