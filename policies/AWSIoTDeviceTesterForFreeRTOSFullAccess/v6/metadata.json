@@ -1,0 +1,6 @@
+{
+    "VersionId": "v6",
+    "IsDefaultVersion": true,
+    "CreateDate": "2023-06-02T22:01:19+00:00",
+    "PolicyName": "AWSIoTDeviceTesterForFreeRTOSFullAccess"
+}

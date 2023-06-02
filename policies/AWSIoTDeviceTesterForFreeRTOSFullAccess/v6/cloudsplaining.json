@@ -1,0 +1,25 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "iot",
+        "ssm"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [
+        "ssm:GetParameters"
+    ],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "iot:CreateOTAUpdate",
+        "iot:CreatePolicy",
+        "iot:CreateStream",
+        "iot:CreateThing",
+        "iot:DeleteCACertificate",
+        "iot:DeleteCertificate",
+        "iot:DeleteThing",
+        "iot:UpdateCACertificate",
+        "iot:UpdateCertificate",
+        "ssm:GetParameters"
+    ]
+}
