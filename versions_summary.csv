@@ -2738,7 +2738,8 @@
 "AWSIoT1ClickFullAccess","v1",True,"2018-05-11T22:10:14+00:00",1,1,0,0,0,0,12
 "AmazonEventBridgeSchedulerReadOnlyAccess","v1",True,"2022-11-10T18:50:12+00:00",0,0,0,0,0,0,0
 "AWSNetworkManagerCloudWANServiceRolePolicy","v1",True,"2022-07-12T12:17:49+00:00",0,1,0,0,0,0,2
-"AWSFaultInjectionSimulatorEC2Access","v1",True,"2022-10-26T20:39:26+00:00",0,0,0,0,0,0,0
+"AWSFaultInjectionSimulatorEC2Access","v1",False,"2022-10-26T20:39:26+00:00",0,0,0,0,0,0,0
+"AWSFaultInjectionSimulatorEC2Access","v2",True,"2023-06-02T23:01:50+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryEc2InstancePolicy","v1",False,"2022-05-26T12:30:18+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryEc2InstancePolicy","v2",True,"2023-05-14T07:27:48+00:00",0,0,0,0,0,0,0
 "AmazonWorkspacesPCAAccess","v1",True,"2022-11-08T00:25:55+00:00",0,0,0,0,0,0,0
@@ -2807,7 +2808,8 @@
 "AWSDirectoryServiceReadOnlyAccess","v3",False,"2016-02-24T23:11:18+00:00",0,0,0,0,0,0,0
 "AWSDeepRacerCloudFormationAccessPolicy","v1",False,"2019-02-28T21:59:49+00:00",1,2,0,1,0,0,51
 "AWSDeepRacerCloudFormationAccessPolicy","v2",True,"2019-06-14T17:02:04+00:00",1,2,0,1,0,0,54
-"AWSFaultInjectionSimulatorSSMAccess","v1",True,"2022-10-26T15:33:44+00:00",0,0,0,0,0,0,0
+"AWSFaultInjectionSimulatorSSMAccess","v1",False,"2022-10-26T15:33:44+00:00",0,0,0,0,0,0,0
+"AWSFaultInjectionSimulatorSSMAccess","v2",True,"2023-06-02T22:55:18+00:00",0,0,0,0,0,0,0
 "ElementalAppliancesSoftwareFullAccess","v4",True,"2021-02-05T21:01:25+00:00",1,1,0,0,0,0,4
 "ElementalAppliancesSoftwareFullAccess","v1",False,"2019-07-31T16:28:53+00:00",1,0,0,0,0,0,0
 "ElementalAppliancesSoftwareFullAccess","v2",False,"2019-11-18T19:03:41+00:00",2,1,0,0,0,0,4
