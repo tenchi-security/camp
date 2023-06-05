@@ -1860,6 +1860,7 @@
 "AmazonEC2RolePolicyForLaunchWizard","v3",False,"2020-03-31T22:01:02+00:00",0,2,0,0,0,0,11
 "AmazonEC2RolePolicyForLaunchWizard","v6",False,"2020-07-01T19:04:48+00:00",0,2,0,0,0,0,5
 "AmazonEC2RolePolicyForLaunchWizard","v7",False,"2020-10-09T22:28:01+00:00",0,2,0,0,0,0,5
+"AmazonDocDBElasticFullAccess","v1",True,"2023-06-05T13:51:04+00:00",0,3,0,1,0,0,7
 "AWSCostAndUsageReportAutomationPolicy","v1",True,"2021-11-01T21:27:29+00:00",0,0,0,0,0,0,0
 "AmazonRoute53FullAccess","v4",True,"2018-12-20T21:42:00+00:00",2,1,0,0,0,0,20
 "AmazonRoute53FullAccess","v1",False,"2015-02-06T18:40:54+00:00",1,1,0,0,0,0,20
