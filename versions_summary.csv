@@ -951,11 +951,12 @@
 "EC2InstanceProfileForImageBuilder","v3",True,"2020-08-27T16:40:50+00:00",0,1,0,0,0,0,1
 "AWSWAFReadOnlyAccess","v5",False,"2022-08-25T20:12:57+00:00",0,0,0,0,0,0,0
 "AWSWAFReadOnlyAccess","v4",False,"2020-06-22T22:38:54+00:00",0,0,0,0,0,0,0
+"AWSWAFReadOnlyAccess","v8",True,"2023-06-05T20:55:48+00:00",0,0,0,0,0,0,0
 "AWSWAFReadOnlyAccess","v1",False,"2015-10-06T20:43:45+00:00",0,0,0,0,0,0,0
 "AWSWAFReadOnlyAccess","v2",False,"2016-12-07T21:30:54+00:00",0,0,0,0,0,0,0
 "AWSWAFReadOnlyAccess","v3",False,"2020-01-07T19:27:38+00:00",0,0,0,0,0,0,0
 "AWSWAFReadOnlyAccess","v6",False,"2023-03-30T20:53:00+00:00",0,0,0,0,0,0,0
-"AWSWAFReadOnlyAccess","v7",True,"2023-05-31T19:12:30+00:00",0,0,0,0,0,0,0
+"AWSWAFReadOnlyAccess","v7",False,"2023-05-31T19:12:30+00:00",0,0,0,0,0,0,0
 "Health_OrganizationsServiceRolePolicy","v1",False,"2019-12-16T13:28:21+00:00",0,0,0,0,0,0,0
 "Health_OrganizationsServiceRolePolicy","v2",True,"2020-06-08T12:48:44+00:00",0,0,0,0,0,0,0
 "AWSMarketplaceSellerProductsFullAccess","v5",False,"2022-07-26T15:06:29+00:00",0,2,0,1,0,0,4
@@ -1269,7 +1270,8 @@
 "AWSWAFConsoleReadOnlyAccess","v1",False,"2020-04-06T18:43:24+00:00",0,0,0,0,0,0,0
 "AWSWAFConsoleReadOnlyAccess","v2",False,"2020-06-22T22:38:54+00:00",0,0,0,0,0,0,0
 "AWSWAFConsoleReadOnlyAccess","v3",False,"2020-10-01T20:13:54+00:00",0,0,0,0,0,0,0
-"AWSWAFConsoleReadOnlyAccess","v6",True,"2023-05-31T19:12:04+00:00",0,0,0,0,0,0,0
+"AWSWAFConsoleReadOnlyAccess","v6",False,"2023-05-31T19:12:04+00:00",0,0,0,0,0,0,0
+"AWSWAFConsoleReadOnlyAccess","v7",True,"2023-06-05T20:56:51+00:00",0,0,0,0,0,0,0
 "CloudWatch-CrossAccountAccess","v1",True,"2019-07-23T09:59:27+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryFailbackInstallationPolicy","v1",False,"2021-11-17T11:02:03+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryFailbackInstallationPolicy","v2",True,"2022-06-27T09:13:40+00:00",0,0,0,0,0,0,0
@@ -1899,6 +1901,7 @@
 "DynamoDBReplicationServiceRolePolicy","v6",False,"2020-09-09T18:43:04+00:00",0,2,0,1,0,0,6
 "DynamoDBReplicationServiceRolePolicy","v7",True,"2023-05-10T17:04:21+00:00",0,2,0,1,0,0,6
 "MonitronServiceRolePolicy","v1",True,"2022-05-02T19:22:03+00:00",0,0,0,0,0,0,0
+"AWSControlTowerAccountServiceRolePolicy","v1",True,"2023-06-05T22:04:50+00:00",0,0,0,0,0,0,0
 "AWSAuditManagerAdministratorAccess","v1",False,"2020-12-11T20:02:42+00:00",1,4,0,1,0,0,24
 "AWSAuditManagerAdministratorAccess","v2",True,"2022-04-30T00:02:56+00:00",1,4,0,1,0,0,25
 "AmazonMobileAnalyticsFullAccess","v1",True,"2015-02-06T18:40:34+00:00",1,0,0,0,0,0,0
@@ -2263,7 +2266,8 @@
 "AmazonElasticMapReduceforEC2Role","v3",True,"2017-08-11T23:57:30+00:00",6,8,0,21,1,0,151
 "S3StorageLensServiceRolePolicy","v1",True,"2020-11-18T18:15:40+00:00",0,0,0,0,0,0,0
 "AmazonInspector2ReadOnlyAccess","v1",False,"2022-01-21T14:45:14+00:00",0,0,0,0,0,0,0
-"AmazonInspector2ReadOnlyAccess","v2",True,"2023-05-02T18:51:40+00:00",0,0,0,0,0,0,0
+"AmazonInspector2ReadOnlyAccess","v2",False,"2023-05-02T18:51:40+00:00",0,0,0,0,0,0,0
+"AmazonInspector2ReadOnlyAccess","v3",True,"2023-06-05T21:54:19+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerCanvasAIServicesAccess","v1",True,"2023-03-23T22:36:43+00:00",0,0,0,0,0,0,0
 "AmazonInspector2FullAccess","v1",False,"2021-11-29T19:10:15+00:00",1,2,0,1,0,0,2
 "AmazonInspector2FullAccess","v2",True,"2023-04-19T21:33:48+00:00",1,3,0,1,0,0,5
@@ -2337,11 +2341,12 @@
 "AWSElasticLoadBalancingClassicServiceRolePolicy","v2",True,"2019-10-07T23:04:27+00:00",0,1,0,0,0,0,12
 "AWSWAFConsoleFullAccess","v5",False,"2022-08-25T20:13:28+00:00",3,5,0,7,0,0,115
 "AWSWAFConsoleFullAccess","v4",False,"2022-01-11T19:34:04+00:00",3,5,0,9,0,0,113
+"AWSWAFConsoleFullAccess","v8",True,"2023-06-05T20:56:03+00:00",3,6,0,7,0,0,117
 "AWSWAFConsoleFullAccess","v1",False,"2020-04-06T18:38:38+00:00",3,5,0,9,0,0,113
 "AWSWAFConsoleFullAccess","v2",False,"2020-10-01T20:13:57+00:00",3,5,0,9,0,0,113
 "AWSWAFConsoleFullAccess","v3",False,"2021-11-15T19:33:52+00:00",3,5,0,9,0,0,113
 "AWSWAFConsoleFullAccess","v6",False,"2023-03-30T20:56:05+00:00",3,6,0,7,0,0,117
-"AWSWAFConsoleFullAccess","v7",True,"2023-05-31T19:11:14+00:00",3,6,0,7,0,0,117
+"AWSWAFConsoleFullAccess","v7",False,"2023-05-31T19:11:14+00:00",3,6,0,7,0,0,117
 "AWSSSMOpsInsightsServiceRolePolicy","v1",True,"2021-06-16T20:12:52+00:00",0,1,0,0,0,0,1
 "AWSIncidentManagerServiceRolePolicy","v1",False,"2021-05-10T03:34:45+00:00",0,0,0,0,0,0,0
 "AWSIncidentManagerServiceRolePolicy","v2",True,"2022-12-05T02:11:58+00:00",0,3,0,0,0,0,3
@@ -2554,9 +2559,10 @@
 "AWSWAFFullAccess","v9",False,"2023-03-30T20:24:20+00:00",3,5,0,7,0,0,116
 "AWSWAFFullAccess","v1",False,"2015-10-06T20:44:00+00:00",1,1,0,2,0,0,43
 "AWSWAFFullAccess","v2",False,"2016-12-07T21:33:25+00:00",2,2,0,4,0,0,88
-"AWSWAFFullAccess","v10",True,"2023-05-31T19:08:18+00:00",3,5,0,7,0,0,116
+"AWSWAFFullAccess","v10",False,"2023-05-31T19:08:18+00:00",3,5,0,7,0,0,116
 "AWSWAFFullAccess","v3",False,"2020-01-07T20:50:25+00:00",3,3,0,9,0,0,111
 "AWSWAFFullAccess","v6",False,"2021-11-15T19:33:27+00:00",3,4,0,9,0,0,112
+"AWSWAFFullAccess","v11",True,"2023-06-05T20:55:25+00:00",3,5,0,7,0,0,116
 "AWSWAFFullAccess","v7",False,"2022-01-11T19:33:38+00:00",3,4,0,9,0,0,112
 "BatchServiceRolePolicy","v5",False,"2022-05-18T20:05:56+00:00",0,4,0,2,0,0,11
 "BatchServiceRolePolicy","v4",False,"2021-12-07T02:15:31+00:00",0,4,0,2,0,0,11
