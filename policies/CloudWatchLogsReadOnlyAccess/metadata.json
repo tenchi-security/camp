@@ -3,10 +3,10 @@
     "PolicyId": "ANPAJ2YIYDYSNNEHK3VKW",
     "Arn": "arn:aws:iam::aws:policy/CloudWatchLogsReadOnlyAccess",
     "Path": "/",
-    "DefaultVersionId": "v4",
+    "DefaultVersionId": "v5",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2015-02-06T18:40:03+00:00",
-    "UpdateDate": "2019-01-14T19:32:45+00:00"
+    "UpdateDate": "2023-06-06T17:16:08+00:00"
 }

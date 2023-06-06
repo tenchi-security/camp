@@ -1,0 +1,6 @@
+{
+    "VersionId": "v5",
+    "IsDefaultVersion": true,
+    "CreateDate": "2023-06-06T17:16:08+00:00",
+    "PolicyName": "CloudWatchLogsReadOnlyAccess"
+}
