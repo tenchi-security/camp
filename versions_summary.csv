@@ -2933,7 +2933,7 @@
 "AWSConfigServiceRolePolicy","v3",False,"2018-08-15T23:03:55+00:00",0,1,0,0,0,0,5
 "AWSConfigServiceRolePolicy","v15",False,"2019-08-01T23:10:02+00:00",0,1,0,0,0,0,5
 "AWSConfigServiceRolePolicy","v12",False,"2019-06-10T22:59:58+00:00",0,1,0,0,0,0,5
-"AWSConfigServiceRolePolicy","v43",True,"2023-04-12T22:15:53+00:00",0,2,0,2,0,0,7
+"AWSConfigServiceRolePolicy","v43",False,"2023-04-12T22:15:53+00:00",0,2,0,2,0,0,7
 "AWSConfigServiceRolePolicy","v35",False,"2022-09-07T20:48:52+00:00",0,2,0,2,0,0,7
 "AWSConfigServiceRolePolicy","v6",False,"2018-12-20T22:09:35+00:00",0,1,0,0,0,0,5
 "AWSConfigServiceRolePolicy","v13",False,"2019-06-25T23:27:46+00:00",0,1,0,0,0,0,5
@@ -2949,6 +2949,7 @@
 "AWSConfigServiceRolePolicy","v36",False,"2022-09-14T19:19:27+00:00",0,2,0,2,0,0,7
 "AWSConfigServiceRolePolicy","v42",False,"2023-03-21T18:23:30+00:00",0,2,0,2,0,0,7
 "AWSConfigServiceRolePolicy","v14",False,"2019-07-23T19:18:04+00:00",0,1,0,0,0,0,5
+"AWSConfigServiceRolePolicy","v44",True,"2023-06-09T21:10:35+00:00",0,2,0,2,0,0,7
 "AWSConfigServiceRolePolicy","v28",False,"2022-01-21T18:35:45+00:00",0,1,0,0,0,0,5
 "AWSConfigServiceRolePolicy","v40",False,"2023-01-31T19:52:15+00:00",0,2,0,2,0,0,7
 "AWSConfigServiceRolePolicy","v26",False,"2021-07-27T22:31:53+00:00",0,1,0,0,0,0,5
