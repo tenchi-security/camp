@@ -1806,6 +1806,7 @@
 "AWSElasticBeanstalkEnhancedHealth","v1",False,"2016-02-08T23:17:27+00:00",0,1,0,0,0,0,1
 "AWSElasticBeanstalkEnhancedHealth","v2",False,"2016-08-22T20:28:36+00:00",0,1,0,0,0,0,1
 "AWSElasticBeanstalkEnhancedHealth","v3",False,"2018-03-01T22:59:05+00:00",0,2,0,0,0,0,2
+"AWSElasticDisasterRecoveryNetworkReplicationPolicy","v1",True,"2023-06-11T12:36:48+00:00",0,0,0,0,0,0,0
 "AmazonEKSServicePolicy","v5",False,"2020-03-30T23:43:02+00:00",0,5,0,2,0,0,8
 "AmazonEKSServicePolicy","v4",False,"2019-08-21T16:17:56+00:00",0,4,0,1,0,0,7
 "AmazonEKSServicePolicy","v1",False,"2018-05-27T21:08:21+00:00",0,1,0,1,0,0,4
