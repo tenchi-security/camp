@@ -1142,9 +1142,10 @@
 "AmazonCodeGuruReviewerServiceRolePolicy","v1",False,"2019-12-03T05:31:12+00:00",0,2,0,0,0,0,4
 "AmazonCodeGuruReviewerServiceRolePolicy","v2",False,"2020-04-09T07:33:48+00:00",0,2,0,0,0,0,4
 "AmazonCodeGuruReviewerServiceRolePolicy","v3",False,"2020-06-22T05:41:49+00:00",0,2,0,0,0,0,4
+"AWSElasticDisasterRecoveryConsoleFullAccess","v4",True,"2023-06-11T08:37:09+00:00",1,1,0,0,0,0,40
 "AWSElasticDisasterRecoveryConsoleFullAccess","v1",False,"2021-11-17T10:46:29+00:00",1,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryConsoleFullAccess","v2",False,"2022-05-29T08:40:00+00:00",1,1,0,0,0,0,35
-"AWSElasticDisasterRecoveryConsoleFullAccess","v3",True,"2023-04-19T09:52:11+00:00",1,1,0,0,0,0,40
+"AWSElasticDisasterRecoveryConsoleFullAccess","v3",False,"2023-04-19T09:52:11+00:00",1,1,0,0,0,0,40
 "AWSCertificateManagerPrivateCAAuditor","v4",True,"2020-08-17T22:54:12+00:00",0,0,0,0,0,0,0
 "AWSCertificateManagerPrivateCAAuditor","v1",False,"2018-10-23T16:51:08+00:00",0,0,0,0,0,0,0
 "AWSCertificateManagerPrivateCAAuditor","v2",False,"2018-12-07T20:41:56+00:00",0,0,0,0,0,0,0
@@ -2659,7 +2660,8 @@
 "SecurityAudit","v37",False,"2022-11-19T01:02:40+00:00",0,1,0,2,0,0,2
 "AWSFinSpaceServiceRolePolicy","v1",True,"2023-05-12T16:42:03+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryServiceRolePolicy","v1",False,"2021-11-17T10:56:17+00:00",0,1,0,0,0,0,1
-"AWSElasticDisasterRecoveryServiceRolePolicy","v2",True,"2022-07-10T12:44:41+00:00",0,1,0,0,0,0,2
+"AWSElasticDisasterRecoveryServiceRolePolicy","v2",False,"2022-07-10T12:44:41+00:00",0,1,0,0,0,0,2
+"AWSElasticDisasterRecoveryServiceRolePolicy","v3",True,"2023-06-11T08:33:31+00:00",0,1,0,0,0,0,2
 "AmazonEC2RoleforAWSCodeDeployLimited","v1",False,"2020-08-24T17:55:18+00:00",0,1,0,0,0,0,1
 "AmazonEC2RoleforAWSCodeDeployLimited","v2",True,"2022-01-20T21:37:31+00:00",0,1,0,0,0,0,1
 "AWSXrayReadOnlyAccess","v5",False,"2020-09-03T22:19:40+00:00",0,0,0,0,0,0,0
