@@ -1520,9 +1520,10 @@
 "AWSSSMForSAPServiceLinkedRolePolicy","v2",True,"2023-01-06T02:41:02+00:00",0,0,0,0,0,0,0
 "ROSAImageRegistryOperatorPolicy","v1",True,"2023-04-27T20:13:18+00:00",0,0,0,0,0,0,0
 "AmazonEC2ReadOnlyAccess","v1",True,"2015-02-06T18:40:17+00:00",0,0,0,0,0,0,0
+"AWSElasticDisasterRecoveryAgentInstallationPolicy","v4",True,"2023-06-13T09:43:59+00:00",0,1,0,0,0,0,1
 "AWSElasticDisasterRecoveryAgentInstallationPolicy","v1",False,"2021-11-17T10:37:54+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryAgentInstallationPolicy","v2",False,"2022-07-03T09:11:23+00:00",0,1,0,0,0,0,1
-"AWSElasticDisasterRecoveryAgentInstallationPolicy","v3",True,"2022-12-28T07:10:44+00:00",0,1,0,0,0,0,1
+"AWSElasticDisasterRecoveryAgentInstallationPolicy","v3",False,"2022-12-28T07:10:44+00:00",0,1,0,0,0,0,1
 "AlexaForBusinessReadOnlyAccess","v1",False,"2017-11-30T16:47:12+00:00",0,0,0,0,0,0,0
 "AlexaForBusinessReadOnlyAccess","v2",False,"2018-06-25T23:52:33+00:00",0,0,0,0,0,0,0
 "AlexaForBusinessReadOnlyAccess","v3",True,"2019-11-20T00:25:33+00:00",0,0,0,0,0,0,0
