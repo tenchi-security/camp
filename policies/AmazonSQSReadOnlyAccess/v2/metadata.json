@@ -1,6 +1,6 @@
 {
     "VersionId": "v2",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2018-08-20T23:35:49+00:00",
     "PolicyName": "AmazonSQSReadOnlyAccess"
 }
