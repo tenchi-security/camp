@@ -2535,6 +2535,7 @@
 "AWSMarketplaceRead-only","v3",False,"2019-10-28T21:51:31+00:00",0,0,0,0,0,0,0
 "AWSMarketplaceRead-only","v2",False,"2018-07-31T23:24:24+00:00",0,0,0,0,0,0,0
 "FSxDeleteServiceLinkedRoleAccess","v1",True,"2018-11-28T10:40:24+00:00",0,0,0,0,0,0,0
+"AmazonMacieReadOnlyAccess","v1",True,"2023-06-15T21:50:06+00:00",0,0,0,0,0,0,0
 "IAMAccessAnalyzerReadOnlyAccess","v1",False,"2019-12-02T17:12:53+00:00",0,0,0,0,0,0,0
 "IAMAccessAnalyzerReadOnlyAccess","v2",True,"2021-03-16T20:37:30+00:00",0,0,0,0,0,0,0
 "AmazonESFullAccess","v1",True,"2015-10-01T19:14:00+00:00",1,1,0,2,0,0,11
