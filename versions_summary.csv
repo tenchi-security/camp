@@ -2758,7 +2758,8 @@
 "AmazonElasticTranscoderRole","v2",True,"2019-06-13T22:48:22+00:00",0,2,0,1,1,0,5
 "AWSDiscoveryContinuousExportFirehosePolicy","v1",False,"2018-08-09T18:29:39+00:00",0,0,0,0,0,0,0
 "AWSDiscoveryContinuousExportFirehosePolicy","v2",True,"2021-06-08T17:32:46+00:00",0,0,0,0,0,0,0
-"AWSApplicationMigrationServiceRolePolicy","v1",True,"2021-04-07T06:43:20+00:00",0,2,0,0,0,0,7
+"AWSApplicationMigrationServiceRolePolicy","v1",False,"2021-04-07T06:43:20+00:00",0,2,0,0,0,0,7
+"AWSApplicationMigrationServiceRolePolicy","v2",True,"2023-06-20T09:12:04+00:00",0,2,0,0,0,0,8
 "AutoScalingConsoleReadOnlyAccess","v1",True,"2017-01-12T19:48:53+00:00",0,0,0,0,0,0,0
 "AWSCodeDeployRole","v5",False,"2017-08-08T20:43:17+00:00",0,4,0,0,0,0,18
 "AWSCodeDeployRole","v7",False,"2019-09-23T21:47:54+00:00",0,5,0,0,0,0,19
