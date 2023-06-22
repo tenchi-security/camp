@@ -1967,7 +1967,8 @@
 "AWSWAFConsoleFullAccess","v2",False,"2020-10-01T20:13:57+00:00",3,5,0,9,0,0,113
 "AWSWAFConsoleFullAccess","v6",False,"2023-03-30T20:56:05+00:00",3,6,0,7,0,0,117
 "AWSWAFConsoleFullAccess","v8",True,"2023-06-05T20:56:03+00:00",3,6,0,7,0,0,117
-"AWSCodePipeline_FullAccess","v1",True,"2020-08-03T22:38:28+00:00",1,4,0,1,0,1,26
+"AWSCodePipeline_FullAccess","v1",False,"2020-08-03T22:38:28+00:00",1,4,0,1,0,1,26
+"AWSCodePipeline_FullAccess","v2",True,"2023-06-21T22:46:59+00:00",1,4,0,1,0,1,27
 "AmazonCodeGuruSecurityScanAccess","v1",True,"2023-05-09T20:54:32+00:00",0,0,0,0,0,0,0
 "AmazonSESReadOnlyAccess","v1",True,"2015-02-06T18:41:03+00:00",0,0,0,0,0,0,0
 "AmazonRedshiftDataFullAccess","v5",True,"2023-04-07T18:18:32+00:00",0,1,0,0,0,0,2
