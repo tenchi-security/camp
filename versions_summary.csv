@@ -2522,6 +2522,7 @@
 "AmazonEC2SpotFleetTaggingRole","v3",False,"2017-11-07T19:19:15+00:00",0,3,0,1,0,0,5
 "AmazonEC2SpotFleetTaggingRole","v4",False,"2017-11-17T22:51:17+00:00",0,3,0,1,0,0,5
 "AmazonEC2SpotFleetTaggingRole","v5",True,"2020-04-23T19:30:49+00:00",0,2,0,1,0,0,5
+"AWSAppFabricServiceRolePolicy","v1",True,"2023-06-26T21:07:45+00:00",0,0,0,0,0,0,0
 "AWSWAFReadOnlyAccess","v7",False,"2023-05-31T19:12:30+00:00",0,0,0,0,0,0,0
 "AWSWAFReadOnlyAccess","v1",False,"2015-10-06T20:43:45+00:00",0,0,0,0,0,0,0
 "AWSWAFReadOnlyAccess","v2",False,"2016-12-07T21:30:54+00:00",0,0,0,0,0,0,0
