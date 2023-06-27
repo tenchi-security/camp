@@ -2914,6 +2914,7 @@
 "AWSSystemsManagerAccountDiscoveryServicePolicy","v3",True,"2022-10-17T20:25:02+00:00",0,0,0,0,0,0,0
 "AWSAuditManagerAdministratorAccess","v1",False,"2020-12-11T20:02:42+00:00",1,4,0,1,0,0,24
 "AWSAuditManagerAdministratorAccess","v2",True,"2022-04-30T00:02:56+00:00",1,4,0,1,0,0,25
+"AWSResilienceHubAsssessmentExecutionPolicy","v1",True,"2023-06-27T12:32:15+00:00",0,0,0,0,0,0,0
 "IAMAccessAdvisorReadOnly","v1",True,"2019-06-21T19:33:45+00:00",0,0,0,0,0,0,0
 "AWSMarketplaceMeteringFullAccess","v1",True,"2016-03-17T22:39:22+00:00",0,0,0,0,0,0,0
 "AmazonVPCNetworkAccessAnalyzerFullAccessPolicy","v1",True,"2023-06-15T22:56:58+00:00",0,1,0,0,0,0,4
