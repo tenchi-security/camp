@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSAppFabricReadOnlyAccess",
+    "PolicyId": "ANPAZKAPJZG4IJ77M5WNE",
+    "Arn": "arn:aws:iam::aws:policy/AWSAppFabricReadOnlyAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2023-06-27T19:52:02+00:00",
+    "UpdateDate": "2023-06-27T19:52:02+00:00"
+}
