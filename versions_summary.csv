@@ -3007,7 +3007,8 @@
 "AWSBatchFullAccess","v1",False,"2016-12-06T19:35:42+00:00",1,1,0,0,0,0,11
 "AWSBatchFullAccess","v6",False,"2021-03-10T07:02:45+00:00",1,1,0,0,0,0,11
 "AWSBatchFullAccess","v4",False,"2018-06-12T17:46:09+00:00",1,1,0,0,0,0,11
-"WellArchitectedConsoleReadOnlyAccess","v1",True,"2018-11-29T18:21:08+00:00",0,0,0,0,0,0,0
+"WellArchitectedConsoleReadOnlyAccess","v2",True,"2023-06-29T17:16:13+00:00",0,0,0,0,0,0,0
+"WellArchitectedConsoleReadOnlyAccess","v1",False,"2018-11-29T18:21:08+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryConsoleFullAccess","v3",False,"2023-04-19T09:52:11+00:00",1,1,0,0,0,0,40
 "AWSElasticDisasterRecoveryConsoleFullAccess","v2",False,"2022-05-29T08:40:00+00:00",1,1,0,0,0,0,35
 "AWSElasticDisasterRecoveryConsoleFullAccess","v1",False,"2021-11-17T10:46:29+00:00",1,0,0,0,0,0,0
