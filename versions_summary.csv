@@ -3190,7 +3190,8 @@
 "AWSVpcLatticeServiceRolePolicy","v1",True,"2022-11-30T20:47:10+00:00",0,0,0,0,0,0,0
 "AWSSavingsPlansFullAccess","v1",True,"2019-11-06T22:45:18+00:00",1,1,0,0,0,0,3
 "AWSSupportPlansReadOnlyAccess","v1",True,"2022-09-27T18:08:29+00:00",0,0,0,0,0,0,0
-"ROSAControlPlaneOperatorPolicy","v1",True,"2023-04-24T23:02:49+00:00",0,1,0,0,0,0,1
+"ROSAControlPlaneOperatorPolicy","v2",True,"2023-06-30T21:12:32+00:00",0,1,0,0,0,0,1
+"ROSAControlPlaneOperatorPolicy","v1",False,"2023-04-24T23:02:49+00:00",0,1,0,0,0,0,1
 "AmazonHoneycodeTeamAssociationReadOnlyAccess","v1",True,"2020-06-24T20:27:46+00:00",0,0,0,0,0,0,0
 "ReadOnlyAccess","v67",False,"2020-09-23T20:35:11+00:00",0,9,0,0,4,10,5
 "ReadOnlyAccess","v37",False,"2018-07-30T17:48:23+00:00",0,9,0,1,4,11,7
