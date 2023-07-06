@@ -2692,7 +2692,8 @@
 "ClientVPNServiceRolePolicy","v2",False,"2019-01-16T22:22:28+00:00",0,3,0,1,0,0,8
 "ClientVPNServiceRolePolicy","v1",False,"2018-12-10T21:20:25+00:00",0,3,0,1,0,0,8
 "PowerUserAccess","v3",False,"2017-11-14T22:39:11+00:00",0,200,2,244,5,23,3895
-"PowerUserAccess","v4",True,"2019-03-20T22:19:03+00:00",0,200,2,244,5,23,3895
+"PowerUserAccess","v5",True,"2023-07-06T22:04:00+00:00",0,273,2,199,5,25,5850
+"PowerUserAccess","v4",False,"2019-03-20T22:19:03+00:00",0,200,2,244,5,23,3895
 "PowerUserAccess","v2",False,"2016-12-06T18:11:16+00:00",0,199,2,242,5,23,3893
 "PowerUserAccess","v1",False,"2015-02-06T18:39:47+00:00",0,200,2,242,5,23,3912
 "AWSTransferReadOnlyAccess","v1",True,"2020-08-27T17:54:51+00:00",0,0,0,0,0,0,0
