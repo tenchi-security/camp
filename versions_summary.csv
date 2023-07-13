@@ -2365,9 +2365,10 @@
 "AWSAppSyncAdministrator","v2",True,"2019-11-04T19:23:49+00:00",1,2,0,2,0,0,7
 "AWSAppSyncAdministrator","v1",False,"2018-03-20T21:20:28+00:00",1,2,0,1,0,0,6
 "AmazonFSxFullAccess","v3",False,"2021-08-26T13:17:29+00:00",1,2,0,3,0,0,17
-"AmazonFSxFullAccess","v5",True,"2023-04-19T20:43:42+00:00",1,2,0,3,0,0,35
+"AmazonFSxFullAccess","v5",False,"2023-04-19T20:43:42+00:00",1,2,0,3,0,0,35
 "AmazonFSxFullAccess","v4",False,"2022-09-29T18:27:51+00:00",1,2,0,3,0,0,32
 "AmazonFSxFullAccess","v2",False,"2021-06-08T12:05:31+00:00",1,2,0,2,0,0,13
+"AmazonFSxFullAccess","v6",True,"2023-07-13T18:41:47+00:00",0,2,0,3,0,0,35
 "AmazonFSxFullAccess","v1",False,"2018-11-28T16:34:43+00:00",1,2,0,2,0,0,13
 "AWSServiceRoleForMonitronPolicy","v2",True,"2022-09-29T20:38:15+00:00",0,0,0,0,0,0,0
 "AWSServiceRoleForMonitronPolicy","v1",False,"2020-12-02T19:06:08+00:00",0,0,0,1,0,0,0
@@ -2722,9 +2723,10 @@
 "MigrationHubSMSAccessServiceRolePolicy","v1",False,"2019-06-12T18:30:28+00:00",0,0,0,0,0,0,0
 "AmazonFSxConsoleFullAccess","v3",False,"2020-01-21T16:42:58+00:00",1,2,0,2,0,0,13
 "AmazonFSxConsoleFullAccess","v5",False,"2021-08-26T13:18:46+00:00",1,2,0,3,0,0,17
+"AmazonFSxConsoleFullAccess","v7",True,"2023-07-13T18:44:50+00:00",0,2,0,3,0,0,35
 "AmazonFSxConsoleFullAccess","v4",False,"2021-06-08T12:14:00+00:00",1,2,0,2,0,0,13
 "AmazonFSxConsoleFullAccess","v2",False,"2019-09-10T13:11:13+00:00",1,2,0,2,0,0,13
-"AmazonFSxConsoleFullAccess","v6",True,"2022-09-22T14:08:01+00:00",1,2,0,3,0,0,32
+"AmazonFSxConsoleFullAccess","v6",False,"2022-09-22T14:08:01+00:00",1,2,0,3,0,0,32
 "AmazonFSxConsoleFullAccess","v1",False,"2018-11-28T16:36:05+00:00",1,2,0,2,0,0,13
 "AmazonESCognitoAccess","v2",True,"2021-12-20T14:04:44+00:00",0,3,0,2,0,0,7
 "AmazonESCognitoAccess","v1",False,"2018-02-28T22:29:18+00:00",0,3,0,3,0,0,6
