@@ -178,11 +178,12 @@
 "AWSOpsWorksInstanceRegistration","v1",True,"2016-06-03T14:23:15+00:00",0,1,0,0,0,0,1
 "AWSGlueConsoleFullAccess","v3",False,"2017-09-26T19:08:47+00:00",1,2,1,2,0,0,48
 "AWSGlueConsoleFullAccess","v5",False,"2018-03-26T19:52:10+00:00",1,1,1,2,0,0,44
-"AWSGlueConsoleFullAccess","v13",True,"2023-03-30T15:58:41+00:00",1,1,1,2,0,0,80
+"AWSGlueConsoleFullAccess","v13",False,"2023-03-30T15:58:41+00:00",1,1,1,2,0,0,80
 "AWSGlueConsoleFullAccess","v7",False,"2018-05-07T21:23:46+00:00",1,1,1,2,0,0,44
 "AWSGlueConsoleFullAccess","v9",False,"2018-07-20T22:13:30+00:00",1,1,1,2,0,0,44
 "AWSGlueConsoleFullAccess","v8",False,"2018-06-22T20:26:02+00:00",1,1,1,2,0,0,44
 "AWSGlueConsoleFullAccess","v4",False,"2018-03-16T00:21:39+00:00",1,2,1,2,0,0,48
+"AWSGlueConsoleFullAccess","v14",True,"2023-07-14T14:37:54+00:00",1,1,1,2,0,0,89
 "AWSGlueConsoleFullAccess","v12",False,"2019-02-11T19:49:01+00:00",1,1,1,2,0,0,44
 "AWSGlueConsoleFullAccess","v11",False,"2019-02-07T19:37:51+00:00",1,1,1,2,0,0,44
 "AWSGlueConsoleFullAccess","v10",False,"2018-10-26T22:15:34+00:00",1,1,1,2,0,0,44
