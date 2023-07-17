@@ -3,10 +3,10 @@
     "PolicyId": "ANPAI4UIINUVGB5SEC57G",
     "Arn": "arn:aws:iam::aws:policy/AWSCodeCommitPowerUser",
     "Path": "/",
-    "DefaultVersionId": "v14",
+    "DefaultVersionId": "v15",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2015-07-09T17:06:49+00:00",
-    "UpdateDate": "2020-07-30T23:12:48+00:00"
+    "UpdateDate": "2023-07-17T21:49:06+00:00"
 }
