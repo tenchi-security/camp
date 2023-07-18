@@ -892,7 +892,8 @@
 "AmazonElasticFileSystemReadOnlyAccess","v2",False,"2017-07-26T16:17:01+00:00",0,0,0,0,0,0,0
 "AmazonElasticFileSystemReadOnlyAccess","v6",False,"2021-05-10T14:20:55+00:00",0,0,0,0,0,0,0
 "AmazonElasticFileSystemReadOnlyAccess","v1",False,"2015-05-27T16:25:25+00:00",0,0,0,0,0,0,0
-"ROSAKubeControllerPolicy","v1",True,"2023-04-27T20:09:29+00:00",0,1,0,0,0,0,8
+"ROSAKubeControllerPolicy","v2",True,"2023-07-18T21:45:19+00:00",0,1,0,0,0,0,21
+"ROSAKubeControllerPolicy","v1",False,"2023-04-27T20:09:29+00:00",0,1,0,0,0,0,8
 "AmazonEKS_CNI_Policy","v3",False,"2019-06-27T18:10:37+00:00",0,1,0,0,0,0,7
 "AmazonEKS_CNI_Policy","v4",True,"2020-04-20T20:52:01+00:00",0,1,0,0,0,0,7
 "AmazonEKS_CNI_Policy","v2",False,"2018-05-31T22:16:00+00:00",0,1,0,0,0,0,6
