@@ -2207,7 +2207,8 @@
 "AmazonEMRFullAccessPolicy_v2","v2",False,"2021-03-23T16:57:10+00:00",0,1,0,1,0,0,20
 "AmazonEMRFullAccessPolicy_v2","v1",False,"2021-03-12T01:50:29+00:00",0,2,0,2,0,0,21
 "AWSMigrationHubRefactorSpacesFullAccess","v3",False,"2022-03-21T17:41:49+00:00",1,5,0,2,0,0,27
-"AWSMigrationHubRefactorSpacesFullAccess","v4",True,"2022-10-06T19:05:50+00:00",1,5,0,2,0,0,26
+"AWSMigrationHubRefactorSpacesFullAccess","v5",True,"2023-07-19T19:07:24+00:00",1,5,0,2,0,0,27
+"AWSMigrationHubRefactorSpacesFullAccess","v4",False,"2022-10-06T19:05:50+00:00",1,5,0,2,0,0,26
 "AWSMigrationHubRefactorSpacesFullAccess","v2",False,"2021-11-29T14:07:52+00:00",1,4,0,2,0,0,21
 "AWSMigrationHubRefactorSpacesFullAccess","v1",False,"2021-11-29T07:12:55+00:00",1,4,0,1,0,0,21
 "AWSSystemsManagerOpsDataSyncServiceRolePolicy","v2",True,"2023-06-28T22:53:43+00:00",0,2,0,0,0,0,2
