@@ -2258,9 +2258,10 @@
 "AwsGlueSessionUserRestrictedNotebookPolicy","v1",True,"2022-04-18T15:24:56+00:00",0,0,0,0,0,0,0
 "AWSMarketplaceSellerProductsFullAccess","v3",False,"2020-10-09T22:22:38+00:00",0,1,0,1,0,0,2
 "AWSMarketplaceSellerProductsFullAccess","v5",False,"2022-07-26T15:06:29+00:00",0,2,0,1,0,0,4
+"AWSMarketplaceSellerProductsFullAccess","v7",True,"2023-07-18T22:19:58+00:00",0,2,0,1,0,0,4
 "AWSMarketplaceSellerProductsFullAccess","v4",False,"2021-11-26T18:50:50+00:00",0,1,0,1,0,0,2
 "AWSMarketplaceSellerProductsFullAccess","v2",False,"2020-03-05T23:11:44+00:00",0,1,0,1,0,0,2
-"AWSMarketplaceSellerProductsFullAccess","v6",True,"2022-11-19T00:15:09+00:00",0,2,0,1,0,0,4
+"AWSMarketplaceSellerProductsFullAccess","v6",False,"2022-11-19T00:15:09+00:00",0,2,0,1,0,0,4
 "AWSMarketplaceSellerProductsFullAccess","v1",False,"2019-07-02T21:06:25+00:00",0,1,0,1,0,0,2
 "AmazonRoute53RecoveryControlConfigFullAccess","v1",True,"2021-08-18T17:48:35+00:00",1,0,0,0,0,0,0
 "AWSElementalMediaConvertReadOnly","v2",True,"2019-06-10T22:52:18+00:00",0,0,0,0,0,0,0
