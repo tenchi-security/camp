@@ -2775,6 +2775,7 @@
 "SystemAdministrator","v6",True,"2020-08-24T20:05:29+00:00",16,23,1,41,1,2,571
 "SystemAdministrator","v1",False,"2016-11-10T17:23:56+00:00",16,23,1,41,1,2,563
 "AWSTransferLoggingAccess","v1",True,"2019-01-14T15:32:50+00:00",0,1,0,0,0,0,3
+"AmazonCognitoUnAuthedIdentitiesSessionPolicy","v1",True,"2023-07-19T23:04:05+00:00",8,9,0,0,0,0,176
 "AWSArtifactAccountSync","v1",True,"2018-04-10T23:04:33+00:00",0,0,0,0,0,0,0
 "AmazonManagedBlockchainConsoleFullAccess","v1",True,"2019-04-29T21:23:25+00:00",1,2,0,0,0,0,12
 "AWSWickrFullAccess","v1",True,"2022-11-27T20:36:44+00:00",1,0,0,0,0,0,0
