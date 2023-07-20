@@ -1,0 +1,38 @@
+{
+    "ServiceWildcard": [
+        "refactor-spaces"
+    ],
+    "ServicesAffected": [
+        "cloudformation",
+        "ec2",
+        "elasticloadbalancing",
+        "iam",
+        "refactor-spaces"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:CreateServiceLinkedRole",
+        "iam:CreateServiceLinkedRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "cloudformation:CreateStack",
+        "ec2:CreateVpcEndpointServiceConfiguration",
+        "ec2:DeleteTags",
+        "ec2:DeleteVpcEndpointServiceConfigurations",
+        "elasticloadbalancing:CreateListener",
+        "elasticloadbalancing:CreateLoadBalancerListeners",
+        "elasticloadbalancing:DeleteListener",
+        "elasticloadbalancing:DeleteTargetGroup",
+        "elasticloadbalancing:RegisterTargets",
+        "iam:CreateServiceLinkedRole",
+        "refactor-spaces:DeleteApplication",
+        "refactor-spaces:DeleteEnvironment",
+        "refactor-spaces:DeleteRoute",
+        "refactor-spaces:DeleteService",
+        "refactor-spaces:TagResource",
+        "refactor-spaces:UntagResource",
+        "refactor-spaces:UpdateRoute"
+    ]
+}
