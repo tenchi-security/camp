@@ -3302,7 +3302,8 @@
 "AmazonRekognitionReadOnlyAccess","v3",False,"2020-01-08T20:02:40+00:00",0,0,0,0,0,0,0
 "AmazonRekognitionReadOnlyAccess","v5",False,"2020-07-06T20:21:19+00:00",0,0,0,0,0,0,0
 "AmazonRekognitionReadOnlyAccess","v7",False,"2021-11-03T02:53:36+00:00",0,0,0,0,0,0,0
-"AmazonRekognitionReadOnlyAccess","v8",True,"2022-08-16T20:25:04+00:00",0,0,0,0,0,0,0
+"AmazonRekognitionReadOnlyAccess","v9",True,"2023-07-24T19:04:30+00:00",0,0,0,0,0,0,0
+"AmazonRekognitionReadOnlyAccess","v8",False,"2022-08-16T20:25:04+00:00",0,0,0,0,0,0,0
 "AmazonRekognitionReadOnlyAccess","v4",False,"2020-02-20T21:26:20+00:00",0,0,0,0,0,0,0
 "AmazonRekognitionReadOnlyAccess","v2",False,"2017-12-06T23:28:39+00:00",0,0,0,0,0,0,0
 "AmazonRekognitionReadOnlyAccess","v6",False,"2020-10-15T22:07:44+00:00",0,0,0,0,0,0,0
