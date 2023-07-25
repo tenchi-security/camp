@@ -1,0 +1,11 @@
+{
+    "ServiceWildcard": [
+        "mediapackagev2"
+    ],
+    "ServicesAffected": [],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": []
+}

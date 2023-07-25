@@ -1318,6 +1318,7 @@
 "AWSBackupOperatorAccess","v2",False,"2020-01-13T16:15:02+00:00",0,1,0,0,0,0,5
 "AWSBackupOperatorAccess","v6",False,"2020-11-09T16:43:44+00:00",0,1,0,0,0,0,5
 "AWSBackupOperatorAccess","v1",False,"2019-11-18T22:23:17+00:00",0,1,0,0,0,0,4
+"AWSElementalMediaPackageV2ReadOnly","v1",True,"2023-07-25T20:31:25+00:00",0,0,0,0,0,0,0
 "AmazonMemoryDBReadOnlyAccess","v1",True,"2021-10-08T19:27:28+00:00",0,0,0,0,0,0,0
 "AWSImportExportReadOnlyAccess","v1",True,"2015-02-06T18:40:42+00:00",0,0,0,0,0,0,0
 "AWSConfigRemediationServiceRolePolicy","v1",True,"2019-06-18T21:21:35+00:00",0,2,0,1,0,0,2
@@ -1377,6 +1378,7 @@
 "AWSPrivateMarketplaceAdminFullAccess","v4",False,"2021-08-27T15:34:07+00:00",0,0,0,0,0,0,0
 "AWSPrivateMarketplaceAdminFullAccess","v2",False,"2019-10-28T21:48:03+00:00",0,0,0,0,0,0,0
 "AWSPrivateMarketplaceAdminFullAccess","v1",False,"2018-11-27T16:32:32+00:00",0,0,0,0,0,0,0
+"AmazonEFSCSIDriverPolicy","v1",True,"2023-07-25T20:10:04+00:00",0,1,0,0,0,0,3
 "AmazonEC2SpotFleetTaggingRole","v3",False,"2017-11-07T19:19:15+00:00",0,3,0,1,0,0,5
 "AmazonEC2SpotFleetTaggingRole","v5",True,"2020-04-23T19:30:49+00:00",0,2,0,1,0,0,5
 "AmazonEC2SpotFleetTaggingRole","v4",False,"2017-11-17T22:51:17+00:00",0,3,0,1,0,0,5
@@ -3349,6 +3351,7 @@
 "AmazonSageMakerFeatureStoreAccess","v1",False,"2020-12-01T16:24:05+00:00",0,0,0,0,0,0,0
 "AmazonGrafanaRedshiftAccess","v1",True,"2021-11-26T23:15:15+00:00",0,2,0,0,0,0,2
 "AWSMarketplaceAmiIngestion","v1",True,"2020-09-25T20:55:10+00:00",0,1,0,0,0,0,1
+"AWSElementalMediaPackageV2FullAccess","v1",True,"2023-07-25T20:29:37+00:00",1,0,0,0,0,0,0
 "ViewOnlyAccess","v3",False,"2017-06-26T22:35:31+00:00",0,0,0,0,0,0,0
 "ViewOnlyAccess","v16",False,"2023-01-05T20:51:00+00:00",0,0,0,0,0,0,0
 "ViewOnlyAccess","v5",False,"2018-05-16T20:35:13+00:00",0,0,0,0,0,0,0

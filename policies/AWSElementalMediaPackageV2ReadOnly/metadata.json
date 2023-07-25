@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSElementalMediaPackageV2ReadOnly",
+    "PolicyId": "ANPAZKAPJZG4IRWAFAKBF",
+    "Arn": "arn:aws:iam::aws:policy/AWSElementalMediaPackageV2ReadOnly",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2023-07-25T20:31:25+00:00",
+    "UpdateDate": "2023-07-25T20:31:25+00:00"
+}
