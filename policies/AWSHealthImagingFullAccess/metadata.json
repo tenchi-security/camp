@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSHealthImagingFullAccess",
+    "PolicyId": "ANPAZKAPJZG4EOBD7JPDT",
+    "Arn": "arn:aws:iam::aws:policy/AWSHealthImagingFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2023-07-25T23:39:40+00:00",
+    "UpdateDate": "2023-07-25T23:39:40+00:00"
+}

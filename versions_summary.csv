@@ -1835,6 +1835,7 @@
 "AmazonAppStreamReadOnlyAccess","v1",False,"2015-02-06T18:40:10+00:00",0,0,0,0,0,0,0
 "AWSBugBustFullAccess","v2",True,"2021-07-22T20:04:29+00:00",1,0,0,0,0,0,0
 "AWSBugBustFullAccess","v1",False,"2021-06-24T07:03:26+00:00",1,0,0,0,0,0,0
+"AWSHealthImagingFullAccess","v1",True,"2023-07-25T23:39:40+00:00",1,1,0,1,0,0,1
 "AWSBackupServiceRolePolicyForBackup","v3",False,"2019-06-25T20:26:08+00:00",0,2,0,1,0,0,4
 "AWSBackupServiceRolePolicyForBackup","v5",False,"2020-06-03T07:06:09+00:00",0,3,0,1,0,0,9
 "AWSBackupServiceRolePolicyForBackup","v13",False,"2022-10-12T22:14:45+00:00",0,3,0,2,0,0,13
@@ -3249,6 +3250,7 @@
 "AWSCodeCommitReadOnly","v6",False,"2019-11-20T17:12:40+00:00",0,0,0,0,0,0,0
 "AWSCodeCommitReadOnly","v1",False,"2015-07-09T17:05:06+00:00",0,0,0,0,0,0,0
 "AmazonCloudWatchEvidentlyFullAccess","v1",True,"2021-11-29T15:10:14+00:00",1,0,0,0,0,0,0
+"AWSHealthImagingReadOnlyAccess","v1",True,"2023-07-25T23:40:40+00:00",0,0,0,0,0,0,0
 "AWSCodeCommitPowerUser","v3",False,"2017-05-22T21:12:48+00:00",0,1,0,0,0,0,17
 "AWSCodeCommitPowerUser","v5",False,"2019-05-15T23:18:26+00:00",0,1,0,0,0,0,33
 "AWSCodeCommitPowerUser","v13",False,"2020-06-24T16:16:59+00:00",0,4,0,0,0,0,48
