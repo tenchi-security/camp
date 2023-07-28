@@ -2212,7 +2212,8 @@
 "CloudFrontReadOnlyAccess","v2",False,"2015-05-04T17:56:12+00:00",0,0,0,0,0,0,0
 "CloudFrontReadOnlyAccess","v1",False,"2015-02-06T18:39:55+00:00",0,0,0,0,0,0,0
 "AWSCertificateManagerPrivateCAPrivilegedUser","v1",True,"2019-06-20T17:43:13+00:00",0,0,0,0,0,0,0
-"AmazonEMRFullAccessPolicy_v2","v3",True,"2022-04-21T22:31:45+00:00",0,1,0,0,0,0,20
+"AmazonEMRFullAccessPolicy_v2","v3",False,"2022-04-21T22:31:45+00:00",0,1,0,0,0,0,20
+"AmazonEMRFullAccessPolicy_v2","v4",True,"2023-07-28T14:04:57+00:00",0,1,0,0,0,0,20
 "AmazonEMRFullAccessPolicy_v2","v2",False,"2021-03-23T16:57:10+00:00",0,1,0,1,0,0,20
 "AmazonEMRFullAccessPolicy_v2","v1",False,"2021-03-12T01:50:29+00:00",0,2,0,2,0,0,21
 "AWSMigrationHubRefactorSpacesFullAccess","v3",False,"2022-03-21T17:41:49+00:00",1,5,0,2,0,0,27
