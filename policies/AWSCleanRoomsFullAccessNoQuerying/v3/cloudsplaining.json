@@ -1,0 +1,26 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "cleanrooms"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "cleanrooms:CreateConfiguredTableAnalysisRule",
+        "cleanrooms:CreateConfiguredTableAssociation",
+        "cleanrooms:CreateMembership",
+        "cleanrooms:DeleteCollaboration",
+        "cleanrooms:DeleteConfiguredTable",
+        "cleanrooms:DeleteConfiguredTableAnalysisRule",
+        "cleanrooms:DeleteConfiguredTableAssociation",
+        "cleanrooms:DeleteMember",
+        "cleanrooms:DeleteMembership",
+        "cleanrooms:UpdateCollaboration",
+        "cleanrooms:UpdateConfiguredTable",
+        "cleanrooms:UpdateConfiguredTableAnalysisRule",
+        "cleanrooms:UpdateConfiguredTableAssociation",
+        "cleanrooms:UpdateMembership"
+    ]
+}

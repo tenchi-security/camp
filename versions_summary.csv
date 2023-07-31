@@ -1351,7 +1351,8 @@
 "AWSBackupServiceLinkedRolePolicyForBackup","v2",False,"2020-11-10T18:37:51+00:00",0,2,0,1,0,0,6
 "AWSBackupServiceLinkedRolePolicyForBackup","v6",False,"2021-11-23T22:00:49+00:00",0,2,0,1,0,0,6
 "AWSBackupServiceLinkedRolePolicyForBackup","v1",False,"2020-06-02T23:08:40+00:00",0,0,0,0,0,0,0
-"AWSCleanRoomsFullAccessNoQuerying","v2",True,"2023-03-21T16:47:14+00:00",0,0,0,0,0,0,0
+"AWSCleanRoomsFullAccessNoQuerying","v3",True,"2023-07-31T20:03:50+00:00",0,1,0,0,0,0,14
+"AWSCleanRoomsFullAccessNoQuerying","v2",False,"2023-03-21T16:47:14+00:00",0,0,0,0,0,0,0
 "AWSCleanRoomsFullAccessNoQuerying","v1",False,"2023-01-12T16:12:31+00:00",0,0,0,0,0,0,0
 "CloudWatchLogsCrossAccountSharingConfiguration","v1",True,"2022-11-27T13:55:22+00:00",0,0,0,0,0,0,0
 "AWSApplicationDiscoveryAgentlessCollectorAccess","v1",True,"2022-08-16T21:00:59+00:00",0,0,0,0,0,0,0
