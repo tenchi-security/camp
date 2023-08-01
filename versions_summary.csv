@@ -1646,6 +1646,7 @@
 "AWSGlobalAcceleratorSLRPolicy","v2",False,"2019-09-06T17:50:26+00:00",0,1,0,0,0,0,5
 "AWSGlobalAcceleratorSLRPolicy","v6",False,"2021-11-02T18:33:56+00:00",0,1,0,0,0,0,7
 "AWSGlobalAcceleratorSLRPolicy","v1",False,"2019-04-05T19:39:13+00:00",0,1,0,0,0,0,5
+"CloudWatchFullAccessV2","v1",True,"2023-08-01T11:32:57+00:00",2,3,0,1,0,0,43
 "AWSBackupAuditAccess","v2",True,"2023-04-10T21:23:31+00:00",0,1,0,0,0,0,7
 "AWSBackupAuditAccess","v1",False,"2021-08-24T01:02:23+00:00",0,0,0,0,0,0,0
 "ElementalActivationsGenerateLicenses","v1",True,"2020-08-28T18:28:58+00:00",0,0,0,0,0,0,0

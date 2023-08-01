@@ -1,0 +1,62 @@
+{
+    "ServiceWildcard": [
+        "cloudwatch",
+        "logs"
+    ],
+    "ServicesAffected": [
+        "cloudwatch",
+        "logs",
+        "sns"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "sns:CreateTopic"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "cloudwatch:DeleteAlarms",
+        "cloudwatch:DeleteDashboards",
+        "cloudwatch:DeleteInsightRules",
+        "cloudwatch:DeleteMetricStream",
+        "cloudwatch:DisableAlarmActions",
+        "cloudwatch:DisableInsightRules",
+        "cloudwatch:EnableAlarmActions",
+        "cloudwatch:EnableInsightRules",
+        "cloudwatch:PutCompositeAlarm",
+        "cloudwatch:PutDashboard",
+        "cloudwatch:PutInsightRule",
+        "cloudwatch:PutMetricAlarm",
+        "cloudwatch:PutMetricStream",
+        "cloudwatch:SetAlarmState",
+        "cloudwatch:StartMetricStreams",
+        "cloudwatch:StopMetricStreams",
+        "cloudwatch:TagResource",
+        "cloudwatch:UntagResource",
+        "logs:AssociateKmsKey",
+        "logs:CreateExportTask",
+        "logs:CreateLogGroup",
+        "logs:CreateLogStream",
+        "logs:DeleteDataProtectionPolicy",
+        "logs:DeleteDestination",
+        "logs:DeleteLogGroup",
+        "logs:DeleteLogStream",
+        "logs:DeleteMetricFilter",
+        "logs:DeleteRetentionPolicy",
+        "logs:DeleteSubscriptionFilter",
+        "logs:DisassociateKmsKey",
+        "logs:PutDataProtectionPolicy",
+        "logs:PutDestination",
+        "logs:PutDestinationPolicy",
+        "logs:PutLogEvents",
+        "logs:PutMetricFilter",
+        "logs:PutRetentionPolicy",
+        "logs:PutSubscriptionFilter",
+        "logs:TagLogGroup",
+        "logs:TagResource",
+        "logs:UntagLogGroup",
+        "logs:UntagResource",
+        "sns:CreateTopic",
+        "sns:Subscribe"
+    ]
+}
