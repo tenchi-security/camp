@@ -2424,6 +2424,7 @@
 "AmazonSSMPatchAssociation","v1",True,"2020-05-13T16:00:42+00:00",0,0,0,0,0,0,0
 "AmazonCognitoIdpServiceRolePolicy","v1",True,"2020-06-26T22:30:20+00:00",0,0,0,0,0,0,0
 "AwsGlueSessionUserRestrictedServiceRole","v1",True,"2022-04-14T21:30:07+00:00",1,0,0,0,0,0,0
+"AmazonSageMakerPartnerServiceCatalogProductsApiGatewayServiceRolePolicy","v1",True,"2023-08-01T15:06:24+00:00",0,0,0,0,0,0,0
 "AWSElasticBeanstalkMulticontainerDocker","v3",True,"2023-03-23T22:04:20+00:00",0,1,0,0,0,0,10
 "AWSElasticBeanstalkMulticontainerDocker","v2",False,"2016-06-06T23:45:37+00:00",0,1,0,0,0,0,9
 "AWSElasticBeanstalkMulticontainerDocker","v1",False,"2016-02-08T23:15:29+00:00",0,1,0,0,0,0,9
@@ -2964,6 +2965,7 @@
 "AWSAppMeshFullAccess","v2",False,"2019-06-05T18:47:32+00:00",1,1,0,0,0,0,23
 "AWSAppMeshFullAccess","v6",True,"2021-01-07T19:54:08+00:00",1,1,0,0,0,0,23
 "AWSAppMeshFullAccess","v1",False,"2019-04-16T17:50:40+00:00",1,1,0,0,0,0,23
+"AmazonSageMakerPartnerServiceCatalogProductsCloudFormationServiceRolePolicy","v1",True,"2023-08-01T15:06:46+00:00",0,0,0,0,0,0,0
 "ROSAInstallerPolicy","v1",True,"2023-06-06T21:00:31+00:00",0,3,0,1,0,0,6
 "AWSMigrationHubSMSAccess","v2",True,"2019-10-07T18:01:22+00:00",0,0,0,0,0,0,0
 "AWSMigrationHubSMSAccess","v1",False,"2017-08-14T13:57:54+00:00",0,0,0,0,0,0,0
@@ -3035,6 +3037,7 @@
 "AWSDeviceFarmServiceRolePolicy","v1",True,"2022-09-20T21:02:28+00:00",0,0,0,0,0,0,0
 "AmazonKinesisFullAccess","v1",True,"2015-02-06T18:40:29+00:00",1,1,0,0,0,0,14
 "AWSIoTWirelessDataAccess","v1",True,"2020-12-15T15:31:39+00:00",0,1,0,0,0,0,1
+"AmazonSageMakerPartnerServiceCatalogProductsLambdaServiceRolePolicy","v1",True,"2023-08-01T15:05:51+00:00",0,0,0,0,0,0,0
 "AWSApplicationMigrationReadOnlyAccess","v3",False,"2022-05-01T08:32:53+00:00",0,0,0,0,0,0,0
 "AWSApplicationMigrationReadOnlyAccess","v5",True,"2023-03-20T08:58:08+00:00",0,0,0,0,0,0,0
 "AWSApplicationMigrationReadOnlyAccess","v4",False,"2022-11-27T09:08:30+00:00",0,0,0,0,0,0,0
@@ -3260,7 +3263,8 @@
 "AWSCodeCommitReadOnly","v6",False,"2019-11-20T17:12:40+00:00",0,0,0,0,0,0,0
 "AWSCodeCommitReadOnly","v1",False,"2015-07-09T17:05:06+00:00",0,0,0,0,0,0,0
 "AmazonCloudWatchEvidentlyFullAccess","v1",True,"2021-11-29T15:10:14+00:00",1,0,0,0,0,0,0
-"AWSHealthImagingReadOnlyAccess","v1",True,"2023-07-25T23:40:40+00:00",0,0,0,0,0,0,0
+"AWSHealthImagingReadOnlyAccess","v2",True,"2023-08-01T15:18:49+00:00",0,0,0,0,0,0,0
+"AWSHealthImagingReadOnlyAccess","v1",False,"2023-07-25T23:40:40+00:00",0,0,0,0,0,0,0
 "AWSCodeCommitPowerUser","v3",False,"2017-05-22T21:12:48+00:00",0,1,0,0,0,0,17
 "AWSCodeCommitPowerUser","v5",False,"2019-05-15T23:18:26+00:00",0,1,0,0,0,0,33
 "AWSCodeCommitPowerUser","v13",False,"2020-06-24T16:16:59+00:00",0,4,0,0,0,0,48

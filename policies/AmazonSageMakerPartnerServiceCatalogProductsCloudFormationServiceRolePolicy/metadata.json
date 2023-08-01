@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonSageMakerPartnerServiceCatalogProductsCloudFormationServiceRolePolicy",
+    "PolicyId": "ANPAZKAPJZG4OHAJQZF2E",
+    "Arn": "arn:aws:iam::aws:policy/service-role/AmazonSageMakerPartnerServiceCatalogProductsCloudFormationServiceRolePolicy",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2023-08-01T15:06:46+00:00",
+    "UpdateDate": "2023-08-01T15:06:46+00:00"
+}
