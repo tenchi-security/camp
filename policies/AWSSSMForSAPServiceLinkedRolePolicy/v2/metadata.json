@@ -1,6 +1,6 @@
 {
     "VersionId": "v2",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2023-01-06T02:41:02+00:00",
     "PolicyName": "AWSSSMForSAPServiceLinkedRolePolicy"
 }

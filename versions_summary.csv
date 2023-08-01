@@ -1448,11 +1448,12 @@
 "DynamoDBReplicationServiceRolePolicy","v1",False,"2017-11-09T23:55:34+00:00",0,1,0,0,0,0,3
 "AWSCodeBuildDeveloperAccess","v3",False,"2018-10-03T18:56:53+00:00",0,1,0,0,0,0,2
 "AWSCodeBuildDeveloperAccess","v5",False,"2019-10-08T20:23:39+00:00",0,1,0,0,0,0,2
-"AWSCodeBuildDeveloperAccess","v13",True,"2020-09-14T16:03:44+00:00",0,2,0,0,0,0,10
+"AWSCodeBuildDeveloperAccess","v13",False,"2020-09-14T16:03:44+00:00",0,2,0,0,0,0,10
 "AWSCodeBuildDeveloperAccess","v7",False,"2019-11-05T22:12:45+00:00",0,2,0,0,0,0,6
 "AWSCodeBuildDeveloperAccess","v9",False,"2020-01-02T20:18:38+00:00",0,2,0,0,0,0,6
 "AWSCodeBuildDeveloperAccess","v8",False,"2019-11-25T20:36:49+00:00",0,2,0,0,0,0,6
 "AWSCodeBuildDeveloperAccess","v4",False,"2018-11-15T21:32:53+00:00",0,1,0,0,0,0,2
+"AWSCodeBuildDeveloperAccess","v14",True,"2023-07-31T23:06:10+00:00",0,2,0,0,0,0,10
 "AWSCodeBuildDeveloperAccess","v12",False,"2020-07-30T18:25:47+00:00",0,2,0,0,0,0,10
 "AWSCodeBuildDeveloperAccess","v11",False,"2020-07-21T04:23:02+00:00",0,2,0,0,0,0,6
 "AWSCodeBuildDeveloperAccess","v10",False,"2020-04-02T17:19:29+00:00",0,2,0,0,0,0,6
@@ -2280,11 +2281,12 @@
 "AWSElementalMediaConvertReadOnly","v1",False,"2018-06-25T19:25:14+00:00",0,0,0,0,0,0,0
 "AWSCodeBuildAdminAccess","v3",False,"2017-11-21T19:07:49+00:00",1,1,0,4,0,0,25
 "AWSCodeBuildAdminAccess","v5",False,"2018-10-03T18:20:00+00:00",1,2,0,4,0,0,31
+"AWSCodeBuildAdminAccess","v13",True,"2023-07-31T23:06:23+00:00",1,3,0,2,0,0,37
 "AWSCodeBuildAdminAccess","v7",False,"2019-11-05T20:40:27+00:00",1,3,0,4,0,0,36
 "AWSCodeBuildAdminAccess","v9",False,"2020-02-06T20:26:30+00:00",1,3,0,4,0,0,36
 "AWSCodeBuildAdminAccess","v8",False,"2019-11-05T22:12:30+00:00",1,3,0,4,0,0,36
 "AWSCodeBuildAdminAccess","v4",False,"2018-07-19T18:19:35+00:00",1,1,0,4,0,0,25
-"AWSCodeBuildAdminAccess","v12",True,"2020-09-14T16:03:39+00:00",1,3,0,4,0,0,36
+"AWSCodeBuildAdminAccess","v12",False,"2020-09-14T16:03:39+00:00",1,3,0,4,0,0,36
 "AWSCodeBuildAdminAccess","v11",False,"2020-07-21T04:22:37+00:00",1,3,0,4,0,0,36
 "AWSCodeBuildAdminAccess","v10",False,"2020-04-02T17:21:40+00:00",1,3,0,4,0,0,36
 "AWSCodeBuildAdminAccess","v2",False,"2017-10-25T19:39:52+00:00",1,1,0,4,0,0,25
@@ -2424,7 +2426,8 @@
 "AWSElasticBeanstalkMulticontainerDocker","v3",True,"2023-03-23T22:04:20+00:00",0,1,0,0,0,0,10
 "AWSElasticBeanstalkMulticontainerDocker","v2",False,"2016-06-06T23:45:37+00:00",0,1,0,0,0,0,9
 "AWSElasticBeanstalkMulticontainerDocker","v1",False,"2016-02-08T23:15:29+00:00",0,1,0,0,0,0,9
-"AWSSSMForSAPServiceLinkedRolePolicy","v2",True,"2023-01-06T02:41:02+00:00",0,0,0,0,0,0,0
+"AWSSSMForSAPServiceLinkedRolePolicy","v3",True,"2023-07-31T22:33:25+00:00",0,0,0,0,0,0,0
+"AWSSSMForSAPServiceLinkedRolePolicy","v2",False,"2023-01-06T02:41:02+00:00",0,0,0,0,0,0,0
 "AWSSSMForSAPServiceLinkedRolePolicy","v1",False,"2022-11-16T01:18:21+00:00",0,0,0,0,0,0,0
 "VMImportExportRoleForAWSConnector","v1",True,"2015-09-03T20:48:59+00:00",0,1,0,1,0,0,2
 "AmazonSageMakerServiceCatalogProductsCodeBuildServiceRolePolicy","v1",True,"2022-03-25T04:27:46+00:00",0,1,0,0,0,1,0
