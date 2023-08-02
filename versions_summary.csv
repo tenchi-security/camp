@@ -216,7 +216,8 @@
 "AWSApplicationMigrationAgentPolicy_v2","v1",True,"2022-06-06T14:14:38+00:00",0,0,0,0,0,0,0
 "AWSIoTWirelessReadOnlyAccess","v1",True,"2020-12-15T15:28:56+00:00",0,0,0,0,0,0,0
 "AWSCertificateManagerPrivateCAFullAccess","v1",True,"2018-10-23T16:54:50+00:00",1,1,0,4,0,0,13
-"AWSCloud9Administrator","v2",True,"2020-07-29T06:28:54+00:00",1,2,0,1,0,0,8
+"AWSCloud9Administrator","v3",True,"2023-08-02T08:54:40+00:00",1,2,0,1,0,0,13
+"AWSCloud9Administrator","v2",False,"2020-07-29T06:28:54+00:00",1,2,0,1,0,0,8
 "AWSCloud9Administrator","v1",False,"2017-11-30T16:17:28+00:00",1,2,0,1,0,0,8
 "APIGatewayServiceRolePolicy","v3",False,"2018-08-10T17:57:44+00:00",0,1,0,0,0,0,3
 "APIGatewayServiceRolePolicy","v5",False,"2019-07-25T20:03:52+00:00",0,1,0,0,0,0,3
@@ -872,7 +873,8 @@
 "AWSWAFConsoleReadOnlyAccess","v6",False,"2023-05-31T19:12:04+00:00",0,0,0,0,0,0,0
 "AWSWAFConsoleReadOnlyAccess","v1",False,"2020-04-06T18:43:24+00:00",0,0,0,0,0,0,0
 "AWSCloud9User","v3",False,"2018-07-02T08:46:37+00:00",0,1,0,1,0,0,1
-"AWSCloud9User","v4",True,"2020-07-29T06:26:43+00:00",0,1,0,1,0,0,1
+"AWSCloud9User","v5",True,"2023-08-02T08:53:58+00:00",0,1,0,1,0,0,1
+"AWSCloud9User","v4",False,"2020-07-29T06:26:43+00:00",0,1,0,1,0,0,1
 "AWSCloud9User","v2",False,"2018-04-26T21:16:21+00:00",0,1,0,1,0,0,1
 "AWSCloud9User","v1",False,"2017-11-30T16:16:17+00:00",0,2,0,1,0,0,2
 "AWSDeepRacerAccountAdminAccess","v1",True,"2021-10-28T01:27:13+00:00",1,1,0,0,0,0,16

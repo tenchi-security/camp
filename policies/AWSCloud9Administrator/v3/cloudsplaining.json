@@ -1,0 +1,30 @@
+{
+    "ServiceWildcard": [
+        "cloud9"
+    ],
+    "ServicesAffected": [
+        "cloud9",
+        "iam"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:CreateServiceLinkedRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "cloud9:ActivateEC2Remote",
+        "cloud9:CreateEnvironmentMembership",
+        "cloud9:DeleteEnvironment",
+        "cloud9:DeleteEnvironmentMembership",
+        "cloud9:ModifyTemporaryCredentialsOnEnvironmentEC2",
+        "cloud9:TagResource",
+        "cloud9:UntagResource",
+        "cloud9:UpdateEnvironment",
+        "cloud9:UpdateEnvironmentMembership",
+        "cloud9:UpdateEnvironmentSettings",
+        "cloud9:UpdateMembershipSettings",
+        "cloud9:UpdateSSHRemote",
+        "iam:CreateServiceLinkedRole"
+    ]
+}
