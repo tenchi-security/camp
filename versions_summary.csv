@@ -1011,7 +1011,8 @@
 "AWSApplicationDiscoveryAgentAccess","v2",True,"2020-02-24T22:26:45+00:00",0,0,0,0,0,0,0
 "AWSApplicationDiscoveryAgentAccess","v1",False,"2016-05-11T21:38:47+00:00",0,0,0,0,0,0,0
 "ElementalAppliancesSoftwareReadOnlyAccess","v1",True,"2020-04-01T22:31:09+00:00",0,0,0,0,0,0,0
-"AmazonEMRReadOnlyAccessPolicy_v2","v2",True,"2022-04-21T22:31:26+00:00",0,0,0,0,0,0,0
+"AmazonEMRReadOnlyAccessPolicy_v2","v3",True,"2023-08-02T19:15:33+00:00",0,0,0,0,0,0,0
+"AmazonEMRReadOnlyAccessPolicy_v2","v2",False,"2022-04-21T22:31:26+00:00",0,0,0,0,0,0,0
 "AmazonEMRReadOnlyAccessPolicy_v2","v1",False,"2021-03-12T01:39:16+00:00",0,0,0,0,0,0,0
 "AmazonRedshiftDataFullAccess","v3",False,"2022-07-08T01:44:27+00:00",0,2,0,0,0,0,3
 "AmazonRedshiftDataFullAccess","v5",True,"2023-04-07T18:18:32+00:00",0,1,0,0,0,0,2
