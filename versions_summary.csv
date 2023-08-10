@@ -2875,6 +2875,7 @@
 "AmazonEC2ContainerServiceforEC2Role","v5",False,"2017-05-17T23:09:13+00:00",0,3,0,0,0,1,10
 "AmazonRoute53AutoNamingRegistrantAccess","v1",True,"2018-03-12T22:33:20+00:00",0,2,0,0,0,0,5
 "CloudWatchFullAccessV2","v1",True,"2023-08-01T11:32:57+00:00",2,3,0,1,0,0,43
+"AWSMigrationHubRefactorSpaces-SSMAutomationPolicy","v1",True,"2023-08-10T15:08:14+00:00",0,0,0,0,0,0,0
 "AWSMigrationHubOrchestratorConsoleFullAccess","v1",True,"2022-04-20T02:26:28+00:00",1,1,0,1,0,0,1
 "OAMReadOnlyAccess","v1",True,"2022-11-27T13:29:39+00:00",0,0,0,0,0,0,0
 "AWSIdentitySyncReadOnlyAccess","v1",True,"2022-03-23T23:29:52+00:00",0,0,0,0,0,0,0
