@@ -1,6 +1,6 @@
 {
     "VersionId": "v2",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2021-09-27T20:24:58+00:00",
     "PolicyName": "AmazonS3ReadOnlyAccess"
 }
