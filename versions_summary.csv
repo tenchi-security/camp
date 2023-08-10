@@ -922,7 +922,8 @@
 "ResourceGroupsandTagEditorFullAccess","v4",False,"2019-03-07T21:54:03+00:00",1,1,0,0,0,0,8
 "ResourceGroupsandTagEditorFullAccess","v3",False,"2018-04-03T18:56:09+00:00",0,0,0,0,0,0,0
 "ResourceGroupsandTagEditorFullAccess","v2",False,"2017-12-19T21:00:42+00:00",0,0,0,0,0,0,0
-"ResourceGroupsandTagEditorFullAccess","v5",True,"2019-10-02T23:57:57+00:00",1,1,0,0,0,0,8
+"ResourceGroupsandTagEditorFullAccess","v6",True,"2023-08-10T13:29:19+00:00",1,1,0,0,0,0,9
+"ResourceGroupsandTagEditorFullAccess","v5",False,"2019-10-02T23:57:57+00:00",1,1,0,0,0,0,8
 "AutoScalingReadOnlyAccess","v1",True,"2017-01-12T19:39:35+00:00",0,0,0,0,0,0,0
 "AWSManagedServicesDeploymentToolkitPolicy","v1",False,"2022-06-09T18:33:03+00:00",0,0,0,0,0,0,0
 "AWSManagedServicesDeploymentToolkitPolicy","v3",True,"2023-05-10T17:48:44+00:00",0,0,0,0,0,0,0
@@ -2215,7 +2216,8 @@
 "AWSConfigRole","v9",False,"2017-04-10T21:04:46+00:00",0,2,0,0,1,0,6
 "AWSConfigRole","v5",False,"2016-07-15T19:01:29+00:00",0,2,0,0,1,0,6
 "ResourceGroupsandTagEditorReadOnlyAccess","v1",False,"2015-02-06T18:39:54+00:00",0,0,0,0,0,0,0
-"ResourceGroupsandTagEditorReadOnlyAccess","v2",True,"2019-03-07T19:43:17+00:00",0,0,0,0,0,0,0
+"ResourceGroupsandTagEditorReadOnlyAccess","v3",True,"2023-08-10T13:42:58+00:00",0,0,0,0,0,0,0
+"ResourceGroupsandTagEditorReadOnlyAccess","v2",False,"2019-03-07T19:43:17+00:00",0,0,0,0,0,0,0
 "ROSAWorkerInstancePolicy","v1",True,"2023-04-20T22:35:32+00:00",0,0,0,0,0,0,0
 "ApplicationDiscoveryServiceContinuousExportServiceRolePolicy","v1",False,"2018-08-09T20:22:01+00:00",0,3,0,0,0,0,6
 "ApplicationDiscoveryServiceContinuousExportServiceRolePolicy","v2",True,"2018-08-13T22:31:21+00:00",0,3,0,0,0,0,6
