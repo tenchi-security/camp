@@ -2790,8 +2790,9 @@
 "AWSHealth_EventProcessorServiceRolePolicy","v1",True,"2023-01-13T19:24:56+00:00",0,1,0,0,0,0,4
 "AmazonSageMakerPartnerServiceCatalogProductsCloudFormationServiceRolePolicy","v1",True,"2023-08-01T15:06:46+00:00",0,0,0,0,0,0,0
 "AmazonRedshiftServiceLinkedRolePolicy","v8",False,"2022-09-07T20:27:51+00:00",0,1,0,0,0,0,8
+"AmazonRedshiftServiceLinkedRolePolicy","v11",True,"2023-08-14T10:46:23+00:00",0,1,0,0,0,0,8
 "AmazonRedshiftServiceLinkedRolePolicy","v7",False,"2022-06-01T00:34:09+00:00",0,1,0,0,0,0,8
-"AmazonRedshiftServiceLinkedRolePolicy","v10",True,"2023-05-08T18:57:44+00:00",0,1,0,0,0,0,8
+"AmazonRedshiftServiceLinkedRolePolicy","v10",False,"2023-05-08T18:57:44+00:00",0,1,0,0,0,0,8
 "AmazonRedshiftServiceLinkedRolePolicy","v1",False,"2017-09-18T19:19:45+00:00",0,1,0,0,0,0,5
 "AmazonRedshiftServiceLinkedRolePolicy","v4",False,"2021-11-15T06:41:10+00:00",0,1,0,0,0,0,8
 "AmazonRedshiftServiceLinkedRolePolicy","v3",False,"2020-09-15T20:44:31+00:00",0,1,0,0,0,0,8
