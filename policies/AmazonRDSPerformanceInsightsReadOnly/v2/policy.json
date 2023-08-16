@@ -1,0 +1,60 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": "rds:DescribeDBInstances",
+            "Resource": "*"
+        },
+        {
+            "Effect": "Allow",
+            "Action": "rds:DescribeDBClusters",
+            "Resource": "*"
+        },
+        {
+            "Effect": "Allow",
+            "Action": "pi:DescribeDimensionKeys",
+            "Resource": "arn:aws:pi:*:*:metrics/rds/*"
+        },
+        {
+            "Effect": "Allow",
+            "Action": "pi:GetDimensionKeyDetails",
+            "Resource": "arn:aws:pi:*:*:metrics/rds/*"
+        },
+        {
+            "Effect": "Allow",
+            "Action": "pi:GetResourceMetadata",
+            "Resource": "arn:aws:pi:*:*:metrics/rds/*"
+        },
+        {
+            "Effect": "Allow",
+            "Action": "pi:GetResourceMetrics",
+            "Resource": "arn:aws:pi:*:*:metrics/rds/*"
+        },
+        {
+            "Effect": "Allow",
+            "Action": "pi:ListAvailableResourceDimensions",
+            "Resource": "arn:aws:pi:*:*:metrics/rds/*"
+        },
+        {
+            "Effect": "Allow",
+            "Action": "pi:ListAvailableResourceMetrics",
+            "Resource": "arn:aws:pi:*:*:metrics/rds/*"
+        },
+        {
+            "Effect": "Allow",
+            "Action": "pi:GetPerformanceAnalysisReport",
+            "Resource": "arn:aws:pi:*:*:perf-reports/rds/*/*"
+        },
+        {
+            "Effect": "Allow",
+            "Action": "pi:ListPerformanceAnalysisReports",
+            "Resource": "arn:aws:pi:*:*:perf-reports/rds/*/*"
+        },
+        {
+            "Effect": "Allow",
+            "Action": "pi:ListTagsForResource",
+            "Resource": "arn:aws:pi:*:*:*/rds/*"
+        }
+    ]
+}
