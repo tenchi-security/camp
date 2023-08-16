@@ -1240,8 +1240,9 @@
 "IAMUserChangePassword","v1",False,"2016-11-15T00:25:16+00:00",0,0,0,0,0,0,0
 "IAMUserChangePassword","v2",True,"2016-11-15T23:18:55+00:00",0,0,0,0,0,0,0
 "AWSCodeDeployRole","v8",False,"2020-05-19T17:11:39+00:00",0,5,0,0,0,0,20
+"AWSCodeDeployRole","v11",True,"2023-08-16T20:38:58+00:00",0,5,0,0,0,0,24
 "AWSCodeDeployRole","v7",False,"2019-09-23T21:47:54+00:00",0,5,0,0,0,0,19
-"AWSCodeDeployRole","v10",True,"2023-02-03T18:04:16+00:00",0,5,0,0,0,0,24
+"AWSCodeDeployRole","v10",False,"2023-02-03T18:04:16+00:00",0,5,0,0,0,0,24
 "AWSCodeDeployRole","v1",False,"2015-05-04T18:05:37+00:00",0,1,0,0,0,0,4
 "AWSCodeDeployRole","v4",False,"2017-01-24T23:42:04+00:00",0,3,0,0,0,0,16
 "AWSCodeDeployRole","v3",False,"2016-09-14T22:11:01+00:00",0,2,0,0,0,0,5

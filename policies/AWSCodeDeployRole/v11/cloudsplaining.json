@@ -1,0 +1,40 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "autoscaling",
+        "cloudwatch",
+        "ec2",
+        "elasticloadbalancing",
+        "sns"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "autoscaling:AttachLoadBalancerTargetGroups",
+        "autoscaling:AttachLoadBalancers",
+        "autoscaling:CompleteLifecycleAction",
+        "autoscaling:CreateAutoScalingGroup",
+        "autoscaling:CreateOrUpdateTags",
+        "autoscaling:DeleteAutoScalingGroup",
+        "autoscaling:DeleteLifecycleHook",
+        "autoscaling:EnableMetricsCollection",
+        "autoscaling:PutLifecycleHook",
+        "autoscaling:PutNotificationConfiguration",
+        "autoscaling:PutScalingPolicy",
+        "autoscaling:PutScheduledUpdateGroupAction",
+        "autoscaling:PutWarmPool",
+        "autoscaling:RecordLifecycleActionHeartbeat",
+        "autoscaling:ResumeProcesses",
+        "autoscaling:SuspendProcesses",
+        "autoscaling:UpdateAutoScalingGroup",
+        "cloudwatch:PutMetricAlarm",
+        "ec2:TerminateInstances",
+        "elasticloadbalancing:DeregisterInstancesFromLoadBalancer",
+        "elasticloadbalancing:DeregisterTargets",
+        "elasticloadbalancing:RegisterInstancesWithLoadBalancer",
+        "elasticloadbalancing:RegisterTargets",
+        "sns:Publish"
+    ]
+}
