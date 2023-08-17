@@ -3257,6 +3257,7 @@
 "AWSBackupFullAccess","v6",False,"2020-11-09T16:49:24+00:00",2,5,0,3,0,0,26
 "AWSBackupFullAccess","v9",False,"2021-11-23T22:00:22+00:00",2,6,0,4,0,0,34
 "AWSBackupFullAccess","v5",False,"2020-09-14T22:35:25+00:00",2,5,0,3,0,0,26
+"AWSEntityResolutionConsoleFullAccess","v1",True,"2023-08-17T17:54:14+00:00",1,0,0,0,0,0,0
 "AWSRoboMakerReadOnlyAccess","v1",False,"2018-11-26T05:30:50+00:00",0,0,0,0,0,0,0
 "AWSRoboMakerReadOnlyAccess","v2",True,"2020-08-28T23:10:18+00:00",0,0,0,0,0,0,0
 "AmazonEventBridgeSchedulerFullAccess","v1",True,"2022-11-10T18:37:25+00:00",1,0,0,0,0,0,0
