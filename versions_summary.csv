@@ -2462,6 +2462,7 @@
 "AWSGlueConsoleSageMakerNotebookFullAccess","v1",False,"2018-10-05T17:52:35+00:00",1,2,1,2,0,0,48
 "AWSGlueConsoleSageMakerNotebookFullAccess","v3",True,"2021-07-15T15:24:19+00:00",1,2,1,2,0,0,48
 "AWSGlueConsoleSageMakerNotebookFullAccess","v2",False,"2019-09-26T17:14:11+00:00",1,2,1,2,0,0,48
+"AWSEntityResolutionConsoleReadOnlyAccess","v1",True,"2023-08-17T18:18:36+00:00",0,0,0,0,0,0,0
 "AWSApplicationAutoscalingDynamoDBTablePolicy","v1",True,"2017-10-20T21:34:57+00:00",0,2,0,0,0,0,3
 "ReadOnlyAccess","v96",False,"2023-02-10T22:36:36+00:00",0,9,0,0,4,9,4
 "ReadOnlyAccess","v22",False,"2017-01-26T21:25:39+00:00",0,3,0,0,4,1,4
