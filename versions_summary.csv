@@ -3374,9 +3374,10 @@
 "AmazonRDSFullAccess","v11",False,"2023-03-15T13:44:54+00:00",2,4,0,4,0,0,96
 "AmazonRDSFullAccess","v7",False,"2020-08-27T23:38:56+00:00",2,4,0,4,0,0,88
 "AmazonRDSFullAccess","v10",False,"2022-12-19T20:09:11+00:00",2,4,0,4,0,0,96
+"AmazonRDSFullAccess","v14",True,"2023-08-17T23:00:17+00:00",2,4,0,4,0,0,99
 "AmazonRDSFullAccess","v1",False,"2015-02-06T18:40:52+00:00",1,1,0,3,0,0,84
 "AmazonRDSFullAccess","v4",False,"2017-09-14T23:40:45+00:00",2,1,0,3,0,0,84
-"AmazonRDSFullAccess","v13",True,"2023-04-14T12:27:01+00:00",2,4,0,4,0,0,96
+"AmazonRDSFullAccess","v13",False,"2023-04-14T12:27:01+00:00",2,4,0,4,0,0,96
 "AmazonRDSFullAccess","v3",False,"2017-08-28T21:35:27+00:00",1,1,0,3,0,0,84
 "AmazonRDSFullAccess","v2",False,"2015-12-16T21:02:23+00:00",1,1,0,3,0,0,84
 "AmazonRDSFullAccess","v12",False,"2023-03-30T12:05:22+00:00",2,4,0,4,0,0,96
