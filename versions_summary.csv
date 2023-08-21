@@ -2304,6 +2304,7 @@
 "AWS_ConfigRole","v23",False,"2023-03-21T18:15:20+00:00",0,2,0,2,0,0,7
 "AWS_ConfigRole","v1",False,"2020-09-15T20:30:30+00:00",0,1,0,0,0,0,5
 "AWS_ConfigRole","v24",False,"2023-04-12T22:09:12+00:00",0,2,0,2,0,0,7
+"AWSArtifactServiceRolePolicy","v1",True,"2023-08-21T20:27:31+00:00",0,0,0,0,0,0,0
 "DynamoDBKinesisReplicationServiceRolePolicy","v1",True,"2020-11-12T00:43:25+00:00",0,2,0,0,0,0,3
 "AWSServiceCatalogAdminReadOnlyAccess","v1",True,"2019-10-25T18:53:38+00:00",0,0,0,0,0,0,0
 "AmazonDevOpsGuruConsoleFullAccess","v2",True,"2022-08-25T18:18:53+00:00",1,1,0,0,0,0,2

@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSArtifactServiceRolePolicy",
+    "PolicyId": "ANPAZKAPJZG4JDUWQCCQA",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/AWSArtifactServiceRolePolicy",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2023-08-21T20:27:31+00:00",
+    "UpdateDate": "2023-08-21T20:27:31+00:00"
+}
