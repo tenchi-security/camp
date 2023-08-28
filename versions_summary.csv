@@ -2870,8 +2870,9 @@
 "ComputeOptimizerReadOnlyAccess","v4",False,"2021-08-26T18:34:10+00:00",0,0,0,0,0,0,0
 "ComputeOptimizerReadOnlyAccess","v3",False,"2020-12-23T18:00:54+00:00",0,0,0,0,0,0,0
 "ComputeOptimizerReadOnlyAccess","v5",False,"2021-11-29T16:03:07+00:00",0,0,0,0,0,0,0
+"ComputeOptimizerReadOnlyAccess","v7",True,"2023-08-28T19:22:58+00:00",0,0,0,0,0,0,0
 "ComputeOptimizerReadOnlyAccess","v2",False,"2020-11-04T20:57:54+00:00",0,0,0,0,0,0,0
-"ComputeOptimizerReadOnlyAccess","v6",True,"2022-12-22T17:34:19+00:00",0,0,0,0,0,0,0
+"ComputeOptimizerReadOnlyAccess","v6",False,"2022-12-22T17:34:19+00:00",0,0,0,0,0,0,0
 "ComputeOptimizerReadOnlyAccess","v1",False,"2020-03-07T00:11:02+00:00",0,0,0,0,0,0,0
 "AWSDataLifecycleManagerServiceRoleForAMIManagement","v2",True,"2021-08-19T17:03:44+00:00",0,1,0,0,0,0,5
 "AWSDataLifecycleManagerServiceRoleForAMIManagement","v1",False,"2020-10-21T19:39:41+00:00",0,1,0,0,0,0,5
