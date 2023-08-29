@@ -32,8 +32,9 @@
 "IVSRecordToS3","v1",True,"2020-12-05T00:10:43+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerCanvasFullAccess","v4",False,"2023-05-04T17:03:12+00:00",0,4,0,0,0,1,3
 "AmazonSageMakerCanvasFullAccess","v3",False,"2023-03-24T15:28:26+00:00",0,4,0,0,0,1,3
-"AmazonSageMakerCanvasFullAccess","v5",True,"2023-07-24T23:16:37+00:00",0,4,0,0,0,1,3
+"AmazonSageMakerCanvasFullAccess","v5",False,"2023-07-24T23:16:37+00:00",0,4,0,0,0,1,3
 "AmazonSageMakerCanvasFullAccess","v2",False,"2022-12-06T23:10:32+00:00",0,4,0,0,0,1,3
+"AmazonSageMakerCanvasFullAccess","v6",True,"2023-08-29T19:06:22+00:00",0,4,0,0,0,1,3
 "AmazonSageMakerCanvasFullAccess","v1",False,"2022-09-09T00:44:25+00:00",0,4,0,0,0,1,3
 "AmazonKeyspacesReadOnlyAccess","v3",True,"2022-07-07T14:54:05+00:00",0,0,0,0,0,0,0
 "AmazonKeyspacesReadOnlyAccess","v2",False,"2021-06-01T19:32:47+00:00",0,0,0,0,0,0,0
