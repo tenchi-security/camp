@@ -2231,6 +2231,7 @@
 "ElementalActivationsGenerateLicenses","v1",True,"2020-08-28T18:28:58+00:00",0,0,0,0,0,0,0
 "AWSWellArchitectedOrganizationsServiceRolePolicy","v2",True,"2022-07-25T18:03:31+00:00",0,0,0,0,0,0,0
 "AWSWellArchitectedOrganizationsServiceRolePolicy","v1",False,"2022-06-23T17:15:26+00:00",0,0,0,0,0,0,0
+"AmazonLaunchWizardFullAccessV2","v1",True,"2023-09-01T17:14:56+00:00",2,8,0,2,3,1,87
 "AWSECRPullThroughCache_ServiceRolePolicy","v1",True,"2021-11-26T21:51:09+00:00",0,1,0,0,0,1,4
 "AWSBudgetsActionsWithAWSResourceControlAccess","v1",True,"2020-10-15T17:19:12+00:00",1,2,0,1,0,0,6
 "AmazonInspectorFullAccess","v4",False,"2017-11-01T18:20:39+00:00",1,0,0,0,0,0,0

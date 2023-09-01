@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonLaunchWizardFullAccessV2",
+    "PolicyId": "ANPAZKAPJZG4BVNZXUELJ",
+    "Arn": "arn:aws:iam::aws:policy/AmazonLaunchWizardFullAccessV2",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2023-09-01T17:14:56+00:00",
+    "UpdateDate": "2023-09-01T17:14:56+00:00"
+}
