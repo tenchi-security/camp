@@ -1080,8 +1080,9 @@
 "AWSImageBuilderReadOnlyAccess","v1",True,"2019-12-19T22:29:23+00:00",0,0,0,0,0,0,0
 "AmazonInspector2ServiceRolePolicy","v4",False,"2022-08-23T13:23:52+00:00",0,1,0,0,0,1,0
 "AmazonInspector2ServiceRolePolicy","v3",False,"2022-08-15T17:38:32+00:00",0,1,0,0,0,1,0
+"AmazonInspector2ServiceRolePolicy","v11",True,"2023-09-07T13:20:55+00:00",0,2,0,0,0,1,1
 "AmazonInspector2ServiceRolePolicy","v8",False,"2023-04-14T14:12:30+00:00",0,1,0,0,0,1,0
-"AmazonInspector2ServiceRolePolicy","v10",True,"2023-05-31T18:30:12+00:00",0,1,0,0,0,1,0
+"AmazonInspector2ServiceRolePolicy","v10",False,"2023-05-31T18:30:12+00:00",0,1,0,0,0,1,0
 "AmazonInspector2ServiceRolePolicy","v5",False,"2022-11-17T20:32:51+00:00",0,1,0,0,0,1,0
 "AmazonInspector2ServiceRolePolicy","v9",False,"2023-04-28T18:13:17+00:00",0,1,0,0,0,1,0
 "AmazonInspector2ServiceRolePolicy","v7",False,"2023-02-24T17:57:17+00:00",0,1,0,0,0,1,0
