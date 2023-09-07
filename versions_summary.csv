@@ -2302,7 +2302,7 @@
 "AWS_ConfigRole","v10",False,"2022-02-10T18:35:11+00:00",0,1,0,0,0,0,5
 "AWS_ConfigRole","v5",False,"2021-05-11T00:14:06+00:00",0,1,0,0,0,0,5
 "AWS_ConfigRole","v17",False,"2022-09-14T19:21:07+00:00",0,2,0,2,0,0,7
-"AWS_ConfigRole","v25",True,"2023-06-09T00:15:20+00:00",0,2,0,2,0,0,7
+"AWS_ConfigRole","v25",False,"2023-06-09T00:15:20+00:00",0,2,0,2,0,0,7
 "AWS_ConfigRole","v9",False,"2022-01-21T18:35:41+00:00",0,1,0,0,0,0,5
 "AWS_ConfigRole","v7",False,"2021-07-27T22:41:23+00:00",0,1,0,0,0,0,5
 "AWS_ConfigRole","v22",False,"2023-03-02T22:08:11+00:00",0,2,0,2,0,0,7
@@ -2310,6 +2310,7 @@
 "AWS_ConfigRole","v2",False,"2020-12-18T22:10:53+00:00",0,1,0,0,0,0,5
 "AWS_ConfigRole","v20",False,"2023-01-05T22:14:48+00:00",0,2,0,2,0,0,7
 "AWS_ConfigRole","v6",False,"2021-06-07T23:02:26+00:00",0,1,0,0,0,0,5
+"AWS_ConfigRole","v26",True,"2023-09-07T20:23:32+00:00",0,2,0,2,0,0,11
 "AWS_ConfigRole","v23",False,"2023-03-21T18:15:20+00:00",0,2,0,2,0,0,7
 "AWS_ConfigRole","v1",False,"2020-09-15T20:30:30+00:00",0,1,0,0,0,0,5
 "AWS_ConfigRole","v24",False,"2023-04-12T22:09:12+00:00",0,2,0,2,0,0,7
@@ -2335,7 +2336,8 @@
 "PowerUserAccess","v1",False,"2015-02-06T18:39:47+00:00",0,200,2,242,5,23,3912
 "AWSCodeDeployRoleForLambdaLimited","v1",True,"2020-08-17T17:14:14+00:00",0,2,0,0,0,0,2
 "AmazonKinesisAnalyticsReadOnly","v1",True,"2016-09-21T18:16:43+00:00",0,0,0,0,0,0,0
-"AmazonChimeSDKMediaPipelinesServiceLinkedRolePolicy","v1",True,"2022-04-04T22:02:05+00:00",0,1,0,0,0,0,2
+"AmazonChimeSDKMediaPipelinesServiceLinkedRolePolicy","v2",True,"2023-09-07T20:08:32+00:00",0,1,0,0,0,0,2
+"AmazonChimeSDKMediaPipelinesServiceLinkedRolePolicy","v1",False,"2022-04-04T22:02:05+00:00",0,1,0,0,0,0,2
 "AWSMarketplaceGetEntitlements","v1",True,"2017-03-27T19:37:24+00:00",0,0,0,0,0,0,0
 "AWSDataLifecycleManagerServiceRole","v4",False,"2019-12-19T19:42:29+00:00",0,1,0,0,0,0,6
 "AWSDataLifecycleManagerServiceRole","v3",False,"2019-11-20T19:27:44+00:00",0,1,0,0,0,0,5

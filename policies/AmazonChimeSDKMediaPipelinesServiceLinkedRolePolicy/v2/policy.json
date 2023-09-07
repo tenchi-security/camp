@@ -1,0 +1,36 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": [
+                "kinesisvideo:GetDataEndpoint",
+                "kinesisvideo:PutMedia",
+                "kinesisvideo:UpdateDataRetention",
+                "kinesisvideo:DescribeStream",
+                "kinesisvideo:CreateStream"
+            ],
+            "Resource": [
+                "arn:aws:kinesisvideo:*:*:stream/ChimeMediaPipelines-*"
+            ]
+        },
+        {
+            "Effect": "Allow",
+            "Action": [
+                "kinesisvideo:ListStreams"
+            ],
+            "Resource": [
+                "*"
+            ]
+        },
+        {
+            "Effect": "Allow",
+            "Action": [
+                "chime:GetMeeting",
+                "chime:CreateAttendee",
+                "chime:DeleteAttendee"
+            ],
+            "Resource": "*"
+        }
+    ]
+}
