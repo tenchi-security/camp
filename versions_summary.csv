@@ -230,7 +230,8 @@
 "AmazonRDSBetaServiceRolePolicy","v1",False,"2018-05-02T19:41:04+00:00",0,2,0,0,0,0,8
 "AWSShieldServiceRolePolicy","v1",True,"2021-11-17T19:17:46+00:00",0,1,0,1,0,0,1
 "AmazonSESFullAccess","v1",True,"2015-02-06T18:41:02+00:00",1,1,0,3,0,0,36
-"AWSElasticDisasterRecoveryReadOnlyAccess","v2",True,"2022-05-29T08:27:37+00:00",0,0,0,0,0,0,0
+"AWSElasticDisasterRecoveryReadOnlyAccess","v3",True,"2023-09-13T07:42:45+00:00",0,0,0,0,0,0,0
+"AWSElasticDisasterRecoveryReadOnlyAccess","v2",False,"2022-05-29T08:27:37+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryReadOnlyAccess","v1",False,"2021-11-17T10:50:05+00:00",0,0,0,0,0,0,0
 "IAMReadOnlyAccess","v4",True,"2018-01-25T19:11:27+00:00",0,0,0,0,0,0,0
 "IAMReadOnlyAccess","v3",False,"2016-09-06T17:06:37+00:00",0,0,0,0,0,0,0
@@ -2237,6 +2238,7 @@
 "ElementalActivationsGenerateLicenses","v1",True,"2020-08-28T18:28:58+00:00",0,0,0,0,0,0,0
 "AWSWellArchitectedOrganizationsServiceRolePolicy","v2",True,"2022-07-25T18:03:31+00:00",0,0,0,0,0,0,0
 "AWSWellArchitectedOrganizationsServiceRolePolicy","v1",False,"2022-06-23T17:15:26+00:00",0,0,0,0,0,0,0
+"AWSElasticDisasterRecoveryLaunchActionsPolicy","v1",True,"2023-09-13T07:38:26+00:00",0,0,0,0,0,0,0
 "AmazonLaunchWizardFullAccessV2","v1",True,"2023-09-01T17:14:56+00:00",2,8,0,2,3,1,87
 "AWSECRPullThroughCache_ServiceRolePolicy","v1",True,"2021-11-26T21:51:09+00:00",0,1,0,0,0,1,4
 "AWSBudgetsActionsWithAWSResourceControlAccess","v1",True,"2020-10-15T17:19:12+00:00",1,2,0,1,0,0,6
