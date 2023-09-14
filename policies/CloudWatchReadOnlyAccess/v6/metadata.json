@@ -1,6 +1,6 @@
 {
     "VersionId": "v6",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2023-06-06T17:33:13+00:00",
     "PolicyName": "CloudWatchReadOnlyAccess"
 }
