@@ -226,7 +226,7 @@
 "ReadOnlyAccess","v42",False,"2018-10-15T18:41:16+00:00",0,9,0,1,4,11,7
 "ReadOnlyAccess","v53",False,"2019-08-21T18:46:30+00:00",0,9,0,1,4,11,5
 "ReadOnlyAccess","v91",False,"2022-08-24T20:17:43+00:00",0,9,0,0,4,9,4
-"ReadOnlyAccess","v104",True,"2023-08-07T14:47:52+00:00",0,9,0,0,4,9,4
+"ReadOnlyAccess","v104",False,"2023-08-07T14:47:52+00:00",0,9,0,0,4,9,4
 "ReadOnlyAccess","v77",False,"2021-05-21T17:31:19+00:00",0,10,0,0,4,10,6
 "ReadOnlyAccess","v30",False,"2017-11-06T23:05:26+00:00",0,10,0,1,4,13,9
 "ReadOnlyAccess","v100",False,"2023-05-08T15:09:55+00:00",0,9,0,0,4,9,4
@@ -279,6 +279,7 @@
 "ReadOnlyAccess","v87",False,"2022-05-23T20:16:18+00:00",0,9,0,0,4,9,4
 "ReadOnlyAccess","v9",False,"2016-01-28T00:02:58+00:00",0,2,0,0,1,1,1
 "ReadOnlyAccess","v96",False,"2023-02-10T22:36:36+00:00",0,9,0,0,4,9,4
+"ReadOnlyAccess","v105",True,"2023-09-14T19:49:29+00:00",0,10,0,0,4,9,5
 "ReadOnlyAccess","v40",False,"2018-09-04T21:08:13+00:00",0,9,0,1,4,11,7
 "ReadOnlyAccess","v28",False,"2017-06-29T19:42:10+00:00",0,11,0,1,4,13,13
 "ReadOnlyAccess","v41",False,"2018-09-12T22:05:40+00:00",0,9,0,1,4,11,7
@@ -340,7 +341,8 @@
 "AWSEC2CapacityReservationFleetRolePolicy","v1",True,"2021-09-29T14:43:09+00:00",0,0,0,0,0,0,0
 "AmazonHealthLakeReadOnlyAccess","v1",True,"2021-02-17T02:43:31+00:00",0,0,0,0,0,0,0
 "OAMFullAccess","v1",True,"2022-11-27T13:38:29+00:00",1,0,0,0,0,0,0
-"AmazonDataZoneEnvironmentRolePermissionsBoundary","v1",True,"2023-09-11T23:38:22+00:00",2,9,0,2,0,1,115
+"AmazonDataZoneEnvironmentRolePermissionsBoundary","v2",True,"2023-09-14T19:33:50+00:00",2,9,0,2,0,1,115
+"AmazonDataZoneEnvironmentRolePermissionsBoundary","v1",False,"2023-09-11T23:38:22+00:00",2,9,0,2,0,1,115
 "AWSCleanRoomsReadOnlyAccess","v1",True,"2023-01-12T16:10:48+00:00",0,0,0,0,0,0,0
 "AWSSupportPlansFullAccess","v2",True,"2023-05-09T21:07:01+00:00",0,0,0,0,0,0,0
 "AWSSupportPlansFullAccess","v1",False,"2022-09-27T18:19:30+00:00",0,0,0,0,0,0,0
