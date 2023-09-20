@@ -3,10 +3,10 @@
     "PolicyId": "ANPAIPRD7PYYQVYPDME4K",
     "Arn": "arn:aws:iam::aws:policy/AWSCloudMapDiscoverInstanceAccess",
     "Path": "/",
-    "DefaultVersionId": "v1",
+    "DefaultVersionId": "v2",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2018-11-29T00:02:42+00:00",
-    "UpdateDate": "2018-11-29T00:02:42+00:00"
+    "UpdateDate": "2023-09-20T21:48:09+00:00"
 }
