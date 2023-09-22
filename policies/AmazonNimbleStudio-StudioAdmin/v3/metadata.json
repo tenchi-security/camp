@@ -1,6 +1,6 @@
 {
     "VersionId": "v3",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2022-12-20T19:25:22+00:00",
     "PolicyName": "AmazonNimbleStudio-StudioAdmin"
 }
