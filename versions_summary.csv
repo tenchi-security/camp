@@ -450,6 +450,7 @@
 "MonitronServiceRolePolicy","v1",True,"2022-05-02T19:22:03+00:00",0,0,0,0,0,0,0
 "AWSUserNotificationsServiceLinkedRolePolicy","v1",True,"2023-04-19T13:28:34+00:00",0,0,0,0,0,0,0
 "AWSImageBuilderReadOnlyAccess","v1",True,"2019-12-19T22:29:23+00:00",0,0,0,0,0,0,0
+"AmazonDataZoneRedshiftGlueProvisioningPolicy","v1",True,"2023-09-22T20:19:54+00:00",0,6,0,0,0,0,12
 "AWSElasticLoadBalancingServiceRolePolicy","v2",False,"2018-05-14T21:18:07+00:00",0,1,0,0,0,0,12
 "AWSElasticLoadBalancingServiceRolePolicy","v6",False,"2020-05-19T16:40:28+00:00",0,1,0,0,0,0,14
 "AWSElasticLoadBalancingServiceRolePolicy","v1",False,"2017-09-19T22:19:04+00:00",0,1,0,0,0,0,12
@@ -1360,7 +1361,8 @@
 "AWSResourceGroupsReadOnlyAccess","v1",False,"2018-03-07T10:27:04+00:00",0,0,0,0,0,0,0
 "AmazonInspector2ReadOnlyAccess","v2",False,"2023-05-02T18:51:40+00:00",0,0,0,0,0,0,0
 "AmazonInspector2ReadOnlyAccess","v1",False,"2022-01-21T14:45:14+00:00",0,0,0,0,0,0,0
-"AmazonInspector2ReadOnlyAccess","v4",True,"2023-06-23T20:12:39+00:00",0,0,0,0,0,0,0
+"AmazonInspector2ReadOnlyAccess","v4",False,"2023-06-23T20:12:39+00:00",0,0,0,0,0,0,0
+"AmazonInspector2ReadOnlyAccess","v5",True,"2023-09-22T20:56:53+00:00",0,0,0,0,0,0,0
 "AmazonInspector2ReadOnlyAccess","v3",False,"2023-06-05T21:54:19+00:00",0,0,0,0,0,0,0
 "AWSLambdaKinesisExecutionRole","v2",True,"2018-11-19T20:09:24+00:00",0,1,0,0,0,0,3
 "AWSLambdaKinesisExecutionRole","v1",False,"2015-04-09T15:14:16+00:00",0,1,0,0,0,0,3
@@ -1477,6 +1479,7 @@
 "AmazonNimbleStudio-StudioUser","v4",False,"2022-12-20T19:31:23+00:00",0,3,0,2,0,0,10
 "AmazonNimbleStudio-StudioUser","v5",True,"2023-09-22T17:45:14+00:00",0,3,0,2,0,0,10
 "AmazonNimbleStudio-StudioUser","v3",False,"2021-11-01T20:01:52+00:00",0,3,0,1,0,0,7
+"AmazonDataZoneFullAccess","v1",True,"2023-09-22T20:06:52+00:00",1,1,0,4,0,0,4
 "AmazonRoute53RecoveryReadinessReadOnlyAccess","v2",True,"2021-11-09T20:14:51+00:00",0,0,0,0,0,0,0
 "AmazonRoute53RecoveryReadinessReadOnlyAccess","v1",False,"2021-08-18T18:11:33+00:00",0,0,0,0,0,0,0
 "CloudWatchLogsFullAccess","v1",True,"2015-02-06T18:40:02+00:00",1,1,0,2,0,0,16
@@ -1528,6 +1531,7 @@
 "CloudWatchFullAccess","v4",True,"2022-11-27T13:23:49+00:00",3,3,0,4,0,0,45
 "CloudWatchFullAccess","v3",False,"2018-08-09T19:10:43+00:00",3,3,0,6,0,0,40
 "AWSRolesAnywhereServicePolicy","v1",True,"2022-07-05T15:26:11+00:00",0,0,0,0,0,0,0
+"AmazonDataZoneFullUserAccess","v1",True,"2023-09-22T21:06:41+00:00",0,0,0,0,0,0,0
 "AWSCloudHSMFullAccess","v1",True,"2015-02-06T18:39:51+00:00",1,1,0,0,0,0,9
 "ServerMigrationServiceLaunchRole","v2",False,"2020-07-20T21:56:41+00:00",0,2,0,1,0,0,6
 "ServerMigrationServiceLaunchRole","v1",False,"2018-11-26T19:53:06+00:00",0,1,0,0,0,0,5
@@ -3216,6 +3220,7 @@
 "AWSResourceExplorerServiceRolePolicy","v3",False,"2023-01-26T14:43:30+00:00",0,0,0,0,0,0,0
 "AmazonSQSFullAccess","v1",True,"2015-02-06T18:41:07+00:00",1,1,0,4,0,0,14
 "AmazonTranscribeFullAccess","v1",True,"2018-04-04T16:06:16+00:00",1,0,0,0,0,0,0
+"AmazonDataZoneRedshiftManageAccessRolePolicy","v1",True,"2023-09-22T20:15:14+00:00",0,0,0,0,0,0,0
 "DynamoDBReplicationServiceRolePolicy","v2",False,"2018-02-05T19:08:52+00:00",0,1,0,0,0,0,3
 "DynamoDBReplicationServiceRolePolicy","v6",False,"2020-09-09T18:43:04+00:00",0,2,0,1,0,0,6
 "DynamoDBReplicationServiceRolePolicy","v1",False,"2017-11-09T23:55:34+00:00",0,1,0,0,0,0,3
@@ -3308,6 +3313,7 @@
 "KafkaServiceRolePolicy","v1",False,"2018-11-15T23:31:48+00:00",0,1,0,1,0,0,5
 "KafkaServiceRolePolicy","v4",True,"2023-04-28T00:39:35+00:00",0,2,0,3,0,0,7
 "KafkaServiceRolePolicy","v3",False,"2020-08-26T20:40:53+00:00",0,2,0,3,0,0,7
+"AmazonDataZoneGlueManageAccessRolePolicy","v1",True,"2023-09-22T20:21:53+00:00",0,2,0,4,0,0,5
 "AWSGlueServiceRole","v2",False,"2017-08-17T18:08:13+00:00",1,2,1,2,0,0,45
 "AWSGlueServiceRole","v1",False,"2017-08-14T13:37:21+00:00",1,2,1,2,0,0,45
 "AWSGlueServiceRole","v4",False,"2018-06-25T18:23:09+00:00",1,2,1,2,0,0,46

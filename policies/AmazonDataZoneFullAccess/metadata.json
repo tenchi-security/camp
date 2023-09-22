@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonDataZoneFullAccess",
+    "PolicyId": "ANPAZKAPJZG4M44MZFTQR",
+    "Arn": "arn:aws:iam::aws:policy/AmazonDataZoneFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2023-09-22T20:06:52+00:00",
+    "UpdateDate": "2023-09-22T20:06:52+00:00"
+}

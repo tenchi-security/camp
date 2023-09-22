@@ -1,0 +1,23 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": [
+                "organizations:ListDelegatedAdministrators",
+                "organizations:ListAWSServiceAccessForOrganization",
+                "organizations:DescribeOrganizationalUnit",
+                "organizations:DescribeAccount",
+                "organizations:DescribeOrganization",
+                "inspector2:BatchGet*",
+                "inspector2:List*",
+                "inspector2:Describe*",
+                "inspector2:Get*",
+                "inspector2:Search*",
+                "codeguru-security:BatchGetFindings",
+                "codeguru-security:GetAccountConfiguration"
+            ],
+            "Resource": "*"
+        }
+    ]
+}
