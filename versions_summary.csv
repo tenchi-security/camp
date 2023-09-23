@@ -450,7 +450,8 @@
 "MonitronServiceRolePolicy","v1",True,"2022-05-02T19:22:03+00:00",0,0,0,0,0,0,0
 "AWSUserNotificationsServiceLinkedRolePolicy","v1",True,"2023-04-19T13:28:34+00:00",0,0,0,0,0,0,0
 "AWSImageBuilderReadOnlyAccess","v1",True,"2019-12-19T22:29:23+00:00",0,0,0,0,0,0,0
-"AmazonDataZoneRedshiftGlueProvisioningPolicy","v1",True,"2023-09-22T20:19:54+00:00",0,6,0,0,0,0,12
+"AmazonDataZoneRedshiftGlueProvisioningPolicy","v2",True,"2023-09-23T00:50:47+00:00",0,6,0,0,0,0,12
+"AmazonDataZoneRedshiftGlueProvisioningPolicy","v1",False,"2023-09-22T20:19:54+00:00",0,6,0,0,0,0,12
 "AWSElasticLoadBalancingServiceRolePolicy","v2",False,"2018-05-14T21:18:07+00:00",0,1,0,0,0,0,12
 "AWSElasticLoadBalancingServiceRolePolicy","v6",False,"2020-05-19T16:40:28+00:00",0,1,0,0,0,0,14
 "AWSElasticLoadBalancingServiceRolePolicy","v1",False,"2017-09-19T22:19:04+00:00",0,1,0,0,0,0,12

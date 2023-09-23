@@ -1,0 +1,29 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "athena",
+        "glue",
+        "iam",
+        "kms",
+        "logs",
+        "s3"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "athena:CreateWorkGroup",
+        "athena:DeleteWorkGroup",
+        "athena:TagResource",
+        "glue:CreateDatabase",
+        "glue:DeleteDatabase",
+        "glue:TagResource",
+        "iam:TagPolicy",
+        "iam:TagRole",
+        "kms:Decrypt",
+        "kms:GenerateDataKey",
+        "logs:TagLogGroup",
+        "s3:GetObject"
+    ]
+}
