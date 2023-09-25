@@ -3287,7 +3287,8 @@
 "AWSWAFFullAccess","v8",False,"2022-08-25T20:11:30+00:00",3,4,0,7,0,0,114
 "AmazonVPCCrossAccountNetworkInterfaceOperations","v2",False,"2018-01-02T19:17:56+00:00",0,1,0,2,0,0,9
 "AmazonVPCCrossAccountNetworkInterfaceOperations","v1",False,"2017-07-18T20:47:16+00:00",0,1,0,1,0,0,9
-"AmazonVPCCrossAccountNetworkInterfaceOperations","v4",True,"2020-06-16T14:16:49+00:00",0,1,0,2,0,0,9
+"AmazonVPCCrossAccountNetworkInterfaceOperations","v4",False,"2020-06-16T14:16:49+00:00",0,1,0,2,0,0,9
+"AmazonVPCCrossAccountNetworkInterfaceOperations","v5",True,"2023-09-25T15:12:17+00:00",0,1,0,2,0,0,12
 "AmazonVPCCrossAccountNetworkInterfaceOperations","v3",False,"2019-01-07T19:16:23+00:00",0,1,0,2,0,0,9
 "AWSRoboMakerServicePolicy","v2",False,"2019-04-04T22:15:35+00:00",0,3,0,2,0,0,4
 "AWSRoboMakerServicePolicy","v6",True,"2021-11-11T22:23:45+00:00",0,4,0,2,0,0,5
