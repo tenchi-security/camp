@@ -1532,7 +1532,8 @@
 "CloudWatchFullAccess","v4",True,"2022-11-27T13:23:49+00:00",3,3,0,4,0,0,45
 "CloudWatchFullAccess","v3",False,"2018-08-09T19:10:43+00:00",3,3,0,6,0,0,40
 "AWSRolesAnywhereServicePolicy","v1",True,"2022-07-05T15:26:11+00:00",0,0,0,0,0,0,0
-"AmazonDataZoneFullUserAccess","v1",True,"2023-09-22T21:06:41+00:00",0,0,0,0,0,0,0
+"AmazonDataZoneFullUserAccess","v2",True,"2023-09-26T04:10:01+00:00",0,0,0,0,0,0,0
+"AmazonDataZoneFullUserAccess","v1",False,"2023-09-22T21:06:41+00:00",0,0,0,0,0,0,0
 "AWSCloudHSMFullAccess","v1",True,"2015-02-06T18:39:51+00:00",1,1,0,0,0,0,9
 "ServerMigrationServiceLaunchRole","v2",False,"2020-07-20T21:56:41+00:00",0,2,0,1,0,0,6
 "ServerMigrationServiceLaunchRole","v1",False,"2018-11-26T19:53:06+00:00",0,1,0,0,0,0,5
