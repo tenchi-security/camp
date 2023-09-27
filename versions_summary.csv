@@ -640,6 +640,7 @@
 "AWSElasticDisasterRecoveryAgentInstallationPolicy","v1",False,"2021-11-17T10:37:54+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryAgentInstallationPolicy","v4",True,"2023-06-13T09:43:59+00:00",0,1,0,0,0,0,1
 "AWSElasticDisasterRecoveryAgentInstallationPolicy","v3",False,"2022-12-28T07:10:44+00:00",0,1,0,0,0,0,1
+"AmazonDataZoneDomainExecutionRolePolicy","v1",True,"2023-09-27T21:55:08+00:00",0,0,0,0,0,0,0
 "AmazonAPIGatewayAdministrator","v1",True,"2015-07-09T17:34:45+00:00",1,0,0,0,0,0,0
 "AmazonSageMakerServiceCatalogProductsCodeBuildServiceRolePolicy","v1",True,"2022-03-25T04:27:46+00:00",0,1,0,0,0,1,0
 "AWSBackupAuditAccess","v2",True,"2023-04-10T21:23:31+00:00",0,1,0,0,0,0,7
@@ -3063,9 +3064,10 @@
 "AmazonConnectServiceLinkedRolePolicy","v1",False,"2018-09-07T00:21:43+00:00",1,1,0,0,0,2,58
 "AmazonConnectServiceLinkedRolePolicy","v4",False,"2021-04-14T00:13:10+00:00",1,1,0,0,0,2,58
 "AmazonConnectServiceLinkedRolePolicy","v5",False,"2021-11-11T20:33:20+00:00",1,1,0,0,0,2,71
+"AmazonConnectServiceLinkedRolePolicy","v9",True,"2023-09-27T21:05:04+00:00",1,2,0,0,0,2,135
 "AmazonConnectServiceLinkedRolePolicy","v3",False,"2020-10-08T01:40:01+00:00",1,1,0,0,0,2,58
 "AmazonConnectServiceLinkedRolePolicy","v7",False,"2022-06-27T19:35:06+00:00",1,1,0,0,0,2,87
-"AmazonConnectServiceLinkedRolePolicy","v8",True,"2022-11-07T19:01:31+00:00",1,1,0,0,0,2,100
+"AmazonConnectServiceLinkedRolePolicy","v8",False,"2022-11-07T19:01:31+00:00",1,1,0,0,0,2,100
 "AWSProtonCodeBuildProvisioningServiceRolePolicy","v2",True,"2023-05-17T16:11:40+00:00",0,1,0,1,0,0,1
 "AWSProtonCodeBuildProvisioningServiceRolePolicy","v1",False,"2022-11-09T21:32:06+00:00",0,1,0,1,0,0,1
 "AWSLambdaMSKExecutionRole","v2",True,"2022-08-02T20:08:02+00:00",0,2,0,0,0,0,5
