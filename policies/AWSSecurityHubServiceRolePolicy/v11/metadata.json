@@ -1,6 +1,6 @@
 {
     "VersionId": "v11",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2023-09-20T20:43:57+00:00",
     "PolicyName": "AWSSecurityHubServiceRolePolicy"
 }
