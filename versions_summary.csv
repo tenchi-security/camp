@@ -269,8 +269,9 @@
 "AwsGlueSessionUserRestrictedServiceRole","v1",True,"2022-04-14T21:30:07+00:00",1,0,0,0,0,0,0
 "AmazonOpenSearchServiceCognitoAccess","v1",False,"2021-09-02T06:31:49+00:00",0,0,0,0,0,0,0
 "AmazonOpenSearchServiceCognitoAccess","v2",True,"2021-12-20T14:04:18+00:00",0,0,0,0,0,0,0
+"AmazonDataZoneEnvironmentRolePermissionsBoundary","v3",True,"2023-09-29T05:12:51+00:00",2,9,0,2,0,1,116
 "AmazonDataZoneEnvironmentRolePermissionsBoundary","v1",False,"2023-09-11T23:38:22+00:00",2,9,0,2,0,1,115
-"AmazonDataZoneEnvironmentRolePermissionsBoundary","v2",True,"2023-09-14T19:33:50+00:00",2,9,0,2,0,1,115
+"AmazonDataZoneEnvironmentRolePermissionsBoundary","v2",False,"2023-09-14T19:33:50+00:00",2,9,0,2,0,1,115
 "AWSAppMeshPreviewServiceRolePolicy","v3",True,"2019-08-21T21:06:29+00:00",0,0,0,0,0,0,0
 "AWSAppMeshPreviewServiceRolePolicy","v1",False,"2019-06-19T19:07:00+00:00",0,0,0,0,0,0,0
 "AWSAppMeshPreviewServiceRolePolicy","v2",False,"2019-08-06T16:08:50+00:00",0,0,0,0,0,0,0
