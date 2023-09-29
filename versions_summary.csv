@@ -2261,7 +2261,8 @@
 "AWSLicenseManagerUserSubscriptionsServiceRolePolicy","v3",True,"2022-11-21T19:51:42+00:00",0,0,0,0,0,0,0
 "AWSLicenseManagerUserSubscriptionsServiceRolePolicy","v1",False,"2022-07-30T01:17:18+00:00",0,0,0,0,0,0,0
 "AWSLicenseManagerUserSubscriptionsServiceRolePolicy","v2",False,"2022-10-25T19:22:26+00:00",0,0,0,0,0,0,0
-"AmazonDataZoneGlueManageAccessRolePolicy","v1",True,"2023-09-22T20:21:53+00:00",0,2,0,4,0,0,5
+"AmazonDataZoneGlueManageAccessRolePolicy","v1",False,"2023-09-22T20:21:53+00:00",0,2,0,4,0,0,5
+"AmazonDataZoneGlueManageAccessRolePolicy","v2",True,"2023-09-29T01:53:41+00:00",0,2,0,4,0,0,5
 "AmazonLookoutEquipmentReadOnlyAccess","v3",True,"2022-11-10T22:04:33+00:00",0,0,0,0,0,0,0
 "AmazonLookoutEquipmentReadOnlyAccess","v1",False,"2021-05-05T16:47:55+00:00",0,0,0,0,0,0,0
 "AmazonLookoutEquipmentReadOnlyAccess","v2",False,"2022-06-30T18:33:42+00:00",0,0,0,0,0,0,0
