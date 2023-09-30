@@ -1024,7 +1024,8 @@
 "AWSServiceCatalogAppRegistryServiceRolePolicy","v1",False,"2021-05-18T22:18:55+00:00",0,1,0,0,0,0,4
 "AWSServiceCatalogAppRegistryServiceRolePolicy","v4",True,"2022-10-26T16:05:52+00:00",0,1,0,0,0,0,4
 "AWSServiceCatalogAppRegistryServiceRolePolicy","v2",False,"2021-08-11T19:49:17+00:00",0,1,0,0,0,0,4
-"AmazonSageMakerCanvasAIServicesAccess","v1",True,"2023-03-23T22:36:43+00:00",0,0,0,0,0,0,0
+"AmazonSageMakerCanvasAIServicesAccess","v1",False,"2023-03-23T22:36:43+00:00",0,0,0,0,0,0,0
+"AmazonSageMakerCanvasAIServicesAccess","v2",True,"2023-09-30T00:15:02+00:00",0,1,0,0,0,0,1
 "AutoScalingFullAccess","v1",False,"2017-01-12T19:31:58+00:00",1,2,0,0,0,0,39
 "AutoScalingFullAccess","v2",True,"2018-02-06T21:59:13+00:00",1,3,0,1,0,0,40
 "AmazonMCSReadOnlyAccess","v1",False,"2019-12-03T13:46:21+00:00",0,0,0,0,0,0,0
@@ -3143,7 +3144,8 @@
 "AmazonSageMakerCanvasFullAccess","v3",False,"2023-03-24T15:28:26+00:00",0,4,0,0,0,1,3
 "AmazonSageMakerCanvasFullAccess","v1",False,"2022-09-09T00:44:25+00:00",0,4,0,0,0,1,3
 "AmazonSageMakerCanvasFullAccess","v4",False,"2023-05-04T17:03:12+00:00",0,4,0,0,0,1,3
-"AmazonSageMakerCanvasFullAccess","v6",True,"2023-08-29T19:06:22+00:00",0,4,0,0,0,1,3
+"AmazonSageMakerCanvasFullAccess","v6",False,"2023-08-29T19:06:22+00:00",0,4,0,0,0,1,3
+"AmazonSageMakerCanvasFullAccess","v7",True,"2023-09-30T00:15:42+00:00",0,4,0,0,0,1,3
 "AmazonSageMakerCanvasFullAccess","v2",False,"2022-12-06T23:10:32+00:00",0,4,0,0,0,1,3
 "AWSIotRoboRunnerFullAccess","v1",False,"2021-11-29T03:54:37+00:00",1,0,0,0,0,0,0
 "AWSIotRoboRunnerFullAccess","v2",True,"2023-02-23T18:34:44+00:00",1,1,0,0,0,0,19
