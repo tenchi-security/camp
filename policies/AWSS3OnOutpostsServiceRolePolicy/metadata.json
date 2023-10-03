@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSS3OnOutpostsServiceRolePolicy",
+    "PolicyId": "ANPAZKAPJZG4PIWKEWQEU",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/AWSS3OnOutpostsServiceRolePolicy",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2023-10-03T20:32:36+00:00",
+    "UpdateDate": "2023-10-03T20:32:36+00:00"
+}
