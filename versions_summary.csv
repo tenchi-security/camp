@@ -461,7 +461,8 @@
 "AWSCloudTrailReadOnlyAccess","v8",False,"2019-10-31T22:42:54+00:00",0,1,0,0,1,0,1
 "AWSCloudTrailReadOnlyAccess","v2",False,"2015-03-12T20:14:36+00:00",0,0,0,0,0,0,0
 "AWSIdentitySyncFullAccess","v1",True,"2022-03-23T23:29:33+00:00",0,0,0,0,0,0,0
-"AWSResilienceHubAsssessmentExecutionPolicy","v1",True,"2023-06-27T12:32:15+00:00",0,0,0,0,0,0,0
+"AWSResilienceHubAsssessmentExecutionPolicy","v1",False,"2023-06-27T12:32:15+00:00",0,0,0,0,0,0,0
+"AWSResilienceHubAsssessmentExecutionPolicy","v2",True,"2023-10-05T11:16:28+00:00",0,0,0,0,0,0,0
 "AmazonRDSCustomPreviewServiceRolePolicy","v5",False,"2023-06-23T00:24:50+00:00",0,1,0,0,0,0,7
 "AmazonRDSCustomPreviewServiceRolePolicy","v3",False,"2023-02-14T23:58:11+00:00",0,1,0,0,0,0,7
 "AmazonRDSCustomPreviewServiceRolePolicy","v1",False,"2021-10-08T21:44:15+00:00",0,1,0,0,0,0,6
