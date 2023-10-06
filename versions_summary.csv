@@ -2115,6 +2115,7 @@
 "AWSBackupServiceRolePolicyForS3Backup","v3",True,"2022-09-01T16:52:33+00:00",0,1,0,0,0,0,1
 "AWSBackupServiceRolePolicyForS3Backup","v1",False,"2022-02-18T17:40:24+00:00",0,1,0,0,0,0,1
 "AWSBackupServiceRolePolicyForS3Backup","v2",False,"2022-02-26T00:01:09+00:00",0,1,0,0,0,0,1
+"AmplifyBackendDeployFullAccess","v1",True,"2023-10-06T21:32:59+00:00",0,0,0,0,0,0,0
 "TranslateReadOnly","v5",False,"2020-01-08T21:13:43+00:00",0,0,0,0,0,0,0
 "TranslateReadOnly","v3",False,"2018-10-22T16:00:56+00:00",0,0,0,0,0,0,0
 "TranslateReadOnly","v1",False,"2017-11-29T18:22:00+00:00",0,0,0,0,0,0,0
