@@ -615,8 +615,9 @@
 "AWSSSOMemberAccountAdministrator","v2",False,"2018-10-17T20:35:52+00:00",1,2,0,31,0,0,18
 "AWSElasticBeanstalkRoleECS","v1",False,"2020-06-05T21:47:27+00:00",0,1,0,0,0,0,1
 "AWSElasticBeanstalkRoleECS","v2",True,"2023-03-23T22:43:56+00:00",0,1,0,0,0,0,2
+"AWSAppMeshServiceRolePolicy","v3",True,"2023-10-10T16:46:37+00:00",0,0,0,0,0,0,0
 "AWSAppMeshServiceRolePolicy","v1",False,"2019-06-03T18:30:51+00:00",0,0,0,0,0,0,0
-"AWSAppMeshServiceRolePolicy","v2",True,"2019-09-10T22:44:43+00:00",0,0,0,0,0,0,0
+"AWSAppMeshServiceRolePolicy","v2",False,"2019-09-10T22:44:43+00:00",0,0,0,0,0,0,0
 "AmazonMacieServiceRolePolicy","v5",False,"2021-04-13T17:55:07+00:00",0,1,0,0,1,0,1
 "AmazonMacieServiceRolePolicy","v3",False,"2020-04-30T17:41:57+00:00",0,1,0,0,1,0,1
 "AmazonMacieServiceRolePolicy","v1",False,"2018-06-19T22:17:38+00:00",0,1,0,0,1,0,1
@@ -664,9 +665,10 @@
 "AmazonECSServiceRolePolicy","v3",False,"2018-03-07T18:29:40+00:00",0,4,0,2,0,0,12
 "AmazonECSServiceRolePolicy","v1",False,"2017-10-14T01:18:58+00:00",0,2,0,2,0,0,7
 "AmazonECSServiceRolePolicy","v4",False,"2018-03-22T01:20:59+00:00",0,4,0,2,0,0,12
-"AmazonECSServiceRolePolicy","v9",True,"2022-10-14T18:10:03+00:00",0,5,0,2,0,0,21
+"AmazonECSServiceRolePolicy","v9",False,"2022-10-14T18:10:03+00:00",0,5,0,2,0,0,21
 "AmazonECSServiceRolePolicy","v6",False,"2019-06-24T23:16:41+00:00",0,4,0,2,0,0,12
 "AmazonECSServiceRolePolicy","v7",False,"2019-11-21T19:49:23+00:00",0,5,0,2,0,0,16
+"AmazonECSServiceRolePolicy","v10",True,"2023-10-10T16:57:39+00:00",0,5,0,2,0,0,21
 "AmazonECSServiceRolePolicy","v8",False,"2021-01-13T20:04:13+00:00",0,5,0,2,0,0,16
 "AmazonECSServiceRolePolicy","v2",False,"2018-03-01T18:01:12+00:00",0,3,0,2,0,0,9
 "AWSImageBuilderFullAccess","v1",False,"2019-12-20T18:25:12+00:00",1,1,0,4,0,0,25

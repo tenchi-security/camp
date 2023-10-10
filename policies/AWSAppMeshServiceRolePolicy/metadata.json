@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4B5IHMMEND",
     "Arn": "arn:aws:iam::aws:policy/aws-service-role/AWSAppMeshServiceRolePolicy",
     "Path": "/aws-service-role/",
-    "DefaultVersionId": "v2",
+    "DefaultVersionId": "v3",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2019-06-03T18:30:51+00:00",
-    "UpdateDate": "2019-09-10T22:44:43+00:00"
+    "UpdateDate": "2023-10-10T16:46:37+00:00"
 }
