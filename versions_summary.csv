@@ -240,8 +240,9 @@
 "AmazonHoneycodeWorkbookReadOnlyAccess","v1",False,"2020-06-24T20:28:07+00:00",0,0,0,0,0,0,0
 "AmazonHoneycodeWorkbookReadOnlyAccess","v2",True,"2020-12-01T17:32:49+00:00",0,0,0,0,0,0,0
 "AWSPriceListServiceFullAccess","v1",True,"2017-11-22T00:36:27+00:00",1,0,0,0,0,0,0
-"AWSCloud9Administrator","v3",True,"2023-08-02T08:54:40+00:00",1,2,0,1,0,0,13
+"AWSCloud9Administrator","v3",False,"2023-08-02T08:54:40+00:00",1,2,0,1,0,0,13
 "AWSCloud9Administrator","v1",False,"2017-11-30T16:17:28+00:00",1,2,0,1,0,0,8
+"AWSCloud9Administrator","v4",True,"2023-10-11T12:59:29+00:00",1,2,0,1,0,0,13
 "AWSCloud9Administrator","v2",False,"2020-07-29T06:28:54+00:00",1,2,0,1,0,0,8
 "AWSDMSServerlessServiceRolePolicy","v1",True,"2023-05-18T20:28:05+00:00",0,1,0,0,0,0,1
 "KafkaServiceRolePolicy","v3",False,"2020-08-26T20:40:53+00:00",0,2,0,3,0,0,7
@@ -305,10 +306,11 @@
 "AmazonRDSReadOnlyAccess","v7",True,"2023-04-14T12:32:09+00:00",0,0,0,0,0,0,0
 "AmazonRDSReadOnlyAccess","v2",False,"2015-12-16T20:58:30+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryNetworkReplicationPolicy","v1",True,"2023-06-11T12:36:48+00:00",0,0,0,0,0,0,0
-"AWSCloud9User","v5",True,"2023-08-02T08:53:58+00:00",0,1,0,1,0,0,1
+"AWSCloud9User","v5",False,"2023-08-02T08:53:58+00:00",0,1,0,1,0,0,1
 "AWSCloud9User","v3",False,"2018-07-02T08:46:37+00:00",0,1,0,1,0,0,1
 "AWSCloud9User","v1",False,"2017-11-30T16:16:17+00:00",0,2,0,1,0,0,2
 "AWSCloud9User","v4",False,"2020-07-29T06:26:43+00:00",0,1,0,1,0,0,1
+"AWSCloud9User","v6",True,"2023-10-11T13:24:10+00:00",0,1,0,1,0,0,1
 "AWSCloud9User","v2",False,"2018-04-26T21:16:21+00:00",0,1,0,1,0,0,1
 "GlobalAcceleratorFullAccess","v5",False,"2020-06-16T16:47:10+00:00",1,1,0,0,0,0,23
 "GlobalAcceleratorFullAccess","v3",False,"2019-08-28T19:04:16+00:00",1,1,0,0,0,0,23
@@ -3174,8 +3176,9 @@
 "KeyspacesReplicationServiceRolePolicy","v1",True,"2023-05-02T16:15:49+00:00",0,1,0,0,0,0,1
 "AWSAppSyncAdministrator","v1",False,"2018-03-20T21:20:28+00:00",1,2,0,1,0,0,6
 "AWSAppSyncAdministrator","v2",True,"2019-11-04T19:23:49+00:00",1,2,0,2,0,0,7
+"AWSCloud9EnvironmentMember","v3",True,"2023-10-11T12:13:40+00:00",0,0,0,0,0,0,0
 "AWSCloud9EnvironmentMember","v1",False,"2017-11-30T16:18:28+00:00",0,0,0,0,0,0,0
-"AWSCloud9EnvironmentMember","v2",True,"2020-07-29T06:29:08+00:00",0,0,0,0,0,0,0
+"AWSCloud9EnvironmentMember","v2",False,"2020-07-29T06:29:08+00:00",0,0,0,0,0,0,0
 "AWSDiscoveryContinuousExportFirehosePolicy","v1",False,"2018-08-09T18:29:39+00:00",0,0,0,0,0,0,0
 "AWSDiscoveryContinuousExportFirehosePolicy","v2",True,"2021-06-08T17:32:46+00:00",0,0,0,0,0,0,0
 "AmazonMCSFullAccess","v1",False,"2019-12-03T13:45:25+00:00",1,1,0,0,0,0,6
