@@ -506,9 +506,10 @@
 "AWSShieldDRTAccessPolicy","v6",True,"2020-12-15T17:28:15+00:00",4,6,0,9,0,0,115
 "AWSShieldDRTAccessPolicy","v2",False,"2018-11-27T04:25:17+00:00",3,1,0,0,0,0,2
 "AmazonElasticFileSystemsUtils","v1",True,"2020-09-29T15:16:47+00:00",0,2,0,0,2,0,9
+"AWSElasticDisasterRecoveryConsoleFullAccess","v5",True,"2023-10-16T12:24:20+00:00",1,1,0,0,0,0,51
 "AWSElasticDisasterRecoveryConsoleFullAccess","v3",False,"2023-04-19T09:52:11+00:00",1,1,0,0,0,0,40
 "AWSElasticDisasterRecoveryConsoleFullAccess","v1",False,"2021-11-17T10:46:29+00:00",1,0,0,0,0,0,0
-"AWSElasticDisasterRecoveryConsoleFullAccess","v4",True,"2023-06-11T08:37:09+00:00",1,1,0,0,0,0,40
+"AWSElasticDisasterRecoveryConsoleFullAccess","v4",False,"2023-06-11T08:37:09+00:00",1,1,0,0,0,0,40
 "AWSElasticDisasterRecoveryConsoleFullAccess","v2",False,"2022-05-29T08:40:00+00:00",1,1,0,0,0,0,35
 "AmazonWorkSpacesServiceAccess","v1",False,"2019-06-27T19:19:09+00:00",0,1,0,0,0,0,2
 "AmazonWorkSpacesServiceAccess","v2",True,"2020-03-18T23:32:10+00:00",0,1,0,0,0,0,2
@@ -3208,7 +3209,8 @@
 "AWSServiceRoleForLogDeliveryPolicy","v1",False,"2019-10-04T17:31:19+00:00",0,1,0,0,0,0,2
 "AWSServiceRoleForLogDeliveryPolicy","v2",False,"2020-07-27T19:38:52+00:00",0,1,0,0,0,0,2
 "EC2FleetTimeShiftableServiceRolePolicy","v1",True,"2019-12-23T19:47:15+00:00",0,2,0,1,0,0,4
-"AWSElasticDisasterRecoveryLaunchActionsPolicy","v1",True,"2023-09-13T07:38:26+00:00",0,0,0,0,0,0,0
+"AWSElasticDisasterRecoveryLaunchActionsPolicy","v1",False,"2023-09-13T07:38:26+00:00",0,0,0,0,0,0,0
+"AWSElasticDisasterRecoveryLaunchActionsPolicy","v2",True,"2023-10-16T12:28:44+00:00",0,0,0,0,0,0,0
 "AmazonForecastFullAccess","v1",True,"2019-01-18T01:52:29+00:00",1,2,0,1,0,0,19
 "AWSElementalMediaTailorReadOnly","v1",True,"2021-11-23T00:05:01+00:00",0,0,0,0,0,0,0
 "AWSCodePipelineApproverAccess","v3",True,"2017-08-02T17:24:58+00:00",0,1,0,0,0,0,1
