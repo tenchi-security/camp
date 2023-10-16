@@ -1,0 +1,18 @@
+{
+    "ServiceWildcard": [
+        "entityresolution"
+    ],
+    "ServicesAffected": [
+        "entityresolution"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "entityresolution:DeleteMatchingWorkflow",
+        "entityresolution:DeleteSchemaMapping",
+        "entityresolution:StartMatchingJob",
+        "entityresolution:UpdateMatchingWorkflow"
+    ]
+}

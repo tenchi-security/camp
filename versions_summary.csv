@@ -1937,7 +1937,8 @@
 "AmazonRDSDirectoryServiceAccess","v2",True,"2019-05-15T16:51:50+00:00",0,1,0,0,0,0,2
 "AWSCertificateManagerPrivateCAPrivilegedUser","v1",True,"2019-06-20T17:43:13+00:00",0,0,0,0,0,0,0
 "AmazonSSMReadOnlyAccess","v1",True,"2015-05-29T17:44:19+00:00",0,1,0,0,3,0,3
-"AWSEntityResolutionConsoleFullAccess","v1",True,"2023-08-17T17:54:14+00:00",1,0,0,0,0,0,0
+"AWSEntityResolutionConsoleFullAccess","v1",False,"2023-08-17T17:54:14+00:00",1,0,0,0,0,0,0
+"AWSEntityResolutionConsoleFullAccess","v2",True,"2023-10-16T18:46:10+00:00",1,1,0,0,0,0,4
 "Billing","v5",False,"2020-10-05T20:37:01+00:00",0,2,0,0,0,0,4
 "Billing","v3",False,"2020-04-24T18:12:01+00:00",1,2,0,0,0,0,4
 "Billing","v1",False,"2016-11-10T17:33:18+00:00",0,1,0,0,0,0,1
@@ -2107,8 +2108,9 @@
 "AccessAnalyzerServiceRolePolicy","v7",False,"2022-04-06T20:18:51+00:00",0,0,0,0,0,0,0
 "AccessAnalyzerServiceRolePolicy","v8",True,"2022-10-25T16:50:52+00:00",0,0,0,0,0,0,0
 "AccessAnalyzerServiceRolePolicy","v2",False,"2020-03-02T15:55:03+00:00",0,0,0,0,0,0,0
+"ROSAKubeControllerPolicy","v3",True,"2023-10-16T18:17:05+00:00",0,1,0,0,0,0,21
 "ROSAKubeControllerPolicy","v1",False,"2023-04-27T20:09:29+00:00",0,1,0,0,0,0,8
-"ROSAKubeControllerPolicy","v2",True,"2023-07-18T21:45:19+00:00",0,1,0,0,0,0,21
+"ROSAKubeControllerPolicy","v2",False,"2023-07-18T21:45:19+00:00",0,1,0,0,0,0,21
 "AWSApplicationAutoscalingECSServicePolicy","v1",True,"2017-10-25T23:53:08+00:00",0,2,0,0,0,0,3
 "AmazonAppStreamReadOnlyAccess","v1",False,"2015-02-06T18:40:10+00:00",0,0,0,0,0,0,0
 "AmazonAppStreamReadOnlyAccess","v2",True,"2016-12-07T21:00:06+00:00",0,0,0,0,0,0,0

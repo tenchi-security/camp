@@ -1,6 +1,6 @@
 {
     "VersionId": "v2",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2023-07-18T21:45:19+00:00",
     "PolicyName": "ROSAKubeControllerPolicy"
 }
