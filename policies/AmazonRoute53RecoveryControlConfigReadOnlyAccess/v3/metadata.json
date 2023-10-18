@@ -1,0 +1,6 @@
+{
+    "VersionId": "v3",
+    "IsDefaultVersion": true,
+    "CreateDate": "2023-10-18T17:15:33+00:00",
+    "PolicyName": "AmazonRoute53RecoveryControlConfigReadOnlyAccess"
+}
