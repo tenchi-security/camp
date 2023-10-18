@@ -1,0 +1,48 @@
+{
+    "ServiceWildcard": [
+        "kafka"
+    ],
+    "ServicesAffected": [
+        "firehose",
+        "iam",
+        "kafka",
+        "kms"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "kms:CreateGrant",
+        "iam:PassRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "firehose:TagDeliveryStream",
+        "iam:PassRole",
+        "kafka:BatchAssociateScramSecret",
+        "kafka:BatchDisassociateScramSecret",
+        "kafka:CreateCluster",
+        "kafka:CreateClusterV2",
+        "kafka:CreateConfiguration",
+        "kafka:CreateVpcConnection",
+        "kafka:DeleteCluster",
+        "kafka:DeleteClusterPolicy",
+        "kafka:DeleteConfiguration",
+        "kafka:DeleteVpcConnection",
+        "kafka:PutClusterPolicy",
+        "kafka:RebootBroker",
+        "kafka:RejectClientVpcConnection",
+        "kafka:TagResource",
+        "kafka:UntagResource",
+        "kafka:UpdateBrokerCount",
+        "kafka:UpdateBrokerStorage",
+        "kafka:UpdateBrokerType",
+        "kafka:UpdateClusterConfiguration",
+        "kafka:UpdateClusterKafkaVersion",
+        "kafka:UpdateConfiguration",
+        "kafka:UpdateConnectivity",
+        "kafka:UpdateMonitoring",
+        "kafka:UpdateSecurity",
+        "kafka:UpdateStorage",
+        "kms:CreateGrant"
+    ]
+}
