@@ -1,0 +1,23 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "vendor-insights"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "vendor-insights:ActivateSecurityProfile",
+        "vendor-insights:AssociateDataSource",
+        "vendor-insights:DeactivateSecurityProfile",
+        "vendor-insights:DeleteDataSource",
+        "vendor-insights:DisassociateDataSource",
+        "vendor-insights:TagResource",
+        "vendor-insights:UntagResource",
+        "vendor-insights:UpdateDataSource",
+        "vendor-insights:UpdateSecurityProfile",
+        "vendor-insights:UpdateSecurityProfileSnapshotCreationConfiguration",
+        "vendor-insights:UpdateSecurityProfileSnapshotReleaseConfiguration"
+    ]
+}

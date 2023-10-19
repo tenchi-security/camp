@@ -21,7 +21,8 @@
 "AWSServiceRoleForLogDeliveryPolicy","v3",True,"2021-07-15T20:07:44+00:00",0,1,0,0,0,0,2
 "AWSServiceRoleForLogDeliveryPolicy","v1",False,"2019-10-04T17:31:19+00:00",0,1,0,0,0,0,2
 "AWSPanoramaServiceLinkedRolePolicy","v1",True,"2021-10-20T12:12:50+00:00",0,0,0,0,0,0,0
-"AWSVendorInsightsVendorFullAccess","v2",True,"2022-12-01T00:49:35+00:00",0,1,0,0,0,0,6
+"AWSVendorInsightsVendorFullAccess","v2",False,"2022-12-01T00:49:35+00:00",0,1,0,0,0,0,6
+"AWSVendorInsightsVendorFullAccess","v3",True,"2023-10-19T01:41:01+00:00",0,1,0,0,0,0,11
 "AWSVendorInsightsVendorFullAccess","v1",False,"2022-07-26T15:05:27+00:00",0,0,0,0,0,0,0
 "AmazonEKSLocalOutpostServiceRolePolicy","v2",True,"2022-10-24T16:24:51+00:00",0,3,0,1,0,0,8
 "AmazonEKSLocalOutpostServiceRolePolicy","v1",False,"2022-08-23T21:53:02+00:00",0,3,0,1,0,0,8
