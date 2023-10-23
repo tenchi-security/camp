@@ -1201,7 +1201,8 @@
 "AWSRefactoringToolkitFullAccess","v3",True,"2023-03-23T23:14:02+00:00",0,2,0,0,0,0,20
 "AWSRefactoringToolkitFullAccess","v1",False,"2022-10-25T16:41:15+00:00",0,2,0,0,0,0,20
 "AWSBillingConductorReadOnlyAccess","v1",True,"2022-04-13T18:02:59+00:00",0,0,0,0,0,0,0
-"AmazonRDSPerformanceInsightsReadOnly","v2",True,"2023-08-16T18:42:54+00:00",0,0,0,0,0,0,0
+"AmazonRDSPerformanceInsightsReadOnly","v2",False,"2023-08-16T18:42:54+00:00",0,0,0,0,0,0,0
+"AmazonRDSPerformanceInsightsReadOnly","v3",True,"2023-10-23T21:17:06+00:00",0,0,0,0,0,0,0
 "AmazonRDSPerformanceInsightsReadOnly","v1",False,"2022-04-05T00:02:08+00:00",0,0,0,0,0,0,0
 "SecurityAudit","v28",False,"2019-06-06T18:09:18+00:00",0,1,0,2,0,0,2
 "SecurityAudit","v8",False,"2016-11-10T20:06:43+00:00",0,0,0,0,0,0,0
@@ -3074,7 +3075,8 @@
 "AmazonMonitronFullAccess","v2",True,"2022-06-08T16:27:42+00:00",1,3,0,5,0,0,9
 "AmazonMonitronFullAccess","v1",False,"2020-12-02T22:40:28+00:00",1,3,0,5,0,0,9
 "AmazonPrometheusQueryAccess","v1",True,"2020-12-19T01:02:58+00:00",0,0,0,0,0,0,0
-"AmazonRDSPerformanceInsightsFullAccess","v1",True,"2023-08-15T23:41:34+00:00",0,0,0,0,0,0,0
+"AmazonRDSPerformanceInsightsFullAccess","v2",True,"2023-10-23T21:14:27+00:00",0,0,0,0,0,0,0
+"AmazonRDSPerformanceInsightsFullAccess","v1",False,"2023-08-15T23:41:34+00:00",0,0,0,0,0,0,0
 "AmazonDetectiveMemberAccess","v1",True,"2023-01-17T15:16:14+00:00",0,0,0,0,0,0,0
 "AWSCertificateManagerPrivateCAUser","v2",False,"2018-12-07T20:43:03+00:00",0,0,0,0,0,0,0
 "AWSCertificateManagerPrivateCAUser","v3",False,"2019-03-14T17:17:02+00:00",0,0,0,0,0,0,0
