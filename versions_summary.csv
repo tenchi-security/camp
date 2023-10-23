@@ -191,7 +191,8 @@
 "AWSServiceCatalogSyncServiceRolePolicy","v1",True,"2022-11-15T21:20:15+00:00",0,1,0,0,0,0,3
 "AWSSystemsManagerForSAPReadOnlyAccess","v1",True,"2022-11-17T02:11:44+00:00",0,0,0,0,0,0,0
 "AmazonOpenSearchServiceRolePolicy","v5",False,"2022-09-12T15:03:06+00:00",0,0,0,0,0,0,0
-"AmazonOpenSearchServiceRolePolicy","v6",True,"2022-10-13T14:05:59+00:00",0,0,0,0,0,0,0
+"AmazonOpenSearchServiceRolePolicy","v7",True,"2023-10-23T07:07:31+00:00",0,0,0,0,0,0,0
+"AmazonOpenSearchServiceRolePolicy","v6",False,"2022-10-13T14:05:59+00:00",0,0,0,0,0,0,0
 "AmazonOpenSearchServiceRolePolicy","v2",False,"2021-09-01T05:43:03+00:00",0,0,0,0,0,0,0
 "AmazonOpenSearchServiceRolePolicy","v3",False,"2021-09-09T10:43:21+00:00",0,0,0,0,0,0,0
 "AmazonOpenSearchServiceRolePolicy","v1",False,"2021-08-26T09:27:09+00:00",0,0,0,0,0,0,0
@@ -1920,7 +1921,8 @@
 "AWSIncidentManagerServiceRolePolicy","v2",True,"2022-12-05T02:11:58+00:00",0,3,0,0,0,0,3
 "AWSIncidentManagerServiceRolePolicy","v1",False,"2021-05-10T03:34:45+00:00",0,0,0,0,0,0,0
 "AmazonElasticsearchServiceRolePolicy","v5",False,"2022-09-12T15:01:51+00:00",0,2,0,0,0,0,5
-"AmazonElasticsearchServiceRolePolicy","v6",True,"2022-10-13T13:45:16+00:00",0,2,0,0,0,0,5
+"AmazonElasticsearchServiceRolePolicy","v7",True,"2023-10-23T06:58:31+00:00",0,2,0,0,0,0,5
+"AmazonElasticsearchServiceRolePolicy","v6",False,"2022-10-13T13:45:16+00:00",0,2,0,0,0,0,5
 "AmazonElasticsearchServiceRolePolicy","v2",False,"2018-02-08T21:38:27+00:00",0,1,0,0,0,0,3
 "AmazonElasticsearchServiceRolePolicy","v3",False,"2020-08-31T10:30:23+00:00",0,2,0,0,0,0,5
 "AmazonElasticsearchServiceRolePolicy","v1",False,"2017-07-07T00:15:31+00:00",0,1,0,0,0,0,3

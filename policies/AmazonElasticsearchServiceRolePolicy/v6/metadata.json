@@ -1,6 +1,6 @@
 {
     "VersionId": "v6",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2022-10-13T13:45:16+00:00",
     "PolicyName": "AmazonElasticsearchServiceRolePolicy"
 }
