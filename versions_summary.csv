@@ -2626,7 +2626,7 @@
 "AmazonFSxConsoleReadOnlyAccess","v1",False,"2018-11-28T16:35:24+00:00",0,0,0,0,0,0,0
 "AmazonFSxConsoleReadOnlyAccess","v4",True,"2022-09-22T14:07:26+00:00",0,0,0,0,0,0,0
 "AmazonConnectServiceLinkedRolePolicy","v8",False,"2022-11-07T19:01:31+00:00",1,1,0,0,0,2,100
-"AmazonConnectServiceLinkedRolePolicy","v10",True,"2023-10-06T17:23:46+00:00",1,2,0,0,0,2,135
+"AmazonConnectServiceLinkedRolePolicy","v10",False,"2023-10-06T17:23:46+00:00",1,2,0,0,0,2,135
 "AmazonConnectServiceLinkedRolePolicy","v5",False,"2021-11-11T20:33:20+00:00",1,1,0,0,0,2,71
 "AmazonConnectServiceLinkedRolePolicy","v7",False,"2022-06-27T19:35:06+00:00",1,1,0,0,0,2,87
 "AmazonConnectServiceLinkedRolePolicy","v9",False,"2023-09-27T21:05:04+00:00",1,2,0,0,0,2,135
@@ -2634,6 +2634,7 @@
 "AmazonConnectServiceLinkedRolePolicy","v2",False,"2018-09-25T21:29:18+00:00",1,1,0,0,0,2,58
 "AmazonConnectServiceLinkedRolePolicy","v3",False,"2020-10-08T01:40:01+00:00",1,1,0,0,0,2,58
 "AmazonConnectServiceLinkedRolePolicy","v1",False,"2018-09-07T00:21:43+00:00",1,1,0,0,0,2,58
+"AmazonConnectServiceLinkedRolePolicy","v11",True,"2023-10-23T23:22:56+00:00",1,2,0,0,0,2,135
 "AmazonConnectServiceLinkedRolePolicy","v4",False,"2021-04-14T00:13:10+00:00",1,1,0,0,0,2,58
 "IAMFullAccess","v2",True,"2019-06-21T19:40:00+00:00",1,1,10,79,0,5,90
 "IAMFullAccess","v1",False,"2015-02-06T18:40:38+00:00",1,1,10,79,0,5,90
