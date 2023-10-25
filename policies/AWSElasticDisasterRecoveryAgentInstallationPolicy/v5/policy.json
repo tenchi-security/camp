@@ -1,0 +1,53 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": [
+                "drs:GetAgentInstallationAssetsForDrs",
+                "drs:SendClientLogsForDrs",
+                "drs:SendClientMetricsForDrs",
+                "drs:CreateSourceServerForDrs",
+                "drs:CreateRecoveryInstanceForDrs",
+                "drs:DescribeRecoveryInstances",
+                "drs:CreateSourceNetwork"
+            ],
+            "Resource": "*"
+        },
+        {
+            "Effect": "Allow",
+            "Action": "drs:TagResource",
+            "Resource": "arn:aws:drs:*:*:source-server/*",
+            "Condition": {
+                "StringEquals": {
+                    "drs:CreateAction": "CreateSourceServerForDrs"
+                }
+            }
+        },
+        {
+            "Effect": "Allow",
+            "Action": "drs:TagResource",
+            "Resource": "arn:aws:drs:*:*:source-server/*",
+            "Condition": {
+                "StringEquals": {
+                    "drs:CreateAction": "CreateRecoveryInstanceForDrs"
+                }
+            }
+        },
+        {
+            "Effect": "Allow",
+            "Action": "drs:TagResource",
+            "Resource": "arn:aws:drs:*:*:source-network/*",
+            "Condition": {
+                "StringEquals": {
+                    "drs:CreateAction": "CreateSourceNetwork"
+                }
+            }
+        },
+        {
+            "Effect": "Allow",
+            "Action": "drs:IssueAgentCertificateForDrs",
+            "Resource": "arn:aws:drs:*:*:source-server/*"
+        }
+    ]
+}
