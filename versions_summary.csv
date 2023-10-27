@@ -160,8 +160,9 @@
 "AmazonRedshiftServiceLinkedRolePolicy","v2",False,"2017-09-25T21:20:15+00:00",0,1,0,0,0,0,5
 "AmazonRedshiftServiceLinkedRolePolicy","v8",False,"2022-09-07T20:27:51+00:00",0,1,0,0,0,0,8
 "AmazonRedshiftServiceLinkedRolePolicy","v1",False,"2017-09-18T19:19:45+00:00",0,1,0,0,0,0,5
-"AmazonRedshiftServiceLinkedRolePolicy","v11",True,"2023-08-14T10:46:23+00:00",0,1,0,0,0,0,8
+"AmazonRedshiftServiceLinkedRolePolicy","v11",False,"2023-08-14T10:46:23+00:00",0,1,0,0,0,0,8
 "AmazonRedshiftServiceLinkedRolePolicy","v7",False,"2022-06-01T00:34:09+00:00",0,1,0,0,0,0,8
+"AmazonRedshiftServiceLinkedRolePolicy","v12",True,"2023-10-27T16:20:17+00:00",0,1,0,0,0,0,8
 "AWSServiceRolePolicyForBackupReports","v2",True,"2023-03-10T00:51:25+00:00",0,0,0,0,0,0,0
 "AWSServiceRolePolicyForBackupReports","v1",False,"2021-08-19T21:16:45+00:00",0,0,0,0,0,0,0
 "DynamoDBCloudWatchContributorInsightsServiceRolePolicy","v1",True,"2019-11-15T21:13:58+00:00",0,0,0,0,0,0,0
