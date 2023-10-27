@@ -1,0 +1,183 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "AllowConnectActions",
+            "Effect": "Allow",
+            "Action": [
+                "connect:*"
+            ],
+            "Resource": [
+                "*"
+            ]
+        },
+        {
+            "Sid": "AllowDeleteSLR",
+            "Effect": "Allow",
+            "Action": [
+                "iam:DeleteRole"
+            ],
+            "Resource": "arn:aws:iam::*:role/aws-service-role/connect.amazonaws.com/AWSServiceRoleForAmazonConnect_*"
+        },
+        {
+            "Sid": "AllowS3ObjectForConnectBucket",
+            "Effect": "Allow",
+            "Action": [
+                "s3:GetObject",
+                "s3:GetObjectAcl",
+                "s3:PutObject",
+                "s3:PutObjectAcl",
+                "s3:DeleteObject"
+            ],
+            "Resource": [
+                "arn:aws:s3:::amazon-connect-*/*"
+            ]
+        },
+        {
+            "Sid": "AllowGetBucketMetadataForConnectBucket",
+            "Effect": "Allow",
+            "Action": [
+                "s3:GetBucketLocation",
+                "s3:GetBucketAcl"
+            ],
+            "Resource": [
+                "arn:aws:s3:::amazon-connect-*"
+            ]
+        },
+        {
+            "Sid": "AllowConnectLogGroupAccess",
+            "Effect": "Allow",
+            "Action": [
+                "logs:CreateLogStream",
+                "logs:DescribeLogStreams",
+                "logs:PutLogEvents"
+            ],
+            "Resource": [
+                "arn:aws:logs:*:*:log-group:/aws/connect/*:*"
+            ]
+        },
+        {
+            "Sid": "AllowListLexBotAccess",
+            "Effect": "Allow",
+            "Action": [
+                "lex:ListBots",
+                "lex:ListBotAliases"
+            ],
+            "Resource": "*"
+        },
+        {
+            "Sid": "AllowCustomerProfilesForConnectDomain",
+            "Effect": "Allow",
+            "Action": [
+                "profile:SearchProfiles",
+                "profile:CreateProfile",
+                "profile:UpdateProfile",
+                "profile:AddProfileKey",
+                "profile:ListProfileObjectTypes",
+                "profile:ListCalculatedAttributeDefinitions",
+                "profile:ListCalculatedAttributesForProfile",
+                "profile:GetDomain",
+                "profile:ListIntegrations"
+            ],
+            "Resource": "arn:aws:profile:*:*:domains/amazon-connect-*"
+        },
+        {
+            "Sid": "AllowReadPermissionForCustomerProfileObjects",
+            "Effect": "Allow",
+            "Action": [
+                "profile:ListProfileObjects",
+                "profile:GetProfileObjectType"
+            ],
+            "Resource": [
+                "arn:aws:profile:*:*:domains/amazon-connect-*/object-types/*"
+            ]
+        },
+        {
+            "Sid": "AllowListIntegrationForCustomerProfile",
+            "Effect": "Allow",
+            "Action": [
+                "profile:ListAccountIntegrations"
+            ],
+            "Resource": "*"
+        },
+        {
+            "Sid": "AllowReadForCustomerProfileObjectTemplates",
+            "Effect": "Allow",
+            "Action": [
+                "profile:ListProfileObjectTypeTemplates",
+                "profile:GetProfileObjectTypeTemplate"
+            ],
+            "Resource": "arn:aws:profile:*:*:/templates*"
+        },
+        {
+            "Sid": "AllowWisdomForConnectEnabledTaggedResources",
+            "Effect": "Allow",
+            "Action": [
+                "wisdom:CreateContent",
+                "wisdom:DeleteContent",
+                "wisdom:CreateKnowledgeBase",
+                "wisdom:GetAssistant",
+                "wisdom:GetKnowledgeBase",
+                "wisdom:GetContent",
+                "wisdom:GetRecommendations",
+                "wisdom:GetSession",
+                "wisdom:NotifyRecommendationsReceived",
+                "wisdom:QueryAssistant",
+                "wisdom:StartContentUpload",
+                "wisdom:UpdateContent",
+                "wisdom:UntagResource",
+                "wisdom:TagResource",
+                "wisdom:CreateSession",
+                "wisdom:CreateQuickResponse",
+                "wisdom:GetQuickResponse",
+                "wisdom:SearchQuickResponses",
+                "wisdom:StartImportJob",
+                "wisdom:GetImportJob",
+                "wisdom:ListImportJobs",
+                "wisdom:ListQuickResponses",
+                "wisdom:UpdateQuickResponse",
+                "wisdom:DeleteQuickResponse"
+            ],
+            "Resource": "*",
+            "Condition": {
+                "StringEquals": {
+                    "aws:ResourceTag/AmazonConnectEnabled": "True"
+                }
+            }
+        },
+        {
+            "Sid": "AllowListOperationForWisdom",
+            "Effect": "Allow",
+            "Action": [
+                "wisdom:ListAssistants",
+                "wisdom:ListKnowledgeBases"
+            ],
+            "Resource": "*"
+        },
+        {
+            "Sid": "AllowCustomerProfilesCalculatedAttributesForConnectDomain",
+            "Effect": "Allow",
+            "Action": [
+                "profile:GetCalculatedAttributeForProfile",
+                "profile:CreateCalculatedAttributeDefinition",
+                "profile:DeleteCalculatedAttributeDefinition",
+                "profile:GetCalculatedAttributeDefinition",
+                "profile:UpdateCalculatedAttributeDefinition"
+            ],
+            "Resource": [
+                "arn:aws:profile:*:*:domains/amazon-connect-*/calculated-attributes/*"
+            ]
+        },
+        {
+            "Sid": "AllowPutMetricsForConnectNamespace",
+            "Effect": "Allow",
+            "Action": "cloudwatch:PutMetricData",
+            "Resource": "*",
+            "Condition": {
+                "StringEquals": {
+                    "cloudwatch:namespace": "AWS/Connect"
+                }
+            }
+        }
+    ]
+}

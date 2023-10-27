@@ -1674,8 +1674,9 @@
 "AmazonConnectServiceLinkedRolePolicy","v2",False,"2018-09-25T21:29:18+00:00",1,1,0,0,0,2,58
 "AmazonConnectServiceLinkedRolePolicy","v8",False,"2022-11-07T19:01:31+00:00",1,1,0,0,0,2,100
 "AmazonConnectServiceLinkedRolePolicy","v1",False,"2018-09-07T00:21:43+00:00",1,1,0,0,0,2,58
-"AmazonConnectServiceLinkedRolePolicy","v11",True,"2023-10-23T23:22:56+00:00",1,2,0,0,0,2,135
+"AmazonConnectServiceLinkedRolePolicy","v11",False,"2023-10-23T23:22:56+00:00",1,2,0,0,0,2,135
 "AmazonConnectServiceLinkedRolePolicy","v7",False,"2022-06-27T19:35:06+00:00",1,1,0,0,0,2,87
+"AmazonConnectServiceLinkedRolePolicy","v12",True,"2023-10-26T23:32:06+00:00",1,2,0,0,0,2,135
 "AWSIncidentManagerResolverAccess","v1",True,"2021-05-10T06:12:34+00:00",0,0,0,0,0,0,0
 "AWSXrayCrossAccountSharingConfiguration","v1",True,"2022-11-27T13:46:35+00:00",0,0,0,0,0,0,0
 "AWSCloudShellFullAccess","v1",True,"2020-12-15T18:07:44+00:00",1,1,0,0,0,0,7
