@@ -1370,6 +1370,7 @@
 "AWSServiceCatalogAdminReadOnlyAccess","v1",True,"2019-10-25T18:53:38+00:00",0,0,0,0,0,0,0
 "AWSFaultInjectionSimulatorEC2Access","v2",True,"2023-06-02T23:01:50+00:00",0,0,0,0,0,0,0
 "AWSFaultInjectionSimulatorEC2Access","v1",False,"2022-10-26T20:39:26+00:00",0,0,0,0,0,0,0
+"AmazonConnectSynchronizationServiceRolePolicy","v1",True,"2023-10-27T22:38:25+00:00",0,1,0,0,0,0,75
 "AWSDeviceFarmServiceRolePolicy","v1",True,"2022-09-20T21:02:28+00:00",0,0,0,0,0,0,0
 "AWSIQFullAccess","v2",True,"2019-09-25T20:22:34+00:00",2,1,0,1,0,0,1
 "AWSIQFullAccess","v1",False,"2019-04-04T23:13:42+00:00",1,0,0,0,0,0,0
@@ -2602,6 +2603,7 @@
 "AmazonRDSCustomPreviewServiceRolePolicy","v2",False,"2022-11-08T18:01:22+00:00",0,1,0,0,0,0,7
 "AmazonRDSCustomPreviewServiceRolePolicy","v1",False,"2021-10-08T21:44:15+00:00",0,1,0,0,0,0,6
 "AmazonTranscribeReadOnlyAccess","v1",True,"2018-04-04T16:05:06+00:00",0,0,0,0,0,0,0
+"AmazonSageMakerCanvasDataPrepFullAccess","v1",True,"2023-10-27T22:56:13+00:00",0,0,0,0,0,0,0
 "AWSRoboMakerServicePolicy","v6",True,"2021-11-11T22:23:45+00:00",0,4,0,2,0,0,5
 "AWSRoboMakerServicePolicy","v3",False,"2020-01-23T20:44:52+00:00",0,4,0,2,0,0,5
 "AWSRoboMakerServicePolicy","v4",False,"2020-02-04T19:33:08+00:00",0,4,0,2,0,0,5
