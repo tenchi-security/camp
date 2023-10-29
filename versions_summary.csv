@@ -2278,7 +2278,8 @@
 "AmazonCodeGuruProfilerFullAccess","v2",False,"2020-04-06T21:16:38+00:00",2,1,0,2,0,0,11
 "AmazonCodeGuruProfilerFullAccess","v1",False,"2019-12-03T10:13:27+00:00",1,1,0,2,0,0,11
 "AWSMarketplaceMeteringFullAccess","v1",True,"2016-03-17T22:39:22+00:00",0,0,0,0,0,0,0
-"AWSResilienceHubAsssessmentExecutionPolicy","v2",True,"2023-10-05T11:16:28+00:00",0,0,0,0,0,0,0
+"AWSResilienceHubAsssessmentExecutionPolicy","v3",True,"2023-10-29T16:17:40+00:00",0,0,0,0,0,0,0
+"AWSResilienceHubAsssessmentExecutionPolicy","v2",False,"2023-10-05T11:16:28+00:00",0,0,0,0,0,0,0
 "AWSResilienceHubAsssessmentExecutionPolicy","v1",False,"2023-06-27T12:32:15+00:00",0,0,0,0,0,0,0
 "CloudFormationStackSetsOrgMemberServiceRolePolicy","v1",True,"2019-12-09T23:52:37+00:00",0,0,0,0,0,0,0
 "AWSIdentitySyncFullAccess","v1",True,"2022-03-23T23:29:33+00:00",0,0,0,0,0,0,0
