@@ -302,7 +302,8 @@
 "AWSElasticDisasterRecoveryConsoleFullAccess","v5",True,"2023-10-16T12:24:20+00:00",1,1,0,0,0,0,51
 "AWSElasticDisasterRecoveryConsoleFullAccess","v2",False,"2022-05-29T08:40:00+00:00",1,1,0,0,0,0,35
 "AWSElasticDisasterRecoveryConsoleFullAccess","v1",False,"2021-11-17T10:46:29+00:00",1,0,0,0,0,0,0
-"AWSQuickSightSageMakerPolicy","v2",True,"2023-10-03T23:22:22+00:00",0,0,0,0,0,0,0
+"AWSQuickSightSageMakerPolicy","v3",True,"2023-10-30T17:57:43+00:00",0,0,0,0,0,0,0
+"AWSQuickSightSageMakerPolicy","v2",False,"2023-10-03T23:22:22+00:00",0,0,0,0,0,0,0
 "AWSQuickSightSageMakerPolicy","v1",False,"2020-01-17T17:18:13+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryEc2InstancePolicy","v3",False,"2023-06-13T16:30:14+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryEc2InstancePolicy","v4",True,"2023-10-25T08:19:46+00:00",0,0,0,0,0,0,0
