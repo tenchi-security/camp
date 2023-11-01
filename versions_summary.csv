@@ -2943,7 +2943,8 @@
 "AmazonMCSFullAccess","v2",True,"2020-04-17T19:19:29+00:00",1,2,0,0,0,0,8
 "AmazonMCSFullAccess","v1",False,"2019-12-03T13:45:25+00:00",1,1,0,0,0,0,6
 "AmazonECSTaskExecutionRolePolicy","v1",True,"2017-11-16T18:48:22+00:00",0,2,0,0,0,1,2
-"AWSSSMForSAPServiceLinkedRolePolicy","v3",True,"2023-07-31T22:33:25+00:00",0,0,0,0,0,0,0
+"AWSSSMForSAPServiceLinkedRolePolicy","v3",False,"2023-07-31T22:33:25+00:00",0,0,0,0,0,0,0
+"AWSSSMForSAPServiceLinkedRolePolicy","v4",True,"2023-10-31T23:39:16+00:00",0,0,0,0,0,0,0
 "AWSSSMForSAPServiceLinkedRolePolicy","v2",False,"2023-01-06T02:41:02+00:00",0,0,0,0,0,0,0
 "AWSSSMForSAPServiceLinkedRolePolicy","v1",False,"2022-11-16T01:18:21+00:00",0,0,0,0,0,0,0
 "AmazonLookoutVisionFullAccess","v1",True,"2021-05-11T19:24:54+00:00",1,1,0,0,0,0,8
