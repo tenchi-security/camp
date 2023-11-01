@@ -1,0 +1,6 @@
+{
+    "VersionId": "v3",
+    "IsDefaultVersion": true,
+    "CreateDate": "2023-11-01T16:27:52+00:00",
+    "PolicyName": "AWSIPAMServiceRolePolicy"
+}

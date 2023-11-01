@@ -29,7 +29,8 @@
 "AWSApplicationDiscoveryAgentlessCollectorAccess","v1",True,"2022-08-16T21:00:59+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryNetworkReplicationPolicy","v1",True,"2023-06-11T12:36:48+00:00",0,0,0,0,0,0,0
 "AWSIoTWirelessGatewayCertManager","v1",True,"2020-12-15T15:30:48+00:00",0,0,0,0,0,0,0
-"AWSIPAMServiceRolePolicy","v2",True,"2023-01-25T20:13:08+00:00",0,0,0,0,0,0,0
+"AWSIPAMServiceRolePolicy","v3",True,"2023-11-01T16:27:52+00:00",0,0,0,0,0,0,0
+"AWSIPAMServiceRolePolicy","v2",False,"2023-01-25T20:13:08+00:00",0,0,0,0,0,0,0
 "AWSIPAMServiceRolePolicy","v1",False,"2021-11-30T19:08:11+00:00",0,0,0,0,0,0,0
 "AmazonRDSBetaServiceRolePolicy","v6",False,"2022-02-22T20:46:59+00:00",0,2,0,0,0,0,15
 "AmazonRDSBetaServiceRolePolicy","v3",False,"2018-07-05T18:29:48+00:00",0,2,0,0,0,0,11
