@@ -2386,7 +2386,8 @@
 "AmazonCodeGuruProfilerReadOnlyAccess","v1",False,"2019-12-03T10:30:15+00:00",0,0,0,0,0,0,0
 "AmazonCodeGuruProfilerReadOnlyAccess","v3",True,"2020-06-27T23:52:52+00:00",0,0,0,0,0,0,0
 "AWSKeyManagementServiceCustomKeyStoresServiceRolePolicy","v1",True,"2018-11-14T20:10:53+00:00",0,1,0,0,0,0,5
-"AmazonVPCReachabilityAnalyzerFullAccessPolicy","v1",True,"2023-06-14T20:12:17+00:00",0,1,0,0,0,0,4
+"AmazonVPCReachabilityAnalyzerFullAccessPolicy","v2",True,"2023-11-03T19:37:28+00:00",0,1,0,0,0,0,4
+"AmazonVPCReachabilityAnalyzerFullAccessPolicy","v1",False,"2023-06-14T20:12:17+00:00",0,1,0,0,0,0,4
 "AWSApplicationMigrationAgentPolicy","v2",True,"2022-09-20T11:13:40+00:00",0,1,0,0,0,0,6
 "AWSApplicationMigrationAgentPolicy","v1",False,"2021-04-07T07:00:21+00:00",0,0,0,0,0,0,0
 "EC2FleetTimeShiftableServiceRolePolicy","v1",True,"2019-12-23T19:47:15+00:00",0,2,0,1,0,0,4
@@ -2395,7 +2396,8 @@
 "AmazonCodeGuruProfilerFullAccess","v1",False,"2019-12-03T10:13:27+00:00",1,1,0,2,0,0,11
 "AmazonCodeGuruProfilerFullAccess","v3",False,"2020-06-28T00:04:51+00:00",2,1,0,2,0,0,11
 "AWSSavingsPlansFullAccess","v1",True,"2019-11-06T22:45:18+00:00",1,1,0,0,0,0,3
-"AmazonVPCNetworkAccessAnalyzerFullAccessPolicy","v1",True,"2023-06-15T22:56:58+00:00",0,1,0,0,0,0,4
+"AmazonVPCNetworkAccessAnalyzerFullAccessPolicy","v2",True,"2023-11-03T19:31:09+00:00",0,1,0,0,0,0,4
+"AmazonVPCNetworkAccessAnalyzerFullAccessPolicy","v1",False,"2023-06-15T22:56:58+00:00",0,1,0,0,0,0,4
 "AmazonRoute53RecoveryReadinessReadOnlyAccess","v2",True,"2021-11-09T20:14:51+00:00",0,0,0,0,0,0,0
 "AmazonRoute53RecoveryReadinessReadOnlyAccess","v1",False,"2021-08-18T18:11:33+00:00",0,0,0,0,0,0,0
 "AmazonHealthLakeReadOnlyAccess","v1",True,"2021-02-17T02:43:31+00:00",0,0,0,0,0,0,0

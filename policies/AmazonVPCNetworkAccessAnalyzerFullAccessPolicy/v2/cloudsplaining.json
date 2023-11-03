@@ -1,0 +1,16 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "ec2"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "ec2:CreateNetworkInsightsAccessScope",
+        "ec2:DeleteNetworkInsightsAccessScope",
+        "ec2:DeleteNetworkInsightsAccessScopeAnalysis",
+        "ec2:StartNetworkInsightsAccessScopeAnalysis"
+    ]
+}
