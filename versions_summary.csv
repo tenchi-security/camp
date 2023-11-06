@@ -436,7 +436,8 @@
 "AmazonVPCCrossAccountNetworkInterfaceOperations","v2",False,"2018-01-02T19:17:56+00:00",0,1,0,2,0,0,9
 "AmazonVPCCrossAccountNetworkInterfaceOperations","v1",False,"2017-07-18T20:47:16+00:00",0,1,0,1,0,0,9
 "AmazonVPCCrossAccountNetworkInterfaceOperations","v3",False,"2019-01-07T19:16:23+00:00",0,1,0,2,0,0,9
-"AWSAuditManagerServiceRolePolicy","v4",True,"2022-07-07T22:26:07+00:00",0,0,0,0,0,0,0
+"AWSAuditManagerServiceRolePolicy","v5",True,"2023-11-06T20:07:07+00:00",0,0,0,0,0,0,0
+"AWSAuditManagerServiceRolePolicy","v4",False,"2022-07-07T22:26:07+00:00",0,0,0,0,0,0,0
 "AWSAuditManagerServiceRolePolicy","v2",False,"2021-11-22T19:36:39+00:00",0,1,0,0,0,0,1
 "AWSAuditManagerServiceRolePolicy","v1",False,"2020-12-08T15:12:12+00:00",0,1,0,0,0,0,1
 "AWSAuditManagerServiceRolePolicy","v3",False,"2022-05-20T16:26:09+00:00",0,0,0,0,0,0,0
@@ -694,7 +695,8 @@
 "ROSAAmazonEBSCSIDriverOperatorPolicy","v1",True,"2023-04-20T22:36:00+00:00",0,0,0,0,0,0,0
 "AWSIoTSiteWiseReadOnlyAccess","v2",True,"2022-09-16T19:05:20+00:00",0,0,0,0,0,0,0
 "AWSIoTSiteWiseReadOnlyAccess","v1",False,"2018-12-04T20:55:11+00:00",0,0,0,0,0,0,0
-"AmplifyBackendDeployFullAccess","v1",True,"2023-10-06T21:32:59+00:00",0,0,0,0,0,0,0
+"AmplifyBackendDeployFullAccess","v2",True,"2023-11-06T20:08:59+00:00",0,0,0,0,0,0,0
+"AmplifyBackendDeployFullAccess","v1",False,"2023-10-06T21:32:59+00:00",0,0,0,0,0,0,0
 "AmazonCloudDirectoryFullAccess","v1",True,"2017-02-25T00:41:39+00:00",1,1,0,0,0,0,32
 "AWSRoboMakerServiceRolePolicy","v1",True,"2018-11-26T05:33:19+00:00",0,3,0,2,0,0,4
 "AmazonOmicsFullAccess","v1",True,"2023-02-24T00:59:33+00:00",1,2,0,2,0,0,2
