@@ -3246,9 +3246,10 @@
 "AWSSecurityHubServiceRolePolicy","v7",False,"2020-09-21T19:59:01+00:00",0,0,0,0,0,0,0
 "AWSSecurityHubServiceRolePolicy","v6",False,"2020-08-31T20:29:25+00:00",0,0,0,0,0,0,0
 "AWSSecurityHubServiceRolePolicy","v8",False,"2021-06-29T19:55:36+00:00",0,0,0,0,0,0,0
+"AWSSecurityHubServiceRolePolicy","v13",True,"2023-11-07T00:53:28+00:00",0,1,0,0,0,0,10
 "AWSSecurityHubServiceRolePolicy","v2",False,"2019-07-12T21:11:13+00:00",0,0,0,0,0,0,0
 "AWSSecurityHubServiceRolePolicy","v1",False,"2018-11-27T23:47:51+00:00",0,0,0,0,0,0,0
-"AWSSecurityHubServiceRolePolicy","v12",True,"2023-09-27T15:38:37+00:00",0,1,0,0,0,0,10
+"AWSSecurityHubServiceRolePolicy","v12",False,"2023-09-27T15:38:37+00:00",0,1,0,0,0,0,10
 "AWSSecurityHubServiceRolePolicy","v11",False,"2023-09-20T20:43:57+00:00",0,1,0,0,0,0,10
 "AWSSecurityHubServiceRolePolicy","v9",False,"2021-07-14T20:32:48+00:00",0,0,0,0,0,0,0
 "AWSSecurityHubServiceRolePolicy","v3",False,"2020-02-05T21:38:52+00:00",0,0,0,0,0,0,0
