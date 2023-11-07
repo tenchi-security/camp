@@ -415,9 +415,10 @@
 "AccessAnalyzerServiceRolePolicy","v4",False,"2020-05-19T19:10:16+00:00",0,0,0,0,0,0,0
 "AccessAnalyzerServiceRolePolicy","v7",False,"2022-04-06T20:18:51+00:00",0,0,0,0,0,0,0
 "AccessAnalyzerServiceRolePolicy","v6",False,"2021-09-02T16:49:47+00:00",0,0,0,0,0,0,0
-"AccessAnalyzerServiceRolePolicy","v8",True,"2022-10-25T16:50:52+00:00",0,0,0,0,0,0,0
+"AccessAnalyzerServiceRolePolicy","v8",False,"2022-10-25T16:50:52+00:00",0,0,0,0,0,0,0
 "AccessAnalyzerServiceRolePolicy","v2",False,"2020-03-02T15:55:03+00:00",0,0,0,0,0,0,0
 "AccessAnalyzerServiceRolePolicy","v1",False,"2019-12-02T17:13:10+00:00",0,0,0,0,0,0,0
+"AccessAnalyzerServiceRolePolicy","v9",True,"2023-11-07T19:55:15+00:00",0,0,0,0,0,0,0
 "AccessAnalyzerServiceRolePolicy","v3",False,"2020-04-30T20:28:02+00:00",0,0,0,0,0,0,0
 "AWSBatchServiceRole","v5",False,"2017-12-14T23:11:45+00:00",0,5,0,1,0,0,24
 "AWSBatchServiceRole","v10",False,"2019-10-08T19:31:12+00:00",0,5,0,2,0,0,29
