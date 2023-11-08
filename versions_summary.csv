@@ -376,9 +376,10 @@
 "AWSAccountManagementFullAccess","v1",True,"2021-09-30T23:20:37+00:00",1,0,0,0,0,0,0
 "AWSImageBuilderFullAccess","v2",True,"2021-04-13T17:33:42+00:00",1,1,0,4,0,0,25
 "AWSImageBuilderFullAccess","v1",False,"2019-12-20T18:25:12+00:00",1,1,0,4,0,0,25
+"AWSIPAMServiceRolePolicy","v4",True,"2023-11-08T19:05:45+00:00",0,0,0,0,0,0,0
 "AWSIPAMServiceRolePolicy","v2",False,"2023-01-25T20:13:08+00:00",0,0,0,0,0,0,0
 "AWSIPAMServiceRolePolicy","v1",False,"2021-11-30T19:08:11+00:00",0,0,0,0,0,0,0
-"AWSIPAMServiceRolePolicy","v3",True,"2023-11-01T16:27:52+00:00",0,0,0,0,0,0,0
+"AWSIPAMServiceRolePolicy","v3",False,"2023-11-01T16:27:52+00:00",0,0,0,0,0,0,0
 "AmazonEC2RoleforSSM","v5",False,"2017-09-22T21:04:17+00:00",0,4,0,0,2,0,11
 "AmazonEC2RoleforSSM","v4",False,"2017-08-10T20:49:08+00:00",0,4,0,0,2,0,11
 "AmazonEC2RoleforSSM","v7",False,"2018-10-24T19:37:47+00:00",0,4,0,0,2,0,11
@@ -2285,13 +2286,14 @@
 "ServerMigrationServiceLaunchRole","v3",False,"2020-09-30T17:50:15+00:00",0,2,0,1,0,0,6
 "AmazonSageMakerServiceCatalogProductsCloudformationServiceRolePolicy","v1",True,"2022-03-25T04:26:40+00:00",0,0,0,0,0,0,0
 "AmazonRekognitionReadOnlyAccess","v5",False,"2020-07-06T20:21:19+00:00",0,0,0,0,0,0,0
+"AmazonRekognitionReadOnlyAccess","v10",True,"2023-11-08T18:30:22+00:00",0,0,0,0,0,0,0
 "AmazonRekognitionReadOnlyAccess","v4",False,"2020-02-20T21:26:20+00:00",0,0,0,0,0,0,0
 "AmazonRekognitionReadOnlyAccess","v7",False,"2021-11-03T02:53:36+00:00",0,0,0,0,0,0,0
 "AmazonRekognitionReadOnlyAccess","v6",False,"2020-10-15T22:07:44+00:00",0,0,0,0,0,0,0
 "AmazonRekognitionReadOnlyAccess","v8",False,"2022-08-16T20:25:04+00:00",0,0,0,0,0,0,0
 "AmazonRekognitionReadOnlyAccess","v2",False,"2017-12-06T23:28:39+00:00",0,0,0,0,0,0,0
 "AmazonRekognitionReadOnlyAccess","v1",False,"2016-11-30T14:58:06+00:00",0,0,0,0,0,0,0
-"AmazonRekognitionReadOnlyAccess","v9",True,"2023-07-24T19:04:30+00:00",0,0,0,0,0,0,0
+"AmazonRekognitionReadOnlyAccess","v9",False,"2023-07-24T19:04:30+00:00",0,0,0,0,0,0,0
 "AmazonRekognitionReadOnlyAccess","v3",False,"2020-01-08T20:02:40+00:00",0,0,0,0,0,0,0
 "AmazonEC2RoleforDataPipelineRole","v2",False,"2015-03-19T19:18:17+00:00",7,7,0,21,1,0,133
 "AmazonEC2RoleforDataPipelineRole","v1",False,"2015-02-06T18:41:25+00:00",0,2,0,8,1,0,35
