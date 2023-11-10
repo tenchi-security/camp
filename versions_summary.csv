@@ -1610,6 +1610,7 @@
 "AmazonInspectorServiceRolePolicy","v2",False,"2018-01-08T17:30:57+00:00",0,0,0,0,0,0,0
 "AmazonInspectorServiceRolePolicy","v1",False,"2017-11-21T15:48:27+00:00",0,0,0,0,0,0,0
 "AmazonInspectorServiceRolePolicy","v3",False,"2018-02-05T18:29:10+00:00",0,0,0,0,0,0,0
+"PartnerCentralAccountManagementUserRoleAssociation","v1",True,"2023-11-10T02:03:40+00:00",0,0,0,0,0,0,0
 "AWSElementalMediaPackageV2FullAccess","v1",True,"2023-07-25T20:29:37+00:00",1,0,0,0,0,0,0
 "AWSAppFabricReadOnlyAccess","v1",True,"2023-06-27T19:52:02+00:00",0,0,0,0,0,0,0
 "AWSIoTWirelessReadOnlyAccess","v1",True,"2020-12-15T15:28:56+00:00",0,0,0,0,0,0,0
