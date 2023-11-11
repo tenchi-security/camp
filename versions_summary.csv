@@ -1364,6 +1364,7 @@
 "AmazonCloudWatchEvidentlyReadOnlyAccess","v1",True,"2021-11-29T15:08:38+00:00",0,0,0,0,0,0,0
 "AWSResourceAccessManagerFullAccess","v1",True,"2019-06-04T17:28:22+00:00",1,1,0,8,0,0,11
 "AWSElasticDisasterRecoveryStagingAccountPolicy_v2","v1",True,"2023-01-05T12:11:44+00:00",0,1,0,0,0,0,1
+"AWSServiceRolePolicyForBackupRestoreTesting","v1",True,"2023-11-10T23:37:45+00:00",0,6,0,1,0,0,10
 "CloudWatchFullAccess","v4",True,"2022-11-27T13:23:49+00:00",3,3,0,4,0,0,45
 "CloudWatchFullAccess","v2",False,"2017-12-13T17:52:41+00:00",3,3,0,6,0,0,40
 "CloudWatchFullAccess","v1",False,"2015-02-06T18:40:00+00:00",3,3,0,6,0,0,40
