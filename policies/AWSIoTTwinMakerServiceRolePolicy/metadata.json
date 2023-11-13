@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSIoTTwinMakerServiceRolePolicy",
+    "PolicyId": "ANPAZKAPJZG4IXKMJJBGW",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/AWSIoTTwinMakerServiceRolePolicy",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2023-11-13T18:59:42+00:00",
+    "UpdateDate": "2023-11-13T18:59:42+00:00"
+}

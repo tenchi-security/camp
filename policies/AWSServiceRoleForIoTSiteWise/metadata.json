@@ -3,10 +3,10 @@
     "PolicyId": "ANPAJGQU4DZIQP6HLYQPE",
     "Arn": "arn:aws:iam::aws:policy/aws-service-role/AWSServiceRoleForIoTSiteWise",
     "Path": "/aws-service-role/",
-    "DefaultVersionId": "v7",
+    "DefaultVersionId": "v8",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2018-11-14T19:19:17+00:00",
-    "UpdateDate": "2020-04-25T02:15:01+00:00"
+    "UpdateDate": "2023-11-13T18:27:50+00:00"
 }

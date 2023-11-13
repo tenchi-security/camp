@@ -1,6 +1,6 @@
 {
     "VersionId": "v7",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2020-04-25T02:15:01+00:00",
     "PolicyName": "AWSServiceRoleForIoTSiteWise"
 }
