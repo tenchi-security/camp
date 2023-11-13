@@ -1714,7 +1714,8 @@
 "AWSWAFReadOnlyAccess","v3",False,"2020-01-07T19:27:38+00:00",0,0,0,0,0,0,0
 "AutoScalingReadOnlyAccess","v1",True,"2017-01-12T19:39:35+00:00",0,0,0,0,0,0,0
 "AWSIQPermissionServiceRolePolicy","v1",True,"2019-08-22T19:36:29+00:00",0,0,0,0,0,0,0
-"AWSECRPullThroughCache_ServiceRolePolicy","v1",True,"2021-11-26T21:51:09+00:00",0,1,0,0,0,1,4
+"AWSECRPullThroughCache_ServiceRolePolicy","v2",True,"2023-11-13T15:23:16+00:00",0,1,0,0,0,1,4
+"AWSECRPullThroughCache_ServiceRolePolicy","v1",False,"2021-11-26T21:51:09+00:00",0,1,0,0,0,1,4
 "AWSApplicationMigrationFullAccess","v5",False,"2022-08-11T16:08:08+00:00",1,1,0,0,0,0,33
 "AWSApplicationMigrationFullAccess","v4",False,"2022-05-31T21:14:49+00:00",1,1,0,0,0,0,33
 "AWSApplicationMigrationFullAccess","v7",True,"2023-04-20T17:28:13+00:00",1,1,0,0,0,0,38
