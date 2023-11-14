@@ -1,0 +1,25 @@
+{
+    "ServiceWildcard": [
+        "resource-explorer-2"
+    ],
+    "ServicesAffected": [
+        "iam",
+        "resource-explorer-2"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:CreateServiceLinkedRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "iam:CreateServiceLinkedRole",
+        "resource-explorer-2:AssociateDefaultView",
+        "resource-explorer-2:DeleteIndex",
+        "resource-explorer-2:DeleteView",
+        "resource-explorer-2:TagResource",
+        "resource-explorer-2:UntagResource",
+        "resource-explorer-2:UpdateIndexType",
+        "resource-explorer-2:UpdateView"
+    ]
+}

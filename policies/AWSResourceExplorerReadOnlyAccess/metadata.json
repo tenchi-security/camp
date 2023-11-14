@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4GTUSQOR6X",
     "Arn": "arn:aws:iam::aws:policy/AWSResourceExplorerReadOnlyAccess",
     "Path": "/",
-    "DefaultVersionId": "v1",
+    "DefaultVersionId": "v2",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2022-11-07T19:56:00+00:00",
-    "UpdateDate": "2022-11-07T19:56:00+00:00"
+    "UpdateDate": "2023-11-14T16:43:41+00:00"
 }
