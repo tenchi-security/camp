@@ -3289,6 +3289,7 @@
 "ElastiCacheServiceRolePolicy","v1",False,"2017-12-07T17:50:04+00:00",0,1,0,0,0,0,7
 "ElastiCacheServiceRolePolicy","v3",True,"2020-02-06T21:27:13+00:00",0,1,0,0,0,0,7
 "AWSAppFabricServiceRolePolicy","v1",True,"2023-06-26T21:07:45+00:00",0,0,0,0,0,0,0
+"AWSrePostPrivateCloudWatchAccess","v1",True,"2023-11-15T16:37:33+00:00",0,0,0,0,0,0,0
 "AmazonZocaloFullAccess","v1",True,"2015-02-06T18:41:13+00:00",2,2,0,5,0,0,50
 "AwsGlueSessionUserRestrictedPolicy","v1",True,"2022-04-14T21:31:01+00:00",0,0,0,0,0,0,0
 "AWSResourceAccessManagerServiceRolePolicy","v1",True,"2018-11-14T19:28:28+00:00",0,0,0,0,0,0,0
