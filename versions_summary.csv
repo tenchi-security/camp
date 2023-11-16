@@ -2952,6 +2952,7 @@
 "AWSDataPipelineRole","v3",False,"2015-07-01T21:38:04+00:00",2,8,1,10,1,0,86
 "AWSRefactoringToolkitSidecarPolicy","v2",True,"2022-10-29T22:15:51+00:00",0,0,0,0,0,0,0
 "AWSRefactoringToolkitSidecarPolicy","v1",False,"2022-10-25T16:41:12+00:00",0,0,0,0,0,0,0
+"AWSGitSyncServiceRolePolicy","v1",True,"2023-11-16T17:05:42+00:00",0,0,0,0,0,0,0
 "AWSResourceAccessManagerResourceShareParticipantAccess","v1",True,"2019-12-09T20:41:37+00:00",0,1,0,2,0,0,2
 "AWSMarketplaceProcurementSystemAdminFullAccess","v1",True,"2019-06-25T13:07:47+00:00",0,0,0,0,0,0,0
 "AWSVPCVerifiedAccessServiceRolePolicy","v2",True,"2023-06-01T16:28:50+00:00",0,0,0,0,0,0,0

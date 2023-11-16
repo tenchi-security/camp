@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSGitSyncServiceRolePolicy",
+    "PolicyId": "ANPAZKAPJZG4OZHR7ARYP",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/AWSGitSyncServiceRolePolicy",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2023-11-16T17:05:42+00:00",
+    "UpdateDate": "2023-11-16T17:05:42+00:00"
+}
