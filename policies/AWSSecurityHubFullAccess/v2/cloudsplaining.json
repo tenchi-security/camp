@@ -1,0 +1,54 @@
+{
+    "ServiceWildcard": [
+        "securityhub"
+    ],
+    "ServicesAffected": [
+        "iam",
+        "securityhub"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:CreateServiceLinkedRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "iam:CreateServiceLinkedRole",
+        "securityhub:AcceptAdministratorInvitation",
+        "securityhub:AcceptInvitation",
+        "securityhub:BatchDeleteAutomationRules",
+        "securityhub:BatchDisableStandards",
+        "securityhub:BatchEnableStandards",
+        "securityhub:BatchImportFindings",
+        "securityhub:BatchUpdateAutomationRules",
+        "securityhub:BatchUpdateFindings",
+        "securityhub:CreateActionTarget",
+        "securityhub:CreateInsight",
+        "securityhub:CreateMembers",
+        "securityhub:DeclineInvitations",
+        "securityhub:DeleteActionTarget",
+        "securityhub:DeleteFindingAggregator",
+        "securityhub:DeleteInsight",
+        "securityhub:DeleteInvitations",
+        "securityhub:DeleteMembers",
+        "securityhub:DisableImportFindingsForProduct",
+        "securityhub:DisableOrganizationAdminAccount",
+        "securityhub:DisableSecurityHub",
+        "securityhub:DisassociateFromAdministratorAccount",
+        "securityhub:DisassociateFromMasterAccount",
+        "securityhub:DisassociateMembers",
+        "securityhub:EnableImportFindingsForProduct",
+        "securityhub:EnableOrganizationAdminAccount",
+        "securityhub:EnableSecurityHub",
+        "securityhub:InviteMembers",
+        "securityhub:TagResource",
+        "securityhub:UntagResource",
+        "securityhub:UpdateActionTarget",
+        "securityhub:UpdateFindingAggregator",
+        "securityhub:UpdateFindings",
+        "securityhub:UpdateInsight",
+        "securityhub:UpdateOrganizationConfiguration",
+        "securityhub:UpdateSecurityHubConfiguration",
+        "securityhub:UpdateStandardsControl"
+    ]
+}

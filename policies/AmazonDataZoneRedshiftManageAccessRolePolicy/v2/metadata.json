@@ -1,0 +1,6 @@
+{
+    "VersionId": "v2",
+    "IsDefaultVersion": true,
+    "CreateDate": "2023-11-16T22:04:02+00:00",
+    "PolicyName": "AmazonDataZoneRedshiftManageAccessRolePolicy"
+}

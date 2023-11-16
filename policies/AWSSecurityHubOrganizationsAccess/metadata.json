@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4KVIUTRVOZ",
     "Arn": "arn:aws:iam::aws:policy/AWSSecurityHubOrganizationsAccess",
     "Path": "/",
-    "DefaultVersionId": "v1",
+    "DefaultVersionId": "v2",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2021-03-15T20:53:03+00:00",
-    "UpdateDate": "2021-03-15T20:53:03+00:00"
+    "UpdateDate": "2023-11-16T21:13:44+00:00"
 }
