@@ -1950,6 +1950,7 @@
 "AWSCodeDeployRoleForLambda","v1",False,"2017-11-28T14:05:44+00:00",0,3,0,0,0,0,3
 "AWSCodeDeployRoleForLambda","v3",True,"2019-12-03T19:53:10+00:00",0,3,0,0,0,0,3
 "AWSImportExportFullAccess","v1",True,"2015-02-06T18:40:43+00:00",1,0,0,0,0,0,0
+"AWSMarketplaceDeploymentServiceRolePolicy","v1",True,"2023-11-15T23:34:33+00:00",0,0,0,0,0,0,0
 "AWSIoTDeviceTesterForGreengrassFullAccess","v4",True,"2020-06-25T17:01:56+00:00",1,2,0,0,0,0,8
 "AWSIoTDeviceTesterForGreengrassFullAccess","v2",False,"2020-02-26T18:26:52+00:00",1,2,0,0,0,0,8
 "AWSIoTDeviceTesterForGreengrassFullAccess","v1",False,"2020-02-20T21:21:27+00:00",1,2,0,0,0,0,8
