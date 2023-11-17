@@ -733,7 +733,8 @@
 "AmazonWorkLinkReadOnly","v2",False,"2019-08-01T21:35:07+00:00",0,0,0,0,0,0,0
 "AmazonWorkLinkReadOnly","v1",False,"2019-01-23T19:07:10+00:00",0,0,0,0,0,0,0
 "AmazonWorkLinkReadOnly","v3",True,"2019-09-23T18:37:21+00:00",0,0,0,0,0,0,0
-"AWSSSMForSAPServiceLinkedRolePolicy","v4",True,"2023-10-31T23:39:16+00:00",0,0,0,0,0,0,0
+"AWSSSMForSAPServiceLinkedRolePolicy","v5",True,"2023-11-17T21:22:26+00:00",0,0,0,0,0,0,0
+"AWSSSMForSAPServiceLinkedRolePolicy","v4",False,"2023-10-31T23:39:16+00:00",0,0,0,0,0,0,0
 "AWSSSMForSAPServiceLinkedRolePolicy","v2",False,"2023-01-06T02:41:02+00:00",0,0,0,0,0,0,0
 "AWSSSMForSAPServiceLinkedRolePolicy","v1",False,"2022-11-16T01:18:21+00:00",0,0,0,0,0,0,0
 "AWSSSMForSAPServiceLinkedRolePolicy","v3",False,"2023-07-31T22:33:25+00:00",0,0,0,0,0,0,0
@@ -1887,12 +1888,13 @@
 "AWS_ConfigRole","v18",False,"2022-10-18T17:17:17+00:00",0,2,0,2,0,0,7
 "AWS_ConfigRole","v2",False,"2020-12-18T22:10:53+00:00",0,1,0,0,0,0,5
 "AWS_ConfigRole","v17",False,"2022-09-14T19:21:07+00:00",0,2,0,2,0,0,7
+"AWS_ConfigRole","v28",True,"2023-11-17T21:09:11+00:00",0,2,0,2,0,0,11
 "AWS_ConfigRole","v1",False,"2020-09-15T20:30:30+00:00",0,1,0,0,0,0,5
 "AWS_ConfigRole","v12",False,"2022-04-06T21:41:08+00:00",0,1,0,0,0,0,5
 "AWS_ConfigRole","v15",False,"2022-08-19T22:05:27+00:00",0,2,0,1,0,0,6
 "AWS_ConfigRole","v11",False,"2022-03-11T21:35:16+00:00",0,1,0,0,0,0,5
 "AWS_ConfigRole","v9",False,"2022-01-21T18:35:41+00:00",0,1,0,0,0,0,5
-"AWS_ConfigRole","v27",True,"2023-10-03T21:42:48+00:00",0,2,0,2,0,0,11
+"AWS_ConfigRole","v27",False,"2023-10-03T21:42:48+00:00",0,2,0,2,0,0,11
 "AWS_ConfigRole","v22",False,"2023-03-02T22:08:11+00:00",0,2,0,2,0,0,7
 "AWS_ConfigRole","v20",False,"2023-01-05T22:14:48+00:00",0,2,0,2,0,0,7
 "AWS_ConfigRole","v3",False,"2021-01-29T19:24:13+00:00",0,1,0,0,0,0,5
@@ -2962,8 +2964,9 @@
 "AWSGitSyncServiceRolePolicy","v1",True,"2023-11-16T17:05:42+00:00",0,0,0,0,0,0,0
 "AWSResourceAccessManagerResourceShareParticipantAccess","v1",True,"2019-12-09T20:41:37+00:00",0,1,0,2,0,0,2
 "AWSMarketplaceProcurementSystemAdminFullAccess","v1",True,"2019-06-25T13:07:47+00:00",0,0,0,0,0,0,0
-"AWSVPCVerifiedAccessServiceRolePolicy","v2",True,"2023-06-01T16:28:50+00:00",0,0,0,0,0,0,0
+"AWSVPCVerifiedAccessServiceRolePolicy","v2",False,"2023-06-01T16:28:50+00:00",0,0,0,0,0,0,0
 "AWSVPCVerifiedAccessServiceRolePolicy","v1",False,"2022-11-29T03:35:11+00:00",0,0,0,0,0,0,0
+"AWSVPCVerifiedAccessServiceRolePolicy","v3",True,"2023-11-17T21:03:13+00:00",0,0,0,0,0,0,0
 "AmazonGrafanaCloudWatchAccess","v1",True,"2023-03-24T22:41:53+00:00",0,0,0,0,0,0,0
 "AmazonMacieServiceRole","v1",True,"2017-08-14T14:53:26+00:00",0,1,0,0,1,0,1
 "AmazonPrometheusRemoteWriteAccess","v1",True,"2020-12-19T01:04:32+00:00",0,1,0,0,0,0,1
