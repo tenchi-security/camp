@@ -3,10 +3,10 @@
     "PolicyId": "ANPAJUCWFHNZER665LLQQ",
     "Arn": "arn:aws:iam::aws:policy/aws-service-role/AWSConfigServiceRolePolicy",
     "Path": "/aws-service-role/",
-    "DefaultVersionId": "v47",
+    "DefaultVersionId": "v48",
     "AttachmentCount": 1,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2018-05-30T23:31:46+00:00",
-    "UpdateDate": "2023-10-03T21:41:17+00:00"
+    "UpdateDate": "2023-11-16T22:58:04+00:00"
 }

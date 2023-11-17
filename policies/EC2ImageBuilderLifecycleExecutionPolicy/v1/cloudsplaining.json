@@ -1,0 +1,13 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "imagebuilder"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "imagebuilder:DeleteImage"
+    ]
+}

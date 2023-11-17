@@ -1,0 +1,12 @@
+{
+    "PolicyName": "EC2ImageBuilderLifecycleExecutionPolicy",
+    "PolicyId": "ANPAZKAPJZG4MAHJZQTQZ",
+    "Arn": "arn:aws:iam::aws:policy/service-role/EC2ImageBuilderLifecycleExecutionPolicy",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2023-11-16T23:23:09+00:00",
+    "UpdateDate": "2023-11-16T23:23:09+00:00"
+}

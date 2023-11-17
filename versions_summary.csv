@@ -872,7 +872,8 @@
 "AWSCloudFormationReadOnlyAccess","v3",False,"2019-02-06T22:16:02+00:00",0,0,0,0,0,0,0
 "ServiceQuotasServiceRolePolicy","v2",True,"2019-06-24T14:52:56+00:00",1,0,0,0,0,0,0
 "ServiceQuotasServiceRolePolicy","v1",False,"2019-05-22T20:44:17+00:00",0,0,0,0,0,0,0
-"AWSDataLifecycleManagerSSMFullAccess","v1",True,"2023-10-31T20:29:44+00:00",0,0,0,0,0,0,0
+"AWSDataLifecycleManagerSSMFullAccess","v2",True,"2023-11-16T22:31:54+00:00",0,0,0,0,0,0,0
+"AWSDataLifecycleManagerSSMFullAccess","v1",False,"2023-10-31T20:29:44+00:00",0,0,0,0,0,0,0
 "IAMUserSSHKeys","v1",True,"2015-07-09T17:08:54+00:00",0,0,0,0,0,0,0
 "IAMAccessAdvisorReadOnly","v1",True,"2019-06-21T19:33:45+00:00",0,0,0,0,0,0,0
 "SimpleWorkflowFullAccess","v1",True,"2015-02-06T18:41:04+00:00",1,1,0,0,0,0,30
@@ -1121,7 +1122,8 @@
 "AWSLambda_FullAccess","v1",True,"2020-11-17T21:14:08+00:00",1,2,1,7,0,0,36
 "MemoryDBServiceRolePolicy","v2",True,"2021-08-18T23:48:16+00:00",0,0,0,0,0,0,0
 "MemoryDBServiceRolePolicy","v1",False,"2021-08-17T22:34:59+00:00",0,0,0,0,0,0,0
-"AmazonGuardDutyFullAccess","v4",True,"2022-07-26T18:28:01+00:00",1,3,0,1,0,0,15
+"AmazonGuardDutyFullAccess","v5",True,"2023-11-16T23:04:21+00:00",1,3,0,1,0,0,15
+"AmazonGuardDutyFullAccess","v4",False,"2022-07-26T18:28:01+00:00",1,3,0,1,0,0,15
 "AmazonGuardDutyFullAccess","v2",False,"2021-02-16T23:39:53+00:00",1,3,0,1,0,0,31
 "AmazonGuardDutyFullAccess","v1",False,"2017-11-28T22:31:30+00:00",1,2,0,1,0,0,30
 "AmazonGuardDutyFullAccess","v3",False,"2022-07-19T20:36:51+00:00",1,3,0,1,0,0,15
@@ -1406,13 +1408,14 @@
 "AWSConfigServiceRolePolicy","v21",False,"2020-12-18T22:02:34+00:00",0,1,0,0,0,0,5
 "AWSConfigServiceRolePolicy","v29",False,"2022-02-10T18:34:59+00:00",0,1,0,0,0,0,5
 "AWSConfigServiceRolePolicy","v18",False,"2019-11-18T22:33:22+00:00",0,1,0,0,0,0,5
+"AWSConfigServiceRolePolicy","v48",True,"2023-11-16T22:58:04+00:00",0,2,0,2,0,0,11
 "AWSConfigServiceRolePolicy","v2",False,"2018-07-31T19:20:09+00:00",0,1,0,0,0,0,5
 "AWSConfigServiceRolePolicy","v33",False,"2022-07-15T01:41:02+00:00",0,2,0,1,0,0,6
 "AWSConfigServiceRolePolicy","v17",False,"2019-10-21T21:54:04+00:00",0,1,0,0,0,0,5
 "AWSConfigServiceRolePolicy","v40",False,"2023-01-31T19:52:15+00:00",0,2,0,2,0,0,7
 "AWSConfigServiceRolePolicy","v28",False,"2022-01-21T18:35:45+00:00",0,1,0,0,0,0,5
 "AWSConfigServiceRolePolicy","v1",False,"2018-05-30T23:31:46+00:00",0,1,0,0,0,0,5
-"AWSConfigServiceRolePolicy","v47",True,"2023-10-03T21:41:17+00:00",0,2,0,2,0,0,11
+"AWSConfigServiceRolePolicy","v47",False,"2023-10-03T21:41:17+00:00",0,2,0,2,0,0,11
 "AWSConfigServiceRolePolicy","v12",False,"2019-06-10T22:59:58+00:00",0,1,0,0,0,0,5
 "AWSConfigServiceRolePolicy","v31",False,"2022-04-06T21:41:38+00:00",0,1,0,0,0,0,5
 "AWSConfigServiceRolePolicy","v15",False,"2019-08-01T23:10:02+00:00",0,1,0,0,0,0,5
@@ -1805,9 +1808,10 @@
 "LexBotPolicy","v2",True,"2019-11-13T22:29:16+00:00",0,0,0,0,0,0,0
 "LexBotPolicy","v1",False,"2017-02-17T22:18:13+00:00",0,0,0,0,0,0,0
 "AmazonGrafanaRedshiftAccess","v1",True,"2021-11-26T23:15:15+00:00",0,2,0,0,0,0,2
+"AmazonGuardDutyReadOnlyAccess","v4",True,"2023-11-16T23:07:06+00:00",0,0,0,0,0,0,0
 "AmazonGuardDutyReadOnlyAccess","v2",False,"2018-04-25T21:07:17+00:00",0,0,0,0,0,0,0
 "AmazonGuardDutyReadOnlyAccess","v1",False,"2017-11-28T22:29:40+00:00",0,0,0,0,0,0,0
-"AmazonGuardDutyReadOnlyAccess","v3",True,"2021-02-16T23:37:57+00:00",0,0,0,0,0,0,0
+"AmazonGuardDutyReadOnlyAccess","v3",False,"2021-02-16T23:37:57+00:00",0,0,0,0,0,0,0
 "AWSCloudMapDiscoverInstanceAccess","v2",True,"2023-09-20T21:48:09+00:00",0,0,0,0,0,0,0
 "AWSCloudMapDiscoverInstanceAccess","v1",False,"2018-11-29T00:02:42+00:00",0,0,0,0,0,0,0
 "AmazonDetectiveMemberAccess","v1",True,"2023-01-17T15:16:14+00:00",0,0,0,0,0,0,0
@@ -2796,6 +2800,7 @@
 "AWSGlueServiceNotebookRole","v2",False,"2017-08-17T18:08:29+00:00",0,1,1,0,0,0,19
 "AWSGlueServiceNotebookRole","v1",False,"2017-08-14T13:37:42+00:00",0,1,1,0,0,0,19
 "AWSGlueServiceNotebookRole","v3",False,"2019-10-07T18:05:54+00:00",0,1,1,0,0,0,19
+"EC2ImageBuilderLifecycleExecutionPolicy","v1",True,"2023-11-16T23:23:09+00:00",0,1,0,0,0,0,1
 "AWSFaultInjectionSimulatorECSAccess","v2",True,"2023-06-01T10:48:27+00:00",0,0,0,0,0,0,0
 "AWSFaultInjectionSimulatorECSAccess","v1",False,"2022-10-26T20:37:56+00:00",0,0,0,0,0,0,0
 "AmazonDMSVPCManagementRole","v2",False,"2015-12-17T21:09:34+00:00",0,1,0,0,0,0,2
