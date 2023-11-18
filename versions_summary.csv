@@ -701,8 +701,9 @@
 "ROSAAmazonEBSCSIDriverOperatorPolicy","v1",True,"2023-04-20T22:36:00+00:00",0,0,0,0,0,0,0
 "AWSIoTSiteWiseReadOnlyAccess","v2",True,"2022-09-16T19:05:20+00:00",0,0,0,0,0,0,0
 "AWSIoTSiteWiseReadOnlyAccess","v1",False,"2018-12-04T20:55:11+00:00",0,0,0,0,0,0,0
-"AmplifyBackendDeployFullAccess","v2",True,"2023-11-06T20:08:59+00:00",0,0,0,0,0,0,0
+"AmplifyBackendDeployFullAccess","v2",False,"2023-11-06T20:08:59+00:00",0,0,0,0,0,0,0
 "AmplifyBackendDeployFullAccess","v1",False,"2023-10-06T21:32:59+00:00",0,0,0,0,0,0,0
+"AmplifyBackendDeployFullAccess","v3",True,"2023-11-17T23:27:43+00:00",0,0,0,0,0,0,0
 "AmazonCloudDirectoryFullAccess","v1",True,"2017-02-25T00:41:39+00:00",1,1,0,0,0,0,32
 "AWSRoboMakerServiceRolePolicy","v1",True,"2018-11-26T05:33:19+00:00",0,3,0,2,0,0,4
 "AmazonOmicsFullAccess","v1",True,"2023-02-24T00:59:33+00:00",1,2,0,2,0,0,2
@@ -3413,9 +3414,10 @@
 "AmazonWorkSpacesSelfServiceAccess","v1",True,"2019-06-27T19:22:52+00:00",0,1,0,0,0,0,3
 "AmazonElasticTranscoder_ReadOnlyAccess","v2",True,"2019-06-10T22:48:32+00:00",0,0,0,0,0,0,0
 "AmazonElasticTranscoder_ReadOnlyAccess","v1",False,"2018-06-07T21:09:56+00:00",0,0,0,0,0,0,0
+"AmazonDataZoneEnvironmentRolePermissionsBoundary","v4",True,"2023-11-17T23:29:08+00:00",2,9,0,2,0,1,116
 "AmazonDataZoneEnvironmentRolePermissionsBoundary","v2",False,"2023-09-14T19:33:50+00:00",2,9,0,2,0,1,115
 "AmazonDataZoneEnvironmentRolePermissionsBoundary","v1",False,"2023-09-11T23:38:22+00:00",2,9,0,2,0,1,115
-"AmazonDataZoneEnvironmentRolePermissionsBoundary","v3",True,"2023-09-29T05:12:51+00:00",2,9,0,2,0,1,116
+"AmazonDataZoneEnvironmentRolePermissionsBoundary","v3",False,"2023-09-29T05:12:51+00:00",2,9,0,2,0,1,116
 "WellArchitectedConsoleFullAccess","v1",True,"2018-11-29T18:19:23+00:00",1,1,0,0,0,0,14
 "AWSRoboMaker_FullAccess","v2",True,"2021-09-16T21:06:10+00:00",1,3,0,1,0,0,25
 "AWSRoboMaker_FullAccess","v1",False,"2020-09-10T18:34:18+00:00",1,3,0,1,0,0,25
