@@ -2973,6 +2973,7 @@
 "AWSCertificateManagerPrivateCAAuditor","v3",False,"2019-03-14T17:17:38+00:00",0,0,0,0,0,0,0
 "AWSCertificateManagerPrivateCAAuditor","v2",False,"2018-12-07T20:41:56+00:00",0,0,0,0,0,0,0
 "AWSCertificateManagerPrivateCAAuditor","v4",True,"2020-08-17T22:54:12+00:00",0,0,0,0,0,0,0
+"AmazonInspector2AgentlessServiceRolePolicy","v1",True,"2023-11-20T15:18:32+00:00",0,0,0,0,0,0,0
 "AWSCloudFormationReadOnlyAccess","v1",False,"2015-02-06T18:39:49+00:00",0,0,0,0,0,0,0
 "AWSCloudFormationReadOnlyAccess","v3",False,"2019-02-06T22:16:02+00:00",0,0,0,0,0,0,0
 "AWSCloudFormationReadOnlyAccess","v2",False,"2017-11-03T00:12:03+00:00",0,0,0,0,0,0,0
