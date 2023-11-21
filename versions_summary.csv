@@ -912,7 +912,8 @@
 "Billing","v7",False,"2023-06-28T19:47:25+00:00",0,2,0,0,0,0,4
 "Billing","v8",True,"2023-07-26T19:58:17+00:00",0,2,0,0,0,0,4
 "AWSSSMForSAPServiceLinkedRolePolicy","v1",False,"2022-11-16T01:18:21+00:00",0,0,0,0,0,0,0
-"AWSSSMForSAPServiceLinkedRolePolicy","v5",True,"2023-11-17T21:22:26+00:00",0,0,0,0,0,0,0
+"AWSSSMForSAPServiceLinkedRolePolicy","v5",False,"2023-11-17T21:22:26+00:00",0,0,0,0,0,0,0
+"AWSSSMForSAPServiceLinkedRolePolicy","v6",True,"2023-11-21T03:35:14+00:00",0,0,0,0,0,0,0
 "AWSSSMForSAPServiceLinkedRolePolicy","v3",False,"2023-07-31T22:33:25+00:00",0,0,0,0,0,0,0
 "AWSSSMForSAPServiceLinkedRolePolicy","v2",False,"2023-01-06T02:41:02+00:00",0,0,0,0,0,0,0
 "AWSSSMForSAPServiceLinkedRolePolicy","v4",False,"2023-10-31T23:39:16+00:00",0,0,0,0,0,0,0
