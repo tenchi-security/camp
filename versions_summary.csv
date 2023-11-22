@@ -2306,7 +2306,8 @@
 "AWSStepFunctionsConsoleFullAccess","v1",False,"2017-01-11T21:54:31+00:00",1,1,0,0,0,0,11
 "AWSStepFunctionsConsoleFullAccess","v2",True,"2017-01-12T00:19:34+00:00",1,1,0,0,0,0,11
 "AWSElementalMediaLiveFullAccess","v1",True,"2020-07-08T17:07:14+00:00",1,1,0,0,0,0,35
-"AwsGlueSessionUserRestrictedNotebookPolicy","v1",True,"2022-04-18T15:24:56+00:00",0,0,0,0,0,0,0
+"AwsGlueSessionUserRestrictedNotebookPolicy","v1",False,"2022-04-18T15:24:56+00:00",0,0,0,0,0,0,0
+"AwsGlueSessionUserRestrictedNotebookPolicy","v2",True,"2023-11-22T01:32:43+00:00",0,0,0,0,0,0,0
 "MigrationHubDMSAccessServiceRolePolicy","v1",False,"2019-06-12T17:50:39+00:00",0,0,0,0,0,0,0
 "MigrationHubDMSAccessServiceRolePolicy","v2",True,"2019-10-07T17:57:44+00:00",0,0,0,0,0,0,0
 "ComprehendReadOnly","v1",False,"2017-11-29T18:10:19+00:00",0,0,0,0,0,0,0
