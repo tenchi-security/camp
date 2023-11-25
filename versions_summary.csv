@@ -2184,7 +2184,8 @@
 "AmazonOpenSearchServiceCognitoAccess","v2",True,"2021-12-20T14:04:18+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerServiceCatalogProductsCodePipelineServiceRolePolicy","v1",True,"2022-02-22T09:53:17+00:00",0,0,0,0,0,0,0
 "AWSEntityResolutionConsoleReadOnlyAccess","v1",True,"2023-08-17T18:18:36+00:00",0,0,0,0,0,0,0
-"AWSIAMIdentityCenterAllowListForIdentityContext","v1",True,"2023-11-08T15:21:33+00:00",0,0,0,0,0,0,0
+"AWSIAMIdentityCenterAllowListForIdentityContext","v1",False,"2023-11-08T15:21:33+00:00",0,0,0,0,0,0,0
+"AWSIAMIdentityCenterAllowListForIdentityContext","v2",True,"2023-11-25T19:27:00+00:00",0,0,0,0,0,0,0
 "AWSNetworkManagerReadOnlyAccess","v1",True,"2019-12-03T17:35:05+00:00",0,0,0,0,0,0,0
 "AmazonEventBridgeApiDestinationsServiceRolePolicy","v1",True,"2021-02-11T20:52:05+00:00",0,0,0,0,0,0,0
 "AmazonElasticFileSystemsUtils","v1",True,"2020-09-29T15:16:47+00:00",0,2,0,0,2,0,9
