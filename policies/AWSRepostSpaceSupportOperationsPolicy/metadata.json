@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSRepostSpaceSupportOperationsPolicy",
+    "PolicyId": "ANPAZKAPJZG4NIYF2PYNO",
+    "Arn": "arn:aws:iam::aws:policy/AWSRepostSpaceSupportOperationsPolicy",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2023-11-26T21:52:15+00:00",
+    "UpdateDate": "2023-11-26T21:52:15+00:00"
+}

@@ -2073,6 +2073,7 @@
 "ComprehendDataAccessRolePolicy","v1",True,"2019-03-06T22:28:15+00:00",0,0,0,0,0,0,0
 "AmazonSecurityLakePermissionsBoundary","v1",True,"2022-11-29T14:11:12+00:00",0,3,0,0,0,0,7
 "AWSCloud9SSMInstanceProfile","v1",True,"2020-05-14T11:40:49+00:00",0,0,0,0,0,0,0
+"AWSRepostSpaceSupportOperationsPolicy","v1",True,"2023-11-26T21:52:15+00:00",0,0,0,0,0,0,0
 "AWSDataSyncFullAccess","v1",False,"2019-01-18T19:40:36+00:00",1,4,0,2,0,0,15
 "AWSDataSyncFullAccess","v3",False,"2020-06-30T17:58:58+00:00",1,4,0,2,0,0,15
 "AWSDataSyncFullAccess","v2",False,"2020-01-24T17:59:16+00:00",1,4,0,2,0,0,15
@@ -2872,10 +2873,11 @@
 "AWSBatchFullAccess","v7",True,"2022-10-24T16:09:09+00:00",1,1,0,0,0,0,16
 "AmazonGuardDutyServiceRolePolicy","v1",False,"2017-11-28T20:12:59+00:00",0,0,0,0,0,0,0
 "AmazonGuardDutyServiceRolePolicy","v5",False,"2023-02-21T16:56:23+00:00",0,1,0,1,0,0,1
-"AmazonGuardDutyServiceRolePolicy","v6",True,"2023-03-08T19:59:16+00:00",0,1,0,1,0,0,1
+"AmazonGuardDutyServiceRolePolicy","v6",False,"2023-03-08T19:59:16+00:00",0,1,0,1,0,0,1
 "AmazonGuardDutyServiceRolePolicy","v3",False,"2020-05-14T20:25:50+00:00",0,0,0,0,0,0,0
 "AmazonGuardDutyServiceRolePolicy","v2",False,"2020-04-20T16:01:34+00:00",0,0,0,0,0,0,0
 "AmazonGuardDutyServiceRolePolicy","v4",False,"2021-08-03T23:14:07+00:00",0,0,0,0,0,0,0
+"AmazonGuardDutyServiceRolePolicy","v7",True,"2023-11-26T22:03:45+00:00",0,1,0,1,0,0,1
 "AmazonHoneycodeTeamAssociationReadOnlyAccess","v1",True,"2020-06-24T20:27:46+00:00",0,0,0,0,0,0,0
 "AmazonSSMAutomationApproverAccess","v1",True,"2017-08-07T23:07:28+00:00",0,0,0,0,0,0,0
 "AWSPrivateCAFullAccess","v1",True,"2023-02-14T18:20:59+00:00",1,1,0,4,0,0,13
@@ -3002,7 +3004,8 @@
 "AWSIoTEventsReadOnlyAccess","v1",False,"2019-01-10T22:50:08+00:00",0,0,0,0,0,0,0
 "AWSIoTEventsReadOnlyAccess","v2",True,"2019-09-23T17:22:04+00:00",0,0,0,0,0,0,0
 "AWSOutpostsAuthorizeServerPolicy","v1",True,"2023-01-04T19:23:22+00:00",0,0,0,0,0,0,0
-"AmazonPrometheusFullAccess","v1",True,"2020-12-15T18:10:46+00:00",1,1,0,0,0,0,3
+"AmazonPrometheusFullAccess","v1",False,"2020-12-15T18:10:46+00:00",1,1,0,0,0,0,3
+"AmazonPrometheusFullAccess","v2",True,"2023-11-26T20:16:13+00:00",1,1,0,0,0,0,17
 "AmazonSNSFullAccess","v1",True,"2015-02-06T18:41:05+00:00",1,1,0,4,0,0,10
 "SupportUser","v1",False,"2016-11-10T17:21:53+00:00",1,1,0,0,0,1,1
 "SupportUser","v5",False,"2021-06-11T19:46:10+00:00",1,1,0,0,0,1,1
