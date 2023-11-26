@@ -747,7 +747,8 @@
 "DataScientist","v2",False,"2018-07-02T17:23:18+00:00",13,19,1,16,1,1,496
 "DataScientist","v4",False,"2019-08-21T23:13:03+00:00",13,19,1,16,1,1,496
 "CloudWatchLogsReadOnlyAccess","v1",False,"2015-02-06T18:40:03+00:00",0,0,0,0,0,0,0
-"CloudWatchLogsReadOnlyAccess","v5",True,"2023-06-06T17:16:08+00:00",0,0,0,0,0,0,0
+"CloudWatchLogsReadOnlyAccess","v5",False,"2023-06-06T17:16:08+00:00",0,0,0,0,0,0,0
+"CloudWatchLogsReadOnlyAccess","v6",True,"2023-11-26T18:11:33+00:00",0,0,0,0,0,0,0
 "CloudWatchLogsReadOnlyAccess","v3",False,"2017-08-14T22:22:16+00:00",0,0,0,0,0,0,0
 "CloudWatchLogsReadOnlyAccess","v2",False,"2015-12-03T19:59:32+00:00",0,0,0,0,0,0,0
 "CloudWatchLogsReadOnlyAccess","v4",False,"2019-01-14T19:32:45+00:00",0,0,0,0,0,0,0
@@ -1989,7 +1990,8 @@
 "AWSServiceRoleForCodeWhispererPolicy","v2",False,"2023-05-26T18:27:32+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerServiceCatalogProductsFirehoseServiceRolePolicy","v1",True,"2022-02-22T09:54:35+00:00",0,0,0,0,0,0,0
 "AWSSystemsManagerForSAPReadOnlyAccess","v1",True,"2022-11-17T02:11:44+00:00",0,0,0,0,0,0,0
-"CloudWatchLogsFullAccess","v1",True,"2015-02-06T18:40:02+00:00",1,1,0,2,0,0,16
+"CloudWatchLogsFullAccess","v1",False,"2015-02-06T18:40:02+00:00",1,1,0,2,0,0,16
+"CloudWatchLogsFullAccess","v2",True,"2023-11-26T18:12:09+00:00",1,1,0,0,0,0,23
 "AmazonElasticMapReduceReadOnlyAccess","v1",False,"2015-02-06T18:40:23+00:00",0,1,0,0,1,0,1
 "AmazonElasticMapReduceReadOnlyAccess","v3",True,"2020-07-29T23:14:09+00:00",0,1,0,0,1,0,1
 "AmazonElasticMapReduceReadOnlyAccess","v2",False,"2017-05-22T23:00:19+00:00",0,1,0,0,1,0,1
@@ -2270,7 +2272,8 @@
 "AWSAccountActivityAccess","v2",True,"2023-03-07T17:02:30+00:00",0,0,0,0,0,0,0
 "AmazonLexChannelsAccess","v1",True,"2021-01-13T20:12:46+00:00",0,0,0,0,0,0,0
 "ElasticLoadBalancingReadOnly","v1",False,"2018-09-20T20:17:09+00:00",0,0,0,0,0,0,0
-"ElasticLoadBalancingReadOnly","v2",True,"2022-11-29T01:44:23+00:00",0,0,0,0,0,0,0
+"ElasticLoadBalancingReadOnly","v3",True,"2023-11-26T18:15:46+00:00",0,0,0,0,0,0,0
+"ElasticLoadBalancingReadOnly","v2",False,"2022-11-29T01:44:23+00:00",0,0,0,0,0,0,0
 "AlexaForBusinessNetworkProfileServicePolicy","v1",False,"2019-03-13T00:53:40+00:00",0,1,0,0,0,0,2
 "AlexaForBusinessNetworkProfileServicePolicy","v2",True,"2019-04-05T21:57:56+00:00",0,1,0,0,0,0,2
 "AWSServiceRoleForLogDeliveryPolicy","v1",False,"2019-10-04T17:31:19+00:00",0,1,0,0,0,0,2

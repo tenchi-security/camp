@@ -1,0 +1,37 @@
+{
+    "ServiceWildcard": [
+        "logs"
+    ],
+    "ServicesAffected": [
+        "logs"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "logs:AssociateKmsKey",
+        "logs:CreateExportTask",
+        "logs:CreateLogGroup",
+        "logs:CreateLogStream",
+        "logs:DeleteDataProtectionPolicy",
+        "logs:DeleteDestination",
+        "logs:DeleteLogGroup",
+        "logs:DeleteLogStream",
+        "logs:DeleteMetricFilter",
+        "logs:DeleteRetentionPolicy",
+        "logs:DeleteSubscriptionFilter",
+        "logs:DisassociateKmsKey",
+        "logs:PutDataProtectionPolicy",
+        "logs:PutDestination",
+        "logs:PutDestinationPolicy",
+        "logs:PutLogEvents",
+        "logs:PutMetricFilter",
+        "logs:PutRetentionPolicy",
+        "logs:PutSubscriptionFilter",
+        "logs:TagLogGroup",
+        "logs:TagResource",
+        "logs:UntagLogGroup",
+        "logs:UntagResource"
+    ]
+}
