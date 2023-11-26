@@ -1193,6 +1193,7 @@
 "ROSAKMSProviderPolicy","v1",True,"2023-04-27T20:10:20+00:00",0,1,0,0,0,0,2
 "AWSElementalMediaPackageV2FullAccess","v1",True,"2023-07-25T20:29:37+00:00",1,0,0,0,0,0,0
 "AWSIoTSiteWiseFullAccess","v1",True,"2018-12-04T20:53:39+00:00",1,1,0,0,0,0,27
+"CostOptimizationHubServiceRolePolicy","v1",True,"2023-11-26T08:03:59+00:00",0,0,0,0,0,0,0
 "AWSBackupDataTransferAccess","v1",True,"2022-11-10T22:48:05+00:00",0,0,0,0,0,0,0
 "AmazonDataZoneGlueManageAccessRolePolicy","v1",False,"2023-09-22T20:21:53+00:00",0,2,0,4,0,0,5
 "AmazonDataZoneGlueManageAccessRolePolicy","v2",True,"2023-09-29T01:53:41+00:00",0,2,0,4,0,0,5
