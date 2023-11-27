@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4HALZVJBJX",
     "Arn": "arn:aws:iam::aws:policy/aws-service-role/AWSElasticDisasterRecoveryServiceRolePolicy",
     "Path": "/aws-service-role/",
-    "DefaultVersionId": "v3",
+    "DefaultVersionId": "v4",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2021-11-17T10:56:17+00:00",
-    "UpdateDate": "2023-06-11T08:33:31+00:00"
+    "UpdateDate": "2023-11-27T13:35:20+00:00"
 }

@@ -2,7 +2,8 @@
 "AWSDeepRacerDefaultMultiUserAccess","v1",True,"2021-10-28T01:27:13+00:00",0,1,0,0,0,0,16
 "AWSDataPipeline_FullAccess","v1",False,"2017-01-19T23:14:54+00:00",1,1,0,0,0,0,1
 "AWSDataPipeline_FullAccess","v2",True,"2017-08-17T18:48:39+00:00",1,1,0,0,0,0,1
-"AWSElasticDisasterRecoveryNetworkReplicationPolicy","v1",True,"2023-06-11T12:36:48+00:00",0,0,0,0,0,0,0
+"AWSElasticDisasterRecoveryNetworkReplicationPolicy","v1",False,"2023-06-11T12:36:48+00:00",0,0,0,0,0,0,0
+"AWSElasticDisasterRecoveryNetworkReplicationPolicy","v2",True,"2023-11-27T13:25:49+00:00",0,0,0,0,0,0,0
 "AmazonVPCReachabilityAnalyzerPathComponentReadPolicy","v1",True,"2023-05-01T20:38:22+00:00",0,0,0,0,0,0,0
 "AWSIoTAnalyticsFullAccess","v1",True,"2018-06-18T23:02:45+00:00",1,1,0,0,0,0,19
 "AmazonZocaloFullAccess","v1",True,"2015-02-06T18:41:13+00:00",2,2,0,5,0,0,50
@@ -297,8 +298,9 @@
 "AmazonRoute53ResolverReadOnlyAccess","v2",True,"2019-09-27T16:37:48+00:00",0,0,0,0,0,0,0
 "AWSEnhancedClassicNetworkingMangementPolicy","v1",True,"2017-09-20T17:29:09+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryRecoveryInstancePolicy","v1",False,"2021-11-17T10:20:43+00:00",0,0,0,0,0,0,0
-"AWSElasticDisasterRecoveryRecoveryInstancePolicy","v3",True,"2023-05-14T07:32:48+00:00",0,0,0,0,0,0,0
+"AWSElasticDisasterRecoveryRecoveryInstancePolicy","v3",False,"2023-05-14T07:32:48+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryRecoveryInstancePolicy","v2",False,"2022-10-30T13:17:11+00:00",0,0,0,0,0,0,0
+"AWSElasticDisasterRecoveryRecoveryInstancePolicy","v4",True,"2023-11-27T13:11:08+00:00",0,0,0,0,0,0,0
 "AWSGlueConsoleFullAccess","v1",False,"2017-08-14T13:37:39+00:00",1,2,1,2,0,0,48
 "AWSGlueConsoleFullAccess","v5",False,"2018-03-26T19:52:10+00:00",1,1,1,2,0,0,44
 "AWSGlueConsoleFullAccess","v6",False,"2018-03-26T19:54:30+00:00",1,1,1,2,0,0,44
@@ -495,8 +497,9 @@
 "AWSCodeCommitPowerUser","v10",False,"2019-11-20T17:12:55+00:00",0,2,0,0,0,0,42
 "AWSDeviceFarmFullAccess","v1",True,"2015-07-13T16:37:38+00:00",1,1,0,0,0,0,29
 "AWSElasticDisasterRecoveryServiceRolePolicy","v1",False,"2021-11-17T10:56:17+00:00",0,1,0,0,0,0,1
-"AWSElasticDisasterRecoveryServiceRolePolicy","v3",True,"2023-06-11T08:33:31+00:00",0,1,0,0,0,0,2
+"AWSElasticDisasterRecoveryServiceRolePolicy","v3",False,"2023-06-11T08:33:31+00:00",0,1,0,0,0,0,2
 "AWSElasticDisasterRecoveryServiceRolePolicy","v2",False,"2022-07-10T12:44:41+00:00",0,1,0,0,0,0,2
+"AWSElasticDisasterRecoveryServiceRolePolicy","v4",True,"2023-11-27T13:35:20+00:00",0,1,0,0,0,0,2
 "AWSIPAMServiceRolePolicy","v1",False,"2021-11-30T19:08:11+00:00",0,0,0,0,0,0,0
 "AWSIPAMServiceRolePolicy","v3",False,"2023-11-01T16:27:52+00:00",0,0,0,0,0,0,0
 "AWSIPAMServiceRolePolicy","v2",False,"2023-01-25T20:13:08+00:00",0,0,0,0,0,0,0
@@ -986,8 +989,9 @@
 "AmazonSSMMaintenanceWindowRole","v2",False,"2017-08-09T20:49:14+00:00",0,1,0,0,1,0,3
 "AmazonMemoryDBFullAccess","v1",True,"2021-10-08T19:24:16+00:00",1,1,0,0,0,0,20
 "AWSElasticDisasterRecoveryReadOnlyAccess","v1",False,"2021-11-17T10:50:05+00:00",0,0,0,0,0,0,0
-"AWSElasticDisasterRecoveryReadOnlyAccess","v3",True,"2023-09-13T07:42:45+00:00",0,0,0,0,0,0,0
+"AWSElasticDisasterRecoveryReadOnlyAccess","v3",False,"2023-09-13T07:42:45+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryReadOnlyAccess","v2",False,"2022-05-29T08:27:37+00:00",0,0,0,0,0,0,0
+"AWSElasticDisasterRecoveryReadOnlyAccess","v4",True,"2023-11-27T13:03:00+00:00",0,0,0,0,0,0,0
 "AmazonEKSClusterPolicy","v1",False,"2018-05-27T21:06:14+00:00",0,3,0,0,0,0,27
 "AmazonEKSClusterPolicy","v5",False,"2021-06-15T20:57:05+00:00",0,4,0,1,0,0,28
 "AmazonEKSClusterPolicy","v6",True,"2023-02-07T17:33:23+00:00",0,4,0,1,0,0,39
@@ -1132,7 +1136,8 @@
 "AWSConfigServiceRolePolicy","v44",False,"2023-06-09T21:10:35+00:00",0,2,0,2,0,0,7
 "AWSConfigServiceRolePolicy","v31",False,"2022-04-06T21:41:38+00:00",0,1,0,0,0,0,5
 "AWSConfigServiceRolePolicy","v19",False,"2020-05-15T18:39:10+00:00",0,1,0,0,0,0,5
-"AWSElasticDisasterRecoveryStagingAccountPolicy_v2","v1",True,"2023-01-05T12:11:44+00:00",0,1,0,0,0,0,1
+"AWSElasticDisasterRecoveryStagingAccountPolicy_v2","v1",False,"2023-01-05T12:11:44+00:00",0,1,0,0,0,0,1
+"AWSElasticDisasterRecoveryStagingAccountPolicy_v2","v2",True,"2023-11-27T13:32:09+00:00",0,1,0,0,0,0,1
 "AmazonCodeCatalystFullAccess","v1",True,"2023-04-20T16:50:16+00:00",1,1,0,1,0,0,1
 "ROSAInstallerPolicy","v1",True,"2023-06-06T21:00:31+00:00",0,3,0,1,0,0,6
 "AWSQuickSightSageMakerPolicy","v1",False,"2020-01-17T17:18:13+00:00",0,0,0,0,0,0,0
@@ -1422,7 +1427,8 @@
 "AmazonRoute53RecoveryClusterReadOnlyAccess","v2",True,"2022-04-01T17:37:55+00:00",0,0,0,0,0,0,0
 "AWSSupportAppFullAccess","v1",True,"2022-08-22T16:53:41+00:00",0,2,0,1,0,0,2
 "AWSElasticDisasterRecoveryAgentInstallationPolicy","v1",False,"2021-11-17T10:37:54+00:00",0,0,0,0,0,0,0
-"AWSElasticDisasterRecoveryAgentInstallationPolicy","v5",True,"2023-10-25T08:11:51+00:00",0,1,0,0,0,0,1
+"AWSElasticDisasterRecoveryAgentInstallationPolicy","v5",False,"2023-10-25T08:11:51+00:00",0,1,0,0,0,0,1
+"AWSElasticDisasterRecoveryAgentInstallationPolicy","v6",True,"2023-11-27T12:38:51+00:00",0,1,0,0,0,0,1
 "AWSElasticDisasterRecoveryAgentInstallationPolicy","v3",False,"2022-12-28T07:10:44+00:00",0,1,0,0,0,0,1
 "AWSElasticDisasterRecoveryAgentInstallationPolicy","v2",False,"2022-07-03T09:11:23+00:00",0,1,0,0,0,0,1
 "AWSElasticDisasterRecoveryAgentInstallationPolicy","v4",False,"2023-06-13T09:43:59+00:00",0,1,0,0,0,0,1
@@ -1718,7 +1724,8 @@
 "ElementalAppliancesSoftwareFullAccess","v4",True,"2021-02-05T21:01:25+00:00",1,1,0,0,0,0,4
 "MonitronServiceRolePolicy","v1",True,"2022-05-02T19:22:03+00:00",0,0,0,0,0,0,0
 "IAMAccessAdvisorReadOnly","v1",True,"2019-06-21T19:33:45+00:00",0,0,0,0,0,0,0
-"AWSElasticDisasterRecoveryConversionServerPolicy","v1",True,"2021-11-17T13:42:23+00:00",0,0,0,0,0,0,0
+"AWSElasticDisasterRecoveryConversionServerPolicy","v1",False,"2021-11-17T13:42:23+00:00",0,0,0,0,0,0,0
+"AWSElasticDisasterRecoveryConversionServerPolicy","v2",True,"2023-11-27T13:13:38+00:00",0,0,0,0,0,0,0
 "EC2InstanceProfileForImageBuilder","v1",False,"2019-12-01T19:08:23+00:00",0,1,0,0,0,0,1
 "EC2InstanceProfileForImageBuilder","v3",True,"2020-08-27T16:40:50+00:00",0,1,0,0,0,0,1
 "EC2InstanceProfileForImageBuilder","v2",False,"2020-06-15T17:44:31+00:00",0,1,0,0,0,0,1
@@ -1816,7 +1823,8 @@
 "ElementalActivationsGenerateLicenses","v1",True,"2020-08-28T18:28:58+00:00",0,0,0,0,0,0,0
 "AWSBudgetsActions_RolePolicyForResourceAdministrationWithSSM","v1",True,"2022-05-25T19:03:30+00:00",0,2,0,0,0,0,4
 "AWSElasticDisasterRecoveryFailbackInstallationPolicy","v1",False,"2021-11-17T11:02:03+00:00",0,0,0,0,0,0,0
-"AWSElasticDisasterRecoveryFailbackInstallationPolicy","v2",True,"2022-06-27T09:13:40+00:00",0,0,0,0,0,0,0
+"AWSElasticDisasterRecoveryFailbackInstallationPolicy","v3",True,"2023-11-27T13:43:08+00:00",0,0,0,0,0,0,0
+"AWSElasticDisasterRecoveryFailbackInstallationPolicy","v2",False,"2022-06-27T09:13:40+00:00",0,0,0,0,0,0,0
 "ViewOnlyAccess","v1",False,"2016-11-10T17:20:15+00:00",0,0,0,0,0,0,0
 "ViewOnlyAccess","v5",False,"2018-05-16T20:35:13+00:00",0,0,0,0,0,0,0
 "ViewOnlyAccess","v16",False,"2023-01-05T20:51:00+00:00",0,0,0,0,0,0,0
@@ -2085,9 +2093,10 @@
 "AWSDataSyncFullAccess","v4",True,"2023-05-02T16:37:43+00:00",1,4,0,2,0,0,20
 "AmazonMacieHandshakeRole","v1",True,"2018-06-28T15:46:10+00:00",0,1,0,1,0,0,1
 "AWSElasticDisasterRecoveryEc2InstancePolicy","v1",False,"2022-05-26T12:30:18+00:00",0,0,0,0,0,0,0
+"AWSElasticDisasterRecoveryEc2InstancePolicy","v5",True,"2023-11-27T13:39:44+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryEc2InstancePolicy","v3",False,"2023-06-13T16:30:14+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryEc2InstancePolicy","v2",False,"2023-05-14T07:27:48+00:00",0,0,0,0,0,0,0
-"AWSElasticDisasterRecoveryEc2InstancePolicy","v4",True,"2023-10-25T08:19:46+00:00",0,0,0,0,0,0,0
+"AWSElasticDisasterRecoveryEc2InstancePolicy","v4",False,"2023-10-25T08:19:46+00:00",0,0,0,0,0,0,0
 "AWSCodePipeline_FullAccess","v1",False,"2020-08-03T22:38:28+00:00",1,4,0,1,0,1,26
 "AWSCodePipeline_FullAccess","v2",True,"2023-06-21T22:46:59+00:00",1,4,0,1,0,1,27
 "AWSSupportAccess","v1",True,"2015-02-06T18:41:11+00:00",1,0,0,0,0,0,0
@@ -2203,7 +2212,8 @@
 "AWSDirectConnectReadOnlyAccess","v3",False,"2019-04-30T15:23:18+00:00",0,0,0,0,0,0,0
 "AWSDirectConnectReadOnlyAccess","v2",False,"2018-08-15T17:28:44+00:00",0,0,0,0,0,0,0
 "AWSDirectConnectReadOnlyAccess","v4",True,"2020-05-18T18:48:22+00:00",0,0,0,0,0,0,0
-"AWSElasticDisasterRecoveryStagingAccountPolicy","v1",True,"2022-05-26T09:49:18+00:00",0,0,0,0,0,0,0
+"AWSElasticDisasterRecoveryStagingAccountPolicy","v1",False,"2022-05-26T09:49:18+00:00",0,0,0,0,0,0,0
+"AWSElasticDisasterRecoveryStagingAccountPolicy","v2",True,"2023-11-27T13:07:49+00:00",0,1,0,0,0,0,1
 "AmazonConnectCampaignsServiceLinkedRolePolicy","v1",False,"2021-09-23T20:54:26+00:00",0,0,0,0,0,0,0
 "AmazonConnectCampaignsServiceLinkedRolePolicy","v2",True,"2023-11-08T16:16:16+00:00",0,0,0,0,0,0,0
 "AWSCodeArtifactReadOnlyAccess","v1",True,"2020-06-25T21:23:52+00:00",0,0,0,0,0,0,0
@@ -2295,7 +2305,8 @@
 "AWSConfigMultiAccountSetupPolicy","v4",False,"2020-05-21T22:59:26+00:00",0,1,0,1,0,0,1
 "AmazonMechanicalTurkFullAccess","v1",True,"2015-12-11T19:08:19+00:00",1,0,0,0,0,0,0
 "AWSAppMeshEnvoyAccess","v1",True,"2019-07-03T21:29:37+00:00",0,0,0,0,0,0,0
-"AWSElasticDisasterRecoveryFailbackPolicy","v1",True,"2021-11-17T10:41:40+00:00",0,0,0,0,0,0,0
+"AWSElasticDisasterRecoveryFailbackPolicy","v1",False,"2021-11-17T10:41:40+00:00",0,0,0,0,0,0,0
+"AWSElasticDisasterRecoveryFailbackPolicy","v2",True,"2023-11-27T12:56:46+00:00",0,0,0,0,0,0,0
 "AmazonEventBridgeSchemasFullAccess","v1",True,"2019-11-28T23:12:53+00:00",1,1,0,0,0,0,17
 "AWSTrustedAdvisorPriorityReadOnlyAccess","v1",True,"2022-08-16T16:35:12+00:00",0,0,0,0,0,0,0
 "KeyspacesReplicationServiceRolePolicy","v1",True,"2023-05-02T16:15:49+00:00",0,1,0,0,0,0,1
@@ -2379,7 +2390,8 @@
 "PowerUserAccess","v2",False,"2016-12-06T18:11:16+00:00",0,199,2,242,5,23,3893
 "PowerUserAccess","v4",False,"2019-03-20T22:19:03+00:00",0,200,2,244,5,23,3895
 "AWSElasticDisasterRecoveryAgentPolicy","v1",False,"2021-11-17T10:32:32+00:00",0,0,0,0,0,0,0
-"AWSElasticDisasterRecoveryAgentPolicy","v2",True,"2023-03-27T13:47:48+00:00",0,0,0,0,0,0,0
+"AWSElasticDisasterRecoveryAgentPolicy","v3",True,"2023-11-27T13:44:15+00:00",0,0,0,0,0,0,0
+"AWSElasticDisasterRecoveryAgentPolicy","v2",False,"2023-03-27T13:47:48+00:00",0,0,0,0,0,0,0
 "AppRunnerNetworkingServiceRolePolicy","v1",True,"2022-01-12T21:02:40+00:00",0,1,0,0,0,0,2
 "AWSLakeFormationCrossAccountManager","v1",False,"2020-08-04T20:59:46+00:00",0,2,0,4,0,0,3
 "AWSLakeFormationCrossAccountManager","v5",True,"2023-11-01T00:50:49+00:00",0,2,0,6,0,0,7
@@ -2675,6 +2687,7 @@
 "AmazonCognitoIdpServiceRolePolicy","v1",True,"2020-06-26T22:30:20+00:00",0,0,0,0,0,0,0
 "AmazonEC2RoleforAWSCodeDeployLimited","v1",False,"2020-08-24T17:55:18+00:00",0,1,0,0,0,0,1
 "AmazonEC2RoleforAWSCodeDeployLimited","v2",True,"2022-01-20T21:37:31+00:00",0,1,0,0,0,0,1
+"AWSElasticDisasterRecoveryConsoleFullAccess_v2","v1",True,"2023-11-27T13:35:19+00:00",1,1,0,0,0,0,51
 "AWSElasticBeanstalkService","v1",False,"2016-04-11T20:27:23+00:00",3,8,0,1,1,0,52
 "AWSElasticBeanstalkService","v5",False,"2016-09-22T22:31:46+00:00",3,10,0,2,1,0,59
 "AWSElasticBeanstalkService","v16",False,"2019-06-14T23:18:46+00:00",3,11,0,3,1,0,75
@@ -3240,7 +3253,8 @@
 "AmazonQLDBFullAccess","v2",False,"2020-05-19T17:47:10+00:00",0,1,0,0,0,0,9
 "AmazonQLDBFullAccess","v4",False,"2021-09-02T23:21:04+00:00",0,2,0,1,0,0,19
 "AWSElasticDisasterRecoveryReplicationServerPolicy","v1",False,"2021-11-17T13:34:00+00:00",0,1,0,0,0,0,1
-"AWSElasticDisasterRecoveryReplicationServerPolicy","v2",True,"2022-07-10T12:34:15+00:00",0,2,0,0,0,0,7
+"AWSElasticDisasterRecoveryReplicationServerPolicy","v3",True,"2023-11-27T13:28:14+00:00",0,2,0,0,0,0,9
+"AWSElasticDisasterRecoveryReplicationServerPolicy","v2",False,"2022-07-10T12:34:15+00:00",0,2,0,0,0,0,7
 "AWSSupportServiceRolePolicy","v29",False,"2023-05-02T23:33:56+00:00",0,1,0,0,0,0,1
 "AWSSupportServiceRolePolicy","v1",False,"2018-04-19T18:04:44+00:00",0,3,0,0,1,1,6
 "AWSSupportServiceRolePolicy","v24",False,"2022-06-24T16:27:09+00:00",0,1,0,0,0,0,1
