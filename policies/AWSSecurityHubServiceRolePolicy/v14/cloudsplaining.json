@@ -1,0 +1,23 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "securityhub"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "securityhub:BatchDisableStandards",
+        "securityhub:BatchEnableStandards",
+        "securityhub:CreateMembers",
+        "securityhub:DeleteMembers",
+        "securityhub:DisableSecurityHub",
+        "securityhub:DisassociateFromAdministratorAccount",
+        "securityhub:DisassociateMembers",
+        "securityhub:EnableSecurityHub",
+        "securityhub:UpdateOrganizationConfiguration",
+        "securityhub:UpdateSecurityHubConfiguration",
+        "securityhub:UpdateStandardsControl"
+    ]
+}

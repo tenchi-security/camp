@@ -881,7 +881,8 @@
 "AmazonMechanicalTurkReadOnly","v3",True,"2019-09-25T21:06:26+00:00",0,0,0,0,0,0,0
 "AmazonMechanicalTurkReadOnly","v2",False,"2017-02-27T21:45:50+00:00",0,0,0,0,0,0,0
 "IAMAccessAnalyzerReadOnlyAccess","v1",False,"2019-12-02T17:12:53+00:00",0,0,0,0,0,0,0
-"IAMAccessAnalyzerReadOnlyAccess","v2",True,"2021-03-16T20:37:30+00:00",0,0,0,0,0,0,0
+"IAMAccessAnalyzerReadOnlyAccess","v3",True,"2023-11-27T02:24:16+00:00",0,0,0,0,0,0,0
+"IAMAccessAnalyzerReadOnlyAccess","v2",False,"2021-03-16T20:37:30+00:00",0,0,0,0,0,0,0
 "MigrationHubSMSAccessServiceRolePolicy","v1",False,"2019-06-12T18:30:28+00:00",0,0,0,0,0,0,0
 "MigrationHubSMSAccessServiceRolePolicy","v2",True,"2019-10-07T18:02:22+00:00",0,0,0,0,0,0,0
 "AWSIoTWirelessFullPublishAccess","v1",True,"2020-12-15T15:29:59+00:00",0,1,0,0,0,0,1
@@ -2665,7 +2666,8 @@
 "NeptuneFullAccess","v2",False,"2018-07-10T17:15:04+00:00",0,2,0,1,0,0,37
 "NeptuneFullAccess","v4",False,"2020-02-12T23:28:19+00:00",0,3,0,2,0,0,38
 "AmazonDetectiveInvestigatorAccess","v1",False,"2023-01-17T15:24:26+00:00",0,0,0,0,0,0,0
-"AmazonDetectiveInvestigatorAccess","v2",True,"2023-05-17T19:41:09+00:00",0,0,0,0,0,0,0
+"AmazonDetectiveInvestigatorAccess","v3",True,"2023-11-27T03:13:25+00:00",0,0,0,0,0,0,0
+"AmazonDetectiveInvestigatorAccess","v2",False,"2023-05-17T19:41:09+00:00",0,0,0,0,0,0,0
 "AmazonCognitoIdpServiceRolePolicy","v1",True,"2020-06-26T22:30:20+00:00",0,0,0,0,0,0,0
 "AmazonEC2RoleforAWSCodeDeployLimited","v1",False,"2020-08-24T17:55:18+00:00",0,1,0,0,0,0,1
 "AmazonEC2RoleforAWSCodeDeployLimited","v2",True,"2022-01-20T21:37:31+00:00",0,1,0,0,0,0,1
@@ -3465,7 +3467,8 @@
 "AWSSecurityHubServiceRolePolicy","v4",False,"2020-04-08T20:26:47+00:00",0,0,0,0,0,0,0
 "AWSSecurityHubServiceRolePolicy","v7",False,"2020-09-21T19:59:01+00:00",0,0,0,0,0,0,0
 "AWSSecurityHubServiceRolePolicy","v8",False,"2021-06-29T19:55:36+00:00",0,0,0,0,0,0,0
-"AWSSecurityHubServiceRolePolicy","v13",True,"2023-11-07T00:53:28+00:00",0,1,0,0,0,0,10
+"AWSSecurityHubServiceRolePolicy","v13",False,"2023-11-07T00:53:28+00:00",0,1,0,0,0,0,10
+"AWSSecurityHubServiceRolePolicy","v14",True,"2023-11-27T03:46:47+00:00",0,1,0,0,0,0,11
 "AWSSecurityHubServiceRolePolicy","v9",False,"2021-07-14T20:32:48+00:00",0,0,0,0,0,0,0
 "AWSSecurityHubServiceRolePolicy","v12",False,"2023-09-27T15:38:37+00:00",0,1,0,0,0,0,10
 "AWSSecurityHubServiceRolePolicy","v10",False,"2023-03-17T23:50:43+00:00",0,0,0,0,0,0,0
