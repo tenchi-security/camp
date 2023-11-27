@@ -719,10 +719,12 @@
 "OAMFullAccess","v1",True,"2022-11-27T13:38:29+00:00",1,0,0,0,0,0,0
 "AmazonFSxFullAccess","v1",False,"2018-11-28T16:34:43+00:00",1,2,0,2,0,0,13
 "AmazonFSxFullAccess","v5",False,"2023-04-19T20:43:42+00:00",1,2,0,3,0,0,35
-"AmazonFSxFullAccess","v6",True,"2023-07-13T18:41:47+00:00",0,2,0,3,0,0,35
+"AmazonFSxFullAccess","v6",False,"2023-07-13T18:41:47+00:00",0,2,0,3,0,0,35
 "AmazonFSxFullAccess","v3",False,"2021-08-26T13:17:29+00:00",1,2,0,3,0,0,17
 "AmazonFSxFullAccess","v2",False,"2021-06-08T12:05:31+00:00",1,2,0,2,0,0,13
 "AmazonFSxFullAccess","v4",False,"2022-09-29T18:27:51+00:00",1,2,0,3,0,0,32
+"AmazonFSxFullAccess","v7",False,"2023-11-27T04:14:07+00:00",0,2,0,3,0,0,35
+"AmazonFSxFullAccess","v8",True,"2023-11-27T05:55:28+00:00",0,2,0,3,0,0,35
 "AWSIQContractServiceRolePolicy","v1",True,"2019-08-22T19:28:39+00:00",0,0,0,0,0,0,0
 "AWSPrivateCAPrivilegedUser","v1",True,"2023-02-14T18:26:02+00:00",0,0,0,0,0,0,0
 "AmazonSSMManagedInstanceCore","v1",False,"2019-03-15T17:22:12+00:00",0,1,0,0,1,0,4
@@ -2517,7 +2519,9 @@
 "AmazonFSxConsoleFullAccess","v3",False,"2020-01-21T16:42:58+00:00",1,2,0,2,0,0,13
 "AmazonFSxConsoleFullAccess","v2",False,"2019-09-10T13:11:13+00:00",1,2,0,2,0,0,13
 "AmazonFSxConsoleFullAccess","v4",False,"2021-06-08T12:14:00+00:00",1,2,0,2,0,0,13
-"AmazonFSxConsoleFullAccess","v7",True,"2023-07-13T18:44:50+00:00",0,2,0,3,0,0,35
+"AmazonFSxConsoleFullAccess","v7",False,"2023-07-13T18:44:50+00:00",0,2,0,3,0,0,35
+"AmazonFSxConsoleFullAccess","v8",False,"2023-11-27T04:16:50+00:00",0,2,0,3,0,0,35
+"AmazonFSxConsoleFullAccess","v9",True,"2023-11-27T06:06:43+00:00",0,2,0,3,0,0,35
 "AWSPriceListServiceFullAccess","v1",True,"2017-11-22T00:36:27+00:00",1,0,0,0,0,0,0
 "AmazonSageMakerFeatureStoreAccess","v1",False,"2020-12-01T16:24:05+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerFeatureStoreAccess","v3",True,"2022-12-05T14:19:58+00:00",0,0,0,0,0,0,0
