@@ -1255,7 +1255,8 @@
 "CloudWatchFullAccess","v4",True,"2022-11-27T13:23:49+00:00",3,3,0,4,0,0,45
 "PartnerCentralAccountManagementUserRoleAssociation","v1",True,"2023-11-10T02:03:40+00:00",0,0,0,0,0,0,0
 "AmazonEKSWorkerNodePolicy","v1",False,"2018-05-27T21:09:01+00:00",0,0,0,0,0,0,0
-"AmazonEKSWorkerNodePolicy","v2",True,"2022-03-21T22:39:36+00:00",0,0,0,0,0,0,0
+"AmazonEKSWorkerNodePolicy","v3",True,"2023-11-27T00:06:13+00:00",0,0,0,0,0,0,0
+"AmazonEKSWorkerNodePolicy","v2",False,"2022-03-21T22:39:36+00:00",0,0,0,0,0,0,0
 "AWSManagedServices_DetectiveControlsConfig_ServiceRolePolicy","v1",True,"2022-12-19T23:11:17+00:00",0,0,0,0,0,0,0
 "AmazonEC2ContainerServiceRole","v1",False,"2015-04-09T16:14:19+00:00",0,1,0,0,0,0,1
 "AmazonEC2ContainerServiceRole","v2",True,"2016-08-11T13:08:01+00:00",0,2,0,0,0,0,3
