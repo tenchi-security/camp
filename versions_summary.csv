@@ -669,7 +669,8 @@
 "AccessAnalyzerServiceRolePolicy","v4",False,"2020-05-19T19:10:16+00:00",0,0,0,0,0,0,0
 "AccessAnalyzerServiceRolePolicy","v7",False,"2022-04-06T20:18:51+00:00",0,0,0,0,0,0,0
 "AccessAnalyzerServiceRolePolicy","v8",False,"2022-10-25T16:50:52+00:00",0,0,0,0,0,0,0
-"AccessAnalyzerServiceRolePolicy","v9",True,"2023-11-07T19:55:15+00:00",0,0,0,0,0,0,0
+"AccessAnalyzerServiceRolePolicy","v9",False,"2023-11-07T19:55:15+00:00",0,0,0,0,0,0,0
+"AccessAnalyzerServiceRolePolicy","v10",True,"2023-11-28T19:00:40+00:00",0,0,0,0,0,0,0
 "AWSWAFReadOnlyAccess","v1",False,"2015-10-06T20:43:45+00:00",0,0,0,0,0,0,0
 "AWSWAFReadOnlyAccess","v5",False,"2022-08-25T20:12:57+00:00",0,0,0,0,0,0,0
 "AWSWAFReadOnlyAccess","v6",False,"2023-03-30T20:53:00+00:00",0,0,0,0,0,0,0
