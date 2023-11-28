@@ -1532,6 +1532,7 @@
 "AmazonDataZoneEnvironmentRolePermissionsBoundary","v3",False,"2023-09-29T05:12:51+00:00",2,9,0,2,0,1,116
 "AmazonDataZoneEnvironmentRolePermissionsBoundary","v2",False,"2023-09-14T19:33:50+00:00",2,9,0,2,0,1,115
 "AmazonDataZoneEnvironmentRolePermissionsBoundary","v4",True,"2023-11-17T23:29:08+00:00",2,9,0,2,0,1,116
+"AmazonOneEnterpriseReadOnlyAccess","v1",True,"2023-11-28T04:59:23+00:00",0,0,0,0,0,0,0
 "AWSServiceRoleForEC2ScheduledInstances","v1",True,"2017-10-12T18:31:55+00:00",0,1,0,0,0,0,1
 "ROSAManageSubscription","v1",False,"2022-04-11T20:58:08+00:00",0,0,0,0,0,0,0
 "ROSAManageSubscription","v2",True,"2023-08-04T19:59:14+00:00",0,0,0,0,0,0,0
@@ -2102,6 +2103,7 @@
 "AWSElasticDisasterRecoveryEc2InstancePolicy","v4",False,"2023-10-25T08:19:46+00:00",0,0,0,0,0,0,0
 "AWSCodePipeline_FullAccess","v1",False,"2020-08-03T22:38:28+00:00",1,4,0,1,0,1,26
 "AWSCodePipeline_FullAccess","v2",True,"2023-06-21T22:46:59+00:00",1,4,0,1,0,1,27
+"AmazonOneEnterpriseInstallerAccess","v1",True,"2023-11-28T05:00:39+00:00",0,0,0,0,0,0,0
 "AWSSupportAccess","v1",True,"2015-02-06T18:41:11+00:00",1,0,0,0,0,0,0
 "AWSIoTDeviceDefenderPublishFindingsToSNSMitigationAction","v1",True,"2019-08-07T17:04:37+00:00",0,1,0,0,0,0,1
 "AWSSSOMemberAccountAdministrator","v1",False,"2018-06-27T20:45:42+00:00",1,2,0,31,0,0,17
@@ -3437,6 +3439,7 @@
 "AWSElasticBeanstalkWebTier","v2",False,"2016-03-07T23:35:40+00:00",0,0,0,0,0,0,0
 "AWSElasticBeanstalkWebTier","v4",False,"2016-12-21T02:06:25+00:00",0,0,0,0,0,0,0
 "AWSElasticBeanstalkWebTier","v7",True,"2020-09-09T19:38:36+00:00",0,0,0,0,0,0,0
+"AmazonOneEnterpriseFullAccess","v1",True,"2023-11-28T04:58:21+00:00",1,0,0,0,0,0,0
 "AWSIotRoboRunnerServiceRolePolicy","v1",True,"2023-02-21T16:56:31+00:00",0,0,0,0,0,0,0
 "AmazonElasticTranscoder_FullAccess","v1",False,"2018-04-27T18:59:35+00:00",1,2,0,1,0,0,10
 "AmazonElasticTranscoder_FullAccess","v2",True,"2019-06-10T22:51:51+00:00",1,2,0,1,0,0,10
