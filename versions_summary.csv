@@ -470,7 +470,8 @@
 "AmazonConnectServiceLinkedRolePolicy","v4",False,"2021-04-14T00:13:10+00:00",1,1,0,0,0,2,58
 "AmazonConnectServiceLinkedRolePolicy","v7",False,"2022-06-27T19:35:06+00:00",1,1,0,0,0,2,87
 "AmazonConnectServiceLinkedRolePolicy","v8",False,"2022-11-07T19:01:31+00:00",1,1,0,0,0,2,100
-"AmazonConnectServiceLinkedRolePolicy","v13",True,"2023-11-15T22:04:36+00:00",1,2,0,0,0,2,135
+"AmazonConnectServiceLinkedRolePolicy","v13",False,"2023-11-15T22:04:36+00:00",1,2,0,0,0,2,135
+"AmazonConnectServiceLinkedRolePolicy","v14",True,"2023-11-28T16:05:08+00:00",1,2,0,0,0,2,135
 "AmazonConnectServiceLinkedRolePolicy","v9",False,"2023-09-27T21:05:04+00:00",1,2,0,0,0,2,135
 "AmazonConnectServiceLinkedRolePolicy","v12",False,"2023-10-26T23:32:06+00:00",1,2,0,0,0,2,135
 "AmazonConnectServiceLinkedRolePolicy","v10",False,"2023-10-06T17:23:46+00:00",1,2,0,0,0,2,135
@@ -2986,6 +2987,7 @@
 "AWSDataExchangeSubscriberFullAccess","v3",False,"2021-01-14T17:06:28+00:00",0,1,0,0,0,0,3
 "AWSDataExchangeSubscriberFullAccess","v2",False,"2020-04-27T14:28:00+00:00",0,1,0,0,0,0,3
 "AWSDataExchangeSubscriberFullAccess","v4",False,"2021-02-08T23:34:25+00:00",0,1,0,0,0,0,3
+"AmazonQFullAccess","v1",True,"2023-11-28T16:00:24+00:00",1,0,0,0,0,0,0
 "AWSOpsWorks_FullAccess","v1",True,"2021-01-22T16:29:08+00:00",1,2,0,3,0,0,46
 "AmazonCognitoIdpEmailServiceRolePolicy","v1",True,"2019-03-21T21:32:25+00:00",0,1,0,0,0,0,1
 "AWSElementalMediaTailorReadOnly","v1",True,"2021-11-23T00:05:01+00:00",0,0,0,0,0,0,0
