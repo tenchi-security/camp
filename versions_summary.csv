@@ -2508,8 +2508,9 @@
 "AWSCodeBuildDeveloperAccess","v12",False,"2020-07-30T18:25:47+00:00",0,2,0,0,0,0,10
 "AWSCodeBuildDeveloperAccess","v10",False,"2020-04-02T17:19:29+00:00",0,2,0,0,0,0,6
 "ElastiCacheServiceRolePolicy","v1",False,"2017-12-07T17:50:04+00:00",0,1,0,0,0,0,7
-"ElastiCacheServiceRolePolicy","v3",True,"2020-02-06T21:27:13+00:00",0,1,0,0,0,0,7
+"ElastiCacheServiceRolePolicy","v3",False,"2020-02-06T21:27:13+00:00",0,1,0,0,0,0,7
 "ElastiCacheServiceRolePolicy","v2",False,"2019-09-25T23:09:07+00:00",0,1,0,0,0,0,7
+"ElastiCacheServiceRolePolicy","v4",True,"2023-11-28T03:05:37+00:00",0,1,0,0,0,0,7
 "AmazonSageMakerGroundTruthExecution","v1",False,"2020-07-09T19:30:20+00:00",0,2,0,0,0,0,4
 "AmazonSageMakerGroundTruthExecution","v3",True,"2022-04-29T20:49:54+00:00",0,3,0,0,0,0,6
 "AmazonSageMakerGroundTruthExecution","v2",False,"2022-04-11T21:22:37+00:00",0,2,0,0,0,0,4
@@ -3543,7 +3544,8 @@
 "AmazonDRSVPCManagement","v1",True,"2015-09-02T00:09:20+00:00",0,1,0,0,0,0,7
 "AmazonSageMakerCanvasDataPrepFullAccess","v1",True,"2023-10-27T22:56:13+00:00",0,0,0,0,0,0,0
 "AmazonElastiCacheFullAccess","v1",False,"2015-02-06T18:40:20+00:00",1,1,0,0,0,0,46
-"AmazonElastiCacheFullAccess","v2",True,"2017-12-07T17:48:26+00:00",1,1,0,0,0,0,46
+"AmazonElastiCacheFullAccess","v3",True,"2023-11-28T03:49:56+00:00",1,1,0,0,0,0,48
+"AmazonElastiCacheFullAccess","v2",False,"2017-12-07T17:48:26+00:00",1,1,0,0,0,0,46
 "AmazonKinesisFirehoseFullAccess","v1",True,"2015-10-07T18:45:26+00:00",1,1,0,0,0,0,9
 "AWSBackupServiceRolePolicyForBackup","v1",False,"2019-01-10T21:01:28+00:00",0,1,0,0,0,0,3
 "AWSBackupServiceRolePolicyForBackup","v5",False,"2020-06-03T07:06:09+00:00",0,3,0,1,0,0,9
