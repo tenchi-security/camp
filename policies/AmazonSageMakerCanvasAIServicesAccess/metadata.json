@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4IA6MZINCJ",
     "Arn": "arn:aws:iam::aws:policy/AmazonSageMakerCanvasAIServicesAccess",
     "Path": "/",
-    "DefaultVersionId": "v2",
+    "DefaultVersionId": "v3",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2023-03-23T22:36:43+00:00",
-    "UpdateDate": "2023-09-30T00:15:02+00:00"
+    "UpdateDate": "2023-11-29T14:47:09+00:00"
 }

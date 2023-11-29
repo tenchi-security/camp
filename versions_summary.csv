@@ -373,7 +373,8 @@
 "AWSAppMeshPreviewServiceRolePolicy","v2",False,"2019-08-06T16:08:50+00:00",0,0,0,0,0,0,0
 "AWSBillingConductorFullAccess","v1",True,"2022-04-13T18:02:29+00:00",1,0,0,0,0,0,0
 "AmazonSageMakerCanvasAIServicesAccess","v1",False,"2023-03-23T22:36:43+00:00",0,0,0,0,0,0,0
-"AmazonSageMakerCanvasAIServicesAccess","v2",True,"2023-09-30T00:15:02+00:00",0,1,0,0,0,0,1
+"AmazonSageMakerCanvasAIServicesAccess","v3",True,"2023-11-29T14:47:09+00:00",0,1,0,0,0,0,2
+"AmazonSageMakerCanvasAIServicesAccess","v2",False,"2023-09-30T00:15:02+00:00",0,1,0,0,0,0,1
 "AmazonOmicsReadOnlyAccess","v1",True,"2022-11-29T04:17:07+00:00",0,0,0,0,0,0,0
 "ECRReplicationServiceRolePolicy","v1",True,"2020-12-04T22:11:28+00:00",0,1,0,0,0,0,2
 "AWSDiscoveryContinuousExportFirehosePolicy","v1",False,"2018-08-09T18:29:39+00:00",0,0,0,0,0,0,0
@@ -3208,6 +3209,7 @@
 "AmazonOpenSearchIngestionReadOnlyAccess","v1",True,"2023-04-26T18:09:52+00:00",0,0,0,0,0,0,0
 "AmazonSSMReadOnlyAccess","v1",True,"2015-05-29T17:44:19+00:00",0,1,0,0,3,0,3
 "AWSS3OnOutpostsServiceRolePolicy","v1",True,"2023-10-03T20:32:36+00:00",0,1,0,2,0,0,8
+"AmazonSageMakerClusterInstanceRolePolicy","v1",True,"2023-11-29T15:11:26+00:00",0,0,0,0,0,0,0
 "AWSIoTWirelessFullAccess","v1",True,"2020-12-15T15:27:57+00:00",1,1,0,0,0,0,25
 "ServerMigrationServiceLaunchRole","v1",False,"2018-11-26T19:53:06+00:00",0,1,0,0,0,0,5
 "ServerMigrationServiceLaunchRole","v3",False,"2020-09-30T17:50:15+00:00",0,2,0,1,0,0,6

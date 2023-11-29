@@ -1,0 +1,6 @@
+{
+    "VersionId": "v3",
+    "IsDefaultVersion": true,
+    "CreateDate": "2023-11-29T14:47:09+00:00",
+    "PolicyName": "AmazonSageMakerCanvasAIServicesAccess"
+}
