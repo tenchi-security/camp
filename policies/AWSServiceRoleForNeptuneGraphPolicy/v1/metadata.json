@@ -1,0 +1,6 @@
+{
+    "VersionId": "v1",
+    "IsDefaultVersion": true,
+    "CreateDate": "2023-11-29T14:03:36+00:00",
+    "PolicyName": "AWSServiceRoleForNeptuneGraphPolicy"
+}

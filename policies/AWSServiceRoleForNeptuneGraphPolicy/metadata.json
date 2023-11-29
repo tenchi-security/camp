@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSServiceRoleForNeptuneGraphPolicy",
+    "PolicyId": "ANPAZKAPJZG4K7GMP4OBO",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/AWSServiceRoleForNeptuneGraphPolicy",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2023-11-29T14:03:36+00:00",
+    "UpdateDate": "2023-11-29T14:03:36+00:00"
+}

@@ -3487,6 +3487,7 @@
 "AWSEC2SpotFleetServiceRolePolicy","v3",False,"2018-03-28T19:04:33+00:00",0,2,0,1,0,0,4
 "AWSEC2SpotFleetServiceRolePolicy","v2",False,"2017-11-17T22:01:06+00:00",0,2,0,1,0,0,3
 "AWSEC2SpotFleetServiceRolePolicy","v4",True,"2020-03-16T19:16:21+00:00",0,2,0,1,0,0,4
+"AWSServiceRoleForNeptuneGraphPolicy","v1",True,"2023-11-29T14:03:36+00:00",0,0,0,0,0,0,0
 "AWSFaultInjectionSimulatorEKSAccess","v1",False,"2022-10-26T20:34:43+00:00",0,0,0,0,0,0,0
 "AWSFaultInjectionSimulatorEKSAccess","v3",True,"2023-11-13T16:44:51+00:00",0,0,0,0,0,0,0
 "AWSFaultInjectionSimulatorEKSAccess","v2",False,"2023-06-01T10:59:09+00:00",0,0,0,0,0,0,0
