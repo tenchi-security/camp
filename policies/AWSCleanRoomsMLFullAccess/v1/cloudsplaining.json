@@ -1,0 +1,11 @@
+{
+    "ServiceWildcard": [
+        "cleanrooms-ml"
+    ],
+    "ServicesAffected": [],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": []
+}

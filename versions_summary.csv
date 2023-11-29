@@ -751,6 +751,7 @@
 "NeptuneConsoleFullAccess","v3",False,"2020-01-23T20:49:41+00:00",0,4,0,2,0,0,61
 "NeptuneConsoleFullAccess","v2",False,"2018-11-06T21:19:54+00:00",0,4,0,2,0,0,61
 "NeptuneConsoleFullAccess","v4",True,"2020-09-02T17:25:07+00:00",0,4,0,2,0,0,61
+"AWSCleanRoomsMLReadOnlyAccess","v1",True,"2023-11-29T20:55:31+00:00",0,0,0,0,0,0,0
 "DataScientist","v1",False,"2016-11-10T17:28:48+00:00",12,17,1,15,1,1,363
 "DataScientist","v5",True,"2019-12-03T16:48:34+00:00",13,19,1,16,1,1,370
 "DataScientist","v3",False,"2019-01-18T19:26:23+00:00",13,19,1,16,1,1,496
@@ -1927,6 +1928,7 @@
 "AmazonDevOpsGuruServiceRolePolicy","v8",False,"2022-10-19T08:43:10+00:00",0,1,0,0,0,0,1
 "AmazonDevOpsGuruServiceRolePolicy","v9",True,"2023-01-10T14:36:48+00:00",0,1,0,0,0,0,1
 "AmazonDocDBFullAccess","v1",True,"2019-01-09T20:21:44+00:00",0,2,0,1,0,0,39
+"AWSCleanRoomsMLFullAccess","v1",True,"2023-11-29T21:02:06+00:00",1,0,0,0,0,0,0
 "AmazonEC2RoleforSSM","v1",False,"2015-05-29T17:48:35+00:00",0,3,0,0,0,0,5
 "AmazonEC2RoleforSSM","v5",False,"2017-09-22T21:04:17+00:00",0,4,0,0,2,0,11
 "AmazonEC2RoleforSSM","v6",False,"2018-08-15T14:24:05+00:00",0,4,0,0,2,0,11
