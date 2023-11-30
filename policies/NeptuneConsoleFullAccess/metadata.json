@@ -3,10 +3,10 @@
     "PolicyId": "ANPAJWTD4ELX2KRNICUVQ",
     "Arn": "arn:aws:iam::aws:policy/NeptuneConsoleFullAccess",
     "Path": "/",
-    "DefaultVersionId": "v4",
+    "DefaultVersionId": "v5",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2018-06-19T21:35:19+00:00",
-    "UpdateDate": "2020-09-02T17:25:07+00:00"
+    "UpdateDate": "2023-11-30T07:32:44+00:00"
 }
