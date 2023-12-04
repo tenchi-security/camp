@@ -3,10 +3,10 @@
     "PolicyId": "ANPAIVUWKCAI7URU4WUEI",
     "Arn": "arn:aws:iam::aws:policy/aws-service-role/AmazonECSServiceRolePolicy",
     "Path": "/aws-service-role/",
-    "DefaultVersionId": "v10",
+    "DefaultVersionId": "v11",
     "AttachmentCount": 1,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2017-10-14T01:18:58+00:00",
-    "UpdateDate": "2023-10-10T16:57:39+00:00"
+    "UpdateDate": "2023-12-04T19:32:25+00:00"
 }

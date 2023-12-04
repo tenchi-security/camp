@@ -2866,13 +2866,14 @@
 "AmazonECSServiceRolePolicy","v1",False,"2017-10-14T01:18:58+00:00",0,2,0,2,0,0,7
 "AmazonECSServiceRolePolicy","v5",False,"2018-10-18T23:18:18+00:00",0,4,0,2,0,0,12
 "AmazonECSServiceRolePolicy","v6",False,"2019-06-24T23:16:41+00:00",0,4,0,2,0,0,12
+"AmazonECSServiceRolePolicy","v11",True,"2023-12-04T19:32:25+00:00",0,6,0,2,0,0,27
 "AmazonECSServiceRolePolicy","v3",False,"2018-03-07T18:29:40+00:00",0,4,0,2,0,0,12
 "AmazonECSServiceRolePolicy","v2",False,"2018-03-01T18:01:12+00:00",0,3,0,2,0,0,9
 "AmazonECSServiceRolePolicy","v4",False,"2018-03-22T01:20:59+00:00",0,4,0,2,0,0,12
 "AmazonECSServiceRolePolicy","v7",False,"2019-11-21T19:49:23+00:00",0,5,0,2,0,0,16
 "AmazonECSServiceRolePolicy","v8",False,"2021-01-13T20:04:13+00:00",0,5,0,2,0,0,16
 "AmazonECSServiceRolePolicy","v9",False,"2022-10-14T18:10:03+00:00",0,5,0,2,0,0,21
-"AmazonECSServiceRolePolicy","v10",True,"2023-10-10T16:57:39+00:00",0,5,0,2,0,0,21
+"AmazonECSServiceRolePolicy","v10",False,"2023-10-10T16:57:39+00:00",0,5,0,2,0,0,21
 "AmazonFISServiceRolePolicy","v1",False,"2020-12-21T21:18:19+00:00",0,1,0,0,0,0,4
 "AmazonFISServiceRolePolicy","v5",False,"2022-02-07T11:13:04+00:00",0,1,0,0,0,0,4
 "AmazonFISServiceRolePolicy","v6",False,"2022-07-06T11:03:20+00:00",0,1,0,0,0,0,4
