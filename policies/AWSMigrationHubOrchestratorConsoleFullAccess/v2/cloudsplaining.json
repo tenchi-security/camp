@@ -1,0 +1,31 @@
+{
+    "ServiceWildcard": [
+        "migrationhub-orchestrator"
+    ],
+    "ServicesAffected": [
+        "iam",
+        "migrationhub-orchestrator"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:CreateServiceLinkedRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "iam:CreateServiceLinkedRole",
+        "migrationhub-orchestrator:CreateWorkflowStep",
+        "migrationhub-orchestrator:CreateWorkflowStepGroup",
+        "migrationhub-orchestrator:DeleteWorkflow",
+        "migrationhub-orchestrator:DeleteWorkflowStep",
+        "migrationhub-orchestrator:DeleteWorkflowStepGroup",
+        "migrationhub-orchestrator:RetryWorkflowStep",
+        "migrationhub-orchestrator:StartWorkflow",
+        "migrationhub-orchestrator:StopWorkflow",
+        "migrationhub-orchestrator:TagResource",
+        "migrationhub-orchestrator:UntagResource",
+        "migrationhub-orchestrator:UpdateWorkflow",
+        "migrationhub-orchestrator:UpdateWorkflowStep",
+        "migrationhub-orchestrator:UpdateWorkflowStepGroup"
+    ]
+}

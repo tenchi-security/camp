@@ -1,6 +1,6 @@
 {
     "VersionId": "v1",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2022-04-20T02:26:28+00:00",
     "PolicyName": "AWSMigrationHubOrchestratorConsoleFullAccess"
 }

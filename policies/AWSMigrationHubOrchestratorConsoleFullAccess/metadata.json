@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4K2IRHZ6FO",
     "Arn": "arn:aws:iam::aws:policy/AWSMigrationHubOrchestratorConsoleFullAccess",
     "Path": "/",
-    "DefaultVersionId": "v1",
+    "DefaultVersionId": "v2",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2022-04-20T02:26:28+00:00",
-    "UpdateDate": "2022-04-20T02:26:28+00:00"
+    "UpdateDate": "2023-12-05T17:34:16+00:00"
 }
