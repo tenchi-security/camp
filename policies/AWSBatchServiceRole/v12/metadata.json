@@ -1,6 +1,6 @@
 {
     "VersionId": "v12",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2021-12-07T02:22:29+00:00",
     "PolicyName": "AWSBatchServiceRole"
 }
