@@ -188,6 +188,7 @@
 "AmazonElasticMapReduceRole","v8",False,"2017-07-17T21:29:50+00:00",0,6,1,2,1,0,29
 "AmazonElasticMapReduceRole","v9",False,"2017-12-12T00:47:45+00:00",0,6,1,2,1,0,29
 "AmazonElasticMapReduceRole","v10",True,"2020-06-24T22:24:20+00:00",0,6,1,2,1,0,32
+"AWS_ConfigRole","v29",True,"2023-12-04T23:44:46+00:00",0,2,0,2,0,0,11
 "AWS_ConfigRole","v1",False,"2020-09-15T20:30:30+00:00",0,1,0,0,0,0,5
 "AWS_ConfigRole","v24",False,"2023-04-12T22:09:12+00:00",0,2,0,2,0,0,7
 "AWS_ConfigRole","v5",False,"2021-05-11T00:14:06+00:00",0,1,0,0,0,0,5
@@ -204,7 +205,7 @@
 "AWS_ConfigRole","v23",False,"2023-03-21T18:15:20+00:00",0,2,0,2,0,0,7
 "AWS_ConfigRole","v7",False,"2021-07-27T22:41:23+00:00",0,1,0,0,0,0,5
 "AWS_ConfigRole","v27",False,"2023-10-03T21:42:48+00:00",0,2,0,2,0,0,11
-"AWS_ConfigRole","v28",True,"2023-11-17T21:09:11+00:00",0,2,0,2,0,0,11
+"AWS_ConfigRole","v28",False,"2023-11-17T21:09:11+00:00",0,2,0,2,0,0,11
 "AWS_ConfigRole","v8",False,"2021-09-08T18:09:40+00:00",0,1,0,0,0,0,5
 "AWS_ConfigRole","v25",False,"2023-06-09T00:15:20+00:00",0,2,0,2,0,0,7
 "AWS_ConfigRole","v13",False,"2022-05-27T03:11:37+00:00",0,1,0,0,0,0,5
@@ -1113,8 +1114,9 @@
 "AWSConfigServiceRolePolicy","v15",False,"2019-08-01T23:10:02+00:00",0,1,0,0,0,0,5
 "AWSConfigServiceRolePolicy","v45",False,"2023-08-16T18:05:21+00:00",0,3,0,2,1,0,12
 "AWSConfigServiceRolePolicy","v30",False,"2022-03-11T21:29:26+00:00",0,1,0,0,0,0,5
-"AWSConfigServiceRolePolicy","v48",True,"2023-11-16T22:58:04+00:00",0,2,0,2,0,0,11
+"AWSConfigServiceRolePolicy","v48",False,"2023-11-16T22:58:04+00:00",0,2,0,2,0,0,11
 "AWSConfigServiceRolePolicy","v20",False,"2020-06-19T16:09:31+00:00",0,1,0,0,0,0,5
+"AWSConfigServiceRolePolicy","v49",True,"2023-12-04T23:52:36+00:00",0,2,0,2,0,0,11
 "AWSConfigServiceRolePolicy","v36",False,"2022-09-14T19:19:27+00:00",0,2,0,2,0,0,7
 "AWSConfigServiceRolePolicy","v42",False,"2023-03-21T18:23:30+00:00",0,2,0,2,0,0,7
 "AWSConfigServiceRolePolicy","v2",False,"2018-07-31T19:20:09+00:00",0,1,0,0,0,0,5
