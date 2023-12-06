@@ -1,0 +1,29 @@
+{
+    "ServiceWildcard": [
+        "bedrock"
+    ],
+    "ServicesAffected": [
+        "bedrock"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "bedrock:CreateAgent",
+        "bedrock:CreateAgentActionGroup",
+        "bedrock:CreateAgentAlias",
+        "bedrock:CreateAgentDraftSnapshot",
+        "bedrock:CreateModelCustomizationJob",
+        "bedrock:DeleteCustomModel",
+        "bedrock:InvokeAgent",
+        "bedrock:InvokeModel",
+        "bedrock:InvokeModelWithResponseStream",
+        "bedrock:StopModelCustomizationJob",
+        "bedrock:TagResource",
+        "bedrock:UntagResource",
+        "bedrock:UpdateAgent",
+        "bedrock:UpdateAgentActionGroup",
+        "bedrock:UpdateAgentAlias"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonBedrockReadOnly",
+    "PolicyId": "ANPAZKAPJZG4LQSTUJ5QY",
+    "Arn": "arn:aws:iam::aws:policy/AmazonBedrockReadOnly",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2023-12-06T15:48:19+00:00",
+    "UpdateDate": "2023-12-06T15:48:19+00:00"
+}

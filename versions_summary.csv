@@ -1794,6 +1794,7 @@
 "AWSVPCS2SVpnServiceRolePolicy","v1",True,"2019-08-06T14:13:58+00:00",0,0,0,0,0,0,0
 "AlexaForBusinessLifesizeDelegatedAccessPolicy","v1",False,"2020-06-04T19:46:56+00:00",0,1,0,0,0,0,8
 "AlexaForBusinessLifesizeDelegatedAccessPolicy","v2",True,"2020-06-12T20:31:59+00:00",0,1,0,0,0,0,8
+"AmazonBedrockReadOnly","v1",True,"2023-12-06T15:48:19+00:00",0,0,0,0,0,0,0
 "AWSSSOServiceRolePolicy","v1",False,"2017-12-05T18:36:15+00:00",0,0,0,0,0,0,0
 "AWSSSOServiceRolePolicy","v5",False,"2019-02-05T18:20:34+00:00",0,0,0,0,0,0,0
 "AWSSSOServiceRolePolicy","v16",False,"2022-06-28T20:08:47+00:00",0,1,0,0,0,0,1
@@ -2950,6 +2951,7 @@
 "AmazonMCSReadOnlyAccess","v2",True,"2020-04-17T19:21:34+00:00",0,0,0,0,0,0,0
 "AmazonBraketServiceRolePolicy","v1",False,"2020-08-04T17:12:23+00:00",0,0,0,0,0,0,0
 "AmazonBraketServiceRolePolicy","v2",True,"2020-08-06T20:10:42+00:00",0,0,0,0,0,0,0
+"AmazonBedrockFullAccess","v1",True,"2023-12-06T15:47:17+00:00",1,1,0,0,0,0,15
 "AWSApplicationAutoscalingElastiCacheRGPolicy","v1",True,"2021-08-17T23:41:42+00:00",0,1,0,0,0,0,3
 "AWSMarketplacePurchaseOrdersServiceRolePolicy","v1",True,"2021-10-27T15:12:37+00:00",0,0,0,0,0,0,0
 "AmazonManagedBlockchainFullAccess","v1",True,"2019-04-29T21:39:29+00:00",1,1,0,0,0,0,11
