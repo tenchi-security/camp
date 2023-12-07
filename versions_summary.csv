@@ -2611,7 +2611,8 @@
 "MediaConnectGatewayInstanceRolePolicy","v1",True,"2023-03-22T20:43:25+00:00",0,0,0,0,0,0,0
 "AmazonOpenSearchIngestionServiceRolePolicy","v1",True,"2022-11-18T16:49:50+00:00",0,0,0,0,0,0,0
 "AWSServiceCatalogAppRegistryFullAccess","v1",False,"2020-11-12T22:25:58+00:00",0,1,0,0,0,0,10
-"AWSServiceCatalogAppRegistryFullAccess","v5",True,"2023-11-10T17:06:21+00:00",0,2,0,0,0,0,11
+"AWSServiceCatalogAppRegistryFullAccess","v5",False,"2023-11-10T17:06:21+00:00",0,2,0,0,0,0,11
+"AWSServiceCatalogAppRegistryFullAccess","v6",True,"2023-12-07T21:50:00+00:00",0,2,0,0,0,0,11
 "AWSServiceCatalogAppRegistryFullAccess","v3",False,"2022-06-15T22:01:01+00:00",0,2,0,0,0,0,11
 "AWSServiceCatalogAppRegistryFullAccess","v2",False,"2021-08-24T17:06:03+00:00",0,2,0,0,0,0,11
 "AWSServiceCatalogAppRegistryFullAccess","v4",False,"2022-11-17T18:13:10+00:00",0,2,0,0,0,0,11
