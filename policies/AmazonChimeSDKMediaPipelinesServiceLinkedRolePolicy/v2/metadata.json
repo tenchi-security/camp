@@ -1,6 +1,6 @@
 {
     "VersionId": "v2",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2023-09-07T20:08:32+00:00",
     "PolicyName": "AmazonChimeSDKMediaPipelinesServiceLinkedRolePolicy"
 }
