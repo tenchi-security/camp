@@ -1,0 +1,20 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "ec2",
+        "ecr",
+        "redshift-data",
+        "secretsmanager"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [
+        "ecr:GetAuthorizationToken"
+    ],
+    "InfrastructureModification": [
+        "ec2:CreateVpcEndpoint",
+        "redshift-data:ExecuteStatement",
+        "secretsmanager:GetSecretValue"
+    ]
+}

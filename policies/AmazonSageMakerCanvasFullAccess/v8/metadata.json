@@ -1,0 +1,6 @@
+{
+    "VersionId": "v8",
+    "IsDefaultVersion": true,
+    "CreateDate": "2023-12-09T00:58:33+00:00",
+    "PolicyName": "AmazonSageMakerCanvasFullAccess"
+}
