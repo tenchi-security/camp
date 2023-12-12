@@ -2566,7 +2566,8 @@
 "AWSElasticDisasterRecoveryReplicationServerPolicy","v2",False,"2022-07-10T12:34:15+00:00",0,2,0,0,0,0,7
 "AWSElasticDisasterRecoveryReplicationServerPolicy","v1",False,"2021-11-17T13:34:00+00:00",0,1,0,0,0,0,1
 "EC2InstanceConnect","v1",True,"2019-06-27T18:53:34+00:00",0,1,0,0,0,0,1
-"ROSAImageRegistryOperatorPolicy","v1",True,"2023-04-27T20:13:18+00:00",0,0,0,0,0,0,0
+"ROSAImageRegistryOperatorPolicy","v2",True,"2023-12-12T19:53:12+00:00",0,0,0,0,0,0,0
+"ROSAImageRegistryOperatorPolicy","v1",False,"2023-04-27T20:13:18+00:00",0,0,0,0,0,0,0
 "AWSPurchaseOrdersServiceRolePolicy","v3",False,"2023-03-07T22:32:54+00:00",0,0,0,0,0,0,0
 "AWSPurchaseOrdersServiceRolePolicy","v4",False,"2023-03-17T19:07:53+00:00",0,0,0,0,0,0,0
 "AWSPurchaseOrdersServiceRolePolicy","v5",True,"2023-07-17T18:59:18+00:00",0,0,0,0,0,0,0
