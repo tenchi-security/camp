@@ -1,0 +1,48 @@
+{
+    "ServiceWildcard": [
+        "ivs",
+        "ivschat"
+    ],
+    "ServicesAffected": [
+        "ivs",
+        "ivschat"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "ivs:BatchStartViewerSessionRevocation",
+        "ivs:CreateChannel",
+        "ivs:CreateParticipantToken",
+        "ivs:CreateRecordingConfiguration",
+        "ivs:CreateStage",
+        "ivs:CreateStreamKey",
+        "ivs:DeleteChannel",
+        "ivs:DeletePlaybackKeyPair",
+        "ivs:DeleteRecordingConfiguration",
+        "ivs:DeleteStage",
+        "ivs:DeleteStreamKey",
+        "ivs:DisconnectParticipant",
+        "ivs:ImportPlaybackKeyPair",
+        "ivs:PutMetadata",
+        "ivs:StartViewerSessionRevocation",
+        "ivs:StopStream",
+        "ivs:TagResource",
+        "ivs:UntagResource",
+        "ivs:UpdateChannel",
+        "ivs:UpdateStage",
+        "ivschat:CreateChatToken",
+        "ivschat:CreateLoggingConfiguration",
+        "ivschat:CreateRoom",
+        "ivschat:DeleteLoggingConfiguration",
+        "ivschat:DeleteMessage",
+        "ivschat:DeleteRoom",
+        "ivschat:DisconnectUser",
+        "ivschat:SendEvent",
+        "ivschat:TagResource",
+        "ivschat:UntagResource",
+        "ivschat:UpdateLoggingConfiguration",
+        "ivschat:UpdateRoom"
+    ]
+}
