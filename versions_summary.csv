@@ -1097,8 +1097,9 @@
 "AWSBackupServiceLinkedRolePolicyForBackup","v10",False,"2022-05-17T17:21:50+00:00",0,2,0,1,0,0,6
 "AWSBackupServiceLinkedRolePolicyForBackup","v1",False,"2020-06-02T23:08:40+00:00",0,0,0,0,0,0,0
 "AWSBackupServiceLinkedRolePolicyForBackup","v11",False,"2022-07-28T17:29:44+00:00",0,2,0,1,0,0,6
+"AWSBackupServiceLinkedRolePolicyForBackup","v15",True,"2023-12-15T22:06:53+00:00",0,2,0,1,0,0,7
 "AWSBackupServiceLinkedRolePolicyForBackup","v12",False,"2022-11-10T22:51:20+00:00",0,2,0,1,0,0,6
-"AWSBackupServiceLinkedRolePolicyForBackup","v14",True,"2023-11-27T19:39:04+00:00",0,2,0,1,0,0,7
+"AWSBackupServiceLinkedRolePolicyForBackup","v14",False,"2023-11-27T19:39:04+00:00",0,2,0,1,0,0,7
 "AWSBackupServiceLinkedRolePolicyForBackup","v8",False,"2022-02-18T17:38:21+00:00",0,2,0,1,0,0,6
 "AWSBackupServiceLinkedRolePolicyForBackup","v4",False,"2021-07-05T23:27:46+00:00",0,2,0,1,0,0,6
 "AWSBackupServiceLinkedRolePolicyForBackup","v9",False,"2022-05-05T17:45:06+00:00",0,2,0,1,0,0,6
