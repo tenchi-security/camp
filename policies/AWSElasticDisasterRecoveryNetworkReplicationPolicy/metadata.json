@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4OACCBBQLR",
     "Arn": "arn:aws:iam::aws:policy/service-role/AWSElasticDisasterRecoveryNetworkReplicationPolicy",
     "Path": "/service-role/",
-    "DefaultVersionId": "v2",
+    "DefaultVersionId": "v3",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2023-06-11T12:36:48+00:00",
-    "UpdateDate": "2023-11-27T13:25:49+00:00"
+    "UpdateDate": "2023-12-17T14:23:22+00:00"
 }

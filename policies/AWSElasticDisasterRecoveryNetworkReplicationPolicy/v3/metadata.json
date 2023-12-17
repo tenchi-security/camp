@@ -1,0 +1,6 @@
+{
+    "VersionId": "v3",
+    "IsDefaultVersion": true,
+    "CreateDate": "2023-12-17T14:23:22+00:00",
+    "PolicyName": "AWSElasticDisasterRecoveryNetworkReplicationPolicy"
+}
