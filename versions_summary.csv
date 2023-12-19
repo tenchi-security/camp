@@ -661,6 +661,7 @@
 "ResourceGroupsServiceRolePolicy","v1",True,"2023-01-05T16:57:08+00:00",0,0,0,0,0,0,0
 "AmazonRedshiftQueryEditorV2FullAccess","v1",False,"2021-09-24T14:06:02+00:00",1,0,0,0,0,0,0
 "AmazonRedshiftQueryEditorV2FullAccess","v2",True,"2022-02-23T17:05:06+00:00",1,1,0,0,0,0,16
+"CostOptimizationHubAdminAccess","v1",True,"2023-12-19T00:03:51+00:00",0,0,0,0,0,0,0
 "AmazonElasticsearchServiceRolePolicy","v6",False,"2022-10-13T13:45:16+00:00",0,2,0,0,0,0,5
 "AmazonElasticsearchServiceRolePolicy","v1",False,"2017-07-07T00:15:31+00:00",0,1,0,0,0,0,3
 "AmazonElasticsearchServiceRolePolicy","v4",False,"2022-08-02T15:31:35+00:00",0,2,0,0,0,0,5
