@@ -407,8 +407,9 @@
 "AWSCloudMapDiscoverInstanceAccess","v2",True,"2023-09-20T21:48:09+00:00",0,0,0,0,0,0,0
 "AmazonFSxFullAccess","v6",False,"2023-07-13T18:41:47+00:00",0,2,0,3,0,0,35
 "AmazonFSxFullAccess","v1",False,"2018-11-28T16:34:43+00:00",1,2,0,2,0,0,13
-"AmazonFSxFullAccess","v8",True,"2023-11-27T05:55:28+00:00",0,2,0,3,0,0,35
+"AmazonFSxFullAccess","v8",False,"2023-11-27T05:55:28+00:00",0,2,0,3,0,0,35
 "AmazonFSxFullAccess","v4",False,"2022-09-29T18:27:51+00:00",1,2,0,3,0,0,32
+"AmazonFSxFullAccess","v9",True,"2023-12-19T22:51:41+00:00",0,2,0,3,0,0,35
 "AmazonFSxFullAccess","v3",False,"2021-08-26T13:17:29+00:00",1,2,0,3,0,0,17
 "AmazonFSxFullAccess","v2",False,"2021-06-08T12:05:31+00:00",1,2,0,2,0,0,13
 "AmazonFSxFullAccess","v7",False,"2023-11-27T04:14:07+00:00",0,2,0,3,0,0,35
@@ -1732,10 +1733,11 @@
 "ServerMigrationServiceConsoleFullAccess","v2",True,"2020-07-20T22:00:37+00:00",1,1,0,1,0,0,1
 "ROSAInstallerPolicy","v1",True,"2023-06-06T21:00:31+00:00",0,3,0,1,0,0,6
 "AmazonFSxConsoleFullAccess","v6",False,"2022-09-22T14:08:01+00:00",1,2,0,3,0,0,32
+"AmazonFSxConsoleFullAccess","v10",True,"2023-12-19T22:50:06+00:00",0,2,0,3,0,0,35
 "AmazonFSxConsoleFullAccess","v1",False,"2018-11-28T16:36:05+00:00",1,2,0,2,0,0,13
 "AmazonFSxConsoleFullAccess","v8",False,"2023-11-27T04:16:50+00:00",0,2,0,3,0,0,35
 "AmazonFSxConsoleFullAccess","v4",False,"2021-06-08T12:14:00+00:00",1,2,0,2,0,0,13
-"AmazonFSxConsoleFullAccess","v9",True,"2023-11-27T06:06:43+00:00",0,2,0,3,0,0,35
+"AmazonFSxConsoleFullAccess","v9",False,"2023-11-27T06:06:43+00:00",0,2,0,3,0,0,35
 "AmazonFSxConsoleFullAccess","v3",False,"2020-01-21T16:42:58+00:00",1,2,0,2,0,0,13
 "AmazonFSxConsoleFullAccess","v2",False,"2019-09-10T13:11:13+00:00",1,2,0,2,0,0,13
 "AmazonFSxConsoleFullAccess","v7",False,"2023-07-13T18:44:50+00:00",0,2,0,3,0,0,35

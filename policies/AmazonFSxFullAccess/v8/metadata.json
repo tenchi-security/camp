@@ -1,6 +1,6 @@
 {
     "VersionId": "v8",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2023-11-27T05:55:28+00:00",
     "PolicyName": "AmazonFSxFullAccess"
 }
