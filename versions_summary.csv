@@ -1049,6 +1049,7 @@
 "ElasticLoadBalancingFullAccess","v5",False,"2020-12-04T20:01:39+00:00",1,2,0,1,0,0,24
 "AWSApplicationMigrationVCenterClientPolicy","v1",True,"2021-11-08T12:53:08+00:00",0,0,0,0,0,0,0
 "AWSApplicationAutoscalingECSServicePolicy","v1",True,"2017-10-25T23:53:08+00:00",0,2,0,0,0,0,3
+"CloudWatchNetworkMonitorServiceRolePolicy","v1",True,"2023-12-21T18:53:19+00:00",0,0,0,0,0,0,0
 "AWSMarketplaceGetEntitlements","v1",True,"2017-03-27T19:37:24+00:00",0,0,0,0,0,0,0
 "AmazonRedshiftServiceLinkedRolePolicy","v6",False,"2022-05-25T05:09:53+00:00",0,1,0,0,0,0,8
 "AmazonRedshiftServiceLinkedRolePolicy","v10",False,"2023-05-08T18:57:44+00:00",0,1,0,0,0,0,8
