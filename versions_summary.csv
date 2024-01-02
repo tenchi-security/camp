@@ -244,7 +244,8 @@
 "AWSBackupServiceRolePolicyForS3Restore","v1",False,"2022-02-18T17:39:37+00:00",0,1,0,0,0,0,1
 "AWSBackupServiceRolePolicyForS3Restore","v2",True,"2023-02-07T00:06:00+00:00",0,1,0,0,0,0,2
 "AWSElasticDisasterRecoveryNetworkReplicationPolicy","v1",False,"2023-06-11T12:36:48+00:00",0,0,0,0,0,0,0
-"AWSElasticDisasterRecoveryNetworkReplicationPolicy","v3",True,"2023-12-17T14:23:22+00:00",0,0,0,0,0,0,0
+"AWSElasticDisasterRecoveryNetworkReplicationPolicy","v4",True,"2024-01-02T13:25:23+00:00",0,0,0,0,0,0,0
+"AWSElasticDisasterRecoveryNetworkReplicationPolicy","v3",False,"2023-12-17T14:23:22+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryNetworkReplicationPolicy","v2",False,"2023-11-27T13:25:49+00:00",0,0,0,0,0,0,0
 "CloudHSMServiceRolePolicy","v1",True,"2017-11-06T19:12:46+00:00",0,0,0,0,0,0,0
 "AmazonAppStreamReadOnlyAccess","v1",False,"2015-02-06T18:40:10+00:00",0,0,0,0,0,0,0
@@ -1190,11 +1191,12 @@
 "AWSIoTConfigReadOnlyAccess","v2",False,"2016-04-11T16:31:16+00:00",0,0,0,0,0,0,0
 "AWSIoTConfigReadOnlyAccess","v7",False,"2018-07-18T21:22:11+00:00",0,0,0,0,0,0,0
 "AWSIoTConfigReadOnlyAccess","v5",False,"2017-11-29T18:34:03+00:00",0,0,0,0,0,0,0
+"AWSElasticDisasterRecoveryServiceRolePolicy","v6",True,"2024-01-02T13:31:35+00:00",0,1,0,0,0,0,2
 "AWSElasticDisasterRecoveryServiceRolePolicy","v1",False,"2021-11-17T10:56:17+00:00",0,1,0,0,0,0,1
 "AWSElasticDisasterRecoveryServiceRolePolicy","v4",False,"2023-11-27T13:35:20+00:00",0,1,0,0,0,0,2
 "AWSElasticDisasterRecoveryServiceRolePolicy","v3",False,"2023-06-11T08:33:31+00:00",0,1,0,0,0,0,2
 "AWSElasticDisasterRecoveryServiceRolePolicy","v2",False,"2022-07-10T12:44:41+00:00",0,1,0,0,0,0,2
-"AWSElasticDisasterRecoveryServiceRolePolicy","v5",True,"2023-12-17T14:31:04+00:00",0,1,0,0,0,0,2
+"AWSElasticDisasterRecoveryServiceRolePolicy","v5",False,"2023-12-17T14:31:04+00:00",0,1,0,0,0,0,2
 "AmazonRDSEnhancedMonitoringRole","v1",True,"2015-11-11T19:58:29+00:00",0,0,0,0,0,0,0
 "AWSServiceRoleForCodeGuru-Profiler","v1",True,"2020-06-26T22:04:26+00:00",0,1,0,0,0,0,1
 "AWSBillingConductorReadOnlyAccess","v1",True,"2022-04-13T18:02:59+00:00",0,0,0,0,0,0,0
