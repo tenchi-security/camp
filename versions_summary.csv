@@ -2459,6 +2459,7 @@
 "AWSIotRoboRunnerFullAccess","v1",False,"2021-11-29T03:54:37+00:00",1,0,0,0,0,0,0
 "AWSIotRoboRunnerFullAccess","v2",True,"2023-02-23T18:34:44+00:00",1,1,0,0,0,0,19
 "AWSAutoScalingPlansEC2AutoScalingPolicy","v1",True,"2018-08-23T22:46:59+00:00",0,1,0,0,0,0,2
+"AWSArtifactReportsReadOnlyAccess","v1",True,"2024-01-02T22:42:58+00:00",0,0,0,0,0,0,0
 "AWSDeviceFarmTestGridServiceRolePolicy","v1",True,"2021-05-26T22:01:35+00:00",0,0,0,0,0,0,0
 "AWSMigrationHubRefactorSpacesFullAccess","v1",False,"2021-11-29T07:12:55+00:00",1,4,0,1,0,0,21
 "AWSMigrationHubRefactorSpacesFullAccess","v4",False,"2022-10-06T19:05:50+00:00",1,5,0,2,0,0,26
