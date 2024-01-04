@@ -2809,11 +2809,12 @@
 "AmplifyBackendDeployFullAccess","v4",True,"2024-01-02T21:13:46+00:00",0,0,0,0,0,0,0
 "AmplifyBackendDeployFullAccess","v3",False,"2023-11-17T23:27:43+00:00",0,0,0,0,0,0,0
 "AmplifyBackendDeployFullAccess","v2",False,"2023-11-06T20:08:59+00:00",0,0,0,0,0,0,0
-"CloudFrontFullAccess","v6",True,"2020-09-03T20:18:42+00:00",1,1,0,0,0,0,14
+"CloudFrontFullAccess","v6",False,"2020-09-03T20:18:42+00:00",1,1,0,0,0,0,14
 "CloudFrontFullAccess","v1",False,"2015-02-06T18:39:50+00:00",1,1,0,0,0,0,14
 "CloudFrontFullAccess","v4",False,"2020-02-19T19:52:00+00:00",1,1,0,0,0,0,14
 "CloudFrontFullAccess","v3",False,"2016-01-21T17:03:57+00:00",1,1,0,0,0,0,14
 "CloudFrontFullAccess","v2",False,"2015-05-04T17:52:23+00:00",1,1,0,0,0,0,14
+"CloudFrontFullAccess","v7",True,"2024-01-04T16:56:08+00:00",2,1,0,0,0,0,40
 "CloudFrontFullAccess","v5",False,"2020-08-27T17:09:55+00:00",1,1,0,0,0,0,14
 "AWSElasticDisasterRecoveryFailbackPolicy","v1",False,"2021-11-17T10:41:40+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryFailbackPolicy","v2",True,"2023-11-27T12:56:46+00:00",0,0,0,0,0,0,0
@@ -3239,11 +3240,12 @@
 "CloudWatchFullAccess","v2",False,"2017-12-13T17:52:41+00:00",3,3,0,6,0,0,40
 "AWSQuickSightDescribeRedshift","v1",True,"2015-11-10T23:25:01+00:00",0,0,0,0,0,0,0
 "AWSPanoramaServiceRolePolicy","v1",True,"2020-12-01T13:14:43+00:00",0,1,0,0,0,0,1
+"CloudFrontReadOnlyAccess","v6",True,"2024-01-04T16:55:27+00:00",0,0,0,0,0,0,0
 "CloudFrontReadOnlyAccess","v1",False,"2015-02-06T18:39:55+00:00",0,0,0,0,0,0,0
 "CloudFrontReadOnlyAccess","v4",False,"2020-02-19T19:49:16+00:00",0,0,0,0,0,0,0
 "CloudFrontReadOnlyAccess","v3",False,"2016-01-21T17:03:28+00:00",0,0,0,0,0,0,0
 "CloudFrontReadOnlyAccess","v2",False,"2015-05-04T17:56:12+00:00",0,0,0,0,0,0,0
-"CloudFrontReadOnlyAccess","v5",True,"2021-09-08T22:10:54+00:00",0,0,0,0,0,0,0
+"CloudFrontReadOnlyAccess","v5",False,"2021-09-08T22:10:54+00:00",0,0,0,0,0,0,0
 "AWSElasticLoadBalancingClassicServiceRolePolicy","v1",False,"2017-09-19T22:36:18+00:00",0,1,0,0,0,0,12
 "AWSElasticLoadBalancingClassicServiceRolePolicy","v2",True,"2019-10-07T23:04:27+00:00",0,1,0,0,0,0,12
 "AWSElasticBeanstalkReadOnly","v1",True,"2021-01-22T19:02:37+00:00",0,0,0,0,0,0,0

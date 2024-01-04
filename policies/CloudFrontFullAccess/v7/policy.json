@@ -1,0 +1,45 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "cfflistbuckets",
+            "Action": [
+                "s3:ListAllMyBuckets"
+            ],
+            "Effect": "Allow",
+            "Resource": "arn:aws:s3:::*"
+        },
+        {
+            "Sid": "cffullaccess",
+            "Action": [
+                "acm:ListCertificates",
+                "cloudfront:*",
+                "cloudfront-keyvaluestore:*",
+                "iam:ListServerCertificates",
+                "waf:ListWebACLs",
+                "waf:GetWebACL",
+                "wafv2:ListWebACLs",
+                "wafv2:GetWebACL",
+                "kinesis:ListStreams"
+            ],
+            "Effect": "Allow",
+            "Resource": "*"
+        },
+        {
+            "Sid": "cffdescribestream",
+            "Action": [
+                "kinesis:DescribeStream"
+            ],
+            "Effect": "Allow",
+            "Resource": "arn:aws:kinesis:*:*:*"
+        },
+        {
+            "Sid": "cfflistroles",
+            "Action": [
+                "iam:ListRoles"
+            ],
+            "Effect": "Allow",
+            "Resource": "arn:aws:iam::*:*"
+        }
+    ]
+}
