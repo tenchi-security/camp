@@ -149,6 +149,7 @@
 "AlexaForBusinessReadOnlyAccess","v3",True,"2019-11-20T00:25:33+00:00",0,0,0,0,0,0,0
 "AlexaForBusinessReadOnlyAccess","v2",False,"2018-06-25T23:52:33+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerPartnerServiceCatalogProductsApiGatewayServiceRolePolicy","v1",True,"2023-08-01T15:06:24+00:00",0,0,0,0,0,0,0
+"AWSGrafanaWorkspacePermissionManagementV2","v1",True,"2024-01-05T18:39:46+00:00",0,0,0,0,0,0,0
 "IAMSelfManageServiceSpecificCredentials","v1",True,"2016-12-22T17:25:18+00:00",0,0,0,0,0,0,0
 "AWSElasticBeanstalkWebTier","v6",False,"2019-03-01T00:04:49+00:00",0,0,0,0,0,0,0
 "AWSElasticBeanstalkWebTier","v1",False,"2016-02-08T23:08:54+00:00",0,0,0,0,0,0,0
