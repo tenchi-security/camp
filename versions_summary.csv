@@ -90,7 +90,8 @@
 "AmazonRedshiftQueryEditorV2NoSharing","v7",False,"2023-03-21T09:03:27+00:00",0,1,0,0,0,0,28
 "AmazonRedshiftQueryEditorV2NoSharing","v5",False,"2022-10-17T17:37:30+00:00",0,1,0,0,0,0,15
 "AWSLambdaVPCAccessExecutionRole","v1",False,"2016-02-11T23:15:26+00:00",0,2,0,0,0,0,5
-"AWSLambdaVPCAccessExecutionRole","v2",True,"2020-10-15T22:53:03+00:00",0,2,0,0,0,0,7
+"AWSLambdaVPCAccessExecutionRole","v3",True,"2024-01-05T22:38:26+00:00",0,2,0,0,0,0,7
+"AWSLambdaVPCAccessExecutionRole","v2",False,"2020-10-15T22:53:03+00:00",0,2,0,0,0,0,7
 "AWSZonalAutoshiftPracticeRunSLRPolicy","v1",True,"2023-11-29T17:34:54+00:00",0,1,0,0,0,0,3
 "AlexaForBusinessDeviceSetup","v1",False,"2017-11-30T16:47:16+00:00",0,0,0,0,0,0,0
 "AlexaForBusinessDeviceSetup","v2",True,"2019-05-20T21:05:39+00:00",0,0,0,0,0,0,0
