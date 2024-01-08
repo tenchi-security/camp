@@ -1,0 +1,24 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "application-autoscaling",
+        "dynamodb",
+        "iam"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:CreateServiceLinkedRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "application-autoscaling:PutScalingPolicy",
+        "application-autoscaling:RegisterScalableTarget",
+        "dynamodb:DeleteItem",
+        "dynamodb:PutItem",
+        "dynamodb:UpdateItem",
+        "dynamodb:UpdateTable",
+        "dynamodb:UpdateTimeToLive",
+        "iam:CreateServiceLinkedRole"
+    ]
+}
