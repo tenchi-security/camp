@@ -3,10 +3,10 @@
     "PolicyId": "ANPAJQUISIZNHGLA6YQFM",
     "Arn": "arn:aws:iam::aws:policy/AmazonFSxConsoleReadOnlyAccess",
     "Path": "/",
-    "DefaultVersionId": "v4",
+    "DefaultVersionId": "v5",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2018-11-28T16:35:24+00:00",
-    "UpdateDate": "2022-09-22T14:07:26+00:00"
+    "UpdateDate": "2024-01-10T20:19:18+00:00"
 }

@@ -3,10 +3,10 @@
     "PolicyId": "ANPAIEUV6Z2X4VNZRVB5I",
     "Arn": "arn:aws:iam::aws:policy/AmazonFSxFullAccess",
     "Path": "/",
-    "DefaultVersionId": "v9",
+    "DefaultVersionId": "v10",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2018-11-28T16:34:43+00:00",
-    "UpdateDate": "2023-12-19T22:51:41+00:00"
+    "UpdateDate": "2024-01-10T20:16:00+00:00"
 }
