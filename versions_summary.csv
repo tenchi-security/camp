@@ -792,8 +792,9 @@
 "AmazonTimestreamReadOnlyAccess","v3",True,"2023-02-28T18:22:57+00:00",0,0,0,0,0,0,0
 "AmazonTimestreamReadOnlyAccess","v2",False,"2021-11-26T23:39:30+00:00",0,0,0,0,0,0,0
 "AccessAnalyzerServiceRolePolicy","v6",False,"2021-09-02T16:49:47+00:00",0,0,0,0,0,0,0
-"AccessAnalyzerServiceRolePolicy","v10",True,"2023-11-28T19:00:40+00:00",0,0,0,0,0,0,0
+"AccessAnalyzerServiceRolePolicy","v10",False,"2023-11-28T19:00:40+00:00",0,0,0,0,0,0,0
 "AccessAnalyzerServiceRolePolicy","v1",False,"2019-12-02T17:13:10+00:00",0,0,0,0,0,0,0
+"AccessAnalyzerServiceRolePolicy","v11",True,"2024-01-11T20:13:34+00:00",0,0,0,0,0,0,0
 "AccessAnalyzerServiceRolePolicy","v8",False,"2022-10-25T16:50:52+00:00",0,0,0,0,0,0,0
 "AccessAnalyzerServiceRolePolicy","v4",False,"2020-05-19T19:10:16+00:00",0,0,0,0,0,0,0
 "AccessAnalyzerServiceRolePolicy","v9",False,"2023-11-07T19:55:15+00:00",0,0,0,0,0,0,0
