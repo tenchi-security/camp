@@ -1,6 +1,6 @@
 {
     "VersionId": "v6",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2024-01-02T13:31:35+00:00",
     "PolicyName": "AWSElasticDisasterRecoveryServiceRolePolicy"
 }

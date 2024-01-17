@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4JUELD5VO3",
     "Arn": "arn:aws:iam::aws:policy/service-role/AWSElasticDisasterRecoveryCrossAccountReplicationPolicy",
     "Path": "/service-role/",
-    "DefaultVersionId": "v1",
+    "DefaultVersionId": "v2",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2023-05-14T07:16:47+00:00",
-    "UpdateDate": "2023-05-14T07:16:47+00:00"
+    "UpdateDate": "2024-01-17T13:19:58+00:00"
 }
