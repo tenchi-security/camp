@@ -2754,7 +2754,8 @@
 "AWSTrustedAdvisorServiceRolePolicy","v6",False,"2019-06-12T21:21:39+00:00",0,0,0,0,0,0,0
 "AWSTrustedAdvisorServiceRolePolicy","v10",False,"2023-09-14T18:02:41+00:00",0,0,0,0,0,0,0
 "AWSTrustedAdvisorServiceRolePolicy","v1",False,"2018-02-22T21:24:25+00:00",0,0,0,0,0,0,0
-"AWSTrustedAdvisorServiceRolePolicy","v11",True,"2023-11-10T00:18:42+00:00",0,0,0,0,0,0,0
+"AWSTrustedAdvisorServiceRolePolicy","v11",False,"2023-11-10T00:18:42+00:00",0,0,0,0,0,0,0
+"AWSTrustedAdvisorServiceRolePolicy","v12",True,"2024-01-18T16:25:15+00:00",0,0,0,0,0,0,0
 "AWSTrustedAdvisorServiceRolePolicy","v8",False,"2020-04-08T16:15:31+00:00",0,0,0,0,0,0,0
 "AWSTrustedAdvisorServiceRolePolicy","v4",False,"2018-12-13T21:54:30+00:00",0,0,0,0,0,0,0
 "AWSTrustedAdvisorServiceRolePolicy","v9",False,"2021-08-10T22:41:30+00:00",0,0,0,0,0,0,0
