@@ -3509,7 +3509,7 @@
 "AWSSupportServiceRolePolicy","v21",False,"2022-02-18T00:53:34+00:00",0,1,0,0,0,0,1
 "AWSSupportServiceRolePolicy","v28",False,"2023-03-16T20:29:42+00:00",0,1,0,0,0,0,1
 "AWSSupportServiceRolePolicy","v10",False,"2020-04-29T18:42:38+00:00",0,2,0,0,0,0,5
-"AWSSupportServiceRolePolicy","v33",True,"2023-12-07T01:43:36+00:00",0,2,0,3,0,0,4
+"AWSSupportServiceRolePolicy","v33",False,"2023-12-07T01:43:36+00:00",0,2,0,3,0,0,4
 "AWSSupportServiceRolePolicy","v1",False,"2018-04-19T18:04:44+00:00",0,3,0,0,1,1,6
 "AWSSupportServiceRolePolicy","v16",False,"2021-07-01T21:52:12+00:00",0,2,0,0,0,0,5
 "AWSSupportServiceRolePolicy","v31",False,"2023-08-29T00:19:36+00:00",0,2,0,3,0,0,4
@@ -3525,6 +3525,7 @@
 "AWSSupportServiceRolePolicy","v8",False,"2019-12-16T19:39:42+00:00",0,2,0,0,0,1,5
 "AWSSupportServiceRolePolicy","v4",False,"2019-02-06T18:06:11+00:00",0,3,0,0,1,1,6
 "AWSSupportServiceRolePolicy","v9",False,"2020-03-10T18:55:18+00:00",0,2,0,0,0,1,5
+"AWSSupportServiceRolePolicy","v34",True,"2024-01-17T22:28:08+00:00",0,2,0,3,0,0,4
 "AWSSupportServiceRolePolicy","v3",False,"2018-11-05T20:12:23+00:00",0,3,0,0,1,1,6
 "AWSSupportServiceRolePolicy","v13",False,"2020-10-13T17:46:33+00:00",0,2,0,0,0,0,5
 "AWSSupportServiceRolePolicy","v2",False,"2018-08-06T20:57:29+00:00",0,3,0,0,1,1,6
