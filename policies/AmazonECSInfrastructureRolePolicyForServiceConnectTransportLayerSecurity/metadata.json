@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonECSInfrastructureRolePolicyForServiceConnectTransportLayerSecurity",
+    "PolicyId": "ANPAZKAPJZG4OIQQFRIAH",
+    "Arn": "arn:aws:iam::aws:policy/service-role/AmazonECSInfrastructureRolePolicyForServiceConnectTransportLayerSecurity",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2024-01-19T20:08:36+00:00",
+    "UpdateDate": "2024-01-19T20:08:36+00:00"
+}
