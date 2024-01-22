@@ -3,10 +3,10 @@
     "PolicyId": "ANPAJS5OQ5RXULC66WTGQ",
     "Arn": "arn:aws:iam::aws:policy/NeptuneReadOnlyAccess",
     "Path": "/",
-    "DefaultVersionId": "v2",
+    "DefaultVersionId": "v3",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2018-05-30T19:16:37+00:00",
-    "UpdateDate": "2022-08-03T18:53:32+00:00"
+    "UpdateDate": "2024-01-22T16:33:46+00:00"
 }
