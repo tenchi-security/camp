@@ -796,7 +796,8 @@
 "AccessAnalyzerServiceRolePolicy","v6",False,"2021-09-02T16:49:47+00:00",0,0,0,0,0,0,0
 "AccessAnalyzerServiceRolePolicy","v10",False,"2023-11-28T19:00:40+00:00",0,0,0,0,0,0,0
 "AccessAnalyzerServiceRolePolicy","v1",False,"2019-12-02T17:13:10+00:00",0,0,0,0,0,0,0
-"AccessAnalyzerServiceRolePolicy","v11",True,"2024-01-11T20:13:34+00:00",0,0,0,0,0,0,0
+"AccessAnalyzerServiceRolePolicy","v11",False,"2024-01-11T20:13:34+00:00",0,0,0,0,0,0,0
+"AccessAnalyzerServiceRolePolicy","v12",True,"2024-01-22T22:34:53+00:00",0,0,0,0,0,0,0
 "AccessAnalyzerServiceRolePolicy","v8",False,"2022-10-25T16:50:52+00:00",0,0,0,0,0,0,0
 "AccessAnalyzerServiceRolePolicy","v4",False,"2020-05-19T19:10:16+00:00",0,0,0,0,0,0,0
 "AccessAnalyzerServiceRolePolicy","v9",False,"2023-11-07T19:55:15+00:00",0,0,0,0,0,0,0
@@ -3135,7 +3136,8 @@
 "AWSElasticDisasterRecoveryConversionServerPolicy","v1",False,"2021-11-17T13:42:23+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryConversionServerPolicy","v2",True,"2023-11-27T13:13:38+00:00",0,0,0,0,0,0,0
 "AWSIoTDeviceDefenderUpdateCACertMitigationAction","v1",True,"2019-08-07T17:05:49+00:00",0,1,0,0,0,0,1
-"ROSASRESupportPolicy","v1",True,"2023-06-01T14:36:06+00:00",0,0,0,0,0,0,0
+"ROSASRESupportPolicy","v1",False,"2023-06-01T14:36:06+00:00",0,0,0,0,0,0,0
+"ROSASRESupportPolicy","v2",True,"2024-01-22T22:46:40+00:00",0,0,0,0,0,0,0
 "AWSApplicationMigrationAgentPolicy","v1",False,"2021-04-07T07:00:21+00:00",0,0,0,0,0,0,0
 "AWSApplicationMigrationAgentPolicy","v2",True,"2022-09-20T11:13:40+00:00",0,1,0,0,0,0,6
 "AWSPrivateNetworksServiceRolePolicy","v1",True,"2021-12-16T23:17:46+00:00",0,0,0,0,0,0,0
