@@ -2465,6 +2465,7 @@
 "AmazonRekognitionCustomLabelsFullAccess","v2",False,"2020-04-17T17:26:10+00:00",0,1,0,0,0,0,6
 "AWSCloud9SSMInstanceProfile","v1",True,"2020-05-14T11:40:49+00:00",0,0,0,0,0,0,0
 "AWSAppMeshPreviewEnvoyAccess","v1",True,"2019-08-05T23:32:39+00:00",0,0,0,0,0,0,0
+"AmazonSecurityLakeMetastoreManager","v1",True,"2024-01-23T15:26:57+00:00",0,0,0,0,0,0,0
 "AWSRefactoringToolkitFullAccess","v1",False,"2022-10-25T16:41:15+00:00",0,2,0,0,0,0,20
 "AWSRefactoringToolkitFullAccess","v4",True,"2023-11-18T00:37:27+00:00",0,3,0,0,0,1,20
 "AWSRefactoringToolkitFullAccess","v3",False,"2023-03-23T23:14:02+00:00",0,2,0,0,0,0,20
