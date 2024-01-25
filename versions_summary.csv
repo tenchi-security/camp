@@ -1399,7 +1399,8 @@
 "AWSAppRunnerFullAccess","v1",True,"2022-01-11T04:02:09+00:00",1,2,0,1,0,0,15
 "AWSServiceRoleForCodeGuru-Profiler","v1",True,"2020-06-26T22:04:26+00:00",0,1,0,0,0,0,1
 "AmazonHealthLakeReadOnlyAccess","v1",True,"2021-02-17T02:43:31+00:00",0,0,0,0,0,0,0
-"AWSFaultInjectionSimulatorNetworkAccess","v1",True,"2022-10-26T20:32:50+00:00",0,0,0,0,0,0,0
+"AWSFaultInjectionSimulatorNetworkAccess","v2",True,"2024-01-25T16:07:44+00:00",0,0,0,0,0,0,0
+"AWSFaultInjectionSimulatorNetworkAccess","v1",False,"2022-10-26T20:32:50+00:00",0,0,0,0,0,0,0
 "AWSApplicationAutoscalingEC2SpotFleetRequestPolicy","v1",True,"2017-10-25T18:23:27+00:00",0,2,0,0,0,0,3
 "AWSCloud9EnvironmentMember","v3",True,"2023-10-11T12:13:40+00:00",0,0,0,0,0,0,0
 "AWSCloud9EnvironmentMember","v2",False,"2020-07-29T06:29:08+00:00",0,0,0,0,0,0,0
@@ -3682,7 +3683,8 @@
 "ROSACloudNetworkConfigOperatorPolicy","v1",True,"2023-04-20T22:34:36+00:00",0,0,0,0,0,0,0
 "AWSCodeArtifactReadOnlyAccess","v1",True,"2020-06-25T21:23:52+00:00",0,0,0,0,0,0,0
 "AmazonTextractFullAccess","v1",True,"2018-11-28T19:07:42+00:00",1,0,0,0,0,0,0
-"AWSFaultInjectionSimulatorECSAccess","v2",True,"2023-06-01T10:48:27+00:00",0,0,0,0,0,0,0
+"AWSFaultInjectionSimulatorECSAccess","v3",True,"2024-01-25T16:16:02+00:00",0,0,0,0,0,0,0
+"AWSFaultInjectionSimulatorECSAccess","v2",False,"2023-06-01T10:48:27+00:00",0,0,0,0,0,0,0
 "AWSFaultInjectionSimulatorECSAccess","v1",False,"2022-10-26T20:37:56+00:00",0,0,0,0,0,0,0
 "DynamoDBKinesisReplicationServiceRolePolicy","v1",True,"2020-11-12T00:43:25+00:00",0,2,0,0,0,0,3
 "AmazonMachineLearningBatchPredictionsAccess","v1",True,"2015-04-09T17:12:19+00:00",0,1,0,0,0,0,3
