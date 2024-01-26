@@ -1143,7 +1143,8 @@
 "AWSCloud9Administrator","v1",False,"2017-11-30T16:17:28+00:00",1,2,0,1,0,0,8
 "AWSCloud9SSMInstanceProfile","v1",True,"2020-05-14T11:40:49+00:00",0,0,0,0,0,0,0
 "AWSRoboMakerServiceRolePolicy","v1",True,"2018-11-26T05:33:19+00:00",0,3,0,2,0,0,4
-"ROSAInstallerPolicy","v1",True,"2023-06-06T21:00:31+00:00",0,3,0,1,0,0,6
+"ROSAInstallerPolicy","v2",True,"2024-01-26T21:04:47+00:00",0,3,0,1,0,0,6
+"ROSAInstallerPolicy","v1",False,"2023-06-06T21:00:31+00:00",0,3,0,1,0,0,6
 "AmazonElasticContainerRegistryPublicPowerUser","v1",True,"2020-12-01T16:16:54+00:00",0,1,0,0,0,0,4
 "AmazonMobileAnalyticsFinancialReportAccess","v1",True,"2015-02-06T18:40:35+00:00",0,0,0,0,0,0,0
 "CloudWatchSyntheticsReadOnlyAccess","v2",True,"2020-03-06T19:26:01+00:00",0,0,0,0,0,0,0
