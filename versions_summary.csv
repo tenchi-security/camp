@@ -1554,7 +1554,8 @@
 "AWSMigrationHubRefactorSpaces-EnvironmentsWithoutBridgesFullAccess","v2",True,"2023-07-20T15:39:19+00:00",1,5,0,2,0,0,17
 "AWSMigrationHubRefactorSpaces-EnvironmentsWithoutBridgesFullAccess","v1",False,"2023-04-03T20:09:48+00:00",1,5,0,2,0,0,17
 "AWSCompromisedKeyQuarantine","v1",True,"2020-08-11T18:04:13+00:00",0,0,0,0,0,0,0
-"AmazonGuardDutyMalwareProtectionServiceRolePolicy","v1",True,"2022-07-19T19:06:53+00:00",0,0,0,0,0,0,0
+"AmazonGuardDutyMalwareProtectionServiceRolePolicy","v2",True,"2024-01-25T22:24:00+00:00",0,0,0,0,0,0,0
+"AmazonGuardDutyMalwareProtectionServiceRolePolicy","v1",False,"2022-07-19T19:06:53+00:00",0,0,0,0,0,0,0
 "AWSProtonServiceGitSyncServiceRolePolicy","v1",True,"2023-04-04T15:55:48+00:00",0,1,0,0,0,0,7
 "AWSGrafanaAccountAdministrator","v3",True,"2022-02-15T22:36:18+00:00",1,1,0,1,0,0,6
 "AWSGrafanaAccountAdministrator","v2",False,"2021-10-13T22:13:18+00:00",1,0,0,0,0,0,0
