@@ -2136,6 +2136,7 @@
 "AmazonCodeGuruProfilerAgentAccess","v2",False,"2021-04-02T23:21:37+00:00",0,1,0,0,0,0,2
 "AmazonCodeGuruProfilerAgentAccess","v1",False,"2021-02-05T22:11:56+00:00",0,1,0,0,0,0,2
 "AmazonCodeGuruProfilerAgentAccess","v3",True,"2022-05-05T18:11:03+00:00",0,0,0,0,0,0,0
+"AmazonLexReplicationPolicy","v1",True,"2024-01-31T23:29:42+00:00",0,1,0,1,0,0,1
 "CloudWatchEventsInvocationAccess","v1",True,"2016-01-14T18:36:33+00:00",0,1,0,0,0,0,1
 "AWSIoTSiteWiseMonitorPortalAccess","v1",True,"2020-05-19T20:01:21+00:00",0,1,0,0,0,0,11
 "AwsGlueDataBrewFullAccessPolicy","v4",False,"2021-04-28T15:54:32+00:00",1,3,0,0,0,0,22
