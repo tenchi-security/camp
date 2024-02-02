@@ -1189,8 +1189,9 @@
 "AWSCodeDeployRoleForLambda","v2",False,"2017-12-01T22:32:58+00:00",0,3,0,0,0,0,3
 "AWSCodeDeployRoleForLambda","v1",False,"2017-11-28T14:05:44+00:00",0,3,0,0,0,0,3
 "AWSCodeDeployRoleForLambda","v3",True,"2019-12-03T19:53:10+00:00",0,3,0,0,0,0,3
-"AmazonDataZoneDomainExecutionRolePolicy","v2",True,"2023-11-28T12:48:21+00:00",0,0,0,0,0,0,0
+"AmazonDataZoneDomainExecutionRolePolicy","v2",False,"2023-11-28T12:48:21+00:00",0,0,0,0,0,0,0
 "AmazonDataZoneDomainExecutionRolePolicy","v1",False,"2023-09-27T21:55:08+00:00",0,0,0,0,0,0,0
+"AmazonDataZoneDomainExecutionRolePolicy","v3",True,"2024-02-01T23:12:59+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryFailbackInstallationPolicy","v2",False,"2022-06-27T09:13:40+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryFailbackInstallationPolicy","v1",False,"2021-11-17T11:02:03+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryFailbackInstallationPolicy","v3",True,"2023-11-27T13:43:08+00:00",0,0,0,0,0,0,0
