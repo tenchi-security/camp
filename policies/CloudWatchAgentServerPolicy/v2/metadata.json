@@ -1,6 +1,6 @@
 {
     "VersionId": "v2",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2019-10-17T23:08:51+00:00",
     "PolicyName": "CloudWatchAgentServerPolicy"
 }
