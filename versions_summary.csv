@@ -3466,9 +3466,10 @@
 "AmazonLexFullAccess","v6",False,"2020-05-29T15:21:00+00:00",1,1,0,0,0,0,29
 "AmazonLexFullAccess","v2",False,"2017-04-12T20:16:32+00:00",1,1,0,0,0,0,29
 "AmazonLexFullAccess","v1",False,"2017-04-11T23:20:36+00:00",1,1,0,0,0,0,29
-"AmazonLexFullAccess","v7",True,"2021-07-26T21:48:05+00:00",1,1,0,0,0,0,38
+"AmazonLexFullAccess","v7",False,"2021-07-26T21:48:05+00:00",1,1,0,0,0,0,38
 "AmazonLexFullAccess","v3",False,"2017-04-14T19:45:37+00:00",1,1,0,0,0,0,29
 "AmazonLexFullAccess","v5",False,"2020-05-15T16:34:50+00:00",1,1,0,0,0,0,29
+"AmazonLexFullAccess","v8",True,"2024-02-07T00:55:22+00:00",1,1,0,0,0,0,65
 "AWSElasticBeanstalkRoleWorkerTier","v1",True,"2020-06-05T21:43:37+00:00",0,0,0,0,0,0,0
 "AmazonECSServiceRolePolicy","v4",False,"2018-03-22T01:20:59+00:00",0,4,0,2,0,0,12
 "AmazonECSServiceRolePolicy","v6",False,"2019-06-24T23:16:41+00:00",0,4,0,2,0,0,12
