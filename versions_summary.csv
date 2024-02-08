@@ -3515,13 +3515,14 @@
 "AmazonRoute53RecoveryControlConfigReadOnlyAccess","v3",True,"2023-10-18T17:15:33+00:00",0,0,0,0,0,0,0
 "AmazonRoute53RecoveryControlConfigReadOnlyAccess","v1",False,"2021-08-18T18:01:12+00:00",0,0,0,0,0,0,0
 "AmazonRoute53RecoveryControlConfigReadOnlyAccess","v2",False,"2021-12-09T23:38:51+00:00",0,0,0,0,0,0,0
-"AmazonVPCFullAccess","v9",True,"2021-08-02T19:12:14+00:00",0,1,0,3,0,0,101
+"AmazonVPCFullAccess","v9",False,"2021-08-02T19:12:14+00:00",0,1,0,3,0,0,101
 "AmazonVPCFullAccess","v7",False,"2018-03-15T18:30:25+00:00",0,1,0,3,0,0,97
 "AmazonVPCFullAccess","v3",False,"2015-05-07T18:04:37+00:00",0,1,0,0,0,0,60
 "AmazonVPCFullAccess","v4",False,"2015-12-15T22:01:18+00:00",0,1,0,0,0,0,72
 "AmazonVPCFullAccess","v6",False,"2017-12-20T16:32:09+00:00",0,1,0,2,0,0,88
 "AmazonVPCFullAccess","v1",False,"2015-02-06T18:41:16+00:00",0,1,0,0,0,0,50
 "AmazonVPCFullAccess","v5",False,"2015-12-17T17:25:44+00:00",0,1,0,0,0,0,74
+"AmazonVPCFullAccess","v10",True,"2024-02-08T16:03:24+00:00",0,1,0,3,0,0,104
 "AmazonVPCFullAccess","v8",False,"2021-06-23T20:58:45+00:00",0,1,0,3,0,0,101
 "AmazonVPCFullAccess","v2",False,"2015-03-24T19:54:44+00:00",0,1,0,0,0,0,51
 "AWSDirectConnectFullAccess","v3",True,"2019-04-30T15:29:29+00:00",1,1,0,0,0,0,36
