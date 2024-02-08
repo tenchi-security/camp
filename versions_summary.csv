@@ -3072,7 +3072,8 @@
 "AWSDeepLensLambdaFunctionAccessPolicy","v4",True,"2019-06-11T23:11:55+00:00",1,2,0,1,0,0,8
 "AWSDeepLensLambdaFunctionAccessPolicy","v1",False,"2017-11-29T15:47:18+00:00",1,1,0,1,0,0,6
 "AWSDeepLensLambdaFunctionAccessPolicy","v2",False,"2018-03-29T19:36:09+00:00",1,1,0,1,0,0,6
-"AmazonRedshiftReadOnlyAccess","v1",True,"2015-02-06T18:40:51+00:00",0,0,0,0,0,0,0
+"AmazonRedshiftReadOnlyAccess","v1",False,"2015-02-06T18:40:51+00:00",0,0,0,0,0,0,0
+"AmazonRedshiftReadOnlyAccess","v2",True,"2024-02-08T00:24:13+00:00",0,0,0,0,0,0,0
 "AWSLambdaMSKExecutionRole","v1",False,"2020-08-11T17:35:05+00:00",0,2,0,0,0,0,5
 "AWSLambdaMSKExecutionRole","v2",True,"2022-08-02T20:08:02+00:00",0,2,0,0,0,0,5
 "AmazonCognitoIdpEmailServiceRolePolicy","v1",True,"2019-03-21T21:32:25+00:00",0,1,0,0,0,0,1
