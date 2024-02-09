@@ -438,12 +438,13 @@
 "AWSEC2FleetServiceRolePolicy","v3",True,"2020-05-04T20:10:31+00:00",0,2,0,2,0,0,5
 "AWSEC2FleetServiceRolePolicy","v1",False,"2018-03-21T00:08:55+00:00",0,2,0,1,0,0,4
 "AWSEC2FleetServiceRolePolicy","v2",False,"2018-04-19T21:37:07+00:00",0,2,0,2,0,0,5
-"AmazonGuardDutyServiceRolePolicy","v7",True,"2023-11-26T22:03:45+00:00",0,1,0,1,0,0,1
+"AmazonGuardDutyServiceRolePolicy","v7",False,"2023-11-26T22:03:45+00:00",0,1,0,1,0,0,1
 "AmazonGuardDutyServiceRolePolicy","v3",False,"2020-05-14T20:25:50+00:00",0,0,0,0,0,0,0
 "AmazonGuardDutyServiceRolePolicy","v4",False,"2021-08-03T23:14:07+00:00",0,0,0,0,0,0,0
 "AmazonGuardDutyServiceRolePolicy","v6",False,"2023-03-08T19:59:16+00:00",0,1,0,1,0,0,1
 "AmazonGuardDutyServiceRolePolicy","v1",False,"2017-11-28T20:12:59+00:00",0,0,0,0,0,0,0
 "AmazonGuardDutyServiceRolePolicy","v5",False,"2023-02-21T16:56:23+00:00",0,1,0,1,0,0,1
+"AmazonGuardDutyServiceRolePolicy","v8",True,"2024-02-09T18:30:50+00:00",0,1,0,1,0,0,1
 "AmazonGuardDutyServiceRolePolicy","v2",False,"2020-04-20T16:01:34+00:00",0,0,0,0,0,0,0
 "WAFLoggingServiceRolePolicy","v1",True,"2018-08-24T21:05:47+00:00",0,0,0,0,0,0,0
 "AWSIoTDataAccess","v3",True,"2021-06-23T21:34:47+00:00",0,1,0,0,0,0,6
