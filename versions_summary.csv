@@ -3429,7 +3429,8 @@
 "AWSServiceRoleForMonitronPolicy","v1",False,"2020-12-02T19:06:08+00:00",0,0,0,1,0,0,0
 "AWSServiceRoleForMonitronPolicy","v2",True,"2022-09-29T20:38:15+00:00",0,0,0,0,0,0,0
 "AmazonGrafanaCloudWatchAccess","v1",True,"2023-03-24T22:41:53+00:00",0,0,0,0,0,0,0
-"AWSXRayDaemonWriteAccess","v1",True,"2018-08-28T23:00:33+00:00",0,0,0,0,0,0,0
+"AWSXRayDaemonWriteAccess","v1",False,"2018-08-28T23:00:33+00:00",0,0,0,0,0,0,0
+"AWSXRayDaemonWriteAccess","v2",True,"2024-02-13T21:58:30+00:00",0,0,0,0,0,0,0
 "GroundTruthSyntheticConsoleReadOnlyAccess","v1",True,"2022-08-25T15:58:49+00:00",0,0,0,0,0,0,0
 "AWSFaultInjectionSimulatorEKSAccess","v3",True,"2023-11-13T16:44:51+00:00",0,0,0,0,0,0,0
 "AWSFaultInjectionSimulatorEKSAccess","v1",False,"2022-10-26T20:34:43+00:00",0,0,0,0,0,0,0
