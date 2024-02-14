@@ -1296,10 +1296,11 @@
 "LakeFormationDataAccessServiceRolePolicy","v1",False,"2019-06-20T20:46:19+00:00",0,0,0,0,0,0,0
 "LakeFormationDataAccessServiceRolePolicy","v2",True,"2024-02-06T18:37:31+00:00",0,0,0,0,0,0,0
 "AWSIncidentManagerResolverAccess","v1",True,"2021-05-10T06:12:34+00:00",0,0,0,0,0,0,0
-"AWSPrivateMarketplaceAdminFullAccess","v5",True,"2022-12-07T20:02:37+00:00",0,1,0,0,0,0,2
+"AWSPrivateMarketplaceAdminFullAccess","v5",False,"2022-12-07T20:02:37+00:00",0,1,0,0,0,0,2
 "AWSPrivateMarketplaceAdminFullAccess","v4",False,"2021-08-27T15:34:07+00:00",0,0,0,0,0,0,0
 "AWSPrivateMarketplaceAdminFullAccess","v3",False,"2020-12-03T15:12:31+00:00",0,0,0,0,0,0,0
 "AWSPrivateMarketplaceAdminFullAccess","v1",False,"2018-11-27T16:32:32+00:00",0,0,0,0,0,0,0
+"AWSPrivateMarketplaceAdminFullAccess","v6",True,"2024-02-14T22:05:08+00:00",0,1,0,0,0,0,2
 "AWSPrivateMarketplaceAdminFullAccess","v2",False,"2019-10-28T21:48:03+00:00",0,0,0,0,0,0,0
 "AlexaForBusinessPolyDelegatedAccessPolicy","v1",True,"2019-10-16T19:48:45+00:00",0,1,0,0,0,0,4
 "AWSElementalMediaPackageFullAccess","v1",True,"2017-12-29T23:39:52+00:00",1,1,0,1,0,1,7
