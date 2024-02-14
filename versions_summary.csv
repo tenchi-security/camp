@@ -2051,8 +2051,9 @@
 "AWSXrayReadOnlyAccess","v5",False,"2020-09-03T22:19:40+00:00",0,0,0,0,0,0,0
 "AWSXrayReadOnlyAccess","v4",False,"2019-04-30T18:11:46+00:00",0,0,0,0,0,0,0
 "AWSXrayReadOnlyAccess","v3",False,"2018-11-20T23:06:16+00:00",0,0,0,0,0,0,0
-"AWSXrayReadOnlyAccess","v7",True,"2022-11-15T23:13:57+00:00",0,0,0,0,0,0,0
+"AWSXrayReadOnlyAccess","v7",False,"2022-11-15T23:13:57+00:00",0,0,0,0,0,0,0
 "AWSXrayReadOnlyAccess","v1",False,"2016-12-01T18:27:02+00:00",0,0,0,0,0,0,0
+"AWSXrayReadOnlyAccess","v8",True,"2024-02-14T00:35:02+00:00",0,0,0,0,0,0,0
 "AWSXrayReadOnlyAccess","v6",False,"2022-11-11T19:46:21+00:00",0,0,0,0,0,0,0
 "AWSXrayReadOnlyAccess","v2",False,"2018-08-28T22:59:08+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryConversionServerPolicy","v1",False,"2021-11-17T13:42:23+00:00",0,0,0,0,0,0,0
