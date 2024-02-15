@@ -1,0 +1,29 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "backup",
+        "ec2",
+        "elasticfilesystem",
+        "fsx",
+        "iam",
+        "rds"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:PassRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "backup:StartRestoreJob",
+        "ec2:DeleteVolume",
+        "ec2:TerminateInstances",
+        "elasticfilesystem:DeleteFileSystem",
+        "elasticfilesystem:DeleteMountTarget",
+        "fsx:DeleteFileSystem",
+        "fsx:DeleteVolume",
+        "iam:PassRole",
+        "rds:DeleteDBCluster",
+        "rds:DeleteDBInstance"
+    ]
+}

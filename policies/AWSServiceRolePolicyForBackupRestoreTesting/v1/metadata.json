@@ -1,6 +1,6 @@
 {
     "VersionId": "v1",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2023-11-10T23:37:45+00:00",
     "PolicyName": "AWSServiceRolePolicyForBackupRestoreTesting"
 }
