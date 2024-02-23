@@ -1,0 +1,40 @@
+{
+    "ServiceWildcard": [
+        "securitylake"
+    ],
+    "ServicesAffected": [
+        "ram",
+        "securitylake"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "ram:AssociateResourceShare",
+        "ram:DeleteResourceShare",
+        "ram:DisassociateResourceShare",
+        "ram:UpdateResourceShare"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "ram:AssociateResourceShare",
+        "ram:DeleteResourceShare",
+        "ram:DisassociateResourceShare",
+        "ram:UpdateResourceShare",
+        "securitylake:CreateAwsLogSource",
+        "securitylake:CreateCustomLogSource",
+        "securitylake:CreateDataLake",
+        "securitylake:CreateDataLakeOrganizationConfiguration",
+        "securitylake:CreateSubscriberNotification",
+        "securitylake:DeleteAwsLogSource",
+        "securitylake:DeleteCustomLogSource",
+        "securitylake:DeleteDataLake",
+        "securitylake:DeleteDataLakeOrganizationConfiguration",
+        "securitylake:DeleteSubscriber",
+        "securitylake:DeleteSubscriberNotification",
+        "securitylake:TagResource",
+        "securitylake:UntagResource",
+        "securitylake:UpdateDataLake",
+        "securitylake:UpdateSubscriber",
+        "securitylake:UpdateSubscriberNotification"
+    ]
+}
