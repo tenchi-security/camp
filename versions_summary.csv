@@ -1627,7 +1627,8 @@
 "AccessAnalyzerServiceRolePolicy","v6",False,"2021-09-02T16:49:47+00:00",0,0,0,0,0,0,0
 "AccessAnalyzerServiceRolePolicy","v2",False,"2020-03-02T15:55:03+00:00",0,0,0,0,0,0,0
 "ROSANodePoolManagementPolicy","v1",True,"2023-06-08T20:48:08+00:00",0,1,0,1,0,0,2
-"AWSSecurityHubReadOnlyAccess","v3",True,"2022-04-04T17:46:51+00:00",0,0,0,0,0,0,0
+"AWSSecurityHubReadOnlyAccess","v4",True,"2024-02-22T23:45:59+00:00",0,0,0,0,0,0,0
+"AWSSecurityHubReadOnlyAccess","v3",False,"2022-04-04T17:46:51+00:00",0,0,0,0,0,0,0
 "AWSSecurityHubReadOnlyAccess","v1",False,"2018-11-28T01:34:29+00:00",0,0,0,0,0,0,0
 "AWSSecurityHubReadOnlyAccess","v2",False,"2019-06-25T22:45:52+00:00",0,0,0,0,0,0,0
 "AmazonPersonalizeFullAccess","v1",False,"2018-12-04T22:24:33+00:00",1,2,0,1,0,0,22
