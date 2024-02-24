@@ -2146,8 +2146,9 @@
 "AWSThinkboxAWSPortalAdminPolicy","v5",False,"2023-03-23T20:12:28+00:00",0,4,0,0,0,0,45
 "AWSThinkboxAWSPortalAdminPolicy","v4",False,"2020-08-20T17:16:03+00:00",0,4,0,0,0,0,44
 "AWSThinkboxAWSPortalAdminPolicy","v3",False,"2020-08-18T21:01:54+00:00",0,4,0,0,0,0,45
+"AWSThinkboxAWSPortalAdminPolicy","v7",True,"2024-02-23T22:25:47+00:00",0,4,0,0,0,0,45
 "AWSThinkboxAWSPortalAdminPolicy","v1",False,"2020-05-27T19:41:02+00:00",0,4,0,0,0,0,45
-"AWSThinkboxAWSPortalAdminPolicy","v6",True,"2023-04-18T18:24:02+00:00",0,4,0,0,0,0,45
+"AWSThinkboxAWSPortalAdminPolicy","v6",False,"2023-04-18T18:24:02+00:00",0,4,0,0,0,0,45
 "AWSThinkboxAWSPortalAdminPolicy","v2",False,"2020-08-08T03:39:47+00:00",0,4,0,0,0,0,45
 "AWSEnhancedClassicNetworkingMangementPolicy","v1",True,"2017-09-20T17:29:09+00:00",0,0,0,0,0,0,0
 "AmazonDevOpsGuruFullAccess","v3",True,"2022-08-25T18:23:41+00:00",1,1,0,0,0,0,2
