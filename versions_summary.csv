@@ -3601,6 +3601,7 @@
 "AWSElasticDisasterRecoveryNetworkReplicationPolicy","v1",False,"2023-06-11T12:36:48+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryNetworkReplicationPolicy","v2",False,"2023-11-27T13:25:49+00:00",0,0,0,0,0,0,0
 "AmazonCloudWatchRUMFullAccess","v1",True,"2021-11-29T15:46:12+00:00",1,0,0,0,0,0,0
+"AmazonRDSCustomInstanceProfileRolePolicy","v1",True,"2024-02-27T17:42:02+00:00",0,2,0,0,0,0,3
 "AWSCodePipelineFullAccess","v5",False,"2016-11-01T19:59:46+00:00",1,3,0,2,1,1,23
 "AWSCodePipelineFullAccess","v9",False,"2020-03-26T16:06:34+00:00",1,6,0,1,0,1,30
 "AWSCodePipelineFullAccess","v4",False,"2016-06-02T16:56:07+00:00",1,3,0,2,1,1,23
