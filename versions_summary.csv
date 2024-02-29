@@ -2901,7 +2901,8 @@
 "AmazonElastiCacheFullAccess","v3",True,"2023-11-28T03:49:56+00:00",1,1,0,0,0,0,48
 "AmazonElastiCacheFullAccess","v1",False,"2015-02-06T18:40:20+00:00",1,1,0,0,0,0,46
 "AmazonElastiCacheFullAccess","v2",False,"2017-12-07T17:48:26+00:00",1,1,0,0,0,0,46
-"SecurityLakeServiceLinkedRole","v1",True,"2022-11-29T14:03:33+00:00",0,0,0,0,0,0,0
+"SecurityLakeServiceLinkedRole","v1",False,"2022-11-29T14:03:33+00:00",0,0,0,0,0,0,0
+"SecurityLakeServiceLinkedRole","v2",True,"2024-02-29T19:14:11+00:00",0,1,0,0,0,0,2
 "AmazonSageMakerServiceCatalogProductsLambdaServiceRolePolicy","v1",True,"2022-04-04T16:34:43+00:00",0,0,0,0,0,0,0
 "AmazonCognitoReadOnly","v4",True,"2019-08-01T19:21:04+00:00",0,2,0,1,0,4,0
 "AmazonCognitoReadOnly","v3",False,"2019-02-16T00:18:11+00:00",0,1,0,1,0,3,0
