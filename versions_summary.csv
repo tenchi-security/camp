@@ -113,7 +113,8 @@
 "AWSIAMIdentityCenterAllowListForIdentityContext","v1",False,"2023-11-08T15:21:33+00:00",0,0,0,0,0,0,0
 "AWSIAMIdentityCenterAllowListForIdentityContext","v2",True,"2023-11-25T19:27:00+00:00",0,0,0,0,0,0,0
 "AmazonHealthLakeReadOnlyAccess","v1",True,"2021-02-17T02:43:31+00:00",0,0,0,0,0,0,0
-"AWSMigrationHubOrchestratorServiceRolePolicy","v3",True,"2023-02-24T20:28:36+00:00",0,2,0,0,0,0,8
+"AWSMigrationHubOrchestratorServiceRolePolicy","v4",True,"2024-03-04T18:25:12+00:00",0,2,0,0,0,0,8
+"AWSMigrationHubOrchestratorServiceRolePolicy","v3",False,"2023-02-24T20:28:36+00:00",0,2,0,0,0,0,8
 "AWSMigrationHubOrchestratorServiceRolePolicy","v1",False,"2022-04-20T02:24:04+00:00",0,2,0,0,0,0,8
 "AWSMigrationHubOrchestratorServiceRolePolicy","v2",False,"2022-12-21T18:48:26+00:00",0,2,0,0,0,0,8
 "AmazonElasticTranscoderRole","v1",False,"2015-02-06T18:41:26+00:00",0,2,0,8,1,0,35
