@@ -226,7 +226,8 @@
 "AWSCloudTrail_ReadOnlyAccess","v1",True,"2022-06-14T17:19:05+00:00",0,0,0,0,0,0,0
 "AWSFaultInjectionSimulatorNetworkAccess","v1",False,"2022-10-26T20:32:50+00:00",0,0,0,0,0,0,0
 "AWSFaultInjectionSimulatorNetworkAccess","v2",True,"2024-01-25T16:07:44+00:00",0,0,0,0,0,0,0
-"AmazonEKS_CNI_Policy","v4",True,"2020-04-20T20:52:01+00:00",0,1,0,0,0,0,7
+"AmazonEKS_CNI_Policy","v5",True,"2024-03-04T20:20:55+00:00",0,1,0,0,0,0,7
+"AmazonEKS_CNI_Policy","v4",False,"2020-04-20T20:52:01+00:00",0,1,0,0,0,0,7
 "AmazonEKS_CNI_Policy","v3",False,"2019-06-27T18:10:37+00:00",0,1,0,0,0,0,7
 "AmazonEKS_CNI_Policy","v1",False,"2018-05-27T21:07:42+00:00",0,1,0,0,0,0,6
 "AmazonEKS_CNI_Policy","v2",False,"2018-05-31T22:16:00+00:00",0,1,0,0,0,0,6
