@@ -683,7 +683,8 @@
 "AmazonElasticMapReduceFullAccess","v6",False,"2018-01-23T19:40:00+00:00",4,7,2,16,1,0,119
 "AmazonElasticMapReduceFullAccess","v4",False,"2015-12-21T23:20:38+00:00",4,7,2,15,1,0,118
 "AmazonElasticMapReduceFullAccess","v3",False,"2015-05-21T17:13:51+00:00",4,6,1,15,1,0,111
-"CloudWatchApplicationSignalsServiceRolePolicy","v1",True,"2023-11-09T18:09:57+00:00",0,0,0,0,0,0,0
+"CloudWatchApplicationSignalsServiceRolePolicy","v1",False,"2023-11-09T18:09:57+00:00",0,0,0,0,0,0,0
+"CloudWatchApplicationSignalsServiceRolePolicy","v2",True,"2024-03-07T00:04:01+00:00",0,0,0,0,0,0,0
 "AWSCloudMapRegisterInstanceAccess","v1",False,"2018-11-29T00:04:57+00:00",0,2,0,0,0,0,5
 "AWSCloudMapRegisterInstanceAccess","v2",False,"2020-07-29T17:57:24+00:00",0,2,0,0,0,0,5
 "AWSCloudMapRegisterInstanceAccess","v3",True,"2023-09-20T21:47:06+00:00",0,2,0,0,0,0,5
