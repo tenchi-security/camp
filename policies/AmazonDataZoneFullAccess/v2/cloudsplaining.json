@@ -1,0 +1,23 @@
+{
+    "ServiceWildcard": [
+        "datazone"
+    ],
+    "ServicesAffected": [
+        "ram"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "ram:AssociateResourceShare",
+        "ram:DeleteResourceShare",
+        "ram:DisassociateResourceShare",
+        "ram:RejectResourceShareInvitation"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "ram:AssociateResourceShare",
+        "ram:DeleteResourceShare",
+        "ram:DisassociateResourceShare",
+        "ram:RejectResourceShareInvitation"
+    ]
+}

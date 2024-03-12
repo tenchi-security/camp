@@ -2324,7 +2324,8 @@
 "AmazonWorkSpacesWebServiceRolePolicy","v2",False,"2022-04-05T22:01:09+00:00",0,1,0,0,0,0,4
 "AmazonWorkSpacesWebServiceRolePolicy","v4",False,"2022-10-17T16:43:45+00:00",0,1,0,0,0,0,4
 "AmazonWorkSpacesWebServiceRolePolicy","v3",False,"2022-09-06T20:46:50+00:00",0,1,0,0,0,0,4
-"AmazonDataZoneFullAccess","v1",True,"2023-09-22T20:06:52+00:00",1,1,0,4,0,0,4
+"AmazonDataZoneFullAccess","v1",False,"2023-09-22T20:06:52+00:00",1,1,0,4,0,0,4
+"AmazonDataZoneFullAccess","v2",True,"2024-03-12T16:34:41+00:00",1,1,0,4,0,0,4
 "AmazonDataZoneProjectDeploymentPermissionsBoundary","v1",False,"2023-03-21T02:54:30+00:00",0,7,0,2,0,1,25
 "AmazonDataZoneProjectDeploymentPermissionsBoundary","v2",True,"2023-04-04T02:48:38+00:00",0,7,0,2,0,1,28
 "AmazonPollyFullAccess","v1",True,"2016-11-30T18:59:06+00:00",1,1,0,0,0,0,3
@@ -3125,7 +3126,8 @@
 "AmazonMemoryDBReadOnlyAccess","v1",True,"2021-10-08T19:27:28+00:00",0,0,0,0,0,0,0
 "ServerMigrationServiceRoleForInstanceValidation","v1",True,"2020-07-20T22:25:07+00:00",0,0,0,0,0,0,0
 "AmazonDataZoneRedshiftGlueProvisioningPolicy","v1",False,"2023-09-22T20:19:54+00:00",0,6,0,0,0,0,12
-"AmazonDataZoneRedshiftGlueProvisioningPolicy","v2",True,"2023-09-23T00:50:47+00:00",0,6,0,0,0,0,12
+"AmazonDataZoneRedshiftGlueProvisioningPolicy","v2",False,"2023-09-23T00:50:47+00:00",0,6,0,0,0,0,12
+"AmazonDataZoneRedshiftGlueProvisioningPolicy","v3",True,"2024-03-12T16:44:23+00:00",0,7,0,0,0,0,13
 "AWSPanoramaFullAccess","v1",False,"2020-12-01T13:12:47+00:00",1,1,0,0,0,0,14
 "AWSPanoramaFullAccess","v2",False,"2021-10-20T12:14:58+00:00",1,3,0,3,0,0,20
 "AWSPanoramaFullAccess","v4",True,"2022-01-12T21:21:04+00:00",1,3,0,3,0,0,20
