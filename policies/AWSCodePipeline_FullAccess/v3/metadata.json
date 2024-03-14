@@ -1,0 +1,6 @@
+{
+    "VersionId": "v3",
+    "IsDefaultVersion": true,
+    "CreateDate": "2024-03-14T17:06:23+00:00",
+    "PolicyName": "AWSCodePipeline_FullAccess"
+}
