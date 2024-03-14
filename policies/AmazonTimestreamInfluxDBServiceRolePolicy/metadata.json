@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonTimestreamInfluxDBServiceRolePolicy",
+    "PolicyId": "ANPAZKAPJZG4B2SEIHEWQ",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/AmazonTimestreamInfluxDBServiceRolePolicy",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2024-03-14T18:53:21+00:00",
+    "UpdateDate": "2024-03-14T18:53:21+00:00"
+}
