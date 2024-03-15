@@ -1,0 +1,20 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "ec2"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "ec2:AssociateAddress",
+        "ec2:CreateNetworkInterface",
+        "ec2:CreateVpcEndpoint",
+        "ec2:DeleteNetworkInterface",
+        "ec2:DeleteVpcEndpoints",
+        "ec2:DisassociateAddress",
+        "ec2:ModifyNetworkInterfaceAttribute",
+        "ec2:ModifyVpcEndpoint"
+    ]
+}
