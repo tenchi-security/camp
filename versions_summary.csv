@@ -1127,6 +1127,7 @@
 "AmazonDataZoneRedshiftGlueProvisioningPolicy","v2",False,"2023-09-23T00:50:47+00:00",0,6,0,0,0,0,12
 "AmazonDataZoneRedshiftGlueProvisioningPolicy","v1",False,"2023-09-22T20:19:54+00:00",0,6,0,0,0,0,12
 "AmazonDataZoneRedshiftGlueProvisioningPolicy","v3",True,"2024-03-12T16:44:23+00:00",0,7,0,0,0,0,13
+"AWSMarketplaceSellerFullAccess","v11",True,"2024-03-15T16:09:02+00:00",0,3,0,2,0,0,5
 "AWSMarketplaceSellerFullAccess","v9",False,"2023-06-01T17:46:22+00:00",0,2,0,1,0,0,4
 "AWSMarketplaceSellerFullAccess","v2",False,"2020-03-05T23:10:50+00:00",0,1,0,1,0,0,2
 "AWSMarketplaceSellerFullAccess","v8",False,"2022-12-22T23:33:23+00:00",0,2,0,1,0,0,4
@@ -1134,7 +1135,7 @@
 "AWSMarketplaceSellerFullAccess","v1",False,"2019-07-02T20:40:09+00:00",0,1,0,1,0,0,2
 "AWSMarketplaceSellerFullAccess","v4",False,"2020-10-09T22:23:38+00:00",0,1,0,1,0,0,2
 "AWSMarketplaceSellerFullAccess","v6",False,"2022-07-26T15:06:13+00:00",0,2,0,1,0,0,4
-"AWSMarketplaceSellerFullAccess","v10",True,"2024-02-08T19:19:05+00:00",0,2,0,1,0,0,4
+"AWSMarketplaceSellerFullAccess","v10",False,"2024-02-08T19:19:05+00:00",0,2,0,1,0,0,4
 "AWSMarketplaceSellerFullAccess","v3",False,"2020-05-28T21:07:22+00:00",0,1,0,1,0,0,2
 "AWSMarketplaceSellerFullAccess","v5",False,"2021-11-30T19:26:49+00:00",0,1,0,1,0,0,2
 "GroundTruthSyntheticConsoleFullAccess","v1",True,"2022-08-25T15:58:49+00:00",1,0,0,0,0,0,0
