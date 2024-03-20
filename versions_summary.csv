@@ -929,7 +929,7 @@
 "AmazonDynamoDBReadOnlyAccess","v9",False,"2019-11-20T01:18:15+00:00",0,0,0,0,0,0,0
 "AmazonDynamoDBReadOnlyAccess","v2",False,"2015-11-11T23:39:05+00:00",0,0,0,0,0,0,0
 "AmazonDynamoDBReadOnlyAccess","v8",False,"2019-05-08T21:15:48+00:00",0,0,0,0,0,0,0
-"AmazonDynamoDBReadOnlyAccess","v13",True,"2021-01-27T01:01:47+00:00",0,0,0,0,0,0,0
+"AmazonDynamoDBReadOnlyAccess","v13",False,"2021-01-27T01:01:47+00:00",0,0,0,0,0,0,0
 "AmazonDynamoDBReadOnlyAccess","v7",False,"2018-01-09T19:46:57+00:00",0,0,0,0,0,0,0
 "AmazonDynamoDBReadOnlyAccess","v1",False,"2015-02-06T18:40:12+00:00",0,0,0,0,0,0,0
 "AmazonDynamoDBReadOnlyAccess","v4",False,"2017-02-27T17:59:05+00:00",0,0,0,0,0,0,0
@@ -938,6 +938,7 @@
 "AmazonDynamoDBReadOnlyAccess","v12",False,"2020-12-11T20:17:37+00:00",0,0,0,0,0,0,0
 "AmazonDynamoDBReadOnlyAccess","v3",False,"2017-01-19T00:08:49+00:00",0,0,0,0,0,0,0
 "AmazonDynamoDBReadOnlyAccess","v5",False,"2017-06-12T21:11:40+00:00",0,0,0,0,0,0,0
+"AmazonDynamoDBReadOnlyAccess","v14",True,"2024-03-20T15:45:01+00:00",0,0,0,0,0,0,0
 "AWSServiceCatalogEndUserReadOnlyAccess","v1",True,"2019-10-25T18:49:34+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerGeospatialExecutionRole","v2",True,"2023-05-10T20:28:02+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerGeospatialExecutionRole","v1",False,"2022-11-30T10:08:36+00:00",0,0,0,0,0,0,0
