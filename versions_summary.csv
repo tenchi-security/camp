@@ -1297,8 +1297,9 @@
 "AmazonEC2ContainerServiceEventsRole","v1",False,"2017-05-30T16:51:35+00:00",0,1,0,0,0,0,1
 "AmazonEC2ContainerServiceEventsRole","v3",True,"2023-03-06T22:25:12+00:00",0,2,0,1,0,0,3
 "AWSServiceRoleForGroundStationDataflowEndpointGroupPolicy","v1",True,"2022-12-13T23:52:45+00:00",0,0,0,0,0,0,0
-"AWSLakeFormationDataAdmin","v2",True,"2019-12-16T22:41:40+00:00",1,1,0,5,0,0,6
+"AWSLakeFormationDataAdmin","v2",False,"2019-12-16T22:41:40+00:00",1,1,0,5,0,0,6
 "AWSLakeFormationDataAdmin","v1",False,"2019-08-08T17:33:44+00:00",1,1,0,5,0,0,6
+"AWSLakeFormationDataAdmin","v3",True,"2024-03-22T18:27:42+00:00",1,1,0,0,0,0,8
 "AmazonLookoutEquipmentFullAccess","v2",False,"2021-05-05T16:46:56+00:00",1,3,0,3,0,0,15
 "AmazonLookoutEquipmentFullAccess","v1",False,"2021-04-08T15:52:08+00:00",1,3,0,3,0,0,15
 "AmazonLookoutEquipmentFullAccess","v3",True,"2021-11-24T21:00:13+00:00",1,3,0,2,0,0,14
@@ -2308,8 +2309,9 @@
 "AWSLakeFormationCrossAccountManager","v2",False,"2020-10-07T22:39:34+00:00",0,2,0,6,0,0,3
 "AWSLakeFormationCrossAccountManager","v1",False,"2020-08-04T20:59:46+00:00",0,2,0,4,0,0,3
 "AWSLakeFormationCrossAccountManager","v4",False,"2022-05-20T22:19:37+00:00",0,2,0,6,0,0,6
+"AWSLakeFormationCrossAccountManager","v6",True,"2024-03-22T18:51:56+00:00",0,2,0,6,0,0,7
 "AWSLakeFormationCrossAccountManager","v3",False,"2020-12-07T23:11:36+00:00",0,2,0,5,0,0,4
-"AWSLakeFormationCrossAccountManager","v5",True,"2023-11-01T00:50:49+00:00",0,2,0,6,0,0,7
+"AWSLakeFormationCrossAccountManager","v5",False,"2023-11-01T00:50:49+00:00",0,2,0,6,0,0,7
 "AWSApplicationAutoscalingAppStreamFleetPolicy","v1",True,"2017-10-20T19:04:06+00:00",0,2,0,0,0,0,3
 "AWSIoTWirelessReadOnlyAccess","v1",True,"2020-12-15T15:28:56+00:00",0,0,0,0,0,0,0
 "AmazonDevOpsGuruOrganizationsAccess","v1",True,"2021-11-15T23:50:52+00:00",0,1,0,0,0,0,2
