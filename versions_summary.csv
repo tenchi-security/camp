@@ -1654,7 +1654,8 @@
 "AmazonDetectiveFullAccess","v3",False,"2023-01-17T14:35:33+00:00",1,1,0,0,0,0,9
 "AWSResilienceHubAsssessmentExecutionPolicy","v2",False,"2023-10-05T11:16:28+00:00",0,0,0,0,0,0,0
 "AWSResilienceHubAsssessmentExecutionPolicy","v1",False,"2023-06-27T12:32:15+00:00",0,0,0,0,0,0,0
-"AWSResilienceHubAsssessmentExecutionPolicy","v3",True,"2023-10-29T16:17:40+00:00",0,0,0,0,0,0,0
+"AWSResilienceHubAsssessmentExecutionPolicy","v4",True,"2024-03-24T18:05:06+00:00",0,0,0,0,0,0,0
+"AWSResilienceHubAsssessmentExecutionPolicy","v3",False,"2023-10-29T16:17:40+00:00",0,0,0,0,0,0,0
 "AmazonElasticContainerRegistryPublicPowerUser","v1",True,"2020-12-01T16:16:54+00:00",0,1,0,0,0,0,4
 "VPCLatticeServicesInvokeAccess","v1",True,"2023-03-30T02:45:07+00:00",0,0,0,0,0,0,0
 "AWSElementalMediaConvertReadOnly","v2",True,"2019-06-10T22:52:18+00:00",0,0,0,0,0,0,0
