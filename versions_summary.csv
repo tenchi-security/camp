@@ -2772,7 +2772,7 @@
 "AWSSupportServiceRolePolicy","v6",False,"2019-09-09T20:15:28+00:00",0,3,0,0,1,1,6
 "AWSSupportServiceRolePolicy","v26",False,"2022-10-04T21:30:02+00:00",0,1,0,0,0,0,1
 "AWSSupportServiceRolePolicy","v17",False,"2021-09-16T21:02:10+00:00",0,2,0,0,0,0,5
-"AWSSupportServiceRolePolicy","v34",True,"2024-01-17T22:28:08+00:00",0,2,0,3,0,0,4
+"AWSSupportServiceRolePolicy","v34",False,"2024-01-17T22:28:08+00:00",0,2,0,3,0,0,4
 "AWSSupportServiceRolePolicy","v18",False,"2021-10-06T19:23:26+00:00",0,1,0,0,0,0,1
 "AWSSupportServiceRolePolicy","v10",False,"2020-04-29T18:42:38+00:00",0,2,0,0,0,0,5
 "AWSSupportServiceRolePolicy","v12",False,"2020-08-26T19:01:32+00:00",0,2,0,0,0,0,5
@@ -2789,6 +2789,7 @@
 "AWSSupportServiceRolePolicy","v15",False,"2021-03-23T17:45:15+00:00",0,2,0,0,0,0,5
 "AWSSupportServiceRolePolicy","v19",False,"2021-11-12T00:01:03+00:00",0,1,0,0,0,0,1
 "AWSSupportServiceRolePolicy","v23",False,"2022-04-27T22:37:55+00:00",0,2,0,0,0,0,2
+"AWSSupportServiceRolePolicy","v35",True,"2024-03-25T16:28:02+00:00",0,2,0,3,0,0,4
 "AmazonSSMPatchAssociation","v1",True,"2020-05-13T16:00:42+00:00",0,0,0,0,0,0,0
 "AmazonPollyReadOnlyAccess","v2",True,"2018-07-17T16:41:07+00:00",0,0,0,0,0,0,0
 "AmazonPollyReadOnlyAccess","v1",False,"2016-11-30T18:59:24+00:00",0,0,0,0,0,0,0
