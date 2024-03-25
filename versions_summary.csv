@@ -3403,8 +3403,9 @@
 "AmazonEC2RoleforSSM","v5",False,"2017-09-22T21:04:17+00:00",0,4,0,0,2,0,11
 "AWSRefactoringToolkitFullAccess","v2",False,"2022-12-16T23:26:55+00:00",0,2,0,0,0,0,20
 "AWSRefactoringToolkitFullAccess","v1",False,"2022-10-25T16:41:15+00:00",0,2,0,0,0,0,20
-"AWSRefactoringToolkitFullAccess","v4",True,"2023-11-18T00:37:27+00:00",0,3,0,0,0,1,20
+"AWSRefactoringToolkitFullAccess","v4",False,"2023-11-18T00:37:27+00:00",0,3,0,0,0,1,20
 "AWSRefactoringToolkitFullAccess","v3",False,"2023-03-23T23:14:02+00:00",0,2,0,0,0,0,20
+"AWSRefactoringToolkitFullAccess","v5",True,"2024-03-25T18:43:14+00:00",0,3,0,0,0,1,20
 "AmazonOneEnterpriseReadOnlyAccess","v1",True,"2023-11-28T04:59:23+00:00",0,0,0,0,0,0,0
 "AWSGrafanaWorkspacePermissionManagement","v2",False,"2021-09-21T20:30:06+00:00",0,0,0,0,0,0,0
 "AWSGrafanaWorkspacePermissionManagement","v1",False,"2021-02-23T00:15:54+00:00",0,0,0,0,0,0,0

@@ -1,6 +1,6 @@
 {
     "VersionId": "v4",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2023-11-18T00:37:27+00:00",
     "PolicyName": "AWSRefactoringToolkitFullAccess"
 }
