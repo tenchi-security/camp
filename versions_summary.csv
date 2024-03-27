@@ -3575,8 +3575,9 @@
 "AmazonChimeSDKMediaPipelinesServiceLinkedRolePolicy","v2",False,"2023-09-07T20:08:32+00:00",0,1,0,0,0,0,2
 "AmazonChimeSDKMediaPipelinesServiceLinkedRolePolicy","v1",False,"2022-04-04T22:02:05+00:00",0,1,0,0,0,0,2
 "AmazonChimeSDKMediaPipelinesServiceLinkedRolePolicy","v3",True,"2023-12-08T19:14:31+00:00",0,1,0,0,0,0,2
+"AmazonGuardDutyServiceRolePolicy","v9",True,"2024-03-27T00:58:20+00:00",0,1,0,1,0,0,1
 "AmazonGuardDutyServiceRolePolicy","v2",False,"2020-04-20T16:01:34+00:00",0,0,0,0,0,0,0
-"AmazonGuardDutyServiceRolePolicy","v8",True,"2024-02-09T18:30:50+00:00",0,1,0,1,0,0,1
+"AmazonGuardDutyServiceRolePolicy","v8",False,"2024-02-09T18:30:50+00:00",0,1,0,1,0,0,1
 "AmazonGuardDutyServiceRolePolicy","v7",False,"2023-11-26T22:03:45+00:00",0,1,0,1,0,0,1
 "AmazonGuardDutyServiceRolePolicy","v1",False,"2017-11-28T20:12:59+00:00",0,0,0,0,0,0,0
 "AmazonGuardDutyServiceRolePolicy","v4",False,"2021-08-03T23:14:07+00:00",0,0,0,0,0,0,0
