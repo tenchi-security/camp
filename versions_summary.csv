@@ -2172,6 +2172,7 @@
 "AmazonLookoutVisionConsoleReadOnlyAccess","v1",False,"2021-05-11T19:32:02+00:00",0,0,0,0,0,0,0
 "AmazonEC2ContainerServiceRole","v2",True,"2016-08-11T13:08:01+00:00",0,2,0,0,0,0,3
 "AmazonEC2ContainerServiceRole","v1",False,"2015-04-09T16:14:19+00:00",0,1,0,0,0,0,1
+"AWSQuickSightAssetBundleImportPolicy","v1",True,"2024-03-27T21:40:34+00:00",0,0,0,0,0,0,0
 "ROSAWorkerInstancePolicy","v1",True,"2023-04-20T22:35:32+00:00",0,0,0,0,0,0,0
 "ServerMigrationServiceRoleForInstanceValidation","v1",True,"2020-07-20T22:25:07+00:00",0,0,0,0,0,0,0
 "CloudWatchFullAccess","v2",False,"2017-12-13T17:52:41+00:00",3,3,0,6,0,0,40
@@ -2332,6 +2333,7 @@
 "AWSElementalMediaPackageV2ReadOnly","v1",True,"2023-07-25T20:31:25+00:00",0,0,0,0,0,0,0
 "AmazonElastiCacheReadOnlyAccess","v1",True,"2015-02-06T18:40:21+00:00",0,0,0,0,0,0,0
 "AmazonKinesisAnalyticsFullAccess","v1",True,"2016-09-21T19:01:14+00:00",1,2,0,0,0,0,23
+"AWSQuickSightAssetBundleExportPolicy","v1",True,"2024-03-27T21:31:03+00:00",0,0,0,0,0,0,0
 "AlexaForBusinessLifesizeDelegatedAccessPolicy","v2",True,"2020-06-12T20:31:59+00:00",0,1,0,0,0,0,8
 "AlexaForBusinessLifesizeDelegatedAccessPolicy","v1",False,"2020-06-04T19:46:56+00:00",0,1,0,0,0,0,8
 "AWSCloudHSMRole","v1",True,"2015-02-06T18:41:23+00:00",0,1,0,0,0,0,4
