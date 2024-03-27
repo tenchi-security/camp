@@ -1760,6 +1760,7 @@
 "CloudWatchEventsFullAccess","v1",False,"2016-01-14T18:37:08+00:00",1,1,0,2,0,0,27
 "AmazonLookoutVisionConsoleFullAccess","v1",True,"2021-05-11T19:37:17+00:00",1,1,0,0,0,0,8
 "AWSNetworkManagerCloudWANServiceRolePolicy","v1",True,"2022-07-12T12:17:49+00:00",0,1,0,0,0,0,2
+"AWSEC2VssSnapshotPolicy","v1",True,"2024-03-27T16:32:53+00:00",0,0,0,0,0,0,0
 "AWSMigrationHubSMSAccess","v2",True,"2019-10-07T18:01:22+00:00",0,0,0,0,0,0,0
 "AWSMigrationHubSMSAccess","v1",False,"2017-08-14T13:57:54+00:00",0,0,0,0,0,0,0
 "AWSSSOReadOnly","v2",False,"2018-10-17T20:44:15+00:00",0,0,0,0,0,0,0
