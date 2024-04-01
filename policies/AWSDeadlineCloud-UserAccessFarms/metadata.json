@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSDeadlineCloud-UserAccessFarms",
+    "PolicyId": "ANPAZKAPJZG4A7BV6IHOE",
+    "Arn": "arn:aws:iam::aws:policy/AWSDeadlineCloud-UserAccessFarms",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2024-04-01T16:54:00+00:00",
+    "UpdateDate": "2024-04-01T16:54:00+00:00"
+}

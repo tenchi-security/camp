@@ -381,6 +381,7 @@
 "AmazonEventBridgeFullAccess","v4",True,"2022-12-01T17:00:46+00:00",4,2,0,0,0,0,48
 "AmazonEventBridgeFullAccess","v3",False,"2022-11-10T18:01:43+00:00",3,2,0,0,0,0,48
 "CloudWatchApplicationInsightsReadOnlyAccess","v1",True,"2020-11-24T18:48:00+00:00",0,0,0,0,0,0,0
+"AWSDeadlineCloud-UserAccessJobs","v1",True,"2024-04-01T17:05:38+00:00",0,0,0,0,0,0,0
 "AdministratorAccess-AWSElasticBeanstalk","v2",False,"2021-03-09T22:36:27+00:00",3,3,0,0,0,0,45
 "AdministratorAccess-AWSElasticBeanstalk","v1",False,"2021-01-22T19:36:54+00:00",3,3,0,0,0,0,45
 "AdministratorAccess-AWSElasticBeanstalk","v3",True,"2023-03-23T23:45:23+00:00",3,4,0,0,0,0,47
@@ -1080,6 +1081,7 @@
 "AmazonRDSDataFullAccess","v2",False,"2019-05-30T17:11:26+00:00",0,1,0,0,0,0,1
 "AmazonRDSDataFullAccess","v1",False,"2018-11-20T21:29:36+00:00",0,1,0,0,0,0,1
 "AmazonRDSDataFullAccess","v3",True,"2019-11-20T21:58:46+00:00",0,1,0,0,0,0,1
+"AWSDeadlineCloud-WorkerHost","v1",True,"2024-04-01T17:28:28+00:00",0,0,0,0,0,0,0
 "AmazonQFullAccess","v1",True,"2023-11-28T16:00:24+00:00",1,0,0,0,0,0,0
 "AmazonMQFullAccess","v2",False,"2018-01-11T19:39:06+00:00",1,2,0,2,0,0,13
 "AmazonMQFullAccess","v1",False,"2017-11-28T15:28:29+00:00",1,2,0,2,0,0,13
@@ -1145,8 +1147,9 @@
 "AWSMigrationHubStrategyCollector","v2",False,"2022-09-28T00:06:57+00:00",0,0,0,0,0,0,0
 "AWSMigrationHubStrategyCollector","v1",False,"2021-10-19T20:15:15+00:00",0,0,0,0,0,0,0
 "AWSMigrationHubStrategyCollector","v4",False,"2023-10-12T16:44:29+00:00",0,0,0,0,0,0,0
+"AWSMigrationHubStrategyCollector","v6",True,"2024-04-01T16:21:02+00:00",0,0,0,0,0,0,0
 "AWSMigrationHubStrategyCollector","v3",False,"2023-03-02T22:08:23+00:00",0,0,0,0,0,0,0
-"AWSMigrationHubStrategyCollector","v5",True,"2024-02-05T18:57:29+00:00",0,0,0,0,0,0,0
+"AWSMigrationHubStrategyCollector","v5",False,"2024-02-05T18:57:29+00:00",0,0,0,0,0,0,0
 "AmazonWorkLinkReadOnly","v2",False,"2019-08-01T21:35:07+00:00",0,0,0,0,0,0,0
 "AmazonWorkLinkReadOnly","v1",False,"2019-01-23T19:07:10+00:00",0,0,0,0,0,0,0
 "AmazonWorkLinkReadOnly","v3",True,"2019-09-23T18:37:21+00:00",0,0,0,0,0,0,0
@@ -1995,6 +1998,7 @@
 "AWSQuickSightSageMakerPolicy","v2",False,"2023-10-03T23:22:22+00:00",0,0,0,0,0,0,0
 "AWSQuickSightSageMakerPolicy","v1",False,"2020-01-17T17:18:13+00:00",0,0,0,0,0,0,0
 "AWSQuickSightSageMakerPolicy","v3",True,"2023-10-30T17:57:43+00:00",0,0,0,0,0,0,0
+"AWSDeadlineCloud-UserAccessFarms","v1",True,"2024-04-01T16:54:00+00:00",0,0,0,0,0,0,0
 "AmazonWorkMailReadOnlyAccess","v2",False,"2018-12-04T13:40:28+00:00",0,0,0,0,0,0,0
 "AmazonWorkMailReadOnlyAccess","v1",False,"2015-02-06T18:40:42+00:00",0,0,0,0,0,0,0
 "AmazonWorkMailReadOnlyAccess","v4",True,"2019-07-25T08:24:50+00:00",0,0,0,0,0,0,0
@@ -3193,6 +3197,7 @@
 "AmazonRedshiftQueryEditorV2ReadWriteSharing","v3",False,"2022-06-15T10:59:24+00:00",0,1,0,0,0,0,16
 "AmazonRedshiftQueryEditorV2ReadWriteSharing","v5",False,"2022-10-17T16:53:42+00:00",0,1,0,0,0,0,16
 "AmazonDataZoneProjectRolePermissionsBoundary","v1",True,"2023-03-21T02:51:56+00:00",5,10,0,12,0,1,155
+"AWSDeadlineCloud-UserAccessFleets","v1",True,"2024-04-01T17:01:50+00:00",0,0,0,0,0,0,0
 "AWSServiceRolePolicyForBackupReports","v2",True,"2023-03-10T00:51:25+00:00",0,0,0,0,0,0,0
 "AWSServiceRolePolicyForBackupReports","v1",False,"2021-08-19T21:16:45+00:00",0,0,0,0,0,0,0
 "CloudWatchAutomaticDashboardsAccess","v2",False,"2019-11-20T12:58:09+00:00",0,0,0,0,0,0,0
@@ -3431,6 +3436,7 @@
 "AWSCloud9Administrator","v1",False,"2017-11-30T16:17:28+00:00",1,2,0,1,0,0,8
 "AWSCloud9Administrator","v4",True,"2023-10-11T12:59:29+00:00",1,2,0,1,0,0,13
 "AWSCloud9Administrator","v3",False,"2023-08-02T08:54:40+00:00",1,2,0,1,0,0,13
+"AWSDeadlineCloud-UserAccessQueues","v1",True,"2024-04-01T17:10:03+00:00",0,0,0,0,0,0,0
 "AmazonHoneycodeTeamAssociationReadOnlyAccess","v1",True,"2020-06-24T20:27:46+00:00",0,0,0,0,0,0,0
 "AWSXrayFullAccess","v1",True,"2016-12-01T18:30:55+00:00",1,1,0,1,0,0,8
 "AmazonSageMakerServiceCatalogProductsEventsServiceRolePolicy","v1",True,"2022-02-22T09:53:59+00:00",0,0,0,0,0,0,0
@@ -3695,6 +3701,7 @@
 "NeptuneReadOnlyAccess","v2",False,"2022-08-03T18:53:32+00:00",0,0,0,0,0,0,0
 "NeptuneReadOnlyAccess","v1",False,"2018-05-30T19:16:37+00:00",0,0,0,0,0,0,0
 "NeptuneReadOnlyAccess","v3",True,"2024-01-22T16:33:46+00:00",0,0,0,0,0,0,0
+"AWSDeadlineCloud-FleetWorker","v1",True,"2024-04-01T17:21:47+00:00",0,0,0,0,0,0,0
 "AWSXrayWriteOnlyAccess","v2",True,"2018-08-28T23:03:04+00:00",0,0,0,0,0,0,0
 "AWSXrayWriteOnlyAccess","v1",False,"2016-12-01T18:19:53+00:00",0,0,0,0,0,0,0
 "AlexaForBusinessGatewayExecution","v1",True,"2017-11-30T16:47:19+00:00",0,1,0,0,0,0,3
