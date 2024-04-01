@@ -332,7 +332,8 @@
 "AmazonSNSRole","v1",True,"2015-02-06T18:41:30+00:00",0,1,0,0,0,0,5
 "AmazonDataZoneGlueManageAccessRolePolicy","v2",False,"2023-09-29T01:53:41+00:00",0,2,0,4,0,0,5
 "AmazonDataZoneGlueManageAccessRolePolicy","v1",False,"2023-09-22T20:21:53+00:00",0,2,0,4,0,0,5
-"AmazonDataZoneGlueManageAccessRolePolicy","v3",True,"2023-12-14T23:03:20+00:00",0,2,0,4,0,0,6
+"AmazonDataZoneGlueManageAccessRolePolicy","v4",True,"2024-04-01T19:05:41+00:00",0,2,0,4,0,0,6
+"AmazonDataZoneGlueManageAccessRolePolicy","v3",False,"2023-12-14T23:03:20+00:00",0,2,0,4,0,0,6
 "AWSMigrationHubOrchestratorServiceRolePolicy","v2",False,"2022-12-21T18:48:26+00:00",0,2,0,0,0,0,8
 "AWSMigrationHubOrchestratorServiceRolePolicy","v1",False,"2022-04-20T02:24:04+00:00",0,2,0,0,0,0,8
 "AWSMigrationHubOrchestratorServiceRolePolicy","v4",True,"2024-03-04T18:25:12+00:00",0,2,0,0,0,0,8
@@ -974,7 +975,8 @@
 "AWSBackupOperatorAccess","v5",False,"2020-09-14T22:35:03+00:00",0,1,0,0,0,0,5
 "AWSBackupOperatorAccess","v14",False,"2023-08-08T18:19:48+00:00",0,1,0,0,0,0,5
 "AWSBackupOperatorAccess","v15",True,"2023-09-06T20:45:05+00:00",0,1,0,0,0,0,5
-"AmazonSecurityLakeMetastoreManager","v1",True,"2024-01-23T15:26:57+00:00",0,0,0,0,0,0,0
+"AmazonSecurityLakeMetastoreManager","v2",True,"2024-04-01T20:04:24+00:00",0,0,0,0,0,0,0
+"AmazonSecurityLakeMetastoreManager","v1",False,"2024-01-23T15:26:57+00:00",0,0,0,0,0,0,0
 "AmazonTranscribeFullAccess","v1",True,"2018-04-04T16:06:16+00:00",1,0,0,0,0,0,0
 "AWSHealthImagingReadOnlyAccess","v2",True,"2023-08-01T15:18:49+00:00",0,0,0,0,0,0,0
 "AWSHealthImagingReadOnlyAccess","v1",False,"2023-07-25T23:40:40+00:00",0,0,0,0,0,0,0
@@ -1736,8 +1738,9 @@
 "AmazonDataZonePreviewConsoleFullAccess","v1",False,"2023-03-28T15:16:04+00:00",1,0,0,0,0,0,0
 "AmazonDataZoneDomainExecutionRolePolicy","v2",False,"2023-11-28T12:48:21+00:00",0,0,0,0,0,0,0
 "AmazonDataZoneDomainExecutionRolePolicy","v1",False,"2023-09-27T21:55:08+00:00",0,0,0,0,0,0,0
-"AmazonDataZoneDomainExecutionRolePolicy","v4",True,"2024-03-12T23:48:00+00:00",0,0,0,0,0,0,0
+"AmazonDataZoneDomainExecutionRolePolicy","v4",False,"2024-03-12T23:48:00+00:00",0,0,0,0,0,0,0
 "AmazonDataZoneDomainExecutionRolePolicy","v3",False,"2024-02-01T23:12:59+00:00",0,0,0,0,0,0,0
+"AmazonDataZoneDomainExecutionRolePolicy","v5",True,"2024-04-01T19:25:31+00:00",0,0,0,0,0,0,0
 "AmazonRekognitionFullAccess","v1",True,"2016-11-30T14:40:44+00:00",1,1,0,0,0,0,15
 "AmazonSSMReadOnlyAccess","v1",True,"2015-05-29T17:44:19+00:00",0,1,0,0,3,0,3
 "AWSLambdaENIManagementAccess","v2",True,"2020-10-01T20:07:26+00:00",0,1,0,0,0,0,4
@@ -2244,8 +2247,9 @@
 "AmazonDataZoneFullUserAccess","v2",False,"2023-09-26T04:10:01+00:00",0,0,0,0,0,0,0
 "AmazonDataZoneFullUserAccess","v1",False,"2023-09-22T21:06:41+00:00",0,0,0,0,0,0,0
 "AmazonDataZoneFullUserAccess","v4",False,"2023-11-28T12:52:10+00:00",0,0,0,0,0,0,0
+"AmazonDataZoneFullUserAccess","v6",True,"2024-04-01T19:27:32+00:00",0,0,0,0,0,0,0
 "AmazonDataZoneFullUserAccess","v3",False,"2023-10-03T21:05:39+00:00",0,0,0,0,0,0,0
-"AmazonDataZoneFullUserAccess","v5",True,"2024-03-12T23:47:37+00:00",0,0,0,0,0,0,0
+"AmazonDataZoneFullUserAccess","v5",False,"2024-03-12T23:47:37+00:00",0,0,0,0,0,0,0
 "AWSImageBuilderFullAccess","v2",True,"2021-04-13T17:33:42+00:00",1,1,0,4,0,0,25
 "AWSImageBuilderFullAccess","v1",False,"2019-12-20T18:25:12+00:00",1,1,0,4,0,0,25
 "AWSWAFFullAccess","v11",True,"2023-06-05T20:55:25+00:00",3,5,0,7,0,0,116
