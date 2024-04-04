@@ -72,7 +72,8 @@
 "ROSANodePoolManagementPolicy","v1",True,"2023-06-08T20:48:08+00:00",0,1,0,1,0,0,2
 "AWSManagedServicesDeploymentToolkitPolicy","v2",False,"2023-01-30T22:10:28+00:00",0,0,0,0,0,0,0
 "AWSManagedServicesDeploymentToolkitPolicy","v1",False,"2022-06-09T18:33:03+00:00",0,0,0,0,0,0,0
-"AWSManagedServicesDeploymentToolkitPolicy","v3",True,"2023-05-10T17:48:44+00:00",0,0,0,0,0,0,0
+"AWSManagedServicesDeploymentToolkitPolicy","v4",True,"2024-04-04T20:41:54+00:00",0,0,0,0,0,0,0
+"AWSManagedServicesDeploymentToolkitPolicy","v3",False,"2023-05-10T17:48:44+00:00",0,0,0,0,0,0,0
 "AmazonBedrockReadOnly","v1",True,"2023-12-06T15:48:19+00:00",0,0,0,0,0,0,0
 "AWSTrustedAdvisorPriorityReadOnlyAccess","v1",True,"2022-08-16T16:35:12+00:00",0,0,0,0,0,0,0
 "DAXServiceRolePolicy","v1",True,"2018-03-05T17:51:25+00:00",0,1,0,0,0,0,7
@@ -3178,7 +3179,7 @@
 "ComprehendFullAccess","v1",False,"2017-11-29T18:08:43+00:00",1,1,0,0,0,0,11
 "AmazonPrometheusFullAccess","v2",True,"2023-11-26T20:16:13+00:00",1,1,0,0,0,0,17
 "AmazonPrometheusFullAccess","v1",False,"2020-12-15T18:10:46+00:00",1,1,0,0,0,0,3
-"AdministratorAccess-Amplify","v11",True,"2023-05-31T17:08:15+00:00",5,20,7,53,1,1,254
+"AdministratorAccess-Amplify","v11",False,"2023-05-31T17:08:15+00:00",5,20,7,53,1,1,254
 "AdministratorAccess-Amplify","v9",False,"2022-08-30T23:24:53+00:00",5,20,7,51,1,1,249
 "AdministratorAccess-Amplify","v2",False,"2021-01-13T22:36:27+00:00",2,15,2,25,1,1,174
 "AdministratorAccess-Amplify","v8",False,"2022-04-13T22:42:11+00:00",5,20,7,51,1,1,249
@@ -3187,6 +3188,7 @@
 "AdministratorAccess-Amplify","v4",False,"2021-09-23T23:12:41+00:00",4,19,7,55,1,1,233
 "AdministratorAccess-Amplify","v6",False,"2021-11-04T17:51:32+00:00",4,19,7,51,1,1,236
 "AdministratorAccess-Amplify","v10",False,"2023-02-24T20:14:32+00:00",5,20,7,53,1,1,254
+"AdministratorAccess-Amplify","v12",True,"2024-04-04T20:35:31+00:00",5,20,7,53,1,1,263
 "AdministratorAccess-Amplify","v3",False,"2021-07-26T22:49:07+00:00",3,16,3,40,1,1,199
 "AdministratorAccess-Amplify","v5",False,"2021-10-13T20:03:40+00:00",4,19,7,55,1,1,234
 "AWSThinkboxAssetServerPolicy","v1",True,"2020-05-27T19:18:53+00:00",0,0,0,0,0,0,0
