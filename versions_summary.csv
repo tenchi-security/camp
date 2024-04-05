@@ -2196,10 +2196,11 @@
 "AWSElasticBeanstalkManagedUpdatesServiceRolePolicy","v8",True,"2023-03-24T00:18:43+00:00",1,4,0,1,0,0,35
 "AmazonConnectCampaignsServiceLinkedRolePolicy","v1",False,"2021-09-23T20:54:26+00:00",0,0,0,0,0,0,0
 "AmazonConnectCampaignsServiceLinkedRolePolicy","v2",True,"2023-11-08T16:16:16+00:00",0,0,0,0,0,0,0
-"AmplifyBackendDeployFullAccess","v4",True,"2024-01-02T21:13:46+00:00",0,0,0,0,0,0,0
+"AmplifyBackendDeployFullAccess","v4",False,"2024-01-02T21:13:46+00:00",0,0,0,0,0,0,0
 "AmplifyBackendDeployFullAccess","v3",False,"2023-11-17T23:27:43+00:00",0,0,0,0,0,0,0
 "AmplifyBackendDeployFullAccess","v1",False,"2023-10-06T21:32:59+00:00",0,0,0,0,0,0,0
 "AmplifyBackendDeployFullAccess","v2",False,"2023-11-06T20:08:59+00:00",0,0,0,0,0,0,0
+"AmplifyBackendDeployFullAccess","v5",True,"2024-04-05T18:24:13+00:00",0,0,0,0,0,0,0
 "AWSDirectoryServiceReadOnlyAccess","v4",True,"2018-09-25T21:54:01+00:00",0,0,0,0,0,0,0
 "AWSDirectoryServiceReadOnlyAccess","v3",False,"2016-02-24T23:11:18+00:00",0,0,0,0,0,0,0
 "AWSDirectoryServiceReadOnlyAccess","v1",False,"2015-02-06T18:41:12+00:00",0,0,0,0,0,0,0
