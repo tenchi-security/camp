@@ -43,8 +43,9 @@
 "LightsailExportAccess","v2",True,"2022-01-15T01:45:33+00:00",0,1,0,0,0,0,2
 "AWSReachabilityAnalyzerServiceRolePolicy","v1",False,"2022-11-23T17:12:28+00:00",0,0,0,0,0,0,0
 "AWSReachabilityAnalyzerServiceRolePolicy","v2",True,"2023-06-23T21:04:06+00:00",0,0,0,0,0,0,0
+"CloudWatchApplicationSignalsServiceRolePolicy","v3",True,"2024-04-08T16:03:52+00:00",0,0,0,0,0,0,0
 "CloudWatchApplicationSignalsServiceRolePolicy","v1",False,"2023-11-09T18:09:57+00:00",0,0,0,0,0,0,0
-"CloudWatchApplicationSignalsServiceRolePolicy","v2",True,"2024-03-07T00:04:01+00:00",0,0,0,0,0,0,0
+"CloudWatchApplicationSignalsServiceRolePolicy","v2",False,"2024-03-07T00:04:01+00:00",0,0,0,0,0,0,0
 "AmazonESFullAccess","v1",True,"2015-10-01T19:14:00+00:00",1,1,0,2,0,0,11
 "AmazonDocDBElasticFullAccess","v1",False,"2023-06-05T13:51:04+00:00",0,3,0,1,0,0,7
 "AmazonDocDBElasticFullAccess","v2",True,"2023-06-21T18:05:47+00:00",0,3,0,1,0,0,7
