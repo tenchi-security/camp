@@ -505,7 +505,8 @@
 "AmazonRDSCustomServiceRolePolicy","v1",False,"2021-10-08T21:39:12+00:00",0,1,0,0,0,0,6
 "AmazonRDSCustomServiceRolePolicy","v2",False,"2022-11-09T22:17:08+00:00",0,1,0,0,0,0,7
 "AmazonRDSCustomServiceRolePolicy","v5",False,"2023-05-29T03:33:55+00:00",0,1,0,0,0,0,7
-"AmazonRDSCustomServiceRolePolicy","v7",True,"2023-09-20T19:16:42+00:00",0,1,0,0,0,0,7
+"AmazonRDSCustomServiceRolePolicy","v7",False,"2023-09-20T19:16:42+00:00",0,1,0,0,0,0,7
+"AmazonRDSCustomServiceRolePolicy","v8",True,"2024-04-08T19:39:46+00:00",0,1,0,0,0,0,7
 "AWSIoTDeviceTesterForGreengrassFullAccess","v4",True,"2020-06-25T17:01:56+00:00",1,2,0,0,0,0,8
 "AWSIoTDeviceTesterForGreengrassFullAccess","v3",False,"2020-03-23T21:12:01+00:00",1,2,0,0,0,0,8
 "AWSIoTDeviceTesterForGreengrassFullAccess","v1",False,"2020-02-20T21:21:27+00:00",1,2,0,0,0,0,8
