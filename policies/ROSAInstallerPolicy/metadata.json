@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4GYZ6SLEWE",
     "Arn": "arn:aws:iam::aws:policy/service-role/ROSAInstallerPolicy",
     "Path": "/service-role/",
-    "DefaultVersionId": "v2",
+    "DefaultVersionId": "v3",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2023-06-06T21:00:31+00:00",
-    "UpdateDate": "2024-01-26T21:04:47+00:00"
+    "UpdateDate": "2024-04-10T20:52:53+00:00"
 }
