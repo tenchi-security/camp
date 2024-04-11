@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4G56CGGW2F",
     "Arn": "arn:aws:iam::aws:policy/AWSMigrationHubRefactorSpaces-EnvironmentsWithoutBridgesFullAccess",
     "Path": "/",
-    "DefaultVersionId": "v2",
+    "DefaultVersionId": "v3",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2023-04-03T20:09:48+00:00",
-    "UpdateDate": "2023-07-20T15:39:19+00:00"
+    "UpdateDate": "2024-04-11T18:16:48+00:00"
 }

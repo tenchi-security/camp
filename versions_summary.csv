@@ -35,8 +35,9 @@
 "AmazonElasticFileSystemReadOnlyAccess","v2",False,"2017-07-26T16:17:01+00:00",0,0,0,0,0,0,0
 "AmazonElasticFileSystemReadOnlyAccess","v5",False,"2020-07-16T16:46:50+00:00",0,0,0,0,0,0,0
 "AmazonElasticFileSystemReadOnlyAccess","v7",True,"2022-01-10T18:53:37+00:00",0,0,0,0,0,0,0
+"AWSIAMIdentityCenterAllowListForIdentityContext","v3",True,"2024-04-11T18:33:06+00:00",0,0,0,0,0,0,0
 "AWSIAMIdentityCenterAllowListForIdentityContext","v1",False,"2023-11-08T15:21:33+00:00",0,0,0,0,0,0,0
-"AWSIAMIdentityCenterAllowListForIdentityContext","v2",True,"2023-11-25T19:27:00+00:00",0,0,0,0,0,0,0
+"AWSIAMIdentityCenterAllowListForIdentityContext","v2",False,"2023-11-25T19:27:00+00:00",0,0,0,0,0,0,0
 "AmazonWorkLinkFullAccess","v1",False,"2019-01-23T18:52:09+00:00",1,0,0,0,0,0,0
 "AmazonWorkLinkFullAccess","v2",True,"2019-09-23T18:37:42+00:00",1,0,0,0,0,0,0
 "LightsailExportAccess","v1",False,"2018-09-28T16:35:54+00:00",0,1,0,0,0,0,2
@@ -220,11 +221,12 @@
 "AWSLambdaENIManagementAccess","v1",False,"2016-12-06T00:37:27+00:00",0,1,0,0,0,0,2
 "AWSLambdaENIManagementAccess","v2",True,"2020-10-01T20:07:26+00:00",0,1,0,0,0,0,4
 "AWSSSMForSAPServiceLinkedRolePolicy","v4",False,"2023-10-31T23:39:16+00:00",0,0,0,0,0,0,0
-"AWSSSMForSAPServiceLinkedRolePolicy","v6",True,"2023-11-21T03:35:14+00:00",0,0,0,0,0,0,0
+"AWSSSMForSAPServiceLinkedRolePolicy","v6",False,"2023-11-21T03:35:14+00:00",0,0,0,0,0,0,0
 "AWSSSMForSAPServiceLinkedRolePolicy","v3",False,"2023-07-31T22:33:25+00:00",0,0,0,0,0,0,0
 "AWSSSMForSAPServiceLinkedRolePolicy","v1",False,"2022-11-16T01:18:21+00:00",0,0,0,0,0,0,0
 "AWSSSMForSAPServiceLinkedRolePolicy","v2",False,"2023-01-06T02:41:02+00:00",0,0,0,0,0,0,0
 "AWSSSMForSAPServiceLinkedRolePolicy","v5",False,"2023-11-17T21:22:26+00:00",0,0,0,0,0,0,0
+"AWSSSMForSAPServiceLinkedRolePolicy","v7",True,"2024-04-11T18:31:07+00:00",0,0,0,0,0,0,0
 "AmazonOmicsFullAccess","v1",True,"2023-02-24T00:59:33+00:00",1,2,0,2,0,0,2
 "AWSBackupDataTransferAccess","v1",True,"2022-11-10T22:48:05+00:00",0,0,0,0,0,0,0
 "CloudWatchFullAccessV2","v1",False,"2023-08-01T11:32:57+00:00",2,3,0,1,0,0,43
@@ -3416,8 +3418,9 @@
 "AmazonDocDB-ElasticServiceRolePolicy","v1",True,"2022-11-30T14:17:05+00:00",0,0,0,0,0,0,0
 "AmazonESReadOnlyAccess","v1",False,"2015-10-01T19:18:24+00:00",0,0,0,0,0,0,0
 "AmazonESReadOnlyAccess","v2",True,"2018-10-03T03:32:56+00:00",0,0,0,0,0,0,0
+"AWSMigrationHubRefactorSpaces-EnvironmentsWithoutBridgesFullAccess","v3",True,"2024-04-11T18:16:48+00:00",1,5,0,2,0,0,17
 "AWSMigrationHubRefactorSpaces-EnvironmentsWithoutBridgesFullAccess","v1",False,"2023-04-03T20:09:48+00:00",1,5,0,2,0,0,17
-"AWSMigrationHubRefactorSpaces-EnvironmentsWithoutBridgesFullAccess","v2",True,"2023-07-20T15:39:19+00:00",1,5,0,2,0,0,17
+"AWSMigrationHubRefactorSpaces-EnvironmentsWithoutBridgesFullAccess","v2",False,"2023-07-20T15:39:19+00:00",1,5,0,2,0,0,17
 "AmazonOneEnterpriseReadOnlyAccess","v1",True,"2023-11-28T04:59:23+00:00",0,0,0,0,0,0,0
 "AWSRolesAnywhereServicePolicy","v1",True,"2022-07-05T15:26:11+00:00",0,0,0,0,0,0,0
 "AWSCodeCommitFullAccess","v10",True,"2023-07-17T21:50:11+00:00",1,4,0,0,0,0,52
