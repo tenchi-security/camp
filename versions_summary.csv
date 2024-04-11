@@ -1591,10 +1591,11 @@
 "AWSIoTEventsReadOnlyAccess","v2",True,"2019-09-23T17:22:04+00:00",0,0,0,0,0,0,0
 "AmazonLexV2BotPolicy","v1",True,"2021-01-13T20:10:29+00:00",0,0,0,0,0,0,0
 "AWSMigrationHubRefactorSpacesFullAccess","v4",False,"2022-10-06T19:05:50+00:00",1,5,0,2,0,0,26
+"AWSMigrationHubRefactorSpacesFullAccess","v6",True,"2024-04-11T17:45:46+00:00",1,5,0,2,0,0,27
 "AWSMigrationHubRefactorSpacesFullAccess","v3",False,"2022-03-21T17:41:49+00:00",1,5,0,2,0,0,27
 "AWSMigrationHubRefactorSpacesFullAccess","v1",False,"2021-11-29T07:12:55+00:00",1,4,0,1,0,0,21
 "AWSMigrationHubRefactorSpacesFullAccess","v2",False,"2021-11-29T14:07:52+00:00",1,4,0,2,0,0,21
-"AWSMigrationHubRefactorSpacesFullAccess","v5",True,"2023-07-19T19:07:24+00:00",1,5,0,2,0,0,27
+"AWSMigrationHubRefactorSpacesFullAccess","v5",False,"2023-07-19T19:07:24+00:00",1,5,0,2,0,0,27
 "AmazonVPCReachabilityAnalyzerPathComponentReadPolicy","v1",True,"2023-05-01T20:38:22+00:00",0,0,0,0,0,0,0
 "AWSAppSyncInvokeFullAccess","v1",True,"2018-03-20T21:21:20+00:00",0,1,0,0,0,0,1
 "AWSAppMeshFullAccess","v4",False,"2019-10-03T22:28:34+00:00",1,1,0,0,0,0,23
@@ -1944,7 +1945,8 @@
 "AmazonS3ReadOnlyAccess","v1",False,"2015-02-06T18:40:59+00:00",0,1,0,0,1,0,1
 "AmazonS3ReadOnlyAccess","v2",False,"2021-09-27T20:24:58+00:00",0,1,0,0,1,0,1
 "AWSNetworkManagerReadOnlyAccess","v1",True,"2019-12-03T17:35:05+00:00",0,0,0,0,0,0,0
-"AWSXrayFullAccess","v1",True,"2016-12-01T18:30:55+00:00",1,1,0,1,0,0,8
+"AWSXrayFullAccess","v1",False,"2016-12-01T18:30:55+00:00",1,1,0,1,0,0,8
+"AWSXrayFullAccess","v2",True,"2024-04-11T17:07:36+00:00",1,1,0,0,0,0,8
 "AmazonSNSFullAccess","v1",True,"2015-02-06T18:41:05+00:00",1,1,0,4,0,0,10
 "AWSPrivateCAReadOnly","v1",True,"2023-02-14T18:30:50+00:00",0,0,0,0,0,0,0
 "AWSDiscoveryContinuousExportFirehosePolicy","v1",False,"2018-08-09T18:29:39+00:00",0,0,0,0,0,0,0
