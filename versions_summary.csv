@@ -1168,11 +1168,12 @@
 "AWSCodePipelineApproverAccess","v2",False,"2016-11-03T23:31:39+00:00",0,1,0,0,0,0,1
 "AWSAppFabricServiceRolePolicy","v1",True,"2023-06-26T21:07:45+00:00",0,0,0,0,0,0,0
 "AWSThinkboxDeadlineResourceTrackerAdminPolicy","v4",False,"2021-08-12T21:28:43+00:00",0,1,0,0,0,0,1
-"AWSThinkboxDeadlineResourceTrackerAdminPolicy","v6",True,"2022-06-22T18:08:40+00:00",0,1,0,0,0,0,1
+"AWSThinkboxDeadlineResourceTrackerAdminPolicy","v6",False,"2022-06-22T18:08:40+00:00",0,1,0,0,0,0,1
 "AWSThinkboxDeadlineResourceTrackerAdminPolicy","v3",False,"2021-07-27T21:13:41+00:00",0,1,0,0,0,0,1
 "AWSThinkboxDeadlineResourceTrackerAdminPolicy","v1",False,"2020-05-27T19:29:09+00:00",0,1,0,0,0,0,1
 "AWSThinkboxDeadlineResourceTrackerAdminPolicy","v2",False,"2020-10-06T19:06:57+00:00",0,1,0,0,0,0,1
 "AWSThinkboxDeadlineResourceTrackerAdminPolicy","v5",False,"2021-12-23T01:01:48+00:00",0,1,0,0,0,0,1
+"AWSThinkboxDeadlineResourceTrackerAdminPolicy","v7",True,"2024-04-12T20:55:58+00:00",0,2,0,0,0,0,5
 "AWSApplicationAutoscalingLambdaConcurrencyPolicy","v1",True,"2019-10-21T20:04:17+00:00",0,2,0,0,0,0,4
 "AWSElasticDisasterRecoveryConsoleFullAccess","v4",False,"2023-06-11T08:37:09+00:00",1,1,0,0,0,0,40
 "AWSElasticDisasterRecoveryConsoleFullAccess","v3",False,"2023-04-19T09:52:11+00:00",1,1,0,0,0,0,40
@@ -3030,7 +3031,8 @@
 "AWSThinkboxAWSPortalAdminPolicy","v1",False,"2020-05-27T19:41:02+00:00",0,4,0,0,0,0,45
 "AWSThinkboxAWSPortalAdminPolicy","v2",False,"2020-08-08T03:39:47+00:00",0,4,0,0,0,0,45
 "AWSThinkboxAWSPortalAdminPolicy","v5",False,"2023-03-23T20:12:28+00:00",0,4,0,0,0,0,45
-"AWSThinkboxAWSPortalAdminPolicy","v7",True,"2024-02-23T22:25:47+00:00",0,4,0,0,0,0,45
+"AWSThinkboxAWSPortalAdminPolicy","v7",False,"2024-02-23T22:25:47+00:00",0,4,0,0,0,0,45
+"AWSThinkboxAWSPortalAdminPolicy","v8",True,"2024-04-12T20:07:12+00:00",0,4,0,0,0,0,45
 "IAMSelfManageServiceSpecificCredentials","v1",True,"2016-12-22T17:25:18+00:00",0,0,0,0,0,0,0
 "AWSLicenseManagerServiceRolePolicy","v4",False,"2021-03-09T20:23:10+00:00",0,2,0,0,0,0,2
 "AWSLicenseManagerServiceRolePolicy","v6",False,"2021-06-17T03:54:13+00:00",0,2,0,0,0,0,2
