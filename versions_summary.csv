@@ -2997,11 +2997,12 @@
 "AmazonLexFullAccess","v4",False,"2017-11-15T23:55:07+00:00",1,1,0,0,0,0,29
 "AmazonLexFullAccess","v6",False,"2020-05-29T15:21:00+00:00",1,1,0,0,0,0,29
 "AmazonLexFullAccess","v3",False,"2017-04-14T19:45:37+00:00",1,1,0,0,0,0,29
+"AmazonLexFullAccess","v9",True,"2024-04-16T20:06:39+00:00",1,1,0,0,0,0,68
 "AmazonLexFullAccess","v1",False,"2017-04-11T23:20:36+00:00",1,1,0,0,0,0,29
 "AmazonLexFullAccess","v2",False,"2017-04-12T20:16:32+00:00",1,1,0,0,0,0,29
 "AmazonLexFullAccess","v5",False,"2020-05-15T16:34:50+00:00",1,1,0,0,0,0,29
 "AmazonLexFullAccess","v7",False,"2021-07-26T21:48:05+00:00",1,1,0,0,0,0,38
-"AmazonLexFullAccess","v8",True,"2024-02-07T00:55:22+00:00",1,1,0,0,0,0,65
+"AmazonLexFullAccess","v8",False,"2024-02-07T00:55:22+00:00",1,1,0,0,0,0,65
 "ComprehendDataAccessRolePolicy","v1",True,"2019-03-06T22:28:15+00:00",0,0,0,0,0,0,0
 "AmazonEventBridgeSchemasFullAccess","v1",True,"2019-11-28T23:12:53+00:00",1,1,0,0,0,0,17
 "AmazonAPIGatewayAdministrator","v1",True,"2015-07-09T17:34:45+00:00",1,0,0,0,0,0,0
