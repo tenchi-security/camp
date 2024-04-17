@@ -1964,7 +1964,8 @@
 "AmplifyBackendDeployFullAccess","v2",False,"2023-11-06T20:08:59+00:00",0,0,0,0,0,0,0
 "AmplifyBackendDeployFullAccess","v1",False,"2023-10-06T21:32:59+00:00",0,0,0,0,0,0,0
 "AmplifyBackendDeployFullAccess","v4",False,"2024-01-02T21:13:46+00:00",0,0,0,0,0,0,0
-"AmplifyBackendDeployFullAccess","v5",True,"2024-04-05T18:24:13+00:00",0,0,0,0,0,0,0
+"AmplifyBackendDeployFullAccess","v5",False,"2024-04-05T18:24:13+00:00",0,0,0,0,0,0,0
+"AmplifyBackendDeployFullAccess","v6",True,"2024-04-17T16:00:59+00:00",0,0,0,0,0,0,0
 "AWSGreengrassResourceAccessRolePolicy","v3",False,"2017-05-26T23:10:54+00:00",1,1,0,0,0,0,6
 "AWSGreengrassResourceAccessRolePolicy","v2",False,"2017-05-02T22:09:34+00:00",1,1,0,0,0,0,6
 "AWSGreengrassResourceAccessRolePolicy","v1",False,"2017-02-14T21:17:24+00:00",0,0,0,0,0,0,0
