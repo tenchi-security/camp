@@ -3269,9 +3269,10 @@
 "AWSServiceCatalogAdminFullAccess","v5",False,"2019-02-06T01:57:54+00:00",1,2,0,3,0,0,35
 "AWSServiceCatalogAdminFullAccess","v6",False,"2022-11-17T23:03:44+00:00",0,2,0,4,0,0,36
 "S3StorageLensServiceRolePolicy","v1",True,"2020-11-18T18:15:40+00:00",0,0,0,0,0,0,0
-"AWSIAMIdentityCenterAllowListForIdentityContext","v3",True,"2024-04-11T18:33:06+00:00",0,0,0,0,0,0,0
+"AWSIAMIdentityCenterAllowListForIdentityContext","v3",False,"2024-04-11T18:33:06+00:00",0,0,0,0,0,0,0
 "AWSIAMIdentityCenterAllowListForIdentityContext","v2",False,"2023-11-25T19:27:00+00:00",0,0,0,0,0,0,0
 "AWSIAMIdentityCenterAllowListForIdentityContext","v1",False,"2023-11-08T15:21:33+00:00",0,0,0,0,0,0,0
+"AWSIAMIdentityCenterAllowListForIdentityContext","v4",True,"2024-04-19T18:58:23+00:00",0,0,0,0,0,0,0
 "CloudWatch-CrossAccountAccess","v1",True,"2019-07-23T09:59:27+00:00",0,0,0,0,0,0,0
 "AWSIoTDeviceDefenderPublishFindingsToSNSMitigationAction","v1",True,"2019-08-07T17:04:37+00:00",0,1,0,0,0,0,1
 "AWSNetworkManagerFullAccess","v1",True,"2019-12-03T17:37:58+00:00",1,2,0,1,0,0,25
