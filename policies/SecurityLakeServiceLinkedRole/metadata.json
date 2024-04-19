@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4CY4TAEDJQ",
     "Arn": "arn:aws:iam::aws:policy/aws-service-role/SecurityLakeServiceLinkedRole",
     "Path": "/aws-service-role/",
-    "DefaultVersionId": "v2",
+    "DefaultVersionId": "v3",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2022-11-29T14:03:33+00:00",
-    "UpdateDate": "2024-02-29T19:14:11+00:00"
+    "UpdateDate": "2024-04-19T16:00:05+00:00"
 }

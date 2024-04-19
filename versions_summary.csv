@@ -848,10 +848,11 @@
 "AmazonRDSCustomServiceRolePolicy","v2",False,"2022-11-09T22:17:08+00:00",0,1,0,0,0,0,7
 "AmazonRDSCustomServiceRolePolicy","v7",False,"2023-09-20T19:16:42+00:00",0,1,0,0,0,0,7
 "AmazonRDSCustomServiceRolePolicy","v1",False,"2021-10-08T21:39:12+00:00",0,1,0,0,0,0,6
-"AmazonRDSCustomServiceRolePolicy","v8",True,"2024-04-08T19:39:46+00:00",0,1,0,0,0,0,7
+"AmazonRDSCustomServiceRolePolicy","v8",False,"2024-04-08T19:39:46+00:00",0,1,0,0,0,0,7
 "AmazonRDSCustomServiceRolePolicy","v4",False,"2023-03-08T23:32:54+00:00",0,1,0,0,0,0,7
 "AmazonRDSCustomServiceRolePolicy","v5",False,"2023-05-29T03:33:55+00:00",0,1,0,0,0,0,7
 "AmazonRDSCustomServiceRolePolicy","v6",False,"2023-06-22T23:12:48+00:00",0,1,0,0,0,0,7
+"AmazonRDSCustomServiceRolePolicy","v9",True,"2024-04-19T15:15:23+00:00",0,1,0,0,0,0,7
 "DynamoDBCloudWatchContributorInsightsServiceRolePolicy","v1",True,"2019-11-15T21:13:58+00:00",0,0,0,0,0,0,0
 "AmazonGuardDutyReadOnlyAccess","v3",False,"2021-02-16T23:37:57+00:00",0,0,0,0,0,0,0
 "AmazonGuardDutyReadOnlyAccess","v2",False,"2018-04-25T21:07:17+00:00",0,0,0,0,0,0,0
@@ -2751,7 +2752,8 @@
 "VPCLatticeReadOnlyAccess","v1",True,"2023-03-30T02:47:25+00:00",0,0,0,0,0,0,0
 "AWSProtonSyncServiceRolePolicy","v1",True,"2021-11-23T21:14:36+00:00",0,1,0,0,0,0,12
 "AWSCertificateManagerPrivateCAFullAccess","v1",True,"2018-10-23T16:54:50+00:00",1,1,0,4,0,0,13
-"SecurityLakeServiceLinkedRole","v2",True,"2024-02-29T19:14:11+00:00",0,1,0,0,0,0,2
+"SecurityLakeServiceLinkedRole","v3",True,"2024-04-19T16:00:05+00:00",0,1,0,0,0,0,2
+"SecurityLakeServiceLinkedRole","v2",False,"2024-02-29T19:14:11+00:00",0,1,0,0,0,0,2
 "SecurityLakeServiceLinkedRole","v1",False,"2022-11-29T14:03:33+00:00",0,0,0,0,0,0,0
 "AWSSavingsPlansFullAccess","v1",True,"2019-11-06T22:45:18+00:00",1,1,0,0,0,0,3
 "AmazonRedshiftQueryEditor","v3",False,"2020-09-11T01:07:22+00:00",0,1,0,0,0,1,1
