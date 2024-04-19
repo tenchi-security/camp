@@ -3554,9 +3554,10 @@
 "AmazonEC2RoleforSSM","v5",False,"2017-09-22T21:04:17+00:00",0,4,0,0,2,0,11
 "AmazonEC2RoleforSSM","v6",False,"2018-08-15T14:24:05+00:00",0,4,0,0,2,0,11
 "AWSRepostSpaceSupportOperationsPolicy","v1",True,"2023-11-26T21:52:15+00:00",0,0,0,0,0,0,0
-"CloudWatchApplicationSignalsServiceRolePolicy","v3",True,"2024-04-08T16:03:52+00:00",0,0,0,0,0,0,0
+"CloudWatchApplicationSignalsServiceRolePolicy","v3",False,"2024-04-08T16:03:52+00:00",0,0,0,0,0,0,0
 "CloudWatchApplicationSignalsServiceRolePolicy","v2",False,"2024-03-07T00:04:01+00:00",0,0,0,0,0,0,0
 "CloudWatchApplicationSignalsServiceRolePolicy","v1",False,"2023-11-09T18:09:57+00:00",0,0,0,0,0,0,0
+"CloudWatchApplicationSignalsServiceRolePolicy","v4",True,"2024-04-18T22:52:11+00:00",0,0,0,0,0,0,0
 "AWSBillingReadOnlyAccess","v3",False,"2023-06-28T19:56:01+00:00",0,0,0,0,0,0,0
 "AWSBillingReadOnlyAccess","v2",False,"2023-03-08T17:48:14+00:00",0,0,0,0,0,0,0
 "AWSBillingReadOnlyAccess","v1",False,"2020-08-27T20:08:51+00:00",0,0,0,0,0,0,0
