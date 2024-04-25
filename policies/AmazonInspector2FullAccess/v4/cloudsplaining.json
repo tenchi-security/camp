@@ -1,0 +1,28 @@
+{
+    "ServiceWildcard": [
+        "inspector2"
+    ],
+    "ServicesAffected": [
+        "iam",
+        "inspector2",
+        "organizations"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:CreateServiceLinkedRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "iam:CreateServiceLinkedRole",
+        "inspector2:CreateCisScanConfiguration",
+        "inspector2:CreateFilter",
+        "inspector2:DeleteCisScanConfiguration",
+        "inspector2:DeleteFilter",
+        "inspector2:TagResource",
+        "inspector2:UntagResource",
+        "inspector2:UpdateCisScanConfiguration",
+        "inspector2:UpdateFilter",
+        "organizations:RegisterDelegatedAdministrator"
+    ]
+}
