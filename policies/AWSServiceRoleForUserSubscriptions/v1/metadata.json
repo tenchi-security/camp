@@ -1,0 +1,6 @@
+{
+    "VersionId": "v1",
+    "IsDefaultVersion": true,
+    "CreateDate": "2024-04-25T16:14:06+00:00",
+    "PolicyName": "AWSServiceRoleForUserSubscriptions"
+}
