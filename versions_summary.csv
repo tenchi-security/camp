@@ -938,9 +938,10 @@
 "AWSSystemsManagerForSAPReadOnlyAccess","v1",True,"2022-11-17T02:11:44+00:00",0,0,0,0,0,0,0
 "AWSApplicationMigrationServiceEc2InstancePolicy","v2",True,"2024-01-03T14:19:47+00:00",0,0,0,0,0,0,0
 "AWSApplicationMigrationServiceEc2InstancePolicy","v1",False,"2023-08-22T13:19:02+00:00",0,0,0,0,0,0,0
-"AWSStepFunctionsReadOnlyAccess","v3",True,"2024-04-16T22:09:29+00:00",0,0,0,0,0,0,0
+"AWSStepFunctionsReadOnlyAccess","v3",False,"2024-04-16T22:09:29+00:00",0,0,0,0,0,0,0
 "AWSStepFunctionsReadOnlyAccess","v2",False,"2017-11-10T22:03:49+00:00",0,0,0,0,0,0,0
 "AWSStepFunctionsReadOnlyAccess","v1",False,"2017-01-11T21:46:19+00:00",0,0,0,0,0,0,0
+"AWSStepFunctionsReadOnlyAccess","v4",True,"2024-04-26T18:53:54+00:00",0,0,0,0,0,0,0
 "AmazonTimestreamReadOnlyAccess","v3",True,"2023-02-28T18:22:57+00:00",0,0,0,0,0,0,0
 "AmazonTimestreamReadOnlyAccess","v2",False,"2021-11-26T23:39:30+00:00",0,0,0,0,0,0,0
 "AmazonTimestreamReadOnlyAccess","v1",False,"2020-09-30T21:47:08+00:00",0,0,0,0,0,0,0
@@ -3747,7 +3748,8 @@
 "AWSPrivateNetworksServiceRolePolicy","v1",True,"2021-12-16T23:17:46+00:00",0,0,0,0,0,0,0
 "AWSElasticBeanstalkRoleECS","v2",True,"2023-03-23T22:43:56+00:00",0,1,0,0,0,0,2
 "AWSElasticBeanstalkRoleECS","v1",False,"2020-06-05T21:47:27+00:00",0,1,0,0,0,0,1
-"AWSGitSyncServiceRolePolicy","v1",True,"2023-11-16T17:05:42+00:00",0,0,0,0,0,0,0
+"AWSGitSyncServiceRolePolicy","v2",True,"2024-04-26T18:12:31+00:00",0,0,0,0,0,0,0
+"AWSGitSyncServiceRolePolicy","v1",False,"2023-11-16T17:05:42+00:00",0,0,0,0,0,0,0
 "AWSEC2SpotServiceRolePolicy","v3",False,"2018-06-07T21:00:25+00:00",0,2,0,1,0,0,4
 "AWSEC2SpotServiceRolePolicy","v2",False,"2017-11-15T00:03:05+00:00",0,2,0,1,0,0,3
 "AWSEC2SpotServiceRolePolicy","v1",False,"2017-09-18T18:51:54+00:00",0,2,0,1,0,0,3
