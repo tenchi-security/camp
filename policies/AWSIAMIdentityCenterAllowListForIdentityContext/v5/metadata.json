@@ -1,6 +1,6 @@
 {
     "VersionId": "v5",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2024-04-24T19:03:59+00:00",
     "PolicyName": "AWSIAMIdentityCenterAllowListForIdentityContext"
 }

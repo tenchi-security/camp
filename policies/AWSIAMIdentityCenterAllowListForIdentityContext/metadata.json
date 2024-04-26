@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4KDXNUOLXM",
     "Arn": "arn:aws:iam::aws:policy/AWSIAMIdentityCenterAllowListForIdentityContext",
     "Path": "/",
-    "DefaultVersionId": "v5",
+    "DefaultVersionId": "v6",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2023-11-08T15:21:33+00:00",
-    "UpdateDate": "2024-04-24T19:03:59+00:00"
+    "UpdateDate": "2024-04-26T20:13:15+00:00"
 }

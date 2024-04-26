@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4MXDZTGPJI",
     "Arn": "arn:aws:iam::aws:policy/aws-service-role/AmazonPrometheusScraperServiceRolePolicy",
     "Path": "/aws-service-role/",
-    "DefaultVersionId": "v1",
+    "DefaultVersionId": "v2",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2023-11-26T14:19:52+00:00",
-    "UpdateDate": "2023-11-26T14:19:52+00:00"
+    "UpdateDate": "2024-04-26T20:25:54+00:00"
 }

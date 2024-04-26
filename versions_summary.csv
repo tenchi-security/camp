@@ -532,7 +532,8 @@
 "AppIntegrationsServiceLinkedRolePolicy","v1",True,"2022-09-30T19:42:56+00:00",0,0,0,0,0,0,0
 "AWSIoTSiteWiseFullAccess","v1",True,"2018-12-04T20:53:39+00:00",1,1,0,0,0,0,27
 "OAMFullAccess","v1",True,"2022-11-27T13:38:29+00:00",1,0,0,0,0,0,0
-"AmazonPrometheusScraperServiceRolePolicy","v1",True,"2023-11-26T14:19:52+00:00",0,1,0,0,0,0,3
+"AmazonPrometheusScraperServiceRolePolicy","v2",True,"2024-04-26T20:25:54+00:00",0,1,0,0,0,0,3
+"AmazonPrometheusScraperServiceRolePolicy","v1",False,"2023-11-26T14:19:52+00:00",0,1,0,0,0,0,3
 "Route53ResolverServiceRolePolicy","v1",True,"2020-08-12T17:47:24+00:00",0,0,0,0,0,0,0
 "AlexaForBusinessGatewayExecution","v1",True,"2017-11-30T16:47:19+00:00",0,1,0,0,0,0,3
 "AWSCodeCommitFullAccess","v3",False,"2019-06-12T21:27:53+00:00",1,1,0,0,0,0,42
@@ -3286,7 +3287,8 @@
 "AWSIAMIdentityCenterAllowListForIdentityContext","v2",False,"2023-11-25T19:27:00+00:00",0,0,0,0,0,0,0
 "AWSIAMIdentityCenterAllowListForIdentityContext","v1",False,"2023-11-08T15:21:33+00:00",0,0,0,0,0,0,0
 "AWSIAMIdentityCenterAllowListForIdentityContext","v4",False,"2024-04-19T18:58:23+00:00",0,0,0,0,0,0,0
-"AWSIAMIdentityCenterAllowListForIdentityContext","v5",True,"2024-04-24T19:03:59+00:00",0,0,0,0,0,0,0
+"AWSIAMIdentityCenterAllowListForIdentityContext","v5",False,"2024-04-24T19:03:59+00:00",0,0,0,0,0,0,0
+"AWSIAMIdentityCenterAllowListForIdentityContext","v6",True,"2024-04-26T20:13:15+00:00",0,0,0,0,0,0,0
 "CloudWatch-CrossAccountAccess","v1",True,"2019-07-23T09:59:27+00:00",0,0,0,0,0,0,0
 "AWSIoTDeviceDefenderPublishFindingsToSNSMitigationAction","v1",True,"2019-08-07T17:04:37+00:00",0,1,0,0,0,0,1
 "AWSNetworkManagerFullAccess","v1",True,"2019-12-03T17:37:58+00:00",1,2,0,1,0,0,25
@@ -3574,7 +3576,8 @@
 "CloudWatchApplicationSignalsServiceRolePolicy","v3",False,"2024-04-08T16:03:52+00:00",0,0,0,0,0,0,0
 "CloudWatchApplicationSignalsServiceRolePolicy","v2",False,"2024-03-07T00:04:01+00:00",0,0,0,0,0,0,0
 "CloudWatchApplicationSignalsServiceRolePolicy","v1",False,"2023-11-09T18:09:57+00:00",0,0,0,0,0,0,0
-"CloudWatchApplicationSignalsServiceRolePolicy","v4",True,"2024-04-18T22:52:11+00:00",0,0,0,0,0,0,0
+"CloudWatchApplicationSignalsServiceRolePolicy","v4",False,"2024-04-18T22:52:11+00:00",0,0,0,0,0,0,0
+"CloudWatchApplicationSignalsServiceRolePolicy","v5",True,"2024-04-26T21:29:34+00:00",0,0,0,0,0,0,0
 "AWSBillingReadOnlyAccess","v3",False,"2023-06-28T19:56:01+00:00",0,0,0,0,0,0,0
 "AWSBillingReadOnlyAccess","v2",False,"2023-03-08T17:48:14+00:00",0,0,0,0,0,0,0
 "AWSBillingReadOnlyAccess","v1",False,"2020-08-27T20:08:51+00:00",0,0,0,0,0,0,0
