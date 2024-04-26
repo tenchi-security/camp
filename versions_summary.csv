@@ -631,10 +631,11 @@
 "AWSSSOReadOnly","v2",False,"2018-10-17T20:44:15+00:00",0,0,0,0,0,0,0
 "AWSSSOReadOnly","v7",False,"2022-04-28T18:46:11+00:00",0,0,0,0,0,0,0
 "AWSSSOReadOnly","v1",False,"2018-06-27T20:24:34+00:00",0,0,0,0,0,0,0
-"AWSSSOReadOnly","v8",True,"2022-08-22T17:23:28+00:00",0,0,0,0,0,0,0
+"AWSSSOReadOnly","v8",False,"2022-08-22T17:23:28+00:00",0,0,0,0,0,0,0
 "AWSSSOReadOnly","v4",False,"2019-10-24T15:45:14+00:00",0,0,0,0,0,0,0
 "AWSSSOReadOnly","v5",False,"2020-04-28T21:17:21+00:00",0,0,0,0,0,0,0
 "AWSSSOReadOnly","v6",False,"2020-09-10T21:26:29+00:00",0,0,0,0,0,0,0
+"AWSSSOReadOnly","v9",True,"2024-04-26T00:44:59+00:00",0,0,0,0,0,0,0
 "IAMAccessAnalyzerFullAccess","v1",True,"2019-12-02T17:12:40+00:00",1,2,0,1,0,0,11
 "GameLiftGameServerGroupPolicy","v3",True,"2020-05-13T17:27:43+00:00",0,2,0,0,0,0,8
 "GameLiftGameServerGroupPolicy","v2",False,"2020-04-16T17:13:11+00:00",0,2,0,0,0,0,8
@@ -1439,8 +1440,9 @@
 "AWSElasticDisasterRecoveryNetworkReplicationPolicy","v4",True,"2024-01-02T13:25:23+00:00",0,0,0,0,0,0,0
 "AWSSSOMemberAccountAdministrator","v3",False,"2021-08-04T20:13:14+00:00",2,2,0,44,0,0,18
 "AWSSSOMemberAccountAdministrator","v2",False,"2018-10-17T20:35:52+00:00",1,2,0,31,0,0,18
-"AWSSSOMemberAccountAdministrator","v7",True,"2022-10-20T20:32:45+00:00",4,3,0,5,0,0,20
+"AWSSSOMemberAccountAdministrator","v7",False,"2022-10-20T20:32:45+00:00",4,3,0,5,0,0,20
 "AWSSSOMemberAccountAdministrator","v1",False,"2018-06-27T20:45:42+00:00",1,2,0,31,0,0,17
+"AWSSSOMemberAccountAdministrator","v8",True,"2024-04-26T00:31:10+00:00",4,4,0,9,0,0,50
 "AWSSSOMemberAccountAdministrator","v4",False,"2022-03-25T20:11:32+00:00",3,2,0,5,0,0,18
 "AWSSSOMemberAccountAdministrator","v5",False,"2022-04-28T18:53:46+00:00",3,2,0,5,0,0,18
 "AWSSSOMemberAccountAdministrator","v6",False,"2022-08-22T17:18:20+00:00",3,3,0,5,0,0,20
@@ -2637,10 +2639,11 @@
 "AWSSSOMasterAccountAdministrator","v2",False,"2018-07-03T20:10:59+00:00",1,2,0,31,0,0,17
 "AWSSSOMasterAccountAdministrator","v7",False,"2022-08-22T17:07:31+00:00",3,3,0,5,0,0,20
 "AWSSSOMasterAccountAdministrator","v1",False,"2018-06-27T20:36:51+00:00",1,2,0,31,0,0,17
-"AWSSSOMasterAccountAdministrator","v8",True,"2022-10-20T20:34:27+00:00",4,3,0,5,0,0,20
+"AWSSSOMasterAccountAdministrator","v8",False,"2022-10-20T20:34:27+00:00",4,3,0,5,0,0,20
 "AWSSSOMasterAccountAdministrator","v4",False,"2021-08-04T21:10:42+00:00",2,2,0,44,0,0,18
 "AWSSSOMasterAccountAdministrator","v5",False,"2022-03-25T18:53:19+00:00",3,2,0,5,0,0,18
 "AWSSSOMasterAccountAdministrator","v6",False,"2022-04-28T18:38:55+00:00",3,2,0,5,0,0,18
+"AWSSSOMasterAccountAdministrator","v9",True,"2024-04-26T00:38:45+00:00",4,4,0,9,0,0,50
 "ROSAAmazonEBSCSIDriverOperatorPolicy","v1",True,"2023-04-20T22:36:00+00:00",0,0,0,0,0,0,0
 "ServerMigrationServiceRoleForInstanceValidation","v1",True,"2020-07-20T22:25:07+00:00",0,0,0,0,0,0,0
 "AmazonCodeGuruReviewerFullAccess","v3",True,"2020-08-29T04:16:08+00:00",2,4,0,0,0,0,11
