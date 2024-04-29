@@ -1,0 +1,21 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "AllowAmazonQFullAccess",
+            "Effect": "Allow",
+            "Action": [
+                "q:*"
+            ],
+            "Resource": "*"
+        },
+        {
+            "Sid": "AllowSetTrustedIdentity",
+            "Effect": "Allow",
+            "Action": [
+                "sts:SetContext"
+            ],
+            "Resource": "arn:aws:sts::*:self"
+        }
+    ]
+}
