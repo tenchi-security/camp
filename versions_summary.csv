@@ -2177,6 +2177,7 @@
 "AmazonLexReadOnly","v2",False,"2021-07-26T22:04:56+00:00",0,0,0,0,0,0,0
 "AmazonLexReadOnly","v1",False,"2017-04-11T23:13:33+00:00",0,0,0,0,0,0,0
 "AmazonLexReadOnly","v4",True,"2023-01-31T19:31:41+00:00",0,0,0,0,0,0,0
+"QBusinessServiceRolePolicy","v1",True,"2024-04-29T16:05:44+00:00",0,0,0,0,0,0,0
 "AmazonBedrockFullAccess","v1",True,"2023-12-06T15:47:17+00:00",1,1,0,0,0,0,15
 "NeptuneConsoleFullAccess","v3",False,"2020-01-23T20:49:41+00:00",0,4,0,2,0,0,61
 "NeptuneConsoleFullAccess","v2",False,"2018-11-06T21:19:54+00:00",0,4,0,2,0,0,61
