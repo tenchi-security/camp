@@ -1,0 +1,6 @@
+{
+    "VersionId": "v9",
+    "IsDefaultVersion": true,
+    "CreateDate": "2024-04-29T23:11:34+00:00",
+    "PolicyName": "AWSElasticBeanstalkManagedUpdatesServiceRolePolicy"
+}

@@ -1,0 +1,56 @@
+{
+    "ServiceWildcard": [
+        "elasticbeanstalk"
+    ],
+    "ServicesAffected": [
+        "ec2",
+        "ecs",
+        "elasticbeanstalk",
+        "iam"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:PassRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "ec2:AllocateAddress",
+        "ec2:AssociateAddress",
+        "ec2:DisassociateAddress",
+        "ec2:ReleaseAddress",
+        "ec2:RunInstances",
+        "ecs:DeregisterTaskDefinition",
+        "ecs:RegisterTaskDefinition",
+        "ecs:TagResource",
+        "elasticbeanstalk:AbortEnvironmentUpdate",
+        "elasticbeanstalk:AddTags",
+        "elasticbeanstalk:ApplyEnvironmentManagedAction",
+        "elasticbeanstalk:AssociateEnvironmentOperationsRole",
+        "elasticbeanstalk:ComposeEnvironments",
+        "elasticbeanstalk:CreateApplication",
+        "elasticbeanstalk:CreateApplicationVersion",
+        "elasticbeanstalk:CreateConfigurationTemplate",
+        "elasticbeanstalk:CreateEnvironment",
+        "elasticbeanstalk:CreatePlatformVersion",
+        "elasticbeanstalk:DeleteApplication",
+        "elasticbeanstalk:DeleteApplicationVersion",
+        "elasticbeanstalk:DeleteConfigurationTemplate",
+        "elasticbeanstalk:DeleteEnvironmentConfiguration",
+        "elasticbeanstalk:DeletePlatformVersion",
+        "elasticbeanstalk:DisassociateEnvironmentOperationsRole",
+        "elasticbeanstalk:PutInstanceStatistics",
+        "elasticbeanstalk:RebuildEnvironment",
+        "elasticbeanstalk:RemoveTags",
+        "elasticbeanstalk:RestartAppServer",
+        "elasticbeanstalk:SwapEnvironmentCNAMEs",
+        "elasticbeanstalk:TerminateEnvironment",
+        "elasticbeanstalk:UpdateApplication",
+        "elasticbeanstalk:UpdateApplicationResourceLifecycle",
+        "elasticbeanstalk:UpdateApplicationVersion",
+        "elasticbeanstalk:UpdateConfigurationTemplate",
+        "elasticbeanstalk:UpdateEnvironment",
+        "elasticbeanstalk:UpdateTagsForResource",
+        "iam:PassRole"
+    ]
+}

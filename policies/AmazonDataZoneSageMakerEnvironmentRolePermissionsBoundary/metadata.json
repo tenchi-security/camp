@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4BVNAOGKEU",
     "Arn": "arn:aws:iam::aws:policy/AmazonDataZoneSageMakerEnvironmentRolePermissionsBoundary",
     "Path": "/",
-    "DefaultVersionId": "v1",
+    "DefaultVersionId": "v2",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2024-04-23T23:01:14+00:00",
-    "UpdateDate": "2024-04-23T23:01:14+00:00"
+    "UpdateDate": "2024-04-29T22:30:44+00:00"
 }
