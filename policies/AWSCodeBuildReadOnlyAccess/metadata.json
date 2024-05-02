@@ -3,10 +3,10 @@
     "PolicyId": "ANPAJIZZWN6557F5HVP2K",
     "Arn": "arn:aws:iam::aws:policy/AWSCodeBuildReadOnlyAccess",
     "Path": "/",
-    "DefaultVersionId": "v11",
+    "DefaultVersionId": "v12",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2016-12-01T19:03:41+00:00",
-    "UpdateDate": "2020-09-14T16:04:04+00:00"
+    "UpdateDate": "2024-05-02T01:23:27+00:00"
 }

@@ -3,10 +3,10 @@
     "PolicyId": "ANPAJQJGIOIE3CD2TQXDS",
     "Arn": "arn:aws:iam::aws:policy/AWSCodeBuildAdminAccess",
     "Path": "/",
-    "DefaultVersionId": "v13",
+    "DefaultVersionId": "v14",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2016-12-01T19:04:44+00:00",
-    "UpdateDate": "2023-07-31T23:06:23+00:00"
+    "UpdateDate": "2024-05-02T01:45:44+00:00"
 }
