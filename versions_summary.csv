@@ -2308,7 +2308,8 @@
 "AmazonOpenSearchIngestionServiceRolePolicy","v1",True,"2022-11-18T16:49:50+00:00",0,0,0,0,0,0,0
 "ROSAManageSubscription","v2",True,"2023-08-04T19:59:14+00:00",0,0,0,0,0,0,0
 "ROSAManageSubscription","v1",False,"2022-04-11T20:58:08+00:00",0,0,0,0,0,0,0
-"AmazonEMRServicePolicy_v2","v2",True,"2022-02-15T16:48:29+00:00",0,1,0,0,0,0,10
+"AmazonEMRServicePolicy_v2","v3",True,"2024-05-02T18:43:30+00:00",0,2,0,0,0,0,14
+"AmazonEMRServicePolicy_v2","v2",False,"2022-02-15T16:48:29+00:00",0,1,0,0,0,0,10
 "AmazonEMRServicePolicy_v2","v1",False,"2021-03-12T01:11:08+00:00",0,1,0,0,0,0,9
 "NeptuneReadOnlyAccess","v3",True,"2024-01-22T16:33:46+00:00",0,0,0,0,0,0,0
 "NeptuneReadOnlyAccess","v2",False,"2022-08-03T18:53:32+00:00",0,0,0,0,0,0,0
