@@ -103,7 +103,8 @@
 "AWSResilienceHubAsssessmentExecutionPolicy","v1",False,"2023-06-27T12:32:15+00:00",0,0,0,0,0,0,0
 "AWSResilienceHubAsssessmentExecutionPolicy","v4",True,"2024-03-24T18:05:06+00:00",0,0,0,0,0,0,0
 "AWSApplicationAutoScalingCustomResourcePolicy","v1",True,"2018-06-04T23:22:44+00:00",0,2,0,0,0,0,3
-"AmazonDataZoneSageMakerEnvironmentRolePermissionsBoundary","v2",True,"2024-04-29T22:30:44+00:00",5,18,0,4,0,1,133
+"AmazonDataZoneSageMakerEnvironmentRolePermissionsBoundary","v3",True,"2024-05-03T18:05:41+00:00",5,18,0,4,0,1,133
+"AmazonDataZoneSageMakerEnvironmentRolePermissionsBoundary","v2",False,"2024-04-29T22:30:44+00:00",5,18,0,4,0,1,133
 "AmazonDataZoneSageMakerEnvironmentRolePermissionsBoundary","v1",False,"2024-04-23T23:01:14+00:00",5,17,0,3,0,1,132
 "MigrationHubDMSAccessServiceRolePolicy","v2",True,"2019-10-07T17:57:44+00:00",0,0,0,0,0,0,0
 "MigrationHubDMSAccessServiceRolePolicy","v1",False,"2019-06-12T17:50:39+00:00",0,0,0,0,0,0,0
@@ -902,7 +903,8 @@
 "AmazonAugmentedAIHumanLoopFullAccess","v1",True,"2019-12-03T16:20:47+00:00",0,1,0,0,0,0,3
 "AWSAgentlessDiscoveryService","v2",True,"2020-02-24T23:08:23+00:00",1,0,0,0,0,0,0
 "AWSAgentlessDiscoveryService","v1",False,"2016-08-02T01:35:11+00:00",1,0,0,0,0,0,0
-"AWSServiceCatalogSyncServiceRolePolicy","v1",True,"2022-11-15T21:20:15+00:00",0,1,0,0,0,0,3
+"AWSServiceCatalogSyncServiceRolePolicy","v2",True,"2024-05-03T17:12:41+00:00",0,1,0,0,0,0,3
+"AWSServiceCatalogSyncServiceRolePolicy","v1",False,"2022-11-15T21:20:15+00:00",0,1,0,0,0,0,3
 "AmazonCloudWatchRUMFullAccess","v1",True,"2021-11-29T15:46:12+00:00",1,0,0,0,0,0,0
 "AwsGlueDataBrewFullAccessPolicy","v3",False,"2021-03-30T17:03:07+00:00",1,3,0,0,0,0,22
 "AwsGlueDataBrewFullAccessPolicy","v2",False,"2020-11-12T23:04:55+00:00",1,3,0,0,0,0,22
