@@ -2776,7 +2776,8 @@
 "AWSBackupServiceRolePolicyForRestores","v6",False,"2020-05-29T21:48:32+00:00",0,3,0,1,0,0,12
 "AWSBackupServiceRolePolicyForRestores","v9",False,"2021-05-25T00:02:53+00:00",0,3,0,1,0,0,13
 "VPCLatticeReadOnlyAccess","v1",True,"2023-03-30T02:47:25+00:00",0,0,0,0,0,0,0
-"AWSProtonSyncServiceRolePolicy","v1",True,"2021-11-23T21:14:36+00:00",0,1,0,0,0,0,12
+"AWSProtonSyncServiceRolePolicy","v2",True,"2024-05-05T01:49:07+00:00",0,1,0,0,0,0,12
+"AWSProtonSyncServiceRolePolicy","v1",False,"2021-11-23T21:14:36+00:00",0,1,0,0,0,0,12
 "AWSCertificateManagerPrivateCAFullAccess","v1",True,"2018-10-23T16:54:50+00:00",1,1,0,4,0,0,13
 "SecurityLakeServiceLinkedRole","v3",True,"2024-04-19T16:00:05+00:00",0,1,0,0,0,0,2
 "SecurityLakeServiceLinkedRole","v2",False,"2024-02-29T19:14:11+00:00",0,1,0,0,0,0,2
