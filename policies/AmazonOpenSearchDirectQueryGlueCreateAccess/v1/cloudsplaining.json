@@ -1,0 +1,16 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "glue"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "glue:BatchCreatePartition",
+        "glue:CreateDatabase",
+        "glue:CreatePartition",
+        "glue:CreateTable"
+    ]
+}

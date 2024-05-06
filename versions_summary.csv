@@ -3158,6 +3158,7 @@
 "AmazonDataZoneFullAccess","v3",True,"2024-04-23T21:36:18+00:00",1,2,0,4,0,0,8
 "AmazonDataZoneFullAccess","v2",False,"2024-03-12T16:34:41+00:00",1,1,0,4,0,0,4
 "AmazonDataZoneFullAccess","v1",False,"2023-09-22T20:06:52+00:00",1,1,0,4,0,0,4
+"AmazonOpenSearchDirectQueryGlueCreateAccess","v1",True,"2024-05-06T12:24:38+00:00",0,1,0,0,0,0,4
 "AmazonChimeVoiceConnectorServiceLinkedRolePolicy","v3",False,"2022-03-17T16:18:11+00:00",0,0,0,0,0,0,0
 "AmazonChimeVoiceConnectorServiceLinkedRolePolicy","v2",False,"2021-12-21T00:08:05+00:00",0,0,0,0,0,0,0
 "AmazonChimeVoiceConnectorServiceLinkedRolePolicy","v1",False,"2019-09-30T22:16:42+00:00",0,0,0,0,0,0,0
