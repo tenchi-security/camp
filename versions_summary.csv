@@ -2868,10 +2868,11 @@
 "AmazonHoneycodeTeamAssociationReadOnlyAccess","v1",True,"2020-06-24T20:27:46+00:00",0,0,0,0,0,0,0
 "AWSAuditManagerServiceRolePolicy","v3",False,"2022-05-20T16:26:09+00:00",0,0,0,0,0,0,0
 "AWSAuditManagerServiceRolePolicy","v2",False,"2021-11-22T19:36:39+00:00",0,1,0,0,0,0,1
+"AWSAuditManagerServiceRolePolicy","v7",True,"2024-05-09T16:51:51+00:00",0,0,0,0,0,0,0
 "AWSAuditManagerServiceRolePolicy","v1",False,"2020-12-08T15:12:12+00:00",0,1,0,0,0,0,1
 "AWSAuditManagerServiceRolePolicy","v4",False,"2022-07-07T22:26:07+00:00",0,0,0,0,0,0,0
 "AWSAuditManagerServiceRolePolicy","v5",False,"2023-11-06T20:07:07+00:00",0,0,0,0,0,0,0
-"AWSAuditManagerServiceRolePolicy","v6",True,"2023-12-06T20:39:40+00:00",0,0,0,0,0,0,0
+"AWSAuditManagerServiceRolePolicy","v6",False,"2023-12-06T20:39:40+00:00",0,0,0,0,0,0,0
 "AmazonSecurityLakeMetastoreManager","v2",True,"2024-04-01T20:04:24+00:00",0,0,0,0,0,0,0
 "AmazonSecurityLakeMetastoreManager","v1",False,"2024-01-23T15:26:57+00:00",0,0,0,0,0,0,0
 "AmazonQLDBReadOnly","v3",True,"2021-07-02T02:17:25+00:00",0,0,0,0,0,0,0

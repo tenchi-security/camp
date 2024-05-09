@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4C5N52UWST",
     "Arn": "arn:aws:iam::aws:policy/aws-service-role/AWSAuditManagerServiceRolePolicy",
     "Path": "/aws-service-role/",
-    "DefaultVersionId": "v6",
+    "DefaultVersionId": "v7",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2020-12-08T15:12:12+00:00",
-    "UpdateDate": "2023-12-06T20:39:40+00:00"
+    "UpdateDate": "2024-05-09T16:51:51+00:00"
 }
