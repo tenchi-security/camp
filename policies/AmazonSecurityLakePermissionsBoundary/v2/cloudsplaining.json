@@ -1,0 +1,21 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "kms",
+        "s3",
+        "sqs"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "kms:Decrypt",
+        "kms:GenerateDataKey",
+        "s3:GetObject",
+        "s3:PutObject",
+        "sqs:ChangeMessageVisibility",
+        "sqs:DeleteMessage",
+        "sqs:SendMessage"
+    ]
+}
