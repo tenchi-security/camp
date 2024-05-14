@@ -1,0 +1,12 @@
+{
+    "PolicyName": "EC2FastLaunchFullAccess",
+    "PolicyId": "ANPAZKAPJZG4BSFPBBO3N",
+    "Arn": "arn:aws:iam::aws:policy/EC2FastLaunchFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2024-05-13T22:45:26+00:00",
+    "UpdateDate": "2024-05-13T22:45:26+00:00"
+}

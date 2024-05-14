@@ -2588,6 +2588,7 @@
 "AmazonCodeGuruProfilerFullAccess","v4",True,"2020-07-15T03:23:08+00:00",2,1,0,2,0,0,11
 "AmazonWorkSpacesWebReadOnly","v2",True,"2022-11-02T20:20:44+00:00",0,0,0,0,0,0,0
 "AmazonWorkSpacesWebReadOnly","v1",False,"2021-11-30T14:20:36+00:00",0,0,0,0,0,0,0
+"EC2FastLaunchFullAccess","v1",True,"2024-05-13T22:45:26+00:00",0,1,0,0,0,0,2
 "AmazonRDSPreviewServiceRolePolicy","v3",False,"2020-10-21T22:28:54+00:00",0,2,0,0,0,0,8
 "AmazonRDSPreviewServiceRolePolicy","v2",False,"2020-07-29T00:05:20+00:00",0,2,0,0,0,0,8
 "AmazonRDSPreviewServiceRolePolicy","v7",False,"2022-12-13T15:53:59+00:00",0,2,0,0,0,0,14

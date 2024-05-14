@@ -1,0 +1,6 @@
+{
+    "VersionId": "v1",
+    "IsDefaultVersion": true,
+    "CreateDate": "2024-05-13T22:45:26+00:00",
+    "PolicyName": "EC2FastLaunchFullAccess"
+}
