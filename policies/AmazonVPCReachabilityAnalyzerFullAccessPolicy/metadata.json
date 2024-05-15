@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4LYY3MKOH7",
     "Arn": "arn:aws:iam::aws:policy/AmazonVPCReachabilityAnalyzerFullAccessPolicy",
     "Path": "/",
-    "DefaultVersionId": "v2",
+    "DefaultVersionId": "v3",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2023-06-14T20:12:17+00:00",
-    "UpdateDate": "2023-11-03T19:37:28+00:00"
+    "UpdateDate": "2024-05-15T20:47:28+00:00"
 }
