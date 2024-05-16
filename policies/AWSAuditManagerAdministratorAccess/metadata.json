@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4EBAFCQQJX",
     "Arn": "arn:aws:iam::aws:policy/AWSAuditManagerAdministratorAccess",
     "Path": "/",
-    "DefaultVersionId": "v2",
+    "DefaultVersionId": "v3",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2020-12-11T20:02:42+00:00",
-    "UpdateDate": "2022-04-30T00:02:56+00:00"
+    "UpdateDate": "2024-05-15T23:46:15+00:00"
 }
