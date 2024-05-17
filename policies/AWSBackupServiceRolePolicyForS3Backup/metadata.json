@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4CGZAHUZ2D",
     "Arn": "arn:aws:iam::aws:policy/AWSBackupServiceRolePolicyForS3Backup",
     "Path": "/",
-    "DefaultVersionId": "v3",
+    "DefaultVersionId": "v4",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2022-02-18T17:40:24+00:00",
-    "UpdateDate": "2022-09-01T16:52:33+00:00"
+    "UpdateDate": "2024-05-17T17:12:03+00:00"
 }

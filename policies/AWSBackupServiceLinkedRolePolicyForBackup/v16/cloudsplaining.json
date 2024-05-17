@@ -1,0 +1,22 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "ec2",
+        "kms"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "kms:CreateGrant"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "ec2:CopyImage",
+        "ec2:DeleteSnapshot",
+        "ec2:DeregisterImage",
+        "ec2:ModifySnapshotTier",
+        "kms:CreateGrant",
+        "kms:GenerateDataKeyWithoutPlaintext",
+        "kms:ReEncryptFrom"
+    ]
+}
