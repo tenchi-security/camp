@@ -883,8 +883,9 @@
 "SecurityAudit","v24",False,"2018-11-05T19:03:40+00:00",0,0,0,0,0,0,0
 "SecurityAudit","v9",False,"2016-12-09T18:51:11+00:00",0,0,0,0,0,0,0
 "SecurityAudit","v6",False,"2016-08-25T20:26:01+00:00",0,0,0,0,0,0,0
-"CloudWatchFullAccessV2","v2",True,"2023-12-05T19:36:00+00:00",5,6,0,1,0,0,71
+"CloudWatchFullAccessV2","v2",False,"2023-12-05T19:36:00+00:00",5,6,0,1,0,0,71
 "CloudWatchFullAccessV2","v1",False,"2023-08-01T11:32:57+00:00",2,3,0,1,0,0,43
+"CloudWatchFullAccessV2","v3",True,"2024-05-17T22:20:49+00:00",6,6,0,1,0,0,85
 "AWSBudgetsActionsWithAWSResourceControlAccess","v1",True,"2020-10-15T17:19:12+00:00",1,2,0,1,0,0,6
 "AmazonECSInfrastructureRolePolicyForVolumes","v1",True,"2024-01-10T22:56:41+00:00",0,0,0,0,0,0,0
 "AmazonEC2RolePolicyForLaunchWizard","v2",False,"2019-11-24T21:48:01+00:00",0,2,0,0,0,0,7
@@ -1579,11 +1580,12 @@
 "AmazonElasticMapReduceReadOnlyAccess","v3",True,"2020-07-29T23:14:09+00:00",0,1,0,0,1,0,1
 "CloudWatchReadOnlyAccess","v2",False,"2017-11-02T20:50:10+00:00",0,0,0,0,0,0,0
 "CloudWatchReadOnlyAccess","v1",False,"2015-02-06T18:40:01+00:00",0,0,0,0,0,0,0
-"CloudWatchReadOnlyAccess","v8",True,"2023-12-05T19:24:15+00:00",0,0,0,0,0,0,0
+"CloudWatchReadOnlyAccess","v8",False,"2023-12-05T19:24:15+00:00",0,0,0,0,0,0,0
 "CloudWatchReadOnlyAccess","v7",False,"2023-09-14T11:15:56+00:00",0,0,0,0,0,0,0
 "CloudWatchReadOnlyAccess","v4",False,"2020-07-17T17:49:09+00:00",0,0,0,0,0,0,0
 "CloudWatchReadOnlyAccess","v5",False,"2022-11-27T13:08:46+00:00",0,0,0,0,0,0,0
 "CloudWatchReadOnlyAccess","v3",False,"2018-05-10T21:40:42+00:00",0,0,0,0,0,0,0
+"CloudWatchReadOnlyAccess","v9",True,"2024-05-17T22:17:51+00:00",0,0,0,0,0,0,0
 "CloudWatchReadOnlyAccess","v6",False,"2023-06-06T17:33:13+00:00",0,0,0,0,0,0,0
 "AmazonEKS_CNI_Policy","v2",False,"2018-05-31T22:16:00+00:00",0,1,0,0,0,0,6
 "AmazonEKS_CNI_Policy","v1",False,"2018-05-27T21:07:42+00:00",0,1,0,0,0,0,6
