@@ -2038,7 +2038,8 @@
 "AmazonElasticFileSystemClientReadWriteAccess","v1",True,"2020-01-13T16:21:55+00:00",0,1,0,0,0,0,1
 "AWSApplicationMigrationFullAccess","v2",False,"2022-02-22T11:16:56+00:00",1,1,0,0,0,0,33
 "AWSApplicationMigrationFullAccess","v1",False,"2021-04-07T06:56:05+00:00",1,0,0,0,0,0,0
-"AWSApplicationMigrationFullAccess","v7",True,"2023-04-20T17:28:13+00:00",1,1,0,0,0,0,38
+"AWSApplicationMigrationFullAccess","v8",True,"2024-05-19T08:30:02+00:00",1,1,0,0,0,0,60
+"AWSApplicationMigrationFullAccess","v7",False,"2023-04-20T17:28:13+00:00",1,1,0,0,0,0,38
 "AWSApplicationMigrationFullAccess","v4",False,"2022-05-31T21:14:49+00:00",1,1,0,0,0,0,33
 "AWSApplicationMigrationFullAccess","v5",False,"2022-08-11T16:08:08+00:00",1,1,0,0,0,0,33
 "AWSApplicationMigrationFullAccess","v3",False,"2022-05-01T08:31:14+00:00",1,1,0,0,0,0,33
