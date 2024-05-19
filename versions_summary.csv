@@ -999,7 +999,8 @@
 "AmazonRDSPreviewServiceRolePolicy","v5",False,"2022-02-22T20:46:58+00:00",0,2,0,0,0,0,12
 "AmazonRDSPreviewServiceRolePolicy","v3",False,"2020-10-21T22:28:54+00:00",0,2,0,0,0,0,8
 "AmazonRDSPreviewServiceRolePolicy","v6",False,"2022-06-07T16:55:33+00:00",0,2,0,0,0,0,14
-"AWSElasticDisasterRecoveryConsoleFullAccess_v2","v1",True,"2023-11-27T13:35:19+00:00",1,1,0,0,0,0,51
+"AWSElasticDisasterRecoveryConsoleFullAccess_v2","v2",True,"2024-05-19T07:38:32+00:00",1,1,0,0,0,0,53
+"AWSElasticDisasterRecoveryConsoleFullAccess_v2","v1",False,"2023-11-27T13:35:19+00:00",1,1,0,0,0,0,51
 "AWSBackupFullAccess","v2",False,"2020-01-13T18:40:45+00:00",2,2,0,3,0,0,22
 "AWSBackupFullAccess","v1",False,"2019-11-18T22:21:52+00:00",2,2,0,3,0,0,22
 "AWSBackupFullAccess","v16",False,"2023-09-06T20:47:03+00:00",2,7,0,4,0,0,49
@@ -3729,8 +3730,9 @@
 "AWSCodeCommitFullAccess","v9",False,"2020-07-30T23:17:35+00:00",1,4,0,0,0,0,53
 "AWSCodeCommitFullAccess","v6",False,"2019-12-03T07:56:31+00:00",1,4,0,0,0,0,53
 "AWSDMSFleetAdvisorServiceRolePolicy","v1",True,"2023-03-06T09:10:42+00:00",0,0,0,0,0,0,0
-"AWSElasticDisasterRecoveryLaunchActionsPolicy","v2",True,"2023-10-16T12:28:44+00:00",0,0,0,0,0,0,0
+"AWSElasticDisasterRecoveryLaunchActionsPolicy","v2",False,"2023-10-16T12:28:44+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryLaunchActionsPolicy","v1",False,"2023-09-13T07:38:26+00:00",0,0,0,0,0,0,0
+"AWSElasticDisasterRecoveryLaunchActionsPolicy","v3",True,"2024-05-19T07:29:42+00:00",0,0,0,0,0,0,0
 "AwsGlueSessionUserRestrictedServiceRole","v2",True,"2024-04-29T22:51:39+00:00",1,0,0,0,0,0,0
 "AwsGlueSessionUserRestrictedServiceRole","v1",False,"2022-04-14T21:30:07+00:00",1,0,0,0,0,0,0
 "AWSPanoramaApplianceServiceRolePolicy","v2",True,"2023-01-17T21:32:36+00:00",0,0,0,0,0,0,0
