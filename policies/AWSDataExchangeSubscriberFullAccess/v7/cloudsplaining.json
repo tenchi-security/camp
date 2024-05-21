@@ -1,0 +1,17 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "dataexchange"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "dataexchange:CancelJob",
+        "dataexchange:DeleteEventAction",
+        "dataexchange:SendApiAsset",
+        "dataexchange:StartJob",
+        "dataexchange:UpdateEventAction"
+    ]
+}

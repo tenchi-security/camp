@@ -3834,10 +3834,11 @@
 "AmazonOpenSearchDashboardsServiceRolePolicy","v1",True,"2023-12-22T19:38:16+00:00",0,0,0,0,0,0,0
 "AWSDataExchangeSubscriberFullAccess","v2",False,"2020-04-27T14:28:00+00:00",0,1,0,0,0,0,3
 "AWSDataExchangeSubscriberFullAccess","v1",False,"2019-11-13T19:27:52+00:00",0,1,0,0,0,0,3
+"AWSDataExchangeSubscriberFullAccess","v7",True,"2024-05-21T17:36:35+00:00",0,1,0,0,0,0,5
 "AWSDataExchangeSubscriberFullAccess","v4",False,"2021-02-08T23:34:25+00:00",0,1,0,0,0,0,3
 "AWSDataExchangeSubscriberFullAccess","v5",False,"2021-09-30T21:31:28+00:00",0,1,0,0,0,0,3
 "AWSDataExchangeSubscriberFullAccess","v3",False,"2021-01-14T17:06:28+00:00",0,1,0,0,0,0,3
-"AWSDataExchangeSubscriberFullAccess","v6",True,"2021-11-29T23:00:06+00:00",0,1,0,0,0,0,3
+"AWSDataExchangeSubscriberFullAccess","v6",False,"2021-11-29T23:00:06+00:00",0,1,0,0,0,0,3
 "DataScientist","v2",False,"2018-07-02T17:23:18+00:00",13,19,1,16,1,1,496
 "DataScientist","v1",False,"2016-11-10T17:28:48+00:00",12,17,1,15,1,1,363
 "DataScientist","v4",False,"2019-08-21T23:13:03+00:00",13,19,1,16,1,1,496
