@@ -693,8 +693,9 @@
 "AWSBillingReadOnlyAccess","v2",False,"2023-03-08T17:48:14+00:00",0,0,0,0,0,0,0
 "AWSBillingReadOnlyAccess","v1",False,"2020-08-27T20:08:51+00:00",0,0,0,0,0,0,0
 "AWSBillingReadOnlyAccess","v4",False,"2023-07-26T18:05:19+00:00",0,0,0,0,0,0,0
-"AWSBillingReadOnlyAccess","v5",True,"2024-01-17T18:15:35+00:00",0,0,0,0,0,0,0
+"AWSBillingReadOnlyAccess","v5",False,"2024-01-17T18:15:35+00:00",0,0,0,0,0,0,0
 "AWSBillingReadOnlyAccess","v3",False,"2023-06-28T19:56:01+00:00",0,0,0,0,0,0,0
+"AWSBillingReadOnlyAccess","v6",True,"2024-05-21T19:58:07+00:00",0,0,0,0,0,0,0
 "AmazonAppStreamReadOnlyAccess","v2",True,"2016-12-07T21:00:06+00:00",0,0,0,0,0,0,0
 "AmazonAppStreamReadOnlyAccess","v1",False,"2015-02-06T18:40:10+00:00",0,0,0,0,0,0,0
 "AWSCloudMapRegisterInstanceAccess","v2",False,"2020-07-29T17:57:24+00:00",0,2,0,0,0,0,5
