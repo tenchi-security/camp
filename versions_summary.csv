@@ -692,10 +692,11 @@
 "AWSThinkboxAWSPortalWorkerPolicy","v3",False,"2020-08-20T21:18:56+00:00",0,1,0,0,0,0,1
 "AWSBillingReadOnlyAccess","v2",False,"2023-03-08T17:48:14+00:00",0,0,0,0,0,0,0
 "AWSBillingReadOnlyAccess","v1",False,"2020-08-27T20:08:51+00:00",0,0,0,0,0,0,0
+"AWSBillingReadOnlyAccess","v7",True,"2024-05-23T23:23:30+00:00",0,0,0,0,0,0,0
 "AWSBillingReadOnlyAccess","v4",False,"2023-07-26T18:05:19+00:00",0,0,0,0,0,0,0
 "AWSBillingReadOnlyAccess","v5",False,"2024-01-17T18:15:35+00:00",0,0,0,0,0,0,0
 "AWSBillingReadOnlyAccess","v3",False,"2023-06-28T19:56:01+00:00",0,0,0,0,0,0,0
-"AWSBillingReadOnlyAccess","v6",True,"2024-05-21T19:58:07+00:00",0,0,0,0,0,0,0
+"AWSBillingReadOnlyAccess","v6",False,"2024-05-21T19:58:07+00:00",0,0,0,0,0,0,0
 "AmazonAppStreamReadOnlyAccess","v2",True,"2016-12-07T21:00:06+00:00",0,0,0,0,0,0,0
 "AmazonAppStreamReadOnlyAccess","v1",False,"2015-02-06T18:40:10+00:00",0,0,0,0,0,0,0
 "AWSCloudMapRegisterInstanceAccess","v2",False,"2020-07-29T17:57:24+00:00",0,2,0,0,0,0,5
@@ -1278,7 +1279,8 @@
 "AWSServiceRoleForSMS","v6",False,"2020-07-25T02:26:29+00:00",0,2,0,3,0,0,12
 "Billing","v2",False,"2018-02-06T23:46:37+00:00",1,2,0,0,0,0,4
 "Billing","v1",False,"2016-11-10T17:33:18+00:00",0,1,0,0,0,0,1
-"Billing","v10",True,"2024-05-21T21:12:57+00:00",0,4,0,0,0,0,19
+"Billing","v10",False,"2024-05-21T21:12:57+00:00",0,4,0,0,0,0,19
+"Billing","v11",True,"2024-05-23T23:26:02+00:00",0,4,0,0,0,0,19
 "Billing","v8",False,"2023-07-26T19:58:17+00:00",0,2,0,0,0,0,4
 "Billing","v7",False,"2023-06-28T19:47:25+00:00",0,2,0,0,0,0,4
 "Billing","v4",False,"2020-08-27T20:09:10+00:00",1,2,0,0,0,0,4
