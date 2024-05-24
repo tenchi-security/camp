@@ -3602,7 +3602,8 @@
 "AWSElementalMediaTailorFullAccess","v1",True,"2021-11-23T00:04:39+00:00",1,1,0,2,0,0,14
 "AmazonSQSReadOnlyAccess","v2",False,"2018-08-20T23:35:49+00:00",0,0,0,0,0,0,0
 "AmazonSQSReadOnlyAccess","v1",False,"2015-02-06T18:41:08+00:00",0,0,0,0,0,0,0
-"AmazonSQSReadOnlyAccess","v3",True,"2023-06-15T15:37:35+00:00",0,0,0,0,0,0,0
+"AmazonSQSReadOnlyAccess","v4",True,"2024-05-24T18:16:44+00:00",0,0,0,0,0,0,0
+"AmazonSQSReadOnlyAccess","v3",False,"2023-06-15T15:37:35+00:00",0,0,0,0,0,0,0
 "AWSPanoramaSageMakerRolePolicy","v1",True,"2020-12-01T13:13:54+00:00",0,0,0,0,0,0,0
 "AmazonOneEnterpriseReadOnlyAccess","v1",True,"2023-11-28T04:59:23+00:00",0,0,0,0,0,0,0
 "LexBotPolicy","v2",True,"2019-11-13T22:29:16+00:00",0,0,0,0,0,0,0
