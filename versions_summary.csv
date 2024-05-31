@@ -2737,10 +2737,11 @@
 "AWSOutpostsAuthorizeServerPolicy","v1",True,"2023-01-04T19:23:22+00:00",0,0,0,0,0,0,0
 "AmplifyBackendDeployFullAccess","v2",False,"2023-11-06T20:08:59+00:00",0,0,0,0,0,0,0
 "AmplifyBackendDeployFullAccess","v1",False,"2023-10-06T21:32:59+00:00",0,0,0,0,0,0,0
+"AmplifyBackendDeployFullAccess","v7",True,"2024-05-31T15:53:42+00:00",0,0,0,0,0,0,0
 "AmplifyBackendDeployFullAccess","v4",False,"2024-01-02T21:13:46+00:00",0,0,0,0,0,0,0
 "AmplifyBackendDeployFullAccess","v5",False,"2024-04-05T18:24:13+00:00",0,0,0,0,0,0,0
 "AmplifyBackendDeployFullAccess","v3",False,"2023-11-17T23:27:43+00:00",0,0,0,0,0,0,0
-"AmplifyBackendDeployFullAccess","v6",True,"2024-04-17T16:00:59+00:00",0,0,0,0,0,0,0
+"AmplifyBackendDeployFullAccess","v6",False,"2024-04-17T16:00:59+00:00",0,0,0,0,0,0,0
 "AmazonMechanicalTurkReadOnly","v2",False,"2017-02-27T21:45:50+00:00",0,0,0,0,0,0,0
 "AmazonMechanicalTurkReadOnly","v1",False,"2015-12-11T19:08:28+00:00",0,0,0,0,0,0,0
 "AmazonMechanicalTurkReadOnly","v3",True,"2019-09-25T21:06:26+00:00",0,0,0,0,0,0,0
