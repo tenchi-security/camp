@@ -3316,8 +3316,9 @@
 "AWSElasticDisasterRecoveryNetworkReplicationPolicy","v1",False,"2023-06-11T12:36:48+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryNetworkReplicationPolicy","v4",True,"2024-01-02T13:25:23+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryNetworkReplicationPolicy","v3",False,"2023-12-17T14:23:22+00:00",0,0,0,0,0,0,0
-"WAFV2LoggingServiceRolePolicy","v2",True,"2020-07-23T17:04:25+00:00",0,0,0,0,0,0,0
+"WAFV2LoggingServiceRolePolicy","v2",False,"2020-07-23T17:04:25+00:00",0,0,0,0,0,0,0
 "WAFV2LoggingServiceRolePolicy","v1",False,"2019-11-07T00:40:56+00:00",0,0,0,0,0,0,0
+"WAFV2LoggingServiceRolePolicy","v3",True,"2024-06-03T17:29:04+00:00",0,0,0,0,0,0,0
 "AmazonQLDBFullAccess","v2",False,"2020-05-19T17:47:10+00:00",0,1,0,0,0,0,9
 "AmazonQLDBFullAccess","v1",False,"2019-09-05T18:23:32+00:00",0,1,0,0,0,0,7
 "AmazonQLDBFullAccess","v4",False,"2021-09-02T23:21:04+00:00",0,2,0,1,0,0,19
