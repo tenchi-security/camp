@@ -1,0 +1,21 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "sagemaker"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "sagemaker:AddTags",
+        "sagemaker:CreateModelCard",
+        "sagemaker:CreateModelCardExportJob",
+        "sagemaker:DeleteModelCard",
+        "sagemaker:DeleteTags",
+        "sagemaker:StartMonitoringSchedule",
+        "sagemaker:StopMonitoringSchedule",
+        "sagemaker:UpdateModelCard",
+        "sagemaker:UpdateMonitoringAlert"
+    ]
+}
