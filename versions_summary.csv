@@ -3779,7 +3779,8 @@
 "AmazonDynamoDBReadOnlyAccess","v6",False,"2017-11-29T16:12:24+00:00",0,0,0,0,0,0,0
 "AmazonDataZoneGlueManageAccessRolePolicy","v2",False,"2023-09-29T01:53:41+00:00",0,2,0,4,0,0,5
 "AmazonDataZoneGlueManageAccessRolePolicy","v1",False,"2023-09-22T20:21:53+00:00",0,2,0,4,0,0,5
-"AmazonDataZoneGlueManageAccessRolePolicy","v4",True,"2024-04-01T19:05:41+00:00",0,2,0,4,0,0,6
+"AmazonDataZoneGlueManageAccessRolePolicy","v4",False,"2024-04-01T19:05:41+00:00",0,2,0,4,0,0,6
+"AmazonDataZoneGlueManageAccessRolePolicy","v5",True,"2024-06-03T23:29:25+00:00",0,3,0,4,0,0,8
 "AmazonDataZoneGlueManageAccessRolePolicy","v3",False,"2023-12-14T23:03:20+00:00",0,2,0,4,0,0,6
 "NetworkAdministrator","v2",False,"2017-03-20T18:44:58+00:00",4,6,0,1,0,0,158
 "NetworkAdministrator","v1",False,"2016-11-10T17:31:35+00:00",4,6,0,1,0,0,158
