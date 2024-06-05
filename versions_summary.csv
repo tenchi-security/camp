@@ -2983,7 +2983,8 @@
 "AWSHealthImagingFullAccess","v1",True,"2023-07-25T23:39:40+00:00",1,1,0,1,0,0,1
 "AmazonTimestreamReadOnlyAccess","v2",False,"2021-11-26T23:39:30+00:00",0,0,0,0,0,0,0
 "AmazonTimestreamReadOnlyAccess","v1",False,"2020-09-30T21:47:08+00:00",0,0,0,0,0,0,0
-"AmazonTimestreamReadOnlyAccess","v3",True,"2023-02-28T18:22:57+00:00",0,0,0,0,0,0,0
+"AmazonTimestreamReadOnlyAccess","v4",True,"2024-06-05T19:11:27+00:00",0,0,0,0,0,0,0
+"AmazonTimestreamReadOnlyAccess","v3",False,"2023-02-28T18:22:57+00:00",0,0,0,0,0,0,0
 "AmazonOneEnterpriseFullAccess","v1",True,"2023-11-28T04:58:21+00:00",1,0,0,0,0,0,0
 "AmazonMQApiReadOnlyAccess","v1",True,"2018-12-18T20:31:13+00:00",0,0,0,0,0,0,0
 "AWSIotRoboRunnerReadOnly","v2",True,"2022-11-16T20:51:43+00:00",0,0,0,0,0,0,0
