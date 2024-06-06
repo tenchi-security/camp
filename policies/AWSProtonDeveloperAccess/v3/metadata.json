@@ -1,6 +1,6 @@
 {
     "VersionId": "v3",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2022-11-18T18:35:07+00:00",
     "PolicyName": "AWSProtonDeveloperAccess"
 }

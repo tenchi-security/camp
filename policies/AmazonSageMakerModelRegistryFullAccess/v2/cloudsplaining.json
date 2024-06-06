@@ -1,0 +1,23 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "sagemaker"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "sagemaker:AddTags",
+        "sagemaker:CreateEndpoint",
+        "sagemaker:CreateEndpointConfig",
+        "sagemaker:CreateInferenceRecommendationsJob",
+        "sagemaker:CreateModel",
+        "sagemaker:CreateModelPackage",
+        "sagemaker:CreateModelPackageGroup",
+        "sagemaker:DeleteModelPackage",
+        "sagemaker:DeleteModelPackageGroup",
+        "sagemaker:DeleteTags",
+        "sagemaker:UpdateModelPackage"
+    ]
+}

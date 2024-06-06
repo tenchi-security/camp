@@ -3165,7 +3165,8 @@
 "AWSElasticDisasterRecoveryAgentPolicy","v3",True,"2023-11-27T13:44:15+00:00",0,0,0,0,0,0,0
 "AWSProtonDeveloperAccess","v2",False,"2022-04-21T12:57:14+00:00",0,1,0,0,0,0,7
 "AWSProtonDeveloperAccess","v1",False,"2021-02-17T19:02:08+00:00",0,1,0,0,0,0,5
-"AWSProtonDeveloperAccess","v3",True,"2022-11-18T18:35:07+00:00",0,1,0,0,0,0,7
+"AWSProtonDeveloperAccess","v4",True,"2024-06-06T18:26:38+00:00",0,1,0,0,0,0,7
+"AWSProtonDeveloperAccess","v3",False,"2022-11-18T18:35:07+00:00",0,1,0,0,0,0,7
 "AmazonManagedBlockchainServiceRolePolicy","v1",True,"2020-01-17T19:51:28+00:00",0,0,0,0,0,0,0
 "AWSProtonServiceGitSyncServiceRolePolicy","v1",True,"2023-04-04T15:55:48+00:00",0,1,0,0,0,0,7
 "AmazonKinesisVideoStreamsFullAccess","v1",True,"2017-12-01T23:27:18+00:00",1,1,0,0,0,0,15
@@ -3352,7 +3353,8 @@
 "AWSOrganizationsFullAccess","v5",False,"2022-12-22T18:22:12+00:00",1,3,0,1,0,0,24
 "AWSOrganizationsFullAccess","v3",False,"2022-08-16T20:42:36+00:00",1,3,0,1,0,0,23
 "AWSOrganizationsFullAccess","v6",True,"2024-02-06T17:49:01+00:00",1,3,0,1,0,0,27
-"AmazonSageMakerModelRegistryFullAccess","v1",True,"2023-04-13T05:20:48+00:00",0,1,0,0,0,0,11
+"AmazonSageMakerModelRegistryFullAccess","v2",True,"2024-06-06T18:48:51+00:00",0,1,0,0,0,0,11
+"AmazonSageMakerModelRegistryFullAccess","v1",False,"2023-04-13T05:20:48+00:00",0,1,0,0,0,0,11
 "AWSQuickSightDescribeRedshift","v1",True,"2015-11-10T23:25:01+00:00",0,0,0,0,0,0,0
 "AWSAccountManagementFullAccess","v1",True,"2021-09-30T23:20:37+00:00",1,0,0,0,0,0,0
 "EC2ImageBuilderLifecycleExecutionPolicy","v1",True,"2023-11-16T23:23:09+00:00",0,1,0,0,0,0,1
@@ -3857,8 +3859,9 @@
 "DataScientist","v4",False,"2019-08-21T23:13:03+00:00",13,19,1,16,1,1,496
 "DataScientist","v5",True,"2019-12-03T16:48:34+00:00",13,19,1,16,1,1,370
 "DataScientist","v3",False,"2019-01-18T19:26:23+00:00",13,19,1,16,1,1,496
-"AWSProtonFullAccess","v2",True,"2022-06-20T12:36:26+00:00",1,3,0,2,0,0,47
+"AWSProtonFullAccess","v2",False,"2022-06-20T12:36:26+00:00",1,3,0,2,0,0,47
 "AWSProtonFullAccess","v1",False,"2021-02-17T19:07:18+00:00",1,3,0,2,0,0,30
+"AWSProtonFullAccess","v3",True,"2024-06-06T18:29:00+00:00",1,3,0,2,0,0,52
 "ROSACloudNetworkConfigOperatorPolicy","v1",True,"2023-04-20T22:34:36+00:00",0,0,0,0,0,0,0
 "AmazonSESServiceRolePolicy","v1",True,"2024-05-21T16:02:20+00:00",0,0,0,0,0,0,0
 "AmazonRekognitionCustomLabelsFullAccess","v2",False,"2020-04-17T17:26:10+00:00",0,1,0,0,0,0,6
