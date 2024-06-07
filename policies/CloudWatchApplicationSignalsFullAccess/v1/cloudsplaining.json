@@ -1,0 +1,18 @@
+{
+    "ServiceWildcard": [
+        "application-signals"
+    ],
+    "ServicesAffected": [
+        "rum"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "rum:BatchCreateRumMetricDefinitions",
+        "rum:BatchDeleteRumMetricDefinitions",
+        "rum:PutRumMetricsDestination",
+        "rum:UpdateRumMetricDefinition"
+    ]
+}

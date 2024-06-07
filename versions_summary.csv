@@ -3377,6 +3377,7 @@
 "AWSPurchaseOrdersServiceRolePolicy","v3",False,"2023-03-07T22:32:54+00:00",0,0,0,0,0,0,0
 "AWSThinkboxAWSPortalGatewayPolicy","v2",True,"2020-06-30T16:02:07+00:00",0,1,0,0,0,0,1
 "AWSThinkboxAWSPortalGatewayPolicy","v1",False,"2020-05-27T19:05:00+00:00",0,1,0,0,0,0,1
+"CloudWatchApplicationSignalsReadOnlyAccess","v1",True,"2024-06-06T22:48:30+00:00",0,0,0,0,0,0,0
 "ServiceQuotasServiceRolePolicy","v2",True,"2019-06-24T14:52:56+00:00",1,0,0,0,0,0,0
 "ServiceQuotasServiceRolePolicy","v1",False,"2019-05-22T20:44:17+00:00",0,0,0,0,0,0,0
 "AWSDirectoryServiceFullAccess","v2",False,"2016-02-24T23:10:36+00:00",1,2,0,5,0,0,47
@@ -3764,6 +3765,7 @@
 "AWSWAFFullAccess","v9",False,"2023-03-30T20:24:20+00:00",3,5,0,7,0,0,116
 "AWSWAFFullAccess","v6",False,"2021-11-15T19:33:27+00:00",3,4,0,9,0,0,112
 "AWSResourceAccessManagerResourceShareParticipantAccess","v1",True,"2019-12-09T20:41:37+00:00",0,1,0,2,0,0,2
+"CloudWatchApplicationSignalsFullAccess","v1",True,"2024-06-06T22:50:16+00:00",1,1,0,0,0,0,4
 "AmazonCloudWatchEvidentlyReadOnlyAccess","v1",True,"2021-11-29T15:08:38+00:00",0,0,0,0,0,0,0
 "AmazonAppFlowReadOnlyAccess","v2",True,"2022-02-28T20:42:58+00:00",0,0,0,0,0,0,0
 "AmazonAppFlowReadOnlyAccess","v1",False,"2020-06-02T23:26:51+00:00",0,0,0,0,0,0,0
