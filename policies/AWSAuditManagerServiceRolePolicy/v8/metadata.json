@@ -1,6 +1,6 @@
 {
     "VersionId": "v8",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2024-05-17T20:42:45+00:00",
     "PolicyName": "AWSAuditManagerServiceRolePolicy"
 }
