@@ -2660,6 +2660,7 @@
 "AmazonGuardDutyReadOnlyAccess","v1",False,"2017-11-28T22:29:40+00:00",0,0,0,0,0,0,0
 "AmazonGuardDutyReadOnlyAccess","v4",True,"2023-11-16T23:07:06+00:00",0,0,0,0,0,0,0
 "AmazonGuardDutyReadOnlyAccess","v3",False,"2021-02-16T23:37:57+00:00",0,0,0,0,0,0,0
+"OpensearchIngestionSelfManagedVpcePolicy","v1",True,"2024-06-10T19:59:40+00:00",0,0,0,0,0,0,0
 "AWSShieldServiceRolePolicy","v1",True,"2021-11-17T19:17:46+00:00",0,1,0,1,0,0,1
 "AWSCloudTrail_ReadOnlyAccess","v1",True,"2022-06-14T17:19:05+00:00",0,0,0,0,0,0,0
 "AWSCertificateManagerFullAccess","v2",True,"2020-08-17T22:18:28+00:00",1,1,0,0,0,0,7
