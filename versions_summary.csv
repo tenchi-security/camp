@@ -2225,8 +2225,9 @@
 "AmazonGuardDutyFullAccess","v2",False,"2021-02-16T23:39:53+00:00",1,3,0,1,0,0,31
 "AmazonGuardDutyFullAccess","v1",False,"2017-11-28T22:31:30+00:00",1,2,0,1,0,0,30
 "AmazonGuardDutyFullAccess","v4",False,"2022-07-26T18:28:01+00:00",1,3,0,1,0,0,15
-"AmazonGuardDutyFullAccess","v5",True,"2023-11-16T23:04:21+00:00",1,3,0,1,0,0,15
+"AmazonGuardDutyFullAccess","v5",False,"2023-11-16T23:04:21+00:00",1,3,0,1,0,0,15
 "AmazonGuardDutyFullAccess","v3",False,"2022-07-19T20:36:51+00:00",1,3,0,1,0,0,15
+"AmazonGuardDutyFullAccess","v6",True,"2024-06-10T22:50:31+00:00",1,3,0,1,0,0,15
 "ServerMigrationServiceConsoleFullAccess","v2",True,"2020-07-20T22:00:37+00:00",1,1,0,1,0,0,1
 "ServerMigrationServiceConsoleFullAccess","v1",False,"2020-05-09T17:18:57+00:00",1,1,0,1,0,0,1
 "QBusinessServiceRolePolicy","v1",True,"2024-04-29T16:05:44+00:00",0,0,0,0,0,0,0
