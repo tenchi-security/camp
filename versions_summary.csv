@@ -66,7 +66,8 @@
 "AWSMigrationHubStrategyCollector","v5",False,"2024-02-05T18:57:29+00:00",0,0,0,0,0,0,0
 "AWSMigrationHubStrategyCollector","v3",False,"2023-03-02T22:08:23+00:00",0,0,0,0,0,0,0
 "AWSMigrationHubStrategyCollector","v6",True,"2024-04-01T16:21:02+00:00",0,0,0,0,0,0,0
-"AmazonSageMakerServiceCatalogProductsLambdaServiceRolePolicy","v1",True,"2022-04-04T16:34:43+00:00",0,0,0,0,0,0,0
+"AmazonSageMakerServiceCatalogProductsLambdaServiceRolePolicy","v2",True,"2024-06-11T18:57:13+00:00",0,0,0,0,0,0,0
+"AmazonSageMakerServiceCatalogProductsLambdaServiceRolePolicy","v1",False,"2022-04-04T16:34:43+00:00",0,0,0,0,0,0,0
 "AWSApplicationAutoscalingDynamoDBTablePolicy","v1",True,"2017-10-20T21:34:57+00:00",0,2,0,0,0,0,3
 "AWSDataPipeline_PowerUser","v2",True,"2017-08-17T18:49:42+00:00",1,0,0,0,0,0,0
 "AWSDataPipeline_PowerUser","v1",False,"2017-01-19T23:16:46+00:00",1,0,0,0,0,0,0
@@ -1610,7 +1611,8 @@
 "AmazonLookoutEquipmentReadOnlyAccess","v1",False,"2021-05-05T16:47:55+00:00",0,0,0,0,0,0,0
 "AmazonLookoutEquipmentReadOnlyAccess","v3",True,"2022-11-10T22:04:33+00:00",0,0,0,0,0,0,0
 "ROSAAmazonEBSCSIDriverOperatorPolicy","v1",True,"2023-04-20T22:36:00+00:00",0,0,0,0,0,0,0
-"AmazonSageMakerServiceCatalogProductsCodePipelineServiceRolePolicy","v1",True,"2022-02-22T09:53:17+00:00",0,0,0,0,0,0,0
+"AmazonSageMakerServiceCatalogProductsCodePipelineServiceRolePolicy","v2",True,"2024-06-11T18:37:51+00:00",0,0,0,0,0,0,0
+"AmazonSageMakerServiceCatalogProductsCodePipelineServiceRolePolicy","v1",False,"2022-02-22T09:53:17+00:00",0,0,0,0,0,0,0
 "AWSDeepLensServiceRolePolicy","v2",False,"2018-02-09T01:32:56+00:00",1,4,0,2,0,0,10
 "AWSDeepLensServiceRolePolicy","v1",False,"2017-11-29T15:46:36+00:00",1,4,0,2,0,0,10
 "AWSDeepLensServiceRolePolicy","v4",False,"2018-05-29T22:09:22+00:00",1,4,0,2,0,0,10
@@ -1971,7 +1973,8 @@
 "AWSTrustedAdvisorServiceRolePolicy","v1",False,"2018-02-22T21:24:25+00:00",0,0,0,0,0,0,0
 "AWSTrustedAdvisorServiceRolePolicy","v10",False,"2023-09-14T18:02:41+00:00",0,0,0,0,0,0,0
 "AWSTrustedAdvisorServiceRolePolicy","v11",False,"2023-11-10T00:18:42+00:00",0,0,0,0,0,0,0
-"AWSTrustedAdvisorServiceRolePolicy","v12",True,"2024-01-18T16:25:15+00:00",0,0,0,0,0,0,0
+"AWSTrustedAdvisorServiceRolePolicy","v13",True,"2024-06-11T18:53:22+00:00",0,0,0,0,0,0,0
+"AWSTrustedAdvisorServiceRolePolicy","v12",False,"2024-01-18T16:25:15+00:00",0,0,0,0,0,0,0
 "AWSTrustedAdvisorServiceRolePolicy","v8",False,"2020-04-08T16:15:31+00:00",0,0,0,0,0,0,0
 "AWSTrustedAdvisorServiceRolePolicy","v7",False,"2019-11-15T22:11:48+00:00",0,0,0,0,0,0,0
 "AWSTrustedAdvisorServiceRolePolicy","v4",False,"2018-12-13T21:54:30+00:00",0,0,0,0,0,0,0
@@ -3181,7 +3184,8 @@
 "AmazonElasticTranscoder_FullAccess","v1",False,"2018-04-27T18:59:35+00:00",1,2,0,1,0,0,10
 "AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v2",False,"2021-07-02T06:13:39+00:00",0,3,0,0,0,0,14
 "AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v1",False,"2020-11-27T18:48:07+00:00",0,3,0,0,0,0,14
-"AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v7",True,"2022-08-02T19:12:55+00:00",0,4,0,0,0,0,20
+"AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v8",True,"2024-06-11T18:34:20+00:00",0,4,0,0,0,0,20
+"AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v7",False,"2022-08-02T19:12:55+00:00",0,4,0,0,0,0,20
 "AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v4",False,"2022-02-16T19:52:11+00:00",0,4,0,0,0,0,20
 "AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v5",False,"2022-03-21T17:33:28+00:00",0,4,0,0,0,0,20
 "AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v3",False,"2021-09-15T20:00:26+00:00",0,3,0,0,0,0,14
@@ -3853,7 +3857,8 @@
 "AmazonLexReadOnly","v3",False,"2022-04-27T23:43:22+00:00",0,0,0,0,0,0,0
 "AmazonMachineLearningRoleforRedshiftDataSourceV3","v1",True,"2020-06-24T18:00:09+00:00",0,2,0,0,0,0,7
 "AWSElasticBeanstalkRoleSNS","v1",True,"2020-06-05T21:46:22+00:00",0,1,0,0,0,0,2
-"AmazonSageMakerServiceCatalogProductsCodeBuildServiceRolePolicy","v1",True,"2022-03-25T04:27:46+00:00",0,1,0,0,0,1,0
+"AmazonSageMakerServiceCatalogProductsCodeBuildServiceRolePolicy","v2",True,"2024-06-11T18:45:27+00:00",0,1,0,0,0,1,0
+"AmazonSageMakerServiceCatalogProductsCodeBuildServiceRolePolicy","v1",False,"2022-03-25T04:27:46+00:00",0,1,0,0,0,1,0
 "AmazonOpenSearchDashboardsServiceRolePolicy","v1",True,"2023-12-22T19:38:16+00:00",0,0,0,0,0,0,0
 "AWSDataExchangeSubscriberFullAccess","v2",False,"2020-04-27T14:28:00+00:00",0,1,0,0,0,0,3
 "AWSDataExchangeSubscriberFullAccess","v1",False,"2019-11-13T19:27:52+00:00",0,1,0,0,0,0,3

@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4ILK6GZTSE",
     "Arn": "arn:aws:iam::aws:policy/AmazonSageMakerServiceCatalogProductsCodeBuildServiceRolePolicy",
     "Path": "/",
-    "DefaultVersionId": "v1",
+    "DefaultVersionId": "v2",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2022-03-25T04:27:46+00:00",
-    "UpdateDate": "2022-03-25T04:27:46+00:00"
+    "UpdateDate": "2024-06-11T18:45:27+00:00"
 }
