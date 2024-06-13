@@ -1027,8 +1027,9 @@
 "AmazonDataZoneDomainExecutionRolePolicy","v2",False,"2023-11-28T12:48:21+00:00",0,0,0,0,0,0,0
 "AmazonDataZoneDomainExecutionRolePolicy","v1",False,"2023-09-27T21:55:08+00:00",0,0,0,0,0,0,0
 "AmazonDataZoneDomainExecutionRolePolicy","v4",False,"2024-03-12T23:48:00+00:00",0,0,0,0,0,0,0
-"AmazonDataZoneDomainExecutionRolePolicy","v5",True,"2024-04-01T19:25:31+00:00",0,0,0,0,0,0,0
+"AmazonDataZoneDomainExecutionRolePolicy","v5",False,"2024-04-01T19:25:31+00:00",0,0,0,0,0,0,0
 "AmazonDataZoneDomainExecutionRolePolicy","v3",False,"2024-02-01T23:12:59+00:00",0,0,0,0,0,0,0
+"AmazonDataZoneDomainExecutionRolePolicy","v6",True,"2024-06-13T19:02:14+00:00",0,0,0,0,0,0,0
 "AmazonElasticContainerRegistryPublicFullAccess","v1",True,"2020-12-01T17:25:52+00:00",1,1,0,1,0,0,11
 "AmazonRoute53RecoveryControlConfigFullAccess","v1",True,"2021-08-18T17:48:35+00:00",1,0,0,0,0,0,0
 "ClientVPNServiceConnectionsRolePolicy","v1",True,"2020-08-12T19:48:06+00:00",0,0,0,0,0,0,0
@@ -1434,7 +1435,8 @@
 "AWSMarketplaceRead-only","v3",False,"2019-10-28T21:51:31+00:00",0,0,0,0,0,0,0
 "AmazonDataZoneFullAccess","v2",False,"2024-03-12T16:34:41+00:00",1,1,0,4,0,0,4
 "AmazonDataZoneFullAccess","v1",False,"2023-09-22T20:06:52+00:00",1,1,0,4,0,0,4
-"AmazonDataZoneFullAccess","v3",True,"2024-04-23T21:36:18+00:00",1,2,0,4,0,0,8
+"AmazonDataZoneFullAccess","v4",True,"2024-06-13T19:02:55+00:00",1,2,0,4,0,0,8
+"AmazonDataZoneFullAccess","v3",False,"2024-04-23T21:36:18+00:00",1,2,0,4,0,0,8
 "AmazonTimestreamInfluxDBFullAccess","v1",True,"2024-03-14T22:53:22+00:00",0,0,0,0,0,0,0
 "ROSANodePoolManagementPolicy","v2",True,"2024-05-02T14:01:47+00:00",0,1,0,1,0,0,2
 "ROSANodePoolManagementPolicy","v1",False,"2023-06-08T20:48:08+00:00",0,1,0,1,0,0,2

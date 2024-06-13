@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4F33DOLA5S",
     "Arn": "arn:aws:iam::aws:policy/service-role/AmazonDataZoneDomainExecutionRolePolicy",
     "Path": "/service-role/",
-    "DefaultVersionId": "v5",
+    "DefaultVersionId": "v6",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2023-09-27T21:55:08+00:00",
-    "UpdateDate": "2024-04-01T19:25:31+00:00"
+    "UpdateDate": "2024-06-13T19:02:14+00:00"
 }
