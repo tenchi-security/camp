@@ -2486,7 +2486,8 @@
 "AWSApplicationMigrationAgentPolicy","v2",True,"2022-09-20T11:13:40+00:00",0,1,0,0,0,0,6
 "AWSApplicationMigrationAgentPolicy","v1",False,"2021-04-07T07:00:21+00:00",0,0,0,0,0,0,0
 "AWSUserNotificationsServiceLinkedRolePolicy","v1",True,"2023-04-19T13:28:34+00:00",0,0,0,0,0,0,0
-"AWSBudgetsReadOnlyAccess","v1",True,"2020-10-15T17:18:28+00:00",0,0,0,0,0,0,0
+"AWSBudgetsReadOnlyAccess","v2",True,"2024-06-17T17:41:25+00:00",0,0,0,0,0,0,0
+"AWSBudgetsReadOnlyAccess","v1",False,"2020-10-15T17:18:28+00:00",0,0,0,0,0,0,0
 "AWSServiceCatalogAppRegistryServiceRolePolicy","v2",False,"2021-08-11T19:49:17+00:00",0,1,0,0,0,0,4
 "AWSServiceCatalogAppRegistryServiceRolePolicy","v1",False,"2021-05-18T22:18:55+00:00",0,1,0,0,0,0,4
 "AWSServiceCatalogAppRegistryServiceRolePolicy","v4",True,"2022-10-26T16:05:52+00:00",0,1,0,0,0,0,4
