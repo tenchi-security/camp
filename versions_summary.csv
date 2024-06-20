@@ -1054,6 +1054,7 @@
 "AWSElasticDisasterRecoveryFailbackInstallationPolicy","v2",False,"2022-06-27T09:13:40+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryFailbackInstallationPolicy","v3",True,"2023-11-27T13:43:08+00:00",0,0,0,0,0,0,0
 "AmazonOneEnterpriseInstallerAccess","v1",True,"2023-11-28T05:00:39+00:00",0,0,0,0,0,0,0
+"ECRTemplateServiceRolePolicy","v1",True,"2024-06-19T23:11:37+00:00",0,0,0,0,0,0,0
 "ApplicationAutoScalingForAmazonAppStreamAccess","v1",True,"2017-02-06T21:39:56+00:00",0,1,0,0,0,0,1
 "AWSServiceRoleForGroundStationDataflowEndpointGroupPolicy","v1",True,"2022-12-13T23:52:45+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerNotebooksServiceRolePolicy","v1",False,"2019-10-18T20:27:37+00:00",0,2,0,1,0,0,9
