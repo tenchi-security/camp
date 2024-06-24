@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4MPDTDB3FH",
     "Arn": "arn:aws:iam::aws:policy/AWSDataExchangeFullAccess",
     "Path": "/",
-    "DefaultVersionId": "v7",
+    "DefaultVersionId": "v8",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2019-11-13T19:27:59+00:00",
-    "UpdateDate": "2024-05-07T17:04:55+00:00"
+    "UpdateDate": "2024-06-24T19:54:18+00:00"
 }

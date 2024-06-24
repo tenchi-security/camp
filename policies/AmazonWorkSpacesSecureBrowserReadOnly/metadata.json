@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonWorkSpacesSecureBrowserReadOnly",
+    "PolicyId": "ANPAZKAPJZG4AL2N5G6EG",
+    "Arn": "arn:aws:iam::aws:policy/AmazonWorkSpacesSecureBrowserReadOnly",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2024-06-24T20:01:09+00:00",
+    "UpdateDate": "2024-06-24T20:01:09+00:00"
+}

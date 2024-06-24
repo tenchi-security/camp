@@ -290,8 +290,9 @@
 "AWSDataExchangeFullAccess","v5",False,"2021-11-01T18:55:49+00:00",1,3,0,1,0,0,14
 "AWSDataExchangeFullAccess","v3",False,"2021-01-19T19:42:47+00:00",1,2,0,0,0,0,12
 "AWSDataExchangeFullAccess","v6",False,"2021-12-02T16:14:27+00:00",1,3,0,1,0,0,14
-"AWSDataExchangeFullAccess","v7",True,"2024-05-07T17:04:55+00:00",1,4,0,1,0,0,24
+"AWSDataExchangeFullAccess","v7",False,"2024-05-07T17:04:55+00:00",1,4,0,1,0,0,24
 "AWSDataExchangeFullAccess","v4",False,"2021-05-10T21:07:38+00:00",1,2,0,0,0,0,12
+"AWSDataExchangeFullAccess","v8",True,"2024-06-24T19:54:18+00:00",1,4,0,1,0,0,24
 "AWSImportExportReadOnlyAccess","v1",True,"2015-02-06T18:40:42+00:00",0,0,0,0,0,0,0
 "AmazonRekognitionCustomLabelsFullAccess","v1",False,"2020-01-08T19:18:34+00:00",0,1,0,0,0,0,4
 "AmazonRekognitionCustomLabelsFullAccess","v2",False,"2020-04-17T17:26:10+00:00",0,1,0,0,0,0,6
@@ -3625,6 +3626,7 @@
 "CloudWatchFullAccessV2","v1",False,"2023-08-01T11:32:57+00:00",2,3,0,1,0,0,43
 "CloudWatchFullAccessV2","v2",False,"2023-12-05T19:36:00+00:00",5,6,0,1,0,0,71
 "CloudWatchFullAccessV2","v3",True,"2024-05-17T22:20:49+00:00",6,6,0,1,0,0,85
+"AmazonWorkSpacesSecureBrowserReadOnly","v1",True,"2024-06-24T20:01:09+00:00",0,0,0,0,0,0,0
 "CloudFrontFullAccess","v1",False,"2015-02-06T18:39:50+00:00",1,1,0,0,0,0,14
 "CloudFrontFullAccess","v2",False,"2015-05-04T17:52:23+00:00",1,1,0,0,0,0,14
 "CloudFrontFullAccess","v5",False,"2020-08-27T17:09:55+00:00",1,1,0,0,0,0,14
