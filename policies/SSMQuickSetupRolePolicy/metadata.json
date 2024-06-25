@@ -1,0 +1,12 @@
+{
+    "PolicyName": "SSMQuickSetupRolePolicy",
+    "PolicyId": "ANPAZKAPJZG4LCIDYUKDZ",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/SSMQuickSetupRolePolicy",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2024-06-25T15:20:04+00:00",
+    "UpdateDate": "2024-06-25T15:20:04+00:00"
+}
