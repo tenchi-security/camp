@@ -160,6 +160,7 @@
 "AmazonFreeRTOSOTAUpdate","v3",True,"2020-12-18T17:47:30+00:00",0,2,0,0,0,0,3
 "AWSIQContractServiceRolePolicy","v1",True,"2019-08-22T19:28:39+00:00",0,0,0,0,0,0,0
 "AWSQuickSightListIAM","v1",True,"2015-11-10T23:25:07+00:00",0,0,0,0,0,0,0
+"AWSSystemsManagerEnableConfigRecordingExecutionPolicy","v1",True,"2024-06-26T09:40:20+00:00",0,0,0,0,0,0,0
 "AmazonPrometheusRemoteWriteAccess","v1",True,"2020-12-19T01:04:32+00:00",0,1,0,0,0,0,1
 "AWSLambdaSQSQueueExecutionRole","v1",True,"2018-06-14T21:50:45+00:00",0,2,0,0,0,0,4
 "AmazonAppFlowReadOnlyAccess","v1",False,"2020-06-02T23:26:51+00:00",0,0,0,0,0,0,0
@@ -678,6 +679,7 @@
 "AWSServiceRoleForCloudWatchMetrics_DbPerfInsightsServiceRolePolicy","v1",True,"2023-09-07T09:32:32+00:00",0,0,0,0,0,0,0
 "AWSEntityResolutionConsoleFullAccess","v1",False,"2023-08-17T17:54:14+00:00",1,0,0,0,0,0,0
 "AWSEntityResolutionConsoleFullAccess","v2",True,"2023-10-16T18:46:10+00:00",1,1,0,0,0,0,4
+"AWSQuickSetupCFGCPacksPermissionsBoundary","v1",True,"2024-06-26T09:52:11+00:00",0,0,0,0,0,0,0
 "AmazonElasticFileSystemFullAccess","v1",False,"2015-05-27T16:22:28+00:00",1,2,0,2,0,0,21
 "AmazonElasticFileSystemFullAccess","v2",False,"2017-07-26T15:48:42+00:00",1,2,0,2,0,0,21
 "AmazonElasticFileSystemFullAccess","v5",False,"2020-01-13T16:15:01+00:00",0,3,0,3,0,0,19
@@ -868,6 +870,7 @@
 "AWSLakeFormationDataAdmin","v2",False,"2019-12-16T22:41:40+00:00",1,1,0,5,0,0,6
 "AWSLakeFormationDataAdmin","v3",True,"2024-03-22T18:27:42+00:00",1,1,0,0,0,0,8
 "AmazonS3OutpostsReadOnlyAccess","v1",True,"2020-10-02T18:55:58+00:00",0,0,0,0,0,0,0
+"AWSQuickSetupSSMHostMgmtPermissionsBoundary","v1",True,"2024-06-26T09:48:42+00:00",0,2,0,1,0,0,3
 "AmazonRDSServiceRolePolicy","v10",False,"2022-02-24T01:07:42+00:00",0,2,0,0,0,0,17
 "AmazonRDSServiceRolePolicy","v13",True,"2024-01-19T15:10:09+00:00",0,2,0,0,0,0,21
 "AmazonRDSServiceRolePolicy","v1",False,"2018-01-08T18:17:46+00:00",0,2,0,0,0,0,8
@@ -899,6 +902,7 @@
 "AmazonDevOpsGuruReadOnlyAccess","v6",True,"2022-08-25T18:11:21+00:00",0,0,0,0,0,0,0
 "AmazonDevOpsGuruReadOnlyAccess","v4",False,"2021-11-26T21:05:22+00:00",0,0,0,0,0,0,0
 "AWSIotRoboRunnerServiceRolePolicy","v1",True,"2023-02-21T16:56:31+00:00",0,0,0,0,0,0,0
+"AWSQuickSetupSchedulerPermissionsBoundary","v1",True,"2024-06-26T09:53:37+00:00",0,0,0,0,0,0,0
 "AmazonHoneycodeFullAccess","v1",True,"2020-06-24T20:28:11+00:00",1,1,0,0,0,0,6
 "AmazonAPIGatewayPushToCloudWatchLogs","v1",True,"2015-11-11T23:41:46+00:00",0,1,0,0,0,0,3
 "AWSResourceExplorerOrganizationsAccess","v1",True,"2023-11-14T17:01:12+00:00",1,3,0,1,0,0,10
@@ -953,6 +957,7 @@
 "AmazonEKSWorkerNodePolicy","v1",False,"2018-05-27T21:09:01+00:00",0,0,0,0,0,0,0
 "AmazonEKSWorkerNodePolicy","v2",False,"2022-03-21T22:39:36+00:00",0,0,0,0,0,0,0
 "AmazonEKSWorkerNodePolicy","v3",True,"2023-11-27T00:06:13+00:00",0,0,0,0,0,0,0
+"AWSQuickSetupPatchPolicyPermissionsBoundary","v1",True,"2024-06-26T09:46:54+00:00",0,3,0,1,0,0,6
 "AWSDataPipeline_FullAccess","v1",False,"2017-01-19T23:14:54+00:00",1,1,0,0,0,0,1
 "AWSDataPipeline_FullAccess","v2",True,"2017-08-17T18:48:39+00:00",1,1,0,0,0,0,1
 "AWSRepostSpaceSupportOperationsPolicy","v1",True,"2023-11-26T21:52:15+00:00",0,0,0,0,0,0,0
@@ -1007,6 +1012,7 @@
 "AWSApplicationMigrationFullAccess","v4",False,"2022-05-31T21:14:49+00:00",1,1,0,0,0,0,33
 "AWSApplicationMigrationFullAccess","v8",True,"2024-05-19T08:30:02+00:00",1,1,0,0,0,0,60
 "AWSServiceRoleForCodeGuru-Profiler","v1",True,"2020-06-26T22:04:26+00:00",0,1,0,0,0,0,1
+"AWSQuickSetupPatchPolicyBaselineAccess","v1",True,"2024-06-26T09:38:00+00:00",0,0,0,0,0,0,0
 "AmazonPrometheusFullAccess","v1",False,"2020-12-15T18:10:46+00:00",1,1,0,0,0,0,3
 "AmazonPrometheusFullAccess","v2",True,"2023-11-26T20:16:13+00:00",1,1,0,0,0,0,17
 "AWSBillingReadOnlyAccess","v1",False,"2020-08-27T20:08:51+00:00",0,0,0,0,0,0,0
@@ -1490,6 +1496,7 @@
 "AWSNetworkFirewallServiceRolePolicy","v1",False,"2020-11-17T17:17:26+00:00",0,1,0,0,0,0,2
 "AWSNetworkFirewallServiceRolePolicy","v2",False,"2023-02-14T17:09:19+00:00",0,1,0,0,0,0,2
 "AWSNetworkFirewallServiceRolePolicy","v3",True,"2023-03-30T17:19:09+00:00",0,1,0,0,0,0,2
+"AWSQuickSetupPatchPolicyDeploymentRolePolicy","v1",True,"2024-06-26T09:57:02+00:00",0,1,0,0,0,0,1
 "AmazonDocDBFullAccess","v1",True,"2019-01-09T20:21:44+00:00",0,2,0,1,0,0,39
 "AmazonMQReadOnlyAccess","v1",False,"2017-11-28T15:30:32+00:00",0,0,0,0,0,0,0
 "AmazonMQReadOnlyAccess","v2",True,"2017-11-28T19:02:03+00:00",0,0,0,0,0,0,0
@@ -1758,6 +1765,8 @@
 "AWSElasticBeanstalkManagedUpdatesServiceRolePolicy","v4",False,"2020-09-11T18:28:47+00:00",1,3,0,1,0,0,32
 "AWSElasticBeanstalkManagedUpdatesServiceRolePolicy","v8",False,"2023-03-24T00:18:43+00:00",1,4,0,1,0,0,35
 "AWSEntityResolutionConsoleReadOnlyAccess","v1",True,"2023-08-17T18:18:36+00:00",0,0,0,0,0,0,0
+"AWSQuickSetupDistributorPermissionsBoundary","v1",True,"2024-06-26T09:50:21+00:00",0,2,0,1,0,0,3
+"AWSQuickSetupDevOpsGuruPermissionsBoundary","v1",True,"2024-06-26T09:44:42+00:00",0,0,0,0,0,0,0
 "SSMQuickSetupRolePolicy","v1",True,"2024-06-25T15:20:04+00:00",0,0,0,0,0,0,0
 "AmazonEKSServicePolicy","v1",False,"2018-05-27T21:08:21+00:00",0,1,0,1,0,0,4
 "AmazonEKSServicePolicy","v2",False,"2018-05-31T22:15:20+00:00",0,1,0,1,0,0,4
@@ -2247,6 +2256,7 @@
 "AWSTransferFullAccess","v1",True,"2020-12-14T19:37:23+00:00",1,2,0,1,0,0,12
 "AWSLambdaENIManagementAccess","v1",False,"2016-12-06T00:37:27+00:00",0,1,0,0,0,0,2
 "AWSLambdaENIManagementAccess","v2",True,"2020-10-01T20:07:26+00:00",0,1,0,0,0,0,4
+"AWSQuickSetupDeploymentRolePolicy","v1",True,"2024-06-26T09:55:21+00:00",0,1,0,0,0,0,1
 "AmazonChimeSDKMediaPipelinesServiceLinkedRolePolicy","v1",False,"2022-04-04T22:02:05+00:00",0,1,0,0,0,0,2
 "AmazonChimeSDKMediaPipelinesServiceLinkedRolePolicy","v2",False,"2023-09-07T20:08:32+00:00",0,1,0,0,0,0,2
 "AmazonChimeSDKMediaPipelinesServiceLinkedRolePolicy","v3",True,"2023-12-08T19:14:31+00:00",0,1,0,0,0,0,2
@@ -2834,6 +2844,7 @@
 "AWSIoTThingsRegistration","v1",False,"2017-12-01T20:21:52+00:00",0,1,0,1,0,0,8
 "AWSIoTThingsRegistration","v2",False,"2020-02-27T23:27:23+00:00",0,1,0,1,0,0,10
 "AWSIoTThingsRegistration","v3",True,"2020-10-05T19:20:12+00:00",0,1,0,3,0,0,12
+"AWSSystemsManagerEnableExplorerExecutionPolicy","v1",True,"2024-06-26T09:42:47+00:00",0,0,0,0,0,0,0
 "FMSServiceRolePolicy","v10",False,"2020-03-10T20:10:50+00:00",0,3,0,0,0,0,5
 "FMSServiceRolePolicy","v13",False,"2020-07-20T23:05:16+00:00",0,3,0,0,0,0,5
 "FMSServiceRolePolicy","v16",False,"2020-09-08T18:03:00+00:00",0,3,0,0,0,0,5

@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSQuickSetupDistributorPermissionsBoundary",
+    "PolicyId": "ANPAZKAPJZG4PTBXJEXXB",
+    "Arn": "arn:aws:iam::aws:policy/AWSQuickSetupDistributorPermissionsBoundary",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2024-06-26T09:50:21+00:00",
+    "UpdateDate": "2024-06-26T09:50:21+00:00"
+}

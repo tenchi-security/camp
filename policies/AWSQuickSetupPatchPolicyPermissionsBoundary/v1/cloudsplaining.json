@@ -1,0 +1,22 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "ec2",
+        "iam",
+        "ssm"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:AddRoleToInstanceProfile"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "ec2:AssociateIamInstanceProfile",
+        "ec2:DisassociateIamInstanceProfile",
+        "iam:AddRoleToInstanceProfile",
+        "iam:TagRole",
+        "iam:UntagRole",
+        "ssm:UpdateManagedInstanceRole"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSQuickSetupPatchPolicyBaselineAccess",
+    "PolicyId": "ANPAZKAPJZG4CCQL42YSU",
+    "Arn": "arn:aws:iam::aws:policy/AWSQuickSetupPatchPolicyBaselineAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2024-06-26T09:38:00+00:00",
+    "UpdateDate": "2024-06-26T09:38:00+00:00"
+}
