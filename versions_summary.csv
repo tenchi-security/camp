@@ -1838,8 +1838,9 @@
 "AWSServiceRoleForAmazonEKSNodegroup","v5",False,"2020-08-31T19:07:38+00:00",0,3,0,3,0,0,16
 "AWSServiceRoleForAmazonEKSNodegroup","v3",False,"2020-02-21T20:40:41+00:00",0,3,0,4,0,0,16
 "AWSServiceRoleForAmazonEKSNodegroup","v6",False,"2022-01-14T00:33:26+00:00",0,3,0,3,0,0,16
-"AWSServiceRoleForAmazonEKSNodegroup","v7",True,"2024-01-04T20:37:13+00:00",0,3,0,3,0,0,16
+"AWSServiceRoleForAmazonEKSNodegroup","v7",False,"2024-01-04T20:37:13+00:00",0,3,0,3,0,0,16
 "AWSServiceRoleForAmazonEKSNodegroup","v4",False,"2020-03-06T22:14:53+00:00",0,3,0,4,0,0,16
+"AWSServiceRoleForAmazonEKSNodegroup","v8",True,"2024-06-27T21:03:09+00:00",0,3,0,3,0,0,16
 "AWSLambdaDynamoDBExecutionRole","v1",True,"2015-04-09T15:09:29+00:00",0,1,0,0,0,0,3
 "AmazonMachineLearningCreateOnlyAccess","v1",False,"2015-04-09T17:18:09+00:00",0,1,0,0,0,0,13
 "AmazonMachineLearningCreateOnlyAccess","v2",True,"2016-06-29T20:55:03+00:00",0,1,0,0,0,0,14
