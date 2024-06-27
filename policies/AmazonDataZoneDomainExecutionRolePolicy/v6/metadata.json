@@ -1,6 +1,6 @@
 {
     "VersionId": "v6",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2024-06-13T19:02:14+00:00",
     "PolicyName": "AmazonDataZoneDomainExecutionRolePolicy"
 }

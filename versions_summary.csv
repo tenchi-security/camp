@@ -1356,7 +1356,8 @@
 "AmazonDataZoneFullUserAccess","v2",False,"2023-09-26T04:10:01+00:00",0,0,0,0,0,0,0
 "AmazonDataZoneFullUserAccess","v5",False,"2024-03-12T23:47:37+00:00",0,0,0,0,0,0,0
 "AmazonDataZoneFullUserAccess","v3",False,"2023-10-03T21:05:39+00:00",0,0,0,0,0,0,0
-"AmazonDataZoneFullUserAccess","v6",True,"2024-04-01T19:27:32+00:00",0,0,0,0,0,0,0
+"AmazonDataZoneFullUserAccess","v6",False,"2024-04-01T19:27:32+00:00",0,0,0,0,0,0,0
+"AmazonDataZoneFullUserAccess","v7",True,"2024-06-27T15:18:19+00:00",0,0,0,0,0,0,0
 "AmazonDataZoneFullUserAccess","v4",False,"2023-11-28T12:52:10+00:00",0,0,0,0,0,0,0
 "AWSStepFunctionsReadOnlyAccess","v1",False,"2017-01-11T21:46:19+00:00",0,0,0,0,0,0,0
 "AWSStepFunctionsReadOnlyAccess","v2",False,"2017-11-10T22:03:49+00:00",0,0,0,0,0,0,0
@@ -2417,7 +2418,8 @@
 "AmazonDataZoneDomainExecutionRolePolicy","v2",False,"2023-11-28T12:48:21+00:00",0,0,0,0,0,0,0
 "AmazonDataZoneDomainExecutionRolePolicy","v5",False,"2024-04-01T19:25:31+00:00",0,0,0,0,0,0,0
 "AmazonDataZoneDomainExecutionRolePolicy","v3",False,"2024-02-01T23:12:59+00:00",0,0,0,0,0,0,0
-"AmazonDataZoneDomainExecutionRolePolicy","v6",True,"2024-06-13T19:02:14+00:00",0,0,0,0,0,0,0
+"AmazonDataZoneDomainExecutionRolePolicy","v6",False,"2024-06-13T19:02:14+00:00",0,0,0,0,0,0,0
+"AmazonDataZoneDomainExecutionRolePolicy","v7",True,"2024-06-27T15:17:17+00:00",0,0,0,0,0,0,0
 "AmazonDataZoneDomainExecutionRolePolicy","v4",False,"2024-03-12T23:48:00+00:00",0,0,0,0,0,0,0
 "AWSDeviceFarmServiceRolePolicy","v1",True,"2022-09-20T21:02:28+00:00",0,0,0,0,0,0,0
 "AmazonAppStreamServiceAccess","v1",False,"2016-11-19T04:17:37+00:00",0,1,0,0,0,0,4
