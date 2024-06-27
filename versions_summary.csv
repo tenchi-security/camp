@@ -1489,8 +1489,9 @@
 "CloudSearchReadOnlyAccess","v1",True,"2015-02-06T18:39:57+00:00",0,0,0,0,0,0,0
 "AmazonWorkSpacesAdmin","v1",False,"2015-09-22T22:21:15+00:00",0,1,0,0,0,0,4
 "AmazonWorkSpacesAdmin","v2",False,"2016-08-18T23:08:42+00:00",0,1,0,0,0,0,7
-"AmazonWorkSpacesAdmin","v5",True,"2023-08-03T23:57:36+00:00",0,1,0,0,0,0,12
+"AmazonWorkSpacesAdmin","v5",False,"2023-08-03T23:57:36+00:00",0,1,0,0,0,0,12
 "AmazonWorkSpacesAdmin","v3",False,"2022-08-31T18:28:53+00:00",0,1,0,0,0,0,7
+"AmazonWorkSpacesAdmin","v6",True,"2024-06-27T17:16:27+00:00",0,1,0,0,0,0,15
 "AmazonWorkSpacesAdmin","v4",False,"2022-12-15T19:43:23+00:00",0,1,0,0,0,0,9
 "AWSElasticBeanstalkCustomPlatformforEC2Role","v1",True,"2017-02-21T22:50:30+00:00",0,1,0,1,0,1,21
 "AWSMarketplaceResaleAuthorizationServiceRolePolicy","v1",True,"2024-03-05T18:47:54+00:00",0,0,0,0,0,0,0
@@ -2633,6 +2634,7 @@
 "AWSAuditManagerAdministratorAccess","v3",True,"2024-05-15T23:46:15+00:00",1,4,0,1,0,0,25
 "AWSResourceExplorerFullAccess","v1",False,"2022-11-07T20:01:20+00:00",1,1,0,1,0,0,1
 "AWSResourceExplorerFullAccess","v2",True,"2023-11-14T16:53:46+00:00",1,2,0,1,0,0,8
+"AmazonWorkSpacesPoolServiceAccess","v1",True,"2024-06-27T16:21:03+00:00",0,0,0,0,0,0,0
 "AmazonRoute53FullAccess","v1",False,"2015-02-06T18:40:54+00:00",1,1,0,0,0,0,20
 "AmazonRoute53FullAccess","v2",False,"2017-02-14T21:25:53+00:00",2,1,0,0,0,0,20
 "AmazonRoute53FullAccess","v3",False,"2017-11-13T22:22:04+00:00",2,1,0,0,0,0,20
