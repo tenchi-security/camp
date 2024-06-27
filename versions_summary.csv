@@ -991,8 +991,9 @@
 "AWSIAMIdentityCenterAllowListForIdentityContext","v3",False,"2024-04-11T18:33:06+00:00",0,0,0,0,0,0,0
 "AWSIAMIdentityCenterAllowListForIdentityContext","v6",False,"2024-04-26T20:13:15+00:00",0,0,0,0,0,0,0
 "AWSIAMIdentityCenterAllowListForIdentityContext","v7",False,"2024-04-30T09:31:36+00:00",0,0,0,0,0,0,0
+"AWSIAMIdentityCenterAllowListForIdentityContext","v9",True,"2024-06-27T19:33:56+00:00",0,0,0,0,0,0,0
 "AWSIAMIdentityCenterAllowListForIdentityContext","v4",False,"2024-04-19T18:58:23+00:00",0,0,0,0,0,0,0
-"AWSIAMIdentityCenterAllowListForIdentityContext","v8",True,"2024-05-16T22:01:55+00:00",0,0,0,0,0,0,0
+"AWSIAMIdentityCenterAllowListForIdentityContext","v8",False,"2024-05-16T22:01:55+00:00",0,0,0,0,0,0,0
 "AWSSystemsManagerAccountDiscoveryServicePolicy","v1",False,"2019-10-24T17:21:05+00:00",0,0,0,0,0,0,0
 "AWSSystemsManagerAccountDiscoveryServicePolicy","v2",False,"2020-05-27T18:04:51+00:00",0,0,0,0,0,0,0
 "AWSSystemsManagerAccountDiscoveryServicePolicy","v3",True,"2022-10-17T20:25:02+00:00",0,0,0,0,0,0,0
