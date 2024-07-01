@@ -226,7 +226,8 @@
 "AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v5",False,"2022-03-21T17:33:28+00:00",0,4,0,0,0,0,20
 "AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v3",False,"2021-09-15T20:00:26+00:00",0,3,0,0,0,0,14
 "AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v6",False,"2022-07-14T19:36:42+00:00",0,4,0,0,0,0,20
-"AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v7",True,"2022-08-02T19:12:55+00:00",0,4,0,0,0,0,20
+"AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v7",False,"2022-08-02T19:12:55+00:00",0,4,0,0,0,0,20
+"AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v9",True,"2024-07-01T07:33:43+00:00",0,4,0,0,0,0,20
 "AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v4",False,"2022-02-16T19:52:11+00:00",0,4,0,0,0,0,20
 "AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy","v8",False,"2024-06-11T18:34:20+00:00",0,4,0,0,0,0,20
 "AmazonHoneycodeWorkbookReadOnlyAccess","v1",False,"2020-06-24T20:28:07+00:00",0,0,0,0,0,0,0
