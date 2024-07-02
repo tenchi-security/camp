@@ -874,10 +874,11 @@
 "AmazonS3OutpostsReadOnlyAccess","v1",True,"2020-10-02T18:55:58+00:00",0,0,0,0,0,0,0
 "AWSQuickSetupSSMHostMgmtPermissionsBoundary","v1",True,"2024-06-26T09:48:42+00:00",0,2,0,1,0,0,3
 "AmazonRDSServiceRolePolicy","v10",False,"2022-02-24T01:07:42+00:00",0,2,0,0,0,0,17
-"AmazonRDSServiceRolePolicy","v13",True,"2024-01-19T15:10:09+00:00",0,2,0,0,0,0,21
+"AmazonRDSServiceRolePolicy","v13",False,"2024-01-19T15:10:09+00:00",0,2,0,0,0,0,21
 "AmazonRDSServiceRolePolicy","v1",False,"2018-01-08T18:17:46+00:00",0,2,0,0,0,0,8
 "AmazonRDSServiceRolePolicy","v2",False,"2018-07-10T15:54:54+00:00",0,2,0,0,0,0,11
 "AmazonRDSServiceRolePolicy","v11",False,"2022-03-21T15:03:27+00:00",0,2,0,0,0,0,17
+"AmazonRDSServiceRolePolicy","v14",True,"2024-07-01T22:42:05+00:00",0,1,0,0,0,0,20
 "AmazonRDSServiceRolePolicy","v5",False,"2019-02-04T18:16:17+00:00",0,2,0,0,0,0,13
 "AmazonRDSServiceRolePolicy","v3",False,"2018-10-16T19:47:43+00:00",0,2,0,0,0,0,13
 "AmazonRDSServiceRolePolicy","v12",False,"2022-12-13T16:24:27+00:00",0,2,0,0,0,0,19
