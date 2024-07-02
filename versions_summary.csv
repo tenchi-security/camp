@@ -3586,7 +3586,8 @@
 "AWSBackupServiceRolePolicyForRestores","v4",False,"2019-10-03T19:10:42+00:00",0,2,0,1,0,0,9
 "AWSBackupServiceRolePolicyForRestores","v19",False,"2023-11-27T19:38:10+00:00",0,3,0,1,0,0,15
 "AWSBackupServiceRolePolicyForRestores","v8",False,"2021-03-10T18:30:25+00:00",0,3,0,1,0,0,13
-"AWSPriceListServiceFullAccess","v1",True,"2017-11-22T00:36:27+00:00",1,0,0,0,0,0,0
+"AWSPriceListServiceFullAccess","v1",False,"2017-11-22T00:36:27+00:00",1,0,0,0,0,0,0
+"AWSPriceListServiceFullAccess","v2",True,"2024-07-02T13:34:19+00:00",1,0,0,0,0,0,0
 "AmazonTimestreamReadOnlyAccess","v1",False,"2020-09-30T21:47:08+00:00",0,0,0,0,0,0,0
 "AmazonTimestreamReadOnlyAccess","v2",False,"2021-11-26T23:39:30+00:00",0,0,0,0,0,0,0
 "AmazonTimestreamReadOnlyAccess","v3",False,"2023-02-28T18:22:57+00:00",0,0,0,0,0,0,0
