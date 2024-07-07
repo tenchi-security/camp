@@ -3753,7 +3753,8 @@
 "AmazonManagedBlockchainConsoleFullAccess","v1",True,"2019-04-29T21:23:25+00:00",1,2,0,0,0,0,12
 "AmazonRedshiftReadOnlyAccess","v1",False,"2015-02-06T18:40:51+00:00",0,0,0,0,0,0,0
 "AmazonRedshiftReadOnlyAccess","v2",True,"2024-02-08T00:24:13+00:00",0,0,0,0,0,0,0
-"CostOptimizationHubServiceRolePolicy","v1",True,"2023-11-26T08:03:59+00:00",0,0,0,0,0,0,0
+"CostOptimizationHubServiceRolePolicy","v1",False,"2023-11-26T08:03:59+00:00",0,0,0,0,0,0,0
+"CostOptimizationHubServiceRolePolicy","v2",True,"2024-07-05T18:02:53+00:00",0,0,0,0,0,0,0
 "AWSFMAdminFullAccess","v1",False,"2018-05-09T18:06:18+00:00",3,3,0,4,0,0,96
 "AWSFMAdminFullAccess","v2",True,"2022-10-20T23:39:06+00:00",3,6,0,5,0,0,100
 "AmazonFSxConsoleFullAccess","v10",False,"2023-12-19T22:50:06+00:00",0,2,0,3,0,0,35
