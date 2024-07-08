@@ -2966,7 +2966,8 @@
 "AWSQuickSightSageMakerPolicy","v2",False,"2023-10-03T23:22:22+00:00",0,0,0,0,0,0,0
 "AWSQuickSightSageMakerPolicy","v3",True,"2023-10-30T17:57:43+00:00",0,0,0,0,0,0,0
 "AWSAppRunnerReadOnlyAccess","v1",True,"2022-02-24T21:24:15+00:00",0,0,0,0,0,0,0
-"AWSLicenseManagerLinuxSubscriptionsServiceRolePolicy","v1",True,"2022-12-20T18:54:54+00:00",0,0,0,0,0,0,0
+"AWSLicenseManagerLinuxSubscriptionsServiceRolePolicy","v1",False,"2022-12-20T18:54:54+00:00",0,0,0,0,0,0,0
+"AWSLicenseManagerLinuxSubscriptionsServiceRolePolicy","v2",True,"2024-07-08T22:04:56+00:00",0,0,0,0,0,0,0
 "AmazonRoute53ProfilesFullAccess","v1",True,"2024-04-30T18:30:29+00:00",0,0,0,0,0,0,0
 "AmazonPersonalizeFullAccess","v1",False,"2018-12-04T22:24:33+00:00",1,2,0,1,0,0,22
 "AmazonPersonalizeFullAccess","v2",True,"2019-05-30T23:46:59+00:00",1,2,0,1,0,0,22
