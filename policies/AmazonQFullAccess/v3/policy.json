@@ -1,0 +1,41 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "AllowAmazonQFullAccess",
+            "Effect": "Allow",
+            "Action": [
+                "q:StartConversation",
+                "q:SendMessage",
+                "q:GetConversation",
+                "q:ListConversations",
+                "q:PassRequest",
+                "q:StartTroubleshootingAnalysis",
+                "q:GetTroubleshootingResults",
+                "q:StartTroubleshootingResolutionExplanation",
+                "q:UpdateTroubleshootingCommandResult",
+                "q:GetIdentityMetadata",
+                "q:CreateAssignment",
+                "q:DeleteAssignment"
+            ],
+            "Resource": "*"
+        },
+        {
+            "Sid": "AllowCloudControlReadAccess",
+            "Effect": "Allow",
+            "Action": [
+                "cloudformation:GetResource",
+                "cloudformation:ListResources"
+            ],
+            "Resource": "*"
+        },
+        {
+            "Sid": "AllowSetTrustedIdentity",
+            "Effect": "Allow",
+            "Action": [
+                "sts:SetContext"
+            ],
+            "Resource": "arn:aws:sts::*:self"
+        }
+    ]
+}

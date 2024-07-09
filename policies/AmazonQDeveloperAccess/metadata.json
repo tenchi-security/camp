@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonQDeveloperAccess",
+    "PolicyId": "ANPAZKAPJZG4C4YINGFPW",
+    "Arn": "arn:aws:iam::aws:policy/AmazonQDeveloperAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2024-07-09T08:35:15+00:00",
+    "UpdateDate": "2024-07-09T08:35:15+00:00"
+}
