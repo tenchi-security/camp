@@ -768,13 +768,14 @@
 "AmazonSageMakerGroundTruthExecution","v1",False,"2020-07-09T19:30:20+00:00",0,2,0,0,0,0,4
 "AmazonSageMakerGroundTruthExecution","v2",False,"2022-04-11T21:22:37+00:00",0,2,0,0,0,0,4
 "AmazonSageMakerGroundTruthExecution","v3",True,"2022-04-29T20:49:54+00:00",0,3,0,0,0,0,6
+"AmazonSageMakerCanvasFullAccess","v10",True,"2024-07-09T23:10:27+00:00",0,4,0,0,0,1,3
 "AmazonSageMakerCanvasFullAccess","v1",False,"2022-09-09T00:44:25+00:00",0,4,0,0,0,1,3
 "AmazonSageMakerCanvasFullAccess","v2",False,"2022-12-06T23:10:32+00:00",0,4,0,0,0,1,3
 "AmazonSageMakerCanvasFullAccess","v5",False,"2023-07-24T23:16:37+00:00",0,4,0,0,0,1,3
 "AmazonSageMakerCanvasFullAccess","v3",False,"2023-03-24T15:28:26+00:00",0,4,0,0,0,1,3
 "AmazonSageMakerCanvasFullAccess","v6",False,"2023-08-29T19:06:22+00:00",0,4,0,0,0,1,3
 "AmazonSageMakerCanvasFullAccess","v7",False,"2023-09-30T00:15:42+00:00",0,4,0,0,0,1,3
-"AmazonSageMakerCanvasFullAccess","v9",True,"2024-01-24T22:01:20+00:00",0,4,0,0,0,1,3
+"AmazonSageMakerCanvasFullAccess","v9",False,"2024-01-24T22:01:20+00:00",0,4,0,0,0,1,3
 "AmazonSageMakerCanvasFullAccess","v4",False,"2023-05-04T17:03:12+00:00",0,4,0,0,0,1,3
 "AmazonSageMakerCanvasFullAccess","v8",False,"2023-12-09T00:58:33+00:00",0,4,0,0,0,1,3
 "AmazonLaunchWizardFullAccessV2","v1",True,"2023-09-01T17:14:56+00:00",2,8,0,2,3,1,87
