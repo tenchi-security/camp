@@ -1316,6 +1316,7 @@
 "AmazonRDSDataFullAccess","v2",False,"2019-05-30T17:11:26+00:00",0,1,0,0,0,0,1
 "AmazonRDSDataFullAccess","v3",True,"2019-11-20T21:58:46+00:00",0,1,0,0,0,0,1
 "AmazonDocDBReadOnlyAccess","v1",True,"2019-01-09T20:30:28+00:00",0,0,0,0,0,0,0
+"AppStudioServiceRolePolicy","v1",True,"2024-07-10T05:01:15+00:00",0,0,0,0,0,0,0
 "AmazonEC2ReadOnlyAccess","v1",True,"2015-02-06T18:40:17+00:00",0,0,0,0,0,0,0
 "AmazonEC2ReadOnlyAccess","v2",False,"2024-02-14T15:17:04+00:00",0,1,0,0,0,1,0
 "AWSElasticDisasterRecoveryFailbackPolicy","v1",False,"2021-11-17T10:41:40+00:00",0,0,0,0,0,0,0
