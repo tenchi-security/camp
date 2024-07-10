@@ -1,0 +1,11 @@
+{
+    "ServiceWildcard": [
+        "ssm-sap"
+    ],
+    "ServicesAffected": [],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": []
+}

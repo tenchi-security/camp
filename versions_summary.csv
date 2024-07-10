@@ -574,7 +574,8 @@
 "AWSElasticBeanstalkWebTier","v1",False,"2016-02-08T23:08:54+00:00",0,0,0,0,0,0,0
 "AwsGlueSessionUserRestrictedServiceRole","v2",True,"2024-04-29T22:51:39+00:00",1,0,0,0,0,0,0
 "AwsGlueSessionUserRestrictedServiceRole","v1",False,"2022-04-14T21:30:07+00:00",1,0,0,0,0,0,0
-"AWSSystemsManagerForSAPFullAccess","v2",True,"2022-11-18T21:58:54+00:00",1,0,0,0,0,0,0
+"AWSSystemsManagerForSAPFullAccess","v3",True,"2024-07-10T21:54:54+00:00",1,0,0,0,0,0,0
+"AWSSystemsManagerForSAPFullAccess","v2",False,"2022-11-18T21:58:54+00:00",1,0,0,0,0,0,0
 "AWSSystemsManagerForSAPFullAccess","v1",False,"2022-11-17T02:11:09+00:00",1,0,0,0,0,0,0
 "AWSElasticBeanstalkMaintenance","v3",True,"2024-04-29T21:48:04+00:00",0,0,0,0,0,0,0
 "AWSElasticBeanstalkMaintenance","v2",False,"2019-06-04T17:48:27+00:00",0,0,0,0,0,0,0
