@@ -1512,7 +1512,8 @@
 "AmazonConnect_FullAccess","v1",False,"2020-11-20T19:54:21+00:00",1,4,0,1,0,2,64
 "AWSServiceRoleForAmazonQDeveloper","v1",True,"2024-04-25T07:40:41+00:00",0,0,0,0,0,0,0
 "AWSApplicationAutoscalingWorkSpacesPoolPolicy","v1",True,"2024-06-17T18:39:07+00:00",0,0,0,0,0,0,0
-"AmazonSSMManagedEC2InstanceDefaultPolicy","v1",True,"2022-08-30T20:54:27+00:00",0,1,0,0,0,0,3
+"AmazonSSMManagedEC2InstanceDefaultPolicy","v2",True,"2024-07-16T18:14:07+00:00",0,1,0,0,0,0,4
+"AmazonSSMManagedEC2InstanceDefaultPolicy","v1",False,"2022-08-30T20:54:27+00:00",0,1,0,0,0,0,3
 "AmazonEBSCSIDriverPolicy","v2",True,"2022-11-18T14:42:46+00:00",0,1,0,0,0,0,7
 "AmazonEBSCSIDriverPolicy","v1",False,"2022-04-04T17:24:29+00:00",0,1,0,0,0,0,7
 "AWSCodeCommitPowerUser","v3",False,"2017-05-22T21:12:48+00:00",0,1,0,0,0,0,17

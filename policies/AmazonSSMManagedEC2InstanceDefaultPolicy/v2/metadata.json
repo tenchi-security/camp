@@ -1,0 +1,6 @@
+{
+    "VersionId": "v2",
+    "IsDefaultVersion": true,
+    "CreateDate": "2024-07-16T18:14:07+00:00",
+    "PolicyName": "AmazonSSMManagedEC2InstanceDefaultPolicy"
+}
