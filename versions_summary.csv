@@ -1237,8 +1237,9 @@
 "AmazonRDSCustomServiceRolePolicy","v6",False,"2023-06-22T23:12:48+00:00",0,1,0,0,0,0,7
 "AmazonRDSCustomServiceRolePolicy","v8",False,"2024-04-08T19:39:46+00:00",0,1,0,0,0,0,7
 "AmazonRDSCustomServiceRolePolicy","v7",False,"2023-09-20T19:16:42+00:00",0,1,0,0,0,0,7
+"AmazonRDSCustomServiceRolePolicy","v10",True,"2024-07-18T17:33:36+00:00",0,1,0,0,0,0,7
 "AmazonRDSCustomServiceRolePolicy","v2",False,"2022-11-09T22:17:08+00:00",0,1,0,0,0,0,7
-"AmazonRDSCustomServiceRolePolicy","v9",True,"2024-04-19T15:15:23+00:00",0,1,0,0,0,0,7
+"AmazonRDSCustomServiceRolePolicy","v9",False,"2024-04-19T15:15:23+00:00",0,1,0,0,0,0,7
 "AmazonRDSCustomServiceRolePolicy","v4",False,"2023-03-08T23:32:54+00:00",0,1,0,0,0,0,7
 "AmazonRDSCustomServiceRolePolicy","v5",False,"2023-05-29T03:33:55+00:00",0,1,0,0,0,0,7
 "AmazonRDSCustomServiceRolePolicy","v1",False,"2021-10-08T21:39:12+00:00",0,1,0,0,0,0,6
@@ -2814,7 +2815,8 @@
 "QBusinessServiceRolePolicy","v1",True,"2024-04-29T16:05:44+00:00",0,0,0,0,0,0,0
 "AmplifyBackendDeployFullAccess","v3",False,"2023-11-17T23:27:43+00:00",0,0,0,0,0,0,0
 "AmplifyBackendDeployFullAccess","v6",False,"2024-04-17T16:00:59+00:00",0,0,0,0,0,0,0
-"AmplifyBackendDeployFullAccess","v7",True,"2024-05-31T15:53:42+00:00",0,0,0,0,0,0,0
+"AmplifyBackendDeployFullAccess","v8",True,"2024-07-18T17:05:12+00:00",0,0,0,0,0,0,0
+"AmplifyBackendDeployFullAccess","v7",False,"2024-05-31T15:53:42+00:00",0,0,0,0,0,0,0
 "AmplifyBackendDeployFullAccess","v2",False,"2023-11-06T20:08:59+00:00",0,0,0,0,0,0,0
 "AmplifyBackendDeployFullAccess","v4",False,"2024-01-02T21:13:46+00:00",0,0,0,0,0,0,0
 "AmplifyBackendDeployFullAccess","v5",False,"2024-04-05T18:24:13+00:00",0,0,0,0,0,0,0
@@ -3011,8 +3013,9 @@
 "ROSAKubeControllerPolicy","v2",False,"2023-07-18T21:45:19+00:00",0,1,0,0,0,0,21
 "ROSAKubeControllerPolicy","v1",False,"2023-04-27T20:09:29+00:00",0,1,0,0,0,0,8
 "OpensearchIngestionSelfManagedVpcePolicy","v1",True,"2024-06-10T19:59:40+00:00",0,0,0,0,0,0,0
-"IAMAccessAnalyzerReadOnlyAccess","v3",True,"2023-11-27T02:24:16+00:00",0,0,0,0,0,0,0
+"IAMAccessAnalyzerReadOnlyAccess","v3",False,"2023-11-27T02:24:16+00:00",0,0,0,0,0,0,0
 "IAMAccessAnalyzerReadOnlyAccess","v2",False,"2021-03-16T20:37:30+00:00",0,0,0,0,0,0,0
+"IAMAccessAnalyzerReadOnlyAccess","v4",True,"2024-07-18T17:49:04+00:00",0,0,0,0,0,0,0
 "IAMAccessAnalyzerReadOnlyAccess","v1",False,"2019-12-02T17:12:53+00:00",0,0,0,0,0,0,0
 "AWSServiceCatalogAdminFullAccess","v3",False,"2018-10-16T23:15:23+00:00",1,2,0,3,0,0,35
 "AWSServiceCatalogAdminFullAccess","v6",False,"2022-11-17T23:03:44+00:00",0,2,0,4,0,0,36
