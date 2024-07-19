@@ -3556,7 +3556,8 @@
 "AlexaForBusinessFullAccess","v1",False,"2017-11-30T16:47:09+00:00",1,1,0,0,0,0,37
 "GlobalAcceleratorReadOnlyAccess","v1",True,"2018-11-27T02:41:00+00:00",0,0,0,0,0,0,0
 "ComprehendDataAccessRolePolicy","v1",True,"2019-03-06T22:28:15+00:00",0,0,0,0,0,0,0
-"AmazonSageMakerCanvasDataPrepFullAccess","v2",True,"2023-12-08T02:53:24+00:00",0,0,0,0,0,0,0
+"AmazonSageMakerCanvasDataPrepFullAccess","v3",True,"2024-07-18T23:21:28+00:00",0,0,0,0,0,0,0
+"AmazonSageMakerCanvasDataPrepFullAccess","v2",False,"2023-12-08T02:53:24+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerCanvasDataPrepFullAccess","v1",False,"2023-10-27T22:56:13+00:00",0,0,0,0,0,0,0
 "AmazonESFullAccess","v1",True,"2015-10-01T19:14:00+00:00",1,1,0,2,0,0,11
 "AWSIoTFullAccess","v2",True,"2022-05-19T21:39:11+00:00",2,1,0,6,0,0,109
