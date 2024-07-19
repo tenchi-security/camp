@@ -2460,6 +2460,7 @@
 "AmazonEMRFullAccessPolicy_v2","v2",False,"2021-03-23T16:57:10+00:00",0,1,0,1,0,0,20
 "AmazonEMRFullAccessPolicy_v2","v4",True,"2023-07-28T14:04:57+00:00",0,1,0,0,0,0,20
 "AmazonEMRFullAccessPolicy_v2","v1",False,"2021-03-12T01:50:29+00:00",0,2,0,2,0,0,21
+"AmazonWorkSpacesThinClientReadOnlyAccess","v1",True,"2024-07-19T08:50:52+00:00",0,0,0,0,0,0,0
 "AmazonCloudWatchEvidentlyReadOnlyAccess","v1",True,"2021-11-29T15:08:38+00:00",0,0,0,0,0,0,0
 "AWSLicenseManagerLinuxSubscriptionsServiceRolePolicy","v2",True,"2024-07-08T22:04:56+00:00",0,0,0,0,0,0,0
 "AWSLicenseManagerLinuxSubscriptionsServiceRolePolicy","v1",False,"2022-12-20T18:54:54+00:00",0,0,0,0,0,0,0
