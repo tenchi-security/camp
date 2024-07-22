@@ -2573,7 +2573,8 @@
 "AWSWAFConsoleReadOnlyAccess","v4",False,"2022-08-25T20:13:55+00:00",0,0,0,0,0,0,0
 "AWSWAFConsoleReadOnlyAccess","v5",False,"2023-03-30T20:59:06+00:00",0,0,0,0,0,0,0
 "AWSWAFConsoleReadOnlyAccess","v1",False,"2020-04-06T18:43:24+00:00",0,0,0,0,0,0,0
-"AWSDataExchangeReadOnly","v2",True,"2021-05-10T21:15:26+00:00",0,0,0,0,0,0,0
+"AWSDataExchangeReadOnly","v3",True,"2024-07-22T13:36:03+00:00",0,0,0,0,0,0,0
+"AWSDataExchangeReadOnly","v2",False,"2021-05-10T21:15:26+00:00",0,0,0,0,0,0,0
 "AWSDataExchangeReadOnly","v1",False,"2019-11-13T19:27:37+00:00",0,0,0,0,0,0,0
 "AmazonKinesisAnalyticsFullAccess","v1",True,"2016-09-21T19:01:14+00:00",1,2,0,0,0,0,23
 "AWSServiceCatalogAppRegistryReadOnlyAccess","v3",False,"2022-06-15T20:20:31+00:00",0,0,0,0,0,0,0
