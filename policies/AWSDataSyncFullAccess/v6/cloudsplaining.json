@@ -1,0 +1,49 @@
+{
+    "ServiceWildcard": [
+        "datasync"
+    ],
+    "ServicesAffected": [
+        "datasync",
+        "ec2",
+        "iam",
+        "logs"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "ec2:CreateNetworkInterfacePermission",
+        "iam:PassRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "datasync:AddStorageSystem",
+        "datasync:CancelTaskExecution",
+        "datasync:CreateTask",
+        "datasync:DeleteAgent",
+        "datasync:DeleteLocation",
+        "datasync:DeleteTask",
+        "datasync:GenerateRecommendations",
+        "datasync:RemoveStorageSystem",
+        "datasync:StartDiscoveryJob",
+        "datasync:StartTaskExecution",
+        "datasync:StopDiscoveryJob",
+        "datasync:TagResource",
+        "datasync:UntagResource",
+        "datasync:UpdateAgent",
+        "datasync:UpdateDiscoveryJob",
+        "datasync:UpdateLocationAzureBlob",
+        "datasync:UpdateLocationHdfs",
+        "datasync:UpdateLocationNfs",
+        "datasync:UpdateLocationObjectStorage",
+        "datasync:UpdateLocationSmb",
+        "datasync:UpdateStorageSystem",
+        "datasync:UpdateTask",
+        "datasync:UpdateTaskExecution",
+        "ec2:CreateNetworkInterface",
+        "ec2:CreateNetworkInterfacePermission",
+        "ec2:DeleteNetworkInterface",
+        "ec2:ModifyNetworkInterfaceAttribute",
+        "iam:PassRole",
+        "logs:CreateLogGroup"
+    ]
+}

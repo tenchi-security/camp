@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4L7DTGZPRO",
     "Arn": "arn:aws:iam::aws:policy/AWSElementalMediaLiveReadOnly",
     "Path": "/",
-    "DefaultVersionId": "v1",
+    "DefaultVersionId": "v2",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2020-07-08T16:38:07+00:00",
-    "UpdateDate": "2020-07-08T16:38:07+00:00"
+    "UpdateDate": "2024-07-22T17:08:46+00:00"
 }

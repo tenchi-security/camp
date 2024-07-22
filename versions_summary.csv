@@ -218,9 +218,10 @@
 "AmazonWorkMailReadOnlyAccess","v4",True,"2019-07-25T08:24:50+00:00",0,0,0,0,0,0,0
 "AmazonWorkMailReadOnlyAccess","v1",False,"2015-02-06T18:40:42+00:00",0,0,0,0,0,0,0
 "AWSDataSyncFullAccess","v3",False,"2020-06-30T17:58:58+00:00",1,4,0,2,0,0,15
+"AWSDataSyncFullAccess","v6",True,"2024-07-22T16:13:41+00:00",1,4,0,2,0,0,29
 "AWSDataSyncFullAccess","v2",False,"2020-01-24T17:59:16+00:00",1,4,0,2,0,0,15
 "AWSDataSyncFullAccess","v4",False,"2023-05-02T16:37:43+00:00",1,4,0,2,0,0,20
-"AWSDataSyncFullAccess","v5",True,"2024-02-16T17:19:28+00:00",1,4,0,2,0,0,29
+"AWSDataSyncFullAccess","v5",False,"2024-02-16T17:19:28+00:00",1,4,0,2,0,0,29
 "AWSDataSyncFullAccess","v1",False,"2019-01-18T19:40:36+00:00",1,4,0,2,0,0,15
 "IAMFullAccess","v2",True,"2019-06-21T19:40:00+00:00",1,1,10,79,0,5,90
 "IAMFullAccess","v1",False,"2015-02-06T18:40:38+00:00",1,1,10,79,0,5,90
@@ -1395,7 +1396,8 @@
 "AWSManagedServicesDeploymentToolkitPolicy","v2",False,"2023-01-30T22:10:28+00:00",0,0,0,0,0,0,0
 "AWSManagedServicesDeploymentToolkitPolicy","v4",True,"2024-04-04T20:41:54+00:00",0,0,0,0,0,0,0
 "AWSManagedServicesDeploymentToolkitPolicy","v1",False,"2022-06-09T18:33:03+00:00",0,0,0,0,0,0,0
-"AWSElementalMediaLiveReadOnly","v1",True,"2020-07-08T16:38:07+00:00",0,0,0,0,0,0,0
+"AWSElementalMediaLiveReadOnly","v2",True,"2024-07-22T17:08:46+00:00",0,0,0,0,0,0,0
+"AWSElementalMediaLiveReadOnly","v1",False,"2020-07-08T16:38:07+00:00",0,0,0,0,0,0,0
 "AmazonMQApiReadOnlyAccess","v1",True,"2018-12-18T20:31:13+00:00",0,0,0,0,0,0,0
 "AWSQuickSetupCFGCPacksPermissionsBoundary","v1",True,"2024-06-26T09:52:11+00:00",0,0,0,0,0,0,0
 "AWSChatbotServiceLinkedRolePolicy","v1",True,"2019-11-18T16:39:50+00:00",0,1,0,0,0,0,1
