@@ -2197,9 +2197,10 @@
 "AWSBackupOperatorAccess","v12",False,"2022-11-10T22:52:47+00:00",0,1,0,0,0,0,5
 "AWSBackupOperatorAccess","v2",False,"2020-01-13T16:15:02+00:00",0,1,0,0,0,0,5
 "AWSBackupOperatorAccess","v7",False,"2021-03-10T18:31:50+00:00",0,1,0,0,0,0,5
+"AWSBackupOperatorAccess","v16",True,"2024-07-24T18:58:33+00:00",0,1,0,0,0,0,5
 "AWSBackupOperatorAccess","v1",False,"2019-11-18T22:23:17+00:00",0,1,0,0,0,0,4
 "AWSBackupOperatorAccess","v4",False,"2020-06-24T16:24:21+00:00",0,1,0,0,0,0,5
-"AWSBackupOperatorAccess","v15",True,"2023-09-06T20:45:05+00:00",0,1,0,0,0,0,5
+"AWSBackupOperatorAccess","v15",False,"2023-09-06T20:45:05+00:00",0,1,0,0,0,0,5
 "AWSBackupOperatorAccess","v11",False,"2022-08-24T22:03:30+00:00",0,1,0,0,0,0,5
 "AWSBackupOperatorAccess","v14",False,"2023-08-08T18:19:48+00:00",0,1,0,0,0,0,5
 "AWSBackupOperatorAccess","v6",False,"2020-11-09T16:43:44+00:00",0,1,0,0,0,0,5
