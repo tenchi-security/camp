@@ -2322,7 +2322,8 @@
 "AWSIoTThingsRegistration","v3",True,"2020-10-05T19:20:12+00:00",0,1,0,3,0,0,12
 "AWSIoTThingsRegistration","v2",False,"2020-02-27T23:27:23+00:00",0,1,0,1,0,0,10
 "AWSIoTThingsRegistration","v1",False,"2017-12-01T20:21:52+00:00",0,1,0,1,0,0,8
-"AmazonConnectSynchronizationServiceRolePolicy","v1",True,"2023-10-27T22:38:25+00:00",0,1,0,0,0,0,75
+"AmazonConnectSynchronizationServiceRolePolicy","v2",True,"2024-07-24T17:45:43+00:00",0,1,0,0,0,0,66
+"AmazonConnectSynchronizationServiceRolePolicy","v1",False,"2023-10-27T22:38:25+00:00",0,1,0,0,0,0,75
 "ROSAInstallerPolicy","v3",False,"2024-04-10T20:52:53+00:00",0,3,0,1,0,0,6
 "ROSAInstallerPolicy","v2",False,"2024-01-26T21:04:47+00:00",0,3,0,1,0,0,6
 "ROSAInstallerPolicy","v1",False,"2023-06-06T21:00:31+00:00",0,3,0,1,0,0,6
@@ -2747,12 +2748,13 @@
 "AdministratorAccess-AWSElasticBeanstalk","v1",False,"2021-01-22T19:36:54+00:00",3,3,0,0,0,0,45
 "AmazonSageMakerNotebooksServiceRolePolicy","v5",False,"2020-08-28T22:39:39+00:00",0,3,0,2,0,0,14
 "AmazonSageMakerNotebooksServiceRolePolicy","v3",False,"2019-11-26T18:58:12+00:00",0,3,0,1,0,0,14
+"AmazonSageMakerNotebooksServiceRolePolicy","v9",True,"2024-07-24T18:05:40+00:00",0,3,0,2,0,0,15
 "AmazonSageMakerNotebooksServiceRolePolicy","v2",False,"2019-11-14T22:43:23+00:00",0,2,0,1,0,0,13
 "AmazonSageMakerNotebooksServiceRolePolicy","v7",False,"2023-03-09T18:20:35+00:00",0,3,0,2,0,0,15
 "AmazonSageMakerNotebooksServiceRolePolicy","v1",False,"2019-10-18T20:27:37+00:00",0,2,0,1,0,0,9
 "AmazonSageMakerNotebooksServiceRolePolicy","v4",False,"2020-04-02T21:13:37+00:00",0,3,0,1,0,0,14
 "AmazonSageMakerNotebooksServiceRolePolicy","v6",False,"2023-01-12T20:01:49+00:00",0,3,0,2,0,0,15
-"AmazonSageMakerNotebooksServiceRolePolicy","v8",True,"2024-05-22T19:18:48+00:00",0,3,0,2,0,0,15
+"AmazonSageMakerNotebooksServiceRolePolicy","v8",False,"2024-05-22T19:18:48+00:00",0,3,0,2,0,0,15
 "AlexaForBusinessDeviceSetup","v2",True,"2019-05-20T21:05:39+00:00",0,0,0,0,0,0,0
 "AlexaForBusinessDeviceSetup","v1",False,"2017-11-30T16:47:16+00:00",0,0,0,0,0,0,0
 "AWSApplicationDiscoveryAgentAccess","v2",True,"2020-02-24T22:26:45+00:00",0,0,0,0,0,0,0
