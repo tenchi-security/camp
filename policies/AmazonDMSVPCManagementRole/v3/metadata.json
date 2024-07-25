@@ -1,6 +1,6 @@
 {
     "VersionId": "v3",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2016-05-23T16:29:57+00:00",
     "PolicyName": "AmazonDMSVPCManagementRole"
 }
