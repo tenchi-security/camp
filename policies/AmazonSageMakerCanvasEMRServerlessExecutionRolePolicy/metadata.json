@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonSageMakerCanvasEMRServerlessExecutionRolePolicy",
+    "PolicyId": "ANPAZKAPJZG4ATKMS5NQP",
+    "Arn": "arn:aws:iam::aws:policy/AmazonSageMakerCanvasEMRServerlessExecutionRolePolicy",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2024-07-27T00:35:42+00:00",
+    "UpdateDate": "2024-07-27T00:35:42+00:00"
+}
