@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4ADLK3YDWW",
     "Arn": "arn:aws:iam::aws:policy/AmazonDataZoneFullUserAccess",
     "Path": "/",
-    "DefaultVersionId": "v7",
+    "DefaultVersionId": "v8",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2023-09-22T21:06:41+00:00",
-    "UpdateDate": "2024-06-27T15:18:19+00:00"
+    "UpdateDate": "2024-08-01T18:29:25+00:00"
 }
