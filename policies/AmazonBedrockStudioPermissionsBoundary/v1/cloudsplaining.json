@@ -1,0 +1,20 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "aoss",
+        "bedrock",
+        "kms"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "aoss:APIAccessAll",
+        "bedrock:StartIngestionJob",
+        "bedrock:TagResource",
+        "bedrock:UntagResource",
+        "kms:Decrypt",
+        "kms:GenerateDataKey"
+    ]
+}
