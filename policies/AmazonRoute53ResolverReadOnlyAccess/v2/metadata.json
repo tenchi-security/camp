@@ -1,6 +1,6 @@
 {
     "VersionId": "v2",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2019-09-27T16:37:48+00:00",
     "PolicyName": "AmazonRoute53ResolverReadOnlyAccess"
 }

@@ -1,0 +1,6 @@
+{
+    "VersionId": "v3",
+    "IsDefaultVersion": true,
+    "CreateDate": "2024-08-05T20:06:08+00:00",
+    "PolicyName": "AmazonRoute53ResolverFullAccess"
+}
