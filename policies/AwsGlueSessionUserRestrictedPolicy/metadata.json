@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4MG6ZEY4WF",
     "Arn": "arn:aws:iam::aws:policy/AwsGlueSessionUserRestrictedPolicy",
     "Path": "/",
-    "DefaultVersionId": "v2",
+    "DefaultVersionId": "v3",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2022-04-14T21:31:01+00:00",
-    "UpdateDate": "2024-04-29T22:45:28+00:00"
+    "UpdateDate": "2024-08-05T23:06:45+00:00"
 }

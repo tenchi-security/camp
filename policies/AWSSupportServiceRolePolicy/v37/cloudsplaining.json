@@ -1,0 +1,21 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "quicksight",
+        "transfer"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "quicksight:DescribeDataSetPermissions",
+        "quicksight:DescribeDataSourcePermissions",
+        "quicksight:DescribeTopicPermissions"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "quicksight:DescribeDataSetPermissions",
+        "quicksight:DescribeDataSourcePermissions",
+        "quicksight:DescribeTopicPermissions",
+        "transfer:SendWorkflowStepState"
+    ]
+}
