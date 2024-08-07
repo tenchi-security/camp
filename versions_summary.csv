@@ -3758,7 +3758,8 @@
 "AmazonElasticFileSystemReadOnlyAccess","v6",False,"2021-05-10T14:20:55+00:00",0,0,0,0,0,0,0
 "AmazonElasticFileSystemReadOnlyAccess","v5",False,"2020-07-16T16:46:50+00:00",0,0,0,0,0,0,0
 "AmazonElasticFileSystemReadOnlyAccess","v1",False,"2015-05-27T16:25:25+00:00",0,0,0,0,0,0,0
-"AmazonElasticFileSystemReadOnlyAccess","v7",True,"2022-01-10T18:53:37+00:00",0,0,0,0,0,0,0
+"AmazonElasticFileSystemReadOnlyAccess","v8",True,"2024-08-07T16:59:47+00:00",0,0,0,0,0,0,0
+"AmazonElasticFileSystemReadOnlyAccess","v7",False,"2022-01-10T18:53:37+00:00",0,0,0,0,0,0,0
 "AmazonElasticFileSystemReadOnlyAccess","v3",False,"2017-08-14T10:09:49+00:00",0,0,0,0,0,0,0
 "AmazonElasticFileSystemReadOnlyAccess","v4",False,"2020-01-13T16:16:12+00:00",0,0,0,0,0,0,0
 "AmazonLookoutVisionConsoleFullAccess","v1",True,"2021-05-11T19:37:17+00:00",1,1,0,0,0,0,8
