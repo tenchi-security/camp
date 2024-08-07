@@ -1197,9 +1197,10 @@
 "AmazonRDSBetaServiceRolePolicy","v1",False,"2018-05-02T19:41:04+00:00",0,2,0,0,0,0,8
 "AmazonRDSBetaServiceRolePolicy","v4",False,"2020-07-28T19:26:48+00:00",0,2,0,0,0,0,11
 "AmazonRDSBetaServiceRolePolicy","v6",False,"2022-02-22T20:46:59+00:00",0,2,0,0,0,0,15
+"AmazonRDSBetaServiceRolePolicy","v9",True,"2024-08-07T00:54:21+00:00",0,1,0,0,0,0,18
 "AmazonRDSBetaServiceRolePolicy","v3",False,"2018-07-05T18:29:48+00:00",0,2,0,0,0,0,11
 "AmazonRDSBetaServiceRolePolicy","v2",False,"2018-05-08T22:28:12+00:00",0,2,0,0,0,0,10
-"AmazonRDSBetaServiceRolePolicy","v8",True,"2022-12-14T18:33:17+00:00",0,2,0,0,0,0,17
+"AmazonRDSBetaServiceRolePolicy","v8",False,"2022-12-14T18:33:17+00:00",0,2,0,0,0,0,17
 "AmazonRDSBetaServiceRolePolicy","v5",False,"2020-11-18T22:40:34+00:00",0,2,0,0,0,0,15
 "CloudWatchApplicationSignalsReadOnlyAccess","v1",True,"2024-06-06T22:48:30+00:00",0,0,0,0,0,0,0
 "AWSImageBuilderFullAccess","v1",False,"2019-12-20T18:25:12+00:00",1,1,0,4,0,0,25
@@ -1209,9 +1210,10 @@
 "AmazonRDSPreviewServiceRolePolicy","v1",False,"2018-05-31T18:02:00+00:00",0,2,0,0,0,0,8
 "AmazonRDSPreviewServiceRolePolicy","v4",False,"2020-11-19T19:54:51+00:00",0,2,0,0,0,0,12
 "AmazonRDSPreviewServiceRolePolicy","v6",False,"2022-06-07T16:55:33+00:00",0,2,0,0,0,0,14
+"AmazonRDSPreviewServiceRolePolicy","v9",True,"2024-08-07T01:02:38+00:00",0,1,0,0,0,0,15
 "AmazonRDSPreviewServiceRolePolicy","v3",False,"2020-10-21T22:28:54+00:00",0,2,0,0,0,0,8
 "AmazonRDSPreviewServiceRolePolicy","v2",False,"2020-07-29T00:05:20+00:00",0,2,0,0,0,0,8
-"AmazonRDSPreviewServiceRolePolicy","v8",True,"2023-10-04T19:01:52+00:00",0,2,0,0,0,0,16
+"AmazonRDSPreviewServiceRolePolicy","v8",False,"2023-10-04T19:01:52+00:00",0,2,0,0,0,0,16
 "AmazonRDSPreviewServiceRolePolicy","v5",False,"2022-02-22T20:46:58+00:00",0,2,0,0,0,0,12
 "AmazonElasticFileSystemReadOnlyAccess","v7",True,"2022-01-10T18:53:37+00:00",0,0,0,0,0,0,0
 "AmazonElasticFileSystemReadOnlyAccess","v1",False,"2015-05-27T16:25:25+00:00",0,0,0,0,0,0,0
