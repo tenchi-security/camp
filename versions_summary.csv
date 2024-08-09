@@ -499,6 +499,7 @@
 "AWSElasticDisasterRecoveryLaunchActionsPolicy","v2",False,"2023-10-16T12:28:44+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryLaunchActionsPolicy","v1",False,"2023-09-13T07:38:26+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryLaunchActionsPolicy","v3",True,"2024-05-19T07:29:42+00:00",0,0,0,0,0,0,0
+"AmazonWorkSpacesThinClientFullAccess","v1",True,"2024-08-09T07:25:24+00:00",1,1,0,0,0,0,8
 "AWSMigrationHubOrchestratorConsoleFullAccess","v2",True,"2023-12-05T17:34:16+00:00",1,2,0,1,0,0,14
 "AWSMigrationHubOrchestratorConsoleFullAccess","v1",False,"2022-04-20T02:26:28+00:00",1,1,0,1,0,0,1
 "DAXServiceRolePolicy","v1",True,"2018-03-05T17:51:25+00:00",0,1,0,0,0,0,7
@@ -3322,7 +3323,8 @@
 "AWSMarketplaceSellerProductsFullAccess","v3",False,"2020-10-09T22:22:38+00:00",0,1,0,1,0,0,2
 "AWSMarketplaceSellerProductsFullAccess","v4",False,"2021-11-26T18:50:50+00:00",0,1,0,1,0,0,2
 "ROSAKMSProviderPolicy","v1",True,"2023-04-27T20:10:20+00:00",0,1,0,0,0,0,2
-"AmazonWorkSpacesThinClientReadOnlyAccess","v1",True,"2024-07-19T08:50:52+00:00",0,0,0,0,0,0,0
+"AmazonWorkSpacesThinClientReadOnlyAccess","v2",True,"2024-08-09T07:11:12+00:00",0,0,0,0,0,0,0
+"AmazonWorkSpacesThinClientReadOnlyAccess","v1",False,"2024-07-19T08:50:52+00:00",0,0,0,0,0,0,0
 "AWSCodePipeline_ReadOnlyAccess","v1",True,"2020-08-03T22:25:17+00:00",0,0,0,0,0,0,0
 "AmazonDataZoneRedshiftGlueProvisioningPolicy","v2",False,"2023-09-23T00:50:47+00:00",0,6,0,0,0,0,12
 "AmazonDataZoneRedshiftGlueProvisioningPolicy","v1",False,"2023-09-22T20:19:54+00:00",0,6,0,0,0,0,12

@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonWorkSpacesThinClientFullAccess",
+    "PolicyId": "ANPAZKAPJZG4ADQB7X4NV",
+    "Arn": "arn:aws:iam::aws:policy/AmazonWorkSpacesThinClientFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2024-08-09T07:25:24+00:00",
+    "UpdateDate": "2024-08-09T07:25:24+00:00"
+}

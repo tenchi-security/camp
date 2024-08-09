@@ -1,0 +1,22 @@
+{
+    "ServiceWildcard": [
+        "thinclient"
+    ],
+    "ServicesAffected": [
+        "thinclient"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "thinclient:DeleteDevice",
+        "thinclient:DeleteEnvironment",
+        "thinclient:DeregisterDevice",
+        "thinclient:TagResource",
+        "thinclient:UntagResource",
+        "thinclient:UpdateDevice",
+        "thinclient:UpdateEnvironment",
+        "thinclient:UpdateSoftwareSet"
+    ]
+}
