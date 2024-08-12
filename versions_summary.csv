@@ -3429,7 +3429,8 @@
 "AWSIoTRuleActions","v1",False,"2015-10-08T15:14:51+00:00",0,6,0,0,0,0,7
 "AWSCloudMapDiscoverInstanceAccess","v2",True,"2023-09-20T21:48:09+00:00",0,0,0,0,0,0,0
 "AWSCloudMapDiscoverInstanceAccess","v1",False,"2018-11-29T00:02:42+00:00",0,0,0,0,0,0,0
-"SSMQuickSetupRolePolicy","v1",True,"2024-06-25T15:20:04+00:00",0,0,0,0,0,0,0
+"SSMQuickSetupRolePolicy","v2",True,"2024-08-12T14:32:20+00:00",0,0,0,0,0,0,0
+"SSMQuickSetupRolePolicy","v1",False,"2024-06-25T15:20:04+00:00",0,0,0,0,0,0,0
 "FSxDeleteServiceLinkedRoleAccess","v1",True,"2018-11-28T10:40:24+00:00",0,0,0,0,0,0,0
 "AWSDataSyncReadOnlyAccess","v2",False,"2020-01-24T17:59:11+00:00",0,0,0,0,0,0,0
 "AWSDataSyncReadOnlyAccess","v1",False,"2019-01-18T19:18:44+00:00",0,0,0,0,0,0,0
