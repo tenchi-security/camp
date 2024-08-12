@@ -1,0 +1,15 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "iam"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:CreateServiceLinkedRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "iam:CreateServiceLinkedRole"
+    ]
+}
