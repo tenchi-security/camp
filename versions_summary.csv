@@ -1352,13 +1352,14 @@
 "AmazonECS_FullAccess","v15",False,"2019-02-04T18:44:48+00:00",1,12,0,2,0,0,84
 "AmazonECS_FullAccess","v16",False,"2019-06-20T17:53:43+00:00",1,12,0,2,0,0,84
 "AmazonECS_FullAccess","v19",False,"2020-10-12T21:02:23+00:00",1,12,0,2,0,0,84
-"AmazonECS_FullAccess","v20",True,"2023-01-04T16:26:05+00:00",1,12,0,2,0,0,87
+"AmazonECS_FullAccess","v20",False,"2023-01-04T16:26:05+00:00",1,12,0,2,0,0,87
 "AmazonECS_FullAccess","v7",False,"2018-04-10T21:19:46+00:00",1,11,0,2,0,0,76
 "AmazonECS_FullAccess","v3",False,"2017-11-24T17:57:00+00:00",1,9,0,1,0,0,70
 "AmazonECS_FullAccess","v4",False,"2017-12-27T23:30:50+00:00",1,9,0,2,0,0,71
 "AmazonECS_FullAccess","v13",False,"2018-11-21T23:34:33+00:00",1,12,0,2,0,0,83
 "AmazonECS_FullAccess","v17",False,"2020-03-23T19:56:42+00:00",1,12,0,2,0,0,84
 "AmazonECS_FullAccess","v9",False,"2018-07-23T17:54:23+00:00",1,11,0,2,0,0,77
+"AmazonECS_FullAccess","v21",True,"2024-08-13T19:39:37+00:00",1,13,0,2,0,0,94
 "ServerMigrationServiceRoleForInstanceValidation","v1",True,"2020-07-20T22:25:07+00:00",0,0,0,0,0,0,0
 "AWSConfigRulesExecutionRole","v2",False,"2018-12-20T22:16:14+00:00",0,1,0,0,0,0,5
 "AWSConfigRulesExecutionRole","v1",False,"2016-03-25T17:59:36+00:00",0,1,0,0,0,0,5
