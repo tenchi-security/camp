@@ -1,0 +1,16 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "codeguru-security",
+        "ecr"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [
+        "ecr:GetAuthorizationToken"
+    ],
+    "InfrastructureModification": [
+        "codeguru-security:CreateScan"
+    ]
+}
