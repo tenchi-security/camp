@@ -1853,10 +1853,11 @@
 "AmazonESReadOnlyAccess","v1",False,"2015-10-01T19:18:24+00:00",0,0,0,0,0,0,0
 "AWSDataExchangeProviderFullAccess","v2",False,"2019-11-25T16:25:47+00:00",0,2,0,0,0,0,12
 "AWSDataExchangeProviderFullAccess","v6",False,"2021-05-10T21:11:47+00:00",0,2,0,0,0,0,12
+"AWSDataExchangeProviderFullAccess","v12",True,"2024-08-15T17:32:54+00:00",0,4,0,1,0,0,22
 "AWSDataExchangeProviderFullAccess","v5",False,"2021-01-14T21:20:09+00:00",0,2,0,0,0,0,12
 "AWSDataExchangeProviderFullAccess","v10",False,"2021-12-02T16:12:19+00:00",0,3,0,1,0,0,14
 "AWSDataExchangeProviderFullAccess","v1",False,"2019-11-13T19:27:55+00:00",0,2,0,0,0,0,10
-"AWSDataExchangeProviderFullAccess","v11",True,"2022-03-15T16:16:20+00:00",0,4,0,1,0,0,19
+"AWSDataExchangeProviderFullAccess","v11",False,"2022-03-15T16:16:20+00:00",0,4,0,1,0,0,19
 "AWSDataExchangeProviderFullAccess","v8",False,"2021-11-01T15:13:01+00:00",0,3,0,1,0,0,14
 "AWSDataExchangeProviderFullAccess","v7",False,"2021-05-25T19:26:14+00:00",0,2,0,0,0,0,12
 "AWSDataExchangeProviderFullAccess","v3",False,"2020-04-08T15:27:08+00:00",0,2,0,0,0,0,12
