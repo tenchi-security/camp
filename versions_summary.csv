@@ -3307,7 +3307,8 @@
 "AmazonRoute53RecoveryReadinessFullAccess","v1",True,"2021-08-18T16:45:07+00:00",1,0,0,0,0,0,0
 "AmazonSageMakerCanvasDataPrepFullAccess","v2",False,"2023-12-08T02:53:24+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerCanvasDataPrepFullAccess","v1",False,"2023-10-27T22:56:13+00:00",0,0,0,0,0,0,0
-"AmazonSageMakerCanvasDataPrepFullAccess","v3",True,"2024-07-18T23:21:28+00:00",0,0,0,0,0,0,0
+"AmazonSageMakerCanvasDataPrepFullAccess","v3",False,"2024-07-18T23:21:28+00:00",0,0,0,0,0,0,0
+"AmazonSageMakerCanvasDataPrepFullAccess","v4",True,"2024-08-16T18:11:13+00:00",0,0,0,0,0,0,0
 "AmazonKeyspacesReadOnlyAccess","v2",False,"2021-06-01T19:32:47+00:00",0,0,0,0,0,0,0
 "AmazonKeyspacesReadOnlyAccess","v1",False,"2020-04-23T17:07:14+00:00",0,0,0,0,0,0,0
 "AmazonKeyspacesReadOnlyAccess","v3",True,"2022-07-07T14:54:05+00:00",0,0,0,0,0,0,0
