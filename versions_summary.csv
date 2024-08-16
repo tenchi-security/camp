@@ -3632,8 +3632,9 @@
 "AmazonSageMakerCanvasFullAccess","v2",False,"2022-12-06T23:10:32+00:00",0,4,0,0,0,1,3
 "AmazonSageMakerCanvasFullAccess","v6",False,"2023-08-29T19:06:22+00:00",0,4,0,0,0,1,3
 "AmazonSageMakerCanvasFullAccess","v5",False,"2023-07-24T23:16:37+00:00",0,4,0,0,0,1,3
-"AmazonSageMakerCanvasFullAccess","v10",True,"2024-07-09T23:10:27+00:00",0,4,0,0,0,1,3
+"AmazonSageMakerCanvasFullAccess","v10",False,"2024-07-09T23:10:27+00:00",0,4,0,0,0,1,3
 "AmazonSageMakerCanvasFullAccess","v1",False,"2022-09-09T00:44:25+00:00",0,4,0,0,0,1,3
+"AmazonSageMakerCanvasFullAccess","v11",True,"2024-08-16T04:35:23+00:00",0,4,0,0,0,1,3
 "AmazonSageMakerCanvasFullAccess","v8",False,"2023-12-09T00:58:33+00:00",0,4,0,0,0,1,3
 "AmazonSageMakerCanvasFullAccess","v7",False,"2023-09-30T00:15:42+00:00",0,4,0,0,0,1,3
 "AmazonSageMakerCanvasFullAccess","v3",False,"2023-03-24T15:28:26+00:00",0,4,0,0,0,1,3
