@@ -1,6 +1,6 @@
 {
     "VersionId": "v5",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2023-07-06T22:04:00+00:00",
     "PolicyName": "PowerUserAccess"
 }
