@@ -1972,7 +1972,8 @@
 "AmazonOpenSearchServiceRolePolicy","v6",False,"2022-10-13T14:05:59+00:00",0,0,0,0,0,0,0
 "AmazonOpenSearchServiceRolePolicy","v5",False,"2022-09-12T15:03:06+00:00",0,0,0,0,0,0,0
 "AmazonOpenSearchServiceRolePolicy","v1",False,"2021-08-26T09:27:09+00:00",0,0,0,0,0,0,0
-"AmazonOpenSearchServiceRolePolicy","v7",True,"2023-10-23T07:07:31+00:00",0,0,0,0,0,0,0
+"AmazonOpenSearchServiceRolePolicy","v8",True,"2024-08-20T22:57:07+00:00",0,0,0,0,0,0,0
+"AmazonOpenSearchServiceRolePolicy","v7",False,"2023-10-23T07:07:31+00:00",0,0,0,0,0,0,0
 "AmazonOpenSearchServiceRolePolicy","v3",False,"2021-09-09T10:43:21+00:00",0,0,0,0,0,0,0
 "AmazonOpenSearchServiceRolePolicy","v4",False,"2022-07-28T13:10:24+00:00",0,0,0,0,0,0,0
 "AWSGroundStationAgentInstancePolicy","v1",True,"2023-03-29T15:23:12+00:00",0,0,0,0,0,0,0
