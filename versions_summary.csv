@@ -1567,7 +1567,8 @@
 "CloudWatchAgentServerPolicy","v2",False,"2019-10-17T23:08:51+00:00",0,1,0,0,0,0,3
 "CloudWatchAgentServerPolicy","v1",False,"2018-03-07T01:06:44+00:00",0,1,0,0,0,0,3
 "CloudWatchAgentServerPolicy","v3",True,"2024-02-06T16:37:37+00:00",0,1,0,0,0,0,4
-"AmazonBedrockReadOnly","v1",True,"2023-12-06T15:48:19+00:00",0,0,0,0,0,0,0
+"AmazonBedrockReadOnly","v2",True,"2024-08-21T16:04:18+00:00",0,0,0,0,0,0,0
+"AmazonBedrockReadOnly","v1",False,"2023-12-06T15:48:19+00:00",0,0,0,0,0,0,0
 "AmazonOneEnterpriseInstallerAccess","v1",True,"2023-11-28T05:00:39+00:00",0,0,0,0,0,0,0
 "AmazonSSMReadOnlyAccess","v1",True,"2015-05-29T17:44:19+00:00",0,1,0,0,3,0,3
 "AWSVPCVerifiedAccessServiceRolePolicy","v2",False,"2023-06-01T16:28:50+00:00",0,0,0,0,0,0,0
@@ -3764,10 +3765,11 @@
 "AWSServiceRoleForAmazonEKSNodegroup","v6",False,"2022-01-14T00:33:26+00:00",0,3,0,3,0,0,16
 "AWSServiceRoleForAmazonEKSNodegroup","v5",False,"2020-08-31T19:07:38+00:00",0,3,0,3,0,0,16
 "AWSServiceRoleForAmazonEKSNodegroup","v1",False,"2019-11-07T01:34:26+00:00",0,3,0,4,0,0,16
-"AWSServiceRoleForAmazonEKSNodegroup","v8",True,"2024-06-27T21:03:09+00:00",0,3,0,3,0,0,16
+"AWSServiceRoleForAmazonEKSNodegroup","v8",False,"2024-06-27T21:03:09+00:00",0,3,0,3,0,0,16
 "AWSServiceRoleForAmazonEKSNodegroup","v7",False,"2024-01-04T20:37:13+00:00",0,3,0,3,0,0,16
 "AWSServiceRoleForAmazonEKSNodegroup","v3",False,"2020-02-21T20:40:41+00:00",0,3,0,4,0,0,16
 "AWSServiceRoleForAmazonEKSNodegroup","v4",False,"2020-03-06T22:14:53+00:00",0,3,0,4,0,0,16
+"AWSServiceRoleForAmazonEKSNodegroup","v9",True,"2024-08-21T15:51:37+00:00",0,3,0,3,0,0,16
 "AWSIoTSiteWiseConsoleFullAccess","v1",True,"2019-05-31T21:37:49+00:00",1,3,0,0,0,0,33
 "ClientVPNServiceConnectionsRolePolicy","v1",True,"2020-08-12T19:48:06+00:00",0,0,0,0,0,0,0
 "AmazonElasticFileSystemReadOnlyAccess","v2",False,"2017-07-26T16:17:01+00:00",0,0,0,0,0,0,0
