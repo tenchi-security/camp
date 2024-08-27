@@ -1,6 +1,6 @@
 {
     "VersionId": "v1",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2024-04-30T18:29:25+00:00",
     "PolicyName": "AmazonRoute53ProfilesReadOnlyAccess"
 }

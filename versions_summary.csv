@@ -1415,7 +1415,8 @@
 "AWSMigrationHubOrchestratorPlugin","v1",True,"2022-04-20T02:25:10+00:00",0,0,0,0,0,0,0
 "AWSStorageGatewayFullAccess","v2",True,"2022-09-06T20:26:09+00:00",1,2,0,4,0,0,58
 "AWSStorageGatewayFullAccess","v1",False,"2015-02-06T18:41:09+00:00",1,2,0,4,0,0,54
-"AmazonRoute53ProfilesFullAccess","v1",True,"2024-04-30T18:30:29+00:00",0,0,0,0,0,0,0
+"AmazonRoute53ProfilesFullAccess","v2",True,"2024-08-27T19:18:18+00:00",0,1,0,0,0,0,2
+"AmazonRoute53ProfilesFullAccess","v1",False,"2024-04-30T18:30:29+00:00",0,0,0,0,0,0,0
 "AWSPanoramaApplianceServiceRolePolicy","v2",True,"2023-01-17T21:32:36+00:00",0,0,0,0,0,0,0
 "AWSPanoramaApplianceServiceRolePolicy","v1",False,"2021-10-20T12:14:03+00:00",0,1,0,0,0,0,1
 "AmazonRoute53ReadOnlyAccess","v2",True,"2016-11-15T21:15:16+00:00",0,0,0,0,0,0,0
@@ -2386,7 +2387,8 @@
 "AWSMigrationHubRefactorSpaces-EnvironmentsWithoutBridgesFullAccess","v2",False,"2023-07-20T15:39:19+00:00",1,5,0,2,0,0,17
 "AWSMigrationHubRefactorSpaces-EnvironmentsWithoutBridgesFullAccess","v1",False,"2023-04-03T20:09:48+00:00",1,5,0,2,0,0,17
 "AWSMigrationHubRefactorSpaces-EnvironmentsWithoutBridgesFullAccess","v3",True,"2024-04-11T18:16:48+00:00",1,5,0,2,0,0,17
-"AmazonRoute53ProfilesReadOnlyAccess","v1",True,"2024-04-30T18:29:25+00:00",0,0,0,0,0,0,0
+"AmazonRoute53ProfilesReadOnlyAccess","v2",True,"2024-08-27T18:59:57+00:00",0,0,0,0,0,0,0
+"AmazonRoute53ProfilesReadOnlyAccess","v1",False,"2024-04-30T18:29:25+00:00",0,0,0,0,0,0,0
 "AmazonQLDBConsoleFullAccess","v2",False,"2020-05-19T17:45:54+00:00",1,1,0,0,0,0,12
 "AmazonQLDBConsoleFullAccess","v5",True,"2022-11-04T17:01:10+00:00",1,2,0,1,0,0,22
 "AmazonQLDBConsoleFullAccess","v1",False,"2019-09-05T18:24:20+00:00",1,1,0,0,0,0,10

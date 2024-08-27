@@ -1,0 +1,14 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "route53profiles"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "route53profiles:TagResource",
+        "route53profiles:UntagResource"
+    ]
+}
