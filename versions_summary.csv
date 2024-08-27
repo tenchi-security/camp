@@ -219,6 +219,7 @@
 "AmazonKendraReadOnlyAccess","v1",False,"2019-12-03T16:13:45+00:00",0,0,0,0,0,0,0
 "AWSArtifactReportsReadOnlyAccess","v1",True,"2024-01-02T22:42:58+00:00",0,0,0,0,0,0,0
 "SplitCostAllocationDataServiceRolePolicy","v1",True,"2024-04-16T16:05:16+00:00",0,0,0,0,0,0,0
+"AWSPCSServiceRolePolicy","v1",True,"2024-08-27T16:01:15+00:00",0,1,0,0,0,0,1
 "AmazonCognitoReadOnly","v2",False,"2016-06-02T17:30:24+00:00",0,1,0,1,0,3,0
 "AmazonCognitoReadOnly","v1",False,"2015-03-24T17:06:46+00:00",0,1,0,1,0,3,0
 "AmazonCognitoReadOnly","v3",False,"2019-02-16T00:18:11+00:00",0,1,0,1,0,3,0
