@@ -3988,6 +3988,7 @@
 "ROSAKubeControllerPolicy","v1",False,"2023-04-27T20:09:29+00:00",0,1,0,0,0,0,8
 "ROSAKubeControllerPolicy","v2",False,"2023-07-18T21:45:19+00:00",0,1,0,0,0,0,21
 "ROSAKubeControllerPolicy","v3",True,"2023-10-16T18:17:05+00:00",0,1,0,0,0,0,21
+"AmazonSageMakerHyperPodServiceRolePolicy","v1",True,"2024-09-06T17:04:30+00:00",0,0,0,0,0,0,0
 "AmazonWorkspacesPCAAccess","v1",True,"2022-11-08T00:25:55+00:00",0,0,0,0,0,0,0
 "AWSBillingConductorFullAccess","v1",True,"2022-04-13T18:02:29+00:00",1,0,0,0,0,0,0
 "AWSServiceRolePolicyForBackupRestoreTesting","v1",False,"2023-11-10T23:37:45+00:00",0,6,0,1,0,0,10
