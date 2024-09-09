@@ -1107,7 +1107,8 @@
 "AmazonNimbleStudio-StudioAdmin","v2",False,"2021-11-01T20:02:36+00:00",0,3,0,1,0,0,12
 "AmazonNimbleStudio-StudioAdmin","v3",False,"2022-12-20T19:25:22+00:00",0,3,0,2,0,0,15
 "AmazonNimbleStudio-StudioAdmin","v4",True,"2023-09-22T17:40:41+00:00",0,3,0,2,0,0,15
-"AWSSupportPlansReadOnlyAccess","v1",True,"2022-09-27T18:08:29+00:00",0,0,0,0,0,0,0
+"AWSSupportPlansReadOnlyAccess","v1",False,"2022-09-27T18:08:29+00:00",0,0,0,0,0,0,0
+"AWSSupportPlansReadOnlyAccess","v2",True,"2024-09-09T21:21:02+00:00",0,0,0,0,0,0,0
 "AmazonFSxFullAccess","v1",False,"2018-11-28T16:34:43+00:00",1,2,0,2,0,0,13
 "AmazonFSxFullAccess","v2",False,"2021-06-08T12:05:31+00:00",1,2,0,2,0,0,13
 "AmazonFSxFullAccess","v5",False,"2023-04-19T20:43:42+00:00",1,2,0,3,0,0,35
@@ -2208,7 +2209,8 @@
 "AWSCodeBuildAdminAccess","v13",False,"2023-07-31T23:06:23+00:00",1,3,0,2,0,0,37
 "AWSCodeBuildAdminAccess","v4",False,"2018-07-19T18:19:35+00:00",1,1,0,4,0,0,25
 "AWSSupportPlansFullAccess","v1",False,"2022-09-27T18:19:30+00:00",0,0,0,0,0,0,0
-"AWSSupportPlansFullAccess","v2",True,"2023-05-09T21:07:01+00:00",0,0,0,0,0,0,0
+"AWSSupportPlansFullAccess","v2",False,"2023-05-09T21:07:01+00:00",0,0,0,0,0,0,0
+"AWSSupportPlansFullAccess","v3",True,"2024-09-09T21:15:14+00:00",0,0,0,0,0,0,0
 "AmazonEKSLocalOutpostClusterPolicy","v1",False,"2022-08-24T21:56:47+00:00",0,2,0,0,0,1,2
 "AmazonEKSLocalOutpostClusterPolicy","v2",False,"2022-09-01T16:30:43+00:00",0,2,0,0,0,1,2
 "AmazonEKSLocalOutpostClusterPolicy","v3",True,"2022-10-17T16:02:34+00:00",0,2,0,0,0,1,2

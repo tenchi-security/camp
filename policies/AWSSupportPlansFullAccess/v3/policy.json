@@ -1,0 +1,16 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": [
+                "supportplans:GetSupportPlan",
+                "supportplans:GetSupportPlanUpdateStatus",
+                "supportplans:ListSupportPlanModifiers",
+                "supportplans:StartSupportPlanUpdate",
+                "supportplans:CreateSupportPlanSchedule"
+            ],
+            "Resource": "*"
+        }
+    ]
+}
