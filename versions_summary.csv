@@ -3358,7 +3358,8 @@
 "AmazonSageMakerCanvasDirectDeployAccess","v1",True,"2023-10-06T18:11:53+00:00",0,0,0,0,0,0,0
 "AWSReachabilityAnalyzerServiceRolePolicy","v1",False,"2022-11-23T17:12:28+00:00",0,0,0,0,0,0,0
 "AWSReachabilityAnalyzerServiceRolePolicy","v2",False,"2023-06-23T21:04:06+00:00",0,0,0,0,0,0,0
-"AWSReachabilityAnalyzerServiceRolePolicy","v3",True,"2024-05-15T20:49:51+00:00",0,0,0,0,0,0,0
+"AWSReachabilityAnalyzerServiceRolePolicy","v3",False,"2024-05-15T20:49:51+00:00",0,0,0,0,0,0,0
+"AWSReachabilityAnalyzerServiceRolePolicy","v4",True,"2024-09-10T16:04:52+00:00",0,0,0,0,0,0,0
 "AmazonDetectiveServiceLinkedRolePolicy","v1",True,"2021-11-18T19:47:32+00:00",0,0,0,0,0,0,0
 "AWSServiceRoleForCloudWatchMetrics_DbPerfInsightsServiceRolePolicy","v1",True,"2023-09-07T09:32:32+00:00",0,0,0,0,0,0,0
 "AlexaForBusinessPolyDelegatedAccessPolicy","v1",True,"2019-10-16T19:48:45+00:00",0,1,0,0,0,0,4
