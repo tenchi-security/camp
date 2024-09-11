@@ -1,0 +1,259 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "AllowConnectActions",
+            "Effect": "Allow",
+            "Action": [
+                "connect:*"
+            ],
+            "Resource": [
+                "*"
+            ]
+        },
+        {
+            "Sid": "AllowDeleteSLR",
+            "Effect": "Allow",
+            "Action": [
+                "iam:DeleteRole"
+            ],
+            "Resource": "arn:aws:iam::*:role/aws-service-role/connect.amazonaws.com/AWSServiceRoleForAmazonConnect_*"
+        },
+        {
+            "Sid": "AllowS3ObjectForConnectBucket",
+            "Effect": "Allow",
+            "Action": [
+                "s3:GetObject",
+                "s3:GetObjectAcl",
+                "s3:PutObject",
+                "s3:PutObjectAcl",
+                "s3:DeleteObject"
+            ],
+            "Resource": [
+                "arn:aws:s3:::amazon-connect-*/*"
+            ]
+        },
+        {
+            "Sid": "AllowGetBucketMetadataForConnectBucket",
+            "Effect": "Allow",
+            "Action": [
+                "s3:GetBucketLocation",
+                "s3:GetBucketAcl"
+            ],
+            "Resource": [
+                "arn:aws:s3:::amazon-connect-*"
+            ]
+        },
+        {
+            "Sid": "AllowConnectLogGroupAccess",
+            "Effect": "Allow",
+            "Action": [
+                "logs:CreateLogStream",
+                "logs:DescribeLogStreams",
+                "logs:PutLogEvents"
+            ],
+            "Resource": [
+                "arn:aws:logs:*:*:log-group:/aws/connect/*:*"
+            ]
+        },
+        {
+            "Sid": "AllowListLexBotAccess",
+            "Effect": "Allow",
+            "Action": [
+                "lex:ListBots",
+                "lex:ListBotAliases"
+            ],
+            "Resource": "*"
+        },
+        {
+            "Sid": "AllowCustomerProfilesForConnectDomain",
+            "Effect": "Allow",
+            "Action": [
+                "profile:SearchProfiles",
+                "profile:CreateProfile",
+                "profile:UpdateProfile",
+                "profile:AddProfileKey",
+                "profile:ListProfileObjectTypes",
+                "profile:ListCalculatedAttributeDefinitions",
+                "profile:ListCalculatedAttributesForProfile",
+                "profile:GetDomain",
+                "profile:ListIntegrations",
+                "profile:ListSegmentDefinitions",
+                "profile:ListProfileAttributeValues",
+                "profile:CreateSegmentEstimate",
+                "profile:GetSegmentEstimate",
+                "profile:BatchGetProfile",
+                "profile:BatchGetCalculatedAttributeForProfile",
+                "profile:GetSegmentMembership"
+            ],
+            "Resource": "arn:aws:profile:*:*:domains/amazon-connect-*"
+        },
+        {
+            "Sid": "AllowReadPermissionForCustomerProfileObjects",
+            "Effect": "Allow",
+            "Action": [
+                "profile:ListProfileObjects",
+                "profile:GetProfileObjectType",
+                "profile:ListObjectTypeAttributes"
+            ],
+            "Resource": [
+                "arn:aws:profile:*:*:domains/amazon-connect-*/object-types/*"
+            ]
+        },
+        {
+            "Sid": "AllowListIntegrationForCustomerProfile",
+            "Effect": "Allow",
+            "Action": [
+                "profile:ListAccountIntegrations"
+            ],
+            "Resource": "*"
+        },
+        {
+            "Sid": "AllowReadForCustomerProfileObjectTemplates",
+            "Effect": "Allow",
+            "Action": [
+                "profile:ListProfileObjectTypeTemplates",
+                "profile:GetProfileObjectTypeTemplate"
+            ],
+            "Resource": "arn:aws:profile:*:*:/templates*"
+        },
+        {
+            "Sid": "AllowWisdomForConnectEnabledTaggedResources",
+            "Effect": "Allow",
+            "Action": [
+                "wisdom:CreateContent",
+                "wisdom:DeleteContent",
+                "wisdom:CreateKnowledgeBase",
+                "wisdom:GetAssistant",
+                "wisdom:GetKnowledgeBase",
+                "wisdom:GetContent",
+                "wisdom:GetRecommendations",
+                "wisdom:GetSession",
+                "wisdom:NotifyRecommendationsReceived",
+                "wisdom:QueryAssistant",
+                "wisdom:StartContentUpload",
+                "wisdom:UpdateContent",
+                "wisdom:UntagResource",
+                "wisdom:TagResource",
+                "wisdom:CreateSession",
+                "wisdom:CreateQuickResponse",
+                "wisdom:GetQuickResponse",
+                "wisdom:SearchQuickResponses",
+                "wisdom:StartImportJob",
+                "wisdom:GetImportJob",
+                "wisdom:ListImportJobs",
+                "wisdom:ListQuickResponses",
+                "wisdom:UpdateQuickResponse",
+                "wisdom:DeleteQuickResponse",
+                "wisdom:PutFeedback",
+                "wisdom:ListContentAssociations",
+                "wisdom:CreateMessageTemplate",
+                "wisdom:UpdateMessageTemplate",
+                "wisdom:UpdateMessageTemplateMetadata",
+                "wisdom:GetMessageTemplate",
+                "wisdom:DeleteMessageTemplate",
+                "wisdom:ListMessageTemplates",
+                "wisdom:SearchMessageTemplates",
+                "wisdom:ActivateMessageTemplate",
+                "wisdom:DeactivateMessageTemplate",
+                "wisdom:CreateMessageTemplateVersion",
+                "wisdom:ListMessageTemplateVersions",
+                "wisdom:CreateMessageTemplateAttachment",
+                "wisdom:DeleteMessageTemplateAttachment",
+                "wisdom:RenderMessageTemplate"
+            ],
+            "Resource": "*",
+            "Condition": {
+                "StringEquals": {
+                    "aws:ResourceTag/AmazonConnectEnabled": "True"
+                }
+            }
+        },
+        {
+            "Sid": "AllowListOperationForWisdom",
+            "Effect": "Allow",
+            "Action": [
+                "wisdom:ListAssistants",
+                "wisdom:ListKnowledgeBases"
+            ],
+            "Resource": "*"
+        },
+        {
+            "Sid": "AllowCustomerProfilesCalculatedAttributesForConnectDomain",
+            "Effect": "Allow",
+            "Action": [
+                "profile:GetCalculatedAttributeForProfile",
+                "profile:CreateCalculatedAttributeDefinition",
+                "profile:DeleteCalculatedAttributeDefinition",
+                "profile:GetCalculatedAttributeDefinition",
+                "profile:UpdateCalculatedAttributeDefinition"
+            ],
+            "Resource": [
+                "arn:aws:profile:*:*:domains/amazon-connect-*/calculated-attributes/*"
+            ]
+        },
+        {
+            "Sid": "AllowCustomerProfilesSegmentationForConnectDomain",
+            "Effect": "Allow",
+            "Action": [
+                "profile:CreateSegmentDefinition",
+                "profile:GetSegmentDefinition",
+                "profile:DeleteSegmentDefinition",
+                "profile:CreateSegmentSnapshot",
+                "profile:GetSegmentSnapshot"
+            ],
+            "Resource": [
+                "arn:aws:profile:*:*:domains/amazon-connect-*/segment-definitions/*"
+            ]
+        },
+        {
+            "Sid": "AllowPutMetricsForConnectNamespace",
+            "Effect": "Allow",
+            "Action": "cloudwatch:PutMetricData",
+            "Resource": "*",
+            "Condition": {
+                "StringEquals": {
+                    "cloudwatch:namespace": "AWS/Connect"
+                }
+            }
+        },
+        {
+            "Sid": "AllowSMSVoiceOperationsForConnect",
+            "Effect": "Allow",
+            "Action": [
+                "sms-voice:SendTextMessage",
+                "sms-voice:DescribePhoneNumbers"
+            ],
+            "Resource": "arn:aws:sms-voice:*:*:phone-number/*",
+            "Condition": {
+                "StringEquals": {
+                    "aws:ResourceAccount": "${aws:PrincipalAccount}"
+                }
+            }
+        },
+        {
+            "Sid": "AllowCognitoForConnectEnabledTaggedResources",
+            "Effect": "Allow",
+            "Action": [
+                "cognito-idp:DescribeUserPool",
+                "cognito-idp:ListUserPoolClients"
+            ],
+            "Resource": "arn:aws:cognito-idp:*:*:userpool/*",
+            "Condition": {
+                "StringEquals": {
+                    "aws:ResourceTag/AmazonConnectEnabled": "True"
+                }
+            }
+        },
+        {
+            "Sid": "AllowWritePermissionForCustomerProfileObjects",
+            "Effect": "Allow",
+            "Action": [
+                "profile:PutProfileObject"
+            ],
+            "Resource": [
+                "arn:aws:profile:*:*:domains/amazon-connect-*/object-types/*"
+            ]
+        }
+    ]
+}

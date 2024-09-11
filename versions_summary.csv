@@ -3483,7 +3483,8 @@
 "AWSServiceRoleForAmazonEKSNodegroup","v9",True,"2024-08-21T15:51:37+00:00",0,3,0,3,0,0,16
 "AWSServiceRoleForAmazonEKSNodegroup","v3",False,"2020-02-21T20:40:41+00:00",0,3,0,4,0,0,16
 "AWSServiceRoleForAmazonEKSNodegroup","v4",False,"2020-03-06T22:14:53+00:00",0,3,0,4,0,0,16
-"AmazonConnectServiceLinkedRolePolicy","v16",True,"2024-05-24T01:42:32+00:00",1,2,0,0,0,2,166
+"AmazonConnectServiceLinkedRolePolicy","v17",True,"2024-09-11T20:44:09+00:00",1,2,0,0,0,1,171
+"AmazonConnectServiceLinkedRolePolicy","v16",False,"2024-05-24T01:42:32+00:00",1,2,0,0,0,2,166
 "AmazonConnectServiceLinkedRolePolicy","v14",False,"2023-11-28T16:05:08+00:00",1,2,0,0,0,2,135
 "AmazonConnectServiceLinkedRolePolicy","v1",False,"2018-09-07T00:21:43+00:00",1,1,0,0,0,2,58
 "AmazonConnectServiceLinkedRolePolicy","v2",False,"2018-09-25T21:29:18+00:00",1,1,0,0,0,2,58
