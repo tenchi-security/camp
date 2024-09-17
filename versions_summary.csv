@@ -1312,7 +1312,8 @@
 "AWSCertificateManagerReadOnly","v3",False,"2021-03-03T23:52:21+00:00",0,0,0,0,0,0,0
 "AWSCertificateManagerReadOnly","v4",True,"2021-03-15T16:25:21+00:00",0,0,0,0,0,0,0
 "IVSReadOnlyAccess","v1",False,"2023-12-05T18:00:37+00:00",0,0,0,0,0,0,0
-"IVSReadOnlyAccess","v2",True,"2024-02-16T18:03:24+00:00",0,0,0,0,0,0,0
+"IVSReadOnlyAccess","v2",False,"2024-02-16T18:03:24+00:00",0,0,0,0,0,0,0
+"IVSReadOnlyAccess","v3",True,"2024-09-17T20:42:06+00:00",0,0,0,0,0,0,0
 "AWSAppMeshReadOnly","v1",False,"2019-04-16T17:51:11+00:00",0,0,0,0,0,0,0
 "AWSAppMeshReadOnly","v2",False,"2019-07-18T21:18:41+00:00",0,0,0,0,0,0,0
 "AWSAppMeshReadOnly","v5",True,"2021-01-07T19:53:16+00:00",0,0,0,0,0,0,0
