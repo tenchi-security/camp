@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSDirectoryServiceDataReadOnlyAccess",
+    "PolicyId": "ANPAZKAPJZG4NNF72G4OL",
+    "Arn": "arn:aws:iam::aws:policy/AWSDirectoryServiceDataReadOnlyAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2024-09-18T22:00:34+00:00",
+    "UpdateDate": "2024-09-18T22:00:34+00:00"
+}
