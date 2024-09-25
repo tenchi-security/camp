@@ -1,0 +1,36 @@
+{
+    "ServiceWildcard": [
+        "sns"
+    ],
+    "ServicesAffected": [
+        "sms-voice",
+        "sns"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "sns:AddPermission",
+        "sns:CreateTopic",
+        "sns:RemovePermission",
+        "sns:SetTopicAttributes"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "sms-voice:DeleteOptedOutNumber",
+        "sms-voice:DeleteVerifiedDestinationNumber",
+        "sms-voice:SendDestinationNumberVerificationCode",
+        "sms-voice:SendTextMessage",
+        "sms-voice:VerifyDestinationNumber",
+        "sns:AddPermission",
+        "sns:ConfirmSubscription",
+        "sns:CreateTopic",
+        "sns:DeleteTopic",
+        "sns:Publish",
+        "sns:PutDataProtectionPolicy",
+        "sns:RemovePermission",
+        "sns:SetTopicAttributes",
+        "sns:Subscribe",
+        "sns:TagResource",
+        "sns:UntagResource"
+    ]
+}
