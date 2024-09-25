@@ -1026,7 +1026,8 @@
 "AmazonSageMakerMechanicalTurkAccess","v1",True,"2019-12-03T16:19:36+00:00",0,1,0,0,0,0,2
 "AWSFaultInjectionSimulatorNetworkAccess","v2",True,"2024-01-25T16:07:44+00:00",0,0,0,0,0,0,0
 "AWSFaultInjectionSimulatorNetworkAccess","v1",False,"2022-10-26T20:32:50+00:00",0,0,0,0,0,0,0
-"AmazonConnectSynchronizationServiceRolePolicy","v2",True,"2024-07-24T17:45:43+00:00",0,1,0,0,0,0,66
+"AmazonConnectSynchronizationServiceRolePolicy","v2",False,"2024-07-24T17:45:43+00:00",0,1,0,0,0,0,66
+"AmazonConnectSynchronizationServiceRolePolicy","v3",True,"2024-09-25T16:49:38+00:00",0,1,0,0,0,0,66
 "AmazonConnectSynchronizationServiceRolePolicy","v1",False,"2023-10-27T22:38:25+00:00",0,1,0,0,0,0,75
 "AmazonMobileAnalyticsWriteOnlyAccess","v1",True,"2015-02-06T18:40:37+00:00",0,0,0,0,0,0,0
 "AWSRoboMakerServicePolicy","v2",False,"2019-04-04T22:15:35+00:00",0,3,0,2,0,0,4
