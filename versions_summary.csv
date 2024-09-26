@@ -338,7 +338,8 @@
 "AmazonEC2RolePolicyForLaunchWizard","v7",False,"2020-10-09T22:28:01+00:00",0,2,0,0,0,0,5
 "AmazonEC2RolePolicyForLaunchWizard","v1",False,"2019-11-13T08:05:53+00:00",0,1,0,0,0,0,5
 "AmazonEC2RolePolicyForLaunchWizard","v5",False,"2020-06-03T23:17:35+00:00",0,2,0,0,0,0,11
-"AmazonEC2RolePolicyForLaunchWizard","v10",True,"2022-05-16T21:16:38+00:00",0,2,0,0,0,0,3
+"AmazonEC2RolePolicyForLaunchWizard","v11",True,"2024-09-25T22:40:50+00:00",0,2,0,0,0,0,3
+"AmazonEC2RolePolicyForLaunchWizard","v10",False,"2022-05-16T21:16:38+00:00",0,2,0,0,0,0,3
 "AmazonEC2RolePolicyForLaunchWizard","v6",False,"2020-07-01T19:04:48+00:00",0,2,0,0,0,0,5
 "AmazonEC2RolePolicyForLaunchWizard","v4",False,"2020-06-03T18:30:04+00:00",0,2,0,0,0,0,11
 "AmazonEC2RolePolicyForLaunchWizard","v9",False,"2022-01-27T23:01:20+00:00",0,2,0,0,0,0,3
