@@ -1,6 +1,6 @@
 {
     "VersionId": "v19",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2024-05-17T17:12:58+00:00",
     "PolicyName": "AWSBackupServiceRolePolicyForBackup"
 }
