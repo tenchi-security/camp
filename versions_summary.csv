@@ -1528,10 +1528,11 @@
 "AWSIAMIdentityCenterAllowListForIdentityContext","v7",False,"2024-04-30T09:31:36+00:00",0,0,0,0,0,0,0
 "AWSIAMIdentityCenterAllowListForIdentityContext","v1",False,"2023-11-08T15:21:33+00:00",0,0,0,0,0,0,0
 "AWSIAMIdentityCenterAllowListForIdentityContext","v5",False,"2024-04-24T19:03:59+00:00",0,0,0,0,0,0,0
-"AWSIAMIdentityCenterAllowListForIdentityContext","v11",True,"2024-09-04T19:52:35+00:00",0,0,0,0,0,0,0
+"AWSIAMIdentityCenterAllowListForIdentityContext","v11",False,"2024-09-04T19:52:35+00:00",0,0,0,0,0,0,0
 "AWSIAMIdentityCenterAllowListForIdentityContext","v10",False,"2024-07-12T16:28:50+00:00",0,0,0,0,0,0,0
 "AWSIAMIdentityCenterAllowListForIdentityContext","v6",False,"2024-04-26T20:13:15+00:00",0,0,0,0,0,0,0
 "AWSIAMIdentityCenterAllowListForIdentityContext","v4",False,"2024-04-19T18:58:23+00:00",0,0,0,0,0,0,0
+"AWSIAMIdentityCenterAllowListForIdentityContext","v12",True,"2024-10-01T14:19:12+00:00",0,0,0,0,0,0,0
 "AWSIAMIdentityCenterAllowListForIdentityContext","v9",False,"2024-06-27T19:33:56+00:00",0,0,0,0,0,0,0
 "AWSBackupGatewayServiceRolePolicyForVirtualMachineMetadataSync","v1",True,"2022-12-15T19:43:11+00:00",0,0,0,0,0,0,0
 "AWSAutoScalingPlansEC2AutoScalingPolicy","v1",True,"2018-08-23T22:46:59+00:00",0,1,0,0,0,0,2
