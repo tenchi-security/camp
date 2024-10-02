@@ -1,0 +1,21 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": [
+                "sso:GetManagedApplicationInstance",
+                "sso:GetProfile",
+                "sso:ListProfiles",
+                "sso:ListProfileAssociations",
+                "sso:AssociateProfile",
+                "sso:ListDirectoryAssociations",
+                "sso-directory:DescribeUsers",
+                "sso-directory:SearchUsers",
+                "sso:CreateApplicationAssignment",
+                "sso:ListApplicationAssignments"
+            ],
+            "Resource": "*"
+        }
+    ]
+}

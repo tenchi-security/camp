@@ -3713,7 +3713,8 @@
 "AWSMarketplaceRead-only","v1",False,"2015-02-06T18:40:31+00:00",0,0,0,0,0,0,0
 "AWSMarketplaceRead-only","v4",True,"2023-01-19T23:30:25+00:00",0,0,0,0,0,0,0
 "AWSServiceRoleForGroundStationDataflowEndpointGroupPolicy","v1",True,"2022-12-13T23:52:45+00:00",0,0,0,0,0,0,0
-"AWSServiceRoleForMonitronPolicy","v2",True,"2022-09-29T20:38:15+00:00",0,0,0,0,0,0,0
+"AWSServiceRoleForMonitronPolicy","v2",False,"2022-09-29T20:38:15+00:00",0,0,0,0,0,0,0
+"AWSServiceRoleForMonitronPolicy","v3",True,"2024-10-02T10:06:59+00:00",0,1,0,0,0,0,1
 "AWSServiceRoleForMonitronPolicy","v1",False,"2020-12-02T19:06:08+00:00",0,0,0,1,0,0,0
 "AWSCloud9ServiceRolePolicy","v2",False,"2018-02-27T10:20:24+00:00",0,2,0,0,0,0,8
 "AWSCloud9ServiceRolePolicy","v3",False,"2020-01-08T12:35:15+00:00",0,2,0,0,0,0,8

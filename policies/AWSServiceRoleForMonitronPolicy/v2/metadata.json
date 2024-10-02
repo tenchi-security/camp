@@ -1,6 +1,6 @@
 {
     "VersionId": "v2",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2022-09-29T20:38:15+00:00",
     "PolicyName": "AWSServiceRoleForMonitronPolicy"
 }
