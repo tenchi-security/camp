@@ -986,7 +986,8 @@
 "AWSCompromisedKeyQuarantineV2","v2",False,"2021-11-11T21:32:48+00:00",0,0,0,0,0,0,0
 "AWSCompromisedKeyQuarantineV2","v3",False,"2022-08-10T21:15:53+00:00",0,0,0,0,0,0,0
 "AWSCompromisedKeyQuarantineV2","v1",False,"2021-04-21T22:30:59+00:00",0,0,0,0,0,0,0
-"AWSCompromisedKeyQuarantineV2","v4",True,"2023-03-16T00:20:25+00:00",0,0,0,0,0,0,0
+"AWSCompromisedKeyQuarantineV2","v5",True,"2024-10-02T16:41:39+00:00",0,0,0,0,0,0,0
+"AWSCompromisedKeyQuarantineV2","v4",False,"2023-03-16T00:20:25+00:00",0,0,0,0,0,0,0
 "AWSQuickSetupPatchPolicyBaselineAccess","v1",True,"2024-06-26T09:38:00+00:00",0,0,0,0,0,0,0
 "AWSLambda_FullAccess","v1",True,"2020-11-17T21:14:08+00:00",1,2,1,7,0,0,36
 "AWSGitSyncServiceRolePolicy","v2",True,"2024-04-26T18:12:31+00:00",0,0,0,0,0,0,0
@@ -3355,7 +3356,8 @@
 "AmazonMachineLearningBatchPredictionsAccess","v1",True,"2015-04-09T17:12:19+00:00",0,1,0,0,0,0,3
 "WAFLoggingServiceRolePolicy","v1",True,"2018-08-24T21:05:47+00:00",0,0,0,0,0,0,0
 "AmazonRoute53DomainsReadOnlyAccess","v1",True,"2015-02-06T18:40:57+00:00",0,0,0,0,0,0,0
-"AWSCompromisedKeyQuarantineV3","v1",True,"2024-08-21T17:36:49+00:00",0,0,0,0,0,0,0
+"AWSCompromisedKeyQuarantineV3","v2",True,"2024-10-02T16:52:27+00:00",0,0,0,0,0,0,0
+"AWSCompromisedKeyQuarantineV3","v1",False,"2024-08-21T17:36:49+00:00",0,0,0,0,0,0,0
 "AWSSSODirectoryAdministrator","v2",False,"2020-08-18T17:17:40+00:00",1,0,0,13,0,0,0
 "AWSSSODirectoryAdministrator","v3",False,"2022-03-25T20:31:19+00:00",2,0,0,0,0,0,0
 "AWSSSODirectoryAdministrator","v1",False,"2018-10-31T23:54:00+00:00",1,0,0,13,0,0,0
