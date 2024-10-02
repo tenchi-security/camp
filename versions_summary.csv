@@ -178,6 +178,7 @@
 "AWSPanoramaGreengrassGroupRolePolicy","v2",True,"2021-01-06T19:30:35+00:00",1,1,0,0,0,0,14
 "AWSPanoramaGreengrassGroupRolePolicy","v1",False,"2020-12-01T13:10:22+00:00",1,1,0,0,0,0,14
 "AmazonOpenSearchIngestionReadOnlyAccess","v1",True,"2023-04-26T18:09:52+00:00",0,0,0,0,0,0,0
+"AmazonEKSWorkerNodeMinimalPolicy","v1",True,"2024-10-02T20:03:51+00:00",0,0,0,0,0,0,0
 "AWSIoTSiteWiseMonitorServiceRolePolicy","v2",True,"2019-12-13T22:19:25+00:00",0,1,0,0,0,0,11
 "AWSIoTSiteWiseMonitorServiceRolePolicy","v1",False,"2019-11-14T00:59:10+00:00",0,1,0,0,0,0,11
 "AWSApplicationAutoscalingECSServicePolicy","v1",True,"2017-10-25T23:53:08+00:00",0,2,0,0,0,0,3

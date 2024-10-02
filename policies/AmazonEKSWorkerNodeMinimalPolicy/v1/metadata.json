@@ -1,0 +1,6 @@
+{
+    "VersionId": "v1",
+    "IsDefaultVersion": true,
+    "CreateDate": "2024-10-02T20:03:51+00:00",
+    "PolicyName": "AmazonEKSWorkerNodeMinimalPolicy"
+}
