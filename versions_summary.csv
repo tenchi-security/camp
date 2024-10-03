@@ -777,6 +777,7 @@
 "AmazonRDSEnhancedMonitoringRole","v1",True,"2015-11-11T19:58:29+00:00",0,0,0,0,0,0,0
 "AmazonMCSReadOnlyAccess","v2",True,"2020-04-17T19:21:34+00:00",0,0,0,0,0,0,0
 "AmazonMCSReadOnlyAccess","v1",False,"2019-12-03T13:46:21+00:00",0,0,0,0,0,0,0
+"AWSServiceRoleForProcurementInsightsPolicy","v1",True,"2024-10-03T14:26:03+00:00",0,0,0,0,0,0,0
 "AWSNetworkManagerServiceRolePolicy","v2",False,"2019-12-10T20:41:38+00:00",0,0,0,0,0,0,0
 "AWSNetworkManagerServiceRolePolicy","v3",False,"2020-12-10T12:06:22+00:00",0,0,0,0,0,0,0
 "AWSNetworkManagerServiceRolePolicy","v8",True,"2022-07-27T19:41:29+00:00",0,0,0,0,0,0,0
