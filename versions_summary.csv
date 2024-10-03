@@ -3786,7 +3786,8 @@
 "AmazonEC2FullAccess","v1",False,"2015-02-06T18:40:15+00:00",4,4,0,5,0,1,338
 "AmazonEC2FullAccess","v5",True,"2018-11-27T02:16:56+00:00",4,5,0,6,0,1,339
 "AmazonEC2FullAccess","v4",False,"2018-02-08T18:11:24+00:00",4,5,0,6,0,1,339
-"AmazonConnectCampaignsServiceLinkedRolePolicy","v2",True,"2023-11-08T16:16:16+00:00",0,0,0,0,0,0,0
+"AmazonConnectCampaignsServiceLinkedRolePolicy","v2",False,"2023-11-08T16:16:16+00:00",0,0,0,0,0,0,0
+"AmazonConnectCampaignsServiceLinkedRolePolicy","v3",True,"2024-10-03T20:20:01+00:00",0,0,0,0,0,0,0
 "AmazonConnectCampaignsServiceLinkedRolePolicy","v1",False,"2021-09-23T20:54:26+00:00",0,0,0,0,0,0,0
 "AWSElasticBeanstalkRoleCWL","v1",True,"2020-06-05T21:49:06+00:00",0,0,0,0,0,0,0
 "ROSAAmazonEBSCSIDriverOperatorPolicy","v1",True,"2023-04-20T22:36:00+00:00",0,0,0,0,0,0,0
