@@ -1221,6 +1221,7 @@
 "AWSApplicationMigrationReadOnlyAccess","v5",True,"2023-03-20T08:58:08+00:00",0,0,0,0,0,0,0
 "AWSApplicationMigrationReadOnlyAccess","v4",False,"2022-11-27T09:08:30+00:00",0,0,0,0,0,0,0
 "AppIntegrationsServiceLinkedRolePolicy","v1",True,"2022-09-30T19:42:56+00:00",0,0,0,0,0,0,0
+"AmazonEC2ContainerRegistryPullOnly","v1",True,"2024-10-04T16:58:49+00:00",0,1,0,0,0,1,0
 "IAMReadOnlyAccess","v2",False,"2015-04-21T16:01:34+00:00",0,0,0,0,0,0,0
 "IAMReadOnlyAccess","v3",False,"2016-09-06T17:06:37+00:00",0,0,0,0,0,0,0
 "IAMReadOnlyAccess","v1",False,"2015-02-06T18:40:39+00:00",0,0,0,0,0,0,0
