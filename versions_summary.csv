@@ -1057,7 +1057,8 @@
 "AmazonCodeGuruProfilerAgentAccess","v3",True,"2022-05-05T18:11:03+00:00",0,0,0,0,0,0,0
 "AmazonCodeGuruProfilerAgentAccess","v1",False,"2021-02-05T22:11:56+00:00",0,1,0,0,0,0,2
 "AWSWellArchitectedDiscoveryServiceRolePolicy","v1",True,"2023-04-26T18:36:40+00:00",0,1,0,0,0,0,1
-"AWSDeadlineCloud-UserAccessFarms","v1",True,"2024-04-01T16:54:00+00:00",0,0,0,0,0,0,0
+"AWSDeadlineCloud-UserAccessFarms","v2",True,"2024-10-07T17:57:52+00:00",0,1,0,16,0,0,19
+"AWSDeadlineCloud-UserAccessFarms","v1",False,"2024-04-01T16:54:00+00:00",0,0,0,0,0,0,0
 "IAMAccessAnalyzerReadOnlyAccess","v2",False,"2021-03-16T20:37:30+00:00",0,0,0,0,0,0,0
 "IAMAccessAnalyzerReadOnlyAccess","v3",False,"2023-11-27T02:24:16+00:00",0,0,0,0,0,0,0
 "IAMAccessAnalyzerReadOnlyAccess","v1",False,"2019-12-02T17:12:53+00:00",0,0,0,0,0,0,0

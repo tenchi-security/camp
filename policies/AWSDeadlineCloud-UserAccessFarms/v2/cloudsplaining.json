@@ -1,0 +1,48 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "deadline"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "deadline:AssociateMemberToFarm",
+        "deadline:AssociateMemberToFleet",
+        "deadline:AssociateMemberToJob",
+        "deadline:AssociateMemberToQueue",
+        "deadline:DisassociateMemberFromFarm",
+        "deadline:DisassociateMemberFromFleet",
+        "deadline:DisassociateMemberFromJob",
+        "deadline:DisassociateMemberFromQueue",
+        "deadline:AssociateMemberToFarm",
+        "deadline:AssociateMemberToFleet",
+        "deadline:AssociateMemberToJob",
+        "deadline:AssociateMemberToQueue",
+        "deadline:DisassociateMemberFromFarm",
+        "deadline:DisassociateMemberFromFleet",
+        "deadline:DisassociateMemberFromJob",
+        "deadline:DisassociateMemberFromQueue"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "deadline:AssociateMemberToFarm",
+        "deadline:AssociateMemberToFleet",
+        "deadline:AssociateMemberToJob",
+        "deadline:AssociateMemberToQueue",
+        "deadline:AssumeFleetRoleForRead",
+        "deadline:AssumeQueueRoleForRead",
+        "deadline:AssumeQueueRoleForUser",
+        "deadline:CreateBudget",
+        "deadline:CreateJob",
+        "deadline:DeleteBudget",
+        "deadline:DisassociateMemberFromFarm",
+        "deadline:DisassociateMemberFromFleet",
+        "deadline:DisassociateMemberFromJob",
+        "deadline:DisassociateMemberFromQueue",
+        "deadline:UpdateBudget",
+        "deadline:UpdateJob",
+        "deadline:UpdateSession",
+        "deadline:UpdateStep",
+        "deadline:UpdateTask"
+    ]
+}
