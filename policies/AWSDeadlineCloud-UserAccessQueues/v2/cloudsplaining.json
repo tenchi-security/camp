@@ -1,0 +1,32 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "deadline"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "deadline:AssociateMemberToJob",
+        "deadline:AssociateMemberToQueue",
+        "deadline:DisassociateMemberFromJob",
+        "deadline:DisassociateMemberFromQueue",
+        "deadline:AssociateMemberToJob",
+        "deadline:AssociateMemberToQueue",
+        "deadline:DisassociateMemberFromJob",
+        "deadline:DisassociateMemberFromQueue"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "deadline:AssociateMemberToJob",
+        "deadline:AssociateMemberToQueue",
+        "deadline:AssumeQueueRoleForRead",
+        "deadline:AssumeQueueRoleForUser",
+        "deadline:CreateJob",
+        "deadline:DisassociateMemberFromJob",
+        "deadline:DisassociateMemberFromQueue",
+        "deadline:UpdateJob",
+        "deadline:UpdateSession",
+        "deadline:UpdateStep",
+        "deadline:UpdateTask"
+    ]
+}
