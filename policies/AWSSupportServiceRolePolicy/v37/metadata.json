@@ -1,6 +1,6 @@
 {
     "VersionId": "v37",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2024-08-05T23:34:50+00:00",
     "PolicyName": "AWSSupportServiceRolePolicy"
 }
