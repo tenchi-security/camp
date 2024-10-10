@@ -2460,6 +2460,7 @@
 "AmazonDetectiveFullAccess","v3",False,"2023-01-17T14:35:33+00:00",1,1,0,0,0,0,9
 "AmazonDetectiveFullAccess","v1",False,"2020-04-30T17:57:15+00:00",1,1,0,0,0,0,7
 "AmazonDetectiveFullAccess","v2",False,"2020-10-21T22:07:28+00:00",1,1,0,0,0,0,7
+"AWSDataExchangeServiceRolePolicyForLicenseManagement","v1",True,"2024-10-10T14:54:27+00:00",0,1,0,0,0,0,2
 "AmazonWorkMailMessageFlowFullAccess","v1",True,"2021-02-11T11:08:35+00:00",1,0,0,0,0,0,0
 "AmplifyBackendDeployFullAccess","v4",False,"2024-01-02T21:13:46+00:00",0,0,0,0,0,0,0
 "AmplifyBackendDeployFullAccess","v8",True,"2024-07-18T17:05:12+00:00",0,0,0,0,0,0,0
@@ -3611,6 +3612,7 @@
 "AWSCloud9ServiceRolePolicy","v1",False,"2017-11-30T13:44:08+00:00",0,2,0,0,0,0,8
 "AWSCloud9ServiceRolePolicy","v5",False,"2020-05-07T09:15:24+00:00",0,2,0,0,0,0,8
 "AWSCloud9ServiceRolePolicy","v2",False,"2018-02-27T10:20:24+00:00",0,2,0,0,0,0,8
+"AWSDataExchangeServiceRolePolicyForOrganizationDiscovery","v1",True,"2024-10-10T14:33:13+00:00",0,0,0,0,0,0,0
 "AmazonRoute53RecoveryReadinessFullAccess","v1",True,"2021-08-18T16:45:07+00:00",1,0,0,0,0,0,0
 "AWSServiceRoleForMonitronPolicy","v3",True,"2024-10-02T10:06:59+00:00",0,1,0,0,0,0,1
 "AWSServiceRoleForMonitronPolicy","v1",False,"2020-12-02T19:06:08+00:00",0,0,0,1,0,0,0

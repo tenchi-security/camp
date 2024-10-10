@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSDataExchangeServiceRolePolicyForLicenseManagement",
+    "PolicyId": "ANPAZKAPJZG4KJOXEA5CK",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/AWSDataExchangeServiceRolePolicyForLicenseManagement",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2024-10-10T14:54:27+00:00",
+    "UpdateDate": "2024-10-10T14:54:27+00:00"
+}
