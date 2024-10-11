@@ -1,0 +1,12 @@
+{
+    "PolicyName": "ResourceGroupsTaggingAPITagUntagSupportedResources",
+    "PolicyId": "ANPAZKAPJZG4MQKHGY2IF",
+    "Arn": "arn:aws:iam::aws:policy/ResourceGroupsTaggingAPITagUntagSupportedResources",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2024-10-11T11:11:14+00:00",
+    "UpdateDate": "2024-10-11T11:11:14+00:00"
+}
