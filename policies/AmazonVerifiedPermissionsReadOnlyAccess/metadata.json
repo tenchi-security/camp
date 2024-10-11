@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonVerifiedPermissionsReadOnlyAccess",
+    "PolicyId": "ANPAZKAPJZG4HFAWM5KNR",
+    "Arn": "arn:aws:iam::aws:policy/AmazonVerifiedPermissionsReadOnlyAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2024-10-11T18:25:51+00:00",
+    "UpdateDate": "2024-10-11T18:25:51+00:00"
+}

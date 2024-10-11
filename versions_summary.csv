@@ -1053,6 +1053,7 @@
 "AutoScalingNotificationAccessRole","v1",True,"2015-02-06T18:41:22+00:00",0,2,0,0,0,0,2
 "PartnerCentralAccountManagementUserRoleAssociation","v1",True,"2023-11-10T02:03:40+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerPartnerServiceCatalogProductsLambdaServiceRolePolicy","v1",True,"2023-08-01T15:05:51+00:00",0,0,0,0,0,0,0
+"AmazonVerifiedPermissionsReadOnlyAccess","v1",True,"2024-10-11T18:25:51+00:00",0,0,0,0,0,0,0
 "AmazonConnectReadOnlyAccess","v4",True,"2024-06-19T15:15:33+00:00",0,1,0,0,0,2,1
 "AmazonConnectReadOnlyAccess","v3",False,"2019-11-06T22:10:18+00:00",0,1,0,0,0,1,1
 "AmazonConnectReadOnlyAccess","v1",False,"2018-10-17T21:00:44+00:00",0,1,0,0,0,1,1
@@ -2135,6 +2136,7 @@
 "Billing","v9",False,"2024-01-17T18:03:48+00:00",0,4,0,0,0,0,19
 "Billing","v2",False,"2018-02-06T23:46:37+00:00",1,2,0,0,0,0,4
 "AWSElementalMediaStoreReadOnly","v1",True,"2018-03-08T19:48:22+00:00",0,0,0,0,0,0,0
+"AmazonVerifiedPermissionsFullAccess","v1",True,"2024-10-11T18:19:31+00:00",1,0,0,0,0,0,0
 "AWSMigrationHubStrategyConsoleFullAccess","v1",False,"2021-10-19T20:13:26+00:00",1,1,0,1,0,0,1
 "AWSMigrationHubStrategyConsoleFullAccess","v2",True,"2022-11-09T00:00:06+00:00",1,1,0,1,0,0,1
 "AWSDataExchangeFullAccess","v4",False,"2021-05-10T21:07:38+00:00",1,2,0,0,0,0,12

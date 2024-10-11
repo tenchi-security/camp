@@ -1,0 +1,11 @@
+{
+    "ServiceWildcard": [
+        "verifiedpermissions"
+    ],
+    "ServicesAffected": [],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": []
+}
