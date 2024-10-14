@@ -879,7 +879,8 @@
 "AmazonLexRunBotsOnly","v2",False,"2020-05-12T19:26:15+00:00",0,1,0,0,0,0,2
 "AmazonEKSServicePolicy","v4",False,"2019-08-21T16:17:56+00:00",0,4,0,1,0,0,7
 "AmazonEKSServicePolicy","v3",False,"2019-02-26T21:01:48+00:00",0,3,0,1,0,0,6
-"AmazonEKSServicePolicy","v6",True,"2020-05-27T19:27:03+00:00",0,5,0,2,0,0,9
+"AmazonEKSServicePolicy","v6",False,"2020-05-27T19:27:03+00:00",0,5,0,2,0,0,9
+"AmazonEKSServicePolicy","v7",True,"2024-10-14T21:12:40+00:00",0,4,0,1,0,0,8
 "AmazonEKSServicePolicy","v1",False,"2018-05-27T21:08:21+00:00",0,1,0,1,0,0,4
 "AmazonEKSServicePolicy","v5",False,"2020-03-30T23:43:02+00:00",0,5,0,2,0,0,8
 "AmazonEKSServicePolicy","v2",False,"2018-05-31T22:15:20+00:00",0,1,0,1,0,0,4
