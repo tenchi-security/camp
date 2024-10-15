@@ -1348,12 +1348,13 @@
 "AmazonMechanicalTurkReadOnly","v2",False,"2017-02-27T21:45:50+00:00",0,0,0,0,0,0,0
 "AmazonLookoutMetricsFullAccess","v1",True,"2021-05-07T00:43:38+00:00",1,1,0,0,0,0,12
 "AWSResourceExplorerServiceRolePolicy","v4",False,"2023-08-01T19:33:28+00:00",0,0,0,0,0,0,0
-"AWSResourceExplorerServiceRolePolicy","v8",True,"2024-08-19T15:51:19+00:00",0,0,0,0,0,0,0
+"AWSResourceExplorerServiceRolePolicy","v8",False,"2024-08-19T15:51:19+00:00",0,0,0,0,0,0,0
 "AWSResourceExplorerServiceRolePolicy","v3",False,"2023-01-26T14:43:30+00:00",0,0,0,0,0,0,0
 "AWSResourceExplorerServiceRolePolicy","v6",False,"2023-11-07T17:07:44+00:00",0,0,0,0,0,0,0
 "AWSResourceExplorerServiceRolePolicy","v7",False,"2023-12-20T13:58:52+00:00",0,0,0,0,0,0,0
 "AWSResourceExplorerServiceRolePolicy","v1",False,"2022-10-25T20:35:29+00:00",0,0,0,0,0,0,0
 "AWSResourceExplorerServiceRolePolicy","v5",False,"2023-10-17T15:07:03+00:00",0,0,0,0,0,0,0
+"AWSResourceExplorerServiceRolePolicy","v9",True,"2024-10-15T16:31:31+00:00",0,0,0,0,0,0,0
 "AWSResourceExplorerServiceRolePolicy","v2",False,"2022-10-31T17:23:15+00:00",0,0,0,0,0,0,0
 "CloudWatchEventsBuiltInTargetExecutionAccess","v1",True,"2016-01-14T18:35:49+00:00",0,1,0,0,0,0,4
 "AWSDenyAll","v1",False,"2019-05-01T22:36:14+00:00",0,0,0,0,0,0,0
