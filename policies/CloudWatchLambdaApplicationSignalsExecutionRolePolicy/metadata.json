@@ -1,0 +1,12 @@
+{
+    "PolicyName": "CloudWatchLambdaApplicationSignalsExecutionRolePolicy",
+    "PolicyId": "ANPAZKAPJZG4EN6472RJE",
+    "Arn": "arn:aws:iam::aws:policy/CloudWatchLambdaApplicationSignalsExecutionRolePolicy",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2024-10-16T19:09:17+00:00",
+    "UpdateDate": "2024-10-16T19:09:17+00:00"
+}
