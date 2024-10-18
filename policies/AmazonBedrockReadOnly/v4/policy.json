@@ -1,0 +1,35 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "AmazonBedrockReadOnly",
+            "Effect": "Allow",
+            "Action": [
+                "bedrock:GetFoundationModel",
+                "bedrock:ListFoundationModels",
+                "bedrock:GetModelInvocationLoggingConfiguration",
+                "bedrock:GetProvisionedModelThroughput",
+                "bedrock:ListProvisionedModelThroughputs",
+                "bedrock:GetModelCustomizationJob",
+                "bedrock:ListModelCustomizationJobs",
+                "bedrock:ListCustomModels",
+                "bedrock:GetCustomModel",
+                "bedrock:ListTagsForResource",
+                "bedrock:GetFoundationModelAvailability",
+                "bedrock:GetGuardrail",
+                "bedrock:ListGuardrails",
+                "bedrock:GetEvaluationJob",
+                "bedrock:ListEvaluationJobs",
+                "bedrock:GetModelInvocationJob",
+                "bedrock:ListModelInvocationJobs",
+                "bedrock:GetInferenceProfile",
+                "bedrock:ListInferenceProfiles",
+                "bedrock:ListImportedModels",
+                "bedrock:GetImportedModel",
+                "bedrock:ListModelImportJobs",
+                "bedrock:GetModelImportJob"
+            ],
+            "Resource": "*"
+        }
+    ]
+}
