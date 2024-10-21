@@ -1708,6 +1708,7 @@
 "AmazonChimeUserManagement","v2",False,"2018-01-16T17:19:47+00:00",0,0,0,0,0,0,0
 "Ec2ImageBuilderCrossAccountDistributionAccess","v1",True,"2020-09-30T19:22:54+00:00",0,1,0,0,0,0,2
 "ViewOnlyAccess","v14",False,"2022-05-04T18:10:49+00:00",0,0,0,0,0,0,0
+"ViewOnlyAccess","v21",True,"2024-10-21T14:38:04+00:00",0,0,0,0,0,0,0
 "ViewOnlyAccess","v4",False,"2018-02-06T22:35:33+00:00",0,0,0,0,0,0,0
 "ViewOnlyAccess","v8",False,"2020-01-16T17:42:09+00:00",0,0,0,0,0,0,0
 "ViewOnlyAccess","v11",False,"2021-06-11T19:27:03+00:00",0,0,0,0,0,0,0
@@ -1718,7 +1719,7 @@
 "ViewOnlyAccess","v7",False,"2018-10-15T18:34:54+00:00",0,0,0,0,0,0,0
 "ViewOnlyAccess","v12",False,"2021-12-21T02:53:03+00:00",0,0,0,0,0,0,0
 "ViewOnlyAccess","v1",False,"2016-11-10T17:20:15+00:00",0,0,0,0,0,0,0
-"ViewOnlyAccess","v20",True,"2024-10-15T19:05:15+00:00",0,0,0,0,0,0,0
+"ViewOnlyAccess","v20",False,"2024-10-15T19:05:15+00:00",0,0,0,0,0,0,0
 "ViewOnlyAccess","v16",False,"2023-01-05T20:51:00+00:00",0,0,0,0,0,0,0
 "ViewOnlyAccess","v5",False,"2018-05-16T20:35:13+00:00",0,0,0,0,0,0,0
 "ViewOnlyAccess","v9",False,"2020-03-09T23:53:28+00:00",0,0,0,0,0,0,0
@@ -3344,7 +3345,7 @@
 "ReadOnlyAccess","v11",False,"2016-05-05T21:28:37+00:00",0,2,0,0,1,1,1
 "ReadOnlyAccess","v3",False,"2015-06-15T22:15:54+00:00",0,1,0,0,1,0,1
 "ReadOnlyAccess","v112",False,"2024-04-17T21:17:05+00:00",0,9,0,0,4,9,4
-"ReadOnlyAccess","v120",True,"2024-10-15T19:03:24+00:00",0,9,0,0,4,9,4
+"ReadOnlyAccess","v120",False,"2024-10-15T19:03:24+00:00",0,9,0,0,4,9,4
 "ReadOnlyAccess","v90",False,"2022-07-29T19:19:00+00:00",0,9,0,0,4,9,4
 "ReadOnlyAccess","v60",False,"2020-01-22T23:52:54+00:00",0,9,0,0,4,11,5
 "ReadOnlyAccess","v68",False,"2020-10-07T22:09:23+00:00",0,9,0,0,4,10,5
@@ -3400,6 +3401,7 @@
 "ReadOnlyAccess","v31",False,"2018-01-06T00:12:08+00:00",0,10,0,1,4,13,9
 "ReadOnlyAccess","v72",False,"2020-12-21T20:41:22+00:00",0,9,0,0,4,10,5
 "ReadOnlyAccess","v9",False,"2016-01-28T00:02:58+00:00",0,2,0,0,1,1,1
+"ReadOnlyAccess","v121",True,"2024-10-21T14:38:46+00:00",0,9,0,0,4,9,4
 "ReadOnlyAccess","v53",False,"2019-08-21T18:46:30+00:00",0,9,0,1,4,11,5
 "ReadOnlyAccess","v89",False,"2022-07-25T21:19:31+00:00",0,9,0,0,4,9,4
 "ReadOnlyAccess","v108",False,"2023-12-01T17:23:47+00:00",0,10,0,0,4,9,5
