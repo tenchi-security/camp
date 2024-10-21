@@ -887,8 +887,9 @@
 "AmazonEKSServicePolicy","v2",False,"2018-05-31T22:15:20+00:00",0,1,0,1,0,0,4
 "AWSGitSyncServiceRolePolicy","v1",False,"2023-11-16T17:05:42+00:00",0,0,0,0,0,0,0
 "AWSGitSyncServiceRolePolicy","v2",True,"2024-04-26T18:12:31+00:00",0,0,0,0,0,0,0
+"AmazonEKSServiceRolePolicy","v3",True,"2024-10-21T21:23:26+00:00",0,1,0,1,0,0,6
 "AmazonEKSServiceRolePolicy","v1",False,"2020-02-21T20:10:47+00:00",0,1,0,1,0,0,5
-"AmazonEKSServiceRolePolicy","v2",True,"2020-05-27T19:30:19+00:00",0,1,0,1,0,0,6
+"AmazonEKSServiceRolePolicy","v2",False,"2020-05-27T19:30:19+00:00",0,1,0,1,0,0,6
 "DataScientist","v4",False,"2019-08-21T23:13:03+00:00",13,19,1,16,1,1,496
 "DataScientist","v3",False,"2019-01-18T19:26:23+00:00",13,19,1,16,1,1,496
 "DataScientist","v1",False,"2016-11-10T17:28:48+00:00",12,17,1,15,1,1,363
