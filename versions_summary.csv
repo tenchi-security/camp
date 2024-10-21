@@ -3833,7 +3833,8 @@
 "AmazonVPCCrossAccountNetworkInterfaceOperations","v5",True,"2023-09-25T15:12:17+00:00",0,1,0,2,0,0,12
 "AmazonVPCCrossAccountNetworkInterfaceOperations","v2",False,"2018-01-02T19:17:56+00:00",0,1,0,2,0,0,9
 "AmazonCodeCatalystFullAccess","v1",True,"2023-04-20T16:50:16+00:00",1,1,0,1,0,0,1
-"AWSMarketplaceSellerProductsReadOnly","v3",True,"2022-11-19T00:08:42+00:00",0,0,0,0,0,0,0
+"AWSMarketplaceSellerProductsReadOnly","v4",True,"2024-10-21T19:52:20+00:00",0,0,0,0,0,0,0
+"AWSMarketplaceSellerProductsReadOnly","v3",False,"2022-11-19T00:08:42+00:00",0,0,0,0,0,0,0
 "AWSMarketplaceSellerProductsReadOnly","v1",False,"2019-07-02T21:40:47+00:00",0,0,0,0,0,0,0
 "AWSMarketplaceSellerProductsReadOnly","v2",False,"2020-03-05T23:11:53+00:00",0,0,0,0,0,0,0
 "AmazonCodeGuruProfilerAgentAccess","v3",True,"2022-05-05T18:11:03+00:00",0,0,0,0,0,0,0
