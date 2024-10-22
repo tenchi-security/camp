@@ -1,0 +1,17 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "internetmonitor"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "internetmonitor:CreateMonitor",
+        "internetmonitor:DeleteMonitor",
+        "internetmonitor:TagResource",
+        "internetmonitor:UntagResource",
+        "internetmonitor:UpdateMonitor"
+    ]
+}

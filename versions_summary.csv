@@ -676,6 +676,7 @@
 "SecurityAudit","v2",False,"2015-04-21T16:44:38+00:00",0,0,0,0,0,0,0
 "AWSElementalMediaTailorFullAccess","v1",True,"2021-11-23T00:04:39+00:00",1,1,0,2,0,0,14
 "AmazonInspector2AgentlessServiceRolePolicy","v1",True,"2023-11-20T15:18:32+00:00",0,0,0,0,0,0,0
+"CloudWatchInternetMonitorFullAccess","v1",True,"2024-10-22T21:02:59+00:00",0,1,0,0,0,0,5
 "AWSElementalMediaLiveReadOnly","v1",False,"2020-07-08T16:38:07+00:00",0,0,0,0,0,0,0
 "AWSElementalMediaLiveReadOnly","v2",True,"2024-07-22T17:08:46+00:00",0,0,0,0,0,0,0
 "AlexaForBusinessFullAccess","v4",False,"2019-05-20T21:32:33+00:00",1,3,0,1,0,0,39
