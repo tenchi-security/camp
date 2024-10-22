@@ -1778,9 +1778,10 @@
 "AmazonLambdaRolePolicyForLaunchWizardSAP","v5",True,"2020-12-04T16:00:56+00:00",0,1,0,0,0,0,2
 "AmazonLambdaRolePolicyForLaunchWizardSAP","v2",False,"2020-06-03T16:20:46+00:00",0,2,0,0,0,0,6
 "AWSMarketplaceSellerProductsFullAccess","v4",False,"2021-11-26T18:50:50+00:00",0,1,0,1,0,0,2
+"AWSMarketplaceSellerProductsFullAccess","v8",True,"2024-10-21T22:52:44+00:00",0,2,0,1,0,0,4
 "AWSMarketplaceSellerProductsFullAccess","v3",False,"2020-10-09T22:22:38+00:00",0,1,0,1,0,0,2
 "AWSMarketplaceSellerProductsFullAccess","v6",False,"2022-11-19T00:15:09+00:00",0,2,0,1,0,0,4
-"AWSMarketplaceSellerProductsFullAccess","v7",True,"2023-07-18T22:19:58+00:00",0,2,0,1,0,0,4
+"AWSMarketplaceSellerProductsFullAccess","v7",False,"2023-07-18T22:19:58+00:00",0,2,0,1,0,0,4
 "AWSMarketplaceSellerProductsFullAccess","v1",False,"2019-07-02T21:06:25+00:00",0,1,0,1,0,0,2
 "AWSMarketplaceSellerProductsFullAccess","v5",False,"2022-07-26T15:06:29+00:00",0,2,0,1,0,0,4
 "AWSMarketplaceSellerProductsFullAccess","v2",False,"2020-03-05T23:11:44+00:00",0,1,0,1,0,0,2
@@ -2577,10 +2578,11 @@
 "AWSMarketplaceSellerFullAccess","v6",False,"2022-07-26T15:06:13+00:00",0,2,0,1,0,0,4
 "AWSMarketplaceSellerFullAccess","v10",False,"2024-02-08T19:19:05+00:00",0,2,0,1,0,0,4
 "AWSMarketplaceSellerFullAccess","v7",False,"2022-11-18T23:54:51+00:00",0,2,0,1,0,0,4
-"AWSMarketplaceSellerFullAccess","v12",True,"2024-07-25T16:06:22+00:00",0,3,0,2,0,0,5
+"AWSMarketplaceSellerFullAccess","v12",False,"2024-07-25T16:06:22+00:00",0,3,0,2,0,0,5
 "AWSMarketplaceSellerFullAccess","v1",False,"2019-07-02T20:40:09+00:00",0,1,0,1,0,0,2
 "AWSMarketplaceSellerFullAccess","v5",False,"2021-11-30T19:26:49+00:00",0,1,0,1,0,0,2
 "AWSMarketplaceSellerFullAccess","v9",False,"2023-06-01T17:46:22+00:00",0,2,0,1,0,0,4
+"AWSMarketplaceSellerFullAccess","v13",True,"2024-10-21T22:18:35+00:00",0,3,0,2,0,0,5
 "AWSMarketplaceSellerFullAccess","v2",False,"2020-03-05T23:10:50+00:00",0,1,0,1,0,0,2
 "AmazonFSxFullAccess","v4",False,"2022-09-29T18:27:51+00:00",1,2,0,3,0,0,32
 "AmazonFSxFullAccess","v8",False,"2023-11-27T05:55:28+00:00",0,2,0,3,0,0,35
