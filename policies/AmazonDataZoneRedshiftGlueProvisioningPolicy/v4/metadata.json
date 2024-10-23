@@ -1,0 +1,6 @@
+{
+    "VersionId": "v4",
+    "IsDefaultVersion": true,
+    "CreateDate": "2024-10-23T18:29:09+00:00",
+    "PolicyName": "AmazonDataZoneRedshiftGlueProvisioningPolicy"
+}
