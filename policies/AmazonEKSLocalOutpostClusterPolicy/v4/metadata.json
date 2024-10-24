@@ -1,0 +1,6 @@
+{
+    "VersionId": "v4",
+    "IsDefaultVersion": true,
+    "CreateDate": "2024-10-24T17:59:05+00:00",
+    "PolicyName": "AmazonEKSLocalOutpostClusterPolicy"
+}

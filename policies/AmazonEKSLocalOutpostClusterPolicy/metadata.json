@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4GSJCNLZP4",
     "Arn": "arn:aws:iam::aws:policy/AmazonEKSLocalOutpostClusterPolicy",
     "Path": "/",
-    "DefaultVersionId": "v3",
+    "DefaultVersionId": "v4",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2022-08-24T21:56:47+00:00",
-    "UpdateDate": "2022-10-17T16:02:34+00:00"
+    "UpdateDate": "2024-10-24T17:59:05+00:00"
 }

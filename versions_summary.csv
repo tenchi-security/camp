@@ -94,6 +94,7 @@
 "AWSCertificateManagerPrivateCAReadOnly","v2",False,"2019-03-14T17:17:21+00:00",0,0,0,0,0,0,0
 "AWSServiceCatalogEndUserReadOnlyAccess","v1",True,"2019-10-25T18:49:34+00:00",0,0,0,0,0,0,0
 "AmazonHealthLakeReadOnlyAccess","v1",True,"2021-02-17T02:43:31+00:00",0,0,0,0,0,0,0
+"AWSCloudFrontVPCOriginServiceRolePolicy","v1",True,"2024-10-24T17:45:25+00:00",0,1,0,0,0,0,5
 "AmazonGuardDutyFullAccess","v4",False,"2022-07-26T18:28:01+00:00",1,3,0,1,0,0,15
 "AmazonGuardDutyFullAccess","v3",False,"2022-07-19T20:36:51+00:00",1,3,0,1,0,0,15
 "AmazonGuardDutyFullAccess","v6",True,"2024-06-10T22:50:31+00:00",1,3,0,1,0,0,15
@@ -575,7 +576,8 @@
 "AmazonVPCReadOnlyAccess","v2",False,"2015-05-07T17:59:08+00:00",0,0,0,0,0,0,0
 "AmazonDMSCloudWatchLogsRole","v1",False,"2016-01-07T23:44:53+00:00",0,0,0,0,0,0,0
 "AmazonDMSCloudWatchLogsRole","v2",True,"2023-05-23T21:32:57+00:00",0,0,0,0,0,0,0
-"AmazonEKSLocalOutpostClusterPolicy","v3",True,"2022-10-17T16:02:34+00:00",0,2,0,0,0,1,2
+"AmazonEKSLocalOutpostClusterPolicy","v4",True,"2024-10-24T17:59:05+00:00",0,2,0,0,0,1,3
+"AmazonEKSLocalOutpostClusterPolicy","v3",False,"2022-10-17T16:02:34+00:00",0,2,0,0,0,1,2
 "AmazonEKSLocalOutpostClusterPolicy","v1",False,"2022-08-24T21:56:47+00:00",0,2,0,0,0,1,2
 "AmazonEKSLocalOutpostClusterPolicy","v2",False,"2022-09-01T16:30:43+00:00",0,2,0,0,0,1,2
 "AWSDeepRacerFullAccess","v1",True,"2020-10-05T22:03:10+00:00",0,0,0,0,0,0,0
