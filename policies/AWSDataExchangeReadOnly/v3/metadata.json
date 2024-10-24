@@ -1,6 +1,6 @@
 {
     "VersionId": "v3",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2024-07-22T13:36:03+00:00",
     "PolicyName": "AWSDataExchangeReadOnly"
 }

@@ -1,0 +1,27 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "dataexchange"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "dataexchange:CancelJob",
+        "dataexchange:CreateAsset",
+        "dataexchange:CreateRevision",
+        "dataexchange:DeleteAsset",
+        "dataexchange:DeleteDataSet",
+        "dataexchange:DeleteRevision",
+        "dataexchange:RevokeRevision",
+        "dataexchange:SendApiAsset",
+        "dataexchange:SendDataSetNotification",
+        "dataexchange:StartJob",
+        "dataexchange:TagResource",
+        "dataexchange:UntagResource",
+        "dataexchange:UpdateAsset",
+        "dataexchange:UpdateDataSet",
+        "dataexchange:UpdateRevision"
+    ]
+}

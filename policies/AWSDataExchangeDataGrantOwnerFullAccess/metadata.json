@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSDataExchangeDataGrantOwnerFullAccess",
+    "PolicyId": "ANPAZKAPJZG4KNFOUVXKN",
+    "Arn": "arn:aws:iam::aws:policy/AWSDataExchangeDataGrantOwnerFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2024-10-24T14:43:43+00:00",
+    "UpdateDate": "2024-10-24T14:43:43+00:00"
+}
