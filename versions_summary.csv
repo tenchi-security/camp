@@ -753,9 +753,10 @@
 "AmazonDynamoDBFullAccess","v2",False,"2015-11-12T02:17:28+00:00",1,4,0,2,0,0,37
 "AmazonChimeServiceRolePolicy","v1",True,"2019-09-30T22:25:06+00:00",0,0,0,0,0,0,0
 "ElasticLoadBalancingFullAccess","v4",False,"2019-03-25T21:33:12+00:00",1,2,0,1,0,0,24
+"ElasticLoadBalancingFullAccess","v8",True,"2024-10-24T22:21:39+00:00",2,2,0,1,0,0,46
 "ElasticLoadBalancingFullAccess","v3",False,"2018-12-12T18:49:21+00:00",1,2,0,1,0,0,24
 "ElasticLoadBalancingFullAccess","v6",False,"2021-08-26T18:32:13+00:00",1,2,0,1,0,0,24
-"ElasticLoadBalancingFullAccess","v7",True,"2022-11-29T01:45:49+00:00",2,2,0,1,0,0,41
+"ElasticLoadBalancingFullAccess","v7",False,"2022-11-29T01:45:49+00:00",2,2,0,1,0,0,41
 "ElasticLoadBalancingFullAccess","v1",False,"2018-09-20T20:42:07+00:00",1,2,0,1,0,0,24
 "ElasticLoadBalancingFullAccess","v5",False,"2020-12-04T20:01:39+00:00",1,2,0,1,0,0,24
 "ElasticLoadBalancingFullAccess","v2",False,"2018-12-03T18:07:30+00:00",1,2,0,1,0,0,24
@@ -3615,9 +3616,10 @@
 "AmazonMachineLearningCreateOnlyAccess","v2",True,"2016-06-29T20:55:03+00:00",0,1,0,0,0,0,14
 "AWSMarketplaceProcurementSystemAdminFullAccess","v1",True,"2019-06-25T13:07:47+00:00",0,0,0,0,0,0,0
 "AWSElasticLoadBalancingServiceRolePolicy","v4",False,"2019-10-07T22:55:16+00:00",0,1,0,0,0,0,12
+"AWSElasticLoadBalancingServiceRolePolicy","v8",True,"2024-10-24T22:50:24+00:00",0,1,0,0,0,0,14
 "AWSElasticLoadBalancingServiceRolePolicy","v3",False,"2019-03-18T21:51:14+00:00",0,1,0,0,0,0,12
 "AWSElasticLoadBalancingServiceRolePolicy","v6",False,"2020-05-19T16:40:28+00:00",0,1,0,0,0,0,14
-"AWSElasticLoadBalancingServiceRolePolicy","v7",True,"2021-08-26T19:01:48+00:00",0,1,0,0,0,0,14
+"AWSElasticLoadBalancingServiceRolePolicy","v7",False,"2021-08-26T19:01:48+00:00",0,1,0,0,0,0,14
 "AWSElasticLoadBalancingServiceRolePolicy","v1",False,"2017-09-19T22:19:04+00:00",0,1,0,0,0,0,12
 "AWSElasticLoadBalancingServiceRolePolicy","v5",False,"2020-05-05T19:32:02+00:00",0,1,0,0,0,0,13
 "AWSElasticLoadBalancingServiceRolePolicy","v2",False,"2018-05-14T21:18:07+00:00",0,1,0,0,0,0,12
