@@ -1,6 +1,6 @@
 {
     "VersionId": "v13",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2024-05-30T18:34:54+00:00",
     "PolicyName": "AccessAnalyzerServiceRolePolicy"
 }
