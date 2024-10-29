@@ -1,0 +1,20 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "ec2"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "ec2:AssignIpv6Addresses",
+        "ec2:AssignPrivateIpAddresses",
+        "ec2:AttachNetworkInterface",
+        "ec2:CreateNetworkInterface",
+        "ec2:CreateTags",
+        "ec2:DetachNetworkInterface",
+        "ec2:UnassignIpv6Addresses",
+        "ec2:UnassignPrivateIpAddresses"
+    ]
+}
