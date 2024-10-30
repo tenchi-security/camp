@@ -1,0 +1,17 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "ec2"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "ec2:AttachVolume",
+        "ec2:CreateTags",
+        "ec2:DetachVolume",
+        "ec2:EnableFastSnapshotRestores",
+        "ec2:ModifyVolume"
+    ]
+}

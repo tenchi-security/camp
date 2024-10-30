@@ -1885,6 +1885,7 @@
 "AWSBatchServiceEventTargetRole","v1",True,"2018-02-28T22:31:13+00:00",0,1,0,0,0,0,1
 "AWSLicenseManagerLinuxSubscriptionsServiceRolePolicy","v1",False,"2022-12-20T18:54:54+00:00",0,0,0,0,0,0,0
 "AWSLicenseManagerLinuxSubscriptionsServiceRolePolicy","v2",True,"2024-07-08T22:04:56+00:00",0,0,0,0,0,0,0
+"AmazonEKSLoadBalancingPolicy","v1",True,"2024-10-30T20:18:06+00:00",0,3,0,0,0,0,18
 "AWSCodeDeployDeployerAccess","v3",True,"2020-04-02T16:16:11+00:00",0,2,0,0,0,0,6
 "AWSCodeDeployDeployerAccess","v1",False,"2015-05-19T18:18:43+00:00",0,1,0,0,0,0,2
 "AWSCodeDeployDeployerAccess","v2",False,"2019-11-05T22:59:06+00:00",0,2,0,0,0,0,6
@@ -2040,6 +2041,7 @@
 "AWSResourceGroupsReadOnlyAccess","v2",True,"2019-02-05T17:56:25+00:00",0,0,0,0,0,0,0
 "AWSApplicationDiscoveryAgentAccess","v1",False,"2016-05-11T21:38:47+00:00",0,0,0,0,0,0,0
 "AWSApplicationDiscoveryAgentAccess","v2",True,"2020-02-24T22:26:45+00:00",0,0,0,0,0,0,0
+"AmazonEKSBlockStoragePolicy","v1",True,"2024-10-30T20:18:13+00:00",0,1,0,0,0,0,5
 "CloudWatchAutomaticDashboardsAccess","v4",True,"2021-04-20T13:05:40+00:00",0,0,0,0,0,0,0
 "CloudWatchAutomaticDashboardsAccess","v3",False,"2020-12-18T17:48:20+00:00",0,0,0,0,0,0,0
 "CloudWatchAutomaticDashboardsAccess","v1",False,"2019-07-23T10:01:08+00:00",0,0,0,0,0,0,0
