@@ -647,6 +647,7 @@
 "SecurityAudit","v33",False,"2020-09-28T18:51:23+00:00",0,1,0,2,0,0,2
 "SecurityAudit","v38",False,"2023-06-07T18:56:25+00:00",0,1,0,2,0,0,2
 "SecurityAudit","v35",False,"2021-04-14T20:28:28+00:00",0,1,0,2,0,0,2
+"SecurityAudit","v45",True,"2024-10-30T18:36:49+00:00",0,1,0,3,0,0,3
 "SecurityAudit","v11",False,"2017-05-31T21:34:02+00:00",0,0,0,0,0,0,0
 "SecurityAudit","v3",False,"2015-06-15T22:13:40+00:00",0,0,0,0,0,0,0
 "SecurityAudit","v26",False,"2019-03-22T16:38:42+00:00",0,1,0,2,0,0,2
@@ -675,7 +676,7 @@
 "SecurityAudit","v15",False,"2018-01-17T18:46:08+00:00",0,0,0,0,0,0,0
 "SecurityAudit","v18",False,"2018-05-01T20:06:14+00:00",0,0,0,0,0,0,0
 "SecurityAudit","v42",False,"2024-04-05T17:32:58+00:00",0,1,0,3,0,0,3
-"SecurityAudit","v44",True,"2024-10-17T21:16:58+00:00",0,1,0,3,0,0,3
+"SecurityAudit","v44",False,"2024-10-17T21:16:58+00:00",0,1,0,3,0,0,3
 "SecurityAudit","v2",False,"2015-04-21T16:44:38+00:00",0,0,0,0,0,0,0
 "AWSElementalMediaTailorFullAccess","v1",True,"2021-11-23T00:04:39+00:00",1,1,0,2,0,0,14
 "AmazonInspector2AgentlessServiceRolePolicy","v1",True,"2023-11-20T15:18:32+00:00",0,0,0,0,0,0,0
