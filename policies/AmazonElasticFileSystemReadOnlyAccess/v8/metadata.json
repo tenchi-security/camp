@@ -1,6 +1,6 @@
 {
     "VersionId": "v8",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2024-08-07T16:59:47+00:00",
     "PolicyName": "AmazonElasticFileSystemReadOnlyAccess"
 }

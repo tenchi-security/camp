@@ -3,10 +3,10 @@
     "PolicyId": "ANPAIPN5S4NE5JJOKVC4Y",
     "Arn": "arn:aws:iam::aws:policy/AmazonElasticFileSystemReadOnlyAccess",
     "Path": "/",
-    "DefaultVersionId": "v8",
+    "DefaultVersionId": "v9",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2015-05-27T16:25:25+00:00",
-    "UpdateDate": "2024-08-07T16:59:47+00:00"
+    "UpdateDate": "2024-11-07T19:39:56+00:00"
 }

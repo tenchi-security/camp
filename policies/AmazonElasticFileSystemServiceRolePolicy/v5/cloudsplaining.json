@@ -1,0 +1,22 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "ec2",
+        "elasticfilesystem",
+        "iam"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:CreateServiceLinkedRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "ec2:CreateNetworkInterface",
+        "ec2:DeleteNetworkInterface",
+        "ec2:ModifyNetworkInterfaceAttribute",
+        "elasticfilesystem:CreateReplicationConfiguration",
+        "elasticfilesystem:DeleteReplicationConfiguration",
+        "iam:CreateServiceLinkedRole"
+    ]
+}
