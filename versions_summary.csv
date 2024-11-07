@@ -1665,7 +1665,8 @@
 "AWSConfigRole","v18",False,"2018-08-31T22:14:52+00:00",0,2,0,0,1,0,6
 "AWSConfigRole","v42",True,"2022-02-10T18:33:55+00:00",0,2,0,0,1,0,6
 "AWSConfigRole","v2",False,"2015-10-14T22:02:05+00:00",0,1,0,0,1,0,1
-"AmazonEKSComputePolicy","v1",True,"2024-11-01T21:46:52+00:00",0,2,0,1,0,0,5
+"AmazonEKSComputePolicy","v1",False,"2024-11-01T21:46:52+00:00",0,2,0,1,0,0,5
+"AmazonEKSComputePolicy","v2",True,"2024-11-07T21:21:18+00:00",0,2,0,1,0,0,5
 "AmazonAppStreamFullAccess","v4",False,"2019-08-07T19:27:59+00:00",1,2,0,0,0,0,27
 "AmazonAppStreamFullAccess","v3",False,"2018-09-10T17:29:25+00:00",1,2,0,0,0,0,27
 "AmazonAppStreamFullAccess","v6",True,"2020-08-28T17:24:35+00:00",1,2,0,0,0,0,27
