@@ -1312,9 +1312,10 @@
 "AWSDirectoryServiceFullAccess","v1",False,"2015-02-06T18:41:11+00:00",1,2,0,5,0,0,47
 "AWSDirectoryServiceFullAccess","v5",False,"2020-11-24T23:24:10+00:00",1,2,0,5,0,0,47
 "AWSDirectoryServiceFullAccess","v2",False,"2016-02-24T23:10:36+00:00",1,2,0,5,0,0,47
-"AWSIPAMServiceRolePolicy","v4",True,"2023-11-08T19:05:45+00:00",0,0,0,0,0,0,0
+"AWSIPAMServiceRolePolicy","v4",False,"2023-11-08T19:05:45+00:00",0,0,0,0,0,0,0
 "AWSIPAMServiceRolePolicy","v3",False,"2023-11-01T16:27:52+00:00",0,0,0,0,0,0,0
 "AWSIPAMServiceRolePolicy","v1",False,"2021-11-30T19:08:11+00:00",0,0,0,0,0,0,0
+"AWSIPAMServiceRolePolicy","v5",True,"2024-11-08T16:29:09+00:00",0,0,0,0,0,0,0
 "AWSIPAMServiceRolePolicy","v2",False,"2023-01-25T20:13:08+00:00",0,0,0,0,0,0,0
 "AmazonRDSBetaServiceRolePolicy","v4",False,"2020-07-28T19:26:48+00:00",0,2,0,0,0,0,11
 "AmazonRDSBetaServiceRolePolicy","v8",False,"2022-12-14T18:33:17+00:00",0,2,0,0,0,0,17
