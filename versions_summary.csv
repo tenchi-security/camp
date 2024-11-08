@@ -2515,7 +2515,8 @@
 "AmazonDetectiveServiceLinkedRolePolicy","v1",True,"2021-11-18T19:47:32+00:00",0,0,0,0,0,0,0
 "AWSLambdaENIManagementAccess","v1",False,"2016-12-06T00:37:27+00:00",0,1,0,0,0,0,2
 "AWSLambdaENIManagementAccess","v2",True,"2020-10-01T20:07:26+00:00",0,1,0,0,0,0,4
-"AWSLicenseManagerUserSubscriptionsServiceRolePolicy","v3",True,"2022-11-21T19:51:42+00:00",0,0,0,0,0,0,0
+"AWSLicenseManagerUserSubscriptionsServiceRolePolicy","v4",True,"2024-11-08T02:54:26+00:00",0,0,0,0,0,0,0
+"AWSLicenseManagerUserSubscriptionsServiceRolePolicy","v3",False,"2022-11-21T19:51:42+00:00",0,0,0,0,0,0,0
 "AWSLicenseManagerUserSubscriptionsServiceRolePolicy","v1",False,"2022-07-30T01:17:18+00:00",0,0,0,0,0,0,0
 "AWSLicenseManagerUserSubscriptionsServiceRolePolicy","v2",False,"2022-10-25T19:22:26+00:00",0,0,0,0,0,0,0
 "AWSPanoramaFullAccess","v4",True,"2022-01-12T21:21:04+00:00",1,3,0,3,0,0,20
