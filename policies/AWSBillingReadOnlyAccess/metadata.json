@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4LJ3OSZ5SX",
     "Arn": "arn:aws:iam::aws:policy/AWSBillingReadOnlyAccess",
     "Path": "/",
-    "DefaultVersionId": "v7",
+    "DefaultVersionId": "v8",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2020-08-27T20:08:51+00:00",
-    "UpdateDate": "2024-05-23T23:23:30+00:00"
+    "UpdateDate": "2024-11-12T18:16:52+00:00"
 }

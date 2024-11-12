@@ -3,10 +3,10 @@
     "PolicyId": "ANPAIFTHXT6FFMIRT7ZEA",
     "Arn": "arn:aws:iam::aws:policy/job-function/Billing",
     "Path": "/job-function/",
-    "DefaultVersionId": "v11",
+    "DefaultVersionId": "v12",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2016-11-10T17:33:18+00:00",
-    "UpdateDate": "2024-05-23T23:26:02+00:00"
+    "UpdateDate": "2024-11-12T18:12:19+00:00"
 }

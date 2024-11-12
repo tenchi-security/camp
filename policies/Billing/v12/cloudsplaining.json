@@ -1,0 +1,37 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "budgets",
+        "ce",
+        "cur",
+        "payments",
+        "purchase-orders"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "budgets:CreateBudgetAction",
+        "budgets:DeleteBudgetAction",
+        "budgets:ExecuteBudgetAction",
+        "budgets:ModifyBudget",
+        "budgets:UpdateBudgetAction",
+        "ce:DeleteCostCategoryDefinition",
+        "ce:TagResource",
+        "ce:UntagResource",
+        "ce:UpdateCostCategoryDefinition",
+        "cur:DeleteReportDefinition",
+        "cur:ModifyReportDefinition",
+        "cur:PutReportDefinition",
+        "payments:TagResource",
+        "payments:UntagResource",
+        "purchase-orders:AddPurchaseOrder",
+        "purchase-orders:DeletePurchaseOrder",
+        "purchase-orders:ModifyPurchaseOrders",
+        "purchase-orders:TagResource",
+        "purchase-orders:UntagResource",
+        "purchase-orders:UpdatePurchaseOrder",
+        "purchase-orders:UpdatePurchaseOrderStatus"
+    ]
+}
