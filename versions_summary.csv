@@ -2125,9 +2125,10 @@
 "CloudWatchReadOnlyAccess","v5",False,"2022-11-27T13:08:46+00:00",0,0,0,0,0,0,0
 "CloudWatchReadOnlyAccess","v9",True,"2024-05-17T22:17:51+00:00",0,0,0,0,0,0,0
 "CloudWatchReadOnlyAccess","v2",False,"2017-11-02T20:50:10+00:00",0,0,0,0,0,0,0
-"AmazonQFullAccess","v4",True,"2024-10-28T20:01:31+00:00",0,0,0,0,0,0,0
+"AmazonQFullAccess","v4",False,"2024-10-28T20:01:31+00:00",0,0,0,0,0,0,0
 "AmazonQFullAccess","v3",False,"2024-07-09T08:35:50+00:00",0,0,0,0,0,0,0
 "AmazonQFullAccess","v1",False,"2023-11-28T16:00:24+00:00",1,0,0,0,0,0,0
+"AmazonQFullAccess","v5",True,"2024-11-13T21:51:39+00:00",0,0,0,0,0,0,0
 "AmazonQFullAccess","v2",False,"2024-04-29T17:02:36+00:00",1,0,0,0,0,0,0
 "CloudWatchApplicationSignalsFullAccess","v1",True,"2024-06-06T22:50:16+00:00",1,1,0,0,0,0,4
 "AWSLambdaExecute","v1",True,"2015-02-06T18:40:46+00:00",1,0,0,0,0,0,0
@@ -2643,8 +2644,9 @@
 "AWSSSOMemberAccountAdministrator","v5",False,"2022-04-28T18:53:46+00:00",3,2,0,5,0,0,18
 "AWSSSOMemberAccountAdministrator","v2",False,"2018-10-17T20:35:52+00:00",1,2,0,31,0,0,18
 "AWSServiceCatalogOrgsDataSyncServiceRolePolicy","v1",True,"2023-04-10T20:48:28+00:00",0,0,0,0,0,0,0
+"AmazonQDeveloperAccess","v3",True,"2024-11-13T21:30:27+00:00",0,0,0,0,0,0,0
 "AmazonQDeveloperAccess","v1",False,"2024-07-09T08:35:15+00:00",0,0,0,0,0,0,0
-"AmazonQDeveloperAccess","v2",True,"2024-10-28T20:02:12+00:00",0,0,0,0,0,0,0
+"AmazonQDeveloperAccess","v2",False,"2024-10-28T20:02:12+00:00",0,0,0,0,0,0,0
 "AWSIoTDeviceDefenderReplaceDefaultPolicyMitigationAction","v1",True,"2019-08-07T17:04:57+00:00",0,1,0,0,0,0,1
 "AmazonRedshiftReadOnlyAccess","v1",False,"2015-02-06T18:40:51+00:00",0,0,0,0,0,0,0
 "AmazonRedshiftReadOnlyAccess","v2",True,"2024-02-08T00:24:13+00:00",0,0,0,0,0,0,0

@@ -1,6 +1,6 @@
 {
     "VersionId": "v2",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2024-10-28T20:02:12+00:00",
     "PolicyName": "AmazonQDeveloperAccess"
 }
