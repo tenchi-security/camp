@@ -3507,6 +3507,7 @@
 "AWSElasticDisasterRecoveryFailbackPolicy","v2",True,"2023-11-27T12:56:46+00:00",0,0,0,0,0,0,0
 "AmazonSSMDirectoryServiceAccess","v1",True,"2019-03-15T17:44:38+00:00",0,1,0,0,0,0,1
 "AWSApplicationAutoscalingComprehendEndpointPolicy","v1",True,"2019-11-14T18:39:07+00:00",0,2,0,0,0,0,3
+"AmazonODBServiceRolePolicy","v1",True,"2024-11-13T18:21:41+00:00",0,0,0,0,0,0,0
 "AWSDataSyncFullAccess","v4",False,"2023-05-02T16:37:43+00:00",1,4,0,2,0,0,20
 "AWSDataSyncFullAccess","v3",False,"2020-06-30T17:58:58+00:00",1,4,0,2,0,0,15
 "AWSDataSyncFullAccess","v6",False,"2024-07-22T16:13:41+00:00",1,4,0,2,0,0,29
