@@ -2058,6 +2058,7 @@
 "AWSCleanRoomsFullAccess","v2",True,"2024-03-21T15:35:13+00:00",1,1,0,0,0,0,23
 "AmazonSSMAutomationApproverAccess","v1",True,"2017-08-07T23:07:28+00:00",0,0,0,0,0,0,0
 "AmazonMechanicalTurkFullAccess","v1",True,"2015-12-11T19:08:19+00:00",1,0,0,0,0,0,0
+"CloudWatchInternetMonitorReadOnlyAccess","v1",True,"2024-11-12T23:11:17+00:00",0,0,0,0,0,0,0
 "AWSTrustedAdvisorServiceRolePolicy","v14",True,"2024-10-30T16:52:06+00:00",0,0,0,0,0,0,0
 "AWSTrustedAdvisorServiceRolePolicy","v4",False,"2018-12-13T21:54:30+00:00",0,0,0,0,0,0,0
 "AWSTrustedAdvisorServiceRolePolicy","v8",False,"2020-04-08T16:15:31+00:00",0,0,0,0,0,0,0
@@ -2275,6 +2276,7 @@
 "AWSZonalAutoshiftPracticeRunSLRPolicy","v1",True,"2023-11-29T17:34:54+00:00",0,1,0,0,0,0,3
 "ServiceQuotasReadOnlyAccess","v1",False,"2019-06-24T15:31:06+00:00",0,0,0,0,0,0,0
 "ServiceQuotasReadOnlyAccess","v2",True,"2020-12-21T18:11:57+00:00",0,0,0,0,0,0,0
+"AmazonDataZoneBedrockModelManagementPolicy","v1",True,"2024-11-12T22:14:20+00:00",0,0,0,0,0,0,0
 "AmazonEventBridgeSchedulerFullAccess","v1",True,"2022-11-10T18:37:25+00:00",1,0,0,0,0,0,0
 "CloudWatchLambdaInsightsExecutionRolePolicy","v1",True,"2020-10-07T19:27:06+00:00",0,1,0,0,0,0,1
 "IVSFullAccess","v1",True,"2023-12-13T21:20:21+00:00",2,2,0,0,0,0,32
@@ -2580,6 +2582,7 @@
 "AWSIoTLogging","v1",True,"2015-10-08T15:17:25+00:00",0,1,0,0,0,0,6
 "KeyspacesReplicationServiceRolePolicy","v1",True,"2023-05-02T16:15:49+00:00",0,1,0,0,0,0,1
 "LexChannelPolicy","v1",True,"2017-02-17T23:23:24+00:00",0,0,0,0,0,0,0
+"AmazonDataZoneBedrockModelConsumptionPolicy","v1",True,"2024-11-12T22:15:08+00:00",0,0,0,0,0,0,0
 "AWSDeepRacerDefaultMultiUserAccess","v1",True,"2021-10-28T01:27:13+00:00",0,1,0,0,0,0,16
 "AWSMarketplaceAmiIngestion","v1",True,"2020-09-25T20:55:10+00:00",0,1,0,0,0,0,1
 "AWSApplicationMigrationEC2Access","v4",True,"2023-02-06T16:07:02+00:00",0,0,0,0,0,0,0
@@ -2972,7 +2975,8 @@
 "AWSLicenseManagerMemberAccountRolePolicy","v2",True,"2019-11-15T22:09:32+00:00",0,3,0,1,0,0,5
 "AWSLambdaRole","v1",True,"2015-02-06T18:41:28+00:00",0,1,0,0,0,0,1
 "AmazonLexV2BotPolicy","v1",True,"2021-01-13T20:10:29+00:00",0,0,0,0,0,0,0
-"AmazonConnectSynchronizationServiceRolePolicy","v3",True,"2024-09-25T16:49:38+00:00",0,1,0,0,0,0,66
+"AmazonConnectSynchronizationServiceRolePolicy","v4",True,"2024-11-12T22:22:17+00:00",0,1,0,0,0,0,123
+"AmazonConnectSynchronizationServiceRolePolicy","v3",False,"2024-09-25T16:49:38+00:00",0,1,0,0,0,0,66
 "AmazonConnectSynchronizationServiceRolePolicy","v1",False,"2023-10-27T22:38:25+00:00",0,1,0,0,0,0,75
 "AmazonConnectSynchronizationServiceRolePolicy","v2",False,"2024-07-24T17:45:43+00:00",0,1,0,0,0,0,66
 "AwsGlueSessionUserRestrictedServiceRole","v3",True,"2024-08-05T23:14:07+00:00",1,0,0,0,0,0,0

@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonDataZoneBedrockModelManagementPolicy",
+    "PolicyId": "ANPAZKAPJZG4ALVU5XWVF",
+    "Arn": "arn:aws:iam::aws:policy/service-role/AmazonDataZoneBedrockModelManagementPolicy",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2024-11-12T22:14:20+00:00",
+    "UpdateDate": "2024-11-12T22:14:20+00:00"
+}
