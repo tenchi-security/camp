@@ -1,0 +1,46 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "OpportunityManagement",
+            "Effect": "Allow",
+            "Action": [
+                "partnercentral:AcceptEngagementInvitation",
+                "partnercentral:AssignOpportunity",
+                "partnercentral:AssociateOpportunity",
+                "partnercentral:CreateOpportunity",
+                "partnercentral:DisassociateOpportunity",
+                "partnercentral:GetAwsOpportunitySummary",
+                "partnercentral:GetEngagementInvitation",
+                "partnercentral:GetOpportunity",
+                "partnercentral:ListEngagementInvitations",
+                "partnercentral:ListOpportunities",
+                "partnercentral:ListSolutions",
+                "partnercentral:RejectEngagementInvitation",
+                "partnercentral:StartEngagementByAcceptingInvitationTask",
+                "partnercentral:StartEngagementFromOpportunityTask",
+                "partnercentral:SubmitOpportunity",
+                "partnercentral:UpdateOpportunity"
+            ],
+            "Resource": "*"
+        },
+        {
+            "Sid": "ListingAWSMarketplaceEntities",
+            "Effect": "Allow",
+            "Action": [
+                "aws-marketplace:ListEntities"
+            ],
+            "Resource": "*"
+        },
+        {
+            "Sid": "AWSMarketplaceOffersAccess",
+            "Effect": "Allow",
+            "Action": [
+                "aws-marketplace:DescribeEntity"
+            ],
+            "Resource": [
+                "arn:aws:aws-marketplace:*:*:AWSMarketplace/Offer/*"
+            ]
+        }
+    ]
+}

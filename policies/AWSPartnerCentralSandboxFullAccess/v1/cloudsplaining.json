@@ -1,0 +1,11 @@
+{
+    "ServiceWildcard": [
+        "partnercentral"
+    ],
+    "ServicesAffected": [],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": []
+}
