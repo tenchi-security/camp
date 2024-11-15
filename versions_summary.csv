@@ -1773,7 +1773,7 @@
 "AmazonDocDBReadOnlyAccess","v1",True,"2019-01-09T20:30:28+00:00",0,0,0,0,0,0,0
 "AWSCloudMapReadOnlyAccess","v1",False,"2018-11-28T23:45:26+00:00",0,0,0,0,0,0,0
 "AWSCloudMapReadOnlyAccess","v2",True,"2023-09-20T21:47:45+00:00",0,0,0,0,0,0,0
-"AmazonSSMServiceRolePolicy","v14",True,"2022-09-14T19:46:49+00:00",0,3,0,1,1,0,6
+"AmazonSSMServiceRolePolicy","v14",False,"2022-09-14T19:46:49+00:00",0,3,0,1,1,0,6
 "AmazonSSMServiceRolePolicy","v4",False,"2019-10-24T23:36:39+00:00",0,2,0,1,1,0,4
 "AmazonSSMServiceRolePolicy","v8",False,"2020-07-31T19:21:40+00:00",0,2,0,1,1,0,4
 "AmazonSSMServiceRolePolicy","v11",False,"2021-01-05T23:57:10+00:00",0,2,0,1,1,0,4
@@ -1786,6 +1786,7 @@
 "AmazonSSMServiceRolePolicy","v5",False,"2020-01-22T21:46:17+00:00",0,2,0,1,1,0,4
 "AmazonSSMServiceRolePolicy","v9",False,"2020-11-11T19:27:12+00:00",0,2,0,1,1,0,4
 "AmazonSSMServiceRolePolicy","v13",False,"2021-04-26T20:43:46+00:00",0,3,0,1,1,0,6
+"AmazonSSMServiceRolePolicy","v15",True,"2024-11-15T14:08:27+00:00",0,3,0,1,1,0,7
 "AmazonSSMServiceRolePolicy","v2",False,"2017-11-15T21:25:26+00:00",0,1,0,0,0,0,1
 "AWSFaultInjectionSimulatorNetworkAccess","v1",False,"2022-10-26T20:32:50+00:00",0,0,0,0,0,0,0
 "AWSFaultInjectionSimulatorNetworkAccess","v2",True,"2024-01-25T16:07:44+00:00",0,0,0,0,0,0,0
