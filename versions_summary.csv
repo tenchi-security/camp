@@ -2581,6 +2581,7 @@
 "AWSIAMIdentityCenterAllowListForIdentityContext","v5",False,"2024-04-24T19:03:59+00:00",0,0,0,0,0,0,0
 "AWSIAMIdentityCenterAllowListForIdentityContext","v9",False,"2024-06-27T19:33:56+00:00",0,0,0,0,0,0,0
 "AWSIAMIdentityCenterAllowListForIdentityContext","v2",False,"2023-11-25T19:27:00+00:00",0,0,0,0,0,0,0
+"AmazonECSInfrastructureRolePolicyForVpcLattice","v1",True,"2024-11-15T20:02:55+00:00",0,0,0,0,0,0,0
 "AmazonInspectorFullAccess","v4",False,"2017-11-01T18:20:39+00:00",1,0,0,0,0,0,0
 "AmazonInspectorFullAccess","v3",False,"2017-09-12T17:42:57+00:00",1,0,0,0,0,0,0
 "AmazonInspectorFullAccess","v1",False,"2015-10-07T17:08:04+00:00",1,0,0,0,0,0,0
