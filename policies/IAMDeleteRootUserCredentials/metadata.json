@@ -1,0 +1,12 @@
+{
+    "PolicyName": "IAMDeleteRootUserCredentials",
+    "PolicyId": "ANPAZKAPJZG4CX73XKORQ",
+    "Arn": "arn:aws:iam::aws:policy/root-task/IAMDeleteRootUserCredentials",
+    "Path": "/root-task/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2024-11-06T22:47:58+00:00",
+    "UpdateDate": "2024-11-06T22:47:58+00:00"
+}

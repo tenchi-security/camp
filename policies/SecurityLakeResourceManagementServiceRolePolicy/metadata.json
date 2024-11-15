@@ -1,0 +1,12 @@
+{
+    "PolicyName": "SecurityLakeResourceManagementServiceRolePolicy",
+    "PolicyId": "ANPAZKAPJZG4INIYQBUHP",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/SecurityLakeResourceManagementServiceRolePolicy",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2024-11-14T22:10:14+00:00",
+    "UpdateDate": "2024-11-14T22:10:14+00:00"
+}

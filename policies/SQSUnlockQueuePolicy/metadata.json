@@ -1,0 +1,12 @@
+{
+    "PolicyName": "SQSUnlockQueuePolicy",
+    "PolicyId": "ANPAZKAPJZG4HPZI4FDUV",
+    "Arn": "arn:aws:iam::aws:policy/root-task/SQSUnlockQueuePolicy",
+    "Path": "/root-task/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2024-11-06T21:51:02+00:00",
+    "UpdateDate": "2024-11-06T21:51:02+00:00"
+}

@@ -1129,6 +1129,7 @@
 "AWSElasticDisasterRecoveryRecoveryInstancePolicy","v3",False,"2023-05-14T07:32:48+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryRecoveryInstancePolicy","v1",False,"2021-11-17T10:20:43+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryRecoveryInstancePolicy","v2",False,"2022-10-30T13:17:11+00:00",0,0,0,0,0,0,0
+"SecurityLakeResourceManagementServiceRolePolicy","v1",True,"2024-11-14T22:10:14+00:00",0,1,0,0,0,0,1
 "AmazonS3ReadOnlyAccess","v3",True,"2023-08-10T21:31:39+00:00",0,1,0,0,1,0,1
 "AmazonS3ReadOnlyAccess","v1",False,"2015-02-06T18:40:59+00:00",0,1,0,0,1,0,1
 "AmazonS3ReadOnlyAccess","v2",False,"2021-09-27T20:24:58+00:00",0,1,0,0,1,0,1
@@ -2044,6 +2045,7 @@
 "FMSServiceRolePolicy","v15",False,"2020-08-05T23:22:08+00:00",0,3,0,0,0,0,5
 "FMSServiceRolePolicy","v18",False,"2021-03-31T21:02:38+00:00",0,5,0,2,0,0,26
 "FMSServiceRolePolicy","v2",False,"2018-04-02T19:16:15+00:00",0,2,0,0,0,0,4
+"S3UnlockBucketPolicy","v1",True,"2024-11-06T21:55:56+00:00",0,0,0,0,0,0,0
 "AmazonElasticMapReduceReadOnlyAccess","v3",True,"2020-07-29T23:14:09+00:00",0,1,0,0,1,0,1
 "AmazonElasticMapReduceReadOnlyAccess","v1",False,"2015-02-06T18:40:23+00:00",0,1,0,0,1,0,1
 "AmazonElasticMapReduceReadOnlyAccess","v2",False,"2017-05-22T23:00:19+00:00",0,1,0,0,1,0,1
@@ -2119,6 +2121,7 @@
 "AWSCodeStarNotificationsServiceRolePolicy","v1",False,"2019-11-05T16:10:21+00:00",0,0,0,0,0,0,0
 "AWSCodeStarNotificationsServiceRolePolicy","v2",False,"2019-12-12T23:00:09+00:00",0,0,0,0,0,0,0
 "AmazonOneEnterpriseReadOnlyAccess","v1",True,"2023-11-28T04:59:23+00:00",0,0,0,0,0,0,0
+"IAMAuditRootUserCredentials","v1",True,"2024-11-06T22:27:58+00:00",0,0,0,0,0,0,0
 "AmazonElasticMapReduceforAutoScalingRole","v1",True,"2016-11-18T01:09:10+00:00",0,1,0,0,0,0,1
 "SMSVoiceServiceRolePolicy","v1",True,"2024-11-14T17:04:34+00:00",0,0,0,0,0,0,0
 "CloudWatchReadOnlyAccess","v4",False,"2020-07-17T17:49:09+00:00",0,0,0,0,0,0,0
@@ -2284,9 +2287,11 @@
 "ServiceQuotasReadOnlyAccess","v1",False,"2019-06-24T15:31:06+00:00",0,0,0,0,0,0,0
 "ServiceQuotasReadOnlyAccess","v2",True,"2020-12-21T18:11:57+00:00",0,0,0,0,0,0,0
 "AmazonDataZoneBedrockModelManagementPolicy","v1",True,"2024-11-12T22:14:20+00:00",0,0,0,0,0,0,0
+"IAMDeleteRootUserCredentials","v1",True,"2024-11-06T22:47:58+00:00",0,0,0,0,0,0,0
 "AmazonEventBridgeSchedulerFullAccess","v1",True,"2022-11-10T18:37:25+00:00",1,0,0,0,0,0,0
 "CloudWatchLambdaInsightsExecutionRolePolicy","v1",True,"2020-10-07T19:27:06+00:00",0,1,0,0,0,0,1
 "IVSFullAccess","v1",True,"2023-12-13T21:20:21+00:00",2,2,0,0,0,0,32
+"SQSUnlockQueuePolicy","v1",True,"2024-11-06T21:51:02+00:00",0,0,0,0,0,0,0
 "AmazonHoneycodeTeamAssociationFullAccess","v1",True,"2020-06-24T20:28:27+00:00",0,0,0,0,0,0,0
 "AmazonCloudWatchRUMServiceRolePolicy","v3",True,"2023-02-22T20:35:15+00:00",0,0,0,0,0,0,0
 "AmazonCloudWatchRUMServiceRolePolicy","v1",False,"2021-11-17T23:17:23+00:00",0,0,0,0,0,0,0
@@ -3633,6 +3638,7 @@
 "AmazonRekognitionReadOnlyAccess","v5",False,"2020-07-06T20:21:19+00:00",0,0,0,0,0,0,0
 "AmazonRekognitionReadOnlyAccess","v9",False,"2023-07-24T19:04:30+00:00",0,0,0,0,0,0,0
 "AmazonRekognitionReadOnlyAccess","v2",False,"2017-12-06T23:28:39+00:00",0,0,0,0,0,0,0
+"IAMCreateRootUserPassword","v1",True,"2024-11-06T22:32:59+00:00",0,0,0,0,0,0,0
 "ElementalActivationsFullAccess","v1",True,"2020-06-04T21:00:13+00:00",1,1,0,0,0,0,2
 "AWSProtonServiceSyncServiceRolePolicy","v1",True,"2023-04-03T20:40:05+00:00",0,1,0,0,0,0,7
 "AWSOpsWorksCMInstanceProfileRole","v4",False,"2021-01-12T09:37:42+00:00",0,1,0,0,0,0,1
