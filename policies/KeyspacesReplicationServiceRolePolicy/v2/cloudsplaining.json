@@ -1,0 +1,20 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "application-autoscaling",
+        "cassandra"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "application-autoscaling:DeregisterScalableTarget",
+        "application-autoscaling:PutScalingPolicy",
+        "application-autoscaling:RegisterScalableTarget",
+        "cassandra:Alter",
+        "cassandra:AlterMultiRegionResource",
+        "cassandra:Modify",
+        "cassandra:ModifyMultiRegionResource"
+    ]
+}

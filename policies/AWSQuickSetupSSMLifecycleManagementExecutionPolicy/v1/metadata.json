@@ -1,0 +1,6 @@
+{
+    "VersionId": "v1",
+    "IsDefaultVersion": true,
+    "CreateDate": "2024-11-15T21:55:57+00:00",
+    "PolicyName": "AWSQuickSetupSSMLifecycleManagementExecutionPolicy"
+}

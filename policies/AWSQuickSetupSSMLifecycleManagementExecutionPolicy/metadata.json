@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSQuickSetupSSMLifecycleManagementExecutionPolicy",
+    "PolicyId": "ANPAZKAPJZG4KKAHZNZYJ",
+    "Arn": "arn:aws:iam::aws:policy/AWSQuickSetupSSMLifecycleManagementExecutionPolicy",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2024-11-15T21:55:57+00:00",
+    "UpdateDate": "2024-11-15T21:55:57+00:00"
+}

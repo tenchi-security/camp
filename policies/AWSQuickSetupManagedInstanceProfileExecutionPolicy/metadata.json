@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSQuickSetupManagedInstanceProfileExecutionPolicy",
+    "PolicyId": "ANPAZKAPJZG4KKPPGQNXT",
+    "Arn": "arn:aws:iam::aws:policy/AWSQuickSetupManagedInstanceProfileExecutionPolicy",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2024-11-15T21:51:23+00:00",
+    "UpdateDate": "2024-11-15T21:51:23+00:00"
+}

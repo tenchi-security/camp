@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSQuickSetupSSMDeploymentS3BucketRolePolicy",
+    "PolicyId": "ANPAZKAPJZG4F55XLDAMB",
+    "Arn": "arn:aws:iam::aws:policy/AWSQuickSetupSSMDeploymentS3BucketRolePolicy",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2024-11-15T22:01:44+00:00",
+    "UpdateDate": "2024-11-15T22:01:44+00:00"
+}
