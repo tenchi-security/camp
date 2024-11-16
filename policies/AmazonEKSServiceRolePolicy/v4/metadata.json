@@ -1,6 +1,6 @@
 {
     "VersionId": "v4",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2024-10-29T22:39:46+00:00",
     "PolicyName": "AmazonEKSServiceRolePolicy"
 }
