@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSQuickSetupSSMManageResourcesExecutionPolicy",
+    "PolicyId": "ANPAZKAPJZG4IIJFXBPXF",
+    "Arn": "arn:aws:iam::aws:policy/AWSQuickSetupSSMManageResourcesExecutionPolicy",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2024-11-15T22:49:24+00:00",
+    "UpdateDate": "2024-11-15T22:49:24+00:00"
+}

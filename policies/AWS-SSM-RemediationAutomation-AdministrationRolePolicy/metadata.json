@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWS-SSM-RemediationAutomation-AdministrationRolePolicy",
+    "PolicyId": "ANPAZKAPJZG4MHUFHHSI2",
+    "Arn": "arn:aws:iam::aws:policy/AWS-SSM-RemediationAutomation-AdministrationRolePolicy",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2024-11-16T00:14:44+00:00",
+    "UpdateDate": "2024-11-16T00:14:44+00:00"
+}

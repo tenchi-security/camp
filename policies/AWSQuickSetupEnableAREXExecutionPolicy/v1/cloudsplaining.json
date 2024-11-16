@@ -1,0 +1,14 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "resource-explorer-2"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "resource-explorer-2:AssociateDefaultView",
+        "resource-explorer-2:UpdateIndexType"
+    ]
+}

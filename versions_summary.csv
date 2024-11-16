@@ -360,6 +360,7 @@
 "ElementalAppliancesSoftwareReadOnlyAccess","v1",True,"2020-04-01T22:31:09+00:00",0,0,0,0,0,0,0
 "AWSBugBustPlayerAccess","v1",True,"2021-06-24T07:15:00+00:00",0,0,0,0,0,0,0
 "AmazonEKSFargatePodExecutionRolePolicy","v1",True,"2019-11-22T04:34:29+00:00",0,1,0,0,0,1,0
+"AWS-SSM-RemediationAutomation-ExecutionRolePolicy","v1",True,"2024-11-16T00:17:57+00:00",0,0,0,0,0,0,0
 "AmazonElastiCacheFullAccess","v3",True,"2023-11-28T03:49:56+00:00",1,1,0,0,0,0,48
 "AmazonElastiCacheFullAccess","v1",False,"2015-02-06T18:40:20+00:00",1,1,0,0,0,0,46
 "AmazonElastiCacheFullAccess","v2",False,"2017-12-07T17:48:26+00:00",1,1,0,0,0,0,46
@@ -1236,6 +1237,7 @@
 "CloudFormationStackSetsOrgMemberServiceRolePolicy","v1",True,"2019-12-09T23:52:37+00:00",0,0,0,0,0,0,0
 "AWSPanoramaGreengrassGroupRolePolicy","v1",False,"2020-12-01T13:10:22+00:00",1,1,0,0,0,0,14
 "AWSPanoramaGreengrassGroupRolePolicy","v2",True,"2021-01-06T19:30:35+00:00",1,1,0,0,0,0,14
+"AWSQuickSetupSSMDeploymentRolePolicy","v1",True,"2024-11-15T22:53:20+00:00",0,0,0,0,0,0,0
 "AmazonLookoutEquipmentReadOnlyAccess","v3",True,"2022-11-10T22:04:33+00:00",0,0,0,0,0,0,0
 "AmazonLookoutEquipmentReadOnlyAccess","v1",False,"2021-05-05T16:47:55+00:00",0,0,0,0,0,0,0
 "AmazonLookoutEquipmentReadOnlyAccess","v2",False,"2022-06-30T18:33:42+00:00",0,0,0,0,0,0,0
@@ -1702,6 +1704,7 @@
 "AWSCertificateManagerReadOnly","v1",False,"2016-01-21T17:07:33+00:00",0,0,0,0,0,0,0
 "AWSCertificateManagerReadOnly","v2",False,"2016-04-21T15:08:16+00:00",0,0,0,0,0,0,0
 "AWSCostAndUsageReportAutomationPolicy","v1",True,"2021-11-01T21:27:29+00:00",0,0,0,0,0,0,0
+"AWS-SSM-DiagnosisAutomation-OperationalAccountAdministrationRolePolicy","v1",True,"2024-11-16T00:11:14+00:00",0,0,0,0,0,0,0
 "AWSCompromisedKeyQuarantine","v1",True,"2020-08-11T18:04:13+00:00",0,0,0,0,0,0,0
 "AWSApplicationAutoscalingECSServicePolicy","v1",False,"2017-10-25T23:53:08+00:00",0,2,0,0,0,0,3
 "AWSApplicationAutoscalingECSServicePolicy","v2",True,"2024-10-24T20:05:50+00:00",0,2,0,0,0,0,3
@@ -1934,6 +1937,7 @@
 "AWSFMAdminFullAccess","v2",True,"2022-10-20T23:39:06+00:00",3,6,0,5,0,0,100
 "AmazonOneEnterpriseFullAccess","v1",True,"2023-11-28T04:58:21+00:00",1,0,0,0,0,0,0
 "AWSIoT1ClickReadOnlyAccess","v1",True,"2018-05-11T21:49:24+00:00",0,0,0,0,0,0,0
+"AWS-SSM-RemediationAutomation-AdministrationRolePolicy","v1",True,"2024-11-16T00:14:44+00:00",0,0,0,0,0,0,0
 "AWSCodeStarServiceRole","v4",False,"2017-11-30T14:33:19+00:00",11,14,0,21,0,2,492
 "AWSCodeStarServiceRole","v8",False,"2018-10-04T19:28:06+00:00",12,14,0,23,0,2,499
 "AWSCodeStarServiceRole","v11",True,"2021-09-20T19:11:03+00:00",12,14,0,23,0,2,502
@@ -3081,6 +3085,7 @@
 "AmazonEMRCleanupPolicy","v3",True,"2020-09-29T21:11:54+00:00",0,1,0,0,0,0,7
 "AmazonEMRCleanupPolicy","v1",False,"2017-09-26T23:54:19+00:00",0,1,0,0,0,0,6
 "AmazonEMRCleanupPolicy","v2",False,"2020-06-25T20:40:52+00:00",0,1,0,0,0,0,7
+"AWS-SSM-Automation-DiagnosisBucketPolicy","v1",True,"2024-11-15T23:31:17+00:00",0,0,0,0,0,0,0
 "AmazonDataZoneEnvironmentRolePermissionsBoundary","v4",True,"2023-11-17T23:29:08+00:00",2,9,0,2,0,1,116
 "AmazonDataZoneEnvironmentRolePermissionsBoundary","v3",False,"2023-09-29T05:12:51+00:00",2,9,0,2,0,1,116
 "AmazonDataZoneEnvironmentRolePermissionsBoundary","v1",False,"2023-09-11T23:38:22+00:00",2,9,0,2,0,1,115
@@ -3347,6 +3352,7 @@
 "AWSIoTWirelessDataAccess","v1",True,"2020-12-15T15:31:39+00:00",0,1,0,0,0,0,1
 "AWSImportExportReadOnlyAccess","v1",True,"2015-02-06T18:40:42+00:00",0,0,0,0,0,0,0
 "AWSApplicationAutoscalingLambdaConcurrencyPolicy","v1",True,"2019-10-21T20:04:17+00:00",0,2,0,0,0,0,4
+"AWSQuickSetupSSMManageResourcesExecutionPolicy","v1",True,"2024-11-15T22:49:24+00:00",0,0,0,0,0,0,0
 "AWSGlueServiceRole","v4",False,"2018-06-25T18:23:09+00:00",1,2,1,2,0,0,46
 "AWSGlueServiceRole","v3",False,"2017-08-23T21:35:25+00:00",1,2,1,2,0,0,46
 "AWSGlueServiceRole","v1",False,"2017-08-14T13:37:21+00:00",1,2,1,2,0,0,45
@@ -3528,6 +3534,7 @@
 "AmazonSSMDirectoryServiceAccess","v1",True,"2019-03-15T17:44:38+00:00",0,1,0,0,0,0,1
 "AWSApplicationAutoscalingComprehendEndpointPolicy","v1",True,"2019-11-14T18:39:07+00:00",0,2,0,0,0,0,3
 "AmazonODBServiceRolePolicy","v1",True,"2024-11-13T18:21:41+00:00",0,0,0,0,0,0,0
+"AWS-SSM-RemediationAutomation-OperationalAccountAdministrationRolePolicy","v1",True,"2024-11-16T00:25:12+00:00",0,0,0,0,0,0,0
 "AWSDataSyncFullAccess","v4",False,"2023-05-02T16:37:43+00:00",1,4,0,2,0,0,20
 "AWSDataSyncFullAccess","v3",False,"2020-06-30T17:58:58+00:00",1,4,0,2,0,0,15
 "AWSDataSyncFullAccess","v6",False,"2024-07-22T16:13:41+00:00",1,4,0,2,0,0,29
@@ -3565,6 +3572,7 @@
 "AWSGlobalAcceleratorSLRPolicy","v5",False,"2021-05-19T17:10:49+00:00",0,1,0,0,0,0,5
 "AWSGlobalAcceleratorSLRPolicy","v9",True,"2024-10-29T18:23:36+00:00",0,1,0,0,0,0,7
 "AWSGlobalAcceleratorSLRPolicy","v2",False,"2019-09-06T17:50:26+00:00",0,1,0,0,0,0,5
+"AWS-SSM-DiagnosisAutomation-AdministrationRolePolicy","v1",True,"2024-11-16T00:01:45+00:00",0,0,0,0,0,0,0
 "AWSCertificateManagerPrivateCAPrivilegedUser","v1",True,"2019-06-20T17:43:13+00:00",0,0,0,0,0,0,0
 "AmazonDocDB-ElasticServiceRolePolicy","v1",True,"2022-11-30T14:17:05+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryStagingAccountPolicy","v1",False,"2022-05-26T09:49:18+00:00",0,0,0,0,0,0,0
@@ -3917,6 +3925,7 @@
 "AWSApplicationMigrationAgentPolicy_v2","v1",True,"2022-06-06T14:14:38+00:00",0,0,0,0,0,0,0
 "AWSIoTSiteWiseConsoleFullAccess","v1",True,"2019-05-31T21:37:49+00:00",1,3,0,0,0,0,33
 "AmazonWorkSpacesPoolServiceAccess","v1",True,"2024-06-27T16:21:03+00:00",0,0,0,0,0,0,0
+"AWS-SSM-DiagnosisAutomation-ExecutionRolePolicy","v1",True,"2024-11-16T00:08:07+00:00",0,0,0,0,0,0,0
 "AmazonCloudWatchEvidentlyFullAccess","v1",True,"2021-11-29T15:10:14+00:00",1,0,0,0,0,0,0
 "AWSQuickSetupManagedInstanceProfileExecutionPolicy","v1",True,"2024-11-15T21:51:23+00:00",0,0,0,0,0,0,0
 "CloudWatchSyntheticsReadOnlyAccess","v1",False,"2019-11-25T17:45:40+00:00",0,0,0,0,0,0,0
@@ -4061,6 +4070,7 @@
 "AWSIoTDeviceTesterForGreengrassFullAccess","v3",False,"2020-03-23T21:12:01+00:00",1,2,0,0,0,0,8
 "AWSIoTDeviceTesterForGreengrassFullAccess","v1",False,"2020-02-20T21:21:27+00:00",1,2,0,0,0,0,8
 "AWSIoTDeviceTesterForGreengrassFullAccess","v2",False,"2020-02-26T18:26:52+00:00",1,2,0,0,0,0,8
+"AWSQuickSetupEnableAREXExecutionPolicy","v1",True,"2024-11-15T22:45:53+00:00",0,1,0,0,0,0,2
 "AWSRoboMakerServiceRolePolicy","v1",True,"2018-11-26T05:33:19+00:00",0,3,0,2,0,0,4
 "AWSBackupServiceLinkedRolePolicyForBackupTest","v1",True,"2020-05-12T17:37:29+00:00",0,0,0,0,0,0,0
 "AWSIQContractServiceRolePolicy","v1",True,"2019-08-22T19:28:39+00:00",0,0,0,0,0,0,0
