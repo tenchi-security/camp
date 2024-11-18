@@ -1,6 +1,6 @@
 {
     "VersionId": "v2",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2024-08-12T14:32:20+00:00",
     "PolicyName": "SSMQuickSetupRolePolicy"
 }
