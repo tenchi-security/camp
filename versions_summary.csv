@@ -303,7 +303,7 @@
 "AmazonCognitoPowerUser","v1",False,"2015-03-24T17:14:56+00:00",2,2,0,9,0,3,15
 "AmazonCognitoPowerUser","v5",False,"2021-01-12T16:56:15+00:00",3,4,0,10,0,4,64
 "AmazonCognitoPowerUser","v2",False,"2016-06-02T16:57:56+00:00",3,3,0,9,0,4,63
-"AmazonDynamoDBReadOnlyAccess","v14",True,"2024-03-20T15:45:01+00:00",0,0,0,0,0,0,0
+"AmazonDynamoDBReadOnlyAccess","v14",False,"2024-03-20T15:45:01+00:00",0,0,0,0,0,0,0
 "AmazonDynamoDBReadOnlyAccess","v4",False,"2017-02-27T17:59:05+00:00",0,0,0,0,0,0,0
 "AmazonDynamoDBReadOnlyAccess","v8",False,"2019-05-08T21:15:48+00:00",0,0,0,0,0,0,0
 "AmazonDynamoDBReadOnlyAccess","v11",False,"2020-11-16T18:49:40+00:00",0,0,0,0,0,0,0
@@ -316,6 +316,7 @@
 "AmazonDynamoDBReadOnlyAccess","v5",False,"2017-06-12T21:11:40+00:00",0,0,0,0,0,0,0
 "AmazonDynamoDBReadOnlyAccess","v9",False,"2019-11-20T01:18:15+00:00",0,0,0,0,0,0,0
 "AmazonDynamoDBReadOnlyAccess","v13",False,"2021-01-27T01:01:47+00:00",0,0,0,0,0,0,0
+"AmazonDynamoDBReadOnlyAccess","v15",True,"2024-11-18T17:38:15+00:00",0,0,0,0,0,0,0
 "AmazonDynamoDBReadOnlyAccess","v2",False,"2015-11-11T23:39:05+00:00",0,0,0,0,0,0,0
 "AWSProtonSyncServiceRolePolicy","v1",False,"2021-11-23T21:14:36+00:00",0,1,0,0,0,0,12
 "AWSProtonSyncServiceRolePolicy","v2",True,"2024-05-05T01:49:07+00:00",0,1,0,0,0,0,12
