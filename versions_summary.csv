@@ -2341,6 +2341,7 @@
 "AmazonEC2RolePolicyForLaunchWizard","v5",False,"2020-06-03T23:17:35+00:00",0,2,0,0,0,0,11
 "AmazonEC2RolePolicyForLaunchWizard","v9",False,"2022-01-27T23:01:20+00:00",0,2,0,0,0,0,3
 "AmazonEC2RolePolicyForLaunchWizard","v2",False,"2019-11-24T21:48:01+00:00",0,2,0,0,0,0,7
+"AWSMarketplaceSellerOfferManagement","v1",True,"2024-11-19T00:41:38+00:00",0,1,0,0,0,0,1
 "NeptuneReadOnlyAccess","v3",True,"2024-01-22T16:33:46+00:00",0,0,0,0,0,0,0
 "NeptuneReadOnlyAccess","v1",False,"2018-05-30T19:16:37+00:00",0,0,0,0,0,0,0
 "NeptuneReadOnlyAccess","v2",False,"2022-08-03T18:53:32+00:00",0,0,0,0,0,0,0
