@@ -555,12 +555,13 @@
 "AWSMediaTailorServiceRolePolicy","v1",True,"2021-09-17T22:27:10+00:00",0,0,0,0,0,0,0
 "AWSServiceRoleForEC2ScheduledInstances","v1",True,"2017-10-12T18:31:55+00:00",0,1,0,0,0,0,1
 "AmazonDataZoneFullUserAccess","v4",False,"2023-11-28T12:52:10+00:00",0,0,0,0,0,0,0
-"AmazonDataZoneFullUserAccess","v8",True,"2024-08-01T18:29:25+00:00",0,0,0,0,0,0,0
+"AmazonDataZoneFullUserAccess","v8",False,"2024-08-01T18:29:25+00:00",0,0,0,0,0,0,0
 "AmazonDataZoneFullUserAccess","v3",False,"2023-10-03T21:05:39+00:00",0,0,0,0,0,0,0
 "AmazonDataZoneFullUserAccess","v6",False,"2024-04-01T19:27:32+00:00",0,0,0,0,0,0,0
 "AmazonDataZoneFullUserAccess","v7",False,"2024-06-27T15:18:19+00:00",0,0,0,0,0,0,0
 "AmazonDataZoneFullUserAccess","v1",False,"2023-09-22T21:06:41+00:00",0,0,0,0,0,0,0
 "AmazonDataZoneFullUserAccess","v5",False,"2024-03-12T23:47:37+00:00",0,0,0,0,0,0,0
+"AmazonDataZoneFullUserAccess","v9",True,"2024-11-19T21:38:59+00:00",0,0,0,0,0,0,0
 "AmazonDataZoneFullUserAccess","v2",False,"2023-09-26T04:10:01+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerGeospatialFullAccess","v1",True,"2022-11-30T10:06:48+00:00",1,0,0,0,0,0,0
 "AWSCloudMapRegisterInstanceAccess","v3",True,"2023-09-20T21:47:06+00:00",0,2,0,0,0,0,5
