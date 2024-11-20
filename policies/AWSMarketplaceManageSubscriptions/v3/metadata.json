@@ -1,6 +1,6 @@
 {
     "VersionId": "v3",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2023-01-19T23:45:29+00:00",
     "PolicyName": "AWSMarketplaceManageSubscriptions"
 }

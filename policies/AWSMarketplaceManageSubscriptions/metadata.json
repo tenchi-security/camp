@@ -3,10 +3,10 @@
     "PolicyId": "ANPAJRDW2WIFN7QLUAKBQ",
     "Arn": "arn:aws:iam::aws:policy/AWSMarketplaceManageSubscriptions",
     "Path": "/",
-    "DefaultVersionId": "v3",
+    "DefaultVersionId": "v4",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2015-02-06T18:40:32+00:00",
-    "UpdateDate": "2023-01-19T23:45:29+00:00"
+    "UpdateDate": "2024-11-20T19:22:33+00:00"
 }
