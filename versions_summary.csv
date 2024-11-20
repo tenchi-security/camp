@@ -1242,7 +1242,8 @@
 "CloudFormationStackSetsOrgMemberServiceRolePolicy","v1",True,"2019-12-09T23:52:37+00:00",0,0,0,0,0,0,0
 "AWSPanoramaGreengrassGroupRolePolicy","v1",False,"2020-12-01T13:10:22+00:00",1,1,0,0,0,0,14
 "AWSPanoramaGreengrassGroupRolePolicy","v2",True,"2021-01-06T19:30:35+00:00",1,1,0,0,0,0,14
-"AWSQuickSetupSSMDeploymentRolePolicy","v1",True,"2024-11-15T22:53:20+00:00",0,0,0,0,0,0,0
+"AWSQuickSetupSSMDeploymentRolePolicy","v1",False,"2024-11-15T22:53:20+00:00",0,0,0,0,0,0,0
+"AWSQuickSetupSSMDeploymentRolePolicy","v2",True,"2024-11-20T12:43:56+00:00",0,0,0,0,0,0,0
 "AmazonLookoutEquipmentReadOnlyAccess","v3",True,"2022-11-10T22:04:33+00:00",0,0,0,0,0,0,0
 "AmazonLookoutEquipmentReadOnlyAccess","v1",False,"2021-05-05T16:47:55+00:00",0,0,0,0,0,0,0
 "AmazonLookoutEquipmentReadOnlyAccess","v2",False,"2022-06-30T18:33:42+00:00",0,0,0,0,0,0,0
