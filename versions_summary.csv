@@ -493,7 +493,8 @@
 "AmazonCodeGuruProfilerFullAccess","v2",False,"2020-04-06T21:16:38+00:00",2,1,0,2,0,0,11
 "AWSXrayFullAccess","v1",False,"2016-12-01T18:30:55+00:00",1,1,0,1,0,0,8
 "AWSXrayFullAccess","v2",True,"2024-04-11T17:07:36+00:00",1,1,0,0,0,0,8
-"AWSEC2VssSnapshotPolicy","v1",True,"2024-03-27T16:32:53+00:00",0,0,0,0,0,0,0
+"AWSEC2VssSnapshotPolicy","v1",False,"2024-03-27T16:32:53+00:00",0,0,0,0,0,0,0
+"AWSEC2VssSnapshotPolicy","v2",True,"2024-11-20T17:44:08+00:00",0,0,0,0,0,0,0
 "AmazonQLDBFullAccess","v4",False,"2021-09-02T23:21:04+00:00",0,2,0,1,0,0,19
 "AmazonQLDBFullAccess","v3",False,"2021-05-27T17:15:06+00:00",0,1,0,0,0,0,9
 "AmazonQLDBFullAccess","v1",False,"2019-09-05T18:23:32+00:00",0,1,0,0,0,0,7
@@ -1580,6 +1581,7 @@
 "AWSServiceRoleForAmazonEKSNodegroup","v5",False,"2020-08-31T19:07:38+00:00",0,3,0,3,0,0,16
 "AWSServiceRoleForAmazonEKSNodegroup","v9",True,"2024-08-21T15:51:37+00:00",0,3,0,3,0,0,16
 "AWSServiceRoleForAmazonEKSNodegroup","v2",False,"2020-01-16T21:53:23+00:00",0,3,0,4,0,0,16
+"AmazonRedshiftServiceLinkedRolePolicy","v14",True,"2024-11-20T18:06:07+00:00",0,1,0,0,0,0,8
 "AmazonRedshiftServiceLinkedRolePolicy","v4",False,"2021-11-15T06:41:10+00:00",0,1,0,0,0,0,8
 "AmazonRedshiftServiceLinkedRolePolicy","v8",False,"2022-09-07T20:27:51+00:00",0,1,0,0,0,0,8
 "AmazonRedshiftServiceLinkedRolePolicy","v11",False,"2023-08-14T10:46:23+00:00",0,1,0,0,0,0,8
@@ -1591,7 +1593,7 @@
 "AmazonRedshiftServiceLinkedRolePolicy","v1",False,"2017-09-18T19:19:45+00:00",0,1,0,0,0,0,5
 "AmazonRedshiftServiceLinkedRolePolicy","v5",False,"2021-11-22T21:08:22+00:00",0,1,0,0,0,0,8
 "AmazonRedshiftServiceLinkedRolePolicy","v9",False,"2023-04-05T20:32:17+00:00",0,1,0,0,0,0,8
-"AmazonRedshiftServiceLinkedRolePolicy","v13",True,"2024-03-15T20:00:47+00:00",0,1,0,0,0,0,8
+"AmazonRedshiftServiceLinkedRolePolicy","v13",False,"2024-03-15T20:00:47+00:00",0,1,0,0,0,0,8
 "AmazonRedshiftServiceLinkedRolePolicy","v2",False,"2017-09-25T21:20:15+00:00",0,1,0,0,0,0,5
 "AmazonDataZoneProjectRolePermissionsBoundary","v1",True,"2023-03-21T02:51:56+00:00",5,10,0,12,0,1,155
 "AWSElasticBeanstalkCustomPlatformforEC2Role","v1",True,"2017-02-21T22:50:30+00:00",0,1,0,1,0,1,21
