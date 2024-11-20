@@ -1,0 +1,6 @@
+{
+    "VersionId": "v1",
+    "IsDefaultVersion": true,
+    "CreateDate": "2024-11-20T21:56:55+00:00",
+    "PolicyName": "SageMakerStudioDomainExecutionRolePolicy"
+}

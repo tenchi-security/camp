@@ -1,0 +1,12 @@
+{
+    "PolicyName": "SageMakerStudioDomainServiceRolePolicy",
+    "PolicyId": "ANPAZKAPJZG4FCK3TKCDJ",
+    "Arn": "arn:aws:iam::aws:policy/service-role/SageMakerStudioDomainServiceRolePolicy",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2024-11-20T21:56:22+00:00",
+    "UpdateDate": "2024-11-20T21:56:22+00:00"
+}

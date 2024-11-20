@@ -152,6 +152,7 @@
 "AmazonOpenSearchServiceReadOnlyAccess","v1",True,"2021-09-08T05:38:13+00:00",0,0,0,0,0,0,0
 "IAMAccessAnalyzerFullAccess","v1",True,"2019-12-02T17:12:40+00:00",1,2,0,1,0,0,11
 "AWSIoTFleetwiseServiceRolePolicy","v1",True,"2022-09-21T23:27:48+00:00",0,0,0,0,0,0,0
+"SageMakerStudioProjectProvisioningRolePolicy","v1",True,"2024-11-20T21:58:39+00:00",0,7,0,1,0,0,34
 "AWSElasticDisasterRecoveryAgentPolicy","v3",True,"2023-11-27T13:44:15+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryAgentPolicy","v1",False,"2021-11-17T10:32:32+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryAgentPolicy","v2",False,"2023-03-27T13:47:48+00:00",0,0,0,0,0,0,0
@@ -1732,6 +1733,7 @@
 "AWSPrivateCAPrivilegedUser","v1",True,"2023-02-14T18:26:02+00:00",0,0,0,0,0,0,0
 "AmazonCloudWatchEvidentlyReadOnlyAccess","v1",True,"2021-11-29T15:08:38+00:00",0,0,0,0,0,0,0
 "AmazonRoute53DomainsFullAccess","v1",True,"2015-02-06T18:40:56+00:00",1,1,0,0,0,0,1
+"SageMakerStudioProjectUserRolePolicy","v1",True,"2024-11-20T21:59:23+00:00",0,14,0,2,0,0,89
 "AWSDeviceFarmServiceRolePolicy","v1",True,"2022-09-20T21:02:28+00:00",0,0,0,0,0,0,0
 "AWSCloudMapFullAccess","v1",False,"2018-11-28T23:57:31+00:00",1,2,0,0,0,0,11
 "AWSCloudMapFullAccess","v2",True,"2020-07-29T19:15:35+00:00",1,2,0,0,0,0,11
@@ -3238,12 +3240,13 @@
 "AWSMarketplaceManageSubscriptions","v1",False,"2015-02-06T18:40:32+00:00",0,0,0,0,0,0,0
 "AWSMarketplaceManageSubscriptions","v2",False,"2019-10-28T21:49:43+00:00",0,0,0,0,0,0,0
 "ComputeOptimizerReadOnlyAccess","v4",False,"2021-08-26T18:34:10+00:00",0,0,0,0,0,0,0
-"ComputeOptimizerReadOnlyAccess","v8",True,"2024-06-20T16:15:31+00:00",0,0,0,0,0,0,0
+"ComputeOptimizerReadOnlyAccess","v8",False,"2024-06-20T16:15:31+00:00",0,0,0,0,0,0,0
 "ComputeOptimizerReadOnlyAccess","v3",False,"2020-12-23T18:00:54+00:00",0,0,0,0,0,0,0
 "ComputeOptimizerReadOnlyAccess","v6",False,"2022-12-22T17:34:19+00:00",0,0,0,0,0,0,0
 "ComputeOptimizerReadOnlyAccess","v7",False,"2023-08-28T19:22:58+00:00",0,0,0,0,0,0,0
 "ComputeOptimizerReadOnlyAccess","v1",False,"2020-03-07T00:11:02+00:00",0,0,0,0,0,0,0
 "ComputeOptimizerReadOnlyAccess","v5",False,"2021-11-29T16:03:07+00:00",0,0,0,0,0,0,0
+"ComputeOptimizerReadOnlyAccess","v9",True,"2024-11-20T21:08:59+00:00",0,0,0,0,0,0,0
 "ComputeOptimizerReadOnlyAccess","v2",False,"2020-11-04T20:57:54+00:00",0,0,0,0,0,0,0
 "AWSIoTDeviceTesterForFreeRTOSFullAccess","v4",False,"2020-07-17T17:09:58+00:00",0,1,0,0,0,0,9
 "AWSIoTDeviceTesterForFreeRTOSFullAccess","v3",False,"2020-03-23T19:49:50+00:00",0,1,0,0,0,0,9
@@ -3634,6 +3637,8 @@
 "AWSGrafanaWorkspacePermissionManagement","v2",False,"2021-09-21T20:30:06+00:00",0,0,0,0,0,0,0
 "AWSCleanRoomsMLFullAccess","v1",True,"2023-11-29T21:02:06+00:00",1,0,0,0,0,0,0
 "ServerMigrationConnector","v1",True,"2016-10-24T21:45:56+00:00",1,0,0,0,0,0,0
+"SageMakerStudioDomainServiceRolePolicy","v1",True,"2024-11-20T21:56:22+00:00",0,1,0,0,0,0,1
+"SageMakerStudioProjectUserRolePermissionsBoundary","v1",True,"2024-11-20T21:57:42+00:00",0,23,0,5,0,0,262
 "AWSLambdaInvocation-DynamoDB","v1",True,"2015-02-06T18:40:47+00:00",0,1,0,0,0,0,1
 "AWSCodeDeployRoleForECSLimited","v3",True,"2019-09-23T22:10:29+00:00",0,3,0,0,0,0,5
 "AWSCodeDeployRoleForECSLimited","v1",False,"2018-11-27T20:42:42+00:00",0,3,0,0,0,0,5
@@ -3728,6 +3733,7 @@
 "AWSResourceExplorerReadOnlyAccess","v2",True,"2023-11-14T16:43:41+00:00",0,0,0,0,0,0,0
 "AWSCompromisedKeyQuarantineV3","v1",False,"2024-08-21T17:36:49+00:00",0,0,0,0,0,0,0
 "AWSCompromisedKeyQuarantineV3","v2",True,"2024-10-02T16:52:27+00:00",0,0,0,0,0,0,0
+"SageMakerStudioProjectRoleMachineLearningPolicy","v1",True,"2024-11-20T21:55:27+00:00",0,1,0,0,0,0,48
 "AWSElasticDisasterRecoveryReplicationServerPolicy","v3",True,"2023-11-27T13:28:14+00:00",0,2,0,0,0,0,9
 "AWSElasticDisasterRecoveryReplicationServerPolicy","v1",False,"2021-11-17T13:34:00+00:00",0,1,0,0,0,0,1
 "AWSElasticDisasterRecoveryReplicationServerPolicy","v2",False,"2022-07-10T12:34:15+00:00",0,2,0,0,0,0,7
@@ -4155,6 +4161,7 @@
 "AmazonEC2SpotFleetAutoscaleRole","v3",True,"2019-02-18T19:17:03+00:00",0,2,0,0,0,0,3
 "AmazonEC2SpotFleetAutoscaleRole","v1",False,"2016-08-19T18:27:22+00:00",0,1,0,0,0,0,1
 "AmazonEC2SpotFleetAutoscaleRole","v2",False,"2017-11-14T22:24:10+00:00",0,2,0,0,0,0,3
+"SageMakerStudioDomainExecutionRolePolicy","v1",True,"2024-11-20T21:56:55+00:00",0,0,0,0,0,0,0
 "AWSIoTFleetHubFederationAccess","v4",False,"2021-11-15T23:28:19+00:00",0,1,0,0,0,0,6
 "AWSIoTFleetHubFederationAccess","v3",False,"2021-05-24T14:12:59+00:00",0,1,0,0,0,0,5
 "AWSIoTFleetHubFederationAccess","v1",False,"2020-12-15T08:08:05+00:00",0,1,0,0,0,0,3
