@@ -1579,10 +1579,11 @@
 "AWSServiceRoleForAmazonEKSNodegroup","v8",False,"2024-06-27T21:03:09+00:00",0,3,0,3,0,0,16
 "AWSServiceRoleForAmazonEKSNodegroup","v3",False,"2020-02-21T20:40:41+00:00",0,3,0,4,0,0,16
 "AWSServiceRoleForAmazonEKSNodegroup","v6",False,"2022-01-14T00:33:26+00:00",0,3,0,3,0,0,16
+"AWSServiceRoleForAmazonEKSNodegroup","v10",True,"2024-11-21T00:07:12+00:00",0,3,0,3,0,0,16
 "AWSServiceRoleForAmazonEKSNodegroup","v7",False,"2024-01-04T20:37:13+00:00",0,3,0,3,0,0,16
 "AWSServiceRoleForAmazonEKSNodegroup","v1",False,"2019-11-07T01:34:26+00:00",0,3,0,4,0,0,16
 "AWSServiceRoleForAmazonEKSNodegroup","v5",False,"2020-08-31T19:07:38+00:00",0,3,0,3,0,0,16
-"AWSServiceRoleForAmazonEKSNodegroup","v9",True,"2024-08-21T15:51:37+00:00",0,3,0,3,0,0,16
+"AWSServiceRoleForAmazonEKSNodegroup","v9",False,"2024-08-21T15:51:37+00:00",0,3,0,3,0,0,16
 "AWSServiceRoleForAmazonEKSNodegroup","v2",False,"2020-01-16T21:53:23+00:00",0,3,0,4,0,0,16
 "AmazonRedshiftServiceLinkedRolePolicy","v14",True,"2024-11-20T18:06:07+00:00",0,1,0,0,0,0,8
 "AmazonRedshiftServiceLinkedRolePolicy","v4",False,"2021-11-15T06:41:10+00:00",0,1,0,0,0,0,8
