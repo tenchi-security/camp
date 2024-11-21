@@ -2149,10 +2149,11 @@
 "CloudWatchReadOnlyAccess","v8",False,"2023-12-05T19:24:15+00:00",0,0,0,0,0,0,0
 "CloudWatchReadOnlyAccess","v3",False,"2018-05-10T21:40:42+00:00",0,0,0,0,0,0,0
 "CloudWatchReadOnlyAccess","v6",False,"2023-06-06T17:33:13+00:00",0,0,0,0,0,0,0
+"CloudWatchReadOnlyAccess","v10",True,"2024-11-21T17:51:05+00:00",0,0,0,0,0,0,0
 "CloudWatchReadOnlyAccess","v7",False,"2023-09-14T11:15:56+00:00",0,0,0,0,0,0,0
 "CloudWatchReadOnlyAccess","v1",False,"2015-02-06T18:40:01+00:00",0,0,0,0,0,0,0
 "CloudWatchReadOnlyAccess","v5",False,"2022-11-27T13:08:46+00:00",0,0,0,0,0,0,0
-"CloudWatchReadOnlyAccess","v9",True,"2024-05-17T22:17:51+00:00",0,0,0,0,0,0,0
+"CloudWatchReadOnlyAccess","v9",False,"2024-05-17T22:17:51+00:00",0,0,0,0,0,0,0
 "CloudWatchReadOnlyAccess","v2",False,"2017-11-02T20:50:10+00:00",0,0,0,0,0,0,0
 "AmazonQFullAccess","v4",False,"2024-10-28T20:01:31+00:00",0,0,0,0,0,0,0
 "AmazonQFullAccess","v3",False,"2024-07-09T08:35:50+00:00",0,0,0,0,0,0,0
