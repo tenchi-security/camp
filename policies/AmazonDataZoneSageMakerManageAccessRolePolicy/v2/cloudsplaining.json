@@ -1,0 +1,23 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "ecr",
+        "kms",
+        "sagemaker"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "ecr:DeleteRepositoryPolicy",
+        "ecr:SetRepositoryPolicy",
+        "kms:CreateGrant"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "ecr:DeleteRepositoryPolicy",
+        "ecr:SetRepositoryPolicy",
+        "kms:CreateGrant",
+        "sagemaker:AddTags",
+        "sagemaker:DeleteTags"
+    ]
+}

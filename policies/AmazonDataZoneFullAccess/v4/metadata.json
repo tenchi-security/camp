@@ -1,6 +1,6 @@
 {
     "VersionId": "v4",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2024-06-13T19:02:55+00:00",
     "PolicyName": "AmazonDataZoneFullAccess"
 }
