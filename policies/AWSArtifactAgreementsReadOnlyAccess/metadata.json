@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSArtifactAgreementsReadOnlyAccess",
+    "PolicyId": "ANPAZKAPJZG4KXQLOC2XA",
+    "Arn": "arn:aws:iam::aws:policy/AWSArtifactAgreementsReadOnlyAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2024-11-22T19:36:07+00:00",
+    "UpdateDate": "2024-11-22T19:36:07+00:00"
+}
