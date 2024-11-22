@@ -1,0 +1,6 @@
+{
+    "VersionId": "v2",
+    "IsDefaultVersion": true,
+    "CreateDate": "2024-11-22T04:51:06+00:00",
+    "PolicyName": "SageMakerStudioProjectUserRolePolicy"
+}
