@@ -3199,7 +3199,7 @@
 "AWSGlueDataBrewServiceRole","v1",False,"2020-12-04T21:26:50+00:00",0,1,0,0,0,0,2
 "AWSGlueDataBrewServiceRole","v2",False,"2021-11-18T19:44:16+00:00",0,1,0,0,0,0,2
 "AmazonConnectServiceLinkedRolePolicy","v14",False,"2023-11-28T16:05:08+00:00",1,2,0,0,0,2,135
-"AmazonConnectServiceLinkedRolePolicy","v21",True,"2024-11-21T23:06:06+00:00",1,2,0,0,0,1,171
+"AmazonConnectServiceLinkedRolePolicy","v21",False,"2024-11-21T23:06:06+00:00",1,2,0,0,0,1,171
 "AmazonConnectServiceLinkedRolePolicy","v4",False,"2021-04-14T00:13:10+00:00",1,1,0,0,0,2,58
 "AmazonConnectServiceLinkedRolePolicy","v8",False,"2022-11-07T19:01:31+00:00",1,1,0,0,0,2,100
 "AmazonConnectServiceLinkedRolePolicy","v11",False,"2023-10-23T23:22:56+00:00",1,2,0,0,0,2,135
@@ -3208,6 +3208,7 @@
 "AmazonConnectServiceLinkedRolePolicy","v10",False,"2023-10-06T17:23:46+00:00",1,2,0,0,0,2,135
 "AmazonConnectServiceLinkedRolePolicy","v17",False,"2024-09-11T20:44:09+00:00",1,2,0,0,0,1,171
 "AmazonConnectServiceLinkedRolePolicy","v7",False,"2022-06-27T19:35:06+00:00",1,1,0,0,0,2,87
+"AmazonConnectServiceLinkedRolePolicy","v22",True,"2024-11-25T22:06:07+00:00",1,2,0,0,0,1,171
 "AmazonConnectServiceLinkedRolePolicy","v12",False,"2023-10-26T23:32:06+00:00",1,2,0,0,0,2,135
 "AmazonConnectServiceLinkedRolePolicy","v1",False,"2018-09-07T00:21:43+00:00",1,1,0,0,0,2,58
 "AmazonConnectServiceLinkedRolePolicy","v20",False,"2024-11-14T18:06:40+00:00",1,2,0,0,0,1,171

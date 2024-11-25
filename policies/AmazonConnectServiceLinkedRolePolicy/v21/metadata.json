@@ -1,6 +1,6 @@
 {
     "VersionId": "v21",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2024-11-21T23:06:06+00:00",
     "PolicyName": "AmazonConnectServiceLinkedRolePolicy"
 }
