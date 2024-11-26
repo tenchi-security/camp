@@ -1937,7 +1937,8 @@
 "AWSIdentitySyncReadOnlyAccess","v1",True,"2022-03-23T23:29:52+00:00",0,0,0,0,0,0,0
 "AmazonDataZoneGlueManageAccessRolePolicy","v4",False,"2024-04-01T19:05:41+00:00",0,2,0,4,0,0,6
 "AmazonDataZoneGlueManageAccessRolePolicy","v3",False,"2023-12-14T23:03:20+00:00",0,2,0,4,0,0,6
-"AmazonDataZoneGlueManageAccessRolePolicy","v6",True,"2024-06-28T16:41:41+00:00",0,3,0,4,0,0,8
+"AmazonDataZoneGlueManageAccessRolePolicy","v6",False,"2024-06-28T16:41:41+00:00",0,3,0,4,0,0,8
+"AmazonDataZoneGlueManageAccessRolePolicy","v7",True,"2024-11-26T15:51:06+00:00",0,3,0,4,0,0,8
 "AmazonDataZoneGlueManageAccessRolePolicy","v1",False,"2023-09-22T20:21:53+00:00",0,2,0,4,0,0,5
 "AmazonDataZoneGlueManageAccessRolePolicy","v5",False,"2024-06-03T23:29:25+00:00",0,3,0,4,0,0,8
 "AmazonDataZoneGlueManageAccessRolePolicy","v2",False,"2023-09-29T01:53:41+00:00",0,2,0,4,0,0,5
