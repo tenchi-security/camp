@@ -1741,7 +1741,8 @@
 "AWSPrivateCAPrivilegedUser","v1",True,"2023-02-14T18:26:02+00:00",0,0,0,0,0,0,0
 "AmazonCloudWatchEvidentlyReadOnlyAccess","v1",True,"2021-11-29T15:08:38+00:00",0,0,0,0,0,0,0
 "AmazonRoute53DomainsFullAccess","v1",True,"2015-02-06T18:40:56+00:00",1,1,0,0,0,0,1
-"SageMakerStudioProjectUserRolePolicy","v3",True,"2024-11-24T20:21:06+00:00",0,14,0,2,0,0,89
+"SageMakerStudioProjectUserRolePolicy","v4",True,"2024-11-26T05:21:06+00:00",0,14,0,2,0,0,89
+"SageMakerStudioProjectUserRolePolicy","v3",False,"2024-11-24T20:21:06+00:00",0,14,0,2,0,0,89
 "SageMakerStudioProjectUserRolePolicy","v1",False,"2024-11-20T21:59:23+00:00",0,14,0,2,0,0,89
 "SageMakerStudioProjectUserRolePolicy","v2",False,"2024-11-22T04:51:06+00:00",0,14,0,2,0,0,89
 "AWSDeviceFarmServiceRolePolicy","v1",True,"2022-09-20T21:02:28+00:00",0,0,0,0,0,0,0
@@ -3751,8 +3752,9 @@
 "AWSResourceExplorerReadOnlyAccess","v2",True,"2023-11-14T16:43:41+00:00",0,0,0,0,0,0,0
 "AWSCompromisedKeyQuarantineV3","v1",False,"2024-08-21T17:36:49+00:00",0,0,0,0,0,0,0
 "AWSCompromisedKeyQuarantineV3","v2",True,"2024-10-02T16:52:27+00:00",0,0,0,0,0,0,0
+"SageMakerStudioProjectRoleMachineLearningPolicy","v3",True,"2024-11-26T05:21:05+00:00",0,1,0,0,0,0,48
 "SageMakerStudioProjectRoleMachineLearningPolicy","v1",False,"2024-11-20T21:55:27+00:00",0,1,0,0,0,0,48
-"SageMakerStudioProjectRoleMachineLearningPolicy","v2",True,"2024-11-24T19:51:06+00:00",0,1,0,0,0,0,48
+"SageMakerStudioProjectRoleMachineLearningPolicy","v2",False,"2024-11-24T19:51:06+00:00",0,1,0,0,0,0,48
 "AWSElasticDisasterRecoveryReplicationServerPolicy","v3",True,"2023-11-27T13:28:14+00:00",0,2,0,0,0,0,9
 "AWSElasticDisasterRecoveryReplicationServerPolicy","v1",False,"2021-11-17T13:34:00+00:00",0,1,0,0,0,0,1
 "AWSElasticDisasterRecoveryReplicationServerPolicy","v2",False,"2022-07-10T12:34:15+00:00",0,2,0,0,0,0,7

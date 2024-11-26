@@ -1,6 +1,6 @@
 {
     "VersionId": "v2",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2024-11-24T19:51:06+00:00",
     "PolicyName": "SageMakerStudioProjectRoleMachineLearningPolicy"
 }
