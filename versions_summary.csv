@@ -152,9 +152,10 @@
 "AmazonOpenSearchServiceReadOnlyAccess","v1",True,"2021-09-08T05:38:13+00:00",0,0,0,0,0,0,0
 "IAMAccessAnalyzerFullAccess","v1",True,"2019-12-02T17:12:40+00:00",1,2,0,1,0,0,11
 "AWSIoTFleetwiseServiceRolePolicy","v1",True,"2022-09-21T23:27:48+00:00",0,0,0,0,0,0,0
-"SageMakerStudioProjectProvisioningRolePolicy","v4",True,"2024-11-24T19:51:07+00:00",0,7,0,1,0,0,34
+"SageMakerStudioProjectProvisioningRolePolicy","v4",False,"2024-11-24T19:51:07+00:00",0,7,0,1,0,0,34
 "SageMakerStudioProjectProvisioningRolePolicy","v3",False,"2024-11-22T04:51:06+00:00",0,7,0,1,0,0,34
 "SageMakerStudioProjectProvisioningRolePolicy","v1",False,"2024-11-20T21:58:39+00:00",0,7,0,1,0,0,34
+"SageMakerStudioProjectProvisioningRolePolicy","v5",True,"2024-11-27T06:21:08+00:00",0,7,0,1,0,0,34
 "SageMakerStudioProjectProvisioningRolePolicy","v2",False,"2024-11-21T22:36:06+00:00",0,7,0,1,0,0,34
 "AWSElasticDisasterRecoveryAgentPolicy","v3",True,"2023-11-27T13:44:15+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryAgentPolicy","v1",False,"2021-11-17T10:32:32+00:00",0,0,0,0,0,0,0
@@ -3657,9 +3658,10 @@
 "AWSCleanRoomsMLFullAccess","v1",True,"2023-11-29T21:02:06+00:00",1,0,0,0,0,0,0
 "ServerMigrationConnector","v1",True,"2016-10-24T21:45:56+00:00",1,0,0,0,0,0,0
 "SageMakerStudioDomainServiceRolePolicy","v1",True,"2024-11-20T21:56:22+00:00",0,1,0,0,0,0,1
-"SageMakerStudioProjectUserRolePermissionsBoundary","v4",True,"2024-11-26T17:36:07+00:00",0,23,0,6,0,0,265
+"SageMakerStudioProjectUserRolePermissionsBoundary","v4",False,"2024-11-26T17:36:07+00:00",0,23,0,6,0,0,265
 "SageMakerStudioProjectUserRolePermissionsBoundary","v3",False,"2024-11-24T20:21:06+00:00",0,23,0,5,0,0,265
 "SageMakerStudioProjectUserRolePermissionsBoundary","v1",False,"2024-11-20T21:57:42+00:00",0,23,0,5,0,0,262
+"SageMakerStudioProjectUserRolePermissionsBoundary","v5",True,"2024-11-27T06:36:06+00:00",0,23,0,6,0,0,266
 "SageMakerStudioProjectUserRolePermissionsBoundary","v2",False,"2024-11-22T04:51:06+00:00",0,23,0,5,0,0,265
 "AWSLambdaInvocation-DynamoDB","v1",True,"2015-02-06T18:40:47+00:00",0,1,0,0,0,0,1
 "AWSCodeDeployRoleForECSLimited","v3",True,"2019-09-23T22:10:29+00:00",0,3,0,0,0,0,5
@@ -3755,7 +3757,8 @@
 "AWSResourceExplorerReadOnlyAccess","v2",True,"2023-11-14T16:43:41+00:00",0,0,0,0,0,0,0
 "AWSCompromisedKeyQuarantineV3","v1",False,"2024-08-21T17:36:49+00:00",0,0,0,0,0,0,0
 "AWSCompromisedKeyQuarantineV3","v2",True,"2024-10-02T16:52:27+00:00",0,0,0,0,0,0,0
-"SageMakerStudioProjectRoleMachineLearningPolicy","v3",True,"2024-11-26T05:21:05+00:00",0,1,0,0,0,0,48
+"SageMakerStudioProjectRoleMachineLearningPolicy","v4",True,"2024-11-27T06:21:07+00:00",0,1,0,0,0,0,49
+"SageMakerStudioProjectRoleMachineLearningPolicy","v3",False,"2024-11-26T05:21:05+00:00",0,1,0,0,0,0,48
 "SageMakerStudioProjectRoleMachineLearningPolicy","v1",False,"2024-11-20T21:55:27+00:00",0,1,0,0,0,0,48
 "SageMakerStudioProjectRoleMachineLearningPolicy","v2",False,"2024-11-24T19:51:06+00:00",0,1,0,0,0,0,48
 "AWSElasticDisasterRecoveryReplicationServerPolicy","v3",True,"2023-11-27T13:28:14+00:00",0,2,0,0,0,0,9
