@@ -3350,6 +3350,7 @@
 "AWSAccountActivityAccess","v2",True,"2023-03-07T17:02:30+00:00",0,0,0,0,0,0,0
 "AWSAccountManagementReadOnlyAccess","v1",True,"2021-09-30T23:29:53+00:00",0,0,0,0,0,0,0
 "AWSTrustedAdvisorPriorityReadOnlyAccess","v1",True,"2022-08-16T16:35:12+00:00",0,0,0,0,0,0,0
+"AWSObservabilityAdminServiceRolePolicy","v1",True,"2024-11-27T19:36:07+00:00",0,0,0,0,0,0,0
 "AWSOrganizationsServiceTrustPolicy","v1",False,"2017-10-10T23:04:07+00:00",0,0,0,0,0,0,0
 "AWSOrganizationsServiceTrustPolicy","v2",True,"2017-11-01T06:01:18+00:00",0,1,0,1,0,0,1
 "AWSSecurityHubOrganizationsAccess","v1",False,"2021-03-15T20:53:03+00:00",0,0,0,0,0,0,0
