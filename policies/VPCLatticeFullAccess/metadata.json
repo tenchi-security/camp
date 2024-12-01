@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4MMVKZLVVN",
     "Arn": "arn:aws:iam::aws:policy/VPCLatticeFullAccess",
     "Path": "/",
-    "DefaultVersionId": "v1",
+    "DefaultVersionId": "v2",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2023-03-30T02:49:02+00:00",
-    "UpdateDate": "2023-03-30T02:49:02+00:00"
+    "UpdateDate": "2024-12-01T14:21:06+00:00"
 }

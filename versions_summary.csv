@@ -1610,7 +1610,8 @@
 "AmazonRedshiftServiceLinkedRolePolicy","v2",False,"2017-09-25T21:20:15+00:00",0,1,0,0,0,0,5
 "AmazonDataZoneProjectRolePermissionsBoundary","v1",True,"2023-03-21T02:51:56+00:00",5,10,0,12,0,1,155
 "AWSElasticBeanstalkCustomPlatformforEC2Role","v1",True,"2017-02-21T22:50:30+00:00",0,1,0,1,0,1,21
-"VPCLatticeReadOnlyAccess","v1",True,"2023-03-30T02:47:25+00:00",0,0,0,0,0,0,0
+"VPCLatticeReadOnlyAccess","v1",False,"2023-03-30T02:47:25+00:00",0,0,0,0,0,0,0
+"VPCLatticeReadOnlyAccess","v2",True,"2024-12-01T14:21:06+00:00",0,0,0,0,0,0,0
 "MediaPackageServiceRolePolicy","v1",True,"2020-09-18T17:45:47+00:00",0,0,0,0,0,0,0
 "AmazonElasticFileSystemsUtils","v1",True,"2020-09-29T15:16:47+00:00",0,2,0,0,2,0,9
 "AmazonCodeCatalystSupportAccess","v1",True,"2023-04-20T12:34:44+00:00",0,0,0,0,0,0,0
@@ -4022,7 +4023,8 @@
 "AmazonRDSFullAccess","v2",False,"2015-12-16T21:02:23+00:00",1,1,0,3,0,0,84
 "AWSApplicationAutoscalingAppStreamFleetPolicy","v1",True,"2017-10-20T19:04:06+00:00",0,2,0,0,0,0,3
 "AWSAppSyncPushToCloudWatchLogs","v1",True,"2018-04-09T19:38:55+00:00",0,1,0,0,0,0,3
-"AWSVpcLatticeServiceRolePolicy","v1",True,"2022-11-30T20:47:10+00:00",0,0,0,0,0,0,0
+"AWSVpcLatticeServiceRolePolicy","v1",False,"2022-11-30T20:47:10+00:00",0,0,0,0,0,0,0
+"AWSVpcLatticeServiceRolePolicy","v2",True,"2024-12-01T14:06:06+00:00",0,1,0,0,0,0,1
 "AmazonLexFullAccess","v4",False,"2017-11-15T23:55:07+00:00",1,1,0,0,0,0,29
 "AmazonLexFullAccess","v8",False,"2024-02-07T00:55:22+00:00",1,1,0,0,0,0,65
 "AmazonLexFullAccess","v3",False,"2017-04-14T19:45:37+00:00",1,1,0,0,0,0,29
@@ -4106,7 +4108,8 @@
 "AmazonInspector2ServiceRolePolicy","v13",True,"2024-08-14T16:03:32+00:00",0,2,0,0,0,1,1
 "AmazonInspector2ServiceRolePolicy","v2",False,"2022-08-11T18:45:32+00:00",0,1,0,0,0,1,0
 "ECRTemplateServiceRolePolicy","v1",True,"2024-06-19T23:11:37+00:00",0,0,0,0,0,0,0
-"VPCLatticeFullAccess","v1",True,"2023-03-30T02:49:02+00:00",1,0,0,0,0,0,0
+"VPCLatticeFullAccess","v1",False,"2023-03-30T02:49:02+00:00",1,0,0,0,0,0,0
+"VPCLatticeFullAccess","v2",True,"2024-12-01T14:21:06+00:00",1,1,0,2,0,0,31
 "AmazonSageMakerPartnerServiceCatalogProductsCloudFormationServiceRolePolicy","v1",True,"2023-08-01T15:06:46+00:00",0,0,0,0,0,0,0
 "AWSDataExchangeProviderFullAccess","v4",False,"2020-04-27T14:30:12+00:00",0,2,0,0,0,0,12
 "AWSDataExchangeProviderFullAccess","v8",False,"2021-11-01T15:13:01+00:00",0,3,0,1,0,0,14

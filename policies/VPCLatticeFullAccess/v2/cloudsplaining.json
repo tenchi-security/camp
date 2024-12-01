@@ -1,0 +1,48 @@
+{
+    "ServiceWildcard": [
+        "vpc-lattice"
+    ],
+    "ServicesAffected": [
+        "vpc-lattice"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "vpc-lattice:DeleteAuthPolicy",
+        "vpc-lattice:PutAuthPolicy"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "vpc-lattice:CreateAccessLogSubscription",
+        "vpc-lattice:CreateListener",
+        "vpc-lattice:CreateRule",
+        "vpc-lattice:CreateService",
+        "vpc-lattice:CreateServiceNetwork",
+        "vpc-lattice:CreateServiceNetworkServiceAssociation",
+        "vpc-lattice:CreateServiceNetworkVpcAssociation",
+        "vpc-lattice:CreateTargetGroup",
+        "vpc-lattice:DeleteAccessLogSubscription",
+        "vpc-lattice:DeleteAuthPolicy",
+        "vpc-lattice:DeleteListener",
+        "vpc-lattice:DeleteResourcePolicy",
+        "vpc-lattice:DeleteRule",
+        "vpc-lattice:DeleteService",
+        "vpc-lattice:DeleteServiceNetwork",
+        "vpc-lattice:DeleteServiceNetworkServiceAssociation",
+        "vpc-lattice:DeleteServiceNetworkVpcAssociation",
+        "vpc-lattice:DeleteTargetGroup",
+        "vpc-lattice:DeregisterTargets",
+        "vpc-lattice:PutAuthPolicy",
+        "vpc-lattice:PutResourcePolicy",
+        "vpc-lattice:RegisterTargets",
+        "vpc-lattice:TagResource",
+        "vpc-lattice:UntagResource",
+        "vpc-lattice:UpdateAccessLogSubscription",
+        "vpc-lattice:UpdateListener",
+        "vpc-lattice:UpdateRule",
+        "vpc-lattice:UpdateService",
+        "vpc-lattice:UpdateServiceNetwork",
+        "vpc-lattice:UpdateServiceNetworkVpcAssociation",
+        "vpc-lattice:UpdateTargetGroup"
+    ]
+}

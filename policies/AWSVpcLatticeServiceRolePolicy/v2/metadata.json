@@ -1,0 +1,6 @@
+{
+    "VersionId": "v2",
+    "IsDefaultVersion": true,
+    "CreateDate": "2024-12-01T14:06:06+00:00",
+    "PolicyName": "AWSVpcLatticeServiceRolePolicy"
+}
