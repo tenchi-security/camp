@@ -1,0 +1,19 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "purchase-orders"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "purchase-orders:AddPurchaseOrder",
+        "purchase-orders:DeletePurchaseOrder",
+        "purchase-orders:ModifyPurchaseOrders",
+        "purchase-orders:TagResource",
+        "purchase-orders:UntagResource",
+        "purchase-orders:UpdatePurchaseOrder",
+        "purchase-orders:UpdatePurchaseOrderStatus"
+    ]
+}

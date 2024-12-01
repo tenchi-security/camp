@@ -1,0 +1,18 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "events",
+        "guardduty"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "events:DeleteRule",
+        "events:PutRule",
+        "events:PutTargets",
+        "events:RemoveTargets",
+        "guardduty:CreateFilter"
+    ]
+}
