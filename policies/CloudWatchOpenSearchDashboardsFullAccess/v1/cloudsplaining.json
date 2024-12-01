@@ -1,0 +1,22 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "aoss",
+        "es",
+        "iam",
+        "opensearch"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:PassRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "aoss:APIAccessAll",
+        "aoss:DeleteCollection",
+        "es:UpdateApplication",
+        "iam:PassRole",
+        "opensearch:ApplicationAccessAll"
+    ]
+}

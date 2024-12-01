@@ -1,0 +1,15 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "aoss",
+        "opensearch"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "aoss:APIAccessAll",
+        "opensearch:ApplicationAccessAll"
+    ]
+}
