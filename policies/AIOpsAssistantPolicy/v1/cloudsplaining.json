@@ -1,0 +1,21 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "cloudtrail",
+        "glue",
+        "ssm"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "glue:ListEntities"
+    ],
+    "DataExfiltration": [
+        "ssm:GetParameters"
+    ],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "cloudtrail:StartQuery",
+        "glue:ListEntities",
+        "ssm:GetParameters"
+    ]
+}

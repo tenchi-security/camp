@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AIOpsAssistantPolicy",
+    "PolicyId": "ANPAZKAPJZG4LSO5ZZZOE",
+    "Arn": "arn:aws:iam::aws:policy/AIOpsAssistantPolicy",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2024-12-02T16:21:06+00:00",
+    "UpdateDate": "2024-12-02T16:21:06+00:00"
+}

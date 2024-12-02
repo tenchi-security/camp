@@ -2768,6 +2768,7 @@
 "BatchServiceRolePolicy","v5",False,"2022-05-18T20:05:56+00:00",0,4,0,2,0,0,11
 "BatchServiceRolePolicy","v2",False,"2021-03-11T18:03:48+00:00",0,4,0,2,0,0,11
 "AmazonS3ObjectLambdaExecutionRolePolicy","v1",True,"2021-08-18T10:07:41+00:00",0,2,0,0,0,0,4
+"AIOpsAssistantPolicy","v1",True,"2024-12-02T16:21:06+00:00",0,3,0,1,1,0,3
 "IVSRecordToS3","v1",True,"2020-12-05T00:10:43+00:00",0,0,0,0,0,0,0
 "AmazonWorkSpacesWebReadOnly","v1",False,"2021-11-30T14:20:36+00:00",0,0,0,0,0,0,0
 "AmazonWorkSpacesWebReadOnly","v2",True,"2022-11-02T20:20:44+00:00",0,0,0,0,0,0,0
