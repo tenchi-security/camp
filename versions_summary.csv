@@ -44,6 +44,7 @@
 "AWSBackupServiceLinkedRolePolicyForBackup","v15",False,"2023-12-15T22:06:53+00:00",0,2,0,1,0,0,7
 "AWSBackupServiceLinkedRolePolicyForBackup","v2",False,"2020-11-10T18:37:51+00:00",0,2,0,1,0,0,6
 "ServerMigrationServiceRoleForInstanceValidation","v1",True,"2020-07-20T22:25:07+00:00",0,0,0,0,0,0,0
+"AWSSecurityIncidentResponseCaseFullAccess","v1",True,"2024-12-01T23:21:05+00:00",0,0,0,0,0,0,0
 "AmazonSNSReadOnlyAccess","v1",False,"2015-02-06T18:41:06+00:00",0,0,0,0,0,0,0
 "AmazonSNSReadOnlyAccess","v2",True,"2024-09-24T22:13:12+00:00",0,0,0,0,0,0,0
 "AmazonOneEnterpriseInstallerAccess","v1",True,"2023-11-28T05:00:39+00:00",0,0,0,0,0,0,0
@@ -710,6 +711,7 @@
 "AWSQuickSightAssetBundleExportPolicy","v1",True,"2024-03-27T21:31:03+00:00",0,0,0,0,0,0,0
 "AmazonDataZoneProjectDeploymentPermissionsBoundary","v1",False,"2023-03-21T02:54:30+00:00",0,7,0,2,0,1,25
 "AmazonDataZoneProjectDeploymentPermissionsBoundary","v2",True,"2023-04-04T02:48:38+00:00",0,7,0,2,0,1,28
+"AWSSecurityIncidentResponseFullAccess","v1",True,"2024-12-01T23:21:06+00:00",0,0,0,0,0,0,0
 "WellArchitectedConsoleReadOnlyAccess","v1",False,"2018-11-29T18:21:08+00:00",0,0,0,0,0,0,0
 "WellArchitectedConsoleReadOnlyAccess","v2",True,"2023-06-29T17:16:13+00:00",0,0,0,0,0,0,0
 "AmazonMSKReadOnlyAccess","v1",True,"2019-01-14T22:28:45+00:00",0,0,0,0,0,0,0
@@ -1005,6 +1007,7 @@
 "ElementalSupportCenterFullAccess","v2",True,"2021-02-05T21:02:54+00:00",2,0,0,0,0,0,0
 "AmazonSageMakerServiceCatalogProductsCloudformationServiceRolePolicy","v1",True,"2022-03-25T04:26:40+00:00",0,0,0,0,0,0,0
 "AmazonMachineLearningReadOnlyAccess","v1",True,"2015-04-09T17:40:02+00:00",0,0,0,0,0,0,0
+"CloudWatchNetworkFlowMonitorTopologyServiceRolePolicy","v1",True,"2024-12-01T22:51:07+00:00",0,0,0,0,0,0,0
 "AWSDeadlineCloud-WorkerHost","v1",True,"2024-04-01T17:28:28+00:00",0,0,0,0,0,0,0
 "AWSVPCTransitGatewayServiceRolePolicy","v1",False,"2018-11-26T16:21:17+00:00",0,1,0,1,0,0,4
 "AWSVPCTransitGatewayServiceRolePolicy","v2",True,"2021-04-15T16:31:44+00:00",0,1,0,1,0,0,6
@@ -1546,6 +1549,7 @@
 "CloudWatchSyntheticsFullAccess","v9",False,"2022-05-06T18:14:01+00:00",1,1,0,0,0,0,6
 "CloudWatchSyntheticsFullAccess","v2",False,"2020-04-03T17:53:31+00:00",1,1,0,0,0,0,6
 "AWSQuickSetupDevOpsGuruPermissionsBoundary","v1",True,"2024-06-26T09:44:42+00:00",0,0,0,0,0,0,0
+"AWSSecurityIncidentResponseReadOnlyAccess","v1",True,"2024-12-01T23:06:06+00:00",0,0,0,0,0,0,0
 "AmazonRedshiftDataFullAccess","v4",False,"2022-07-12T03:34:16+00:00",0,2,0,0,0,0,3
 "AmazonRedshiftDataFullAccess","v3",False,"2022-07-08T01:44:27+00:00",0,2,0,0,0,0,3
 "AmazonRedshiftDataFullAccess","v1",False,"2020-09-09T19:23:55+00:00",0,1,0,0,0,0,1
@@ -3193,6 +3197,7 @@
 "AWSDataExchangeReadOnly","v2",False,"2021-05-10T21:15:26+00:00",0,0,0,0,0,0,0
 "CloudWatchNetworkMonitorServiceRolePolicy","v1",True,"2023-12-21T18:53:19+00:00",0,0,0,0,0,0,0
 "AWSAppFabricReadOnlyAccess","v1",True,"2023-06-27T19:52:02+00:00",0,0,0,0,0,0,0
+"CloudWatchNetworkFlowMonitorServiceRolePolicy","v1",True,"2024-12-01T22:36:07+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerReadOnly","v4",False,"2018-11-28T16:23:18+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerReadOnly","v8",False,"2020-12-01T16:17:12+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerReadOnly","v11",True,"2021-12-01T16:29:20+00:00",0,0,0,0,0,0,0
@@ -3763,6 +3768,7 @@
 "AWSCloud9ServiceRolePolicy","v2",False,"2018-02-27T10:20:24+00:00",0,2,0,0,0,0,8
 "AWSDataExchangeServiceRolePolicyForOrganizationDiscovery","v1",True,"2024-10-10T14:33:13+00:00",0,0,0,0,0,0,0
 "AmazonRoute53RecoveryReadinessFullAccess","v1",True,"2021-08-18T16:45:07+00:00",1,0,0,0,0,0,0
+"CloudWatchNetworkFlowMonitorAgentPublishPolicy","v1",True,"2024-12-01T22:51:06+00:00",0,0,0,0,0,0,0
 "AWSServiceRoleForMonitronPolicy","v3",True,"2024-10-02T10:06:59+00:00",0,1,0,0,0,0,1
 "AWSServiceRoleForMonitronPolicy","v1",False,"2020-12-02T19:06:08+00:00",0,0,0,1,0,0,0
 "AWSServiceRoleForMonitronPolicy","v2",False,"2022-09-29T20:38:15+00:00",0,0,0,0,0,0,0

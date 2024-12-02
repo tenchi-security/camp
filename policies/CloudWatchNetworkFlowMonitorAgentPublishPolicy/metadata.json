@@ -1,0 +1,12 @@
+{
+    "PolicyName": "CloudWatchNetworkFlowMonitorAgentPublishPolicy",
+    "PolicyId": "ANPAZKAPJZG4E27DUEWBC",
+    "Arn": "arn:aws:iam::aws:policy/CloudWatchNetworkFlowMonitorAgentPublishPolicy",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2024-12-01T22:51:06+00:00",
+    "UpdateDate": "2024-12-01T22:51:06+00:00"
+}

@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSSecurityIncidentResponseReadOnlyAccess",
+    "PolicyId": "ANPAZKAPJZG4BW45DRUEH",
+    "Arn": "arn:aws:iam::aws:policy/AWSSecurityIncidentResponseReadOnlyAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2024-12-01T23:06:06+00:00",
+    "UpdateDate": "2024-12-01T23:06:06+00:00"
+}
