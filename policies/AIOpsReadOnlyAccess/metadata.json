@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AIOpsReadOnlyAccess",
+    "PolicyId": "ANPAZKAPJZG4M5INIYYNW",
+    "Arn": "arn:aws:iam::aws:policy/AIOpsReadOnlyAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2024-12-02T23:51:07+00:00",
+    "UpdateDate": "2024-12-02T23:51:07+00:00"
+}

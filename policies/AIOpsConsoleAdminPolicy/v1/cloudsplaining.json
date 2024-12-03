@@ -1,0 +1,24 @@
+{
+    "ServiceWildcard": [
+        "aiops"
+    ],
+    "ServicesAffected": [
+        "iam",
+        "sso"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:PassRole",
+        "iam:PassRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "iam:PassRole",
+        "sso:DeleteApplication",
+        "sso:PutApplicationAccessScope",
+        "sso:PutApplicationAssignmentConfiguration",
+        "sso:PutApplicationAuthenticationMethod",
+        "sso:PutApplicationGrant"
+    ]
+}
