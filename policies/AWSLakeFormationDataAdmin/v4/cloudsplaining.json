@@ -1,0 +1,25 @@
+{
+    "ServiceWildcard": [
+        "lakeformation"
+    ],
+    "ServicesAffected": [
+        "glue"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "glue:CreateCatalog",
+        "glue:CreateDatabase",
+        "glue:CreateTable",
+        "glue:DeleteCatalog",
+        "glue:DeleteDatabase",
+        "glue:DeleteTable",
+        "glue:DeleteWorkflow",
+        "glue:StartWorkflowRun",
+        "glue:UpdateCatalog",
+        "glue:UpdateDatabase",
+        "glue:UpdateTable"
+    ]
+}

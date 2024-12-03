@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonS3TablesReadOnlyAccess",
+    "PolicyId": "ANPAZKAPJZG4CWAS4ILUK",
+    "Arn": "arn:aws:iam::aws:policy/AmazonS3TablesReadOnlyAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2024-12-03T15:21:06+00:00",
+    "UpdateDate": "2024-12-03T15:21:06+00:00"
+}
