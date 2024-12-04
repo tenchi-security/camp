@@ -2059,9 +2059,10 @@
 "AWSCodeDeployReadOnlyAccess","v3",True,"2020-04-02T16:20:09+00:00",0,0,0,0,0,0,0
 "AWSCodeDeployReadOnlyAccess","v1",False,"2015-05-19T18:21:32+00:00",0,0,0,0,0,0,0
 "AWSCodeDeployReadOnlyAccess","v2",False,"2019-11-05T23:01:32+00:00",0,0,0,0,0,0,0
-"AmazonBedrockReadOnly","v4",True,"2024-10-18T18:16:43+00:00",0,0,0,0,0,0,0
+"AmazonBedrockReadOnly","v4",False,"2024-10-18T18:16:43+00:00",0,0,0,0,0,0,0
 "AmazonBedrockReadOnly","v3",False,"2024-08-28T01:58:53+00:00",0,0,0,0,0,0,0
 "AmazonBedrockReadOnly","v1",False,"2023-12-06T15:48:19+00:00",0,0,0,0,0,0,0
+"AmazonBedrockReadOnly","v5",True,"2024-12-04T19:36:07+00:00",0,0,0,0,0,0,0
 "AmazonBedrockReadOnly","v2",False,"2024-08-21T16:04:18+00:00",0,0,0,0,0,0,0
 "AmazonEventBridgeApiDestinationsServiceRolePolicy","v1",True,"2021-02-11T20:52:05+00:00",0,0,0,0,0,0,0
 "AWSMigrationHubOrchestratorConsoleFullAccess","v1",False,"2022-04-20T02:26:28+00:00",1,1,0,1,0,0,1
@@ -2521,7 +2522,8 @@
 "AWSPurchaseOrdersServiceRolePolicy","v2",False,"2021-11-22T20:06:47+00:00",0,0,0,0,0,0,0
 "AWSMarketplaceResaleAuthorizationServiceRolePolicy","v1",True,"2024-03-05T18:47:54+00:00",0,0,0,0,0,0,0
 "ResourceGroupsServiceRolePolicy","v1",True,"2023-01-05T16:57:08+00:00",0,0,0,0,0,0,0
-"AmazonBedrockFullAccess","v1",True,"2023-12-06T15:47:17+00:00",1,1,0,0,0,0,15
+"AmazonBedrockFullAccess","v1",False,"2023-12-06T15:47:17+00:00",1,1,0,0,0,0,15
+"AmazonBedrockFullAccess","v2",True,"2024-12-04T19:51:07+00:00",1,1,0,1,0,0,56
 "AWSIncidentManagerIncidentAccessServiceRolePolicy","v1",False,"2023-11-13T00:01:23+00:00",0,0,0,0,0,0,0
 "AWSIncidentManagerIncidentAccessServiceRolePolicy","v2",True,"2024-02-20T23:02:11+00:00",0,0,0,0,0,0,0
 "AWSCodeCommitFullAccess","v4",False,"2019-11-05T21:02:49+00:00",1,2,0,0,0,0,47
