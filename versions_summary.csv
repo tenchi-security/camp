@@ -72,11 +72,12 @@
 "AmazonSageMakerFullAccess","v8",False,"2018-11-28T16:16:06+00:00",2,12,0,4,0,1,164
 "AmazonSageMakerFullAccess","v11",False,"2019-05-09T04:44:05+00:00",2,12,0,4,0,1,162
 "AmazonSageMakerFullAccess","v3",False,"2018-02-23T00:37:08+00:00",1,6,0,1,0,1,140
-"AmazonSageMakerFullAccess","v26",True,"2024-03-29T17:35:49+00:00",3,17,0,3,0,1,46
+"AmazonSageMakerFullAccess","v26",False,"2024-03-29T17:35:49+00:00",3,17,0,3,0,1,46
 "AmazonSageMakerFullAccess","v6",False,"2018-08-21T17:00:52+00:00",1,7,0,3,0,1,143
 "AmazonSageMakerFullAccess","v23",False,"2022-06-29T18:30:43+00:00",2,16,0,3,0,1,42
 "AmazonSageMakerFullAccess","v10",False,"2019-05-06T23:20:57+00:00",2,12,0,4,0,1,164
 "AmazonSageMakerFullAccess","v17",False,"2020-06-03T17:26:13+00:00",2,12,0,4,0,1,34
+"AmazonSageMakerFullAccess","v27",True,"2024-12-04T13:21:06+00:00",3,17,0,3,0,1,47
 "AmazonSageMakerFullAccess","v7",False,"2018-11-13T19:16:44+00:00",1,7,0,3,0,1,143
 "AmazonSageMakerFullAccess","v22",False,"2022-05-02T06:19:13+00:00",2,16,0,3,0,1,42
 "AmazonSageMakerFullAccess","v12",False,"2019-08-21T22:56:23+00:00",2,12,0,4,0,1,162
@@ -226,6 +227,7 @@
 "AWSSSOServiceRolePolicy","v15",False,"2022-05-12T21:14:40+00:00",0,1,0,0,0,0,1
 "AWSSSOServiceRolePolicy","v2",False,"2017-12-06T19:34:14+00:00",0,0,0,0,0,0,0
 "AmazonOpenSearchIngestionReadOnlyAccess","v1",True,"2023-04-26T18:09:52+00:00",0,0,0,0,0,0,0
+"AmazonSageMakerTrainingPlanCreateAccess","v1",True,"2024-12-04T13:21:07+00:00",0,0,0,0,0,0,0
 "AmazonRedshiftQueryEditorV2NoSharing","v4",False,"2022-08-31T03:59:54+00:00",0,1,0,0,0,0,15
 "AmazonRedshiftQueryEditorV2NoSharing","v8",False,"2023-08-16T19:24:59+00:00",0,1,0,0,0,0,29
 "AmazonRedshiftQueryEditorV2NoSharing","v3",False,"2022-06-15T09:48:24+00:00",0,1,0,0,0,0,15
@@ -3686,6 +3688,7 @@
 "AWSGrafanaWorkspacePermissionManagement","v2",False,"2021-09-21T20:30:06+00:00",0,0,0,0,0,0,0
 "AWSCleanRoomsMLFullAccess","v1",True,"2023-11-29T21:02:06+00:00",1,0,0,0,0,0,0
 "ServerMigrationConnector","v1",True,"2016-10-24T21:45:56+00:00",1,0,0,0,0,0,0
+"AmazonSageMakerCanvasSMDataScienceAssistantAccess","v1",True,"2024-12-04T14:06:07+00:00",0,0,0,0,0,0,0
 "SageMakerStudioDomainServiceRolePolicy","v1",True,"2024-11-20T21:56:22+00:00",0,1,0,0,0,0,1
 "SageMakerStudioProjectUserRolePermissionsBoundary","v4",False,"2024-11-26T17:36:07+00:00",0,23,0,6,0,0,265
 "SageMakerStudioProjectUserRolePermissionsBoundary","v3",False,"2024-11-24T20:21:06+00:00",0,23,0,5,0,0,265
