@@ -2052,7 +2052,8 @@
 "AmazonSageMakerServiceCatalogProductsLambdaServiceRolePolicy","v2",True,"2024-06-11T18:57:13+00:00",0,0,0,0,0,0,0
 "AmazonOpenSearchServiceCognitoAccess","v1",False,"2021-09-02T06:31:49+00:00",0,0,0,0,0,0,0
 "AmazonOpenSearchServiceCognitoAccess","v2",True,"2021-12-20T14:04:18+00:00",0,0,0,0,0,0,0
-"AWSPartnerCentralOpportunityManagement","v1",True,"2024-11-14T19:09:05+00:00",0,0,0,0,0,0,0
+"AWSPartnerCentralOpportunityManagement","v1",False,"2024-11-14T19:09:05+00:00",0,0,0,0,0,0,0
+"AWSPartnerCentralOpportunityManagement","v2",True,"2024-12-04T23:06:07+00:00",0,1,0,0,0,0,7
 "AWSQuickSightSageMakerPolicy","v3",True,"2023-10-30T17:57:43+00:00",0,0,0,0,0,0,0
 "AWSQuickSightSageMakerPolicy","v1",False,"2020-01-17T17:18:13+00:00",0,0,0,0,0,0,0
 "AWSQuickSightSageMakerPolicy","v2",False,"2023-10-03T23:22:22+00:00",0,0,0,0,0,0,0

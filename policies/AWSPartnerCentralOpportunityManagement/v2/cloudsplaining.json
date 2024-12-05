@@ -1,0 +1,19 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "partnercentral"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "partnercentral:AcceptEngagementInvitation",
+        "partnercentral:AssignOpportunity",
+        "partnercentral:AssociateOpportunity",
+        "partnercentral:DisassociateOpportunity",
+        "partnercentral:RejectEngagementInvitation",
+        "partnercentral:SubmitOpportunity",
+        "partnercentral:UpdateOpportunity"
+    ]
+}
