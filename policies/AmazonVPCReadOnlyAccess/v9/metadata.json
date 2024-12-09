@@ -1,6 +1,6 @@
 {
     "VersionId": "v9",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2024-02-08T17:08:19+00:00",
     "PolicyName": "AmazonVPCReadOnlyAccess"
 }

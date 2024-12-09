@@ -3,10 +3,10 @@
     "PolicyId": "ANPAIICZJNOJN36GTG6CM",
     "Arn": "arn:aws:iam::aws:policy/AmazonVPCReadOnlyAccess",
     "Path": "/",
-    "DefaultVersionId": "v9",
+    "DefaultVersionId": "v10",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2015-02-06T18:41:17+00:00",
-    "UpdateDate": "2024-02-08T17:08:19+00:00"
+    "UpdateDate": "2024-12-09T15:06:07+00:00"
 }
