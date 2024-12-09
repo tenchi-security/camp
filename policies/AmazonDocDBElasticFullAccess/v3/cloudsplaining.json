@@ -1,0 +1,34 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "docdb-elastic",
+        "ec2",
+        "kms",
+        "secretsmanager"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "kms:CreateGrant"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "docdb-elastic:CopyClusterSnapshot",
+        "docdb-elastic:CreateClusterSnapshot",
+        "docdb-elastic:DeleteCluster",
+        "docdb-elastic:DeleteClusterSnapshot",
+        "docdb-elastic:RestoreClusterFromSnapshot",
+        "docdb-elastic:StartCluster",
+        "docdb-elastic:StopCluster",
+        "docdb-elastic:TagResource",
+        "docdb-elastic:UntagResource",
+        "docdb-elastic:UpdateCluster",
+        "ec2:CreateVpcEndpoint",
+        "ec2:DeleteVpcEndpoints",
+        "ec2:ModifyVpcEndpoint",
+        "kms:CreateGrant",
+        "kms:Decrypt",
+        "kms:GenerateDataKey",
+        "secretsmanager:GetSecretValue"
+    ]
+}
