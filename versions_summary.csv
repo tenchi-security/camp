@@ -3824,7 +3824,7 @@
 "AWSQuickSetupDistributorPermissionsBoundary","v1",True,"2024-06-26T09:50:21+00:00",0,2,0,1,0,0,3
 "AIOpsOperatorAccess","v1",True,"2024-12-02T23:51:07+00:00",0,1,0,0,0,0,3
 "AWSIoTWirelessFullPublishAccess","v1",True,"2020-12-15T15:29:59+00:00",0,1,0,0,0,0,1
-"AccessAnalyzerServiceRolePolicy","v14",True,"2024-10-29T16:35:07+00:00",0,0,0,0,0,0,0
+"AccessAnalyzerServiceRolePolicy","v14",False,"2024-10-29T16:35:07+00:00",0,0,0,0,0,0,0
 "AccessAnalyzerServiceRolePolicy","v4",False,"2020-05-19T19:10:16+00:00",0,0,0,0,0,0,0
 "AccessAnalyzerServiceRolePolicy","v8",False,"2022-10-25T16:50:52+00:00",0,0,0,0,0,0,0
 "AccessAnalyzerServiceRolePolicy","v11",False,"2024-01-11T20:13:34+00:00",0,0,0,0,0,0,0
@@ -3837,6 +3837,7 @@
 "AccessAnalyzerServiceRolePolicy","v5",False,"2020-11-24T20:58:37+00:00",0,0,0,0,0,0,0
 "AccessAnalyzerServiceRolePolicy","v9",False,"2023-11-07T19:55:15+00:00",0,0,0,0,0,0,0
 "AccessAnalyzerServiceRolePolicy","v13",False,"2024-05-30T18:34:54+00:00",0,0,0,0,0,0,0
+"AccessAnalyzerServiceRolePolicy","v15",True,"2024-12-10T16:51:09+00:00",0,0,0,0,0,0,0
 "AccessAnalyzerServiceRolePolicy","v2",False,"2020-03-02T15:55:03+00:00",0,0,0,0,0,0,0
 "MonitronServiceRolePolicy","v1",True,"2022-05-02T19:22:03+00:00",0,0,0,0,0,0,0
 "AWSThinkboxAWSPortalAdminPolicy","v4",False,"2020-08-20T17:16:03+00:00",0,4,0,0,0,0,44
