@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSPartnerCentralSellingResourceSnapshotJobExecutionRolePolicy",
+    "PolicyId": "ANPAZKAPJZG4IOWFGGDCE",
+    "Arn": "arn:aws:iam::aws:policy/AWSPartnerCentralSellingResourceSnapshotJobExecutionRolePolicy",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2024-12-10T18:21:15+00:00",
+    "UpdateDate": "2024-12-10T18:21:15+00:00"
+}

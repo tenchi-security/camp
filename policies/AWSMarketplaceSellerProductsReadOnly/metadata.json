@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4K5Y2Q5F7D",
     "Arn": "arn:aws:iam::aws:policy/AWSMarketplaceSellerProductsReadOnly",
     "Path": "/",
-    "DefaultVersionId": "v4",
+    "DefaultVersionId": "v5",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2019-07-02T21:40:47+00:00",
-    "UpdateDate": "2024-10-21T19:52:20+00:00"
+    "UpdateDate": "2024-12-10T18:51:14+00:00"
 }

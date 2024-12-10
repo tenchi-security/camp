@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4DX7TQBP3V",
     "Arn": "arn:aws:iam::aws:policy/AWSPartnerCentralSandboxFullAccess",
     "Path": "/",
-    "DefaultVersionId": "v1",
+    "DefaultVersionId": "v2",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2024-11-14T19:10:37+00:00",
-    "UpdateDate": "2024-11-14T19:10:37+00:00"
+    "UpdateDate": "2024-12-10T18:21:19+00:00"
 }
