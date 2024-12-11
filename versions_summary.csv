@@ -2486,7 +2486,8 @@
 "AWS_ConfigRole","v15",False,"2022-08-19T22:05:27+00:00",0,2,0,1,0,0,6
 "AWS_ConfigRole","v18",False,"2022-10-18T17:17:17+00:00",0,2,0,2,0,0,7
 "AWS_ConfigRole","v2",False,"2020-12-18T22:10:53+00:00",0,1,0,0,0,0,5
-"AWSSupplyChainFederationAdminAccess","v3",True,"2023-11-01T18:50:13+00:00",1,0,0,0,0,0,0
+"AWSSupplyChainFederationAdminAccess","v4",True,"2024-12-11T21:36:24+00:00",1,0,0,0,0,0,0
+"AWSSupplyChainFederationAdminAccess","v3",False,"2023-11-01T18:50:13+00:00",1,0,0,0,0,0,0
 "AWSSupplyChainFederationAdminAccess","v1",False,"2023-03-01T18:54:25+00:00",1,0,0,0,0,0,0
 "AWSSupplyChainFederationAdminAccess","v2",False,"2023-09-20T20:11:53+00:00",1,0,0,0,0,0,0
 "AmazonElasticTranscoder_JobsSubmitter","v1",False,"2018-06-07T21:12:16+00:00",0,1,0,0,0,0,4
