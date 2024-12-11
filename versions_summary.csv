@@ -1214,7 +1214,8 @@
 "AmazonElasticMapReduceforEC2Role","v1",False,"2015-02-06T18:41:21+00:00",6,6,0,21,1,0,132
 "AmazonElasticMapReduceforEC2Role","v2",False,"2015-05-13T21:23:05+00:00",6,7,0,21,1,0,137
 "AWSResourceAccessManagerResourceShareParticipantAccess","v1",True,"2019-12-09T20:41:37+00:00",0,1,0,2,0,0,2
-"ResourceGroupsTaggingAPITagUntagSupportedResources","v1",True,"2024-10-11T11:11:14+00:00",0,139,0,0,0,0,303
+"ResourceGroupsTaggingAPITagUntagSupportedResources","v1",False,"2024-10-11T11:11:14+00:00",0,139,0,0,0,0,303
+"ResourceGroupsTaggingAPITagUntagSupportedResources","v2",True,"2024-12-11T17:51:30+00:00",0,148,0,0,0,0,321
 "AmazonSESFullAccess","v1",True,"2015-02-06T18:41:02+00:00",1,1,0,3,0,0,36
 "AWSElasticBeanstalkWorkerTier","v4",False,"2016-12-21T02:01:55+00:00",0,1,0,0,0,0,3
 "AWSElasticBeanstalkWorkerTier","v3",False,"2016-12-09T18:29:00+00:00",0,1,0,0,0,0,3
