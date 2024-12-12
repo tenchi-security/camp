@@ -2027,10 +2027,11 @@
 "AWSSSMForSAPServiceLinkedRolePolicy","v8",False,"2024-08-05T22:40:26+00:00",0,0,0,0,0,0,0
 "AWSSSMForSAPServiceLinkedRolePolicy","v3",False,"2023-07-31T22:33:25+00:00",0,0,0,0,0,0,0
 "AWSSSMForSAPServiceLinkedRolePolicy","v6",False,"2023-11-21T03:35:14+00:00",0,0,0,0,0,0,0
+"AWSSSMForSAPServiceLinkedRolePolicy","v10",True,"2024-12-11T22:51:34+00:00",0,0,0,0,0,0,0
 "AWSSSMForSAPServiceLinkedRolePolicy","v7",False,"2024-04-11T18:31:07+00:00",0,0,0,0,0,0,0
 "AWSSSMForSAPServiceLinkedRolePolicy","v1",False,"2022-11-16T01:18:21+00:00",0,0,0,0,0,0,0
 "AWSSSMForSAPServiceLinkedRolePolicy","v5",False,"2023-11-17T21:22:26+00:00",0,0,0,0,0,0,0
-"AWSSSMForSAPServiceLinkedRolePolicy","v9",True,"2024-08-29T22:17:07+00:00",0,0,0,0,0,0,0
+"AWSSSMForSAPServiceLinkedRolePolicy","v9",False,"2024-08-29T22:17:07+00:00",0,0,0,0,0,0,0
 "AWSSSMForSAPServiceLinkedRolePolicy","v2",False,"2023-01-06T02:41:02+00:00",0,0,0,0,0,0,0
 "AWSTransferConsoleFullAccess","v1",True,"2020-12-14T19:33:25+00:00",1,2,0,1,0,0,12
 "AmazonRedshiftQueryEditorV2FullAccess","v3",True,"2024-02-21T17:20:52+00:00",1,1,0,0,0,0,30
@@ -2944,11 +2945,12 @@
 "AWSSupportServiceRolePolicy","v30",False,"2023-06-27T21:49:38+00:00",0,1,0,0,0,0,1
 "AWSSupportServiceRolePolicy","v21",False,"2022-02-18T00:53:34+00:00",0,1,0,0,0,0,1
 "AWSSupportServiceRolePolicy","v34",False,"2024-01-17T22:28:08+00:00",0,2,0,3,0,0,4
+"AWSSupportServiceRolePolicy","v39",True,"2024-12-12T00:06:26+00:00",0,2,0,3,0,0,4
 "AWSSupportServiceRolePolicy","v4",False,"2019-02-06T18:06:11+00:00",0,3,0,0,1,1,6
 "AWSSupportServiceRolePolicy","v8",False,"2019-12-16T19:39:42+00:00",0,2,0,0,0,1,5
 "AWSSupportServiceRolePolicy","v37",False,"2024-08-05T23:34:50+00:00",0,2,0,3,0,0,4
 "AWSSupportServiceRolePolicy","v33",False,"2023-12-07T01:43:36+00:00",0,2,0,3,0,0,4
-"AWSSupportServiceRolePolicy","v38",True,"2024-10-10T18:03:48+00:00",0,2,0,3,0,0,4
+"AWSSupportServiceRolePolicy","v38",False,"2024-10-10T18:03:48+00:00",0,2,0,3,0,0,4
 "AWSSupportServiceRolePolicy","v35",False,"2024-03-25T16:28:02+00:00",0,2,0,3,0,0,4
 "AWSSupportServiceRolePolicy","v11",False,"2020-07-09T23:29:32+00:00",0,2,0,0,0,0,5
 "AWSSupportServiceRolePolicy","v3",False,"2018-11-05T20:12:23+00:00",0,3,0,0,1,1,6
