@@ -1,6 +1,6 @@
 {
     "VersionId": "v15",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2024-05-02T01:36:55+00:00",
     "PolicyName": "AWSCodeBuildDeveloperAccess"
 }
