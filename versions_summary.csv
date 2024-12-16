@@ -1418,7 +1418,8 @@
 "SplitCostAllocationDataServiceRolePolicy","v1",True,"2024-04-16T16:05:16+00:00",0,0,0,0,0,0,0
 "ServerMigration_ServiceRole","v1",False,"2020-08-11T20:41:44+00:00",0,2,0,2,0,0,4
 "ServerMigration_ServiceRole","v2",True,"2020-10-15T17:26:32+00:00",0,2,0,2,0,0,4
-"AWSCodeDeployFullAccess","v3",True,"2020-04-02T16:14:47+00:00",1,2,0,0,0,0,21
+"AWSCodeDeployFullAccess","v4",True,"2024-12-16T20:22:06+00:00",1,2,0,0,0,0,21
+"AWSCodeDeployFullAccess","v3",False,"2020-04-02T16:14:47+00:00",1,2,0,0,0,0,21
 "AWSCodeDeployFullAccess","v1",False,"2015-05-19T18:13:23+00:00",1,1,0,0,0,0,16
 "AWSCodeDeployFullAccess","v2",False,"2019-11-05T22:57:28+00:00",1,2,0,0,0,0,21
 "SecretsManagerReadWrite","v4",False,"2023-08-29T20:42:39+00:00",1,2,0,3,1,0,19
@@ -1954,7 +1955,8 @@
 "AWSLicenseManagerLinuxSubscriptionsServiceRolePolicy","v1",False,"2022-12-20T18:54:54+00:00",0,0,0,0,0,0,0
 "AWSLicenseManagerLinuxSubscriptionsServiceRolePolicy","v2",True,"2024-07-08T22:04:56+00:00",0,0,0,0,0,0,0
 "AmazonEKSLoadBalancingPolicy","v1",True,"2024-10-30T20:18:06+00:00",0,3,0,0,0,0,18
-"AWSCodeDeployDeployerAccess","v3",True,"2020-04-02T16:16:11+00:00",0,2,0,0,0,0,6
+"AWSCodeDeployDeployerAccess","v4",True,"2024-12-16T20:22:07+00:00",0,2,0,0,0,0,6
+"AWSCodeDeployDeployerAccess","v3",False,"2020-04-02T16:16:11+00:00",0,2,0,0,0,0,6
 "AWSCodeDeployDeployerAccess","v1",False,"2015-05-19T18:18:43+00:00",0,1,0,0,0,0,2
 "AWSCodeDeployDeployerAccess","v2",False,"2019-11-05T22:59:06+00:00",0,2,0,0,0,0,6
 "AmazonTextractServiceRole","v1",True,"2018-11-28T19:12:16+00:00",0,0,0,0,0,0,0

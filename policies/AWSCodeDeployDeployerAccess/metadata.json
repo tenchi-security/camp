@@ -3,10 +3,10 @@
     "PolicyId": "ANPAJUWEPOMGLMVXJAPUI",
     "Arn": "arn:aws:iam::aws:policy/AWSCodeDeployDeployerAccess",
     "Path": "/",
-    "DefaultVersionId": "v3",
+    "DefaultVersionId": "v4",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2015-05-19T18:18:43+00:00",
-    "UpdateDate": "2020-04-02T16:16:11+00:00"
+    "UpdateDate": "2024-12-16T20:22:07+00:00"
 }
