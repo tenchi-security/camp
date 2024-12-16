@@ -1373,9 +1373,10 @@
 "AmazonEMRReadOnlyAccessPolicy_v2","v1",False,"2021-03-12T01:39:16+00:00",0,0,0,0,0,0,0
 "AmazonEMRReadOnlyAccessPolicy_v2","v2",False,"2022-04-21T22:31:26+00:00",0,0,0,0,0,0,0
 "AWSDataLifecycleManagerServiceRole","v4",False,"2019-12-19T19:42:29+00:00",0,1,0,0,0,0,6
+"AWSDataLifecycleManagerServiceRole","v8",True,"2024-12-16T17:37:06+00:00",0,1,0,1,0,0,8
 "AWSDataLifecycleManagerServiceRole","v3",False,"2019-11-20T19:27:44+00:00",0,1,0,0,0,0,5
 "AWSDataLifecycleManagerServiceRole","v6",False,"2020-12-11T18:15:06+00:00",0,1,0,1,0,0,7
-"AWSDataLifecycleManagerServiceRole","v7",True,"2022-09-19T17:34:08+00:00",0,1,0,1,0,0,8
+"AWSDataLifecycleManagerServiceRole","v7",False,"2022-09-19T17:34:08+00:00",0,1,0,1,0,0,8
 "AWSDataLifecycleManagerServiceRole","v1",False,"2018-07-06T19:34:16+00:00",0,1,0,0,0,0,2
 "AWSDataLifecycleManagerServiceRole","v5",False,"2020-09-09T18:52:08+00:00",0,1,0,1,0,0,7
 "AWSDataLifecycleManagerServiceRole","v2",False,"2019-05-29T16:44:12+00:00",0,1,0,0,0,0,3
