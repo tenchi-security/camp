@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSBackupServiceRolePolicyForIndexing",
+    "PolicyId": "ANPAZKAPJZG4LFHUOSAHN",
+    "Arn": "arn:aws:iam::aws:policy/AWSBackupServiceRolePolicyForIndexing",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2024-12-17T18:37:06+00:00",
+    "UpdateDate": "2024-12-17T18:37:06+00:00"
+}

@@ -1030,6 +1030,7 @@
 "AWSDMSFleetAdvisorServiceRolePolicy","v1",True,"2023-03-06T09:10:42+00:00",0,0,0,0,0,0,0
 "AWSDeadlineCloud-UserAccessQueues","v1",False,"2024-04-01T17:10:03+00:00",0,0,0,0,0,0,0
 "AWSDeadlineCloud-UserAccessQueues","v2",True,"2024-10-07T18:25:13+00:00",0,1,0,8,0,0,11
+"AWSBackupServiceRolePolicyForItemRestores","v1",True,"2024-12-17T18:37:06+00:00",0,0,0,0,0,0,0
 "AWSKeyManagementServiceCustomKeyStoresServiceRolePolicy","v1",False,"2018-11-14T20:10:53+00:00",0,1,0,0,0,0,5
 "AWSKeyManagementServiceCustomKeyStoresServiceRolePolicy","v2",True,"2023-11-10T19:03:34+00:00",0,1,0,0,0,0,5
 "AWSCloud9EnvironmentMember","v3",True,"2023-10-11T12:13:40+00:00",0,0,0,0,0,0,0
@@ -2738,6 +2739,7 @@
 "AmazonQDeveloperAccess","v3",True,"2024-11-13T21:30:27+00:00",0,0,0,0,0,0,0
 "AmazonQDeveloperAccess","v1",False,"2024-07-09T08:35:15+00:00",0,0,0,0,0,0,0
 "AmazonQDeveloperAccess","v2",False,"2024-10-28T20:02:12+00:00",0,0,0,0,0,0,0
+"AWSBackupServiceRolePolicyForIndexing","v1",True,"2024-12-17T18:37:06+00:00",0,0,0,0,0,0,0
 "AWSIoTDeviceDefenderReplaceDefaultPolicyMitigationAction","v1",True,"2019-08-07T17:04:57+00:00",0,1,0,0,0,0,1
 "AmazonRedshiftReadOnlyAccess","v1",False,"2015-02-06T18:40:51+00:00",0,0,0,0,0,0,0
 "AmazonRedshiftReadOnlyAccess","v2",True,"2024-02-08T00:24:13+00:00",0,0,0,0,0,0,0
