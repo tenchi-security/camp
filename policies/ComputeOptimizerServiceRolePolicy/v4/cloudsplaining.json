@@ -1,0 +1,11 @@
+{
+    "ServiceWildcard": [
+        "compute-optimizer"
+    ],
+    "ServicesAffected": [],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": []
+}
