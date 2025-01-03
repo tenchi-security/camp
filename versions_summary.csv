@@ -3396,9 +3396,10 @@
 "AutoScalingConsoleReadOnlyAccess","v1",True,"2017-01-12T19:48:53+00:00",0,0,0,0,0,0,0
 "AWSQuicksightAthenaAccess","v4",False,"2018-08-07T20:24:55+00:00",0,2,0,0,0,0,14
 "AWSQuicksightAthenaAccess","v8",False,"2020-11-11T02:12:40+00:00",0,2,0,0,0,0,14
+"AWSQuicksightAthenaAccess","v11",True,"2025-01-03T00:22:06+00:00",0,2,0,0,0,0,15
 "AWSQuicksightAthenaAccess","v3",False,"2017-08-11T23:37:32+00:00",0,2,0,0,0,0,14
 "AWSQuicksightAthenaAccess","v6",False,"2019-09-10T17:59:46+00:00",0,2,0,0,0,0,14
-"AWSQuicksightAthenaAccess","v10",True,"2021-07-07T20:09:06+00:00",0,2,0,0,0,0,14
+"AWSQuicksightAthenaAccess","v10",False,"2021-07-07T20:09:06+00:00",0,2,0,0,0,0,14
 "AWSQuicksightAthenaAccess","v7",False,"2020-06-25T16:24:58+00:00",0,2,0,0,0,0,14
 "AWSQuicksightAthenaAccess","v1",False,"2016-12-09T02:31:03+00:00",0,0,0,0,0,0,0
 "AWSQuicksightAthenaAccess","v5",False,"2019-08-08T17:51:51+00:00",0,2,0,0,0,0,14

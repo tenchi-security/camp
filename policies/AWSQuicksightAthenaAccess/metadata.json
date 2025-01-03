@@ -3,10 +3,10 @@
     "PolicyId": "ANPAI4JB77JXFQXDWNRPM",
     "Arn": "arn:aws:iam::aws:policy/service-role/AWSQuicksightAthenaAccess",
     "Path": "/service-role/",
-    "DefaultVersionId": "v10",
+    "DefaultVersionId": "v11",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2016-12-09T02:31:03+00:00",
-    "UpdateDate": "2021-07-07T20:09:06+00:00"
+    "UpdateDate": "2025-01-03T00:22:06+00:00"
 }
