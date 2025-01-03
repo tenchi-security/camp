@@ -157,8 +157,9 @@
 "AWSIoTFleetwiseServiceRolePolicy","v1",True,"2022-09-21T23:27:48+00:00",0,0,0,0,0,0,0
 "SageMakerStudioProjectProvisioningRolePolicy","v4",False,"2024-11-24T19:51:07+00:00",0,7,0,1,0,0,34
 "SageMakerStudioProjectProvisioningRolePolicy","v3",False,"2024-11-22T04:51:06+00:00",0,7,0,1,0,0,34
+"SageMakerStudioProjectProvisioningRolePolicy","v6",True,"2025-01-03T00:52:07+00:00",0,7,0,1,0,0,51
 "SageMakerStudioProjectProvisioningRolePolicy","v1",False,"2024-11-20T21:58:39+00:00",0,7,0,1,0,0,34
-"SageMakerStudioProjectProvisioningRolePolicy","v5",True,"2024-11-27T06:21:08+00:00",0,7,0,1,0,0,34
+"SageMakerStudioProjectProvisioningRolePolicy","v5",False,"2024-11-27T06:21:08+00:00",0,7,0,1,0,0,34
 "SageMakerStudioProjectProvisioningRolePolicy","v2",False,"2024-11-21T22:36:06+00:00",0,7,0,1,0,0,34
 "AWSElasticDisasterRecoveryAgentPolicy","v3",True,"2023-11-27T13:44:15+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryAgentPolicy","v1",False,"2021-11-17T10:32:32+00:00",0,0,0,0,0,0,0
@@ -1773,8 +1774,9 @@
 "AmazonRoute53DomainsFullAccess","v1",True,"2015-02-06T18:40:56+00:00",1,1,0,0,0,0,1
 "SageMakerStudioProjectUserRolePolicy","v4",False,"2024-11-26T05:21:06+00:00",0,14,0,2,0,0,89
 "SageMakerStudioProjectUserRolePolicy","v3",False,"2024-11-24T20:21:06+00:00",0,14,0,2,0,0,89
+"SageMakerStudioProjectUserRolePolicy","v6",True,"2025-01-03T00:37:07+00:00",0,14,0,2,0,0,92
 "SageMakerStudioProjectUserRolePolicy","v1",False,"2024-11-20T21:59:23+00:00",0,14,0,2,0,0,89
-"SageMakerStudioProjectUserRolePolicy","v5",True,"2024-11-28T04:51:07+00:00",0,14,0,2,0,0,89
+"SageMakerStudioProjectUserRolePolicy","v5",False,"2024-11-28T04:51:07+00:00",0,14,0,2,0,0,89
 "SageMakerStudioProjectUserRolePolicy","v2",False,"2024-11-22T04:51:06+00:00",0,14,0,2,0,0,89
 "AWSDeviceFarmServiceRolePolicy","v1",True,"2022-09-20T21:02:28+00:00",0,0,0,0,0,0,0
 "AWSCloudMapFullAccess","v1",False,"2018-11-28T23:57:31+00:00",1,2,0,0,0,0,11
@@ -3206,10 +3208,11 @@
 "AmazonAthenaFullAccess","v6",False,"2019-08-08T17:52:27+00:00",1,3,0,0,0,0,26
 "AmazonAthenaFullAccess","v10",False,"2023-12-15T19:52:35+00:00",1,3,0,0,0,0,46
 "AmazonAthenaFullAccess","v7",False,"2021-07-07T20:15:04+00:00",1,3,0,0,0,0,29
-"AmazonAthenaFullAccess","v12",True,"2024-06-20T16:10:44+00:00",1,3,0,0,0,0,48
+"AmazonAthenaFullAccess","v12",False,"2024-06-20T16:10:44+00:00",1,3,0,0,0,0,48
 "AmazonAthenaFullAccess","v1",False,"2016-11-30T16:46:01+00:00",1,1,0,0,0,0,12
 "AmazonAthenaFullAccess","v5",False,"2019-02-19T00:13:03+00:00",1,3,0,0,0,0,26
 "AmazonAthenaFullAccess","v9",False,"2023-01-24T16:59:23+00:00",1,3,0,0,0,0,30
+"AmazonAthenaFullAccess","v13",True,"2025-01-03T00:37:06+00:00",1,3,0,0,0,0,48
 "AmazonAthenaFullAccess","v2",False,"2017-08-11T23:42:03+00:00",1,2,0,0,0,0,24
 "AWSGrafanaAccountAdministrator","v3",True,"2022-02-15T22:36:18+00:00",1,1,0,1,0,0,6
 "AWSGrafanaAccountAdministrator","v1",False,"2021-02-23T00:20:38+00:00",1,0,0,0,0,0,0
@@ -3728,7 +3731,8 @@
 "SageMakerStudioDomainServiceRolePolicy","v1",True,"2024-11-20T21:56:22+00:00",0,1,0,0,0,0,1
 "SageMakerStudioProjectUserRolePermissionsBoundary","v4",False,"2024-11-26T17:36:07+00:00",0,23,0,6,0,0,265
 "SageMakerStudioProjectUserRolePermissionsBoundary","v3",False,"2024-11-24T20:21:06+00:00",0,23,0,5,0,0,265
-"SageMakerStudioProjectUserRolePermissionsBoundary","v6",True,"2024-11-28T04:51:07+00:00",0,23,0,6,0,0,266
+"SageMakerStudioProjectUserRolePermissionsBoundary","v6",False,"2024-11-28T04:51:07+00:00",0,23,0,6,0,0,266
+"SageMakerStudioProjectUserRolePermissionsBoundary","v7",True,"2025-01-03T00:37:06+00:00",0,23,0,6,0,0,275
 "SageMakerStudioProjectUserRolePermissionsBoundary","v1",False,"2024-11-20T21:57:42+00:00",0,23,0,5,0,0,262
 "SageMakerStudioProjectUserRolePermissionsBoundary","v5",False,"2024-11-27T06:36:06+00:00",0,23,0,6,0,0,266
 "SageMakerStudioProjectUserRolePermissionsBoundary","v2",False,"2024-11-22T04:51:06+00:00",0,23,0,5,0,0,265

@@ -1,6 +1,6 @@
 {
     "VersionId": "v6",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2024-11-28T04:51:07+00:00",
     "PolicyName": "SageMakerStudioProjectUserRolePermissionsBoundary"
 }
