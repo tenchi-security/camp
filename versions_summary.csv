@@ -1980,7 +1980,8 @@
 "AmazonDataZoneGlueManageAccessRolePolicy","v1",False,"2023-09-22T20:21:53+00:00",0,2,0,4,0,0,5
 "AmazonDataZoneGlueManageAccessRolePolicy","v5",False,"2024-06-03T23:29:25+00:00",0,3,0,4,0,0,8
 "AmazonDataZoneGlueManageAccessRolePolicy","v2",False,"2023-09-29T01:53:41+00:00",0,2,0,4,0,0,5
-"AWSElasticDisasterRecoveryConsoleFullAccess_v2","v3",True,"2024-07-29T19:38:08+00:00",1,1,0,0,0,0,53
+"AWSElasticDisasterRecoveryConsoleFullAccess_v2","v4",True,"2025-01-05T15:22:06+00:00",1,1,0,0,0,0,53
+"AWSElasticDisasterRecoveryConsoleFullAccess_v2","v3",False,"2024-07-29T19:38:08+00:00",1,1,0,0,0,0,53
 "AWSElasticDisasterRecoveryConsoleFullAccess_v2","v1",False,"2023-11-27T13:35:19+00:00",1,1,0,0,0,0,51
 "AWSElasticDisasterRecoveryConsoleFullAccess_v2","v2",False,"2024-05-19T07:38:32+00:00",1,1,0,0,0,0,53
 "AWSElasticBeanstalkMulticontainerDocker","v3",True,"2023-03-23T22:04:20+00:00",0,1,0,0,0,0,10
@@ -3423,9 +3424,10 @@
 "AWSSecurityHubOrganizationsAccess","v1",False,"2021-03-15T20:53:03+00:00",0,0,0,0,0,0,0
 "AWSSecurityHubOrganizationsAccess","v2",True,"2023-11-16T21:13:44+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryServiceRolePolicy","v4",False,"2023-11-27T13:35:20+00:00",0,1,0,0,0,0,2
+"AWSElasticDisasterRecoveryServiceRolePolicy","v8",True,"2025-01-05T14:07:06+00:00",0,1,0,0,0,0,2
 "AWSElasticDisasterRecoveryServiceRolePolicy","v3",False,"2023-06-11T08:33:31+00:00",0,1,0,0,0,0,2
 "AWSElasticDisasterRecoveryServiceRolePolicy","v6",False,"2024-01-02T13:31:35+00:00",0,1,0,0,0,0,2
-"AWSElasticDisasterRecoveryServiceRolePolicy","v7",True,"2024-01-17T13:49:07+00:00",0,1,0,0,0,0,2
+"AWSElasticDisasterRecoveryServiceRolePolicy","v7",False,"2024-01-17T13:49:07+00:00",0,1,0,0,0,0,2
 "AWSElasticDisasterRecoveryServiceRolePolicy","v1",False,"2021-11-17T10:56:17+00:00",0,1,0,0,0,0,1
 "AWSElasticDisasterRecoveryServiceRolePolicy","v5",False,"2023-12-17T14:31:04+00:00",0,1,0,0,0,0,2
 "AWSElasticDisasterRecoveryServiceRolePolicy","v2",False,"2022-07-10T12:44:41+00:00",0,1,0,0,0,0,2
