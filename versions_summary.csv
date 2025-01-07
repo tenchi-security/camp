@@ -35,10 +35,11 @@
 "AWSBackupServiceLinkedRolePolicyForBackup","v3",False,"2021-04-12T18:11:02+00:00",0,2,0,1,0,0,6
 "AWSBackupServiceLinkedRolePolicyForBackup","v6",False,"2021-11-23T22:00:49+00:00",0,2,0,1,0,0,6
 "AWSBackupServiceLinkedRolePolicyForBackup","v10",False,"2022-05-17T17:21:50+00:00",0,2,0,1,0,0,6
+"AWSBackupServiceLinkedRolePolicyForBackup","v17",True,"2025-01-07T18:22:07+00:00",0,2,0,1,0,0,7
 "AWSBackupServiceLinkedRolePolicyForBackup","v7",False,"2022-01-14T19:17:42+00:00",0,2,0,1,0,0,6
 "AWSBackupServiceLinkedRolePolicyForBackup","v12",False,"2022-11-10T22:51:20+00:00",0,2,0,1,0,0,6
 "AWSBackupServiceLinkedRolePolicyForBackup","v1",False,"2020-06-02T23:08:40+00:00",0,0,0,0,0,0,0
-"AWSBackupServiceLinkedRolePolicyForBackup","v16",True,"2024-05-17T17:12:59+00:00",0,2,0,1,0,0,7
+"AWSBackupServiceLinkedRolePolicyForBackup","v16",False,"2024-05-17T17:12:59+00:00",0,2,0,1,0,0,7
 "AWSBackupServiceLinkedRolePolicyForBackup","v5",False,"2021-10-20T18:16:29+00:00",0,2,0,1,0,0,6
 "AWSBackupServiceLinkedRolePolicyForBackup","v9",False,"2022-05-05T17:45:06+00:00",0,2,0,1,0,0,6
 "AWSBackupServiceLinkedRolePolicyForBackup","v13",False,"2023-04-24T21:22:45+00:00",0,2,0,1,0,0,6
@@ -1199,6 +1200,7 @@
 "AmazonGuardDutyServiceRolePolicy","v9",False,"2024-03-27T00:58:20+00:00",0,1,0,1,0,0,1
 "AmazonGuardDutyServiceRolePolicy","v2",False,"2020-04-20T16:01:34+00:00",0,0,0,0,0,0,0
 "AWSBackupServiceRolePolicyForRestores","v14",False,"2022-10-12T22:12:43+00:00",0,3,0,1,0,0,13
+"AWSBackupServiceRolePolicyForRestores","v21",True,"2025-01-07T18:22:06+00:00",0,3,0,1,0,0,17
 "AWSBackupServiceRolePolicyForRestores","v4",False,"2019-10-03T19:10:42+00:00",0,2,0,1,0,0,9
 "AWSBackupServiceRolePolicyForRestores","v8",False,"2021-03-10T18:30:25+00:00",0,3,0,1,0,0,13
 "AWSBackupServiceRolePolicyForRestores","v11",False,"2022-03-31T18:21:27+00:00",0,3,0,1,0,0,13
@@ -1209,7 +1211,7 @@
 "AWSBackupServiceRolePolicyForRestores","v7",False,"2020-11-09T16:52:12+00:00",0,3,0,1,0,0,12
 "AWSBackupServiceRolePolicyForRestores","v12",False,"2022-05-17T17:36:12+00:00",0,3,0,1,0,0,13
 "AWSBackupServiceRolePolicyForRestores","v1",False,"2019-01-12T00:23:54+00:00",0,1,0,0,0,0,3
-"AWSBackupServiceRolePolicyForRestores","v20",True,"2023-12-15T22:05:32+00:00",0,3,0,1,0,0,15
+"AWSBackupServiceRolePolicyForRestores","v20",False,"2023-12-15T22:05:32+00:00",0,3,0,1,0,0,15
 "AWSBackupServiceRolePolicyForRestores","v16",False,"2023-03-28T23:32:58+00:00",0,3,0,1,0,0,14
 "AWSBackupServiceRolePolicyForRestores","v5",False,"2020-01-13T16:04:56+00:00",0,3,0,1,0,0,10
 "AWSBackupServiceRolePolicyForRestores","v9",False,"2021-05-25T00:02:53+00:00",0,3,0,1,0,0,13
