@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSManagedServices_SelfServiceReporting_ServiceRolePolicy",
+    "PolicyId": "ANPAZKAPJZG4ICBUAQ6SN",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/AWSManagedServices_SelfServiceReporting_ServiceRolePolicy",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2025-01-08T21:22:06+00:00",
+    "UpdateDate": "2025-01-08T21:22:06+00:00"
+}
