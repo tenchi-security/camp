@@ -1,6 +1,6 @@
 {
     "VersionId": "v2",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2024-08-09T07:11:12+00:00",
     "PolicyName": "AmazonWorkSpacesThinClientReadOnlyAccess"
 }
