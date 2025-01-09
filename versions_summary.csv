@@ -4159,7 +4159,8 @@
 "AWSCodeCommitPowerUser","v13",False,"2020-06-24T16:16:59+00:00",0,4,0,0,0,0,48
 "AWSCodeCommitPowerUser","v15",True,"2023-07-17T21:49:06+00:00",0,4,0,0,0,0,47
 "AWSCodeCommitPowerUser","v2",False,"2015-10-22T17:21:25+00:00",0,1,0,0,0,0,16
-"AmazonDataZoneSageMakerProvisioningRolePolicy","v1",True,"2024-04-23T23:32:28+00:00",0,1,0,0,0,0,2
+"AmazonDataZoneSageMakerProvisioningRolePolicy","v1",False,"2024-04-23T23:32:28+00:00",0,1,0,0,0,0,2
+"AmazonDataZoneSageMakerProvisioningRolePolicy","v2",True,"2025-01-09T20:52:06+00:00",0,1,0,0,0,0,2
 "CostOptimizationHubAdminAccess","v1",True,"2023-12-19T00:03:51+00:00",0,0,0,0,0,0,0
 "AWSBackupFullAccess","v14",False,"2022-12-15T20:15:51+00:00",2,7,0,4,0,0,46
 "AWSBackupFullAccess","v4",False,"2020-06-06T00:06:57+00:00",2,5,0,3,0,0,27
