@@ -642,7 +642,8 @@
 "AmazonCognitoUnauthenticatedIdentities","v1",True,"2023-02-01T22:36:27+00:00",0,1,0,0,0,0,1
 "AWSMSKReplicatorExecutionRole","v1",False,"2023-12-06T00:07:52+00:00",0,0,0,0,0,0,0
 "AWSMSKReplicatorExecutionRole","v2",True,"2024-03-25T21:36:08+00:00",0,0,0,0,0,0,0
-"AWSCleanRoomsMLReadOnlyAccess","v1",True,"2023-11-29T20:55:31+00:00",0,0,0,0,0,0,0
+"AWSCleanRoomsMLReadOnlyAccess","v1",False,"2023-11-29T20:55:31+00:00",0,0,0,0,0,0,0
+"AWSCleanRoomsMLReadOnlyAccess","v2",True,"2025-01-10T20:52:06+00:00",0,0,0,0,0,0,0
 "AWSApplicationAutoscalingEC2SpotFleetRequestPolicy","v1",True,"2017-10-25T18:23:27+00:00",0,2,0,0,0,0,3
 "AWSHealthImagingFullAccess","v1",True,"2023-07-25T23:39:40+00:00",1,1,0,1,0,0,1
 "AWSOpsWorksRegisterCLI_EC2","v1",True,"2019-06-18T15:56:17+00:00",0,1,0,0,0,0,4
