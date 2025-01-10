@@ -3,10 +3,10 @@
     "PolicyId": "ANPAJACNSXR7Z2VLJW3D6",
     "Arn": "arn:aws:iam::aws:policy/AWSCodeCommitReadOnly",
     "Path": "/",
-    "DefaultVersionId": "v11",
+    "DefaultVersionId": "v12",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2015-07-09T17:05:06+00:00",
-    "UpdateDate": "2021-08-18T18:18:01+00:00"
+    "UpdateDate": "2025-01-10T20:07:07+00:00"
 }

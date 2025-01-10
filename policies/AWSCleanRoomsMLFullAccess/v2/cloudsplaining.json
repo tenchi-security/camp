@@ -1,0 +1,42 @@
+{
+    "ServiceWildcard": [
+        "cleanrooms-ml"
+    ],
+    "ServicesAffected": [
+        "cleanrooms",
+        "cleanrooms-ml"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "cleanrooms-ml:PutConfiguredAudienceModelPolicy"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "cleanrooms-ml:CancelTrainedModel",
+        "cleanrooms-ml:CancelTrainedModelInferenceJob",
+        "cleanrooms-ml:CreateAudienceModel",
+        "cleanrooms-ml:CreateConfiguredAudienceModel",
+        "cleanrooms-ml:CreateConfiguredModelAlgorithmAssociation",
+        "cleanrooms-ml:CreateMLInputChannel",
+        "cleanrooms-ml:CreateTrainedModel",
+        "cleanrooms-ml:DeleteAudienceGenerationJob",
+        "cleanrooms-ml:DeleteAudienceModel",
+        "cleanrooms-ml:DeleteConfiguredAudienceModel",
+        "cleanrooms-ml:DeleteConfiguredAudienceModelPolicy",
+        "cleanrooms-ml:DeleteConfiguredModelAlgorithm",
+        "cleanrooms-ml:DeleteConfiguredModelAlgorithmAssociation",
+        "cleanrooms-ml:DeleteMLInputChannelData",
+        "cleanrooms-ml:DeleteTrainedModelOutput",
+        "cleanrooms-ml:DeleteTrainingDataset",
+        "cleanrooms-ml:PutConfiguredAudienceModelPolicy",
+        "cleanrooms-ml:StartAudienceExportJob",
+        "cleanrooms-ml:StartAudienceGenerationJob",
+        "cleanrooms-ml:StartTrainedModelExportJob",
+        "cleanrooms-ml:StartTrainedModelInferenceJob",
+        "cleanrooms-ml:TagResource",
+        "cleanrooms-ml:UnTagResource",
+        "cleanrooms-ml:UpdateConfiguredAudienceModel",
+        "cleanrooms:CreateConfiguredAudienceModelAssociation"
+    ]
+}
