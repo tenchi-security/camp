@@ -1967,7 +1967,8 @@
 "AWSBatchServiceEventTargetRole","v1",True,"2018-02-28T22:31:13+00:00",0,1,0,0,0,0,1
 "AWSLicenseManagerLinuxSubscriptionsServiceRolePolicy","v1",False,"2022-12-20T18:54:54+00:00",0,0,0,0,0,0,0
 "AWSLicenseManagerLinuxSubscriptionsServiceRolePolicy","v2",True,"2024-07-08T22:04:56+00:00",0,0,0,0,0,0,0
-"AmazonEKSLoadBalancingPolicy","v1",True,"2024-10-30T20:18:06+00:00",0,3,0,0,0,0,18
+"AmazonEKSLoadBalancingPolicy","v1",False,"2024-10-30T20:18:06+00:00",0,3,0,0,0,0,18
+"AmazonEKSLoadBalancingPolicy","v2",True,"2025-01-09T22:37:06+00:00",0,3,0,0,0,0,19
 "AWSCodeDeployDeployerAccess","v4",True,"2024-12-16T20:22:07+00:00",0,2,0,0,0,0,6
 "AWSCodeDeployDeployerAccess","v3",False,"2020-04-02T16:16:11+00:00",0,2,0,0,0,0,6
 "AWSCodeDeployDeployerAccess","v1",False,"2015-05-19T18:18:43+00:00",0,1,0,0,0,0,2
