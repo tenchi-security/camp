@@ -1966,10 +1966,11 @@
 "AWSPrivateMarketplaceAdminFullAccess","v6",True,"2024-02-14T22:05:08+00:00",0,1,0,0,0,0,2
 "AmazonHoneycodeServiceRolePolicy","v1",True,"2020-11-18T18:03:08+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryConsoleFullAccess","v1",False,"2021-11-17T10:46:29+00:00",1,0,0,0,0,0,0
-"AWSElasticDisasterRecoveryConsoleFullAccess","v5",True,"2023-10-16T12:24:20+00:00",1,1,0,0,0,0,51
+"AWSElasticDisasterRecoveryConsoleFullAccess","v5",False,"2023-10-16T12:24:20+00:00",1,1,0,0,0,0,51
 "AWSElasticDisasterRecoveryConsoleFullAccess","v2",False,"2022-05-29T08:40:00+00:00",1,1,0,0,0,0,35
 "AWSElasticDisasterRecoveryConsoleFullAccess","v3",False,"2023-04-19T09:52:11+00:00",1,1,0,0,0,0,40
 "AWSElasticDisasterRecoveryConsoleFullAccess","v4",False,"2023-06-11T08:37:09+00:00",1,1,0,0,0,0,40
+"AWSElasticDisasterRecoveryConsoleFullAccess","v6",True,"2025-01-12T07:52:06+00:00",1,1,0,0,0,0,53
 "AmazonEMRCleanupPolicy","v1",False,"2017-09-26T23:54:19+00:00",0,1,0,0,0,0,6
 "AmazonEMRCleanupPolicy","v2",False,"2020-06-25T20:40:52+00:00",0,1,0,0,0,0,7
 "AmazonEMRCleanupPolicy","v3",True,"2020-09-29T21:11:54+00:00",0,1,0,0,0,0,7
