@@ -3469,7 +3469,8 @@
 "AWSDataExchangeReadOnly","v3",False,"2024-07-22T13:36:03+00:00",0,0,0,0,0,0,0
 "AWSDataExchangeReadOnly","v4",True,"2024-10-24T14:40:40+00:00",0,0,0,0,0,0,0
 "AmazonEBSCSIDriverPolicy","v1",False,"2022-04-04T17:24:29+00:00",0,1,0,0,0,0,7
-"AmazonEBSCSIDriverPolicy","v2",True,"2022-11-18T14:42:46+00:00",0,1,0,0,0,0,7
+"AmazonEBSCSIDriverPolicy","v2",False,"2022-11-18T14:42:46+00:00",0,1,0,0,0,0,7
+"AmazonEBSCSIDriverPolicy","v3",True,"2025-01-13T17:07:06+00:00",0,0,0,0,0,0,0
 "CloudWatchEventsInvocationAccess","v1",True,"2016-01-14T18:36:33+00:00",0,1,0,0,0,0,1
 "AWSGreengrassFullAccess","v1",True,"2017-05-03T00:47:37+00:00",1,1,0,0,0,0,6
 "AWSAppSyncSchemaAuthor","v1",False,"2018-03-20T21:21:06+00:00",0,1,0,0,0,0,1
