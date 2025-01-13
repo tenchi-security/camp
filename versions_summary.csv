@@ -3257,7 +3257,7 @@
 "AWSDeepLensServiceRolePolicy","v4",False,"2018-05-29T22:09:22+00:00",1,4,0,2,0,0,10
 "AWSDeepLensServiceRolePolicy","v6",True,"2019-09-25T19:25:06+00:00",1,4,0,2,0,0,10
 "AWSControlTowerServiceRolePolicy","v1",False,"2019-05-03T18:19:11+00:00",0,3,0,0,0,0,3
-"AWSControlTowerServiceRolePolicy","v10",True,"2023-04-12T19:15:51+00:00",0,5,0,1,0,0,7
+"AWSControlTowerServiceRolePolicy","v10",False,"2023-04-12T19:15:51+00:00",0,5,0,1,0,0,7
 "AWSControlTowerServiceRolePolicy","v5",False,"2020-08-10T19:17:12+00:00",0,4,0,0,0,0,6
 "AWSControlTowerServiceRolePolicy","v2",False,"2019-05-23T19:14:24+00:00",0,3,0,0,0,0,3
 "AWSControlTowerServiceRolePolicy","v3",False,"2019-06-13T16:36:30+00:00",0,3,0,0,0,0,3
@@ -3265,6 +3265,7 @@
 "AWSControlTowerServiceRolePolicy","v7",False,"2021-06-04T23:00:46+00:00",0,4,0,0,0,0,6
 "AWSControlTowerServiceRolePolicy","v4",False,"2020-05-11T23:04:15+00:00",0,4,0,0,0,0,6
 "AWSControlTowerServiceRolePolicy","v8",False,"2022-06-20T21:45:54+00:00",0,5,0,1,0,0,7
+"AWSControlTowerServiceRolePolicy","v11",True,"2025-01-13T18:22:06+00:00",0,6,0,1,0,0,8
 "AWSControlTowerServiceRolePolicy","v6",False,"2020-11-10T21:08:05+00:00",0,4,0,0,0,0,6
 "AWSMigrationHubRefactorSpaces-EnvironmentsWithoutBridgesFullAccess","v1",False,"2023-04-03T20:09:48+00:00",1,5,0,2,0,0,17
 "AWSMigrationHubRefactorSpaces-EnvironmentsWithoutBridgesFullAccess","v2",False,"2023-07-20T15:39:19+00:00",1,5,0,2,0,0,17
