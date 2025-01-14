@@ -1,0 +1,22 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "aws-marketplace",
+        "ec2",
+        "iam"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "ec2:ModifySnapshotAttribute",
+        "iam:CreateServiceLinkedRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "aws-marketplace:CancelChangeSet",
+        "aws-marketplace:StartChangeSet",
+        "ec2:ModifyImageAttribute",
+        "ec2:ModifySnapshotAttribute",
+        "iam:CreateServiceLinkedRole"
+    ]
+}

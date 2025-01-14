@@ -1947,6 +1947,7 @@
 "AWSMarketplaceSellerFullAccess","v5",False,"2021-11-30T19:26:49+00:00",0,1,0,1,0,0,2
 "AWSMarketplaceSellerFullAccess","v2",False,"2020-03-05T23:10:50+00:00",0,1,0,1,0,0,2
 "AWSMarketplaceSellerFullAccess","v13",False,"2024-10-21T22:18:35+00:00",0,3,0,2,0,0,5
+"AWSMarketplaceSellerFullAccess","v16",True,"2025-01-14T19:52:06+00:00",0,3,0,2,0,0,5
 "AWSMarketplaceSellerFullAccess","v14",False,"2024-11-06T17:19:32+00:00",0,3,0,2,0,0,5
 "AWSMarketplaceSellerFullAccess","v3",False,"2020-05-28T21:07:22+00:00",0,1,0,1,0,0,2
 "AWSMarketplaceSellerFullAccess","v9",False,"2023-06-01T17:46:22+00:00",0,2,0,1,0,0,4
@@ -1955,7 +1956,7 @@
 "AWSMarketplaceSellerFullAccess","v12",False,"2024-07-25T16:06:22+00:00",0,3,0,2,0,0,5
 "AWSMarketplaceSellerFullAccess","v8",False,"2022-12-22T23:33:23+00:00",0,2,0,1,0,0,4
 "AWSMarketplaceSellerFullAccess","v11",False,"2024-03-15T16:09:02+00:00",0,3,0,2,0,0,5
-"AWSMarketplaceSellerFullAccess","v15",True,"2024-12-10T00:21:20+00:00",0,3,0,2,0,0,5
+"AWSMarketplaceSellerFullAccess","v15",False,"2024-12-10T00:21:20+00:00",0,3,0,2,0,0,5
 "AWSMarketplaceSellerFullAccess","v6",False,"2022-07-26T15:06:13+00:00",0,2,0,1,0,0,4
 "AmazonRekognitionServiceRole","v1",True,"2017-11-29T16:52:13+00:00",0,0,0,0,0,0,0
 "AWSPrivateMarketplaceAdminFullAccess","v1",False,"2018-11-27T16:32:32+00:00",0,0,0,0,0,0,0
