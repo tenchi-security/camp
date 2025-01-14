@@ -1,6 +1,6 @@
 {
     "VersionId": "v1",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2024-12-04T14:06:07+00:00",
     "PolicyName": "AmazonSageMakerCanvasSMDataScienceAssistantAccess"
 }

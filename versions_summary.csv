@@ -3868,7 +3868,8 @@
 "AmazonCognitoReadOnly","v3",False,"2019-02-16T00:18:11+00:00",0,1,0,1,0,3,0
 "AmazonCognitoReadOnly","v4",True,"2019-08-01T19:21:04+00:00",0,2,0,1,0,4,0
 "AmazonAugmentedAIFullAccess","v1",True,"2019-12-03T16:21:56+00:00",0,1,0,0,0,0,6
-"AmazonSageMakerCanvasSMDataScienceAssistantAccess","v1",True,"2024-12-04T14:06:07+00:00",0,0,0,0,0,0,0
+"AmazonSageMakerCanvasSMDataScienceAssistantAccess","v1",False,"2024-12-04T14:06:07+00:00",0,0,0,0,0,0,0
+"AmazonSageMakerCanvasSMDataScienceAssistantAccess","v2",True,"2025-01-13T22:52:07+00:00",0,0,0,0,0,0,0
 "LakeFormationDataAccessServiceRolePolicy","v1",False,"2019-06-20T20:46:19+00:00",0,0,0,0,0,0,0
 "LakeFormationDataAccessServiceRolePolicy","v2",True,"2024-02-06T18:37:31+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerReadOnly","v1",False,"2017-11-29T13:07:09+00:00",0,0,0,0,0,0,0
