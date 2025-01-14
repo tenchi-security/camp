@@ -441,7 +441,8 @@
 "AWSMobileHub_ReadOnly","v8",False,"2017-08-10T22:08:23+00:00",0,0,0,0,0,0,0
 "AWSMobileHub_ReadOnly","v6",False,"2017-04-05T17:31:16+00:00",0,0,0,0,0,0,0
 "AWSQuicksightOpenSearchPolicy","v1",True,"2021-09-07T23:26:19+00:00",0,0,0,0,0,0,0
-"SageMakerStudioDomainExecutionRolePolicy","v1",True,"2024-11-20T21:56:55+00:00",0,0,0,0,0,0,0
+"SageMakerStudioDomainExecutionRolePolicy","v1",False,"2024-11-20T21:56:55+00:00",0,0,0,0,0,0,0
+"SageMakerStudioDomainExecutionRolePolicy","v2",True,"2025-01-14T21:22:06+00:00",0,0,0,0,0,0,0
 "AmazonKinesisVideoStreamsFullAccess","v1",True,"2017-12-01T23:27:18+00:00",1,1,0,0,0,0,15
 "AmazonWorkLinkFullAccess","v1",False,"2019-01-23T18:52:09+00:00",1,0,0,0,0,0,0
 "AmazonWorkLinkFullAccess","v2",True,"2019-09-23T18:37:42+00:00",1,0,0,0,0,0,0
