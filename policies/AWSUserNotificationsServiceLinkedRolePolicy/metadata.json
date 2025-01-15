@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4JMXN6GOLB",
     "Arn": "arn:aws:iam::aws:policy/aws-service-role/AWSUserNotificationsServiceLinkedRolePolicy",
     "Path": "/aws-service-role/",
-    "DefaultVersionId": "v1",
+    "DefaultVersionId": "v2",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2023-04-19T13:28:34+00:00",
-    "UpdateDate": "2023-04-19T13:28:34+00:00"
+    "UpdateDate": "2025-01-14T23:37:06+00:00"
 }
