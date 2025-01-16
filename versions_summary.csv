@@ -1827,7 +1827,8 @@
 "AWSAutoScalingPlansEC2AutoScalingPolicy","v1",True,"2018-08-23T22:46:59+00:00",0,1,0,0,0,0,2
 "AWSServiceRoleForLogDeliveryPolicy","v1",False,"2019-10-04T17:31:19+00:00",0,1,0,0,0,0,2
 "AWSServiceRoleForLogDeliveryPolicy","v2",False,"2020-07-27T19:38:52+00:00",0,1,0,0,0,0,2
-"AWSServiceRoleForLogDeliveryPolicy","v3",True,"2021-07-15T20:07:44+00:00",0,1,0,0,0,0,2
+"AWSServiceRoleForLogDeliveryPolicy","v3",False,"2021-07-15T20:07:44+00:00",0,1,0,0,0,0,2
+"AWSServiceRoleForLogDeliveryPolicy","v4",True,"2025-01-16T21:37:06+00:00",0,1,0,0,0,0,2
 "AWSManagedServices_ContactsServiceRolePolicy","v1",True,"2023-03-23T17:07:46+00:00",0,0,0,0,0,0,0
 "AWSSupportAppFullAccess","v1",True,"2022-08-22T16:53:41+00:00",0,2,0,1,0,0,2
 "AmazonEC2RoleforDataPipelineRole","v1",False,"2015-02-06T18:41:25+00:00",0,2,0,8,1,0,35
@@ -2908,8 +2909,9 @@
 "AmazonConnectServiceLinkedRolePolicy","v8",False,"2022-11-07T19:01:31+00:00",1,1,0,0,0,2,100
 "AmazonConnectServiceLinkedRolePolicy","v11",False,"2023-10-23T23:22:56+00:00",1,2,0,0,0,2,135
 "AmazonConnectServiceLinkedRolePolicy","v15",False,"2024-05-16T23:07:54+00:00",1,2,0,0,0,2,166
+"AmazonConnectServiceLinkedRolePolicy","v23",True,"2025-01-16T21:52:06+00:00",1,2,0,0,0,1,207
 "AmazonConnectServiceLinkedRolePolicy","v19",False,"2024-10-29T20:36:31+00:00",1,2,0,0,0,1,171
-"AmazonConnectServiceLinkedRolePolicy","v22",True,"2024-11-25T22:06:07+00:00",1,2,0,0,0,1,171
+"AmazonConnectServiceLinkedRolePolicy","v22",False,"2024-11-25T22:06:07+00:00",1,2,0,0,0,1,171
 "AmazonConnectServiceLinkedRolePolicy","v6",False,"2021-12-09T22:12:26+00:00",1,1,0,0,0,2,71
 "AmazonEC2ReadOnlyAccess","v1",False,"2015-02-06T18:40:17+00:00",0,0,0,0,0,0,0
 "AmazonEC2ReadOnlyAccess","v2",False,"2024-02-14T15:17:04+00:00",0,1,0,0,0,1,0
