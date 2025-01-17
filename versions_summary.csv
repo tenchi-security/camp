@@ -3203,7 +3203,8 @@
 "NeptuneReadOnlyAccess","v2",False,"2022-08-03T18:53:32+00:00",0,0,0,0,0,0,0
 "NeptuneReadOnlyAccess","v3",True,"2024-01-22T16:33:46+00:00",0,0,0,0,0,0,0
 "AWSECRPullThroughCacheServiceRolePolicy","v1",True,"2021-11-23T23:37:27+00:00",0,1,0,0,0,1,4
-"AWSDMSServerlessServiceRolePolicy","v1",True,"2023-05-18T20:28:05+00:00",0,1,0,0,0,0,1
+"AWSDMSServerlessServiceRolePolicy","v1",False,"2023-05-18T20:28:05+00:00",0,1,0,0,0,0,1
+"AWSDMSServerlessServiceRolePolicy","v2",True,"2025-01-17T08:37:06+00:00",0,1,0,0,0,0,1
 "AmazonQLDBFullAccess","v1",False,"2019-09-05T18:23:32+00:00",0,1,0,0,0,0,7
 "AmazonQLDBFullAccess","v5",True,"2022-11-04T17:01:27+00:00",0,2,0,1,0,0,19
 "AmazonQLDBFullAccess","v2",False,"2020-05-19T17:47:10+00:00",0,1,0,0,0,0,9

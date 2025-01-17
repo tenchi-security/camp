@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4AIKMNBTIJ",
     "Arn": "arn:aws:iam::aws:policy/aws-service-role/AWSDMSServerlessServiceRolePolicy",
     "Path": "/aws-service-role/",
-    "DefaultVersionId": "v1",
+    "DefaultVersionId": "v2",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2023-05-18T20:28:05+00:00",
-    "UpdateDate": "2023-05-18T20:28:05+00:00"
+    "UpdateDate": "2025-01-17T08:37:06+00:00"
 }
