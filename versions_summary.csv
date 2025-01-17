@@ -2552,6 +2552,7 @@
 "AmazonRDSPreviewServiceRolePolicy","v8",False,"2023-10-04T19:01:52+00:00",0,2,0,0,0,0,16
 "AmazonRDSPreviewServiceRolePolicy","v6",False,"2022-06-07T16:55:33+00:00",0,2,0,0,0,0,14
 "AmazonRoute53DomainsReadOnlyAccess","v1",True,"2015-02-06T18:40:57+00:00",0,0,0,0,0,0,0
+"AmazonSageMakerPartnerAppsFullAccess","v1",True,"2025-01-17T18:37:06+00:00",0,0,0,0,0,0,0
 "AmazonKinesisVideoStreamsReadOnlyAccess","v1",True,"2017-12-01T23:14:32+00:00",0,0,0,0,0,0,0
 "AWSIoTEventsFullAccess","v1",True,"2019-01-10T22:51:57+00:00",1,1,0,0,0,0,19
 "AWSPrivateNetworksServiceRolePolicy","v1",True,"2021-12-16T23:17:46+00:00",0,0,0,0,0,0,0
