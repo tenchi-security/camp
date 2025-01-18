@@ -1,0 +1,51 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "billing",
+        "budgets",
+        "ce",
+        "cur",
+        "invoicing",
+        "payments",
+        "purchase-orders"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "billing:GetResourcePolicy"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "billing:CreateBillingView",
+        "billing:DeleteBillingView",
+        "billing:GetResourcePolicy",
+        "billing:TagResource",
+        "billing:UntagResource",
+        "billing:UpdateBillingView",
+        "budgets:CreateBudgetAction",
+        "budgets:DeleteBudgetAction",
+        "budgets:ExecuteBudgetAction",
+        "budgets:ModifyBudget",
+        "budgets:UpdateBudgetAction",
+        "ce:DeleteCostCategoryDefinition",
+        "ce:TagResource",
+        "ce:UntagResource",
+        "ce:UpdateCostCategoryDefinition",
+        "cur:DeleteReportDefinition",
+        "cur:ModifyReportDefinition",
+        "cur:PutReportDefinition",
+        "invoicing:DeleteInvoiceUnit",
+        "invoicing:TagResource",
+        "invoicing:UntagResource",
+        "invoicing:UpdateInvoiceUnit",
+        "payments:TagResource",
+        "payments:UntagResource",
+        "purchase-orders:AddPurchaseOrder",
+        "purchase-orders:DeletePurchaseOrder",
+        "purchase-orders:ModifyPurchaseOrders",
+        "purchase-orders:TagResource",
+        "purchase-orders:UntagResource",
+        "purchase-orders:UpdatePurchaseOrder",
+        "purchase-orders:UpdatePurchaseOrderStatus"
+    ]
+}
