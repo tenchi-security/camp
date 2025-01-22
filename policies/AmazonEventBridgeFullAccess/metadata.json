@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4BUM4GCASI",
     "Arn": "arn:aws:iam::aws:policy/AmazonEventBridgeFullAccess",
     "Path": "/",
-    "DefaultVersionId": "v4",
+    "DefaultVersionId": "v5",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2019-07-11T14:08:55+00:00",
-    "UpdateDate": "2022-12-01T17:00:46+00:00"
+    "UpdateDate": "2025-01-22T01:37:06+00:00"
 }
