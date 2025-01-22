@@ -548,7 +548,8 @@
 "AWSLakeFormationDataAdmin","v4",True,"2024-12-03T15:06:06+00:00",1,1,0,0,0,0,11
 "AmazonSageMakerGeospatialFullAccess","v1",True,"2022-11-30T10:06:48+00:00",1,0,0,0,0,0,0
 "AWSBugBustPlayerAccess","v1",True,"2021-06-24T07:15:00+00:00",0,0,0,0,0,0,0
-"AWSPrivateCAUser","v1",True,"2023-02-14T18:16:08+00:00",0,0,0,0,0,0,0
+"AWSPrivateCAUser","v1",False,"2023-02-14T18:16:08+00:00",0,0,0,0,0,0,0
+"AWSPrivateCAUser","v2",True,"2025-01-22T21:22:07+00:00",0,0,0,0,0,0,0
 "AmazonMachineLearningManageRealTimeEndpointOnlyAccess","v1",True,"2015-04-09T17:32:41+00:00",0,1,0,0,0,0,2
 "ComputeOptimizerReadOnlyAccess","v1",False,"2020-03-07T00:11:02+00:00",0,0,0,0,0,0,0
 "ComputeOptimizerReadOnlyAccess","v5",False,"2021-11-29T16:03:07+00:00",0,0,0,0,0,0,0
@@ -3507,7 +3508,8 @@
 "AmazonGuardDutyServiceRolePolicy","v4",False,"2021-08-03T23:14:07+00:00",0,0,0,0,0,0,0
 "AmazonGuardDutyServiceRolePolicy","v8",False,"2024-02-09T18:30:50+00:00",0,1,0,1,0,0,1
 "AmazonGuardDutyServiceRolePolicy","v6",False,"2023-03-08T19:59:16+00:00",0,1,0,1,0,0,1
-"AWSPrivateCAPrivilegedUser","v1",True,"2023-02-14T18:26:02+00:00",0,0,0,0,0,0,0
+"AWSPrivateCAPrivilegedUser","v1",False,"2023-02-14T18:26:02+00:00",0,0,0,0,0,0,0
+"AWSPrivateCAPrivilegedUser","v2",True,"2025-01-22T21:07:06+00:00",0,0,0,0,0,0,0
 "AmazonNimbleStudio-StudioUser","v1",False,"2021-04-28T04:48:11+00:00",0,2,0,2,0,0,4
 "AmazonNimbleStudio-StudioUser","v5",True,"2023-09-22T17:45:14+00:00",0,3,0,2,0,0,10
 "AmazonNimbleStudio-StudioUser","v2",False,"2021-08-16T18:26:50+00:00",0,3,0,2,0,0,7
