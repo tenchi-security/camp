@@ -3,10 +3,10 @@
     "PolicyId": "ANPAIX2T3QCXHR2OGGCTO",
     "Arn": "arn:aws:iam::aws:policy/SecurityAudit",
     "Path": "/",
-    "DefaultVersionId": "v48",
+    "DefaultVersionId": "v49",
     "AttachmentCount": 1,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2015-02-06T18:41:01+00:00",
-    "UpdateDate": "2024-12-31T03:22:06+00:00"
+    "UpdateDate": "2025-01-24T21:52:06+00:00"
 }

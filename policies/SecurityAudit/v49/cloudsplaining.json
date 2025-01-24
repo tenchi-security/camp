@@ -1,0 +1,19 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "quicksight"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "quicksight:DescribeDataSetPermissions",
+        "quicksight:DescribeDataSourcePermissions",
+        "quicksight:DescribeTopicPermissions"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "quicksight:DescribeDataSetPermissions",
+        "quicksight:DescribeDataSourcePermissions",
+        "quicksight:DescribeTopicPermissions"
+    ]
+}

@@ -1159,6 +1159,7 @@
 "AmazonEC2RoleforSSM","v7",False,"2018-10-24T19:37:47+00:00",0,4,0,0,2,0,11
 "AmazonEC2RoleforSSM","v4",False,"2017-08-10T20:49:08+00:00",0,4,0,0,2,0,11
 "AmazonEC2RoleforSSM","v1",False,"2015-05-29T17:48:35+00:00",0,3,0,0,0,0,5
+"SecurityAudit","v49",True,"2025-01-24T21:52:06+00:00",0,1,0,3,0,0,3
 "SecurityAudit","v2",False,"2015-04-21T16:44:38+00:00",0,0,0,0,0,0,0
 "SecurityAudit","v28",False,"2019-06-06T18:09:18+00:00",0,1,0,2,0,0,2
 "SecurityAudit","v25",False,"2019-01-11T01:51:30+00:00",0,1,0,2,0,0,2
@@ -1205,7 +1206,7 @@
 "SecurityAudit","v39",False,"2023-07-20T19:34:47+00:00",0,1,0,2,0,0,2
 "SecurityAudit","v30",False,"2019-08-16T10:06:35+00:00",0,1,0,2,0,0,2
 "SecurityAudit","v43",False,"2024-10-07T18:27:28+00:00",0,1,0,3,0,0,3
-"SecurityAudit","v48",True,"2024-12-31T03:22:06+00:00",0,1,0,3,0,0,3
+"SecurityAudit","v48",False,"2024-12-31T03:22:06+00:00",0,1,0,3,0,0,3
 "SecurityAudit","v24",False,"2018-11-05T19:03:40+00:00",0,0,0,0,0,0,0
 "ConfigConformsServiceRolePolicy","v2",False,"2019-10-02T00:31:15+00:00",0,1,0,1,0,0,1
 "ConfigConformsServiceRolePolicy","v5",False,"2022-07-26T00:33:20+00:00",0,1,0,1,0,0,1
