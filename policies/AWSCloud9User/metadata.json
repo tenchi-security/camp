@@ -3,10 +3,10 @@
     "PolicyId": "ANPAJPFGFWQF67QVARP6U",
     "Arn": "arn:aws:iam::aws:policy/AWSCloud9User",
     "Path": "/",
-    "DefaultVersionId": "v6",
+    "DefaultVersionId": "v7",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2017-11-30T16:16:17+00:00",
-    "UpdateDate": "2023-10-11T13:24:10+00:00"
+    "UpdateDate": "2025-01-27T10:07:06+00:00"
 }

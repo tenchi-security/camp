@@ -1609,8 +1609,9 @@
 "AWSSecurityHubReadOnlyAccess","v1",False,"2018-11-28T01:34:29+00:00",0,0,0,0,0,0,0
 "AWSCloud9User","v2",False,"2018-04-26T21:16:21+00:00",0,1,0,1,0,0,1
 "AWSCloud9User","v5",False,"2023-08-02T08:53:58+00:00",0,1,0,1,0,0,1
-"AWSCloud9User","v6",True,"2023-10-11T13:24:10+00:00",0,1,0,1,0,0,1
+"AWSCloud9User","v6",False,"2023-10-11T13:24:10+00:00",0,1,0,1,0,0,1
 "AWSCloud9User","v3",False,"2018-07-02T08:46:37+00:00",0,1,0,1,0,0,1
+"AWSCloud9User","v7",True,"2025-01-27T10:07:06+00:00",0,1,0,1,0,0,1
 "AWSCloud9User","v4",False,"2020-07-29T06:26:43+00:00",0,1,0,1,0,0,1
 "AWSCloud9User","v1",False,"2017-11-30T16:16:17+00:00",0,2,0,1,0,0,2
 "AmazonChimeSDK","v2",False,"2020-04-08T21:18:31+00:00",0,1,0,0,0,0,10
@@ -3758,7 +3759,8 @@
 "AmazonLambdaRolePolicyForLaunchWizardSAP","v4",False,"2020-07-01T19:49:27+00:00",0,1,0,0,0,0,2
 "AmazonLambdaRolePolicyForLaunchWizardSAP","v1",False,"2020-03-30T20:25:12+00:00",0,2,0,0,0,0,6
 "AWSCloud9EnvironmentMember","v2",False,"2020-07-29T06:29:08+00:00",0,0,0,0,0,0,0
-"AWSCloud9EnvironmentMember","v3",True,"2023-10-11T12:13:40+00:00",0,0,0,0,0,0,0
+"AWSCloud9EnvironmentMember","v3",False,"2023-10-11T12:13:40+00:00",0,0,0,0,0,0,0
+"AWSCloud9EnvironmentMember","v4",True,"2025-01-27T10:07:07+00:00",0,0,0,0,0,0,0
 "AWSCloud9EnvironmentMember","v1",False,"2017-11-30T16:18:28+00:00",0,0,0,0,0,0,0
 "ROSAManageSubscription","v2",True,"2023-08-04T19:59:14+00:00",0,0,0,0,0,0,0
 "ROSAManageSubscription","v1",False,"2022-04-11T20:58:08+00:00",0,0,0,0,0,0,0
