@@ -1,0 +1,17 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "ssm",
+        "ssm-contacts",
+        "ssm-incidents"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "ssm-contacts:StartEngagement",
+        "ssm-incidents:CreateTimelineEvent",
+        "ssm:AssociateOpsItemRelatedItem"
+    ]
+}
