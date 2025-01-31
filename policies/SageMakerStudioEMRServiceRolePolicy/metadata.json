@@ -1,0 +1,12 @@
+{
+    "PolicyName": "SageMakerStudioEMRServiceRolePolicy",
+    "PolicyId": "ANPAZKAPJZG4LHCFHLBRB",
+    "Arn": "arn:aws:iam::aws:policy/service-role/SageMakerStudioEMRServiceRolePolicy",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2025-01-31T19:52:07+00:00",
+    "UpdateDate": "2025-01-31T19:52:07+00:00"
+}
