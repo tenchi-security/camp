@@ -3870,7 +3870,8 @@
 "AmazonEMRFullAccessPolicy_v2","v4",True,"2023-07-28T14:04:57+00:00",0,1,0,0,0,0,20
 "AmazonEMRFullAccessPolicy_v2","v1",False,"2021-03-12T01:50:29+00:00",0,2,0,2,0,0,21
 "S3StorageLensServiceRolePolicy","v1",True,"2020-11-18T18:15:40+00:00",0,0,0,0,0,0,0
-"GameLiftContainerFleetPolicy","v1",True,"2024-11-12T19:28:49+00:00",0,0,0,0,0,0,0
+"GameLiftContainerFleetPolicy","v2",True,"2025-02-05T20:37:06+00:00",0,0,0,0,0,0,0
+"GameLiftContainerFleetPolicy","v1",False,"2024-11-12T19:28:49+00:00",0,0,0,0,0,0,0
 "CloudWatchCrossAccountSharingConfiguration","v1",True,"2022-11-27T14:01:10+00:00",0,0,0,0,0,0,0
 "AmazonKinesisReadOnlyAccess","v1",True,"2015-02-06T18:40:30+00:00",0,0,0,0,0,0,0
 "AWSApplicationMigrationMGHAccess","v1",True,"2021-04-07T07:10:01+00:00",0,1,0,0,0,0,6
