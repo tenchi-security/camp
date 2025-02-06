@@ -1874,7 +1874,8 @@
 "AmazonInspector2ReadOnlyAccess","v1",False,"2022-01-21T14:45:14+00:00",0,0,0,0,0,0,0
 "AWS-SSM-DiagnosisAutomation-AdministrationRolePolicy","v1",True,"2024-11-16T00:01:45+00:00",0,0,0,0,0,0,0
 "AmazonEMRContainersServiceRolePolicy","v2",False,"2021-12-03T19:55:44+00:00",0,1,0,0,0,0,3
-"AmazonEMRContainersServiceRolePolicy","v3",True,"2023-03-10T22:58:13+00:00",0,1,0,0,0,0,3
+"AmazonEMRContainersServiceRolePolicy","v3",False,"2023-03-10T22:58:13+00:00",0,1,0,0,0,0,3
+"AmazonEMRContainersServiceRolePolicy","v4",True,"2025-02-06T21:07:07+00:00",0,1,0,0,0,0,3
 "AmazonEMRContainersServiceRolePolicy","v1",False,"2020-12-09T00:38:19+00:00",0,0,0,0,0,0,0
 "AmazonElasticMapReduceFullAccess","v2",False,"2015-03-24T21:39:30+00:00",4,6,1,15,1,0,111
 "AmazonElasticMapReduceFullAccess","v5",False,"2017-09-20T19:27:37+00:00",4,7,2,15,1,0,118
