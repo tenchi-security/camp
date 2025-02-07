@@ -1,0 +1,14 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "dms"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "dms:CreateReplicationTask",
+        "dms:StartReplicationTaskAssessmentRun"
+    ]
+}
