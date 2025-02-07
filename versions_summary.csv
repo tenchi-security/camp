@@ -3593,7 +3593,7 @@
 "AmazonVPCCrossAccountNetworkInterfaceOperations","v1",False,"2017-07-18T20:47:16+00:00",0,1,0,1,0,0,9
 "AmazonFSxConsoleFullAccess","v2",False,"2019-09-10T13:11:13+00:00",1,2,0,2,0,0,13
 "AmazonFSxConsoleFullAccess","v5",False,"2021-08-26T13:18:46+00:00",1,2,0,3,0,0,17
-"AmazonFSxConsoleFullAccess","v11",True,"2024-01-10T20:07:09+00:00",0,2,0,3,0,0,35
+"AmazonFSxConsoleFullAccess","v11",False,"2024-01-10T20:07:09+00:00",0,2,0,3,0,0,35
 "AmazonFSxConsoleFullAccess","v8",False,"2023-11-27T04:16:50+00:00",0,2,0,3,0,0,35
 "AmazonFSxConsoleFullAccess","v6",False,"2022-09-22T14:08:01+00:00",1,2,0,3,0,0,32
 "AmazonFSxConsoleFullAccess","v9",False,"2023-11-27T06:06:43+00:00",0,2,0,3,0,0,35
@@ -3601,6 +3601,7 @@
 "AmazonFSxConsoleFullAccess","v7",False,"2023-07-13T18:44:50+00:00",0,2,0,3,0,0,35
 "AmazonFSxConsoleFullAccess","v4",False,"2021-06-08T12:14:00+00:00",1,2,0,2,0,0,13
 "AmazonFSxConsoleFullAccess","v1",False,"2018-11-28T16:36:05+00:00",1,2,0,2,0,0,13
+"AmazonFSxConsoleFullAccess","v12",True,"2025-02-07T19:22:06+00:00",0,2,0,6,0,0,39
 "AmazonFSxConsoleFullAccess","v10",False,"2023-12-19T22:50:06+00:00",0,2,0,3,0,0,35
 "IAMFullAccess","v2",True,"2019-06-21T19:40:00+00:00",1,1,10,79,0,5,90
 "IAMFullAccess","v1",False,"2015-02-06T18:40:38+00:00",1,1,10,79,0,5,90
