@@ -3,10 +3,10 @@
     "PolicyId": "ANPAJHV6VMSNDDHJ3ESNI",
     "Arn": "arn:aws:iam::aws:policy/AmazonDocDBConsoleFullAccess",
     "Path": "/",
-    "DefaultVersionId": "v5",
+    "DefaultVersionId": "v6",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2019-01-09T20:37:28+00:00",
-    "UpdateDate": "2024-12-09T16:51:06+00:00"
+    "UpdateDate": "2025-02-11T18:22:07+00:00"
 }
