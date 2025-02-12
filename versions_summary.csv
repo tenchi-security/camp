@@ -1553,8 +1553,9 @@
 "QBusinessQuicksightPluginPolicy","v1",True,"2024-12-03T15:36:06+00:00",0,0,0,0,0,0,0
 "SystemAdministrator","v2",False,"2017-03-24T17:45:43+00:00",16,23,1,41,1,2,565
 "SystemAdministrator","v5",False,"2019-06-18T23:13:44+00:00",16,23,1,41,1,2,567
-"SystemAdministrator","v6",True,"2020-08-24T20:05:29+00:00",16,23,1,41,1,2,571
+"SystemAdministrator","v6",False,"2020-08-24T20:05:29+00:00",16,23,1,41,1,2,571
 "SystemAdministrator","v3",False,"2017-12-15T23:59:50+00:00",16,23,1,41,1,2,565
+"SystemAdministrator","v7",True,"2025-02-11T22:07:07+00:00",16,23,1,38,1,2,765
 "SystemAdministrator","v4",False,"2018-10-08T21:33:45+00:00",16,23,1,41,1,2,567
 "SystemAdministrator","v1",False,"2016-11-10T17:23:56+00:00",16,23,1,41,1,2,563
 "AWSCodeDeployRoleForECSLimited","v2",False,"2018-12-19T18:06:16+00:00",0,3,0,0,0,0,5
