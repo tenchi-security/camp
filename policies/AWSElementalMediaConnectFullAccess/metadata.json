@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSElementalMediaConnectFullAccess",
+    "PolicyId": "ANPAZKAPJZG4PCTHPLKW3",
+    "Arn": "arn:aws:iam::aws:policy/AWSElementalMediaConnectFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2025-02-12T20:07:07+00:00",
+    "UpdateDate": "2025-02-12T20:07:07+00:00"
+}

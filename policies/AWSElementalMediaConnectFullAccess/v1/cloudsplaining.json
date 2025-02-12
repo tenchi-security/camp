@@ -1,0 +1,28 @@
+{
+    "ServiceWildcard": [
+        "mediaconnect"
+    ],
+    "ServicesAffected": [
+        "mediaconnect"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "mediaconnect:AddBridgeOutputs",
+        "mediaconnect:AddBridgeSources",
+        "mediaconnect:CreateBridge",
+        "mediaconnect:CreateGateway",
+        "mediaconnect:DeleteBridge",
+        "mediaconnect:DeleteGateway",
+        "mediaconnect:DeregisterGatewayInstance",
+        "mediaconnect:RemoveBridgeOutput",
+        "mediaconnect:RemoveBridgeSource",
+        "mediaconnect:UpdateBridge",
+        "mediaconnect:UpdateBridgeOutput",
+        "mediaconnect:UpdateBridgeSource",
+        "mediaconnect:UpdateBridgeState",
+        "mediaconnect:UpdateGatewayInstance"
+    ]
+}

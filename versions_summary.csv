@@ -1159,6 +1159,7 @@
 "SageMakerStudioProjectRoleMachineLearningPolicy","v5",True,"2025-02-12T18:07:07+00:00",0,1,0,0,0,0,49
 "AmazonSageMakerServiceCatalogProductsCloudformationServiceRolePolicy","v1",True,"2022-03-25T04:26:40+00:00",0,0,0,0,0,0,0
 "AWSApplicationAutoscalingElastiCacheRGPolicy","v1",True,"2021-08-17T23:41:42+00:00",0,1,0,0,0,0,3
+"AWSElementalMediaConnectFullAccess","v1",True,"2025-02-12T20:07:07+00:00",1,1,0,0,0,0,14
 "AWSKeyManagementServicePowerUser","v2",True,"2017-03-07T00:55:11+00:00",0,1,0,0,0,0,4
 "AWSKeyManagementServicePowerUser","v1",False,"2015-02-06T18:40:40+00:00",0,1,0,0,0,0,2
 "CloudWatchCrossAccountSharingConfiguration","v1",True,"2022-11-27T14:01:10+00:00",0,0,0,0,0,0,0
@@ -3337,6 +3338,7 @@
 "AmazonCloudWatchRUMServiceRolePolicy","v3",True,"2023-02-22T20:35:15+00:00",0,0,0,0,0,0,0
 "AmazonCloudWatchRUMServiceRolePolicy","v1",False,"2021-11-17T23:17:23+00:00",0,0,0,0,0,0,0
 "AWSCodeDeployRoleForCloudFormation","v1",True,"2020-05-19T17:12:52+00:00",0,0,0,0,0,0,0
+"AWSElementalMediaConnectReadOnlyAccess","v1",True,"2025-02-12T20:07:07+00:00",0,0,0,0,0,0,0
 "AWSWickrFullAccess","v1",True,"2022-11-27T20:36:44+00:00",1,0,0,0,0,0,0
 "AmazonZocaloReadOnlyAccess","v1",True,"2015-02-06T18:41:14+00:00",0,0,0,0,0,0,0
 "AmazonRedshiftReadOnlyAccess","v2",True,"2024-02-08T00:24:13+00:00",0,0,0,0,0,0,0
