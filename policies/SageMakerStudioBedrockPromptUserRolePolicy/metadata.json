@@ -1,0 +1,12 @@
+{
+    "PolicyName": "SageMakerStudioBedrockPromptUserRolePolicy",
+    "PolicyId": "ANPAZKAPJZG4KALDLOLJV",
+    "Arn": "arn:aws:iam::aws:policy/service-role/SageMakerStudioBedrockPromptUserRolePolicy",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2025-02-14T00:22:06+00:00",
+    "UpdateDate": "2025-02-14T00:22:06+00:00"
+}

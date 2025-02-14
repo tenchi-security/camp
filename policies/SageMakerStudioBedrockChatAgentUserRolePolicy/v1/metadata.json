@@ -1,0 +1,6 @@
+{
+    "VersionId": "v1",
+    "IsDefaultVersion": true,
+    "CreateDate": "2025-02-13T23:52:06+00:00",
+    "PolicyName": "SageMakerStudioBedrockChatAgentUserRolePolicy"
+}

@@ -1,0 +1,12 @@
+{
+    "PolicyName": "SageMakerStudioBedrockChatAgentUserRolePolicy",
+    "PolicyId": "ANPAZKAPJZG4LSLQQGC5N",
+    "Arn": "arn:aws:iam::aws:policy/service-role/SageMakerStudioBedrockChatAgentUserRolePolicy",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2025-02-13T23:52:06+00:00",
+    "UpdateDate": "2025-02-13T23:52:06+00:00"
+}

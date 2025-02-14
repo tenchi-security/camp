@@ -1,0 +1,12 @@
+{
+    "PolicyName": "SageMakerStudioBedrockAgentServiceRolePolicy",
+    "PolicyId": "ANPAZKAPJZG4M5XJIKNQD",
+    "Arn": "arn:aws:iam::aws:policy/service-role/SageMakerStudioBedrockAgentServiceRolePolicy",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2025-02-13T23:37:06+00:00",
+    "UpdateDate": "2025-02-13T23:37:06+00:00"
+}
