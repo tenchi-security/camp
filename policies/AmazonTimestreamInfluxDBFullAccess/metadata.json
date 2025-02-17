@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4JY77WLMFL",
     "Arn": "arn:aws:iam::aws:policy/AmazonTimestreamInfluxDBFullAccess",
     "Path": "/",
-    "DefaultVersionId": "v2",
+    "DefaultVersionId": "v3",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2024-03-14T22:53:22+00:00",
-    "UpdateDate": "2024-10-08T20:31:28+00:00"
+    "UpdateDate": "2025-02-17T20:37:06+00:00"
 }
