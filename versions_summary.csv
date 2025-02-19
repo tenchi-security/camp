@@ -2464,6 +2464,7 @@
 "AWSCloud9SSMInstanceProfile","v1",True,"2020-05-14T11:40:49+00:00",0,0,0,0,0,0,0
 "AmazonElasticTranscoder_FullAccess","v2",True,"2019-06-10T22:51:51+00:00",1,2,0,1,0,0,10
 "AmazonElasticTranscoder_FullAccess","v1",False,"2018-04-27T18:59:35+00:00",1,2,0,1,0,0,10
+"AmazonRedshiftServiceLinkedRolePolicy","v15",True,"2025-02-19T17:22:07+00:00",0,1,0,0,0,0,8
 "AmazonRedshiftServiceLinkedRolePolicy","v9",False,"2023-04-05T20:32:17+00:00",0,1,0,0,0,0,8
 "AmazonRedshiftServiceLinkedRolePolicy","v11",False,"2023-08-14T10:46:23+00:00",0,1,0,0,0,0,8
 "AmazonRedshiftServiceLinkedRolePolicy","v6",False,"2022-05-25T05:09:53+00:00",0,1,0,0,0,0,8
@@ -2477,7 +2478,7 @@
 "AmazonRedshiftServiceLinkedRolePolicy","v5",False,"2021-11-22T21:08:22+00:00",0,1,0,0,0,0,8
 "AmazonRedshiftServiceLinkedRolePolicy","v13",False,"2024-03-15T20:00:47+00:00",0,1,0,0,0,0,8
 "AmazonRedshiftServiceLinkedRolePolicy","v8",False,"2022-09-07T20:27:51+00:00",0,1,0,0,0,0,8
-"AmazonRedshiftServiceLinkedRolePolicy","v14",True,"2024-11-20T18:06:07+00:00",0,1,0,0,0,0,8
+"AmazonRedshiftServiceLinkedRolePolicy","v14",False,"2024-11-20T18:06:07+00:00",0,1,0,0,0,0,8
 "AWSPanoramaFullAccess","v4",False,"2022-01-12T21:21:04+00:00",1,3,0,3,0,0,20
 "AWSPanoramaFullAccess","v2",False,"2021-10-20T12:14:58+00:00",1,3,0,3,0,0,20
 "AWSPanoramaFullAccess","v3",False,"2021-10-28T15:37:05+00:00",1,3,0,3,0,0,20

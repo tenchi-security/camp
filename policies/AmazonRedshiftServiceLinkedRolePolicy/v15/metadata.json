@@ -1,0 +1,6 @@
+{
+    "VersionId": "v15",
+    "IsDefaultVersion": true,
+    "CreateDate": "2025-02-19T17:22:07+00:00",
+    "PolicyName": "AmazonRedshiftServiceLinkedRolePolicy"
+}
