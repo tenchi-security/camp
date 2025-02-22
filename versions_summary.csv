@@ -3276,11 +3276,12 @@
 "AWSIoTFleetwiseServiceRolePolicy","v1",True,"2022-09-21T23:27:48+00:00",0,0,0,0,0,0,0
 "SageMakerStudioProjectProvisioningRolePolicy","v6",False,"2025-01-03T00:52:07+00:00",0,7,0,1,0,0,51
 "SageMakerStudioProjectProvisioningRolePolicy","v4",False,"2024-11-24T19:51:07+00:00",0,7,0,1,0,0,34
-"SageMakerStudioProjectProvisioningRolePolicy","v7",True,"2025-01-31T19:52:06+00:00",0,7,0,1,0,0,51
+"SageMakerStudioProjectProvisioningRolePolicy","v7",False,"2025-01-31T19:52:06+00:00",0,7,0,1,0,0,51
 "SageMakerStudioProjectProvisioningRolePolicy","v2",False,"2024-11-21T22:36:06+00:00",0,7,0,1,0,0,34
 "SageMakerStudioProjectProvisioningRolePolicy","v3",False,"2024-11-22T04:51:06+00:00",0,7,0,1,0,0,34
 "SageMakerStudioProjectProvisioningRolePolicy","v1",False,"2024-11-20T21:58:39+00:00",0,7,0,1,0,0,34
 "SageMakerStudioProjectProvisioningRolePolicy","v5",False,"2024-11-27T06:21:08+00:00",0,7,0,1,0,0,34
+"SageMakerStudioProjectProvisioningRolePolicy","v8",True,"2025-02-22T00:07:07+00:00",0,7,0,1,0,0,52
 "GlobalAcceleratorFullAccess","v6",True,"2020-12-04T19:17:26+00:00",1,1,0,0,0,0,23
 "GlobalAcceleratorFullAccess","v4",False,"2019-10-21T21:25:42+00:00",1,1,0,0,0,0,23
 "GlobalAcceleratorFullAccess","v2",False,"2019-07-08T22:15:16+00:00",1,1,0,0,0,0,23
