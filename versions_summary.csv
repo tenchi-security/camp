@@ -3328,11 +3328,12 @@
 "AWSDeadlineCloud-UserAccessFleets","v1",True,"2024-04-01T17:01:50+00:00",0,0,0,0,0,0,0
 "AmazonElasticContainerRegistryPublicReadOnly","v1",True,"2020-12-01T17:27:04+00:00",0,0,0,0,0,0,0
 "AmazonCodeCatalystSupportAccess","v1",True,"2023-04-20T12:34:44+00:00",0,0,0,0,0,0,0
+"AmazonFSxConsoleReadOnlyAccess","v6",True,"2025-02-25T15:07:07+00:00",0,0,0,0,0,0,0
 "AmazonFSxConsoleReadOnlyAccess","v4",False,"2022-09-22T14:07:26+00:00",0,0,0,0,0,0,0
 "AmazonFSxConsoleReadOnlyAccess","v2",False,"2019-09-10T13:17:59+00:00",0,0,0,0,0,0,0
 "AmazonFSxConsoleReadOnlyAccess","v3",False,"2021-06-08T12:21:09+00:00",0,0,0,0,0,0,0
 "AmazonFSxConsoleReadOnlyAccess","v1",False,"2018-11-28T16:35:24+00:00",0,0,0,0,0,0,0
-"AmazonFSxConsoleReadOnlyAccess","v5",True,"2024-01-10T20:19:18+00:00",0,0,0,0,0,0,0
+"AmazonFSxConsoleReadOnlyAccess","v5",False,"2024-01-10T20:19:18+00:00",0,0,0,0,0,0,0
 "ServerMigrationServiceConsoleFullAccess","v2",True,"2020-07-20T22:00:37+00:00",1,1,0,1,0,0,1
 "ServerMigrationServiceConsoleFullAccess","v1",False,"2020-05-09T17:18:57+00:00",1,1,0,1,0,0,1
 "AWSZonalAutoshiftPracticeRunSLRPolicy","v1",True,"2023-11-29T17:34:54+00:00",0,1,0,0,0,0,3
