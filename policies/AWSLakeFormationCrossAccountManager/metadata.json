@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4HPT7Y7QL3",
     "Arn": "arn:aws:iam::aws:policy/AWSLakeFormationCrossAccountManager",
     "Path": "/",
-    "DefaultVersionId": "v6",
+    "DefaultVersionId": "v7",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2020-08-04T20:59:46+00:00",
-    "UpdateDate": "2024-03-22T18:51:56+00:00"
+    "UpdateDate": "2025-02-25T00:37:06+00:00"
 }

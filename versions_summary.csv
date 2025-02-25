@@ -1493,8 +1493,9 @@
 "AmazonDataZoneSageMakerProvisioningRolePolicy","v1",False,"2024-04-23T23:32:28+00:00",0,1,0,0,0,0,2
 "AmazonRekognitionFullAccess","v1",True,"2016-11-30T14:40:44+00:00",1,1,0,0,0,0,15
 "AWSAppMeshEnvoyAccess","v1",True,"2019-07-03T21:29:37+00:00",0,0,0,0,0,0,0
-"AWSLakeFormationCrossAccountManager","v6",True,"2024-03-22T18:51:56+00:00",0,2,0,6,0,0,7
+"AWSLakeFormationCrossAccountManager","v6",False,"2024-03-22T18:51:56+00:00",0,2,0,6,0,0,7
 "AWSLakeFormationCrossAccountManager","v4",False,"2022-05-20T22:19:37+00:00",0,2,0,6,0,0,6
+"AWSLakeFormationCrossAccountManager","v7",True,"2025-02-25T00:37:06+00:00",0,2,0,6,0,0,7
 "AWSLakeFormationCrossAccountManager","v2",False,"2020-10-07T22:39:34+00:00",0,2,0,6,0,0,3
 "AWSLakeFormationCrossAccountManager","v3",False,"2020-12-07T23:11:36+00:00",0,2,0,5,0,0,4
 "AWSLakeFormationCrossAccountManager","v1",False,"2020-08-04T20:59:46+00:00",0,2,0,4,0,0,3
