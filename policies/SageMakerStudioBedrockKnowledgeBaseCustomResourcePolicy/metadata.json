@@ -1,0 +1,12 @@
+{
+    "PolicyName": "SageMakerStudioBedrockKnowledgeBaseCustomResourcePolicy",
+    "PolicyId": "ANPAZKAPJZG4F5D5DLIAH",
+    "Arn": "arn:aws:iam::aws:policy/service-role/SageMakerStudioBedrockKnowledgeBaseCustomResourcePolicy",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2025-02-25T03:37:06+00:00",
+    "UpdateDate": "2025-02-25T03:37:06+00:00"
+}

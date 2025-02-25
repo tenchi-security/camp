@@ -720,6 +720,7 @@
 "EC2InstanceProfileForImageBuilderECRContainerBuilds","v1",True,"2020-12-11T19:48:15+00:00",0,2,0,0,0,1,5
 "AWSIotRoboRunnerReadOnly","v2",True,"2022-11-16T20:51:43+00:00",0,0,0,0,0,0,0
 "AWSIotRoboRunnerReadOnly","v1",False,"2021-11-29T03:43:32+00:00",0,0,0,0,0,0,0
+"SageMakerStudioBedrockKnowledgeBaseCustomResourcePolicy","v1",True,"2025-02-25T03:37:06+00:00",0,0,0,0,0,0,0
 "AWSShieldDRTAccessPolicy","v6",True,"2020-12-15T17:28:15+00:00",4,6,0,9,0,0,115
 "AWSShieldDRTAccessPolicy","v4",False,"2020-03-12T19:11:00+00:00",4,1,0,0,0,0,2
 "AWSShieldDRTAccessPolicy","v2",False,"2018-11-27T04:25:17+00:00",3,1,0,0,0,0,2
@@ -3036,6 +3037,7 @@
 "AmazonFISServiceRolePolicy","v3",False,"2021-06-30T13:50:04+00:00",0,1,0,0,0,0,4
 "AmazonFISServiceRolePolicy","v1",False,"2020-12-21T21:18:19+00:00",0,1,0,0,0,0,4
 "AmazonFISServiceRolePolicy","v5",False,"2022-02-07T11:13:04+00:00",0,1,0,0,0,0,4
+"SageMakerStudioBedrockFunctionExecutionRolePolicy","v1",True,"2025-02-25T03:52:07+00:00",0,0,0,0,0,0,0
 "AWSAppFabricReadOnlyAccess","v1",True,"2023-06-27T19:52:02+00:00",0,0,0,0,0,0,0
 "AWSIoTSiteWiseReadOnlyAccess","v2",True,"2022-09-16T19:05:20+00:00",0,0,0,0,0,0,0
 "AWSIoTSiteWiseReadOnlyAccess","v1",False,"2018-12-04T20:55:11+00:00",0,0,0,0,0,0,0
@@ -3102,6 +3104,7 @@
 "AmazonDataZoneGlueManageAccessRolePolicy","v5",False,"2024-06-03T23:29:25+00:00",0,3,0,4,0,0,8
 "AmazonRedshiftAllCommandsFullAccess","v2",True,"2021-11-25T02:27:31+00:00",0,2,0,0,0,1,1
 "AmazonRedshiftAllCommandsFullAccess","v1",False,"2021-11-04T00:48:08+00:00",0,2,0,1,0,1,7
+"SageMakerStudioBedrockKnowledgeBaseServiceRolePolicy","v1",True,"2025-02-25T02:52:07+00:00",0,0,0,0,0,0,0
 "AWSDirectoryServiceReadOnlyAccess","v4",True,"2018-09-25T21:54:01+00:00",0,0,0,0,0,0,0
 "AWSDirectoryServiceReadOnlyAccess","v2",False,"2015-12-04T00:12:22+00:00",0,0,0,0,0,0,0
 "AWSDirectoryServiceReadOnlyAccess","v3",False,"2016-02-24T23:11:18+00:00",0,0,0,0,0,0,0
