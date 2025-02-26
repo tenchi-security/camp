@@ -336,8 +336,9 @@
 "AmazonEKSServiceRolePolicy","v1",False,"2020-02-21T20:10:47+00:00",0,1,0,1,0,0,5
 "AmazonEKSServiceRolePolicy","v3",False,"2024-10-21T21:23:26+00:00",0,1,0,1,0,0,6
 "AmazonEKSServiceRolePolicy","v2",False,"2020-05-27T19:30:19+00:00",0,1,0,1,0,0,6
-"AmazonEKSServiceRolePolicy","v5",True,"2024-11-16T17:42:18+00:00",0,3,0,1,0,0,18
+"AmazonEKSServiceRolePolicy","v5",False,"2024-11-16T17:42:18+00:00",0,3,0,1,0,0,18
 "AmazonEKSServiceRolePolicy","v4",False,"2024-10-29T22:39:46+00:00",0,1,0,1,0,0,6
+"AmazonEKSServiceRolePolicy","v6",True,"2025-02-26T21:37:06+00:00",0,3,0,1,0,0,18
 "AmazonWorkMailMessageFlowFullAccess","v1",True,"2021-02-11T11:08:35+00:00",1,0,0,0,0,0,0
 "AWSMigrationHubRefactorSpacesFullAccess","v1",False,"2021-11-29T07:12:55+00:00",1,4,0,1,0,0,21
 "AWSMigrationHubRefactorSpacesFullAccess","v3",False,"2022-03-21T17:41:49+00:00",1,5,0,2,0,0,27
