@@ -299,6 +299,7 @@
 "AWS_ConfigRole","v30",False,"2024-02-22T21:19:24+00:00",0,2,0,2,0,0,11
 "AWS_ConfigRole","v22",False,"2023-03-02T22:08:11+00:00",0,2,0,2,0,0,7
 "AWS_ConfigRole","v26",False,"2023-09-07T20:23:32+00:00",0,2,0,2,0,0,11
+"AWS_ConfigRole","v35",True,"2025-02-27T15:37:07+00:00",0,2,0,2,0,0,11
 "AWS_ConfigRole","v16",False,"2022-09-07T20:46:38+00:00",0,2,0,2,0,0,7
 "AWS_ConfigRole","v10",False,"2022-02-10T18:35:11+00:00",0,1,0,0,0,0,5
 "AWS_ConfigRole","v24",False,"2023-04-12T22:09:12+00:00",0,2,0,2,0,0,7
@@ -306,7 +307,7 @@
 "AWS_ConfigRole","v8",False,"2021-09-08T18:09:40+00:00",0,1,0,0,0,0,5
 "AWS_ConfigRole","v12",False,"2022-04-06T21:41:08+00:00",0,1,0,0,0,0,5
 "AWS_ConfigRole","v17",False,"2022-09-14T19:21:07+00:00",0,2,0,2,0,0,7
-"AWS_ConfigRole","v34",True,"2025-01-16T16:22:05+00:00",0,2,0,2,0,0,11
+"AWS_ConfigRole","v34",False,"2025-01-16T16:22:05+00:00",0,2,0,2,0,0,11
 "AWS_ConfigRole","v21",False,"2023-01-30T21:21:51+00:00",0,2,0,2,0,0,7
 "AWS_ConfigRole","v33",False,"2024-11-06T22:29:15+00:00",0,2,0,2,0,0,11
 "AWS_ConfigRole","v11",False,"2022-03-11T21:35:16+00:00",0,1,0,0,0,0,5
@@ -434,7 +435,7 @@
 "AWSConfigServiceRolePolicy","v52",False,"2024-09-12T22:00:12+00:00",0,2,0,2,0,0,11
 "AWSConfigServiceRolePolicy","v37",False,"2022-10-18T17:20:33+00:00",0,2,0,2,0,0,7
 "AWSConfigServiceRolePolicy","v34",False,"2022-08-19T22:19:46+00:00",0,2,0,1,0,0,6
-"AWSConfigServiceRolePolicy","v55",True,"2025-01-16T16:22:06+00:00",0,2,0,2,0,0,11
+"AWSConfigServiceRolePolicy","v55",False,"2025-01-16T16:22:06+00:00",0,2,0,2,0,0,11
 "AWSConfigServiceRolePolicy","v21",False,"2020-12-18T22:02:34+00:00",0,1,0,0,0,0,5
 "AWSConfigServiceRolePolicy","v33",False,"2022-07-15T01:41:02+00:00",0,2,0,1,0,0,6
 "AWSConfigServiceRolePolicy","v11",False,"2019-05-13T21:18:44+00:00",0,1,0,0,0,0,5
@@ -466,6 +467,7 @@
 "AWSConfigServiceRolePolicy","v51",False,"2024-06-17T18:56:45+00:00",0,2,0,2,0,0,11
 "AWSConfigServiceRolePolicy","v40",False,"2023-01-31T19:52:15+00:00",0,2,0,2,0,0,7
 "AWSConfigServiceRolePolicy","v9",False,"2019-03-06T18:47:18+00:00",0,1,0,0,0,0,5
+"AWSConfigServiceRolePolicy","v56",True,"2025-02-27T16:07:06+00:00",0,2,0,2,0,0,11
 "AmazonChimeSDK","v1",False,"2020-02-04T21:53:37+00:00",0,1,0,0,0,0,4
 "AmazonChimeSDK","v3",False,"2020-09-18T21:07:30+00:00",0,1,0,0,0,0,10
 "AmazonChimeSDK","v2",False,"2020-04-08T21:18:31+00:00",0,1,0,0,0,0,10
@@ -3852,8 +3854,9 @@
 "AWSElasticBeanstalkManagedUpdatesCustomerRolePolicy","v3",False,"2021-06-16T22:40:31+00:00",2,2,0,0,0,0,42
 "AWSElasticBeanstalkManagedUpdatesCustomerRolePolicy","v2",False,"2021-03-09T22:36:04+00:00",2,2,0,0,0,0,42
 "AWSElasticBeanstalkManagedUpdatesCustomerRolePolicy","v5",False,"2023-01-23T23:48:56+00:00",2,2,0,0,0,0,43
+"AWSElasticBeanstalkManagedUpdatesCustomerRolePolicy","v7",True,"2025-02-27T16:07:07+00:00",2,3,0,0,0,0,46
 "AWSElasticBeanstalkManagedUpdatesCustomerRolePolicy","v4",False,"2022-12-22T01:07:07+00:00",2,2,0,0,0,0,43
-"AWSElasticBeanstalkManagedUpdatesCustomerRolePolicy","v6",True,"2023-03-23T23:15:54+00:00",2,3,0,0,0,0,44
+"AWSElasticBeanstalkManagedUpdatesCustomerRolePolicy","v6",False,"2023-03-23T23:15:54+00:00",2,3,0,0,0,0,44
 "AmazonMechanicalTurkReadOnly","v1",False,"2015-12-11T19:08:28+00:00",0,0,0,0,0,0,0
 "AmazonMechanicalTurkReadOnly","v3",True,"2019-09-25T21:06:26+00:00",0,0,0,0,0,0,0
 "AmazonMechanicalTurkReadOnly","v2",False,"2017-02-27T21:45:50+00:00",0,0,0,0,0,0,0
