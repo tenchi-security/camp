@@ -762,6 +762,7 @@
 "AmazonDataZoneFullAccess","v2",False,"2024-03-12T16:34:41+00:00",1,1,0,4,0,0,4
 "AmazonDataZoneFullAccess","v5",True,"2024-11-21T20:36:06+00:00",1,3,0,4,0,0,9
 "AmazonDataZoneFullAccess","v4",False,"2024-06-13T19:02:55+00:00",1,2,0,4,0,0,8
+"SageMakerStudioEMRInstanceRolePolicy","v1",True,"2025-02-27T00:22:06+00:00",0,1,0,0,0,0,2
 "AWSElementalMediaPackageFullAccess","v1",True,"2017-12-29T23:39:52+00:00",1,1,0,1,0,1,7
 "AmazonGuardDutyMalwareProtectionServiceRolePolicy","v1",False,"2022-07-19T19:06:53+00:00",0,0,0,0,0,0,0
 "AmazonGuardDutyMalwareProtectionServiceRolePolicy","v2",True,"2024-01-25T22:24:00+00:00",0,0,0,0,0,0,0
@@ -1082,7 +1083,8 @@
 "AWSCertificateManagerPrivateCAFullAccess","v1",True,"2018-10-23T16:54:50+00:00",1,1,0,4,0,0,13
 "AWSProtonCodeBuildProvisioningServiceRolePolicy","v1",False,"2022-11-09T21:32:06+00:00",0,1,0,1,0,0,1
 "AWSProtonCodeBuildProvisioningServiceRolePolicy","v2",True,"2023-05-17T16:11:40+00:00",0,1,0,1,0,0,1
-"SageMakerStudioEMRServiceRolePolicy","v1",True,"2025-01-31T19:52:07+00:00",0,0,0,0,0,0,0
+"SageMakerStudioEMRServiceRolePolicy","v1",False,"2025-01-31T19:52:07+00:00",0,0,0,0,0,0,0
+"SageMakerStudioEMRServiceRolePolicy","v2",True,"2025-02-27T00:22:06+00:00",0,1,0,0,0,0,3
 "AWSServiceCatalogSyncServiceRolePolicy","v1",False,"2022-11-15T21:20:15+00:00",0,1,0,0,0,0,3
 "AWSServiceCatalogSyncServiceRolePolicy","v2",True,"2024-05-03T17:12:41+00:00",0,1,0,0,0,0,3
 "SageMakerStudioBedrockFlowServiceRolePolicy","v1",True,"2025-02-14T00:07:06+00:00",0,0,0,0,0,0,0
@@ -3072,8 +3074,9 @@
 "SageMakerStudioProjectRoleMachineLearningPolicy","v3",False,"2024-11-26T05:21:05+00:00",0,1,0,0,0,0,48
 "SageMakerStudioProjectRoleMachineLearningPolicy","v2",False,"2024-11-24T19:51:06+00:00",0,1,0,0,0,0,48
 "SageMakerStudioProjectRoleMachineLearningPolicy","v5",False,"2025-02-12T18:07:07+00:00",0,1,0,0,0,0,49
+"SageMakerStudioProjectRoleMachineLearningPolicy","v7",True,"2025-02-27T00:22:05+00:00",0,1,0,0,0,0,49
 "SageMakerStudioProjectRoleMachineLearningPolicy","v4",False,"2024-11-27T06:21:07+00:00",0,1,0,0,0,0,49
-"SageMakerStudioProjectRoleMachineLearningPolicy","v6",True,"2025-02-13T23:07:06+00:00",0,1,0,0,0,0,49
+"SageMakerStudioProjectRoleMachineLearningPolicy","v6",False,"2025-02-13T23:07:06+00:00",0,1,0,0,0,0,49
 "AWSSecurityIncidentResponseFullAccess","v1",True,"2024-12-01T23:21:06+00:00",0,0,0,0,0,0,0
 "AWSCloudFrontVPCOriginServiceRolePolicy","v1",True,"2024-10-24T17:45:25+00:00",0,1,0,0,0,0,5
 "AWSCodeDeployRoleForLambda","v1",False,"2017-11-28T14:05:44+00:00",0,3,0,0,0,0,3
@@ -3659,7 +3662,7 @@
 "AWSElasticDisasterRecoveryConsoleFullAccess_v2","v3",False,"2024-07-29T19:38:08+00:00",1,1,0,0,0,0,53
 "AWSElasticDisasterRecoveryConsoleFullAccess_v2","v2",False,"2024-05-19T07:38:32+00:00",1,1,0,0,0,0,53
 "AWSElasticDisasterRecoveryConsoleFullAccess_v2","v4",True,"2025-01-05T15:22:06+00:00",1,1,0,0,0,0,53
-"SageMakerStudioProjectProvisioningRolePolicy","v8",True,"2025-02-22T00:07:07+00:00",0,7,0,1,0,0,52
+"SageMakerStudioProjectProvisioningRolePolicy","v8",False,"2025-02-22T00:07:07+00:00",0,7,0,1,0,0,52
 "SageMakerStudioProjectProvisioningRolePolicy","v1",False,"2024-11-20T21:58:39+00:00",0,7,0,1,0,0,34
 "SageMakerStudioProjectProvisioningRolePolicy","v3",False,"2024-11-22T04:51:06+00:00",0,7,0,1,0,0,34
 "SageMakerStudioProjectProvisioningRolePolicy","v2",False,"2024-11-21T22:36:06+00:00",0,7,0,1,0,0,34
@@ -3667,6 +3670,7 @@
 "SageMakerStudioProjectProvisioningRolePolicy","v7",False,"2025-01-31T19:52:06+00:00",0,7,0,1,0,0,51
 "SageMakerStudioProjectProvisioningRolePolicy","v4",False,"2024-11-24T19:51:07+00:00",0,7,0,1,0,0,34
 "SageMakerStudioProjectProvisioningRolePolicy","v6",False,"2025-01-03T00:52:07+00:00",0,7,0,1,0,0,51
+"SageMakerStudioProjectProvisioningRolePolicy","v9",True,"2025-02-27T00:22:05+00:00",0,7,0,1,0,0,52
 "AWSServiceCatalogEndUserReadOnlyAccess","v1",True,"2019-10-25T18:49:34+00:00",0,0,0,0,0,0,0
 "AWSKeyManagementServiceMultiRegionKeysServiceRolePolicy","v1",False,"2021-06-16T15:37:37+00:00",0,0,0,0,0,0,0
 "AWSKeyManagementServiceMultiRegionKeysServiceRolePolicy","v2",True,"2024-11-13T22:53:54+00:00",0,1,0,0,0,0,1
