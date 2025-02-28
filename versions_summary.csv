@@ -500,8 +500,9 @@
 "SageMakerStudioProjectUserRolePolicy","v3",False,"2024-11-24T20:21:06+00:00",0,14,0,2,0,0,89
 "SageMakerStudioProjectUserRolePolicy","v2",False,"2024-11-22T04:51:06+00:00",0,14,0,2,0,0,89
 "SageMakerStudioProjectUserRolePolicy","v5",False,"2024-11-28T04:51:07+00:00",0,14,0,2,0,0,89
+"SageMakerStudioProjectUserRolePolicy","v7",True,"2025-02-27T22:37:06+00:00",0,16,0,6,0,0,102
 "SageMakerStudioProjectUserRolePolicy","v4",False,"2024-11-26T05:21:06+00:00",0,14,0,2,0,0,89
-"SageMakerStudioProjectUserRolePolicy","v6",True,"2025-01-03T00:37:07+00:00",0,14,0,2,0,0,92
+"SageMakerStudioProjectUserRolePolicy","v6",False,"2025-01-03T00:37:07+00:00",0,14,0,2,0,0,92
 "AWSIoTDeviceDefenderAddThingsToThingGroupMitigationAction","v1",True,"2019-08-07T17:55:37+00:00",0,1,0,0,0,0,1
 "CloudTrailServiceRolePolicy","v1",False,"2018-10-24T21:21:44+00:00",1,1,0,0,0,0,9
 "CloudTrailServiceRolePolicy","v3",True,"2023-11-27T01:18:10+00:00",1,1,0,0,0,0,25
