@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4M2DU3H3GW",
     "Arn": "arn:aws:iam::aws:policy/service-role/AmazonEMRServicePolicy_v2",
     "Path": "/service-role/",
-    "DefaultVersionId": "v3",
+    "DefaultVersionId": "v4",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2021-03-12T01:11:08+00:00",
-    "UpdateDate": "2024-05-02T18:43:30+00:00"
+    "UpdateDate": "2025-03-03T20:37:06+00:00"
 }

@@ -1624,8 +1624,9 @@
 "AWSThinkboxAWSPortalAdminPolicy","v6",False,"2023-04-18T18:24:02+00:00",0,4,0,0,0,0,45
 "AWSThinkboxAWSPortalAdminPolicy","v9",True,"2024-11-12T19:22:36+00:00",0,4,0,0,0,0,45
 "AmazonEMRServicePolicy_v2","v1",False,"2021-03-12T01:11:08+00:00",0,1,0,0,0,0,9
-"AmazonEMRServicePolicy_v2","v3",True,"2024-05-02T18:43:30+00:00",0,2,0,0,0,0,14
+"AmazonEMRServicePolicy_v2","v3",False,"2024-05-02T18:43:30+00:00",0,2,0,0,0,0,14
 "AmazonEMRServicePolicy_v2","v2",False,"2022-02-15T16:48:29+00:00",0,1,0,0,0,0,10
+"AmazonEMRServicePolicy_v2","v4",True,"2025-03-03T20:37:06+00:00",0,2,0,0,0,0,14
 "AWSServiceRoleForCloudWatchAlarmsActionSSMServiceRolePolicy","v1",True,"2020-10-01T09:49:01+00:00",0,0,0,0,0,0,0
 "AmazonFSxReadOnlyAccess","v1",True,"2018-11-28T16:33:32+00:00",0,0,0,0,0,0,0
 "NeptuneFullAccess","v1",False,"2018-05-30T19:17:31+00:00",0,2,0,1,0,0,37
