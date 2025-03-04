@@ -2041,7 +2041,8 @@
 "AWSOpsWorks_FullAccess","v1",True,"2021-01-22T16:29:08+00:00",1,2,0,3,0,0,46
 "AWSIncidentManagerResolverAccess","v1",True,"2021-05-10T06:12:34+00:00",0,0,0,0,0,0,0
 "AWSServiceRoleForCloudWatchMetrics_DbPerfInsightsServiceRolePolicy","v1",True,"2023-09-07T09:32:32+00:00",0,0,0,0,0,0,0
-"AWSEC2CapacityReservationFleetRolePolicy","v1",True,"2021-09-29T14:43:09+00:00",0,0,0,0,0,0,0
+"AWSEC2CapacityReservationFleetRolePolicy","v1",False,"2021-09-29T14:43:09+00:00",0,0,0,0,0,0,0
+"AWSEC2CapacityReservationFleetRolePolicy","v2",True,"2025-03-03T23:22:06+00:00",0,0,0,0,0,0,0
 "AmazonDocDBReadOnlyAccess","v1",True,"2019-01-09T20:30:28+00:00",0,0,0,0,0,0,0
 "AWSBackupServiceRolePolicyForIndexing","v1",True,"2024-12-17T18:37:06+00:00",0,0,0,0,0,0,0
 "AWSGlobalAcceleratorSLRPolicy","v8",False,"2023-09-12T16:45:28+00:00",0,1,0,0,0,0,7
