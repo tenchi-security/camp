@@ -712,6 +712,7 @@
 "AWSSSODirectoryAdministrator","v4",True,"2022-10-20T20:34:07+00:00",3,0,0,0,0,0,0
 "AmazonGrafanaRedshiftAccess","v1",True,"2021-11-26T23:15:15+00:00",0,2,0,0,0,0,2
 "AuroraDsqlServiceLinkedRolePolicy","v1",True,"2024-12-03T15:06:07+00:00",0,0,0,0,0,0,0
+"AWSIoTManagedIntegrationsRolePolicy","v1",True,"2025-03-05T21:22:06+00:00",0,0,0,0,0,0,0
 "AWSMarketplaceLicenseManagementServiceRolePolicy","v1",True,"2020-12-03T08:33:40+00:00",0,1,0,0,0,0,4
 "AWSPrivateMarketplaceAdminFullAccess","v1",False,"2018-11-27T16:32:32+00:00",0,0,0,0,0,0,0
 "AWSPrivateMarketplaceAdminFullAccess","v3",False,"2020-12-03T15:12:31+00:00",0,0,0,0,0,0,0
