@@ -1,0 +1,11 @@
+{
+    "ServiceWildcard": [
+        "iotmanagedintegrations"
+    ],
+    "ServicesAffected": [],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": []
+}

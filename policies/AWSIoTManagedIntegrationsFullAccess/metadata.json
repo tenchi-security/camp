@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSIoTManagedIntegrationsFullAccess",
+    "PolicyId": "ANPAZKAPJZG4NFKSPCQSP",
+    "Arn": "arn:aws:iam::aws:policy/AWSIoTManagedIntegrationsFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2025-03-05T19:22:06+00:00",
+    "UpdateDate": "2025-03-05T19:22:06+00:00"
+}

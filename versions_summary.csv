@@ -3123,6 +3123,7 @@
 "AwsGlueSessionUserRestrictedNotebookPolicy","v1",False,"2022-04-18T15:24:56+00:00",0,0,0,0,0,0,0
 "AwsGlueSessionUserRestrictedNotebookPolicy","v3",True,"2024-08-15T20:51:03+00:00",0,0,0,0,0,0,0
 "AwsGlueSessionUserRestrictedNotebookPolicy","v2",False,"2023-11-22T01:32:43+00:00",0,0,0,0,0,0,0
+"AWSIoTManagedIntegrationsFullAccess","v1",True,"2025-03-05T19:22:06+00:00",1,0,0,0,0,0,0
 "AmazonRekognitionServiceRole","v1",True,"2017-11-29T16:52:13+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerServiceCatalogProductsLambdaServiceRolePolicy","v1",False,"2022-04-04T16:34:43+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerServiceCatalogProductsLambdaServiceRolePolicy","v2",True,"2024-06-11T18:57:13+00:00",0,0,0,0,0,0,0
