@@ -3671,8 +3671,9 @@
 "AWSElasticDisasterRecoveryConsoleFullAccess_v2","v3",False,"2024-07-29T19:38:08+00:00",1,1,0,0,0,0,53
 "AWSElasticDisasterRecoveryConsoleFullAccess_v2","v2",False,"2024-05-19T07:38:32+00:00",1,1,0,0,0,0,53
 "AWSElasticDisasterRecoveryConsoleFullAccess_v2","v4",True,"2025-01-05T15:22:06+00:00",1,1,0,0,0,0,53
-"SageMakerStudioProjectProvisioningRolePolicy","v10",True,"2025-03-03T19:37:06+00:00",0,7,0,1,0,0,52
+"SageMakerStudioProjectProvisioningRolePolicy","v10",False,"2025-03-03T19:37:06+00:00",0,7,0,1,0,0,52
 "SageMakerStudioProjectProvisioningRolePolicy","v8",False,"2025-02-22T00:07:07+00:00",0,7,0,1,0,0,52
+"SageMakerStudioProjectProvisioningRolePolicy","v11",True,"2025-03-05T23:07:07+00:00",0,7,0,1,0,0,52
 "SageMakerStudioProjectProvisioningRolePolicy","v1",False,"2024-11-20T21:58:39+00:00",0,7,0,1,0,0,34
 "SageMakerStudioProjectProvisioningRolePolicy","v3",False,"2024-11-22T04:51:06+00:00",0,7,0,1,0,0,34
 "SageMakerStudioProjectProvisioningRolePolicy","v2",False,"2024-11-21T22:36:06+00:00",0,7,0,1,0,0,34
