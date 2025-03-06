@@ -1,0 +1,6 @@
+{
+    "VersionId": "v3",
+    "IsDefaultVersion": true,
+    "CreateDate": "2025-03-06T21:22:07+00:00",
+    "PolicyName": "AWSECRPullThroughCache_ServiceRolePolicy"
+}

@@ -761,7 +761,8 @@
 "AWSElasticLoadBalancingClassicServiceRolePolicy","v1",False,"2017-09-19T22:36:18+00:00",0,1,0,0,0,0,12
 "AWSElasticLoadBalancingClassicServiceRolePolicy","v2",True,"2019-10-07T23:04:27+00:00",0,1,0,0,0,0,12
 "AWSECRPullThroughCache_ServiceRolePolicy","v1",False,"2021-11-26T21:51:09+00:00",0,1,0,0,0,1,4
-"AWSECRPullThroughCache_ServiceRolePolicy","v2",True,"2023-11-13T15:23:16+00:00",0,1,0,0,0,1,4
+"AWSECRPullThroughCache_ServiceRolePolicy","v3",True,"2025-03-06T21:22:07+00:00",0,1,0,0,0,1,4
+"AWSECRPullThroughCache_ServiceRolePolicy","v2",False,"2023-11-13T15:23:16+00:00",0,1,0,0,0,1,4
 "AmazonDataZoneFullAccess","v1",False,"2023-09-22T20:06:52+00:00",1,1,0,4,0,0,4
 "AmazonDataZoneFullAccess","v3",False,"2024-04-23T21:36:18+00:00",1,2,0,4,0,0,8
 "AmazonDataZoneFullAccess","v2",False,"2024-03-12T16:34:41+00:00",1,1,0,4,0,0,4
