@@ -4151,8 +4151,9 @@
 "AmazonHoneycodeReadOnlyAccess","v2",True,"2020-12-01T17:27:53+00:00",0,0,0,0,0,0,0
 "AWSS3OnOutpostsServiceRolePolicy","v1",True,"2023-10-03T20:32:36+00:00",0,1,0,2,0,0,8
 "AWSFaultInjectionSimulatorECSAccess","v1",False,"2022-10-26T20:37:56+00:00",0,0,0,0,0,0,0
-"AWSFaultInjectionSimulatorECSAccess","v3",True,"2024-01-25T16:16:02+00:00",0,0,0,0,0,0,0
+"AWSFaultInjectionSimulatorECSAccess","v3",False,"2024-01-25T16:16:02+00:00",0,0,0,0,0,0,0
 "AWSFaultInjectionSimulatorECSAccess","v2",False,"2023-06-01T10:48:27+00:00",0,0,0,0,0,0,0
+"AWSFaultInjectionSimulatorECSAccess","v4",True,"2025-03-07T14:52:07+00:00",0,0,0,0,0,0,0
 "AmazonEMRServerlessServiceRolePolicy","v1",False,"2022-05-20T23:15:42+00:00",0,1,0,0,0,0,2
 "AmazonEMRServerlessServiceRolePolicy","v3",True,"2024-01-25T18:21:43+00:00",0,1,0,0,0,0,2
 "AmazonEMRServerlessServiceRolePolicy","v2",False,"2023-04-20T15:47:33+00:00",0,1,0,0,0,0,2
