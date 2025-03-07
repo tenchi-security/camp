@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4K6KUTPP6X",
     "Arn": "arn:aws:iam::aws:policy/service-role/AmazonDataZoneRedshiftManageAccessRolePolicy",
     "Path": "/service-role/",
-    "DefaultVersionId": "v2",
+    "DefaultVersionId": "v3",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2023-09-22T20:15:14+00:00",
-    "UpdateDate": "2023-11-16T22:04:02+00:00"
+    "UpdateDate": "2025-03-07T00:07:06+00:00"
 }

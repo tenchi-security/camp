@@ -2110,11 +2110,12 @@
 "AWSOrganizationsFullAccess","v4",False,"2022-10-21T17:47:25+00:00",1,3,0,1,0,0,23
 "AWSOrganizationsFullAccess","v6",True,"2024-02-06T17:49:01+00:00",1,3,0,1,0,0,27
 "AmazonHealthLakeFullAccess","v1",True,"2021-02-17T01:07:05+00:00",1,2,0,1,0,0,7
+"AmazonDataZoneGlueManageAccessRolePolicy","v8",True,"2025-03-07T00:22:06+00:00",0,3,0,4,0,0,8
 "AmazonDataZoneGlueManageAccessRolePolicy","v1",False,"2023-09-22T20:21:53+00:00",0,2,0,4,0,0,5
 "AmazonDataZoneGlueManageAccessRolePolicy","v3",False,"2023-12-14T23:03:20+00:00",0,2,0,4,0,0,6
 "AmazonDataZoneGlueManageAccessRolePolicy","v2",False,"2023-09-29T01:53:41+00:00",0,2,0,4,0,0,5
 "AmazonDataZoneGlueManageAccessRolePolicy","v5",False,"2024-06-03T23:29:25+00:00",0,3,0,4,0,0,8
-"AmazonDataZoneGlueManageAccessRolePolicy","v7",True,"2024-11-26T15:51:06+00:00",0,3,0,4,0,0,8
+"AmazonDataZoneGlueManageAccessRolePolicy","v7",False,"2024-11-26T15:51:06+00:00",0,3,0,4,0,0,8
 "AmazonDataZoneGlueManageAccessRolePolicy","v4",False,"2024-04-01T19:05:41+00:00",0,2,0,4,0,0,6
 "AmazonDataZoneGlueManageAccessRolePolicy","v6",False,"2024-06-28T16:41:41+00:00",0,3,0,4,0,0,8
 "AWSSystemsManagerChangeManagementServicePolicy","v1",True,"2020-12-07T22:21:57+00:00",0,2,0,1,0,0,4
@@ -2611,7 +2612,8 @@
 "AmazonChimeUserManagement","v4",False,"2018-10-29T22:40:29+00:00",0,0,0,0,0,0,0
 "AmazonChimeUserManagement","v6",False,"2019-03-18T12:17:58+00:00",0,0,0,0,0,0,0
 "AmazonDataZoneRedshiftManageAccessRolePolicy","v1",False,"2023-09-22T20:15:14+00:00",0,0,0,0,0,0,0
-"AmazonDataZoneRedshiftManageAccessRolePolicy","v2",True,"2023-11-16T22:04:02+00:00",0,0,0,0,0,0,0
+"AmazonDataZoneRedshiftManageAccessRolePolicy","v3",True,"2025-03-07T00:07:06+00:00",0,0,0,0,0,0,0
+"AmazonDataZoneRedshiftManageAccessRolePolicy","v2",False,"2023-11-16T22:04:02+00:00",0,0,0,0,0,0,0
 "AmazonCodeGuruReviewerReadOnlyAccess","v1",False,"2019-12-03T08:48:24+00:00",0,0,0,0,0,0,0
 "AmazonCodeGuruReviewerReadOnlyAccess","v2",True,"2020-08-29T04:15:32+00:00",0,0,0,0,0,0,0
 "AIOpsConsoleAdminPolicy","v1",True,"2024-12-02T23:51:06+00:00",1,2,0,2,0,0,6
@@ -2818,8 +2820,9 @@
 "AmazonRDSCustomPreviewServiceRolePolicy","v3",False,"2023-02-14T23:58:11+00:00",0,1,0,0,0,0,7
 "AmazonRDSCustomPreviewServiceRolePolicy","v2",False,"2022-11-08T18:01:22+00:00",0,1,0,0,0,0,7
 "AmazonRDSCustomPreviewServiceRolePolicy","v5",False,"2023-06-23T00:24:50+00:00",0,1,0,0,0,0,7
+"AmazonRDSCustomPreviewServiceRolePolicy","v7",True,"2025-03-06T23:37:06+00:00",0,1,0,0,0,0,7
 "AmazonRDSCustomPreviewServiceRolePolicy","v4",False,"2023-04-26T02:01:02+00:00",0,1,0,0,0,0,7
-"AmazonRDSCustomPreviewServiceRolePolicy","v6",True,"2023-09-20T17:48:39+00:00",0,1,0,0,0,0,7
+"AmazonRDSCustomPreviewServiceRolePolicy","v6",False,"2023-09-20T17:48:39+00:00",0,1,0,0,0,0,7
 "AWSArtifactAccountSync","v1",True,"2018-04-10T23:04:33+00:00",0,0,0,0,0,0,0
 "CertificateManagerServiceRolePolicy","v1",True,"2020-06-25T17:56:49+00:00",0,1,0,0,0,0,1
 "CloudWatchLogsReadOnlyAccess","v1",False,"2015-02-06T18:40:03+00:00",0,0,0,0,0,0,0
@@ -3450,8 +3453,9 @@
 "AmazonMQApiReadOnlyAccess","v1",True,"2018-12-18T20:31:13+00:00",0,0,0,0,0,0,0
 "AWSIoTDeviceDefenderReplaceDefaultPolicyMitigationAction","v1",True,"2019-08-07T17:04:57+00:00",0,1,0,0,0,0,1
 "AWSGroundStationAgentInstancePolicy","v1",True,"2023-03-29T15:23:12+00:00",0,0,0,0,0,0,0
-"AmazonRDSCustomServiceRolePolicy","v10",True,"2024-07-18T17:33:36+00:00",0,1,0,0,0,0,7
+"AmazonRDSCustomServiceRolePolicy","v10",False,"2024-07-18T17:33:36+00:00",0,1,0,0,0,0,7
 "AmazonRDSCustomServiceRolePolicy","v8",False,"2024-04-08T19:39:46+00:00",0,1,0,0,0,0,7
+"AmazonRDSCustomServiceRolePolicy","v11",True,"2025-03-06T23:52:07+00:00",0,1,0,0,0,0,7
 "AmazonRDSCustomServiceRolePolicy","v1",False,"2021-10-08T21:39:12+00:00",0,1,0,0,0,0,6
 "AmazonRDSCustomServiceRolePolicy","v3",False,"2023-02-21T23:14:53+00:00",0,1,0,0,0,0,7
 "AmazonRDSCustomServiceRolePolicy","v2",False,"2022-11-09T22:17:08+00:00",0,1,0,0,0,0,7
