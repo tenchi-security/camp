@@ -1,0 +1,6 @@
+{
+    "VersionId": "v4",
+    "IsDefaultVersion": true,
+    "CreateDate": "2025-03-11T14:07:07+00:00",
+    "PolicyName": "AWSFaultInjectionSimulatorEKSAccess"
+}

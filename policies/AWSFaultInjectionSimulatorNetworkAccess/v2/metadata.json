@@ -1,6 +1,6 @@
 {
     "VersionId": "v2",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2024-01-25T16:07:44+00:00",
     "PolicyName": "AWSFaultInjectionSimulatorNetworkAccess"
 }

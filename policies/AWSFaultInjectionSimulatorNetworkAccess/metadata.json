@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4AXEXMENON",
     "Arn": "arn:aws:iam::aws:policy/service-role/AWSFaultInjectionSimulatorNetworkAccess",
     "Path": "/service-role/",
-    "DefaultVersionId": "v2",
+    "DefaultVersionId": "v3",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2022-10-26T20:32:50+00:00",
-    "UpdateDate": "2024-01-25T16:07:44+00:00"
+    "UpdateDate": "2025-03-11T13:52:06+00:00"
 }

@@ -1655,8 +1655,9 @@
 "AmazonQFullAccess","v4",False,"2024-10-28T20:01:31+00:00",0,0,0,0,0,0,0
 "AWSManagedServices_EventsServiceRolePolicy","v1",True,"2023-02-07T18:41:22+00:00",0,1,0,0,0,0,4
 "AWSFaultInjectionSimulatorEKSAccess","v1",False,"2022-10-26T20:34:43+00:00",0,0,0,0,0,0,0
-"AWSFaultInjectionSimulatorEKSAccess","v3",True,"2023-11-13T16:44:51+00:00",0,0,0,0,0,0,0
+"AWSFaultInjectionSimulatorEKSAccess","v3",False,"2023-11-13T16:44:51+00:00",0,0,0,0,0,0,0
 "AWSFaultInjectionSimulatorEKSAccess","v2",False,"2023-06-01T10:59:09+00:00",0,0,0,0,0,0,0
+"AWSFaultInjectionSimulatorEKSAccess","v4",True,"2025-03-11T14:07:07+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerServiceCatalogProductsFirehoseServiceRolePolicy","v1",True,"2022-02-22T09:54:35+00:00",0,0,0,0,0,0,0
 "AWSrePostPrivateCloudWatchAccess","v1",True,"2023-11-15T16:37:33+00:00",0,0,0,0,0,0,0
 "AWSDeepLensServiceRolePolicy","v1",False,"2017-11-29T15:46:36+00:00",1,4,0,2,0,0,10
@@ -3571,7 +3572,8 @@
 "CloudWatchFullAccess","v2",False,"2017-12-13T17:52:41+00:00",3,3,0,6,0,0,40
 "CloudWatchFullAccess","v4",True,"2022-11-27T13:23:49+00:00",3,3,0,4,0,0,45
 "AWSFaultInjectionSimulatorNetworkAccess","v1",False,"2022-10-26T20:32:50+00:00",0,0,0,0,0,0,0
-"AWSFaultInjectionSimulatorNetworkAccess","v2",True,"2024-01-25T16:07:44+00:00",0,0,0,0,0,0,0
+"AWSFaultInjectionSimulatorNetworkAccess","v3",True,"2025-03-11T13:52:06+00:00",0,0,0,0,0,0,0
+"AWSFaultInjectionSimulatorNetworkAccess","v2",False,"2024-01-25T16:07:44+00:00",0,0,0,0,0,0,0
 "CloudWatchAgentAdminPolicy","v1",False,"2018-03-07T00:52:31+00:00",0,1,0,0,0,0,3
 "CloudWatchAgentAdminPolicy","v2",True,"2024-02-05T20:59:57+00:00",0,1,0,0,0,0,4
 "AmazonRDSPreviewServiceRolePolicy","v8",False,"2023-10-04T19:01:52+00:00",0,2,0,0,0,0,16
