@@ -1,6 +1,6 @@
 {
     "VersionId": "v9",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2024-12-01T17:36:06+00:00",
     "PolicyName": "AWSBillingReadOnlyAccess"
 }
