@@ -1095,7 +1095,8 @@
 "SageMakerStudioEMRServiceRolePolicy","v2",True,"2025-02-27T00:22:06+00:00",0,1,0,0,0,0,3
 "AWSServiceCatalogSyncServiceRolePolicy","v1",False,"2022-11-15T21:20:15+00:00",0,1,0,0,0,0,3
 "AWSServiceCatalogSyncServiceRolePolicy","v2",True,"2024-05-03T17:12:41+00:00",0,1,0,0,0,0,3
-"SageMakerStudioBedrockFlowServiceRolePolicy","v1",True,"2025-02-14T00:07:06+00:00",0,0,0,0,0,0,0
+"SageMakerStudioBedrockFlowServiceRolePolicy","v1",False,"2025-02-14T00:07:06+00:00",0,0,0,0,0,0,0
+"SageMakerStudioBedrockFlowServiceRolePolicy","v2",True,"2025-03-12T18:37:06+00:00",0,0,0,0,0,0,0
 "AWSBugBustPlayerAccess","v1",True,"2021-06-24T07:15:00+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerNotebooksServiceRolePolicy","v10",True,"2024-11-14T20:33:45+00:00",0,3,0,2,0,0,15
 "AmazonSageMakerNotebooksServiceRolePolicy","v8",False,"2024-05-22T19:18:48+00:00",0,3,0,2,0,0,15
