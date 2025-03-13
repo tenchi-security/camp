@@ -2464,7 +2464,8 @@
 "AmazonRedshiftQueryEditorV2ReadSharing","v4",False,"2022-08-31T04:02:10+00:00",0,1,0,0,0,0,16
 "AmazonRedshiftQueryEditorV2ReadSharing","v6",False,"2023-02-01T20:09:28+00:00",0,1,0,0,0,0,29
 "AmazonRedshiftQueryEditorV2ReadSharing","v9",True,"2024-02-21T17:27:40+00:00",0,1,0,0,0,0,30
-"AppStudioServiceRolePolicy","v1",True,"2024-07-10T05:01:15+00:00",0,0,0,0,0,0,0
+"AppStudioServiceRolePolicy","v1",False,"2024-07-10T05:01:15+00:00",0,0,0,0,0,0,0
+"AppStudioServiceRolePolicy","v2",True,"2025-03-13T20:37:07+00:00",0,0,0,0,0,0,0
 "AmazonMacieServiceRolePolicy","v1",False,"2018-06-19T22:17:38+00:00",0,1,0,0,1,0,1
 "AmazonMacieServiceRolePolicy","v3",False,"2020-04-30T17:41:57+00:00",0,1,0,0,1,0,1
 "AmazonMacieServiceRolePolicy","v2",False,"2019-09-27T21:50:33+00:00",0,1,0,0,1,0,1
