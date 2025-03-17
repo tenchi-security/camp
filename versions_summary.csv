@@ -2986,8 +2986,9 @@
 "CloudWatchApplicationSignalsServiceRolePolicy","v1",False,"2023-11-09T18:09:57+00:00",0,0,0,0,0,0,0
 "CloudWatchApplicationSignalsServiceRolePolicy","v3",False,"2024-04-08T16:03:52+00:00",0,0,0,0,0,0,0
 "CloudWatchApplicationSignalsServiceRolePolicy","v2",False,"2024-03-07T00:04:01+00:00",0,0,0,0,0,0,0
-"CloudWatchApplicationSignalsServiceRolePolicy","v5",True,"2024-04-26T21:29:34+00:00",0,0,0,0,0,0,0
+"CloudWatchApplicationSignalsServiceRolePolicy","v5",False,"2024-04-26T21:29:34+00:00",0,0,0,0,0,0,0
 "CloudWatchApplicationSignalsServiceRolePolicy","v4",False,"2024-04-18T22:52:11+00:00",0,0,0,0,0,0,0
+"CloudWatchApplicationSignalsServiceRolePolicy","v6",True,"2025-03-17T15:07:06+00:00",0,0,0,0,0,0,0
 "AWSLambdaENIManagementAccess","v1",False,"2016-12-06T00:37:27+00:00",0,1,0,0,0,0,2
 "AWSLambdaENIManagementAccess","v2",True,"2020-10-01T20:07:26+00:00",0,1,0,0,0,0,4
 "AWSServiceCatalogAppRegistryFullAccess","v1",False,"2020-11-12T22:25:58+00:00",0,1,0,0,0,0,10
