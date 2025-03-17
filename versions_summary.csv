@@ -112,7 +112,8 @@
 "AWSAppMeshReadOnly","v4",False,"2020-03-05T23:54:06+00:00",0,0,0,0,0,0,0
 "AWSApplicationAutoscalingAppStreamFleetPolicy","v1",True,"2017-10-20T19:04:06+00:00",0,2,0,0,0,0,3
 "AWSLambda_ReadOnlyAccess","v1",False,"2020-11-17T21:10:32+00:00",0,0,0,0,0,0,0
-"AWSLambda_ReadOnlyAccess","v2",True,"2023-07-27T17:32:05+00:00",0,0,0,0,0,0,0
+"AWSLambda_ReadOnlyAccess","v3",True,"2025-03-17T21:07:06+00:00",0,0,0,0,0,0,0
+"AWSLambda_ReadOnlyAccess","v2",False,"2023-07-27T17:32:05+00:00",0,0,0,0,0,0,0
 "AWSEntityResolutionConsoleFullAccess","v1",False,"2023-08-17T17:54:14+00:00",1,0,0,0,0,0,0
 "AWSEntityResolutionConsoleFullAccess","v2",True,"2023-10-16T18:46:10+00:00",1,1,0,0,0,0,4
 "AmazonRDSFullAccess","v10",False,"2022-12-19T20:09:11+00:00",2,4,0,4,0,0,96
@@ -2789,7 +2790,8 @@
 "CloudFrontReadOnlyAccess","v5",False,"2021-09-08T22:10:54+00:00",0,0,0,0,0,0,0
 "CloudFrontReadOnlyAccess","v4",False,"2020-02-19T19:49:16+00:00",0,0,0,0,0,0,0
 "CloudFrontReadOnlyAccess","v6",True,"2024-01-04T16:55:27+00:00",0,0,0,0,0,0,0
-"AWSLambda_FullAccess","v1",True,"2020-11-17T21:14:08+00:00",1,2,1,7,0,0,36
+"AWSLambda_FullAccess","v1",False,"2020-11-17T21:14:08+00:00",1,2,1,7,0,0,36
+"AWSLambda_FullAccess","v2",True,"2025-03-17T21:37:06+00:00",1,2,1,7,0,0,41
 "AmazonWorkLinkReadOnly","v1",False,"2019-01-23T19:07:10+00:00",0,0,0,0,0,0,0
 "AmazonWorkLinkReadOnly","v3",True,"2019-09-23T18:37:21+00:00",0,0,0,0,0,0,0
 "AmazonWorkLinkReadOnly","v2",False,"2019-08-01T21:35:07+00:00",0,0,0,0,0,0,0

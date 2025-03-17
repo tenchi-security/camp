@@ -1,0 +1,71 @@
+{
+    "ServiceWildcard": [
+        "lambda"
+    ],
+    "ServicesAffected": [
+        "iam",
+        "lambda"
+    ],
+    "PrivilegeEscalation": [
+        {
+            "type": "EditExistingLambdaFunctionWithRole",
+            "actions": [
+                "lambda:updatefunctioncode"
+            ]
+        }
+    ],
+    "ResourceExposure": [
+        "lambda:AddLayerVersionPermission",
+        "lambda:AddPermission",
+        "lambda:DisableReplication",
+        "lambda:EnableReplication",
+        "lambda:RemoveLayerVersionPermission",
+        "lambda:RemovePermission",
+        "iam:PassRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "iam:PassRole",
+        "lambda:AddLayerVersionPermission",
+        "lambda:AddPermission",
+        "lambda:CreateAlias",
+        "lambda:CreateFunction",
+        "lambda:CreateFunctionUrlConfig",
+        "lambda:DeleteAlias",
+        "lambda:DeleteCodeSigningConfig",
+        "lambda:DeleteEventSourceMapping",
+        "lambda:DeleteFunction",
+        "lambda:DeleteFunctionCodeSigningConfig",
+        "lambda:DeleteFunctionConcurrency",
+        "lambda:DeleteFunctionEventInvokeConfig",
+        "lambda:DeleteFunctionUrlConfig",
+        "lambda:DeleteLayerVersion",
+        "lambda:DeleteProvisionedConcurrencyConfig",
+        "lambda:DisableReplication",
+        "lambda:EnableReplication",
+        "lambda:InvokeAsync",
+        "lambda:InvokeFunction",
+        "lambda:InvokeFunctionUrl",
+        "lambda:PublishLayerVersion",
+        "lambda:PublishVersion",
+        "lambda:PutFunctionCodeSigningConfig",
+        "lambda:PutFunctionConcurrency",
+        "lambda:PutFunctionEventInvokeConfig",
+        "lambda:PutFunctionRecursionConfig",
+        "lambda:PutProvisionedConcurrencyConfig",
+        "lambda:PutRuntimeManagementConfig",
+        "lambda:RemoveLayerVersionPermission",
+        "lambda:RemovePermission",
+        "lambda:TagResource",
+        "lambda:UntagResource",
+        "lambda:UpdateAlias",
+        "lambda:UpdateCodeSigningConfig",
+        "lambda:UpdateEventSourceMapping",
+        "lambda:UpdateFunctionCode",
+        "lambda:UpdateFunctionCodeSigningConfig",
+        "lambda:UpdateFunctionConfiguration",
+        "lambda:UpdateFunctionEventInvokeConfig",
+        "lambda:UpdateFunctionUrlConfig"
+    ]
+}
