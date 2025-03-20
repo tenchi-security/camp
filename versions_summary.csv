@@ -3739,7 +3739,8 @@
 "AWSTrustedAdvisorServiceRolePolicy","v6",False,"2019-06-12T21:21:39+00:00",0,0,0,0,0,0,0
 "AWSTrustedAdvisorServiceRolePolicy","v9",False,"2021-08-10T22:41:30+00:00",0,0,0,0,0,0,0
 "AWSIoTAnalyticsFullAccess","v1",True,"2018-06-18T23:02:45+00:00",1,1,0,0,0,0,19
-"AmazonRDSCustomInstanceProfileRolePolicy","v1",True,"2024-02-27T17:42:02+00:00",0,2,0,0,0,0,3
+"AmazonRDSCustomInstanceProfileRolePolicy","v1",False,"2024-02-27T17:42:02+00:00",0,2,0,0,0,0,3
+"AmazonRDSCustomInstanceProfileRolePolicy","v2",True,"2025-03-20T16:22:05+00:00",0,2,0,0,0,0,3
 "AWSElasticBeanstalkRoleCWL","v1",True,"2020-06-05T21:49:06+00:00",0,0,0,0,0,0,0
 "LexBotPolicy","v1",False,"2017-02-17T22:18:13+00:00",0,0,0,0,0,0,0
 "LexBotPolicy","v2",True,"2019-11-13T22:29:16+00:00",0,0,0,0,0,0,0
