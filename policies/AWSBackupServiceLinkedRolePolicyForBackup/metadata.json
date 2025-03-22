@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4ONJBD4ZY2",
     "Arn": "arn:aws:iam::aws:policy/aws-service-role/AWSBackupServiceLinkedRolePolicyForBackup",
     "Path": "/aws-service-role/",
-    "DefaultVersionId": "v17",
+    "DefaultVersionId": "v18",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2020-06-02T23:08:40+00:00",
-    "UpdateDate": "2025-01-07T18:22:07+00:00"
+    "UpdateDate": "2025-03-21T23:22:06+00:00"
 }
