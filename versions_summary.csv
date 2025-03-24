@@ -1184,7 +1184,8 @@
 "AwsGlueSessionUserRestrictedPolicy","v2",False,"2024-04-29T22:45:28+00:00",0,0,0,0,0,0,0
 "AmazonPollyReadOnlyAccess","v1",False,"2016-11-30T18:59:24+00:00",0,0,0,0,0,0,0
 "AmazonPollyReadOnlyAccess","v2",True,"2018-07-17T16:41:07+00:00",0,0,0,0,0,0,0
-"AWSArtifactReportsReadOnlyAccess","v1",True,"2024-01-02T22:42:58+00:00",0,0,0,0,0,0,0
+"AWSArtifactReportsReadOnlyAccess","v1",False,"2024-01-02T22:42:58+00:00",0,0,0,0,0,0,0
+"AWSArtifactReportsReadOnlyAccess","v2",True,"2025-03-24T18:37:06+00:00",0,0,0,0,0,0,0
 "AWSTrustedAdvisorPriorityFullAccess","v1",True,"2022-08-16T16:08:24+00:00",0,0,0,0,0,0,0
 "ElementalActivationsGenerateLicenses","v1",True,"2020-08-28T18:28:58+00:00",0,0,0,0,0,0,0
 "AWSCodeDeployDeployerAccess","v1",False,"2015-05-19T18:18:43+00:00",0,1,0,0,0,0,2
