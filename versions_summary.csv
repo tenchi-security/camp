@@ -1531,7 +1531,8 @@
 "AWSXrayWriteOnlyAccess","v2",True,"2018-08-28T23:03:04+00:00",0,0,0,0,0,0,0
 "ServerMigrationServiceRoleForInstanceValidation","v1",True,"2020-07-20T22:25:07+00:00",0,0,0,0,0,0,0
 "SageMakerStudioDomainExecutionRolePolicy","v1",False,"2024-11-20T21:56:55+00:00",0,0,0,0,0,0,0
-"SageMakerStudioDomainExecutionRolePolicy","v2",True,"2025-01-14T21:22:06+00:00",0,0,0,0,0,0,0
+"SageMakerStudioDomainExecutionRolePolicy","v3",True,"2025-03-26T18:52:05+00:00",0,0,0,0,0,0,0
+"SageMakerStudioDomainExecutionRolePolicy","v2",False,"2025-01-14T21:22:06+00:00",0,0,0,0,0,0,0
 "AWSLambdaDynamoDBExecutionRole","v1",True,"2015-04-09T15:09:29+00:00",0,1,0,0,0,0,3
 "AWSLakeFormationCrossAccountManager","v1",False,"2020-08-04T20:59:46+00:00",0,2,0,4,0,0,3
 "AWSLakeFormationCrossAccountManager","v3",False,"2020-12-07T23:11:36+00:00",0,2,0,5,0,0,4
