@@ -2833,11 +2833,12 @@
 "WAFV2LoggingServiceRolePolicy","v1",False,"2019-11-07T00:40:56+00:00",0,0,0,0,0,0,0
 "WAFV2LoggingServiceRolePolicy","v3",True,"2024-06-03T17:29:04+00:00",0,0,0,0,0,0,0
 "WAFV2LoggingServiceRolePolicy","v2",False,"2020-07-23T17:04:25+00:00",0,0,0,0,0,0,0
+"AmazonRDSCustomPreviewServiceRolePolicy","v8",True,"2025-03-25T22:22:06+00:00",0,1,0,0,0,0,7
 "AmazonRDSCustomPreviewServiceRolePolicy","v1",False,"2021-10-08T21:44:15+00:00",0,1,0,0,0,0,6
 "AmazonRDSCustomPreviewServiceRolePolicy","v3",False,"2023-02-14T23:58:11+00:00",0,1,0,0,0,0,7
 "AmazonRDSCustomPreviewServiceRolePolicy","v2",False,"2022-11-08T18:01:22+00:00",0,1,0,0,0,0,7
 "AmazonRDSCustomPreviewServiceRolePolicy","v5",False,"2023-06-23T00:24:50+00:00",0,1,0,0,0,0,7
-"AmazonRDSCustomPreviewServiceRolePolicy","v7",True,"2025-03-06T23:37:06+00:00",0,1,0,0,0,0,7
+"AmazonRDSCustomPreviewServiceRolePolicy","v7",False,"2025-03-06T23:37:06+00:00",0,1,0,0,0,0,7
 "AmazonRDSCustomPreviewServiceRolePolicy","v4",False,"2023-04-26T02:01:02+00:00",0,1,0,0,0,0,7
 "AmazonRDSCustomPreviewServiceRolePolicy","v6",False,"2023-09-20T17:48:39+00:00",0,1,0,0,0,0,7
 "AWSArtifactAccountSync","v1",True,"2018-04-10T23:04:33+00:00",0,0,0,0,0,0,0
@@ -3474,7 +3475,8 @@
 "AWSGroundStationAgentInstancePolicy","v1",True,"2023-03-29T15:23:12+00:00",0,0,0,0,0,0,0
 "AmazonRDSCustomServiceRolePolicy","v10",False,"2024-07-18T17:33:36+00:00",0,1,0,0,0,0,7
 "AmazonRDSCustomServiceRolePolicy","v8",False,"2024-04-08T19:39:46+00:00",0,1,0,0,0,0,7
-"AmazonRDSCustomServiceRolePolicy","v11",True,"2025-03-06T23:52:07+00:00",0,1,0,0,0,0,7
+"AmazonRDSCustomServiceRolePolicy","v12",True,"2025-03-25T23:22:06+00:00",0,1,0,0,0,0,7
+"AmazonRDSCustomServiceRolePolicy","v11",False,"2025-03-06T23:52:07+00:00",0,1,0,0,0,0,7
 "AmazonRDSCustomServiceRolePolicy","v1",False,"2021-10-08T21:39:12+00:00",0,1,0,0,0,0,6
 "AmazonRDSCustomServiceRolePolicy","v3",False,"2023-02-21T23:14:53+00:00",0,1,0,0,0,0,7
 "AmazonRDSCustomServiceRolePolicy","v2",False,"2022-11-09T22:17:08+00:00",0,1,0,0,0,0,7
