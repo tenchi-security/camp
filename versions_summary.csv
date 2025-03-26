@@ -947,7 +947,8 @@
 "AutoScalingConsoleFullAccess","v2",True,"2018-02-06T23:15:36+00:00",1,4,0,1,0,0,44
 "AWSApplicationAutoscalingNeptuneClusterPolicy","v1",True,"2021-09-02T21:14:55+00:00",0,0,0,0,0,0,0
 "AWSLambdaInvocation-DynamoDB","v1",True,"2015-02-06T18:40:47+00:00",0,1,0,0,0,0,1
-"AWSApplicationAutoscalingElastiCacheRGPolicy","v1",True,"2021-08-17T23:41:42+00:00",0,1,0,0,0,0,3
+"AWSApplicationAutoscalingElastiCacheRGPolicy","v1",False,"2021-08-17T23:41:42+00:00",0,1,0,0,0,0,3
+"AWSApplicationAutoscalingElastiCacheRGPolicy","v2",True,"2025-03-26T17:37:06+00:00",0,1,0,0,0,0,4
 "AmazonDocDBElasticReadOnlyAccess","v1",False,"2023-06-08T14:37:37+00:00",0,0,0,0,0,0,0
 "AmazonDocDBElasticReadOnlyAccess","v2",True,"2023-06-21T16:57:09+00:00",0,0,0,0,0,0,0
 "AWSSavingsPlansFullAccess","v1",True,"2019-11-06T22:45:18+00:00",1,1,0,0,0,0,3
