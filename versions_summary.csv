@@ -675,7 +675,8 @@
 "AWSAccountManagementReadOnlyAccess","v1",True,"2021-09-30T23:29:53+00:00",0,0,0,0,0,0,0
 "AWSElementalMediaConnectReadOnlyAccess","v1",True,"2025-02-12T20:07:07+00:00",0,0,0,0,0,0,0
 "AmazonKinesisReadOnlyAccess","v1",True,"2015-02-06T18:40:30+00:00",0,0,0,0,0,0,0
-"AmazonECSComputeServiceRolePolicy","v1",True,"2025-03-24T17:37:06+00:00",0,0,0,0,0,0,0
+"AmazonECSComputeServiceRolePolicy","v1",False,"2025-03-24T17:37:06+00:00",0,0,0,0,0,0,0
+"AmazonECSComputeServiceRolePolicy","v2",True,"2025-03-28T20:07:06+00:00",0,0,0,0,0,0,0
 "AmazonMobileAnalyticsNon-financialReportAccess","v1",True,"2015-02-06T18:40:36+00:00",0,0,0,0,0,0,0
 "AWSServiceCatalogAppRegistryServiceRolePolicy","v1",False,"2021-05-18T22:18:55+00:00",0,1,0,0,0,0,4
 "AWSServiceCatalogAppRegistryServiceRolePolicy","v3",False,"2022-03-04T21:06:44+00:00",0,1,0,0,0,0,4
@@ -690,9 +691,10 @@
 "AmazonInspector2ServiceRolePolicy","v3",False,"2022-08-15T17:38:32+00:00",0,1,0,0,0,1,0
 "AmazonInspector2ServiceRolePolicy","v2",False,"2022-08-11T18:45:32+00:00",0,1,0,0,0,1,0
 "AmazonInspector2ServiceRolePolicy","v5",False,"2022-11-17T20:32:51+00:00",0,1,0,0,0,1,0
+"AmazonInspector2ServiceRolePolicy","v15",True,"2025-03-28T20:07:06+00:00",0,2,0,0,0,1,1
 "AmazonInspector2ServiceRolePolicy","v7",False,"2023-02-24T17:57:17+00:00",0,1,0,0,0,1,0
 "AmazonInspector2ServiceRolePolicy","v4",False,"2022-08-23T13:23:52+00:00",0,1,0,0,0,1,0
-"AmazonInspector2ServiceRolePolicy","v14",True,"2025-03-24T17:37:07+00:00",0,2,0,0,0,1,1
+"AmazonInspector2ServiceRolePolicy","v14",False,"2025-03-24T17:37:07+00:00",0,2,0,0,0,1,1
 "AmazonInspector2ServiceRolePolicy","v6",False,"2023-02-15T17:01:23+00:00",0,1,0,0,0,1,0
 "AmazonInspector2ServiceRolePolicy","v9",False,"2023-04-28T18:13:17+00:00",0,1,0,0,0,1,0
 "AmazonSSMAutomationRole","v1",False,"2016-12-05T22:09:55+00:00",1,2,0,1,3,0,58
@@ -703,7 +705,8 @@
 "AWSProtonReadOnlyAccess","v1",False,"2021-02-17T19:09:12+00:00",0,0,0,0,0,0,0
 "AWSProtonReadOnlyAccess","v3",True,"2022-11-18T18:28:24+00:00",0,0,0,0,0,0,0
 "AWSProtonReadOnlyAccess","v2",False,"2022-04-21T12:33:42+00:00",0,0,0,0,0,0,0
-"AmazonEventBridgeApiDestinationsServiceRolePolicy","v1",True,"2021-02-11T20:52:05+00:00",0,0,0,0,0,0,0
+"AmazonEventBridgeApiDestinationsServiceRolePolicy","v1",False,"2021-02-11T20:52:05+00:00",0,0,0,0,0,0,0
+"AmazonEventBridgeApiDestinationsServiceRolePolicy","v2",True,"2025-03-28T20:07:07+00:00",0,0,0,0,0,0,0
 "ROSAAmazonEBSCSIDriverOperatorPolicy","v1",False,"2023-04-20T22:36:00+00:00",0,0,0,0,0,0,0
 "ROSAAmazonEBSCSIDriverOperatorPolicy","v2",True,"2025-01-22T00:52:12+00:00",0,0,0,0,0,0,0
 "AWSIoTWirelessDataAccess","v1",True,"2020-12-15T15:31:39+00:00",0,1,0,0,0,0,1
