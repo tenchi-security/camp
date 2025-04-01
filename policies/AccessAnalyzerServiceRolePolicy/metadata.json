@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4CAIXDDRI2",
     "Arn": "arn:aws:iam::aws:policy/aws-service-role/AccessAnalyzerServiceRolePolicy",
     "Path": "/aws-service-role/",
-    "DefaultVersionId": "v15",
+    "DefaultVersionId": "v16",
     "AttachmentCount": 1,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2019-12-02T17:13:10+00:00",
-    "UpdateDate": "2024-12-10T16:51:09+00:00"
+    "UpdateDate": "2025-04-01T15:52:07+00:00"
 }
