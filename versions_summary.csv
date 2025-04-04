@@ -4153,7 +4153,8 @@
 "CloudSearchFullAccess","v1",True,"2015-02-06T18:39:56+00:00",1,1,0,1,0,0,19
 "CustomerProfilesServiceLinkedRolePolicy","v1",False,"2023-03-07T22:56:52+00:00",0,0,0,0,0,0,0
 "CustomerProfilesServiceLinkedRolePolicy","v2",True,"2024-11-26T22:21:06+00:00",0,0,0,0,0,0,0
-"AIOpsAssistantPolicy","v1",True,"2024-12-02T16:21:06+00:00",0,3,0,1,1,0,3
+"AIOpsAssistantPolicy","v1",False,"2024-12-02T16:21:06+00:00",0,3,0,1,1,0,3
+"AIOpsAssistantPolicy","v2",True,"2025-04-03T22:22:06+00:00",0,3,0,1,1,0,3
 "AWSCertificateManagerFullAccess","v1",False,"2016-01-21T17:02:36+00:00",1,1,0,0,0,0,7
 "AWSCertificateManagerFullAccess","v2",True,"2020-08-17T22:18:28+00:00",1,1,0,0,0,0,7
 "AWSElementalMediaLiveReadOnly","v1",False,"2020-07-08T16:38:07+00:00",0,0,0,0,0,0,0
