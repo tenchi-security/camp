@@ -1,0 +1,27 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "config",
+        "quicksight"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "quicksight:DescribeDataSetPermissions",
+        "quicksight:DescribeDataSourcePermissions"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "config:PutAggregationAuthorization",
+        "config:PutConfigRule",
+        "config:PutConfigurationAggregator",
+        "config:PutConformancePack",
+        "config:PutExternalEvaluation",
+        "config:PutOrganizationConfigRule",
+        "config:PutOrganizationConformancePack",
+        "config:PutRemediationConfigurations",
+        "config:PutStoredQuery",
+        "quicksight:DescribeDataSetPermissions",
+        "quicksight:DescribeDataSourcePermissions"
+    ]
+}
