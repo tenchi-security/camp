@@ -1111,7 +1111,8 @@
 "AWSServiceCatalogSyncServiceRolePolicy","v1",False,"2022-11-15T21:20:15+00:00",0,1,0,0,0,0,3
 "AWSServiceCatalogSyncServiceRolePolicy","v2",True,"2024-05-03T17:12:41+00:00",0,1,0,0,0,0,3
 "SageMakerStudioBedrockFlowServiceRolePolicy","v1",False,"2025-02-14T00:07:06+00:00",0,0,0,0,0,0,0
-"SageMakerStudioBedrockFlowServiceRolePolicy","v2",True,"2025-03-12T18:37:06+00:00",0,0,0,0,0,0,0
+"SageMakerStudioBedrockFlowServiceRolePolicy","v3",True,"2025-04-09T20:37:06+00:00",0,0,0,0,0,0,0
+"SageMakerStudioBedrockFlowServiceRolePolicy","v2",False,"2025-03-12T18:37:06+00:00",0,0,0,0,0,0,0
 "AWSBugBustPlayerAccess","v1",True,"2021-06-24T07:15:00+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerNotebooksServiceRolePolicy","v10",True,"2024-11-14T20:33:45+00:00",0,3,0,2,0,0,15
 "AmazonSageMakerNotebooksServiceRolePolicy","v8",False,"2024-05-22T19:18:48+00:00",0,3,0,2,0,0,15
@@ -3717,8 +3718,9 @@
 "AWSElasticDisasterRecoveryConsoleFullAccess_v2","v4",True,"2025-01-05T15:22:06+00:00",1,1,0,0,0,0,53
 "SageMakerStudioProjectProvisioningRolePolicy","v10",False,"2025-03-03T19:37:06+00:00",0,7,0,1,0,0,52
 "SageMakerStudioProjectProvisioningRolePolicy","v8",False,"2025-02-22T00:07:07+00:00",0,7,0,1,0,0,52
-"SageMakerStudioProjectProvisioningRolePolicy","v12",True,"2025-03-21T20:07:07+00:00",0,7,0,1,0,0,52
+"SageMakerStudioProjectProvisioningRolePolicy","v12",False,"2025-03-21T20:07:07+00:00",0,7,0,1,0,0,52
 "SageMakerStudioProjectProvisioningRolePolicy","v11",False,"2025-03-05T23:07:07+00:00",0,7,0,1,0,0,52
+"SageMakerStudioProjectProvisioningRolePolicy","v13",True,"2025-04-09T21:22:07+00:00",0,7,0,1,0,0,54
 "SageMakerStudioProjectProvisioningRolePolicy","v1",False,"2024-11-20T21:58:39+00:00",0,7,0,1,0,0,34
 "SageMakerStudioProjectProvisioningRolePolicy","v3",False,"2024-11-22T04:51:06+00:00",0,7,0,1,0,0,34
 "SageMakerStudioProjectProvisioningRolePolicy","v2",False,"2024-11-21T22:36:06+00:00",0,7,0,1,0,0,34
@@ -4215,8 +4217,9 @@
 "AWSRefactoringToolkitFullAccess","v1",False,"2022-10-25T16:41:15+00:00",0,2,0,0,0,0,20
 "AWSRefactoringToolkitFullAccess","v3",False,"2023-03-23T23:14:02+00:00",0,2,0,0,0,0,20
 "AWSRefactoringToolkitFullAccess","v2",False,"2022-12-16T23:26:55+00:00",0,2,0,0,0,0,20
-"AWSRefactoringToolkitFullAccess","v5",True,"2024-03-25T18:43:14+00:00",0,3,0,0,0,1,20
+"AWSRefactoringToolkitFullAccess","v5",False,"2024-03-25T18:43:14+00:00",0,3,0,0,0,1,20
 "AWSRefactoringToolkitFullAccess","v4",False,"2023-11-18T00:37:27+00:00",0,3,0,0,0,1,20
+"AWSRefactoringToolkitFullAccess","v6",True,"2025-04-09T20:22:06+00:00",0,3,0,0,0,1,21
 "AWSECRPullThroughCacheServiceRolePolicy","v1",True,"2021-11-23T23:37:27+00:00",0,1,0,0,0,1,4
 "AmazonSageMakerMechanicalTurkAccess","v1",True,"2019-12-03T16:19:36+00:00",0,1,0,0,0,0,2
 "AWSImageBuilderFullAccess","v1",False,"2019-12-20T18:25:12+00:00",1,1,0,4,0,0,25

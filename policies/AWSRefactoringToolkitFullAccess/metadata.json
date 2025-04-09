@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4BNNXRNIF7",
     "Arn": "arn:aws:iam::aws:policy/AWSRefactoringToolkitFullAccess",
     "Path": "/",
-    "DefaultVersionId": "v5",
+    "DefaultVersionId": "v6",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2022-10-25T16:41:15+00:00",
-    "UpdateDate": "2024-03-25T18:43:14+00:00"
+    "UpdateDate": "2025-04-09T20:22:06+00:00"
 }
