@@ -948,7 +948,8 @@
 "ROSAInstallerPolicy","v1",False,"2023-06-06T21:00:31+00:00",0,3,0,1,0,0,6
 "ROSAInstallerPolicy","v3",False,"2024-04-10T20:52:53+00:00",0,3,0,1,0,0,6
 "ROSAInstallerPolicy","v2",False,"2024-01-26T21:04:47+00:00",0,3,0,1,0,0,6
-"ROSAInstallerPolicy","v4",True,"2024-04-24T19:49:55+00:00",0,3,0,1,0,0,6
+"ROSAInstallerPolicy","v5",True,"2025-04-10T23:52:06+00:00",0,3,0,1,0,0,6
+"ROSAInstallerPolicy","v4",False,"2024-04-24T19:49:55+00:00",0,3,0,1,0,0,6
 "AutoScalingConsoleFullAccess","v1",False,"2017-01-12T19:43:16+00:00",1,3,0,0,0,0,43
 "AutoScalingConsoleFullAccess","v2",True,"2018-02-06T23:15:36+00:00",1,4,0,1,0,0,44
 "AWSApplicationAutoscalingNeptuneClusterPolicy","v1",True,"2021-09-02T21:14:55+00:00",0,0,0,0,0,0,0
@@ -1270,7 +1271,8 @@
 "LexChannelPolicy","v1",True,"2017-02-17T23:23:24+00:00",0,0,0,0,0,0,0
 "AmazonHoneycodeWorkbookFullAccess","v1",False,"2020-06-24T20:28:46+00:00",0,1,0,0,0,0,1
 "AmazonHoneycodeWorkbookFullAccess","v2",True,"2020-12-01T17:30:06+00:00",0,1,0,0,0,0,6
-"ROSAIngressOperatorPolicy","v1",True,"2023-04-20T22:37:08+00:00",0,1,0,0,0,0,1
+"ROSAIngressOperatorPolicy","v1",False,"2023-04-20T22:37:08+00:00",0,1,0,0,0,0,1
+"ROSAIngressOperatorPolicy","v2",True,"2025-04-10T23:52:07+00:00",0,1,0,0,0,0,1
 "AWSApplicationAutoScalingCustomResourcePolicy","v1",True,"2018-06-04T23:22:44+00:00",0,2,0,0,0,0,3
 "AmazonElasticFileSystemClientReadOnlyAccess","v1",True,"2020-01-13T16:24:36+00:00",0,0,0,0,0,0,0
 "AmazonKinesisVideoStreamsReadOnlyAccess","v1",True,"2017-12-01T23:14:32+00:00",0,0,0,0,0,0,0
@@ -2680,7 +2682,8 @@
 "AWSElasticDisasterRecoveryConversionServerPolicy","v2",True,"2023-11-27T13:13:38+00:00",0,0,0,0,0,0,0
 "AmazonMachineLearningRealTimePredictionOnlyAccess","v1",True,"2015-04-09T17:44:06+00:00",0,1,0,0,0,0,1
 "ROSAControlPlaneOperatorPolicy","v1",False,"2023-04-24T23:02:49+00:00",0,1,0,0,0,0,1
-"ROSAControlPlaneOperatorPolicy","v2",True,"2023-06-30T21:12:32+00:00",0,1,0,0,0,0,1
+"ROSAControlPlaneOperatorPolicy","v3",True,"2025-04-10T23:52:07+00:00",0,1,0,0,0,0,1
+"ROSAControlPlaneOperatorPolicy","v2",False,"2023-06-30T21:12:32+00:00",0,1,0,0,0,0,1
 "AWSQuickSetupPatchPolicyBaselineAccess","v1",True,"2024-06-26T09:38:00+00:00",0,0,0,0,0,0,0
 "AWSSystemsManagerEnableExplorerExecutionPolicy","v1",True,"2024-06-26T09:42:47+00:00",0,0,0,0,0,0,0
 "DatabaseAdministrator","v1",False,"2016-11-10T17:25:43+00:00",4,9,0,13,1,1,253
@@ -3084,8 +3087,9 @@
 "AmazonTimestreamReadOnlyAccess","v2",False,"2021-11-26T23:39:30+00:00",0,0,0,0,0,0,0
 "AmazonTimestreamReadOnlyAccess","v4",True,"2024-06-05T19:11:27+00:00",0,0,0,0,0,0,0
 "ROSAKubeControllerPolicy","v1",False,"2023-04-27T20:09:29+00:00",0,1,0,0,0,0,8
-"ROSAKubeControllerPolicy","v3",True,"2023-10-16T18:17:05+00:00",0,1,0,0,0,0,21
+"ROSAKubeControllerPolicy","v3",False,"2023-10-16T18:17:05+00:00",0,1,0,0,0,0,21
 "ROSAKubeControllerPolicy","v2",False,"2023-07-18T21:45:19+00:00",0,1,0,0,0,0,21
+"ROSAKubeControllerPolicy","v4",True,"2025-04-10T23:52:06+00:00",0,1,0,0,0,0,21
 "AmazonEventBridgeSchedulerReadOnlyAccess","v1",True,"2022-11-10T18:50:12+00:00",0,0,0,0,0,0,0
 "AmazonCloudWatchEvidentlyFullAccess","v1",True,"2021-11-29T15:10:14+00:00",1,0,0,0,0,0,0
 "AWSUserNotificationsServiceLinkedRolePolicy","v1",False,"2023-04-19T13:28:34+00:00",0,0,0,0,0,0,0
@@ -4142,8 +4146,9 @@
 "AWSPanoramaApplianceServiceRolePolicy","v2",False,"2023-01-17T21:32:36+00:00",0,0,0,0,0,0,0
 "AWSApplicationAutoscalingLambdaConcurrencyPolicy","v1",True,"2019-10-21T20:04:17+00:00",0,2,0,0,0,0,4
 "ROSASRESupportPolicy","v1",False,"2023-06-01T14:36:06+00:00",0,0,0,0,0,0,0
-"ROSASRESupportPolicy","v3",True,"2024-04-10T20:51:37+00:00",0,0,0,0,0,0,0
+"ROSASRESupportPolicy","v3",False,"2024-04-10T20:51:37+00:00",0,0,0,0,0,0,0
 "ROSASRESupportPolicy","v2",False,"2024-01-22T22:46:40+00:00",0,0,0,0,0,0,0
+"ROSASRESupportPolicy","v4",True,"2025-04-10T23:52:07+00:00",0,0,0,0,0,0,0
 "AWSIoTDataAccess","v1",False,"2015-10-27T21:51:18+00:00",0,1,0,0,0,0,5
 "AWSIoTDataAccess","v3",True,"2021-06-23T21:34:47+00:00",0,1,0,0,0,0,6
 "AWSIoTDataAccess","v2",False,"2017-11-16T18:24:11+00:00",0,1,0,0,0,0,6

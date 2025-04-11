@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4DPFRRLYGW",
     "Arn": "arn:aws:iam::aws:policy/service-role/ROSAIngressOperatorPolicy",
     "Path": "/service-role/",
-    "DefaultVersionId": "v1",
+    "DefaultVersionId": "v2",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2023-04-20T22:37:08+00:00",
-    "UpdateDate": "2023-04-20T22:37:08+00:00"
+    "UpdateDate": "2025-04-10T23:52:07+00:00"
 }
