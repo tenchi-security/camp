@@ -345,8 +345,9 @@
 "AmazonEKSServiceRolePolicy","v3",False,"2024-10-21T21:23:26+00:00",0,1,0,1,0,0,6
 "AmazonEKSServiceRolePolicy","v2",False,"2020-05-27T19:30:19+00:00",0,1,0,1,0,0,6
 "AmazonEKSServiceRolePolicy","v5",False,"2024-11-16T17:42:18+00:00",0,3,0,1,0,0,18
+"AmazonEKSServiceRolePolicy","v7",True,"2025-04-14T20:52:07+00:00",0,3,0,1,0,0,18
 "AmazonEKSServiceRolePolicy","v4",False,"2024-10-29T22:39:46+00:00",0,1,0,1,0,0,6
-"AmazonEKSServiceRolePolicy","v6",True,"2025-02-26T21:37:06+00:00",0,3,0,1,0,0,18
+"AmazonEKSServiceRolePolicy","v6",False,"2025-02-26T21:37:06+00:00",0,3,0,1,0,0,18
 "AmazonWorkMailMessageFlowFullAccess","v1",True,"2021-02-11T11:08:35+00:00",1,0,0,0,0,0,0
 "AWSMigrationHubRefactorSpacesFullAccess","v1",False,"2021-11-29T07:12:55+00:00",1,4,0,1,0,0,21
 "AWSMigrationHubRefactorSpacesFullAccess","v3",False,"2022-03-21T17:41:49+00:00",1,5,0,2,0,0,27
@@ -3124,11 +3125,12 @@
 "AmazonElasticMapReduceFullAccess","v7",True,"2019-10-11T15:19:30+00:00",4,7,2,16,1,0,119
 "AmazonElasticMapReduceFullAccess","v4",False,"2015-12-21T23:20:38+00:00",4,7,2,15,1,0,118
 "AmazonElasticMapReduceFullAccess","v6",False,"2018-01-23T19:40:00+00:00",4,7,2,16,1,0,119
+"SageMakerStudioProjectRoleMachineLearningPolicy","v8",True,"2025-04-14T21:52:06+00:00",0,1,0,0,0,0,49
 "SageMakerStudioProjectRoleMachineLearningPolicy","v1",False,"2024-11-20T21:55:27+00:00",0,1,0,0,0,0,48
 "SageMakerStudioProjectRoleMachineLearningPolicy","v3",False,"2024-11-26T05:21:05+00:00",0,1,0,0,0,0,48
 "SageMakerStudioProjectRoleMachineLearningPolicy","v2",False,"2024-11-24T19:51:06+00:00",0,1,0,0,0,0,48
 "SageMakerStudioProjectRoleMachineLearningPolicy","v5",False,"2025-02-12T18:07:07+00:00",0,1,0,0,0,0,49
-"SageMakerStudioProjectRoleMachineLearningPolicy","v7",True,"2025-02-27T00:22:05+00:00",0,1,0,0,0,0,49
+"SageMakerStudioProjectRoleMachineLearningPolicy","v7",False,"2025-02-27T00:22:05+00:00",0,1,0,0,0,0,49
 "SageMakerStudioProjectRoleMachineLearningPolicy","v4",False,"2024-11-27T06:21:07+00:00",0,1,0,0,0,0,49
 "SageMakerStudioProjectRoleMachineLearningPolicy","v6",False,"2025-02-13T23:07:06+00:00",0,1,0,0,0,0,49
 "AWSSecurityIncidentResponseFullAccess","v1",True,"2024-12-01T23:21:06+00:00",0,0,0,0,0,0,0
