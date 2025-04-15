@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4PHSENNDOP",
     "Arn": "arn:aws:iam::aws:policy/aws-service-role/AWSDataSyncServiceRolePolicy",
     "Path": "/aws-service-role/",
-    "DefaultVersionId": "v1",
+    "DefaultVersionId": "v2",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2024-10-09T17:45:40+00:00",
-    "UpdateDate": "2024-10-09T17:45:40+00:00"
+    "UpdateDate": "2025-04-15T16:37:06+00:00"
 }
