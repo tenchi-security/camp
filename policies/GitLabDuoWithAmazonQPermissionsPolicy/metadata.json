@@ -1,0 +1,12 @@
+{
+    "PolicyName": "GitLabDuoWithAmazonQPermissionsPolicy",
+    "PolicyId": "ANPAZKAPJZG4D6QXPN63R",
+    "Arn": "arn:aws:iam::aws:policy/GitLabDuoWithAmazonQPermissionsPolicy",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2025-04-16T16:37:07+00:00",
+    "UpdateDate": "2025-04-16T16:37:07+00:00"
+}
