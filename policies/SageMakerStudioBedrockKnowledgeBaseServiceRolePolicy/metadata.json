@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4H3IVWYHBJ",
     "Arn": "arn:aws:iam::aws:policy/service-role/SageMakerStudioBedrockKnowledgeBaseServiceRolePolicy",
     "Path": "/service-role/",
-    "DefaultVersionId": "v1",
+    "DefaultVersionId": "v2",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2025-02-25T02:52:07+00:00",
-    "UpdateDate": "2025-02-25T02:52:07+00:00"
+    "UpdateDate": "2025-04-16T20:37:07+00:00"
 }
