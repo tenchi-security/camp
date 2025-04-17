@@ -2461,8 +2461,9 @@
 "AmazonRoute53RecoveryControlConfigReadOnlyAccess","v3",True,"2023-10-18T17:15:33+00:00",0,0,0,0,0,0,0
 "AmazonRoute53RecoveryControlConfigReadOnlyAccess","v2",False,"2021-12-09T23:38:51+00:00",0,0,0,0,0,0,0
 "AmazonTimestreamInfluxDBFullAccess","v1",False,"2024-03-14T22:53:22+00:00",0,0,0,0,0,0,0
-"AmazonTimestreamInfluxDBFullAccess","v3",True,"2025-02-17T20:37:06+00:00",0,0,0,0,0,0,0
+"AmazonTimestreamInfluxDBFullAccess","v3",False,"2025-02-17T20:37:06+00:00",0,0,0,0,0,0,0
 "AmazonTimestreamInfluxDBFullAccess","v2",False,"2024-10-08T20:31:28+00:00",0,0,0,0,0,0,0
+"AmazonTimestreamInfluxDBFullAccess","v4",True,"2025-04-17T18:22:07+00:00",0,0,0,0,0,0,0
 "AWSPanoramaFullAccess","v1",False,"2020-12-01T13:12:47+00:00",1,1,0,0,0,0,14
 "AWSPanoramaFullAccess","v3",False,"2021-10-28T15:37:05+00:00",1,3,0,3,0,0,20
 "AWSPanoramaFullAccess","v2",False,"2021-10-20T12:14:58+00:00",1,3,0,3,0,0,20
