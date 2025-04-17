@@ -2801,6 +2801,7 @@
 "AmazonRedshiftQueryEditor","v2",False,"2020-09-09T19:51:14+00:00",0,2,0,0,0,1,4
 "AmazonRedshiftQueryEditor","v4",True,"2021-02-16T19:33:45+00:00",0,1,0,0,0,1,1
 "CloudFormationStackSetsOrgAdminServiceRolePolicy","v1",True,"2019-12-10T00:20:05+00:00",0,0,0,0,0,0,0
+"AWSQuickSetupJITNADeploymentRolePolicy","v1",True,"2025-04-17T09:07:06+00:00",0,0,0,0,0,0,0
 "AmazonConnectReadOnlyAccess","v1",False,"2018-10-17T21:00:44+00:00",0,1,0,0,0,1,1
 "AmazonConnectReadOnlyAccess","v3",False,"2019-11-06T22:10:18+00:00",0,1,0,0,0,1,1
 "AmazonConnectReadOnlyAccess","v2",False,"2019-11-06T01:34:37+00:00",0,1,0,0,0,0,1

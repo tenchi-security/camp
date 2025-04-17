@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSQuickSetupJITNADeploymentRolePolicy",
+    "PolicyId": "ANPAZKAPJZG4BS7E5X4LD",
+    "Arn": "arn:aws:iam::aws:policy/AWSQuickSetupJITNADeploymentRolePolicy",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2025-04-17T09:07:06+00:00",
+    "UpdateDate": "2025-04-17T09:07:06+00:00"
+}
