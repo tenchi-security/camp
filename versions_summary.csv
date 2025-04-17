@@ -243,6 +243,7 @@
 "AmazonNimbleStudio-StudioUser","v4",False,"2022-12-20T19:31:23+00:00",0,3,0,2,0,0,10
 "AmazonHealthLakeReadOnlyAccess","v1",True,"2021-02-17T02:43:31+00:00",0,0,0,0,0,0,0
 "AWSMarketplaceSellerOfferManagement","v1",True,"2024-11-19T00:41:38+00:00",0,1,0,0,0,0,1
+"AWSSystemsManagerJustInTimeAccessTokenSessionPolicy","v1",True,"2025-04-17T20:52:07+00:00",0,0,0,0,0,0,0
 "AWSThinkboxDeadlineResourceTrackerAccessPolicy","v1",True,"2020-05-27T19:25:05+00:00",0,2,0,0,0,0,3
 "AmazonEventBridgeFullAccess","v1",False,"2019-07-11T14:08:55+00:00",1,1,0,2,0,0,27
 "AmazonEventBridgeFullAccess","v3",False,"2022-11-10T18:01:43+00:00",3,2,0,0,0,0,48
@@ -490,6 +491,7 @@
 "AmazonEC2ContainerServiceEventsRole","v1",False,"2017-05-30T16:51:35+00:00",0,1,0,0,0,0,1
 "AmazonEC2ContainerServiceEventsRole","v3",True,"2023-03-06T22:25:12+00:00",0,2,0,1,0,0,3
 "AmazonEC2ContainerServiceEventsRole","v2",False,"2018-05-22T19:13:11+00:00",0,2,0,1,0,0,2
+"AWSQuickSetupManageJITNAResourcesExecutionPolicy","v1",True,"2025-04-17T21:37:05+00:00",0,0,0,0,0,0,0
 "AmazonECSInfrastructureRolePolicyForVolumes","v1",False,"2024-01-10T22:56:41+00:00",0,0,0,0,0,0,0
 "AmazonECSInfrastructureRolePolicyForVolumes","v2",True,"2024-10-10T18:56:53+00:00",0,0,0,0,0,0,0
 "WellArchitectedConsoleReadOnlyAccess","v1",False,"2018-11-29T18:21:08+00:00",0,0,0,0,0,0,0
@@ -1642,7 +1644,8 @@
 "AmazonEKSLocalOutpostClusterPolicy","v4",True,"2024-10-24T17:59:05+00:00",0,2,0,0,0,1,3
 "AmazonCodeGuruSecurityScanAccess","v1",True,"2023-05-09T20:54:32+00:00",0,0,0,0,0,0,0
 "ROSAImageRegistryOperatorPolicy","v1",False,"2023-04-27T20:13:18+00:00",0,0,0,0,0,0,0
-"ROSAImageRegistryOperatorPolicy","v2",True,"2023-12-12T19:53:12+00:00",0,0,0,0,0,0,0
+"ROSAImageRegistryOperatorPolicy","v3",True,"2025-04-17T20:22:07+00:00",0,0,0,0,0,0,0
+"ROSAImageRegistryOperatorPolicy","v2",False,"2023-12-12T19:53:12+00:00",0,0,0,0,0,0,0
 "AWSThinkboxAWSPortalAdminPolicy","v8",False,"2024-04-12T20:07:12+00:00",0,4,0,0,0,0,45
 "AWSThinkboxAWSPortalAdminPolicy","v1",False,"2020-05-27T19:41:02+00:00",0,4,0,0,0,0,45
 "AWSThinkboxAWSPortalAdminPolicy","v3",False,"2020-08-18T21:01:54+00:00",0,4,0,0,0,0,45
@@ -2096,6 +2099,7 @@
 "AmazonGuardDutyFullAccess","v5",False,"2023-11-16T23:04:21+00:00",1,3,0,1,0,0,15
 "AmazonGuardDutyFullAccess","v4",False,"2022-07-26T18:28:01+00:00",1,3,0,1,0,0,15
 "AmazonGuardDutyFullAccess","v6",True,"2024-06-10T22:50:31+00:00",1,3,0,1,0,0,15
+"AWSSystemsManagerJustInTimeAccessTokenPolicy","v1",True,"2025-04-17T21:07:06+00:00",0,0,0,0,0,0,0
 "CloudWatchReadOnlyAccess","v10",True,"2024-11-21T17:51:05+00:00",0,0,0,0,0,0,0
 "CloudWatchReadOnlyAccess","v8",False,"2023-12-05T19:24:15+00:00",0,0,0,0,0,0,0
 "CloudWatchReadOnlyAccess","v1",False,"2015-02-06T18:40:01+00:00",0,0,0,0,0,0,0
@@ -2513,6 +2517,7 @@
 "AWSServiceRoleForCodeWhispererPolicy","v4",False,"2024-03-01T23:35:24+00:00",0,1,0,0,0,0,1
 "AWSIoTSiteWiseMonitorPortalAccess","v1",True,"2020-05-19T20:01:21+00:00",0,1,0,0,0,0,11
 "AmazonAPIGatewayAdministrator","v1",True,"2015-07-09T17:34:45+00:00",1,0,0,0,0,0,0
+"AWSSystemsManagerNotificationsServicePolicy","v1",True,"2025-04-17T20:52:07+00:00",0,0,0,0,0,0,0
 "AmazonElasticFileSystemClientReadWriteAccess","v1",True,"2020-01-13T16:21:55+00:00",0,1,0,0,0,0,1
 "AWSServiceRoleForProcurementInsightsPolicy","v1",True,"2024-10-03T14:26:03+00:00",0,0,0,0,0,0,0
 "AWSCertificateManagerReadOnly","v1",False,"2016-01-21T17:07:33+00:00",0,0,0,0,0,0,0
