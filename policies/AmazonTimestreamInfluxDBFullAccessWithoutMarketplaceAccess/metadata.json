@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonTimestreamInfluxDBFullAccessWithoutMarketplaceAccess",
+    "PolicyId": "ANPAZKAPJZG4LUL3RNNBP",
+    "Arn": "arn:aws:iam::aws:policy/AmazonTimestreamInfluxDBFullAccessWithoutMarketplaceAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2025-04-17T17:52:07+00:00",
+    "UpdateDate": "2025-04-17T17:52:07+00:00"
+}

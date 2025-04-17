@@ -2396,8 +2396,9 @@
 "AmazonLookoutMetricsFullAccess","v1",True,"2021-05-07T00:43:38+00:00",1,1,0,0,0,0,12
 "AmazonDetectiveOrganizationsAccess","v1",True,"2023-03-02T15:20:50+00:00",0,3,0,1,0,0,4
 "AmazonPrometheusConsoleFullAccess","v1",False,"2020-12-15T18:11:10+00:00",0,1,0,0,0,0,2
-"AmazonPrometheusConsoleFullAccess","v3",True,"2022-10-24T22:25:39+00:00",0,1,0,0,0,0,13
+"AmazonPrometheusConsoleFullAccess","v3",False,"2022-10-24T22:25:39+00:00",0,1,0,0,0,0,13
 "AmazonPrometheusConsoleFullAccess","v2",False,"2021-09-29T15:29:28+00:00",0,1,0,0,0,0,4
+"AmazonPrometheusConsoleFullAccess","v4",True,"2025-04-17T16:22:06+00:00",0,1,0,0,0,0,13
 "AWSArtifactAgreementsReadOnlyAccess","v1",True,"2024-11-22T19:36:07+00:00",0,0,0,0,0,0,0
 "AWSApplicationDiscoveryAgentlessCollectorAccess","v1",True,"2022-08-16T21:00:59+00:00",0,0,0,0,0,0,0
 "AWSCloud9SSMInstanceProfile","v1",True,"2020-05-14T11:40:49+00:00",0,0,0,0,0,0,0
@@ -2904,8 +2905,10 @@
 "AWSXrayCrossAccountSharingConfiguration","v1",True,"2022-11-27T13:46:35+00:00",0,0,0,0,0,0,0
 "AWSStorageGatewayServiceRolePolicy","v1",True,"2021-02-17T19:03:19+00:00",0,0,0,0,0,0,0
 "ResourceGroupsServiceRolePolicy","v1",True,"2023-01-05T16:57:08+00:00",0,0,0,0,0,0,0
+"AmazonTimestreamInfluxDBFullAccessWithoutMarketplaceAccess","v1",True,"2025-04-17T17:52:07+00:00",0,0,0,0,0,0,0
 "AWSElementalMediaTailorFullAccess","v1",True,"2021-11-23T00:04:39+00:00",1,1,0,2,0,0,14
-"AWSOutpostsServiceRolePolicy","v1",True,"2020-11-09T22:55:56+00:00",0,1,0,0,0,0,2
+"AWSOutpostsServiceRolePolicy","v1",False,"2020-11-09T22:55:56+00:00",0,1,0,0,0,0,2
+"AWSOutpostsServiceRolePolicy","v2",True,"2025-04-17T17:37:07+00:00",0,0,0,0,0,0,0
 "AmazonRDSDirectoryServiceAccess","v1",False,"2016-02-26T02:02:05+00:00",0,1,0,0,0,0,2
 "AmazonRDSDirectoryServiceAccess","v2",True,"2019-05-15T16:51:50+00:00",0,1,0,0,0,0,2
 "IAMFullAccess","v1",False,"2015-02-06T18:40:38+00:00",1,1,10,79,0,5,90
