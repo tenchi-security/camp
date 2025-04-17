@@ -1,0 +1,6 @@
+{
+    "VersionId": "v8",
+    "IsDefaultVersion": true,
+    "CreateDate": "2025-04-17T02:52:06+00:00",
+    "PolicyName": "AmazonEKSClusterPolicy"
+}
