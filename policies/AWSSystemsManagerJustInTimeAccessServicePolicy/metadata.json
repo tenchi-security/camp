@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSSystemsManagerJustInTimeAccessServicePolicy",
+    "PolicyId": "ANPAZKAPJZG4NI73M5RG3",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/AWSSystemsManagerJustInTimeAccessServicePolicy",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2025-04-21T20:07:07+00:00",
+    "UpdateDate": "2025-04-21T20:07:07+00:00"
+}
