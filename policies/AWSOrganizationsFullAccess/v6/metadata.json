@@ -1,6 +1,6 @@
 {
     "VersionId": "v6",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2024-02-06T17:49:01+00:00",
     "PolicyName": "AWSOrganizationsFullAccess"
 }

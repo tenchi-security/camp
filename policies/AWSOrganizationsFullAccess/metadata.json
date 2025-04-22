@@ -3,10 +3,10 @@
     "PolicyId": "ANPAJZXBNRCJKNLQHSB5M",
     "Arn": "arn:aws:iam::aws:policy/AWSOrganizationsFullAccess",
     "Path": "/",
-    "DefaultVersionId": "v6",
+    "DefaultVersionId": "v7",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2018-11-06T20:31:57+00:00",
-    "UpdateDate": "2024-02-06T17:49:01+00:00"
+    "UpdateDate": "2025-04-22T20:37:06+00:00"
 }
