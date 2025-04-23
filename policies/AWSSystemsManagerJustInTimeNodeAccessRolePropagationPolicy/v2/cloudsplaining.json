@@ -1,0 +1,17 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "ram"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "ram:AssociateResourceShare",
+        "ram:DisassociateResourceShare"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "ram:AssociateResourceShare",
+        "ram:DisassociateResourceShare"
+    ]
+}
