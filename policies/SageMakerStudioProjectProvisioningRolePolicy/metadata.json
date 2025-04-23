@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4NQZUIPVLH",
     "Arn": "arn:aws:iam::aws:policy/service-role/SageMakerStudioProjectProvisioningRolePolicy",
     "Path": "/service-role/",
-    "DefaultVersionId": "v13",
+    "DefaultVersionId": "v14",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2024-11-20T21:58:39+00:00",
-    "UpdateDate": "2025-04-09T21:22:07+00:00"
+    "UpdateDate": "2025-04-23T20:07:07+00:00"
 }
