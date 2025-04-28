@@ -1137,8 +1137,9 @@
 "CloudFrontFullAccess","v7",False,"2024-01-04T16:56:08+00:00",2,1,0,0,0,0,40
 "CloudFrontFullAccess","v5",False,"2020-08-27T17:09:55+00:00",1,1,0,0,0,0,14
 "CloudFrontFullAccess","v4",False,"2020-02-19T19:52:00+00:00",1,1,0,0,0,0,14
-"CloudFrontFullAccess","v8",True,"2024-11-20T18:39:41+00:00",2,2,0,0,0,0,46
+"CloudFrontFullAccess","v8",False,"2024-11-20T18:39:41+00:00",2,2,0,0,0,0,46
 "CloudFrontFullAccess","v2",False,"2015-05-04T17:52:23+00:00",1,1,0,0,0,0,14
+"CloudFrontFullAccess","v9",True,"2025-04-28T16:52:07+00:00",2,2,0,1,0,0,52
 "AmazonDataZoneProjectDeploymentPermissionsBoundary","v1",False,"2023-03-21T02:54:30+00:00",0,7,0,2,0,1,25
 "AmazonDataZoneProjectDeploymentPermissionsBoundary","v2",True,"2023-04-04T02:48:38+00:00",0,7,0,2,0,1,28
 "AWSSSOServiceRolePolicy","v11",False,"2020-08-26T17:46:14+00:00",0,1,0,0,0,0,1
@@ -4279,7 +4280,8 @@
 "AmazonSageMakerModelRegistryFullAccess","v2",True,"2024-06-06T18:48:51+00:00",0,1,0,0,0,0,11
 "CloudFrontReadOnlyAccess","v3",False,"2016-01-21T17:03:28+00:00",0,0,0,0,0,0,0
 "CloudFrontReadOnlyAccess","v1",False,"2015-02-06T18:39:55+00:00",0,0,0,0,0,0,0
-"CloudFrontReadOnlyAccess","v6",True,"2024-01-04T16:55:27+00:00",0,0,0,0,0,0,0
+"CloudFrontReadOnlyAccess","v6",False,"2024-01-04T16:55:27+00:00",0,0,0,0,0,0,0
+"CloudFrontReadOnlyAccess","v7",True,"2025-04-28T17:07:06+00:00",0,0,0,0,0,0,0
 "CloudFrontReadOnlyAccess","v5",False,"2021-09-08T22:10:54+00:00",0,0,0,0,0,0,0
 "CloudFrontReadOnlyAccess","v4",False,"2020-02-19T19:49:16+00:00",0,0,0,0,0,0,0
 "CloudFrontReadOnlyAccess","v2",False,"2015-05-04T17:56:12+00:00",0,0,0,0,0,0,0
