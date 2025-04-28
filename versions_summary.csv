@@ -302,6 +302,7 @@
 "AmazonElasticFileSystemServiceRolePolicy","v4",False,"2022-01-10T19:27:33+00:00",0,2,0,1,0,0,4
 "AmazonElasticFileSystemServiceRolePolicy","v2",False,"2020-07-16T16:48:14+00:00",0,2,0,1,0,0,4
 "SageMakerStudioProjectUserRolePolicy","v3",False,"2024-11-24T20:21:06+00:00",0,14,0,2,0,0,89
+"SageMakerStudioProjectUserRolePolicy","v10",True,"2025-04-28T18:37:07+00:00",0,16,0,6,0,0,102
 "SageMakerStudioProjectUserRolePolicy","v1",False,"2024-11-20T21:59:23+00:00",0,14,0,2,0,0,89
 "SageMakerStudioProjectUserRolePolicy","v6",False,"2025-01-03T00:37:07+00:00",0,14,0,2,0,0,92
 "SageMakerStudioProjectUserRolePolicy","v7",False,"2025-02-27T22:37:06+00:00",0,16,0,6,0,0,102
@@ -309,7 +310,7 @@
 "SageMakerStudioProjectUserRolePolicy","v4",False,"2024-11-26T05:21:06+00:00",0,14,0,2,0,0,89
 "SageMakerStudioProjectUserRolePolicy","v8",False,"2025-03-21T20:07:06+00:00",0,16,0,6,0,0,102
 "SageMakerStudioProjectUserRolePolicy","v2",False,"2024-11-22T04:51:06+00:00",0,14,0,2,0,0,89
-"SageMakerStudioProjectUserRolePolicy","v9",True,"2025-04-08T17:52:05+00:00",0,16,0,6,0,0,102
+"SageMakerStudioProjectUserRolePolicy","v9",False,"2025-04-08T17:52:05+00:00",0,16,0,6,0,0,102
 "AmazonMSKConnectReadOnlyAccess","v1",False,"2021-09-20T10:18:43+00:00",0,0,0,0,0,0,0
 "AmazonMSKConnectReadOnlyAccess","v2",True,"2021-10-18T09:16:26+00:00",0,0,0,0,0,0,0
 "AmazonMQReadOnlyAccess","v1",False,"2017-11-28T15:30:32+00:00",0,0,0,0,0,0,0
