@@ -1854,8 +1854,9 @@
 "AWSDataExchangeProviderFullAccess","v8",False,"2021-11-01T15:13:01+00:00",0,3,0,1,0,0,14
 "AWSDataExchangeProviderFullAccess","v2",False,"2019-11-25T16:25:47+00:00",0,2,0,0,0,0,12
 "AWSDataExchangeProviderFullAccess","v9",False,"2021-11-29T23:01:23+00:00",0,3,0,1,0,0,14
+"AmazonCloudWatchRUMReadOnlyAccess","v3",True,"2025-04-30T19:22:06+00:00",0,0,0,0,0,0,0
 "AmazonCloudWatchRUMReadOnlyAccess","v1",False,"2021-11-29T15:43:47+00:00",0,0,0,0,0,0,0
-"AmazonCloudWatchRUMReadOnlyAccess","v2",True,"2022-10-28T18:12:58+00:00",0,0,0,0,0,0,0
+"AmazonCloudWatchRUMReadOnlyAccess","v2",False,"2022-10-28T18:12:58+00:00",0,0,0,0,0,0,0
 "AmazonLexReplicationPolicy","v1",False,"2024-01-31T23:29:42+00:00",0,1,0,1,0,0,1
 "AmazonLexReplicationPolicy","v2",True,"2024-03-08T17:11:32+00:00",0,1,0,1,0,0,1
 "AmazonKeyspacesReadOnlyAccess","v3",True,"2022-07-07T14:54:05+00:00",0,0,0,0,0,0,0

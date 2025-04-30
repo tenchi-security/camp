@@ -1,0 +1,17 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": [
+                "rum:GetAppMonitor",
+                "rum:GetAppMonitorData",
+                "rum:ListAppMonitors",
+                "rum:ListRumMetricsDestinations",
+                "rum:BatchGetRumMetricDefinitions",
+                "rum:GetResourcePolicy"
+            ],
+            "Resource": "*"
+        }
+    ]
+}
