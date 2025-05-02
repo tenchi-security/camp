@@ -1,0 +1,19 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "q"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "q:CreateAssignment",
+        "q:CreatePlugin",
+        "q:DeleteAssignment",
+        "q:DeletePlugin",
+        "q:TagResource",
+        "q:UntagResource",
+        "q:UsePlugin"
+    ]
+}
