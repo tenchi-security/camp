@@ -1,0 +1,17 @@
+{
+    "ServiceWildcard": [
+        "waf",
+        "waf-regional",
+        "wafv2"
+    ],
+    "ServicesAffected": [
+        "wafv2"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "wafv2:DisassociateWebACL"
+    ]
+}

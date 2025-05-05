@@ -3,10 +3,10 @@
     "PolicyId": "ANPAINZVDMX2SBF7EU2OC",
     "Arn": "arn:aws:iam::aws:policy/AWSWAFReadOnlyAccess",
     "Path": "/",
-    "DefaultVersionId": "v8",
+    "DefaultVersionId": "v9",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2015-10-06T20:43:45+00:00",
-    "UpdateDate": "2023-06-05T20:55:48+00:00"
+    "UpdateDate": "2025-05-05T21:22:06+00:00"
 }

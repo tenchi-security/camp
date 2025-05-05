@@ -3,10 +3,10 @@
     "PolicyId": "ANPAJMIKIAFXZEGOLRH7C",
     "Arn": "arn:aws:iam::aws:policy/AWSWAFFullAccess",
     "Path": "/",
-    "DefaultVersionId": "v11",
+    "DefaultVersionId": "v12",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2015-10-06T20:44:00+00:00",
-    "UpdateDate": "2023-06-05T20:55:25+00:00"
+    "UpdateDate": "2025-05-05T21:07:07+00:00"
 }
