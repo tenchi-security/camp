@@ -4290,8 +4290,9 @@
 "CloudFrontReadOnlyAccess","v5",False,"2021-09-08T22:10:54+00:00",0,0,0,0,0,0,0
 "CloudFrontReadOnlyAccess","v4",False,"2020-02-19T19:49:16+00:00",0,0,0,0,0,0,0
 "CloudFrontReadOnlyAccess","v2",False,"2015-05-04T17:56:12+00:00",0,0,0,0,0,0,0
+"AWSQuickSetupSSMDeploymentRolePolicy","v3",True,"2025-05-05T10:52:06+00:00",0,0,0,0,0,0,0
 "AWSQuickSetupSSMDeploymentRolePolicy","v1",False,"2024-11-15T22:53:20+00:00",0,0,0,0,0,0,0
-"AWSQuickSetupSSMDeploymentRolePolicy","v2",True,"2024-11-20T12:43:56+00:00",0,0,0,0,0,0,0
+"AWSQuickSetupSSMDeploymentRolePolicy","v2",False,"2024-11-20T12:43:56+00:00",0,0,0,0,0,0,0
 "AmazonPrometheusConsoleFullAccess","v3",False,"2022-10-24T22:25:39+00:00",0,1,0,0,0,0,13
 "AmazonPrometheusConsoleFullAccess","v1",False,"2020-12-15T18:11:10+00:00",0,1,0,0,0,0,2
 "AmazonPrometheusConsoleFullAccess","v4",True,"2025-04-17T16:22:06+00:00",0,1,0,0,0,0,13
