@@ -1206,10 +1206,11 @@
 "AWSMigrationHubStrategyCollector","v2",False,"2022-09-28T00:06:57+00:00",0,0,0,0,0,0,0
 "AWSMigrationHubStrategyCollector","v6",True,"2024-04-01T16:21:02+00:00",0,0,0,0,0,0,0
 "AWSMigrationHubStrategyCollector","v3",False,"2023-03-02T22:08:23+00:00",0,0,0,0,0,0,0
-"AWSMarketplaceRead-only","v5",True,"2024-11-20T18:14:55+00:00",0,0,0,0,0,0,0
+"AWSMarketplaceRead-only","v5",False,"2024-11-20T18:14:55+00:00",0,0,0,0,0,0,0
 "AWSMarketplaceRead-only","v1",False,"2015-02-06T18:40:31+00:00",0,0,0,0,0,0,0
 "AWSMarketplaceRead-only","v4",False,"2023-01-19T23:30:25+00:00",0,0,0,0,0,0,0
 "AWSMarketplaceRead-only","v2",False,"2018-07-31T23:24:24+00:00",0,0,0,0,0,0,0
+"AWSMarketplaceRead-only","v6",True,"2025-05-07T20:07:07+00:00",0,0,0,0,0,0,0
 "AWSMarketplaceRead-only","v3",False,"2019-10-28T21:51:31+00:00",0,0,0,0,0,0,0
 "AWSCodeBuildAdminAccess","v5",False,"2018-10-03T18:20:00+00:00",1,2,0,4,0,0,31
 "AWSCodeBuildAdminAccess","v14",False,"2024-05-02T01:45:44+00:00",1,3,0,2,0,0,40
@@ -4164,8 +4165,9 @@
 "AmazonDataZoneDomainExecutionRolePolicy","v3",False,"2024-02-01T23:12:59+00:00",0,0,0,0,0,0,0
 "ApplicationDiscoveryServiceContinuousExportServiceRolePolicy","v1",False,"2018-08-09T20:22:01+00:00",0,3,0,0,0,0,6
 "ApplicationDiscoveryServiceContinuousExportServiceRolePolicy","v2",True,"2018-08-13T22:31:21+00:00",0,3,0,0,0,0,6
+"AWSMarketplaceFullAccess","v5",True,"2025-05-07T20:07:06+00:00",1,5,0,4,0,0,23
 "AWSMarketplaceFullAccess","v1",False,"2015-02-11T17:21:45+00:00",1,2,0,0,0,0,10
-"AWSMarketplaceFullAccess","v4",True,"2022-03-04T17:04:00+00:00",1,5,0,3,0,0,18
+"AWSMarketplaceFullAccess","v4",False,"2022-03-04T17:04:00+00:00",1,5,0,3,0,0,18
 "AWSMarketplaceFullAccess","v2",False,"2018-07-31T23:18:28+00:00",1,5,0,2,0,0,19
 "AWSMarketplaceFullAccess","v3",False,"2018-08-08T21:13:02+00:00",1,5,0,2,0,0,20
 "AmazonMechanicalTurkFullAccess","v1",True,"2015-12-11T19:08:19+00:00",1,0,0,0,0,0,0
@@ -4475,9 +4477,10 @@
 "AWSDataSyncFullAccess","v1",False,"2019-01-18T19:40:36+00:00",1,4,0,2,0,0,15
 "AWSDataSyncFullAccess","v7",False,"2024-10-18T20:07:03+00:00",1,4,0,2,0,0,29
 "AWSDataSyncFullAccess","v4",False,"2023-05-02T16:37:43+00:00",1,4,0,2,0,0,20
+"AWSDataSyncFullAccess","v9",True,"2025-05-07T19:37:06+00:00",1,4,0,2,0,0,29
 "AWSDataSyncFullAccess","v2",False,"2020-01-24T17:59:16+00:00",1,4,0,2,0,0,15
 "AWSDataSyncFullAccess","v6",False,"2024-07-22T16:13:41+00:00",1,4,0,2,0,0,29
-"AWSDataSyncFullAccess","v8",True,"2025-04-23T20:07:06+00:00",1,4,0,2,0,0,29
+"AWSDataSyncFullAccess","v8",False,"2025-04-23T20:07:06+00:00",1,4,0,2,0,0,29
 "AWSDataSyncFullAccess","v3",False,"2020-06-30T17:58:58+00:00",1,4,0,2,0,0,15
 "AmazonElasticMapReduceEditorsRole","v1",False,"2018-11-16T21:55:25+00:00",0,1,0,2,0,0,8
 "AmazonElasticMapReduceEditorsRole","v2",True,"2023-02-09T22:39:29+00:00",0,1,0,2,0,0,9
