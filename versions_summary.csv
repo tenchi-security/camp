@@ -1981,6 +1981,7 @@
 "AWSElasticDisasterRecoveryFailbackInstallationPolicy","v1",False,"2021-11-17T11:02:03+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryFailbackInstallationPolicy","v2",False,"2022-06-27T09:13:40+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryFailbackInstallationPolicy","v3",True,"2023-11-27T13:43:08+00:00",0,0,0,0,0,0,0
+"AmazonEKSDashboardServiceRolePolicy","v1",True,"2025-05-08T19:07:07+00:00",0,0,0,0,0,0,0
 "AmazonGuardDutyServiceRolePolicy","v5",False,"2023-02-21T16:56:23+00:00",0,1,0,1,0,0,1
 "AmazonGuardDutyServiceRolePolicy","v1",False,"2017-11-28T20:12:59+00:00",0,0,0,0,0,0,0
 "AmazonGuardDutyServiceRolePolicy","v7",False,"2023-11-26T22:03:45+00:00",0,1,0,1,0,0,1
