@@ -186,7 +186,8 @@
 "AWSSystemsManagerJustInTimeAccessServicePolicy","v1",True,"2025-04-21T20:07:07+00:00",0,0,0,0,0,0,0
 "AWSEntityResolutionConsoleFullAccess","v1",False,"2023-08-17T17:54:14+00:00",1,0,0,0,0,0,0
 "AWSEntityResolutionConsoleFullAccess","v2",True,"2023-10-16T18:46:10+00:00",1,1,0,0,0,0,4
-"AuroraDsqlServiceLinkedRolePolicy","v1",True,"2024-12-03T15:06:07+00:00",0,0,0,0,0,0,0
+"AuroraDsqlServiceLinkedRolePolicy","v1",False,"2024-12-03T15:06:07+00:00",0,0,0,0,0,0,0
+"AuroraDsqlServiceLinkedRolePolicy","v2",True,"2025-05-09T19:22:07+00:00",0,0,0,0,0,0,0
 "FMSServiceRolePolicy","v20",False,"2021-09-30T17:12:33+00:00",0,6,0,3,0,0,27
 "FMSServiceRolePolicy","v19",False,"2021-08-12T19:21:06+00:00",0,6,0,2,0,0,26
 "FMSServiceRolePolicy","v5",False,"2019-01-21T21:12:11+00:00",0,1,0,0,0,0,1
