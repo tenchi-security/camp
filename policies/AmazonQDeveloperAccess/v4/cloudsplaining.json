@@ -1,0 +1,13 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "q"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "q:UsePlugin"
+    ]
+}

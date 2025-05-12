@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4C4YINGFPW",
     "Arn": "arn:aws:iam::aws:policy/AmazonQDeveloperAccess",
     "Path": "/",
-    "DefaultVersionId": "v3",
+    "DefaultVersionId": "v4",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2024-07-09T08:35:15+00:00",
-    "UpdateDate": "2024-11-13T21:30:27+00:00"
+    "UpdateDate": "2025-05-12T20:22:06+00:00"
 }

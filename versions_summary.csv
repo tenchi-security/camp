@@ -2289,9 +2289,10 @@
 "AmazonLookoutVisionReadOnlyAccess","v2",True,"2021-12-09T03:01:51+00:00",0,0,0,0,0,0,0
 "AmazonQFullAccess","v5",False,"2024-11-13T21:51:39+00:00",0,0,0,0,0,0,0
 "AmazonQFullAccess","v1",False,"2023-11-28T16:00:24+00:00",1,0,0,0,0,0,0
+"AmazonQFullAccess","v7",True,"2025-05-12T20:22:07+00:00",0,1,0,0,0,0,7
 "AmazonQFullAccess","v4",False,"2024-10-28T20:01:31+00:00",0,0,0,0,0,0,0
 "AmazonQFullAccess","v2",False,"2024-04-29T17:02:36+00:00",1,0,0,0,0,0,0
-"AmazonQFullAccess","v6",True,"2025-05-02T18:22:06+00:00",0,1,0,0,0,0,7
+"AmazonQFullAccess","v6",False,"2025-05-02T18:22:06+00:00",0,1,0,0,0,0,7
 "AmazonQFullAccess","v3",False,"2024-07-09T08:35:50+00:00",0,0,0,0,0,0,0
 "AmazonChimeFullAccess","v1",False,"2017-11-01T22:15:43+00:00",1,1,0,2,0,1,34
 "AmazonChimeFullAccess","v2",False,"2020-05-19T18:17:17+00:00",1,2,0,3,0,1,35
@@ -3926,8 +3927,9 @@
 "AWSDeadlineCloud-UserAccessFarms","v1",False,"2024-04-01T16:54:00+00:00",0,0,0,0,0,0,0
 "AWSDeadlineCloud-UserAccessFarms","v2",True,"2024-10-07T17:57:52+00:00",0,1,0,16,0,0,19
 "AmazonQDeveloperAccess","v1",False,"2024-07-09T08:35:15+00:00",0,0,0,0,0,0,0
+"AmazonQDeveloperAccess","v4",True,"2025-05-12T20:22:06+00:00",0,1,0,0,0,0,1
 "AmazonQDeveloperAccess","v2",False,"2024-10-28T20:02:12+00:00",0,0,0,0,0,0,0
-"AmazonQDeveloperAccess","v3",True,"2024-11-13T21:30:27+00:00",0,0,0,0,0,0,0
+"AmazonQDeveloperAccess","v3",False,"2024-11-13T21:30:27+00:00",0,0,0,0,0,0,0
 "AWSDirectConnectReadOnlyAccess","v1",False,"2015-02-06T18:40:08+00:00",0,0,0,0,0,0,0
 "AWSDirectConnectReadOnlyAccess","v4",True,"2020-05-18T18:48:22+00:00",0,0,0,0,0,0,0
 "AWSDirectConnectReadOnlyAccess","v2",False,"2018-08-15T17:28:44+00:00",0,0,0,0,0,0,0
