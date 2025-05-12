@@ -1,0 +1,6 @@
+{
+    "VersionId": "v1",
+    "IsDefaultVersion": true,
+    "CreateDate": "2025-05-12T19:22:07+00:00",
+    "PolicyName": "AWSQuickSightSecretsManagerWritePolicy"
+}

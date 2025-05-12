@@ -3841,6 +3841,7 @@
 "AmazonGrafanaRedshiftAccess","v1",True,"2021-11-26T23:15:15+00:00",0,2,0,0,0,0,2
 "AmazonDataZoneProjectDeploymentPermissionsBoundary","v1",False,"2023-03-21T02:54:30+00:00",0,7,0,2,0,1,25
 "AmazonDataZoneProjectDeploymentPermissionsBoundary","v2",True,"2023-04-04T02:48:38+00:00",0,7,0,2,0,1,28
+"AWSQuickSightSecretsManagerWritePolicy","v1",True,"2025-05-12T19:22:07+00:00",0,0,0,0,0,0,0
 "AmazonEFSCSIDriverPolicy","v1",True,"2023-07-25T20:10:04+00:00",0,1,0,0,0,0,3
 "AWSQuickSightSageMakerPolicy","v1",False,"2020-01-17T17:18:13+00:00",0,0,0,0,0,0,0
 "AWSQuickSightSageMakerPolicy","v2",False,"2023-10-03T23:22:22+00:00",0,0,0,0,0,0,0
@@ -4147,7 +4148,7 @@
 "ViewOnlyAccess","v2",False,"2016-12-09T22:20:46+00:00",0,0,0,0,0,0,0
 "ViewOnlyAccess","v10",False,"2020-08-18T22:51:43+00:00",0,0,0,0,0,0,0
 "ViewOnlyAccess","v17",False,"2023-03-06T15:59:28+00:00",0,0,0,0,0,0,0
-"ViewOnlyAccess","v23",True,"2024-12-19T22:52:06+00:00",0,0,0,0,0,0,0
+"ViewOnlyAccess","v23",False,"2024-12-19T22:52:06+00:00",0,0,0,0,0,0,0
 "ViewOnlyAccess","v6",False,"2018-09-12T21:57:01+00:00",0,0,0,0,0,0,0
 "ViewOnlyAccess","v18",False,"2024-03-28T21:28:38+00:00",0,0,0,0,0,0,0
 "ViewOnlyAccess","v8",False,"2020-01-16T17:42:09+00:00",0,0,0,0,0,0,0
@@ -4155,6 +4156,7 @@
 "ViewOnlyAccess","v12",False,"2021-12-21T02:53:03+00:00",0,0,0,0,0,0,0
 "ViewOnlyAccess","v3",False,"2017-06-26T22:35:31+00:00",0,0,0,0,0,0,0
 "ViewOnlyAccess","v16",False,"2023-01-05T20:51:00+00:00",0,0,0,0,0,0,0
+"ViewOnlyAccess","v24",True,"2025-05-12T20:07:07+00:00",0,0,0,0,0,0,0
 "ViewOnlyAccess","v15",False,"2022-05-06T21:01:44+00:00",0,0,0,0,0,0,0
 "AmazonDataZoneDomainExecutionRolePolicy","v5",False,"2024-04-01T19:25:31+00:00",0,0,0,0,0,0,0
 "AmazonDataZoneDomainExecutionRolePolicy","v1",False,"2023-09-27T21:55:08+00:00",0,0,0,0,0,0,0
