@@ -1,0 +1,6 @@
+{
+    "VersionId": "v2",
+    "IsDefaultVersion": true,
+    "CreateDate": "2025-05-14T17:07:07+00:00",
+    "PolicyName": "EC2FastLaunchServiceRolePolicy"
+}

@@ -501,7 +501,8 @@
 "AmazonRoute53AutoNamingRegistrantAccess","v1",True,"2018-03-12T22:33:20+00:00",0,2,0,0,0,0,5
 "AmazonOpenSearchServerlessServiceRolePolicy","v1",False,"2022-11-24T19:50:12+00:00",0,0,0,0,0,0,0
 "AmazonOpenSearchServerlessServiceRolePolicy","v2",True,"2024-07-25T21:19:30+00:00",0,0,0,0,0,0,0
-"EC2FastLaunchServiceRolePolicy","v1",True,"2022-01-10T13:08:21+00:00",0,1,0,1,0,0,1
+"EC2FastLaunchServiceRolePolicy","v1",False,"2022-01-10T13:08:21+00:00",0,1,0,1,0,0,1
+"EC2FastLaunchServiceRolePolicy","v2",True,"2025-05-14T17:07:07+00:00",0,2,0,1,0,0,2
 "AmazonDataZoneRedshiftManageAccessRolePolicy","v3",True,"2025-03-07T00:07:06+00:00",0,0,0,0,0,0,0
 "AmazonDataZoneRedshiftManageAccessRolePolicy","v1",False,"2023-09-22T20:15:14+00:00",0,0,0,0,0,0,0
 "AmazonDataZoneRedshiftManageAccessRolePolicy","v2",False,"2023-11-16T22:04:02+00:00",0,0,0,0,0,0,0
@@ -3616,7 +3617,8 @@
 "AWSThinkboxAWSPortalAdminPolicy","v2",False,"2020-08-08T03:39:47+00:00",0,4,0,0,0,0,45
 "AWSThinkboxAWSPortalAdminPolicy","v5",False,"2023-03-23T20:12:28+00:00",0,4,0,0,0,0,45
 "AWSThinkboxAWSPortalAdminPolicy","v6",False,"2023-04-18T18:24:02+00:00",0,4,0,0,0,0,45
-"EC2FastLaunchFullAccess","v1",True,"2024-05-13T22:45:26+00:00",0,1,0,0,0,0,2
+"EC2FastLaunchFullAccess","v1",False,"2024-05-13T22:45:26+00:00",0,1,0,0,0,0,2
+"EC2FastLaunchFullAccess","v2",True,"2025-05-14T16:37:05+00:00",0,1,0,0,0,0,2
 "AWS-SSM-DiagnosisAutomation-OperationalAccountAdministrationRolePolicy","v1",True,"2024-11-16T00:11:14+00:00",0,0,0,0,0,0,0
 "AmazonRDSPerformanceInsightsFullAccess","v1",False,"2023-08-15T23:41:34+00:00",0,0,0,0,0,0,0
 "AmazonRDSPerformanceInsightsFullAccess","v2",True,"2023-10-23T21:14:27+00:00",0,0,0,0,0,0,0
