@@ -1,0 +1,25 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "dsql",
+        "iam"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:CreateServiceLinkedRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "dsql:CreateCluster",
+        "dsql:CreateMultiRegionClusters",
+        "dsql:DbConnect",
+        "dsql:DbConnectAdmin",
+        "dsql:DeleteCluster",
+        "dsql:DeleteMultiRegionClusters",
+        "dsql:TagResource",
+        "dsql:UntagResource",
+        "dsql:UpdateCluster",
+        "iam:CreateServiceLinkedRole"
+    ]
+}
