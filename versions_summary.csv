@@ -30,7 +30,8 @@
 "AmazonDetectiveMemberAccess","v1",True,"2023-01-17T15:16:14+00:00",0,0,0,0,0,0,0
 "AdministratorAccess","v1",True,"2015-02-06T18:39:46+00:00",263,201,22,321,5,28,4002
 "AmazonGrafanaCloudWatchAccess","v1",True,"2023-03-24T22:41:53+00:00",0,0,0,0,0,0,0
-"AWSVPCS2SVpnServiceRolePolicy","v1",True,"2019-08-06T14:13:58+00:00",0,0,0,0,0,0,0
+"AWSVPCS2SVpnServiceRolePolicy","v1",False,"2019-08-06T14:13:58+00:00",0,0,0,0,0,0,0
+"AWSVPCS2SVpnServiceRolePolicy","v2",True,"2025-05-15T16:52:07+00:00",0,0,0,0,0,0,0
 "AWSDiscoveryContinuousExportFirehosePolicy","v1",False,"2018-08-09T18:29:39+00:00",0,0,0,0,0,0,0
 "AWSDiscoveryContinuousExportFirehosePolicy","v2",True,"2021-06-08T17:32:46+00:00",0,0,0,0,0,0,0
 "AWSDataExchangeDataGrantReceiverFullAccess","v1",True,"2024-10-24T14:45:58+00:00",0,1,0,0,0,0,5
@@ -1416,9 +1417,10 @@
 "AWSServiceRoleForMonitronPolicy","v1",False,"2020-12-02T19:06:08+00:00",0,0,0,1,0,0,0
 "AWSServiceRoleForMonitronPolicy","v2",False,"2022-09-29T20:38:15+00:00",0,0,0,0,0,0,0
 "AmazonRoute53FullAccess","v3",False,"2017-11-13T22:22:04+00:00",2,1,0,0,0,0,20
-"AmazonRoute53FullAccess","v4",True,"2018-12-20T21:42:00+00:00",2,1,0,0,0,0,20
+"AmazonRoute53FullAccess","v4",False,"2018-12-20T21:42:00+00:00",2,1,0,0,0,0,20
 "AmazonRoute53FullAccess","v1",False,"2015-02-06T18:40:54+00:00",1,1,0,0,0,0,20
 "AmazonRoute53FullAccess","v2",False,"2017-02-14T21:25:53+00:00",2,1,0,0,0,0,20
+"AmazonRoute53FullAccess","v5",True,"2025-05-15T18:07:06+00:00",2,1,0,0,0,0,27
 "ElasticLoadBalancingFullAccess","v3",False,"2018-12-12T18:49:21+00:00",1,2,0,1,0,0,24
 "ElasticLoadBalancingFullAccess","v7",False,"2022-11-29T01:45:49+00:00",2,2,0,1,0,0,41
 "ElasticLoadBalancingFullAccess","v8",True,"2024-10-24T22:21:39+00:00",2,2,0,1,0,0,46
