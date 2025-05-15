@@ -756,6 +756,7 @@
 "AWSCertificateManagerPrivateCAFullAccess","v1",True,"2018-10-23T16:54:50+00:00",1,1,0,4,0,0,13
 "AWSApplicationMigrationVCenterClientPolicy","v1",True,"2021-11-08T12:53:08+00:00",0,0,0,0,0,0,0
 "AWSElementalMediaConnectFullAccess","v1",True,"2025-02-12T20:07:07+00:00",1,1,0,0,0,0,14
+"AWSServiceRoleForAWSTransform","v1",True,"2025-05-15T13:37:07+00:00",0,0,0,0,0,0,0
 "AWSPartnerCentralFullAccess","v1",False,"2024-11-18T23:33:28+00:00",1,0,0,0,0,0,0
 "AWSPartnerCentralFullAccess","v2",True,"2024-12-10T18:21:17+00:00",1,1,0,0,0,0,7
 "AutoScalingReadOnlyAccess","v1",True,"2017-01-12T19:39:35+00:00",0,0,0,0,0,0,0
@@ -2473,6 +2474,7 @@
 "IAMReadOnlyAccess","v2",False,"2015-04-21T16:01:34+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryStagingAccountPolicy","v1",False,"2022-05-26T09:49:18+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryStagingAccountPolicy","v2",True,"2023-11-27T13:07:49+00:00",0,1,0,0,0,0,1
+"CloudTrailEventContext","v1",True,"2025-05-15T13:52:06+00:00",0,0,0,0,0,0,0
 "AWSCodeCommitReadOnly","v3",False,"2019-05-15T17:26:42+00:00",0,0,0,0,0,0,0
 "AWSCodeCommitReadOnly","v7",False,"2019-12-03T08:08:37+00:00",0,0,0,0,0,0,0
 "AWSCodeCommitReadOnly","v9",False,"2020-06-24T16:06:55+00:00",0,0,0,0,0,0,0

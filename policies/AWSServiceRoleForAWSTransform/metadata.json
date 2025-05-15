@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSServiceRoleForAWSTransform",
+    "PolicyId": "ANPAZKAPJZG4MY6VRFQPB",
+    "Arn": "arn:aws:iam::aws:policy/aws-service-role/AWSServiceRoleForAWSTransform",
+    "Path": "/aws-service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2025-05-15T13:37:07+00:00",
+    "UpdateDate": "2025-05-15T13:37:07+00:00"
+}
