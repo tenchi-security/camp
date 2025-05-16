@@ -3477,7 +3477,8 @@
 "AWSElasticDisasterRecoveryReadOnlyAccess","v1",False,"2021-11-17T10:50:05+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryReadOnlyAccess","v2",False,"2022-05-29T08:27:37+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryReadOnlyAccess","v5",True,"2024-07-29T19:39:26+00:00",0,0,0,0,0,0,0
-"AmazonEventBridgeSchedulerReadOnlyAccess","v1",True,"2022-11-10T18:50:12+00:00",0,0,0,0,0,0,0
+"AmazonEventBridgeSchedulerReadOnlyAccess","v1",False,"2022-11-10T18:50:12+00:00",0,0,0,0,0,0,0
+"AmazonEventBridgeSchedulerReadOnlyAccess","v2",True,"2025-05-16T16:22:06+00:00",0,0,0,0,0,0,0
 "AmazonCodeGuruProfilerReadOnlyAccess","v3",True,"2020-06-27T23:52:52+00:00",0,0,0,0,0,0,0
 "AmazonCodeGuruProfilerReadOnlyAccess","v1",False,"2019-12-03T10:30:15+00:00",0,0,0,0,0,0,0
 "AmazonCodeGuruProfilerReadOnlyAccess","v2",False,"2020-04-06T20:34:53+00:00",0,0,0,0,0,0,0
