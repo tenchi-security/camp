@@ -2800,7 +2800,8 @@
 "AWSVendorInsightsAssessorFullAccess","v1",False,"2022-07-26T15:05:40+00:00",0,0,0,0,0,0,0
 "AWSVendorInsightsAssessorFullAccess","v2",True,"2022-12-01T00:51:44+00:00",0,0,0,0,0,0,0
 "AmazonEventBridgeSchemasServiceRolePolicy","v1",True,"2019-11-27T01:10:40+00:00",0,0,0,0,0,0,0
-"AmazonEventBridgeSchedulerFullAccess","v1",True,"2022-11-10T18:37:25+00:00",1,0,0,0,0,0,0
+"AmazonEventBridgeSchedulerFullAccess","v1",False,"2022-11-10T18:37:25+00:00",1,0,0,0,0,0,0
+"AmazonEventBridgeSchedulerFullAccess","v2",True,"2025-05-16T19:22:05+00:00",1,1,0,0,0,0,7
 "SimpleWorkflowFullAccess","v1",True,"2015-02-06T18:41:04+00:00",1,1,0,0,0,0,30
 "CloudWatchLogsReadOnlyAccess","v3",False,"2017-08-14T22:22:16+00:00",0,0,0,0,0,0,0
 "CloudWatchLogsReadOnlyAccess","v4",False,"2019-01-14T19:32:45+00:00",0,0,0,0,0,0,0

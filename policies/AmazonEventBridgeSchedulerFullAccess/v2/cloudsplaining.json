@@ -1,0 +1,21 @@
+{
+    "ServiceWildcard": [
+        "scheduler"
+    ],
+    "ServicesAffected": [
+        "scheduler"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "scheduler:CreateSchedule",
+        "scheduler:CreateScheduleGroup",
+        "scheduler:DeleteSchedule",
+        "scheduler:DeleteScheduleGroup",
+        "scheduler:TagResource",
+        "scheduler:UntagResource",
+        "scheduler:UpdateSchedule"
+    ]
+}
