@@ -1648,7 +1648,8 @@
 "ComprehendReadOnly","v5",False,"2018-11-20T01:54:51+00:00",0,0,0,0,0,0,0
 "ComprehendReadOnly","v11",True,"2022-04-26T21:32:41+00:00",0,0,0,0,0,0,0
 "ComprehendReadOnly","v6",False,"2019-11-25T19:35:48+00:00",0,0,0,0,0,0,0
-"ROSAImageRegistryOperatorPolicy","v3",True,"2025-04-17T20:22:07+00:00",0,0,0,0,0,0,0
+"ROSAImageRegistryOperatorPolicy","v3",False,"2025-04-17T20:22:07+00:00",0,0,0,0,0,0,0
+"ROSAImageRegistryOperatorPolicy","v4",True,"2025-05-19T18:22:06+00:00",0,0,0,0,0,0,0
 "ROSAImageRegistryOperatorPolicy","v1",False,"2023-04-27T20:13:18+00:00",0,0,0,0,0,0,0
 "ROSAImageRegistryOperatorPolicy","v2",False,"2023-12-12T19:53:12+00:00",0,0,0,0,0,0,0
 "CloudWatchAgentAdminPolicy","v1",False,"2018-03-07T00:52:31+00:00",0,1,0,0,0,0,3
@@ -2145,6 +2146,7 @@
 "AWSMarketplaceDeploymentServiceRolePolicy","v1",True,"2023-11-15T23:34:33+00:00",0,0,0,0,0,0,0
 "AmazonSSMManagedEC2InstanceDefaultPolicy","v1",False,"2022-08-30T20:54:27+00:00",0,1,0,0,0,0,3
 "AmazonSSMManagedEC2InstanceDefaultPolicy","v2",True,"2024-07-16T18:14:07+00:00",0,1,0,0,0,0,4
+"AWSPrivateCAConnectorForKubernetesPolicy","v1",True,"2025-05-19T19:22:05+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerPartnerServiceCatalogProductsLambdaServiceRolePolicy","v1",True,"2023-08-01T15:05:51+00:00",0,0,0,0,0,0,0
 "KafkaServiceRolePolicy","v3",False,"2020-08-26T20:40:53+00:00",0,2,0,3,0,0,7
 "KafkaServiceRolePolicy","v4",True,"2023-04-28T00:39:35+00:00",0,2,0,3,0,0,7
