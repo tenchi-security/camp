@@ -1,0 +1,6 @@
+{
+    "VersionId": "v6",
+    "IsDefaultVersion": true,
+    "CreateDate": "2025-05-19T20:37:07+00:00",
+    "PolicyName": "EC2InstanceProfileForImageBuilder"
+}
