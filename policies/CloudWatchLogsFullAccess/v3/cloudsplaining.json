@@ -1,0 +1,52 @@
+{
+    "ServiceWildcard": [
+        "logs"
+    ],
+    "ServicesAffected": [
+        "logs"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "logs:AssociateKmsKey",
+        "logs:CreateDelivery",
+        "logs:CreateExportTask",
+        "logs:CreateLogAnomalyDetector",
+        "logs:CreateLogGroup",
+        "logs:CreateLogStream",
+        "logs:DeleteDataProtectionPolicy",
+        "logs:DeleteDelivery",
+        "logs:DeleteDeliveryDestination",
+        "logs:DeleteDeliveryDestinationPolicy",
+        "logs:DeleteDeliverySource",
+        "logs:DeleteDestination",
+        "logs:DeleteLogAnomalyDetector",
+        "logs:DeleteLogGroup",
+        "logs:DeleteLogStream",
+        "logs:DeleteMetricFilter",
+        "logs:DeleteRetentionPolicy",
+        "logs:DeleteSubscriptionFilter",
+        "logs:DeleteTransformer",
+        "logs:DisassociateKmsKey",
+        "logs:PutDataProtectionPolicy",
+        "logs:PutDeliveryDestination",
+        "logs:PutDeliveryDestinationPolicy",
+        "logs:PutDeliverySource",
+        "logs:PutDestination",
+        "logs:PutDestinationPolicy",
+        "logs:PutLogEvents",
+        "logs:PutMetricFilter",
+        "logs:PutRetentionPolicy",
+        "logs:PutSubscriptionFilter",
+        "logs:PutTransformer",
+        "logs:TagLogGroup",
+        "logs:TagResource",
+        "logs:UntagLogGroup",
+        "logs:UntagResource",
+        "logs:UpdateAnomaly",
+        "logs:UpdateDeliveryConfiguration",
+        "logs:UpdateLogAnomalyDetector"
+    ]
+}
