@@ -1395,6 +1395,7 @@
 "AmazonChimeVoiceConnectorServiceLinkedRolePolicy","v2",False,"2021-12-21T00:08:05+00:00",0,0,0,0,0,0,0
 "AmazonChimeVoiceConnectorServiceLinkedRolePolicy","v5",True,"2023-04-14T21:49:14+00:00",0,0,0,0,0,0,0
 "OAMFullAccess","v1",True,"2022-11-27T13:38:29+00:00",1,0,0,0,0,0,0
+"AmazonDynamoDBFullAccess_v2","v1",True,"2025-05-22T14:52:06+00:00",2,4,0,3,0,0,52
 "AWSNetworkFirewallServiceRolePolicy","v3",True,"2023-03-30T17:19:09+00:00",0,1,0,0,0,0,2
 "AWSNetworkFirewallServiceRolePolicy","v1",False,"2020-11-17T17:17:26+00:00",0,1,0,0,0,0,2
 "AWSNetworkFirewallServiceRolePolicy","v2",False,"2023-02-14T17:09:19+00:00",0,1,0,0,0,0,2
