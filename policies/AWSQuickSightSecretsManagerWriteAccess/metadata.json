@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSQuickSightSecretsManagerWriteAccess",
+    "PolicyId": "ANPAZKAPJZG4EURECPL4U",
+    "Arn": "arn:aws:iam::aws:policy/service-role/AWSQuickSightSecretsManagerWriteAccess",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2025-05-22T01:22:05+00:00",
+    "UpdateDate": "2025-05-22T01:22:05+00:00"
+}

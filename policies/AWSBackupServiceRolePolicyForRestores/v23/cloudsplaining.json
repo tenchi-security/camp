@@ -1,0 +1,36 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "dsql",
+        "ec2",
+        "kms",
+        "rds"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "kms:CreateGrant"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "dsql:CreateCluster",
+        "dsql:TagResource",
+        "ec2:RunInstances",
+        "kms:CreateGrant",
+        "kms:Decrypt",
+        "kms:Encrypt",
+        "kms:GenerateDataKey",
+        "kms:GenerateDataKeyWithoutPlaintext",
+        "kms:ReEncryptFrom",
+        "kms:ReEncryptTo",
+        "rds:AddTagsToResource",
+        "rds:CreateTenantDatabase",
+        "rds:DeleteDBCluster",
+        "rds:DeleteDBInstance",
+        "rds:DeleteTenantDatabase",
+        "rds:RestoreDBClusterFromSnapshot",
+        "rds:RestoreDBClusterToPointInTime",
+        "rds:RestoreDBInstanceFromDBSnapshot",
+        "rds:RestoreDBInstanceToPointInTime"
+    ]
+}
