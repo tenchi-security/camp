@@ -3382,8 +3382,9 @@
 "AmazonECSServiceRolePolicy","v6",False,"2019-06-24T23:16:41+00:00",0,4,0,2,0,0,12
 "AWSIoTSiteWiseMonitorServiceRolePolicy","v1",False,"2019-11-14T00:59:10+00:00",0,1,0,0,0,0,11
 "AWSIoTSiteWiseMonitorServiceRolePolicy","v2",True,"2019-12-13T22:19:25+00:00",0,1,0,0,0,0,11
+"AmazonDataZoneBedrockModelConsumptionPolicy","v3",True,"2025-05-28T18:52:08+00:00",0,0,0,0,0,0,0
 "AmazonDataZoneBedrockModelConsumptionPolicy","v1",False,"2024-11-12T22:15:08+00:00",0,0,0,0,0,0,0
-"AmazonDataZoneBedrockModelConsumptionPolicy","v2",True,"2025-05-13T21:37:06+00:00",0,0,0,0,0,0,0
+"AmazonDataZoneBedrockModelConsumptionPolicy","v2",False,"2025-05-13T21:37:06+00:00",0,0,0,0,0,0,0
 "AmazonPollyReadOnlyAccess","v1",False,"2016-11-30T18:59:24+00:00",0,0,0,0,0,0,0
 "AmazonPollyReadOnlyAccess","v2",True,"2018-07-17T16:41:07+00:00",0,0,0,0,0,0,0
 "AWSThinkboxDeadlineResourceTrackerAccessPolicy","v1",True,"2020-05-27T19:25:05+00:00",0,2,0,0,0,0,3
