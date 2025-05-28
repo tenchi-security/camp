@@ -1,6 +1,6 @@
 {
     "VersionId": "v24",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2025-05-12T20:07:07+00:00",
     "PolicyName": "ViewOnlyAccess"
 }
