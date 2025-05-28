@@ -1124,8 +1124,9 @@
 "AmazonSageMakerCanvasFullAccess","v5",False,"2023-07-24T23:16:37+00:00",0,4,0,0,0,1,3
 "AmazonSageMakerCanvasFullAccess","v11",True,"2024-08-16T04:35:23+00:00",0,4,0,0,0,1,3
 "AmazonSageMakerCanvasFullAccess","v6",False,"2023-08-29T19:06:22+00:00",0,4,0,0,0,1,3
+"AmazonECSInfrastructureRolePolicyForVolumes","v3",True,"2025-05-28T20:52:05+00:00",0,0,0,0,0,0,0
 "AmazonECSInfrastructureRolePolicyForVolumes","v1",False,"2024-01-10T22:56:41+00:00",0,0,0,0,0,0,0
-"AmazonECSInfrastructureRolePolicyForVolumes","v2",True,"2024-10-10T18:56:53+00:00",0,0,0,0,0,0,0
+"AmazonECSInfrastructureRolePolicyForVolumes","v2",False,"2024-10-10T18:56:53+00:00",0,0,0,0,0,0,0
 "AmazonOneEnterpriseFullAccess","v1",True,"2023-11-28T04:58:21+00:00",1,0,0,0,0,0,0
 "AmazonElasticMapReducePlacementGroupPolicy","v1",True,"2020-09-29T00:37:08+00:00",0,0,0,0,0,0,0
 "AWSAppFabricReadOnlyAccess","v1",True,"2023-06-27T19:52:02+00:00",0,0,0,0,0,0,0
