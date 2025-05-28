@@ -3250,8 +3250,9 @@
 "AWSSSMForSAPServiceLinkedRolePolicy","v4",False,"2023-10-31T23:39:16+00:00",0,0,0,0,0,0,0
 "AWSSSMForSAPServiceLinkedRolePolicy","v1",False,"2022-11-16T01:18:21+00:00",0,0,0,0,0,0,0
 "AWSSSMForSAPServiceLinkedRolePolicy","v2",False,"2023-01-06T02:41:02+00:00",0,0,0,0,0,0,0
-"AWSSSMForSAPServiceLinkedRolePolicy","v10",True,"2024-12-11T22:51:34+00:00",0,0,0,0,0,0,0
+"AWSSSMForSAPServiceLinkedRolePolicy","v10",False,"2024-12-11T22:51:34+00:00",0,0,0,0,0,0,0
 "AWSSSMForSAPServiceLinkedRolePolicy","v5",False,"2023-11-17T21:22:26+00:00",0,0,0,0,0,0,0
+"AWSSSMForSAPServiceLinkedRolePolicy","v11",True,"2025-05-27T23:22:07+00:00",0,0,0,0,0,0,0
 "AWSSSMForSAPServiceLinkedRolePolicy","v6",False,"2023-11-21T03:35:14+00:00",0,0,0,0,0,0,0
 "AWSIoTDeviceDefenderPublishFindingsToSNSMitigationAction","v1",True,"2019-08-07T17:04:37+00:00",0,1,0,0,0,0,1
 "AmazonDataZonePreviewConsoleFullAccess","v1",False,"2023-03-28T15:16:04+00:00",1,0,0,0,0,0,0
