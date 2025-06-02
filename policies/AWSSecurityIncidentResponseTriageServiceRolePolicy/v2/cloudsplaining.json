@@ -1,0 +1,21 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "events",
+        "guardduty",
+        "security-ir"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "events:DeleteRule",
+        "events:PutRule",
+        "events:PutTargets",
+        "events:RemoveTargets",
+        "guardduty:CreateFilter",
+        "security-ir:TagResource",
+        "security-ir:UpdateCase"
+    ]
+}
