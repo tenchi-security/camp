@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonSageMakerQuickSightVPCPolicy",
+    "PolicyId": "ANPAZKAPJZG4PZEYY6CJH",
+    "Arn": "arn:aws:iam::aws:policy/service-role/AmazonSageMakerQuickSightVPCPolicy",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2025-06-03T17:37:06+00:00",
+    "UpdateDate": "2025-06-03T17:37:06+00:00"
+}
