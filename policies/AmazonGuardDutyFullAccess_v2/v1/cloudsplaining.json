@@ -1,0 +1,36 @@
+{
+    "ServiceWildcard": [
+        "guardduty"
+    ],
+    "ServicesAffected": [
+        "guardduty",
+        "iam",
+        "organizations"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:CreateServiceLinkedRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "guardduty:CreateFilter",
+        "guardduty:DeleteDetector",
+        "guardduty:DeleteFilter",
+        "guardduty:DeleteIPSet",
+        "guardduty:DeleteMalwareProtectionPlan",
+        "guardduty:DeletePublishingDestination",
+        "guardduty:DeleteThreatIntelSet",
+        "guardduty:TagResource",
+        "guardduty:UntagResource",
+        "guardduty:UpdateDetector",
+        "guardduty:UpdateFilter",
+        "guardduty:UpdateIPSet",
+        "guardduty:UpdateMalwareProtectionPlan",
+        "guardduty:UpdatePublishingDestination",
+        "guardduty:UpdateThreatIntelSet",
+        "iam:CreateServiceLinkedRole",
+        "organizations:DeregisterDelegatedAdministrator",
+        "organizations:RegisterDelegatedAdministrator"
+    ]
+}

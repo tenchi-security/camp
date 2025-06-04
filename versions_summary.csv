@@ -3205,6 +3205,7 @@
 "AWSHealthImagingFullAccess","v1",True,"2023-07-25T23:39:40+00:00",1,1,0,1,0,0,1
 "AWSCloudHSMRole","v1",True,"2015-02-06T18:41:23+00:00",0,1,0,0,0,0,4
 "AmazonTextractServiceRole","v1",True,"2018-11-28T19:12:16+00:00",0,0,0,0,0,0,0
+"AmazonGuardDutyFullAccess_v2","v1",True,"2025-06-04T20:22:07+00:00",1,3,0,1,0,0,18
 "AmazonECSInfrastructureRolePolicyForVpcLattice","v1",True,"2024-11-15T20:02:55+00:00",0,0,0,0,0,0,0
 "AmazonRoute53DomainsReadOnlyAccess","v1",True,"2015-02-06T18:40:57+00:00",0,0,0,0,0,0,0
 "AWSThinkboxAssetServerPolicy","v1",True,"2020-05-27T19:18:53+00:00",0,0,0,0,0,0,0
