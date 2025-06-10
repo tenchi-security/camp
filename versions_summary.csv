@@ -1115,6 +1115,7 @@
 "AWSConfigUserAccess","v3",False,"2016-08-30T19:15:19+00:00",0,0,0,0,0,0,0
 "AWSLambdaKinesisExecutionRole","v2",True,"2018-11-19T20:09:24+00:00",0,1,0,0,0,0,3
 "AWSLambdaKinesisExecutionRole","v1",False,"2015-04-09T15:14:16+00:00",0,1,0,0,0,0,3
+"AWSNetworkFirewallFullAccess","v1",True,"2025-06-10T21:52:06+00:00",0,0,0,0,0,0,0
 "AmazonMacieSetupRole","v2",True,"2019-09-27T18:41:21+00:00",0,0,0,0,0,0,0
 "AmazonMacieSetupRole","v1",False,"2017-08-14T14:53:34+00:00",0,0,0,0,0,0,0
 "AWSElasticBeanstalkReadOnly","v1",True,"2021-01-22T19:02:37+00:00",0,0,0,0,0,0,0
@@ -3768,6 +3769,7 @@
 "AmazonWorkMailMessageFlowFullAccess","v1",True,"2021-02-11T11:08:35+00:00",1,0,0,0,0,0,0
 "AmazonSageMakerServiceCatalogProductsFirehoseServiceRolePolicy","v1",True,"2022-02-22T09:54:35+00:00",0,0,0,0,0,0,0
 "AWSQuickSetupPatchPolicyPermissionsBoundary","v1",True,"2024-06-26T09:46:54+00:00",0,3,0,1,0,0,6
+"AWSNetworkFirewallReadOnlyAccess","v1",True,"2025-06-10T21:52:05+00:00",0,0,0,0,0,0,0
 "IAMAccessAdvisorReadOnly","v1",True,"2019-06-21T19:33:45+00:00",0,0,0,0,0,0,0
 "AmazonTimestreamInfluxDBFullAccessWithoutMarketplaceAccess","v1",True,"2025-04-17T17:52:07+00:00",0,0,0,0,0,0,0
 "AmazonEKSFargatePodExecutionRolePolicy","v1",True,"2019-11-22T04:34:29+00:00",0,1,0,0,0,1,0
