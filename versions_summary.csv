@@ -3991,7 +3991,8 @@
 "AmazonElasticFileSystemServiceRolePolicy","v4",False,"2022-01-10T19:27:33+00:00",0,2,0,1,0,0,4
 "AmazonElasticFileSystemServiceRolePolicy","v1",False,"2019-11-05T16:52:41+00:00",0,1,0,0,0,0,3
 "AmazonElasticFileSystemServiceRolePolicy","v3",False,"2020-07-16T19:27:41+00:00",0,2,0,1,0,0,4
-"AWSQuickSetupDeploymentRolePolicy","v1",True,"2024-06-26T09:55:21+00:00",0,1,0,0,0,0,1
+"AWSQuickSetupDeploymentRolePolicy","v2",True,"2025-06-10T13:22:06+00:00",0,1,0,0,0,0,1
+"AWSQuickSetupDeploymentRolePolicy","v1",False,"2024-06-26T09:55:21+00:00",0,1,0,0,0,0,1
 "AmazonChimeUserManagement","v2",False,"2018-01-16T17:19:47+00:00",0,0,0,0,0,0,0
 "AmazonChimeUserManagement","v5",False,"2018-12-19T21:29:09+00:00",0,0,0,0,0,0,0
 "AmazonChimeUserManagement","v7",False,"2019-12-10T19:30:07+00:00",0,0,0,0,0,0,0
