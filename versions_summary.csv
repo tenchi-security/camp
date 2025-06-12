@@ -2490,7 +2490,8 @@
 "AWSStepFunctionsReadOnlyAccess","v4",True,"2024-04-26T18:53:54+00:00",0,0,0,0,0,0,0
 "AWSStepFunctionsReadOnlyAccess","v1",False,"2017-01-11T21:46:19+00:00",0,0,0,0,0,0,0
 "AmazonCloudWatchRUMReadOnlyAccess","v2",False,"2022-10-28T18:12:58+00:00",0,0,0,0,0,0,0
-"AmazonCloudWatchRUMReadOnlyAccess","v3",True,"2025-04-30T19:22:06+00:00",0,0,0,0,0,0,0
+"AmazonCloudWatchRUMReadOnlyAccess","v3",False,"2025-04-30T19:22:06+00:00",0,0,0,0,0,0,0
+"AmazonCloudWatchRUMReadOnlyAccess","v4",True,"2025-06-12T21:37:06+00:00",0,0,0,0,0,0,0
 "AmazonCloudWatchRUMReadOnlyAccess","v1",False,"2021-11-29T15:43:47+00:00",0,0,0,0,0,0,0
 "CloudHSMServiceRolePolicy","v1",True,"2017-11-06T19:12:46+00:00",0,0,0,0,0,0,0
 "AWSBugBustPlayerAccess","v1",True,"2021-06-24T07:15:00+00:00",0,0,0,0,0,0,0
