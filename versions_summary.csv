@@ -894,6 +894,7 @@
 "AWSCodeDeployRoleForLambdaLimited","v1",True,"2020-08-17T17:14:14+00:00",0,2,0,0,0,0,2
 "AmazonTextractServiceRole","v1",True,"2018-11-28T19:12:16+00:00",0,0,0,0,0,0,0
 "ElementalAppliancesSoftwareReadOnlyAccess","v1",True,"2020-04-01T22:31:09+00:00",0,0,0,0,0,0,0
+"AmazonWorkSpacesThinClientMonitoringServiceRolePolicy","v1",True,"2025-06-13T19:37:07+00:00",0,0,0,0,0,0,0
 "SageMakerStudioProjectUserRolePermissionsBoundary","v7",True,"2025-01-03T00:37:06+00:00",0,23,0,6,0,0,275
 "SageMakerStudioProjectUserRolePermissionsBoundary","v6",False,"2024-11-28T04:51:07+00:00",0,23,0,6,0,0,266
 "SageMakerStudioProjectUserRolePermissionsBoundary","v5",False,"2024-11-27T06:36:06+00:00",0,23,0,6,0,0,266
@@ -4437,6 +4438,7 @@
 "AWSDataExchangeFullAccess","v1",False,"2019-11-13T19:27:59+00:00",1,2,0,0,0,0,12
 "AmazonWorkDocsReadOnlyAccess","v1",True,"2020-01-08T23:49:59+00:00",0,0,0,0,0,0,0
 "AWSGreengrassFullAccess","v1",True,"2017-05-03T00:47:37+00:00",1,1,0,0,0,0,6
+"NetworkSecurityDirectorServiceLinkedRolePolicy","v1",True,"2025-06-13T20:07:06+00:00",0,0,0,0,0,0,0
 "AWSIoTLogging","v1",True,"2015-10-08T15:17:25+00:00",0,1,0,0,0,0,6
 "AmazonDevOpsGuruConsoleFullAccess","v2",True,"2022-08-25T18:18:53+00:00",1,1,0,0,0,0,2
 "AmazonDevOpsGuruConsoleFullAccess","v1",False,"2021-12-17T18:43:09+00:00",1,1,0,0,0,0,2
