@@ -286,7 +286,8 @@
 "SageMakerStudioProjectUserRolePolicy","v6",False,"2025-01-03T00:37:07+00:00",0,14,0,2,0,0,92
 "SageMakerStudioProjectUserRolePolicy","v9",False,"2025-04-08T17:52:05+00:00",0,16,0,6,0,0,102
 "SageMakerStudioProjectUserRolePolicy","v5",False,"2024-11-28T04:51:07+00:00",0,14,0,2,0,0,89
-"SageMakerStudioProjectUserRolePolicy","v12",True,"2025-06-12T23:07:07+00:00",0,16,0,6,0,0,98
+"SageMakerStudioProjectUserRolePolicy","v12",False,"2025-06-12T23:07:07+00:00",0,16,0,6,0,0,98
+"SageMakerStudioProjectUserRolePolicy","v13",True,"2025-06-13T22:22:06+00:00",0,16,0,6,0,0,98
 "SageMakerStudioProjectUserRolePolicy","v2",False,"2024-11-22T04:51:06+00:00",0,14,0,2,0,0,89
 "SageMakerStudioProjectUserRolePolicy","v3",False,"2024-11-24T20:21:06+00:00",0,14,0,2,0,0,89
 "SageMakerStudioProjectUserRolePolicy","v8",False,"2025-03-21T20:07:06+00:00",0,16,0,6,0,0,102
