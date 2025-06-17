@@ -1,0 +1,30 @@
+{
+    "ServiceWildcard": [
+        "timestream"
+    ],
+    "ServicesAffected": [
+        "timestream"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "timestream:CreateBatchLoadTask",
+        "timestream:CreateDatabase",
+        "timestream:CreateTable",
+        "timestream:DeleteDatabase",
+        "timestream:DeleteScheduledQuery",
+        "timestream:DeleteTable",
+        "timestream:ExecuteScheduledQuery",
+        "timestream:StartAwsBackupJob",
+        "timestream:StartAwsRestoreJob",
+        "timestream:TagResource",
+        "timestream:Unload",
+        "timestream:UntagResource",
+        "timestream:UpdateDatabase",
+        "timestream:UpdateScheduledQuery",
+        "timestream:UpdateTable",
+        "timestream:WriteRecords"
+    ]
+}
