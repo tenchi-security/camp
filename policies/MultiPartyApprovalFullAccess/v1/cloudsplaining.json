@@ -1,0 +1,19 @@
+{
+    "ServiceWildcard": [
+        "mpa"
+    ],
+    "ServicesAffected": [
+        "sso"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "sso:DeleteApplication",
+        "sso:PutApplicationAccessScope",
+        "sso:PutApplicationAssignmentConfiguration",
+        "sso:PutApplicationAuthenticationMethod",
+        "sso:PutApplicationGrant"
+    ]
+}

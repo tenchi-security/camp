@@ -1428,7 +1428,7 @@
 "AmazonSageMakerReadOnly","v10",False,"2021-06-10T20:19:55+00:00",0,0,0,0,0,0,0
 "CloudFormationStackSetsOrgMemberServiceRolePolicy","v1",True,"2019-12-09T23:52:37+00:00",0,0,0,0,0,0,0
 "AWSSupportServiceRolePolicy","v36",False,"2024-05-02T02:47:48+00:00",0,2,0,3,0,0,4
-"AWSSupportServiceRolePolicy","v39",True,"2024-12-12T00:06:26+00:00",0,2,0,3,0,0,4
+"AWSSupportServiceRolePolicy","v39",False,"2024-12-12T00:06:26+00:00",0,2,0,3,0,0,4
 "AWSSupportServiceRolePolicy","v7",False,"2019-10-17T21:49:13+00:00",0,3,0,0,1,1,6
 "AWSSupportServiceRolePolicy","v35",False,"2024-03-25T16:28:02+00:00",0,2,0,3,0,0,4
 "AWSSupportServiceRolePolicy","v26",False,"2022-10-04T21:30:02+00:00",0,1,0,0,0,0,1
@@ -1460,6 +1460,7 @@
 "AWSSupportServiceRolePolicy","v37",False,"2024-08-05T23:34:50+00:00",0,2,0,3,0,0,4
 "AWSSupportServiceRolePolicy","v1",False,"2018-04-19T18:04:44+00:00",0,3,0,0,1,1,6
 "AWSSupportServiceRolePolicy","v30",False,"2023-06-27T21:49:38+00:00",0,1,0,0,0,0,1
+"AWSSupportServiceRolePolicy","v40",True,"2025-06-18T21:37:06+00:00",0,2,0,3,0,0,4
 "AWSSupportServiceRolePolicy","v28",False,"2023-03-16T20:29:42+00:00",0,1,0,0,0,0,1
 "AWSSupportServiceRolePolicy","v11",False,"2020-07-09T23:29:32+00:00",0,2,0,0,0,0,5
 "AWSSupportServiceRolePolicy","v14",False,"2021-01-28T20:00:15+00:00",0,2,0,0,0,0,5
@@ -4124,6 +4125,7 @@
 "AWSDMSServerlessServiceRolePolicy","v2",False,"2025-01-17T08:37:06+00:00",0,1,0,0,0,0,1
 "AWSDMSServerlessServiceRolePolicy","v3",True,"2025-02-07T17:52:06+00:00",0,1,0,0,0,0,2
 "AWSDMSServerlessServiceRolePolicy","v1",False,"2023-05-18T20:28:05+00:00",0,1,0,0,0,0,1
+"MultiPartyApprovalFullAccess","v1",True,"2025-06-18T20:22:07+00:00",1,1,0,0,0,0,5
 "AmazonSageMakerFullAccess","v7",False,"2018-11-13T19:16:44+00:00",1,7,0,3,0,1,143
 "AmazonSageMakerFullAccess","v26",False,"2024-03-29T17:35:49+00:00",3,17,0,3,0,1,46
 "AmazonSageMakerFullAccess","v17",False,"2020-06-03T17:26:13+00:00",2,12,0,4,0,1,34
