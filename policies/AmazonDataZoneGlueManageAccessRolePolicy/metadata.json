@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4IFGMBEEIW",
     "Arn": "arn:aws:iam::aws:policy/service-role/AmazonDataZoneGlueManageAccessRolePolicy",
     "Path": "/service-role/",
-    "DefaultVersionId": "v9",
+    "DefaultVersionId": "v10",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2023-09-22T20:21:53+00:00",
-    "UpdateDate": "2025-04-08T21:22:06+00:00"
+    "UpdateDate": "2025-06-19T19:37:07+00:00"
 }

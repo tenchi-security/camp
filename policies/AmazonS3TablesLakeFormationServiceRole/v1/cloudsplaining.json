@@ -1,0 +1,24 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "kms",
+        "s3tables"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "kms:Decrypt",
+        "kms:GenerateDataKey",
+        "s3tables:CreateNamespace",
+        "s3tables:CreateTable",
+        "s3tables:CreateTableBucket",
+        "s3tables:DeleteNamespace",
+        "s3tables:DeleteTable",
+        "s3tables:DeleteTableBucket",
+        "s3tables:PutTableData",
+        "s3tables:RenameTable",
+        "s3tables:UpdateTableMetadataLocation"
+    ]
+}

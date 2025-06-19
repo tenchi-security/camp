@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonS3TablesLakeFormationServiceRole",
+    "PolicyId": "ANPAZKAPJZG4OK2X3BMV2",
+    "Arn": "arn:aws:iam::aws:policy/service-role/AmazonS3TablesLakeFormationServiceRole",
+    "Path": "/service-role/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2025-06-19T19:07:07+00:00",
+    "UpdateDate": "2025-06-19T19:07:07+00:00"
+}
