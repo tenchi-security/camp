@@ -441,7 +441,7 @@
 "AWS_ConfigRole","v25",False,"2023-06-09T00:15:20+00:00",0,2,0,2,0,0,7
 "AWS_ConfigRole","v18",False,"2022-10-18T17:17:17+00:00",0,2,0,2,0,0,7
 "AWS_ConfigRole","v34",False,"2025-01-16T16:22:05+00:00",0,2,0,2,0,0,11
-"AWS_ConfigRole","v37",True,"2025-05-23T17:22:07+00:00",0,2,0,2,0,0,11
+"AWS_ConfigRole","v37",False,"2025-05-23T17:22:07+00:00",0,2,0,2,0,0,11
 "AWS_ConfigRole","v1",False,"2020-09-15T20:30:30+00:00",0,1,0,0,0,0,5
 "AWS_ConfigRole","v30",False,"2024-02-22T21:19:24+00:00",0,2,0,2,0,0,11
 "AWS_ConfigRole","v28",False,"2023-11-17T21:09:11+00:00",0,2,0,2,0,0,11
@@ -449,6 +449,7 @@
 "AWS_ConfigRole","v14",False,"2022-07-15T01:37:13+00:00",0,2,0,1,0,0,6
 "AWS_ConfigRole","v15",False,"2022-08-19T22:05:27+00:00",0,2,0,1,0,0,6
 "AWS_ConfigRole","v10",False,"2022-02-10T18:35:11+00:00",0,1,0,0,0,0,5
+"AWS_ConfigRole","v38",True,"2025-06-20T17:22:07+00:00",0,2,0,2,0,0,11
 "ComprehendMedicalFullAccess","v1",True,"2018-11-27T17:55:52+00:00",1,0,0,0,0,0,0
 "AWSGrafanaWorkspacePermissionManagement","v2",False,"2021-09-21T20:30:06+00:00",0,0,0,0,0,0,0
 "AWSGrafanaWorkspacePermissionManagement","v3",False,"2022-12-20T20:27:55+00:00",0,0,0,0,0,0,0
@@ -1972,7 +1973,7 @@
 "AWSConfigServiceRolePolicy","v26",False,"2021-07-27T22:31:53+00:00",0,1,0,0,0,0,5
 "AWSConfigServiceRolePolicy","v31",False,"2022-04-06T21:41:38+00:00",0,1,0,0,0,0,5
 "AWSConfigServiceRolePolicy","v17",False,"2019-10-21T21:54:04+00:00",0,1,0,0,0,0,5
-"AWSConfigServiceRolePolicy","v58",True,"2025-05-23T17:52:07+00:00",0,2,0,2,0,0,11
+"AWSConfigServiceRolePolicy","v58",False,"2025-05-23T17:52:07+00:00",0,2,0,2,0,0,11
 "AWSConfigServiceRolePolicy","v23",False,"2021-04-01T22:19:18+00:00",0,1,0,0,0,0,5
 "AWSConfigServiceRolePolicy","v41",False,"2023-03-02T22:12:23+00:00",0,2,0,2,0,0,7
 "AWSConfigServiceRolePolicy","v6",False,"2018-12-20T22:09:35+00:00",0,1,0,0,0,0,5
@@ -1987,6 +1988,7 @@
 "AWSConfigServiceRolePolicy","v16",False,"2019-09-17T17:40:10+00:00",0,1,0,0,0,0,5
 "AWSConfigServiceRolePolicy","v47",False,"2023-10-03T21:41:17+00:00",0,2,0,2,0,0,11
 "AWSConfigServiceRolePolicy","v2",False,"2018-07-31T19:20:09+00:00",0,1,0,0,0,0,5
+"AWSConfigServiceRolePolicy","v59",True,"2025-06-20T17:22:07+00:00",0,2,0,2,0,0,11
 "AWSConfigServiceRolePolicy","v3",False,"2018-08-15T23:03:55+00:00",0,1,0,0,0,0,5
 "AWSConfigServiceRolePolicy","v19",False,"2020-05-15T18:39:10+00:00",0,1,0,0,0,0,5
 "AWSConfigServiceRolePolicy","v22",False,"2021-01-29T19:19:53+00:00",0,1,0,0,0,0,5
