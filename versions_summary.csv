@@ -600,7 +600,8 @@
 "AmazonPersonalizeFullAccess","v2",True,"2019-05-30T23:46:59+00:00",1,2,0,1,0,0,22
 "AmazonPersonalizeFullAccess","v1",False,"2018-12-04T22:24:33+00:00",1,2,0,1,0,0,22
 "AWSCodeArtifactReadOnlyAccess","v1",True,"2020-06-25T21:23:52+00:00",0,0,0,0,0,0,0
-"AmazonEKSComputePolicy","v2",True,"2024-11-07T21:21:18+00:00",0,2,0,1,0,0,5
+"AmazonEKSComputePolicy","v2",False,"2024-11-07T21:21:18+00:00",0,2,0,1,0,0,5
+"AmazonEKSComputePolicy","v3",True,"2025-06-20T21:07:07+00:00",0,2,0,1,0,0,5
 "AmazonEKSComputePolicy","v1",False,"2024-11-01T21:46:52+00:00",0,2,0,1,0,0,5
 "AmazonKendraReadOnlyAccess","v2",True,"2021-05-27T17:01:20+00:00",0,0,0,0,0,0,0
 "AmazonKendraReadOnlyAccess","v1",False,"2019-12-03T16:13:45+00:00",0,0,0,0,0,0,0
@@ -1185,11 +1186,12 @@
 "AWSSSOServiceRolePolicy","v14",False,"2022-05-03T16:12:15+00:00",0,1,0,0,0,0,1
 "AWSSSOServiceRolePolicy","v15",False,"2022-05-12T21:14:40+00:00",0,1,0,0,0,0,1
 "AWSSSOServiceRolePolicy","v10",False,"2020-07-24T22:05:44+00:00",0,1,0,0,0,0,1
-"AmazonEKSServiceRolePolicy","v7",True,"2025-04-14T20:52:07+00:00",0,3,0,1,0,0,18
+"AmazonEKSServiceRolePolicy","v7",False,"2025-04-14T20:52:07+00:00",0,3,0,1,0,0,18
 "AmazonEKSServiceRolePolicy","v6",False,"2025-02-26T21:37:06+00:00",0,3,0,1,0,0,18
 "AmazonEKSServiceRolePolicy","v5",False,"2024-11-16T17:42:18+00:00",0,3,0,1,0,0,18
 "AmazonEKSServiceRolePolicy","v2",False,"2020-05-27T19:30:19+00:00",0,1,0,1,0,0,6
 "AmazonEKSServiceRolePolicy","v3",False,"2024-10-21T21:23:26+00:00",0,1,0,1,0,0,6
+"AmazonEKSServiceRolePolicy","v8",True,"2025-06-20T21:07:07+00:00",0,3,0,1,0,0,18
 "AmazonEKSServiceRolePolicy","v4",False,"2024-10-29T22:39:46+00:00",0,1,0,1,0,0,6
 "AmazonEKSServiceRolePolicy","v1",False,"2020-02-21T20:10:47+00:00",0,1,0,1,0,0,5
 "AmazonElasticMapReducePlacementGroupPolicy","v1",True,"2020-09-29T00:37:08+00:00",0,0,0,0,0,0,0
