@@ -1882,6 +1882,7 @@
 "AWSThinkboxDeadlineSpotEventPluginWorkerPolicy","v2",True,"2020-12-07T23:31:31+00:00",0,0,0,0,0,0,0
 "AWSThinkboxDeadlineSpotEventPluginWorkerPolicy","v1",False,"2020-05-27T19:35:00+00:00",0,0,0,0,0,0,0
 "AWSQuickSetupDevOpsGuruPermissionsBoundary","v1",True,"2024-06-26T09:44:42+00:00",0,0,0,0,0,0,0
+"KeyspacesCDCServiceRolePolicy","v1",True,"2025-06-21T00:22:07+00:00",0,0,0,0,0,0,0
 "AmazonRDSPerformanceInsightsFullAccess","v2",True,"2023-10-23T21:14:27+00:00",0,0,0,0,0,0,0
 "AmazonRDSPerformanceInsightsFullAccess","v1",False,"2023-08-15T23:41:34+00:00",0,0,0,0,0,0,0
 "AWSCodeDeployRoleForCloudFormation","v1",True,"2020-05-19T17:12:52+00:00",0,0,0,0,0,0,0
