@@ -80,7 +80,8 @@
 "APIGatewayServiceRolePolicy","v8",False,"2020-02-25T20:24:49+00:00",0,2,0,1,0,0,8
 "APIGatewayServiceRolePolicy","v4",False,"2019-05-20T18:22:18+00:00",0,1,0,0,0,0,3
 "APIGatewayServiceRolePolicy","v1",False,"2017-10-20T17:23:10+00:00",0,1,0,0,0,0,2
-"AmazonLexReplicationPolicy","v2",True,"2024-03-08T17:11:32+00:00",0,1,0,1,0,0,1
+"AmazonLexReplicationPolicy","v2",False,"2024-03-08T17:11:32+00:00",0,1,0,1,0,0,1
+"AmazonLexReplicationPolicy","v3",True,"2025-06-24T21:52:07+00:00",0,1,0,1,0,0,1
 "AmazonLexReplicationPolicy","v1",False,"2024-01-31T23:29:42+00:00",0,1,0,1,0,0,1
 "AmazonBraketFullAccess","v7",False,"2025-04-01T22:52:06+00:00",1,2,0,0,0,1,4
 "AmazonBraketFullAccess","v6",False,"2023-04-19T16:25:29+00:00",1,2,0,0,0,1,4
@@ -1332,12 +1333,13 @@
 "AmazonECSServiceRolePolicy","v6",False,"2019-06-24T23:16:41+00:00",0,4,0,2,0,0,12
 "AmazonECSServiceRolePolicy","v9",False,"2022-10-14T18:10:03+00:00",0,5,0,2,0,0,21
 "AmazonECSServiceRolePolicy","v5",False,"2018-10-18T23:18:18+00:00",0,4,0,2,0,0,12
+"AmazonECSServiceRolePolicy","v12",True,"2025-06-24T21:22:07+00:00",0,6,0,2,0,0,28
 "AmazonECSServiceRolePolicy","v2",False,"2018-03-01T18:01:12+00:00",0,3,0,2,0,0,9
 "AmazonECSServiceRolePolicy","v3",False,"2018-03-07T18:29:40+00:00",0,4,0,2,0,0,12
 "AmazonECSServiceRolePolicy","v8",False,"2021-01-13T20:04:13+00:00",0,5,0,2,0,0,16
 "AmazonECSServiceRolePolicy","v4",False,"2018-03-22T01:20:59+00:00",0,4,0,2,0,0,12
 "AmazonECSServiceRolePolicy","v1",False,"2017-10-14T01:18:58+00:00",0,2,0,2,0,0,7
-"AmazonECSServiceRolePolicy","v11",True,"2023-12-04T19:32:25+00:00",0,6,0,2,0,0,27
+"AmazonECSServiceRolePolicy","v11",False,"2023-12-04T19:32:25+00:00",0,6,0,2,0,0,27
 "AmazonECSServiceRolePolicy","v10",False,"2023-10-10T16:57:39+00:00",0,5,0,2,0,0,21
 "AWSElasticBeanstalkRoleSNS","v1",True,"2020-06-05T21:46:22+00:00",0,1,0,0,0,0,2
 "IAMAccessAnalyzerReadOnlyAccess","v2",False,"2021-03-16T20:37:30+00:00",0,0,0,0,0,0,0
