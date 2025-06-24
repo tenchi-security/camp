@@ -1,0 +1,22 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "aiops",
+        "ssm"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "aiops:CreateInvestigation",
+        "aiops:CreateInvestigationEvent",
+        "aiops:CreateInvestigationResource",
+        "aiops:DeleteInvestigation",
+        "aiops:UpdateInvestigation",
+        "aiops:UpdateInvestigationEvent",
+        "ssm:AddTagsToResource",
+        "ssm:DeleteOpsItem",
+        "ssm:UpdateOpsItem"
+    ]
+}

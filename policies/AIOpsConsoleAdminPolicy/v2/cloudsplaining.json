@@ -1,0 +1,37 @@
+{
+    "ServiceWildcard": [
+        "aiops"
+    ],
+    "ServicesAffected": [
+        "aiops",
+        "iam",
+        "sso"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:PassRole",
+        "iam:PassRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "aiops:CreateInvestigation",
+        "aiops:CreateInvestigationEvent",
+        "aiops:CreateInvestigationResource",
+        "aiops:DeleteInvestigation",
+        "aiops:DeleteInvestigationGroup",
+        "aiops:DeleteInvestigationGroupPolicy",
+        "aiops:PutInvestigationGroupPolicy",
+        "aiops:TagResource",
+        "aiops:UntagResource",
+        "aiops:UpdateInvestigation",
+        "aiops:UpdateInvestigationEvent",
+        "aiops:UpdateInvestigationGroup",
+        "iam:PassRole",
+        "sso:DeleteApplication",
+        "sso:PutApplicationAccessScope",
+        "sso:PutApplicationAssignmentConfiguration",
+        "sso:PutApplicationAuthenticationMethod",
+        "sso:PutApplicationGrant"
+    ]
+}

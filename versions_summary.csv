@@ -864,7 +864,8 @@
 "ViewOnlyAccess","v15",False,"2022-05-06T21:01:44+00:00",0,0,0,0,0,0,0
 "ViewOnlyAccess","v10",False,"2020-08-18T22:51:43+00:00",0,0,0,0,0,0,0
 "AmazonHealthLakeFullAccess","v1",True,"2021-02-17T01:07:05+00:00",1,2,0,1,0,0,7
-"AIOpsConsoleAdminPolicy","v1",True,"2024-12-02T23:51:06+00:00",1,2,0,2,0,0,6
+"AIOpsConsoleAdminPolicy","v2",True,"2025-06-24T00:52:06+00:00",1,3,0,2,0,0,18
+"AIOpsConsoleAdminPolicy","v1",False,"2024-12-02T23:51:06+00:00",1,2,0,2,0,0,6
 "AWSImageBuilderReadOnlyAccess","v1",True,"2019-12-19T22:29:23+00:00",0,0,0,0,0,0,0
 "AmazonEMRServerlessServiceRolePolicy","v2",False,"2023-04-20T15:47:33+00:00",0,1,0,0,0,0,2
 "AmazonEMRServerlessServiceRolePolicy","v3",True,"2024-01-25T18:21:43+00:00",0,1,0,0,0,0,2
@@ -1923,7 +1924,8 @@
 "AWSCertificateManagerPrivateCAUser","v1",False,"2018-10-23T16:53:33+00:00",0,0,0,0,0,0,0
 "AmazonESCognitoAccess","v2",True,"2021-12-20T14:04:44+00:00",0,3,0,2,0,0,7
 "AmazonESCognitoAccess","v1",False,"2018-02-28T22:29:18+00:00",0,3,0,3,0,0,6
-"AIOpsOperatorAccess","v1",True,"2024-12-02T23:51:07+00:00",0,1,0,0,0,0,3
+"AIOpsOperatorAccess","v2",True,"2025-06-24T00:52:06+00:00",0,2,0,0,0,0,9
+"AIOpsOperatorAccess","v1",False,"2024-12-02T23:51:07+00:00",0,1,0,0,0,0,3
 "AmazonAppFlowReadOnlyAccess","v2",True,"2022-02-28T20:42:58+00:00",0,0,0,0,0,0,0
 "AmazonAppFlowReadOnlyAccess","v1",False,"2020-06-02T23:26:51+00:00",0,0,0,0,0,0,0
 "AWSMigrationHubFullAccess","v2",False,"2017-08-14T14:09:27+00:00",2,1,0,0,0,0,9
