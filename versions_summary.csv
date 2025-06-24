@@ -3825,7 +3825,8 @@
 "AmazonKeyspacesReadOnlyAccess","v1",False,"2020-04-23T17:07:14+00:00",0,0,0,0,0,0,0
 "CertificateManagerServiceRolePolicy","v1",True,"2020-06-25T17:56:49+00:00",0,1,0,0,0,0,1
 "AWSIoTFleetwiseServiceRolePolicy","v1",True,"2022-09-21T23:27:48+00:00",0,0,0,0,0,0,0
-"AIOpsReadOnlyAccess","v1",True,"2024-12-02T23:51:07+00:00",0,0,0,0,0,0,0
+"AIOpsReadOnlyAccess","v2",True,"2025-06-24T00:22:07+00:00",0,0,0,0,0,0,0
+"AIOpsReadOnlyAccess","v1",False,"2024-12-02T23:51:07+00:00",0,0,0,0,0,0,0
 "DeclarativePoliciesEC2Report","v1",True,"2024-11-30T13:21:06+00:00",0,0,0,0,0,0,0
 "AWSElementalMediaConnectReadOnlyAccess","v1",True,"2025-02-12T20:07:07+00:00",0,0,0,0,0,0,0
 "AWSThinkboxDeadlineResourceTrackerAccessPolicy","v1",True,"2020-05-27T19:25:05+00:00",0,2,0,0,0,0,3
