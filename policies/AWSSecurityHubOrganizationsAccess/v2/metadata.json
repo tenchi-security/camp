@@ -1,6 +1,6 @@
 {
     "VersionId": "v2",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2023-11-16T21:13:44+00:00",
     "PolicyName": "AWSSecurityHubOrganizationsAccess"
 }

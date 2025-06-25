@@ -1909,7 +1909,8 @@
 "AWSArtifactReportsReadOnlyAccess","v2",True,"2025-03-24T18:37:06+00:00",0,0,0,0,0,0,0
 "AWSArtifactReportsReadOnlyAccess","v1",False,"2024-01-02T22:42:58+00:00",0,0,0,0,0,0,0
 "AmazonDevOpsGuruOrganizationsAccess","v1",True,"2021-11-15T23:50:52+00:00",0,1,0,0,0,0,2
-"AWSSecurityHubOrganizationsAccess","v2",True,"2023-11-16T21:13:44+00:00",0,0,0,0,0,0,0
+"AWSSecurityHubOrganizationsAccess","v2",False,"2023-11-16T21:13:44+00:00",0,0,0,0,0,0,0
+"AWSSecurityHubOrganizationsAccess","v3",True,"2025-06-24T22:22:08+00:00",0,0,0,0,0,0,0
 "AWSSecurityHubOrganizationsAccess","v1",False,"2021-03-15T20:53:03+00:00",0,0,0,0,0,0,0
 "AWSCodePipelineCustomActionAccess","v1",True,"2015-07-09T17:02:54+00:00",0,1,0,0,0,1,1
 "TranslateFullAccess","v2",True,"2020-01-08T21:22:27+00:00",1,0,0,0,0,0,0
@@ -2743,7 +2744,8 @@
 "AWSElasticDisasterRecoveryFailbackInstallationPolicy","v2",False,"2022-06-27T09:13:40+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryFailbackInstallationPolicy","v3",True,"2023-11-27T13:43:08+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryFailbackInstallationPolicy","v1",False,"2021-11-17T11:02:03+00:00",0,0,0,0,0,0,0
-"AmazonODBServiceRolePolicy","v1",True,"2024-11-13T18:21:41+00:00",0,0,0,0,0,0,0
+"AmazonODBServiceRolePolicy","v2",True,"2025-06-24T23:22:06+00:00",0,0,0,0,0,0,0
+"AmazonODBServiceRolePolicy","v1",False,"2024-11-13T18:21:41+00:00",0,0,0,0,0,0,0
 "AmazonRedshiftServiceLinkedRolePolicy","v7",False,"2022-06-01T00:34:09+00:00",0,1,0,0,0,0,8
 "AmazonRedshiftServiceLinkedRolePolicy","v6",False,"2022-05-25T05:09:53+00:00",0,1,0,0,0,0,8
 "AmazonRedshiftServiceLinkedRolePolicy","v9",False,"2023-04-05T20:32:17+00:00",0,1,0,0,0,0,8
