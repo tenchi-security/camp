@@ -1,6 +1,6 @@
 {
     "VersionId": "v3",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2025-03-18T15:07:07+00:00",
     "PolicyName": "AWSFaultInjectionSimulatorSSMAccess"
 }

@@ -4277,7 +4277,8 @@
 "SplitCostAllocationDataServiceRolePolicy","v1",True,"2024-04-16T16:05:16+00:00",0,0,0,0,0,0,0
 "AWSSecurityIncidentResponseCaseFullAccess","v1",True,"2024-12-01T23:21:05+00:00",0,0,0,0,0,0,0
 "AWSFaultInjectionSimulatorSSMAccess","v2",False,"2023-06-02T22:55:18+00:00",0,0,0,0,0,0,0
-"AWSFaultInjectionSimulatorSSMAccess","v3",True,"2025-03-18T15:07:07+00:00",0,0,0,0,0,0,0
+"AWSFaultInjectionSimulatorSSMAccess","v3",False,"2025-03-18T15:07:07+00:00",0,0,0,0,0,0,0
+"AWSFaultInjectionSimulatorSSMAccess","v4",True,"2025-06-25T14:22:06+00:00",0,0,0,0,0,0,0
 "AWSFaultInjectionSimulatorSSMAccess","v1",False,"2022-10-26T15:33:44+00:00",0,0,0,0,0,0,0
 "AWSLambda_ReadOnlyAccess","v2",False,"2023-07-27T17:32:05+00:00",0,0,0,0,0,0,0
 "AWSLambda_ReadOnlyAccess","v3",True,"2025-03-17T21:07:06+00:00",0,0,0,0,0,0,0
