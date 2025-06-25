@@ -1512,7 +1512,8 @@
 "AmazonFSxConsoleFullAccess","v6",False,"2022-09-22T14:08:01+00:00",1,2,0,3,0,0,32
 "AmazonFSxConsoleFullAccess","v9",False,"2023-11-27T06:06:43+00:00",0,2,0,3,0,0,35
 "AmazonFSxConsoleFullAccess","v5",False,"2021-08-26T13:18:46+00:00",1,2,0,3,0,0,17
-"AmazonFSxConsoleFullAccess","v12",True,"2025-02-07T19:22:06+00:00",0,2,0,6,0,0,39
+"AmazonFSxConsoleFullAccess","v12",False,"2025-02-07T19:22:06+00:00",0,2,0,6,0,0,39
+"AmazonFSxConsoleFullAccess","v13",True,"2025-06-25T17:52:08+00:00",0,2,0,6,0,0,39
 "AmazonFSxConsoleFullAccess","v2",False,"2019-09-10T13:11:13+00:00",1,2,0,2,0,0,13
 "AmazonFSxConsoleFullAccess","v3",False,"2020-01-21T16:42:58+00:00",1,2,0,2,0,0,13
 "AmazonFSxConsoleFullAccess","v8",False,"2023-11-27T04:16:50+00:00",0,2,0,3,0,0,35
@@ -3464,7 +3465,8 @@
 "AmazonFSxFullAccess","v8",False,"2023-11-27T05:55:28+00:00",0,2,0,3,0,0,35
 "AmazonFSxFullAccess","v4",False,"2022-09-29T18:27:51+00:00",1,2,0,3,0,0,32
 "AmazonFSxFullAccess","v1",False,"2018-11-28T16:34:43+00:00",1,2,0,2,0,0,13
-"AmazonFSxFullAccess","v10",True,"2024-01-10T20:16:00+00:00",0,2,0,3,0,0,35
+"AmazonFSxFullAccess","v11",True,"2025-06-25T17:52:07+00:00",0,2,0,6,0,0,39
+"AmazonFSxFullAccess","v10",False,"2024-01-10T20:16:00+00:00",0,2,0,3,0,0,35
 "ElementalActivationsGenerateLicenses","v1",True,"2020-08-28T18:28:58+00:00",0,0,0,0,0,0,0
 "AWSSystemsManagerChangeManagementServicePolicy","v1",True,"2020-12-07T22:21:57+00:00",0,2,0,1,0,0,4
 "AWSGlueServiceNotebookRole","v2",False,"2017-08-17T18:08:29+00:00",0,1,1,0,0,0,19
