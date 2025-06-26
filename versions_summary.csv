@@ -1281,7 +1281,8 @@
 "AWSElasticBeanstalkManagedUpdatesCustomerRolePolicy","v3",False,"2021-06-16T22:40:31+00:00",2,2,0,0,0,0,42
 "AWSElasticBeanstalkManagedUpdatesCustomerRolePolicy","v4",False,"2022-12-22T01:07:07+00:00",2,2,0,0,0,0,43
 "AWSElasticBeanstalkManagedUpdatesCustomerRolePolicy","v1",False,"2021-03-03T22:18:00+00:00",2,2,0,0,0,0,42
-"AmazonEKSLocalOutpostServiceRolePolicy","v2",True,"2022-10-24T16:24:51+00:00",0,3,0,1,0,0,8
+"AmazonEKSLocalOutpostServiceRolePolicy","v2",False,"2022-10-24T16:24:51+00:00",0,3,0,1,0,0,8
+"AmazonEKSLocalOutpostServiceRolePolicy","v3",True,"2025-06-26T18:22:07+00:00",0,3,0,1,0,0,8
 "AmazonEKSLocalOutpostServiceRolePolicy","v1",False,"2022-08-23T21:53:02+00:00",0,3,0,1,0,0,8
 "AWSMediaLiveAnywhereServiceRolePolicy","v1",True,"2025-04-14T22:07:06+00:00",0,0,0,0,0,0,0
 "AWSResourceExplorerServiceRolePolicy","v7",False,"2023-12-20T13:58:52+00:00",0,0,0,0,0,0,0

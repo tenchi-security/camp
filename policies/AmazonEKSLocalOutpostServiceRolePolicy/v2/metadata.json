@@ -1,6 +1,6 @@
 {
     "VersionId": "v2",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2022-10-24T16:24:51+00:00",
     "PolicyName": "AmazonEKSLocalOutpostServiceRolePolicy"
 }
