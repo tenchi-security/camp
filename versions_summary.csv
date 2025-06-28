@@ -3100,7 +3100,8 @@
 "AmazonVPCReachabilityAnalyzerFullAccessPolicy","v1",False,"2023-06-14T20:12:17+00:00",0,1,0,0,0,0,4
 "Ec2ImageBuilderCrossAccountDistributionAccess","v1",True,"2020-09-30T19:22:54+00:00",0,1,0,0,0,0,2
 "AmazonEC2ContainerRegistryPullOnly","v1",True,"2024-10-04T16:58:49+00:00",0,1,0,0,0,1,0
-"AmazonKeyspacesReadOnlyAccess_v2","v1",True,"2023-09-12T17:01:45+00:00",0,0,0,0,0,0,0
+"AmazonKeyspacesReadOnlyAccess_v2","v2",True,"2025-06-27T22:22:06+00:00",0,0,0,0,0,0,0
+"AmazonKeyspacesReadOnlyAccess_v2","v1",False,"2023-09-12T17:01:45+00:00",0,0,0,0,0,0,0
 "AWSDeviceFarmTestGridServiceRolePolicy","v1",True,"2021-05-26T22:01:35+00:00",0,0,0,0,0,0,0
 "ResourceGroupsandTagEditorFullAccess","v6",True,"2023-08-10T13:29:19+00:00",1,1,0,0,0,0,9
 "ResourceGroupsandTagEditorFullAccess","v5",False,"2019-10-02T23:57:57+00:00",1,1,0,0,0,0,8
