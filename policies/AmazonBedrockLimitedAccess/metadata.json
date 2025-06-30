@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonBedrockLimitedAccess",
+    "PolicyId": "ANPAZKAPJZG4ITL2W5IGN",
+    "Arn": "arn:aws:iam::aws:policy/AmazonBedrockLimitedAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2025-06-29T22:22:06+00:00",
+    "UpdateDate": "2025-06-29T22:22:06+00:00"
+}

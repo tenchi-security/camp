@@ -1,0 +1,16 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "bedrock"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "bedrock:DeleteMarketplaceModelEndpoint",
+        "bedrock:DeregisterMarketplaceModelEndpoint",
+        "bedrock:RegisterMarketplaceModelEndpoint",
+        "bedrock:UpdateMarketplaceModelEndpoint"
+    ]
+}

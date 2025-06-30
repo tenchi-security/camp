@@ -1,0 +1,32 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "bedrock"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "bedrock:BatchDeleteEvaluationJob",
+        "bedrock:CreateEvaluationJob",
+        "bedrock:CreateGuardrailVersion",
+        "bedrock:CreateInferenceProfile",
+        "bedrock:CreateModelCopyJob",
+        "bedrock:CreateModelCustomizationJob",
+        "bedrock:CreateModelInvocationJob",
+        "bedrock:CreateProvisionedModelThroughput",
+        "bedrock:DeleteCustomModel",
+        "bedrock:DeleteGuardrail",
+        "bedrock:DeleteImportedModel",
+        "bedrock:DeleteInferenceProfile",
+        "bedrock:DeleteProvisionedModelThroughput",
+        "bedrock:StopEvaluationJob",
+        "bedrock:StopModelCustomizationJob",
+        "bedrock:StopModelInvocationJob",
+        "bedrock:TagResource",
+        "bedrock:UntagResource",
+        "bedrock:UpdateGuardrail",
+        "bedrock:UpdateProvisionedModelThroughput"
+    ]
+}

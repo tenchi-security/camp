@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonBedrockMarketplaceAccess",
+    "PolicyId": "ANPAZKAPJZG4DDKNABK3M",
+    "Arn": "arn:aws:iam::aws:policy/AmazonBedrockMarketplaceAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2025-06-29T22:22:07+00:00",
+    "UpdateDate": "2025-06-29T22:22:07+00:00"
+}
