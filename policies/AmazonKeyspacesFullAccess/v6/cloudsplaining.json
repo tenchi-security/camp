@@ -1,0 +1,39 @@
+{
+    "ServiceWildcard": [
+        "cassandra"
+    ],
+    "ServicesAffected": [
+        "application-autoscaling",
+        "cassandra",
+        "cloudwatch"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "application-autoscaling:DeleteScalingPolicy",
+        "application-autoscaling:DeleteScheduledAction",
+        "application-autoscaling:DeregisterScalableTarget",
+        "application-autoscaling:PutScalingPolicy",
+        "application-autoscaling:PutScheduledAction",
+        "application-autoscaling:RegisterScalableTarget",
+        "cassandra:Alter",
+        "cassandra:AlterMultiRegionResource",
+        "cassandra:Create",
+        "cassandra:CreateMultiRegionResource",
+        "cassandra:Drop",
+        "cassandra:DropMultiRegionResource",
+        "cassandra:Modify",
+        "cassandra:ModifyMultiRegionResource",
+        "cassandra:Restore",
+        "cassandra:RestoreMultiRegionTable",
+        "cassandra:TagMultiRegionResource",
+        "cassandra:TagResource",
+        "cassandra:UnTagMultiRegionResource",
+        "cassandra:UntagResource",
+        "cassandra:UpdatePartitioner",
+        "cloudwatch:DeleteAlarms",
+        "cloudwatch:PutMetricAlarm"
+    ]
+}

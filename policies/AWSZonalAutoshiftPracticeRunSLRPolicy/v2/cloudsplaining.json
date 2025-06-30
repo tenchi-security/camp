@@ -1,0 +1,15 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "arc-zonal-shift"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "arc-zonal-shift:CancelZonalShift",
+        "arc-zonal-shift:StartZonalShift",
+        "arc-zonal-shift:UpdateZonalShift"
+    ]
+}

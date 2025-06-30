@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4HMS72N6JG",
     "Arn": "arn:aws:iam::aws:policy/AmazonKeyspacesFullAccess",
     "Path": "/",
-    "DefaultVersionId": "v5",
+    "DefaultVersionId": "v6",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2020-04-23T17:06:37+00:00",
-    "UpdateDate": "2023-10-03T19:12:30+00:00"
+    "UpdateDate": "2025-06-30T17:37:06+00:00"
 }
