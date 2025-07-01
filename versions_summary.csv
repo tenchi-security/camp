@@ -2416,6 +2416,7 @@
 "AmazonEventBridgeSchedulerReadOnlyAccess","v2",True,"2025-05-16T16:22:06+00:00",0,0,0,0,0,0,0
 "AmazonEventBridgeSchedulerReadOnlyAccess","v1",False,"2022-11-10T18:50:12+00:00",0,0,0,0,0,0,0
 "AmazonConnectServiceLinkedRolePolicy","v7",False,"2022-06-27T19:35:06+00:00",1,1,0,0,0,2,87
+"AmazonConnectServiceLinkedRolePolicy","v26",True,"2025-07-01T00:22:06+00:00",1,2,0,0,0,1,208
 "AmazonConnectServiceLinkedRolePolicy","v17",False,"2024-09-11T20:44:09+00:00",1,2,0,0,0,1,171
 "AmazonConnectServiceLinkedRolePolicy","v23",False,"2025-01-16T21:52:06+00:00",1,2,0,0,0,1,207
 "AmazonConnectServiceLinkedRolePolicy","v6",False,"2021-12-09T22:12:26+00:00",1,1,0,0,0,2,71
@@ -2433,7 +2434,7 @@
 "AmazonConnectServiceLinkedRolePolicy","v20",False,"2024-11-14T18:06:40+00:00",1,2,0,0,0,1,171
 "AmazonConnectServiceLinkedRolePolicy","v4",False,"2021-04-14T00:13:10+00:00",1,1,0,0,0,2,58
 "AmazonConnectServiceLinkedRolePolicy","v21",False,"2024-11-21T23:06:06+00:00",1,2,0,0,0,1,171
-"AmazonConnectServiceLinkedRolePolicy","v25",True,"2025-05-23T21:07:07+00:00",1,2,0,0,0,1,208
+"AmazonConnectServiceLinkedRolePolicy","v25",False,"2025-05-23T21:07:07+00:00",1,2,0,0,0,1,208
 "AmazonConnectServiceLinkedRolePolicy","v18",False,"2024-10-25T22:33:28+00:00",1,2,0,0,0,1,171
 "AmazonConnectServiceLinkedRolePolicy","v1",False,"2018-09-07T00:21:43+00:00",1,1,0,0,0,2,58
 "AmazonConnectServiceLinkedRolePolicy","v11",False,"2023-10-23T23:22:56+00:00",1,2,0,0,0,2,135
