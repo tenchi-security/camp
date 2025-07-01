@@ -899,6 +899,7 @@
 "AutoScalingServiceRolePolicy","v4",False,"2021-02-05T01:37:46+00:00",0,6,0,2,0,0,23
 "AutoScalingServiceRolePolicy","v1",False,"2018-01-08T23:10:55+00:00",0,5,0,2,0,0,16
 "AWSCodeDeployRoleForLambdaLimited","v1",True,"2020-08-17T17:14:14+00:00",0,2,0,0,0,0,2
+"AWSZoneGroupAccessManagementServiceRolePolicy","v1",True,"2025-07-01T19:07:07+00:00",0,0,0,0,0,0,0
 "AmazonTextractServiceRole","v1",True,"2018-11-28T19:12:16+00:00",0,0,0,0,0,0,0
 "ElementalAppliancesSoftwareReadOnlyAccess","v1",True,"2020-04-01T22:31:09+00:00",0,0,0,0,0,0,0
 "AmazonWorkSpacesThinClientMonitoringServiceRolePolicy","v1",True,"2025-06-13T19:37:07+00:00",0,0,0,0,0,0,0
