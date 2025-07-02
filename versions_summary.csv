@@ -948,7 +948,8 @@
 "AWSCodeStarServiceRole","v10",False,"2021-02-15T22:25:37+00:00",12,14,0,23,0,2,499
 "AmazonAPIGatewayInvokeFullAccess","v2",True,"2018-12-18T18:25:10+00:00",0,0,0,0,0,0,0
 "AmazonAPIGatewayInvokeFullAccess","v1",False,"2015-07-09T17:36:12+00:00",0,0,0,0,0,0,0
-"AWSApplicationMigrationSSMAccess","v2",True,"2023-03-20T10:57:51+00:00",0,0,0,0,0,0,0
+"AWSApplicationMigrationSSMAccess","v2",False,"2023-03-20T10:57:51+00:00",0,0,0,0,0,0,0
+"AWSApplicationMigrationSSMAccess","v3",True,"2025-07-02T18:07:08+00:00",0,0,0,0,0,0,0
 "AWSApplicationMigrationSSMAccess","v1",False,"2022-11-27T09:29:05+00:00",0,0,0,0,0,0,0
 "AmazonChimeSDK","v5",True,"2023-01-10T18:05:12+00:00",0,1,0,0,0,0,12
 "AmazonChimeSDK","v2",False,"2020-04-08T21:18:31+00:00",0,1,0,0,0,0,10
