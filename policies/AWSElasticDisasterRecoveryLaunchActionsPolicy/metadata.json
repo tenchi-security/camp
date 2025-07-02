@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4FYCR5GWGU",
     "Arn": "arn:aws:iam::aws:policy/AWSElasticDisasterRecoveryLaunchActionsPolicy",
     "Path": "/",
-    "DefaultVersionId": "v3",
+    "DefaultVersionId": "v4",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2023-09-13T07:38:26+00:00",
-    "UpdateDate": "2024-05-19T07:29:42+00:00"
+    "UpdateDate": "2025-07-02T15:37:06+00:00"
 }

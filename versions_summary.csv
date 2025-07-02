@@ -148,10 +148,11 @@
 "AmazonInspector2ManagedCisPolicy","v1",True,"2024-01-24T16:31:43+00:00",0,0,0,0,0,0,0
 "AWSApplicationMigrationFullAccess","v7",False,"2023-04-20T17:28:13+00:00",1,1,0,0,0,0,38
 "AWSApplicationMigrationFullAccess","v6",False,"2023-03-20T10:43:04+00:00",1,1,0,0,0,0,38
+"AWSApplicationMigrationFullAccess","v9",True,"2025-07-02T15:37:08+00:00",1,1,0,0,0,0,69
 "AWSApplicationMigrationFullAccess","v5",False,"2022-08-11T16:08:08+00:00",1,1,0,0,0,0,33
 "AWSApplicationMigrationFullAccess","v2",False,"2022-02-22T11:16:56+00:00",1,1,0,0,0,0,33
 "AWSApplicationMigrationFullAccess","v3",False,"2022-05-01T08:31:14+00:00",1,1,0,0,0,0,33
-"AWSApplicationMigrationFullAccess","v8",True,"2024-05-19T08:30:02+00:00",1,1,0,0,0,0,60
+"AWSApplicationMigrationFullAccess","v8",False,"2024-05-19T08:30:02+00:00",1,1,0,0,0,0,60
 "AWSApplicationMigrationFullAccess","v4",False,"2022-05-31T21:14:49+00:00",1,1,0,0,0,0,33
 "AWSApplicationMigrationFullAccess","v1",False,"2021-04-07T06:56:05+00:00",1,0,0,0,0,0,0
 "AWSBackupFullAccess","v7",False,"2021-03-10T18:32:22+00:00",2,5,0,3,0,0,26
@@ -374,7 +375,8 @@
 "AmazonRoute53RecoveryReadinessReadOnlyAccess","v2",True,"2021-11-09T20:14:51+00:00",0,0,0,0,0,0,0
 "AmazonRoute53RecoveryReadinessReadOnlyAccess","v1",False,"2021-08-18T18:11:33+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryLaunchActionsPolicy","v2",False,"2023-10-16T12:28:44+00:00",0,0,0,0,0,0,0
-"AWSElasticDisasterRecoveryLaunchActionsPolicy","v3",True,"2024-05-19T07:29:42+00:00",0,0,0,0,0,0,0
+"AWSElasticDisasterRecoveryLaunchActionsPolicy","v3",False,"2024-05-19T07:29:42+00:00",0,0,0,0,0,0,0
+"AWSElasticDisasterRecoveryLaunchActionsPolicy","v4",True,"2025-07-02T15:37:06+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryLaunchActionsPolicy","v1",False,"2023-09-13T07:38:26+00:00",0,0,0,0,0,0,0
 "AmazonDataZoneDomainExecutionRolePolicy","v7",False,"2024-06-27T15:17:17+00:00",0,0,0,0,0,0,0
 "AmazonDataZoneDomainExecutionRolePolicy","v6",False,"2024-06-13T19:02:14+00:00",0,0,0,0,0,0,0
@@ -2092,9 +2094,10 @@
 "AWSElasticBeanstalkManagedUpdatesServiceRolePolicy","v4",False,"2020-09-11T18:28:47+00:00",1,3,0,1,0,0,32
 "AWSElasticBeanstalkManagedUpdatesServiceRolePolicy","v1",False,"2019-11-21T22:35:06+00:00",1,3,0,1,0,0,32
 "AmazonKinesisFirehoseFullAccess","v1",True,"2015-10-07T18:45:26+00:00",1,1,0,0,0,0,9
+"AWSElasticDisasterRecoveryConsoleFullAccess_v2","v5",True,"2025-07-02T15:37:06+00:00",1,1,0,0,0,0,53
 "AWSElasticDisasterRecoveryConsoleFullAccess_v2","v2",False,"2024-05-19T07:38:32+00:00",1,1,0,0,0,0,53
 "AWSElasticDisasterRecoveryConsoleFullAccess_v2","v3",False,"2024-07-29T19:38:08+00:00",1,1,0,0,0,0,53
-"AWSElasticDisasterRecoveryConsoleFullAccess_v2","v4",True,"2025-01-05T15:22:06+00:00",1,1,0,0,0,0,53
+"AWSElasticDisasterRecoveryConsoleFullAccess_v2","v4",False,"2025-01-05T15:22:06+00:00",1,1,0,0,0,0,53
 "AWSElasticDisasterRecoveryConsoleFullAccess_v2","v1",False,"2023-11-27T13:35:19+00:00",1,1,0,0,0,0,51
 "AmazonRoute53DomainsFullAccess","v1",True,"2015-02-06T18:40:56+00:00",1,1,0,0,0,0,1
 "AWSDataPipelineRole","v6",True,"2017-12-22T23:43:28+00:00",2,9,1,12,1,0,98
