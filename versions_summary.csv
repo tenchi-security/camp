@@ -1972,6 +1972,7 @@
 "AWSElasticDisasterRecoveryAgentPolicy","v3",True,"2023-11-27T13:44:15+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryAgentPolicy","v1",False,"2021-11-17T10:32:32+00:00",0,0,0,0,0,0,0
 "AWSIoTSiteWiseMonitorPortalAccess","v1",True,"2020-05-19T20:01:21+00:00",0,1,0,0,0,0,11
+"AmazonInspector2FullAccess_v2","v1",True,"2025-07-03T16:07:07+00:00",1,3,0,1,0,0,10
 "ResourceGroupsServiceRolePolicy","v1",True,"2023-01-05T16:57:08+00:00",0,0,0,0,0,0,0
 "AmazonHoneycodeTeamAssociationReadOnlyAccess","v1",True,"2020-06-24T20:27:46+00:00",0,0,0,0,0,0,0
 "AWSSystemsManagerEnableExplorerExecutionPolicy","v1",True,"2024-06-26T09:42:47+00:00",0,0,0,0,0,0,0
