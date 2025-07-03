@@ -2218,6 +2218,7 @@
 "SageMakerStudioProjectProvisioningRolePolicy","v5",False,"2024-11-27T06:21:08+00:00",0,7,0,1,0,0,34
 "SageMakerStudioProjectProvisioningRolePolicy","v12",False,"2025-03-21T20:07:07+00:00",0,7,0,1,0,0,52
 "SageMakerStudioProjectProvisioningRolePolicy","v13",False,"2025-04-09T21:22:07+00:00",0,7,0,1,0,0,54
+"SageMakerStudioProjectProvisioningRolePolicy","v16",True,"2025-07-03T18:07:07+00:00",0,10,0,4,0,0,71
 "SageMakerStudioProjectProvisioningRolePolicy","v2",False,"2024-11-21T22:36:06+00:00",0,7,0,1,0,0,34
 "SageMakerStudioProjectProvisioningRolePolicy","v3",False,"2024-11-22T04:51:06+00:00",0,7,0,1,0,0,34
 "SageMakerStudioProjectProvisioningRolePolicy","v8",False,"2025-02-22T00:07:07+00:00",0,7,0,1,0,0,52
@@ -2225,7 +2226,7 @@
 "SageMakerStudioProjectProvisioningRolePolicy","v1",False,"2024-11-20T21:58:39+00:00",0,7,0,1,0,0,34
 "SageMakerStudioProjectProvisioningRolePolicy","v11",False,"2025-03-05T23:07:07+00:00",0,7,0,1,0,0,52
 "SageMakerStudioProjectProvisioningRolePolicy","v14",False,"2025-04-23T20:07:07+00:00",0,7,0,1,0,0,54
-"SageMakerStudioProjectProvisioningRolePolicy","v15",True,"2025-06-03T22:52:07+00:00",0,10,0,4,0,0,69
+"SageMakerStudioProjectProvisioningRolePolicy","v15",False,"2025-06-03T22:52:07+00:00",0,10,0,4,0,0,69
 "SageMakerStudioProjectProvisioningRolePolicy","v10",False,"2025-03-03T19:37:06+00:00",0,7,0,1,0,0,52
 "AWS-SSM-Automation-DiagnosisBucketPolicy","v1",True,"2024-11-15T23:31:17+00:00",0,0,0,0,0,0,0
 "AmazonEC2ContainerRegistryReadOnly","v2",False,"2016-10-11T22:08:43+00:00",0,1,0,0,0,1,0
@@ -2755,7 +2756,8 @@
 "AWSElasticDisasterRecoveryFailbackInstallationPolicy","v2",False,"2022-06-27T09:13:40+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryFailbackInstallationPolicy","v3",True,"2023-11-27T13:43:08+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryFailbackInstallationPolicy","v1",False,"2021-11-17T11:02:03+00:00",0,0,0,0,0,0,0
-"AmazonODBServiceRolePolicy","v2",True,"2025-06-24T23:22:06+00:00",0,0,0,0,0,0,0
+"AmazonODBServiceRolePolicy","v2",False,"2025-06-24T23:22:06+00:00",0,0,0,0,0,0,0
+"AmazonODBServiceRolePolicy","v3",True,"2025-07-03T17:07:07+00:00",0,0,0,0,0,0,0
 "AmazonODBServiceRolePolicy","v1",False,"2024-11-13T18:21:41+00:00",0,0,0,0,0,0,0
 "AmazonRedshiftServiceLinkedRolePolicy","v7",False,"2022-06-01T00:34:09+00:00",0,1,0,0,0,0,8
 "AmazonRedshiftServiceLinkedRolePolicy","v6",False,"2022-05-25T05:09:53+00:00",0,1,0,0,0,0,8
