@@ -1577,6 +1577,7 @@
 "AWSThinkboxDeadlineResourceTrackerAdminPolicy","v8",True,"2024-11-12T19:29:09+00:00",0,2,0,0,0,0,5
 "AWSThinkboxDeadlineResourceTrackerAdminPolicy","v4",False,"2021-08-12T21:28:43+00:00",0,1,0,0,0,0,1
 "AWSThinkboxDeadlineResourceTrackerAdminPolicy","v1",False,"2020-05-27T19:29:09+00:00",0,1,0,0,0,0,1
+"SageMakerStudioAdminProjectUserRolePolicy","v1",True,"2025-07-09T20:52:08+00:00",0,0,0,0,0,0,0
 "AmazonRedshiftQueryEditorV2FullAccess","v2",False,"2022-02-23T17:05:06+00:00",1,1,0,0,0,0,16
 "AmazonRedshiftQueryEditorV2FullAccess","v3",True,"2024-02-21T17:20:52+00:00",1,1,0,0,0,0,30
 "AmazonRedshiftQueryEditorV2FullAccess","v1",False,"2021-09-24T14:06:02+00:00",1,0,0,0,0,0,0
@@ -2790,7 +2791,8 @@
 "CloudWatchOpenSearchDashboardAccess","v1",True,"2024-12-01T21:06:07+00:00",0,2,0,0,0,0,2
 "CloudWatchCrossAccountSharingConfiguration","v1",True,"2022-11-27T14:01:10+00:00",0,0,0,0,0,0,0
 "AWSSystemsManagerJustInTimeAccessTokenSessionPolicy","v1",True,"2025-04-17T20:52:07+00:00",0,0,0,0,0,0,0
-"AmazonS3TablesLakeFormationServiceRole","v1",True,"2025-06-19T19:07:07+00:00",0,2,0,0,0,0,11
+"AmazonS3TablesLakeFormationServiceRole","v2",True,"2025-07-09T22:07:07+00:00",0,2,0,0,0,0,11
+"AmazonS3TablesLakeFormationServiceRole","v1",False,"2025-06-19T19:07:07+00:00",0,2,0,0,0,0,11
 "AmazonRDSPerformanceInsightsReadOnly","v2",False,"2023-08-16T18:42:54+00:00",0,0,0,0,0,0,0
 "AmazonRDSPerformanceInsightsReadOnly","v3",True,"2023-10-23T21:17:06+00:00",0,0,0,0,0,0,0
 "AmazonRDSPerformanceInsightsReadOnly","v1",False,"2022-04-05T00:02:08+00:00",0,0,0,0,0,0,0

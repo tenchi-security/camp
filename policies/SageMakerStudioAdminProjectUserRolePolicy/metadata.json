@@ -1,0 +1,12 @@
+{
+    "PolicyName": "SageMakerStudioAdminProjectUserRolePolicy",
+    "PolicyId": "ANPAZKAPJZG4GK2FWX5FA",
+    "Arn": "arn:aws:iam::aws:policy/SageMakerStudioAdminProjectUserRolePolicy",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2025-07-09T20:52:08+00:00",
+    "UpdateDate": "2025-07-09T20:52:08+00:00"
+}
