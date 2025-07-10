@@ -1610,6 +1610,7 @@
 "AWSTransferFullAccess","v1",True,"2020-12-14T19:37:23+00:00",1,2,0,1,0,0,12
 "AmazonPrometheusScraperServiceRolePolicy","v2",True,"2024-04-26T20:25:54+00:00",0,1,0,0,0,0,3
 "AmazonPrometheusScraperServiceRolePolicy","v1",False,"2023-11-26T14:19:52+00:00",0,1,0,0,0,0,3
+"AmazonSageMakerHyperPodObservabilityAdminAccess","v1",True,"2025-07-10T14:37:07+00:00",0,0,0,0,0,0,0
 "AWSBugBustFullAccess","v2",True,"2021-07-22T20:04:29+00:00",1,0,0,0,0,0,0
 "AWSBugBustFullAccess","v1",False,"2021-06-24T07:03:26+00:00",1,0,0,0,0,0,0
 "AWSBudgetsActions_RolePolicyForResourceAdministrationWithSSM","v1",True,"2022-05-25T19:03:30+00:00",0,2,0,0,0,0,4
