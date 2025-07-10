@@ -1,0 +1,19 @@
+{
+    "ServiceWildcard": [
+        "support"
+    ],
+    "ServicesAffected": [
+        "codepipeline",
+        "datapipeline"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [
+        "codepipeline:PollForJobs"
+    ],
+    "InfrastructureModification": [
+        "codepipeline:PollForJobs",
+        "datapipeline:ReportTaskProgress"
+    ]
+}
