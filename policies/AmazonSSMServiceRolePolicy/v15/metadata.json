@@ -1,6 +1,6 @@
 {
     "VersionId": "v15",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2024-11-15T14:08:27+00:00",
     "PolicyName": "AmazonSSMServiceRolePolicy"
 }

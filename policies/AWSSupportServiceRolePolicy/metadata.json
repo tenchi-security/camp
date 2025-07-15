@@ -3,10 +3,10 @@
     "PolicyId": "ANPAJ7W6266ELXF5MISDS",
     "Arn": "arn:aws:iam::aws:policy/aws-service-role/AWSSupportServiceRolePolicy",
     "Path": "/aws-service-role/",
-    "DefaultVersionId": "v40",
+    "DefaultVersionId": "v41",
     "AttachmentCount": 1,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2018-04-19T18:04:44+00:00",
-    "UpdateDate": "2025-06-18T21:37:06+00:00"
+    "UpdateDate": "2025-07-15T18:07:08+00:00"
 }

@@ -460,11 +460,12 @@
 "AmazonSSMServiceRolePolicy","v2",False,"2017-11-15T21:25:26+00:00",0,1,0,0,0,0,1
 "AmazonSSMServiceRolePolicy","v4",False,"2019-10-24T23:36:39+00:00",0,2,0,1,1,0,4
 "AmazonSSMServiceRolePolicy","v1",False,"2017-11-13T19:20:08+00:00",0,1,0,0,0,0,1
-"AmazonSSMServiceRolePolicy","v15",True,"2024-11-15T14:08:27+00:00",0,3,0,1,1,0,7
+"AmazonSSMServiceRolePolicy","v15",False,"2024-11-15T14:08:27+00:00",0,3,0,1,1,0,7
 "AmazonSSMServiceRolePolicy","v13",False,"2021-04-26T20:43:46+00:00",0,3,0,1,1,0,6
 "AmazonSSMServiceRolePolicy","v8",False,"2020-07-31T19:21:40+00:00",0,2,0,1,1,0,4
 "AmazonSSMServiceRolePolicy","v5",False,"2020-01-22T21:46:17+00:00",0,2,0,1,1,0,4
 "AmazonSSMServiceRolePolicy","v7",False,"2020-06-04T18:02:45+00:00",0,2,0,1,1,0,4
+"AmazonSSMServiceRolePolicy","v16",True,"2025-07-15T17:22:08+00:00",0,3,0,1,1,0,7
 "AmazonSSMServiceRolePolicy","v11",False,"2021-01-05T23:57:10+00:00",0,2,0,1,1,0,4
 "AmazonSSMServiceRolePolicy","v12",False,"2021-03-23T18:12:57+00:00",0,2,0,1,1,0,4
 "AmazonSSMServiceRolePolicy","v3",False,"2018-07-25T22:14:20+00:00",0,2,0,1,1,0,4
@@ -2726,6 +2727,7 @@
 "AWSSupportServiceRolePolicy","v22",False,"2022-03-14T20:39:03+00:00",0,1,0,0,0,0,1
 "AWSSupportServiceRolePolicy","v5",False,"2019-07-23T22:01:08+00:00",0,3,0,0,1,1,6
 "AWSSupportServiceRolePolicy","v17",False,"2021-09-16T21:02:10+00:00",0,2,0,0,0,0,5
+"AWSSupportServiceRolePolicy","v41",True,"2025-07-15T18:07:08+00:00",0,2,0,3,0,0,4
 "AWSSupportServiceRolePolicy","v7",False,"2019-10-17T21:49:13+00:00",0,3,0,0,1,1,6
 "AWSSupportServiceRolePolicy","v25",False,"2022-08-17T20:08:17+00:00",0,1,0,0,0,0,1
 "AWSSupportServiceRolePolicy","v16",False,"2021-07-01T21:52:12+00:00",0,2,0,0,0,0,5
@@ -2733,7 +2735,7 @@
 "AWSSupportServiceRolePolicy","v12",False,"2020-08-26T19:01:32+00:00",0,2,0,0,0,0,5
 "AWSSupportServiceRolePolicy","v32",False,"2023-10-27T19:47:53+00:00",0,2,0,3,0,0,4
 "AWSSupportServiceRolePolicy","v36",False,"2024-05-02T02:47:48+00:00",0,2,0,3,0,0,4
-"AWSSupportServiceRolePolicy","v40",True,"2025-06-18T21:37:06+00:00",0,2,0,3,0,0,4
+"AWSSupportServiceRolePolicy","v40",False,"2025-06-18T21:37:06+00:00",0,2,0,3,0,0,4
 "AWSSupportServiceRolePolicy","v37",False,"2024-08-05T23:34:50+00:00",0,2,0,3,0,0,4
 "AWSSupportServiceRolePolicy","v3",False,"2018-11-05T20:12:23+00:00",0,3,0,0,1,1,6
 "AWSSupportServiceRolePolicy","v6",False,"2019-09-09T20:15:28+00:00",0,3,0,0,1,1,6
@@ -3934,8 +3936,9 @@
 "SageMakerStudioProjectProvisioningRolePolicy","v13",False,"2025-04-09T21:22:07+00:00",0,7,0,1,0,0,54
 "SageMakerStudioProjectProvisioningRolePolicy","v8",False,"2025-02-22T00:07:07+00:00",0,7,0,1,0,0,52
 "SageMakerStudioProjectProvisioningRolePolicy","v5",False,"2024-11-27T06:21:08+00:00",0,7,0,1,0,0,34
+"SageMakerStudioProjectProvisioningRolePolicy","v17",True,"2025-07-15T16:22:08+00:00",0,11,0,4,0,0,74
 "SageMakerStudioProjectProvisioningRolePolicy","v7",False,"2025-01-31T19:52:06+00:00",0,7,0,1,0,0,51
-"SageMakerStudioProjectProvisioningRolePolicy","v16",True,"2025-07-03T18:07:07+00:00",0,10,0,4,0,0,71
+"SageMakerStudioProjectProvisioningRolePolicy","v16",False,"2025-07-03T18:07:07+00:00",0,10,0,4,0,0,71
 "SageMakerStudioProjectProvisioningRolePolicy","v11",False,"2025-03-05T23:07:07+00:00",0,7,0,1,0,0,52
 "SageMakerStudioProjectProvisioningRolePolicy","v12",False,"2025-03-21T20:07:07+00:00",0,7,0,1,0,0,52
 "SageMakerStudioProjectProvisioningRolePolicy","v3",False,"2024-11-22T04:51:06+00:00",0,7,0,1,0,0,34
@@ -4340,8 +4343,9 @@
 "AWSAccountActivityAccess","v2",True,"2023-03-07T17:02:30+00:00",0,0,0,0,0,0,0
 "AWSAccountActivityAccess","v1",False,"2015-02-06T18:41:18+00:00",0,0,0,0,0,0,0
 "AWSQuickSetupCFGCPacksPermissionsBoundary","v1",True,"2024-06-26T09:52:11+00:00",0,0,0,0,0,0,0
-"SageMakerStudioBedrockKnowledgeBaseServiceRolePolicy","v2",True,"2025-04-16T20:37:07+00:00",0,0,0,0,0,0,0
+"SageMakerStudioBedrockKnowledgeBaseServiceRolePolicy","v2",False,"2025-04-16T20:37:07+00:00",0,0,0,0,0,0,0
 "SageMakerStudioBedrockKnowledgeBaseServiceRolePolicy","v1",False,"2025-02-25T02:52:07+00:00",0,0,0,0,0,0,0
+"SageMakerStudioBedrockKnowledgeBaseServiceRolePolicy","v3",True,"2025-07-15T17:22:07+00:00",0,0,0,0,0,0,0
 "AWSIoTFleetHubFederationAccess","v2",False,"2021-04-12T18:27:43+00:00",0,1,0,0,0,0,3
 "AWSIoTFleetHubFederationAccess","v4",False,"2021-11-15T23:28:19+00:00",0,1,0,0,0,0,6
 "AWSIoTFleetHubFederationAccess","v1",False,"2020-12-15T08:08:05+00:00",0,1,0,0,0,0,3
