@@ -1,6 +1,6 @@
 {
     "VersionId": "v3",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2025-01-13T17:07:06+00:00",
     "PolicyName": "AmazonEBSCSIDriverPolicy"
 }

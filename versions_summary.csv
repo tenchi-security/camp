@@ -1098,6 +1098,7 @@
 "AmazonBraketServiceRolePolicy","v3",True,"2025-07-11T21:37:07+00:00",0,0,0,0,0,0,0
 "AmazonAPIGatewayPushToCloudWatchLogs","v1",True,"2015-11-11T23:41:46+00:00",0,1,0,0,0,0,3
 "CloudHSMServiceRolePolicy","v1",True,"2017-11-06T19:12:46+00:00",0,0,0,0,0,0,0
+"AWSBatchServiceRolePolicyForSageMaker","v1",True,"2025-07-15T21:37:06+00:00",0,1,0,1,0,0,1
 "AWSSecurityHubFullAccess","v2",False,"2023-11-16T21:10:53+00:00",1,2,0,1,0,0,37
 "AWSSecurityHubFullAccess","v4",True,"2025-06-17T13:07:07+00:00",1,2,0,1,0,0,41
 "AWSSecurityHubFullAccess","v1",False,"2018-11-27T23:54:34+00:00",1,2,0,1,0,0,31
@@ -2291,8 +2292,9 @@
 "AWSSupportPlansFullAccess","v1",False,"2022-09-27T18:19:30+00:00",0,0,0,0,0,0,0
 "AWSSupportPlansFullAccess","v3",True,"2024-09-09T21:15:14+00:00",0,0,0,0,0,0,0
 "AmazonEBSCSIDriverPolicy","v2",False,"2022-11-18T14:42:46+00:00",0,1,0,0,0,0,7
+"AmazonEBSCSIDriverPolicy","v4",True,"2025-07-15T20:37:06+00:00",0,0,0,0,0,0,0
 "AmazonEBSCSIDriverPolicy","v1",False,"2022-04-04T17:24:29+00:00",0,1,0,0,0,0,7
-"AmazonEBSCSIDriverPolicy","v3",True,"2025-01-13T17:07:06+00:00",0,0,0,0,0,0,0
+"AmazonEBSCSIDriverPolicy","v3",False,"2025-01-13T17:07:06+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryEc2InstancePolicy","v2",False,"2023-05-14T07:27:48+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryEc2InstancePolicy","v4",False,"2023-10-25T08:19:46+00:00",0,0,0,0,0,0,0
 "AWSElasticDisasterRecoveryEc2InstancePolicy","v1",False,"2022-05-26T12:30:18+00:00",0,0,0,0,0,0,0
