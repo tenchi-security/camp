@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSRolesAnywhereFullAccess",
+    "PolicyId": "ANPAZKAPJZG4CSFXURAWW",
+    "Arn": "arn:aws:iam::aws:policy/AWSRolesAnywhereFullAccess",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2025-07-16T14:52:07+00:00",
+    "UpdateDate": "2025-07-16T14:52:07+00:00"
+}

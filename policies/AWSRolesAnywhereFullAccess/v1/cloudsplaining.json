@@ -1,0 +1,24 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "iam",
+        "rolesanywhere"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:PassRole",
+        "iam:CreateServiceLinkedRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "iam:CreateServiceLinkedRole",
+        "iam:PassRole",
+        "rolesanywhere:DeleteAttributeMapping",
+        "rolesanywhere:PutAttributeMapping",
+        "rolesanywhere:PutNotificationSettings",
+        "rolesanywhere:ResetNotificationSettings",
+        "rolesanywhere:TagResource",
+        "rolesanywhere:UntagResource"
+    ]
+}

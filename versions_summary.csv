@@ -291,6 +291,7 @@
 "AWSElementalMediaPackageV2ReadOnly","v1",True,"2023-07-25T20:31:25+00:00",0,0,0,0,0,0,0
 "AmazonPrometheusFullAccess","v2",True,"2023-11-26T20:16:13+00:00",1,1,0,0,0,0,17
 "AmazonPrometheusFullAccess","v1",False,"2020-12-15T18:10:46+00:00",1,1,0,0,0,0,3
+"AWSRolesAnywhereReadOnly","v1",True,"2025-07-16T15:07:07+00:00",0,0,0,0,0,0,0
 "AWSPanoramaGreengrassGroupRolePolicy","v2",True,"2021-01-06T19:30:35+00:00",1,1,0,0,0,0,14
 "AWSPanoramaGreengrassGroupRolePolicy","v1",False,"2020-12-01T13:10:22+00:00",1,1,0,0,0,0,14
 "AmazonGrafanaServiceLinkedRolePolicy","v1",True,"2022-11-08T23:10:33+00:00",0,1,0,0,0,0,2
@@ -2993,6 +2994,7 @@
 "AWSBackupServiceLinkedRolePolicyForBackup","v10",False,"2022-05-17T17:21:50+00:00",0,2,0,1,0,0,6
 "AWSBackupServiceLinkedRolePolicyForBackup","v14",False,"2023-11-27T19:39:04+00:00",0,2,0,1,0,0,7
 "AWSServiceRoleForAmazonQDeveloper","v1",True,"2024-04-25T07:40:41+00:00",0,0,0,0,0,0,0
+"AWSRolesAnywhereFullAccess","v1",True,"2025-07-16T14:52:07+00:00",0,2,0,2,0,0,8
 "AmazonCognitoIdpEmailServiceRolePolicy","v1",True,"2019-03-21T21:32:25+00:00",0,1,0,0,0,0,1
 "AmazonAppStreamFullAccess","v2",False,"2017-09-07T23:56:23+00:00",1,2,0,0,0,0,27
 "AmazonAppStreamFullAccess","v4",False,"2019-08-07T19:27:59+00:00",1,2,0,0,0,0,27
