@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4PQSIQZV3H",
     "Arn": "arn:aws:iam::aws:policy/AWS-SSM-RemediationAutomation-ExecutionRolePolicy",
     "Path": "/",
-    "DefaultVersionId": "v1",
+    "DefaultVersionId": "v2",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2024-11-16T00:17:57+00:00",
-    "UpdateDate": "2024-11-16T00:17:57+00:00"
+    "UpdateDate": "2025-07-16T19:07:08+00:00"
 }
