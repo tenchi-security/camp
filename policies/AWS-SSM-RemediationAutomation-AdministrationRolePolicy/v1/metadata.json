@@ -1,6 +1,6 @@
 {
     "VersionId": "v1",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2024-11-16T00:14:44+00:00",
     "PolicyName": "AWS-SSM-RemediationAutomation-AdministrationRolePolicy"
 }

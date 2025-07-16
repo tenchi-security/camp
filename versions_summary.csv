@@ -65,7 +65,8 @@
 "AmazonWorkLinkReadOnly","v2",False,"2019-08-01T21:35:07+00:00",0,0,0,0,0,0,0
 "AmazonWorkLinkReadOnly","v1",False,"2019-01-23T19:07:10+00:00",0,0,0,0,0,0,0
 "AmazonWorkLinkReadOnly","v3",True,"2019-09-23T18:37:21+00:00",0,0,0,0,0,0,0
-"AWS-SSM-RemediationAutomation-AdministrationRolePolicy","v1",True,"2024-11-16T00:14:44+00:00",0,0,0,0,0,0,0
+"AWS-SSM-RemediationAutomation-AdministrationRolePolicy","v2",True,"2025-07-16T17:52:07+00:00",0,0,0,0,0,0,0
+"AWS-SSM-RemediationAutomation-AdministrationRolePolicy","v1",False,"2024-11-16T00:14:44+00:00",0,0,0,0,0,0,0
 "AWSDirectoryServiceDataReadOnlyAccess","v1",True,"2024-09-18T22:00:34+00:00",0,0,0,0,0,0,0
 "ElementalAppliancesSoftwareFullAccess","v2",False,"2019-11-18T19:03:41+00:00",2,1,0,0,0,0,4
 "ElementalAppliancesSoftwareFullAccess","v4",True,"2021-02-05T21:01:25+00:00",1,1,0,0,0,0,4
@@ -676,7 +677,8 @@
 "AWSResourceAccessManagerReadOnlyAccess","v1",True,"2019-12-09T20:58:37+00:00",0,0,0,0,0,0,0
 "AWSPartnerCentralOpportunityManagement","v2",True,"2024-12-04T23:06:07+00:00",0,1,0,0,0,0,7
 "AWSPartnerCentralOpportunityManagement","v1",False,"2024-11-14T19:09:05+00:00",0,0,0,0,0,0,0
-"AWS-SSM-DiagnosisAutomation-AdministrationRolePolicy","v1",True,"2024-11-16T00:01:45+00:00",0,0,0,0,0,0,0
+"AWS-SSM-DiagnosisAutomation-AdministrationRolePolicy","v2",True,"2025-07-16T17:22:07+00:00",0,0,0,0,0,0,0
+"AWS-SSM-DiagnosisAutomation-AdministrationRolePolicy","v1",False,"2024-11-16T00:01:45+00:00",0,0,0,0,0,0,0
 "AWSCompromisedKeyQuarantineV3","v2",True,"2024-10-02T16:52:27+00:00",0,0,0,0,0,0,0
 "AWSCompromisedKeyQuarantineV3","v1",False,"2024-08-21T17:36:49+00:00",0,0,0,0,0,0,0
 "AmazonEventBridgeApiDestinationsServiceRolePolicy","v2",False,"2025-03-28T20:07:07+00:00",0,0,0,0,0,0,0
@@ -3518,7 +3520,8 @@
 "AWSCodePipeline_FullAccess","v1",False,"2020-08-03T22:38:28+00:00",1,4,0,1,0,1,26
 "AWSCodePipeline_FullAccess","v3",True,"2024-03-14T17:06:23+00:00",1,4,0,1,0,1,27
 "AmazonEC2ContainerRegistryPullOnly","v1",True,"2024-10-04T16:58:49+00:00",0,1,0,0,0,1,0
-"AWS-SSM-DiagnosisAutomation-ExecutionRolePolicy","v1",True,"2024-11-16T00:08:07+00:00",0,0,0,0,0,0,0
+"AWS-SSM-DiagnosisAutomation-ExecutionRolePolicy","v2",True,"2025-07-16T17:37:07+00:00",0,0,0,0,0,0,0
+"AWS-SSM-DiagnosisAutomation-ExecutionRolePolicy","v1",False,"2024-11-16T00:08:07+00:00",0,0,0,0,0,0,0
 "AmazonCodeGuruSecurityScanAccess","v1",True,"2023-05-09T20:54:32+00:00",0,0,0,0,0,0,0
 "AmazonElasticMapReduceforEC2Role","v2",False,"2015-05-13T21:23:05+00:00",6,7,0,21,1,0,137
 "AmazonElasticMapReduceforEC2Role","v1",False,"2015-02-06T18:41:21+00:00",6,6,0,21,1,0,132
