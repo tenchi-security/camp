@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AmazonECSInfrastructureRolePolicyForLoadBalancers",
+    "PolicyId": "ANPAZKAPJZG4D6JFMQCSN",
+    "Arn": "arn:aws:iam::aws:policy/AmazonECSInfrastructureRolePolicyForLoadBalancers",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2025-07-17T16:37:07+00:00",
+    "UpdateDate": "2025-07-17T16:37:07+00:00"
+}
