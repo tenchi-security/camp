@@ -4492,7 +4492,8 @@
 "AdministratorAccess","v1",True,"2015-02-06T18:39:46+00:00",263,201,22,321,5,28,4002
 "AWSConfigRoleForOrganizations","v2",True,"2020-11-24T20:19:13+00:00",0,0,0,0,0,0,0
 "AWSConfigRoleForOrganizations","v1",False,"2018-03-19T22:53:01+00:00",0,0,0,0,0,0,0
-"AWSSupportAccess","v1",True,"2015-02-06T18:41:11+00:00",1,0,0,0,0,0,0
+"AWSSupportAccess","v2",True,"2025-07-18T13:52:07+00:00",2,0,0,0,0,0,0
+"AWSSupportAccess","v1",False,"2015-02-06T18:41:11+00:00",1,0,0,0,0,0,0
 "AmazonS3FullAccess","v2",True,"2021-09-27T20:16:37+00:00",2,2,0,16,1,0,77
 "AmazonS3FullAccess","v1",False,"2015-02-06T18:40:58+00:00",1,1,0,13,1,0,60
 "AmazonGuardDutyMalwareProtectionServiceRolePolicy","v2",True,"2024-01-25T22:24:00+00:00",0,0,0,0,0,0,0

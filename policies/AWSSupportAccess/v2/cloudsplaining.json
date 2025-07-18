@@ -1,0 +1,12 @@
+{
+    "ServiceWildcard": [
+        "support",
+        "support-console"
+    ],
+    "ServicesAffected": [],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": []
+}
