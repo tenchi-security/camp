@@ -2526,8 +2526,9 @@
 "AWSAppMeshReadOnly","v1",False,"2019-04-16T17:51:11+00:00",0,0,0,0,0,0,0
 "AWSAppMeshReadOnly","v5",True,"2021-01-07T19:53:16+00:00",0,0,0,0,0,0,0
 "AWSAppMeshReadOnly","v3",False,"2019-10-03T22:25:42+00:00",0,0,0,0,0,0,0
-"EC2FastLaunchServiceRolePolicy","v2",True,"2025-05-14T17:07:07+00:00",0,2,0,1,0,0,2
+"EC2FastLaunchServiceRolePolicy","v2",False,"2025-05-14T17:07:07+00:00",0,2,0,1,0,0,2
 "EC2FastLaunchServiceRolePolicy","v1",False,"2022-01-10T13:08:21+00:00",0,1,0,1,0,0,1
+"EC2FastLaunchServiceRolePolicy","v3",True,"2025-07-18T00:37:06+00:00",0,2,0,1,0,0,2
 "AWSServiceRolePolicyForBackupRestoreTesting","v2",True,"2024-02-14T22:42:37+00:00",0,6,0,1,0,0,10
 "AWSServiceRolePolicyForBackupRestoreTesting","v1",False,"2023-11-10T23:37:45+00:00",0,6,0,1,0,0,10
 "AmazonMacieReadOnlyAccess","v1",True,"2023-06-15T21:50:06+00:00",0,0,0,0,0,0,0
