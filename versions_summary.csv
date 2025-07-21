@@ -3623,7 +3623,8 @@
 "SecurityAudit","v10",False,"2017-03-23T18:50:24+00:00",0,0,0,0,0,0,0
 "SecurityAudit","v50",False,"2025-03-26T14:07:06+00:00",0,1,0,3,0,0,3
 "SecurityAudit","v49",False,"2025-01-24T21:52:06+00:00",0,1,0,3,0,0,3
-"SecurityAudit","v52",True,"2025-07-02T18:37:08+00:00",0,1,0,3,0,0,3
+"SecurityAudit","v52",False,"2025-07-02T18:37:08+00:00",0,1,0,3,0,0,3
+"SecurityAudit","v53",True,"2025-07-21T21:37:08+00:00",0,1,0,3,0,0,3
 "SecurityAudit","v14",False,"2018-01-03T17:58:38+00:00",0,0,0,0,0,0,0
 "AWSNetworkManagerReadOnlyAccess","v1",True,"2019-12-03T17:35:05+00:00",0,0,0,0,0,0,0
 "AWSSystemsManagerJustInTimeAccessServicePolicy","v1",True,"2025-04-21T20:07:07+00:00",0,0,0,0,0,0,0
