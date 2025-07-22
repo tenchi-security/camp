@@ -2895,8 +2895,9 @@
 "ComprehendDataAccessRolePolicy","v1",True,"2019-03-06T22:28:15+00:00",0,0,0,0,0,0,0
 "AWSXrayWriteOnlyAccess","v2",True,"2018-08-28T23:03:04+00:00",0,0,0,0,0,0,0
 "AWSXrayWriteOnlyAccess","v1",False,"2016-12-01T18:19:53+00:00",0,0,0,0,0,0,0
-"SageMakerStudioEMRServiceRolePolicy","v2",True,"2025-02-27T00:22:06+00:00",0,1,0,0,0,0,3
+"SageMakerStudioEMRServiceRolePolicy","v2",False,"2025-02-27T00:22:06+00:00",0,1,0,0,0,0,3
 "SageMakerStudioEMRServiceRolePolicy","v1",False,"2025-01-31T19:52:07+00:00",0,0,0,0,0,0,0
+"SageMakerStudioEMRServiceRolePolicy","v3",True,"2025-07-22T16:52:07+00:00",0,1,0,0,0,0,3
 "AWSXrayReadOnlyAccess","v2",False,"2018-08-28T22:59:08+00:00",0,0,0,0,0,0,0
 "AWSXrayReadOnlyAccess","v4",False,"2019-04-30T18:11:46+00:00",0,0,0,0,0,0,0
 "AWSXrayReadOnlyAccess","v1",False,"2016-12-01T18:27:02+00:00",0,0,0,0,0,0,0
@@ -3304,8 +3305,9 @@
 "AmazonFSxServiceRolePolicy","v2",False,"2019-06-18T13:25:32+00:00",0,3,0,1,0,0,6
 "AmazonFSxServiceRolePolicy","v4",False,"2021-06-07T21:03:26+00:00",0,3,0,1,0,0,7
 "AmazonFSxServiceRolePolicy","v1",False,"2018-11-28T10:38:37+00:00",0,3,0,1,0,0,6
+"AmazonFSxServiceRolePolicy","v8",True,"2025-07-22T18:07:07+00:00",0,3,0,1,0,0,7
 "AmazonFSxServiceRolePolicy","v5",False,"2021-08-20T12:51:29+00:00",0,3,0,1,0,0,7
-"AmazonFSxServiceRolePolicy","v7",True,"2024-01-10T20:53:47+00:00",0,3,0,1,0,0,7
+"AmazonFSxServiceRolePolicy","v7",False,"2024-01-10T20:53:47+00:00",0,3,0,1,0,0,7
 "AmazonFSxServiceRolePolicy","v3",False,"2020-11-12T20:19:45+00:00",0,3,0,1,0,0,7
 "AmazonFSxServiceRolePolicy","v6",False,"2023-07-26T17:57:34+00:00",0,3,0,1,0,0,7
 "AWSMarketplaceProcurementSystemAdminFullAccess","v1",True,"2019-06-25T13:07:47+00:00",0,0,0,0,0,0,0
