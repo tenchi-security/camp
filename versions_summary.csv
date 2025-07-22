@@ -4325,7 +4325,8 @@
 "SageMakerStudioProjectRoleMachineLearningPolicy","v7",False,"2025-02-27T00:22:05+00:00",0,1,0,0,0,0,49
 "SageMakerStudioProjectRoleMachineLearningPolicy","v3",False,"2024-11-26T05:21:05+00:00",0,1,0,0,0,0,48
 "SageMakerStudioProjectRoleMachineLearningPolicy","v6",False,"2025-02-13T23:07:06+00:00",0,1,0,0,0,0,49
-"SageMakerStudioProjectRoleMachineLearningPolicy","v9",True,"2025-07-14T22:07:08+00:00",0,3,0,2,0,0,58
+"SageMakerStudioProjectRoleMachineLearningPolicy","v9",False,"2025-07-14T22:07:08+00:00",0,3,0,2,0,0,58
+"SageMakerStudioProjectRoleMachineLearningPolicy","v10",True,"2025-07-22T20:07:08+00:00",0,3,0,2,0,0,58
 "AmazonSageMakerFeatureStoreAccess","v2",False,"2021-02-24T02:18:50+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerFeatureStoreAccess","v1",False,"2020-12-01T16:24:05+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerFeatureStoreAccess","v3",True,"2022-12-05T14:19:58+00:00",0,0,0,0,0,0,0
