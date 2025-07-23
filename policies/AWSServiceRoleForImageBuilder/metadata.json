@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4NE22WISEW",
     "Arn": "arn:aws:iam::aws:policy/aws-service-role/AWSServiceRoleForImageBuilder",
     "Path": "/aws-service-role/",
-    "DefaultVersionId": "v20",
+    "DefaultVersionId": "v21",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2019-11-29T22:02:13+00:00",
-    "UpdateDate": "2024-12-26T23:52:06+00:00"
+    "UpdateDate": "2025-07-23T16:52:07+00:00"
 }
