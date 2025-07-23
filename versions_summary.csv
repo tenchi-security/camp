@@ -225,8 +225,9 @@
 "AWSCloudTrail_FullAccess","v3",True,"2021-02-22T19:01:00+00:00",1,3,0,1,0,0,11
 "AWSDirectoryServiceServiceRolePolicy","v1",True,"2025-07-11T00:22:07+00:00",0,0,0,0,0,0,0
 "SageMakerStudioFullAccess","v2",False,"2025-01-21T22:52:06+00:00",1,3,0,4,0,0,11
-"SageMakerStudioFullAccess","v4",True,"2025-06-06T19:07:07+00:00",1,3,0,4,0,0,12
+"SageMakerStudioFullAccess","v4",False,"2025-06-06T19:07:07+00:00",1,3,0,4,0,0,12
 "SageMakerStudioFullAccess","v1",False,"2024-11-28T00:06:07+00:00",1,3,0,4,0,0,9
+"SageMakerStudioFullAccess","v5",True,"2025-07-23T19:22:06+00:00",1,3,0,4,0,0,12
 "SageMakerStudioFullAccess","v3",False,"2025-05-22T17:52:06+00:00",1,3,0,4,0,0,12
 "CloudWatchApplicationSignalsServiceRolePolicy","v2",False,"2024-03-07T00:04:01+00:00",0,0,0,0,0,0,0
 "CloudWatchApplicationSignalsServiceRolePolicy","v4",False,"2024-04-18T22:52:11+00:00",0,0,0,0,0,0,0
@@ -2468,8 +2469,9 @@
 "AmazonDataZoneFullAccess","v4",False,"2024-06-13T19:02:55+00:00",1,2,0,4,0,0,8
 "AmazonDataZoneFullAccess","v1",False,"2023-09-22T20:06:52+00:00",1,1,0,4,0,0,4
 "AmazonDataZoneFullAccess","v5",False,"2024-11-21T20:36:06+00:00",1,3,0,4,0,0,9
+"AmazonDataZoneFullAccess","v7",True,"2025-07-23T19:22:08+00:00",1,3,0,4,0,0,12
 "AmazonDataZoneFullAccess","v3",False,"2024-04-23T21:36:18+00:00",1,2,0,4,0,0,8
-"AmazonDataZoneFullAccess","v6",True,"2025-05-22T18:07:07+00:00",1,3,0,4,0,0,12
+"AmazonDataZoneFullAccess","v6",False,"2025-05-22T18:07:07+00:00",1,3,0,4,0,0,12
 "ComputeOptimizerReadOnlyAccess","v2",False,"2020-11-04T20:57:54+00:00",0,0,0,0,0,0,0
 "ComputeOptimizerReadOnlyAccess","v4",False,"2021-08-26T18:34:10+00:00",0,0,0,0,0,0,0
 "ComputeOptimizerReadOnlyAccess","v1",False,"2020-03-07T00:11:02+00:00",0,0,0,0,0,0,0

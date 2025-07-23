@@ -1,0 +1,33 @@
+{
+    "ServiceWildcard": [
+        "datazone"
+    ],
+    "ServicesAffected": [
+        "datazone",
+        "kms",
+        "ram"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "ram:AssociateResourceShare",
+        "ram:DeleteResourceShare",
+        "ram:DisassociateResourceShare",
+        "ram:RejectResourceShareInvitation"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "datazone:BatchDeleteLinkedTypes",
+        "datazone:BatchPutLinkedTypes",
+        "datazone:DeleteDomain",
+        "datazone:TagResource",
+        "datazone:UntagResource",
+        "datazone:UpdateDomain",
+        "kms:Decrypt",
+        "ram:AssociateResourceShare",
+        "ram:AssociateResourceSharePermission",
+        "ram:DeleteResourceShare",
+        "ram:DisassociateResourceShare",
+        "ram:RejectResourceShareInvitation"
+    ]
+}
