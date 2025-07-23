@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4K2H54PAUL",
     "Arn": "arn:aws:iam::aws:policy/aws-service-role/AWSResourceExplorerServiceRolePolicy",
     "Path": "/aws-service-role/",
-    "DefaultVersionId": "v14",
+    "DefaultVersionId": "v15",
     "AttachmentCount": 1,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2022-10-25T20:35:29+00:00",
-    "UpdateDate": "2025-06-23T10:07:07+00:00"
+    "UpdateDate": "2025-07-23T15:22:07+00:00"
 }

@@ -4530,6 +4530,7 @@
 "AWSResourceExplorerServiceRolePolicy","v2",False,"2022-10-31T17:23:15+00:00",0,0,0,0,0,0,0
 "AWSResourceExplorerServiceRolePolicy","v4",False,"2023-08-01T19:33:28+00:00",0,0,0,0,0,0,0
 "AWSResourceExplorerServiceRolePolicy","v1",False,"2022-10-25T20:35:29+00:00",0,0,0,0,0,0,0
+"AWSResourceExplorerServiceRolePolicy","v15",True,"2025-07-23T15:22:07+00:00",0,1,0,0,0,0,2
 "AWSResourceExplorerServiceRolePolicy","v13",False,"2025-03-25T14:22:06+00:00",0,0,0,0,0,0,0
 "AWSResourceExplorerServiceRolePolicy","v8",False,"2024-08-19T15:51:19+00:00",0,0,0,0,0,0,0
 "AWSResourceExplorerServiceRolePolicy","v5",False,"2023-10-17T15:07:03+00:00",0,0,0,0,0,0,0
@@ -4540,7 +4541,7 @@
 "AWSResourceExplorerServiceRolePolicy","v6",False,"2023-11-07T17:07:44+00:00",0,0,0,0,0,0,0
 "AWSResourceExplorerServiceRolePolicy","v9",False,"2024-10-15T16:31:31+00:00",0,0,0,0,0,0,0
 "AWSResourceExplorerServiceRolePolicy","v10",False,"2024-11-14T17:22:13+00:00",0,0,0,0,0,0,0
-"AWSResourceExplorerServiceRolePolicy","v14",True,"2025-06-23T10:07:07+00:00",0,0,0,0,0,0,0
+"AWSResourceExplorerServiceRolePolicy","v14",False,"2025-06-23T10:07:07+00:00",0,0,0,0,0,0,0
 "AWSQuickSightSageMakerPolicy","v2",False,"2023-10-03T23:22:22+00:00",0,0,0,0,0,0,0
 "AWSQuickSightSageMakerPolicy","v1",False,"2020-01-17T17:18:13+00:00",0,0,0,0,0,0,0
 "AWSQuickSightSageMakerPolicy","v3",True,"2023-10-30T17:57:43+00:00",0,0,0,0,0,0,0
