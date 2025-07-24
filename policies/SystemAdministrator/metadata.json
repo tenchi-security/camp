@@ -3,10 +3,10 @@
     "PolicyId": "ANPAITJPEZXCYCBXANDSW",
     "Arn": "arn:aws:iam::aws:policy/job-function/SystemAdministrator",
     "Path": "/job-function/",
-    "DefaultVersionId": "v7",
+    "DefaultVersionId": "v8",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2016-11-10T17:23:56+00:00",
-    "UpdateDate": "2025-02-11T22:07:07+00:00"
+    "UpdateDate": "2025-07-24T12:22:07+00:00"
 }
