@@ -1,6 +1,6 @@
 {
     "VersionId": "v53",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2025-07-21T21:37:08+00:00",
     "PolicyName": "SecurityAudit"
 }
