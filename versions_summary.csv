@@ -2943,8 +2943,9 @@
 "SecurityLakeResourceManagementServiceRolePolicy","v1",True,"2024-11-14T22:10:14+00:00",0,1,0,0,0,0,1
 "AWSPrivateNetworksServiceRolePolicy","v1",True,"2021-12-16T23:17:46+00:00",0,0,0,0,0,0,0
 "IVSReadOnlyAccess","v2",False,"2024-02-16T18:03:24+00:00",0,0,0,0,0,0,0
+"IVSReadOnlyAccess","v4",True,"2025-07-24T20:22:07+00:00",0,0,0,0,0,0,0
 "IVSReadOnlyAccess","v1",False,"2023-12-05T18:00:37+00:00",0,0,0,0,0,0,0
-"IVSReadOnlyAccess","v3",True,"2024-09-17T20:42:06+00:00",0,0,0,0,0,0,0
+"IVSReadOnlyAccess","v3",False,"2024-09-17T20:42:06+00:00",0,0,0,0,0,0,0
 "AWSCodeDeployRoleForECSLimited","v2",False,"2018-12-19T18:06:16+00:00",0,3,0,0,0,0,5
 "AWSCodeDeployRoleForECSLimited","v1",False,"2018-11-27T20:42:42+00:00",0,3,0,0,0,0,5
 "AWSCodeDeployRoleForECSLimited","v3",True,"2019-09-23T22:10:29+00:00",0,3,0,0,0,0,5
