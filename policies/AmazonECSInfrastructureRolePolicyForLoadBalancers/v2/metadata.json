@@ -1,0 +1,6 @@
+{
+    "VersionId": "v2",
+    "IsDefaultVersion": true,
+    "CreateDate": "2025-07-25T20:22:06+00:00",
+    "PolicyName": "AmazonECSInfrastructureRolePolicyForLoadBalancers"
+}

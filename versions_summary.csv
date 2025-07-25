@@ -662,7 +662,8 @@
 "CloudWatchEventsReadOnlyAccess","v2",False,"2017-08-10T17:25:34+00:00",0,0,0,0,0,0,0
 "CloudWatchEventsReadOnlyAccess","v1",False,"2016-01-14T18:27:18+00:00",0,0,0,0,0,0,0
 "CloudWatchEventsReadOnlyAccess","v3",True,"2022-12-01T16:29:31+00:00",0,0,0,0,0,0,0
-"AmazonECSInfrastructureRolePolicyForLoadBalancers","v1",True,"2025-07-17T16:37:07+00:00",0,0,0,0,0,0,0
+"AmazonECSInfrastructureRolePolicyForLoadBalancers","v2",True,"2025-07-25T20:22:06+00:00",0,0,0,0,0,0,0
+"AmazonECSInfrastructureRolePolicyForLoadBalancers","v1",False,"2025-07-17T16:37:07+00:00",0,0,0,0,0,0,0
 "AWSPrivateMarketplaceRequests","v1",True,"2019-10-28T21:44:03+00:00",0,0,0,0,0,0,0
 "AppIntegrationsServiceLinkedRolePolicy","v1",True,"2022-09-30T19:42:56+00:00",0,0,0,0,0,0,0
 "AWSMarketplaceManageSubscriptions","v2",False,"2019-10-28T21:49:43+00:00",0,0,0,0,0,0,0
