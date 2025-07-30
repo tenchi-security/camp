@@ -1990,6 +1990,7 @@
 "AWSPanoramaApplianceServiceRolePolicy","v2",False,"2023-01-17T21:32:36+00:00",0,0,0,0,0,0,0
 "AWSPanoramaApplianceServiceRolePolicy","v1",False,"2021-10-20T12:14:03+00:00",0,1,0,0,0,0,1
 "AWSPanoramaApplianceServiceRolePolicy","v3",True,"2024-12-10T20:06:11+00:00",0,0,0,0,0,0,0
+"BudgetsServiceRolePolicy","v1",True,"2025-07-30T21:07:06+00:00",0,0,0,0,0,0,0
 "GameLiftContainerFleetPolicy","v2",True,"2025-02-05T20:37:06+00:00",0,0,0,0,0,0,0
 "GameLiftContainerFleetPolicy","v1",False,"2024-11-12T19:28:49+00:00",0,0,0,0,0,0,0
 "AmazonWorkSpacesSelfServiceAccess","v1",True,"2019-06-27T19:22:52+00:00",0,1,0,0,0,0,3
