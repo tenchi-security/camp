@@ -1,0 +1,18 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "ec2",
+        "logs"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "ec2:CreateTags",
+        "ec2:DeleteFlowLogs",
+        "logs:CreateLogGroup",
+        "logs:PutRetentionPolicy",
+        "logs:TagResource"
+    ]
+}
