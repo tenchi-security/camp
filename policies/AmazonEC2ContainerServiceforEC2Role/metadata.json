@@ -3,10 +3,10 @@
     "PolicyId": "ANPAJLYJCVHC7TQHCSQDS",
     "Arn": "arn:aws:iam::aws:policy/service-role/AmazonEC2ContainerServiceforEC2Role",
     "Path": "/service-role/",
-    "DefaultVersionId": "v7",
+    "DefaultVersionId": "v8",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2015-03-19T18:45:18+00:00",
-    "UpdateDate": "2023-03-06T22:19:04+00:00"
+    "UpdateDate": "2025-08-04T18:19:07+00:00"
 }
