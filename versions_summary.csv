@@ -1738,7 +1738,8 @@
 "AWSLicenseManagerServiceRolePolicy","v6",False,"2021-06-17T03:54:13+00:00",0,2,0,0,0,0,2
 "AmazonEC2RoleforAWSCodeDeployLimited","v2",True,"2022-01-20T21:37:31+00:00",0,1,0,0,0,0,1
 "AmazonEC2RoleforAWSCodeDeployLimited","v1",False,"2020-08-24T17:55:18+00:00",0,1,0,0,0,0,1
-"AmazonEVSServiceRolePolicy","v1",True,"2025-05-16T23:37:06+00:00",0,0,0,0,0,0,0
+"AmazonEVSServiceRolePolicy","v2",True,"2025-08-05T18:34:07+00:00",0,0,0,0,0,0,0
+"AmazonEVSServiceRolePolicy","v1",False,"2025-05-16T23:37:06+00:00",0,0,0,0,0,0,0
 "AWSVendorInsightsVendorReadOnly","v2",True,"2022-12-01T00:54:38+00:00",0,0,0,0,0,0,0
 "AWSVendorInsightsVendorReadOnly","v1",False,"2022-07-26T15:05:34+00:00",0,0,0,0,0,0,0
 "WAFLoggingServiceRolePolicy","v1",True,"2018-08-24T21:05:47+00:00",0,0,0,0,0,0,0
