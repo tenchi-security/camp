@@ -870,7 +870,8 @@
 "AWSCodeDeployReadOnlyAccess","v1",False,"2015-05-19T18:21:32+00:00",0,0,0,0,0,0,0
 "AWSCodeDeployReadOnlyAccess","v3",False,"2020-04-02T16:20:09+00:00",0,0,0,0,0,0,0
 "ElementalActivationsDownloadSoftwareAccess","v1",True,"2020-09-08T17:26:09+00:00",0,0,0,0,0,0,0
-"AWSSecurityIncidentResponseServiceRolePolicy","v1",True,"2024-12-01T16:36:06+00:00",0,0,0,0,0,0,0
+"AWSSecurityIncidentResponseServiceRolePolicy","v2",True,"2025-08-06T16:19:07+00:00",0,0,0,0,0,0,0
+"AWSSecurityIncidentResponseServiceRolePolicy","v1",False,"2024-12-01T16:36:06+00:00",0,0,0,0,0,0,0
 "AmazonElasticFileSystemClientReadOnlyAccess","v1",True,"2020-01-13T16:24:36+00:00",0,0,0,0,0,0,0
 "VPCLatticeServicesInvokeAccess","v1",True,"2023-03-30T02:45:07+00:00",0,0,0,0,0,0,0
 "LakeFormationDataAccessServiceRolePolicy","v2",True,"2024-02-06T18:37:31+00:00",0,0,0,0,0,0,0
