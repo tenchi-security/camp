@@ -3,10 +3,10 @@
     "PolicyId": "ANPAZKAPJZG4F2M3XYA7J",
     "Arn": "arn:aws:iam::aws:policy/aws-service-role/AmazonRDSCustomServiceRolePolicy",
     "Path": "/aws-service-role/",
-    "DefaultVersionId": "v12",
+    "DefaultVersionId": "v13",
     "AttachmentCount": 0,
     "PermissionsBoundaryUsageCount": 0,
     "IsAttachable": true,
     "CreateDate": "2021-10-08T21:39:12+00:00",
-    "UpdateDate": "2025-03-25T23:22:06+00:00"
+    "UpdateDate": "2025-08-07T20:49:07+00:00"
 }

@@ -1,6 +1,6 @@
 {
     "VersionId": "v8",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2025-03-25T22:22:06+00:00",
     "PolicyName": "AmazonRDSCustomPreviewServiceRolePolicy"
 }
