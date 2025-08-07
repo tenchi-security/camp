@@ -2880,8 +2880,9 @@
 "AmazonLookoutEquipmentReadOnlyAccess","v1",False,"2021-05-05T16:47:55+00:00",0,0,0,0,0,0,0
 "AmazonLookoutEquipmentReadOnlyAccess","v3",True,"2022-11-10T22:04:33+00:00",0,0,0,0,0,0,0
 "SageMakerStudioDomainExecutionRolePolicy","v2",False,"2025-01-14T21:22:06+00:00",0,0,0,0,0,0,0
-"SageMakerStudioDomainExecutionRolePolicy","v4",True,"2025-06-17T20:52:07+00:00",0,0,0,0,0,0,0
+"SageMakerStudioDomainExecutionRolePolicy","v4",False,"2025-06-17T20:52:07+00:00",0,0,0,0,0,0,0
 "SageMakerStudioDomainExecutionRolePolicy","v1",False,"2024-11-20T21:56:55+00:00",0,0,0,0,0,0,0
+"SageMakerStudioDomainExecutionRolePolicy","v5",True,"2025-08-06T22:49:07+00:00",0,0,0,0,0,0,0
 "SageMakerStudioDomainExecutionRolePolicy","v3",False,"2025-03-26T18:52:05+00:00",0,0,0,0,0,0,0
 "AWSPrivateCAConnectorForKubernetesPolicy","v1",True,"2025-05-19T19:22:05+00:00",0,0,0,0,0,0,0
 "AWSFMMemberReadOnlyAccess","v1",True,"2018-05-09T21:05:29+00:00",0,0,0,0,0,0,0
