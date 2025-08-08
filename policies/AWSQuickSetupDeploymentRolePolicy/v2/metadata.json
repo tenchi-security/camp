@@ -1,6 +1,6 @@
 {
     "VersionId": "v2",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2025-06-10T13:22:06+00:00",
     "PolicyName": "AWSQuickSetupDeploymentRolePolicy"
 }
