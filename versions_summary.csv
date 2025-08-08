@@ -2419,6 +2419,7 @@
 "AmazonElasticMapReduceEditorsRole","v2",True,"2023-02-09T22:39:29+00:00",0,1,0,2,0,0,9
 "AmazonElasticMapReduceEditorsRole","v1",False,"2018-11-16T21:55:25+00:00",0,1,0,2,0,0,8
 "AmazonEKSFargatePodExecutionRolePolicy","v1",True,"2019-11-22T04:34:29+00:00",0,1,0,0,0,1,0
+"AWSQuickSetupStartStopInstancesExecutionPolicy","v1",True,"2025-08-08T12:04:07+00:00",0,0,0,0,0,0,0
 "AWSNetworkManagerServiceRolePolicy","v2",False,"2019-12-10T20:41:38+00:00",0,0,0,0,0,0,0
 "AWSNetworkManagerServiceRolePolicy","v4",False,"2021-06-07T16:18:24+00:00",0,0,0,0,0,0,0
 "AWSNetworkManagerServiceRolePolicy","v1",False,"2019-12-03T14:03:35+00:00",0,0,0,0,0,0,0
@@ -3100,6 +3101,7 @@
 "AWSElementalMediaConnectFullAccess","v1",True,"2025-02-12T20:07:07+00:00",1,1,0,0,0,0,14
 "AWSLambdaExecute","v1",True,"2015-02-06T18:40:46+00:00",1,0,0,0,0,0,0
 "AWSPartnerCentralSellingResourceSnapshotJobExecutionRolePolicy","v1",True,"2024-12-10T18:21:15+00:00",0,0,0,0,0,0,0
+"AWSQuickSetupStartSSMAssociationsExecutionPolicy","v1",True,"2025-08-08T12:04:07+00:00",0,0,0,0,0,0,0
 "AWSQuickSightIoTAnalyticsAccess","v1",True,"2017-11-29T17:00:54+00:00",0,0,0,0,0,0,0
 "AWSAppSyncPushToCloudWatchLogs","v1",True,"2018-04-09T19:38:55+00:00",0,1,0,0,0,0,3
 "AmazonEC2ContainerRegistryPowerUser","v2",False,"2016-10-11T22:28:07+00:00",0,1,0,0,0,1,4

@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSQuickSetupStartSSMAssociationsExecutionPolicy",
+    "PolicyId": "ANPAZKAPJZG4JPUVBQPNJ",
+    "Arn": "arn:aws:iam::aws:policy/AWSQuickSetupStartSSMAssociationsExecutionPolicy",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2025-08-08T12:04:07+00:00",
+    "UpdateDate": "2025-08-08T12:04:07+00:00"
+}
