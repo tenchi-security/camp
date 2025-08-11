@@ -1,0 +1,12 @@
+{
+    "PolicyName": "ROSASharedVPCEndpointPolicy",
+    "PolicyId": "ANPAZKAPJZG4DWTCDHZVL",
+    "Arn": "arn:aws:iam::aws:policy/ROSASharedVPCEndpointPolicy",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2025-08-11T17:19:07+00:00",
+    "UpdateDate": "2025-08-11T17:19:07+00:00"
+}

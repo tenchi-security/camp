@@ -1,0 +1,22 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "kms",
+        "route53",
+        "secretsmanager"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "kms:CreateGrant"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "kms:CreateGrant",
+        "kms:GenerateDataKeyWithoutPlaintext",
+        "route53:ChangeResourceRecordSets",
+        "route53:ChangeTagsForResource",
+        "route53:DeleteHostedZone",
+        "secretsmanager:GetSecretValue"
+    ]
+}
