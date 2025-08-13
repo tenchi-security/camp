@@ -2045,11 +2045,12 @@
 "AWSSSMForSAPServiceLinkedRolePolicy","v5",False,"2023-11-17T21:22:26+00:00",0,0,0,0,0,0,0
 "AWSSSMForSAPServiceLinkedRolePolicy","v11",False,"2025-05-27T23:22:07+00:00",0,0,0,0,0,0,0
 "AWSSSMForSAPServiceLinkedRolePolicy","v1",False,"2022-11-16T01:18:21+00:00",0,0,0,0,0,0,0
-"AWSSSMForSAPServiceLinkedRolePolicy","v12",True,"2025-07-08T23:37:07+00:00",0,0,0,0,0,0,0
+"AWSSSMForSAPServiceLinkedRolePolicy","v12",False,"2025-07-08T23:37:07+00:00",0,0,0,0,0,0,0
 "AWSSSMForSAPServiceLinkedRolePolicy","v2",False,"2023-01-06T02:41:02+00:00",0,0,0,0,0,0,0
 "AWSSSMForSAPServiceLinkedRolePolicy","v10",False,"2024-12-11T22:51:34+00:00",0,0,0,0,0,0,0
 "AWSSSMForSAPServiceLinkedRolePolicy","v6",False,"2023-11-21T03:35:14+00:00",0,0,0,0,0,0,0
 "AWSSSMForSAPServiceLinkedRolePolicy","v9",False,"2024-08-29T22:17:07+00:00",0,0,0,0,0,0,0
+"AWSSSMForSAPServiceLinkedRolePolicy","v13",True,"2025-08-12T23:04:07+00:00",0,0,0,0,0,0,0
 "AWSSSMForSAPServiceLinkedRolePolicy","v8",False,"2024-08-05T22:40:26+00:00",0,0,0,0,0,0,0
 "AWSSSMForSAPServiceLinkedRolePolicy","v7",False,"2024-04-11T18:31:07+00:00",0,0,0,0,0,0,0
 "CostOptimizationHubReadOnlyAccess","v1",True,"2023-12-13T18:04:15+00:00",0,0,0,0,0,0,0
