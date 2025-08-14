@@ -4524,10 +4524,11 @@
 "SageMakerStudioProjectProvisioningRolePolicy","v3",False,"2024-11-22T04:51:06+00:00",0,7,0,1,0,0,34
 "SageMakerStudioProjectProvisioningRolePolicy","v4",False,"2024-11-24T19:51:07+00:00",0,7,0,1,0,0,34
 "SageMakerStudioProjectProvisioningRolePolicy","v5",False,"2024-11-27T06:21:08+00:00",0,7,0,1,0,0,34
+"SageMakerStudioProjectProvisioningRolePolicy","v18",True,"2025-08-13T23:49:07+00:00",0,11,0,4,0,0,74
 "SageMakerStudioProjectProvisioningRolePolicy","v11",False,"2025-03-05T23:07:07+00:00",0,7,0,1,0,0,52
 "SageMakerStudioProjectProvisioningRolePolicy","v1",False,"2024-11-20T21:58:39+00:00",0,7,0,1,0,0,34
 "SageMakerStudioProjectProvisioningRolePolicy","v15",False,"2025-06-03T22:52:07+00:00",0,10,0,4,0,0,69
-"SageMakerStudioProjectProvisioningRolePolicy","v17",True,"2025-07-15T16:22:08+00:00",0,11,0,4,0,0,74
+"SageMakerStudioProjectProvisioningRolePolicy","v17",False,"2025-07-15T16:22:08+00:00",0,11,0,4,0,0,74
 "SageMakerStudioProjectProvisioningRolePolicy","v12",False,"2025-03-21T20:07:07+00:00",0,7,0,1,0,0,52
 "SageMakerStudioProjectProvisioningRolePolicy","v2",False,"2024-11-21T22:36:06+00:00",0,7,0,1,0,0,34
 "SageMakerStudioProjectProvisioningRolePolicy","v10",False,"2025-03-03T19:37:06+00:00",0,7,0,1,0,0,52
