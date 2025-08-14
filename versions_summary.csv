@@ -1349,8 +1349,9 @@
 "AWSVPCS2SVpnServiceRolePolicy","v1",False,"2019-08-06T14:13:58+00:00",0,0,0,0,0,0,0
 "AWSVPCS2SVpnServiceRolePolicy","v2",True,"2025-05-15T16:52:07+00:00",0,0,0,0,0,0,0
 "AWSMigrationHubStrategyServiceRolePolicy","v1",True,"2021-10-19T20:02:37+00:00",0,0,0,0,0,0,0
+"AmazonEVSServiceRolePolicy","v3",True,"2025-08-14T16:04:06+00:00",0,0,0,0,0,0,0
 "AmazonEVSServiceRolePolicy","v1",False,"2025-05-16T23:37:06+00:00",0,0,0,0,0,0,0
-"AmazonEVSServiceRolePolicy","v2",True,"2025-08-05T18:34:07+00:00",0,0,0,0,0,0,0
+"AmazonEVSServiceRolePolicy","v2",False,"2025-08-05T18:34:07+00:00",0,0,0,0,0,0,0
 "AWSBugBustServiceRolePolicy","v1",True,"2021-06-24T06:59:05+00:00",0,1,0,0,0,0,1
 "AWSReachabilityAnalyzerServiceRolePolicy","v3",False,"2024-05-15T20:49:51+00:00",0,0,0,0,0,0,0
 "AWSReachabilityAnalyzerServiceRolePolicy","v4",True,"2024-09-10T16:04:52+00:00",0,0,0,0,0,0,0
