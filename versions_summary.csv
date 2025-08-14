@@ -1405,6 +1405,7 @@
 "AmazonCognitoReadOnly","v4",True,"2019-08-01T19:21:04+00:00",0,2,0,1,0,4,0
 "AmazonCognitoReadOnly","v1",False,"2015-03-24T17:06:46+00:00",0,1,0,1,0,3,0
 "AmazonCognitoReadOnly","v2",False,"2016-06-02T17:30:24+00:00",0,1,0,1,0,3,0
+"AWSManagementConsoleBasicUserAccess","v1",True,"2025-08-14T20:34:08+00:00",0,1,0,0,0,0,5
 "AWSBillingReadOnlyAccess","v3",False,"2023-06-28T19:56:01+00:00",0,0,0,0,0,0,0
 "AWSBillingReadOnlyAccess","v4",False,"2023-07-26T18:05:19+00:00",0,0,0,0,0,0,0
 "AWSBillingReadOnlyAccess","v5",False,"2024-01-17T18:15:35+00:00",0,0,0,0,0,0,0
@@ -3917,6 +3918,7 @@
 "AmazonSQSReadOnlyAccess","v4",True,"2024-05-24T18:16:44+00:00",0,0,0,0,0,0,0
 "AmazonSQSReadOnlyAccess","v1",False,"2015-02-06T18:41:08+00:00",0,0,0,0,0,0,0
 "AmazonSQSReadOnlyAccess","v2",False,"2018-08-20T23:35:49+00:00",0,0,0,0,0,0,0
+"AWSManagementConsoleAdministratorAccess","v1",True,"2025-08-14T21:19:07+00:00",0,3,0,0,0,0,21
 "AWSWellArchitectedOrganizationsServiceRolePolicy","v1",False,"2022-06-23T17:15:26+00:00",0,0,0,0,0,0,0
 "AWSWellArchitectedOrganizationsServiceRolePolicy","v2",True,"2022-07-25T18:03:31+00:00",0,0,0,0,0,0,0
 "AWSDataSyncFullAccess","v3",False,"2020-06-30T17:58:58+00:00",1,4,0,2,0,0,15

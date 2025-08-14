@@ -1,0 +1,35 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "cloudshell",
+        "notifications",
+        "resource-explorer-2"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "cloudshell:CreateSession",
+        "cloudshell:DeleteEnvironment",
+        "cloudshell:GetFileDownloadUrls",
+        "cloudshell:GetFileUploadUrls",
+        "cloudshell:PutCredentials",
+        "cloudshell:StartEnvironment",
+        "cloudshell:StopEnvironment",
+        "notifications:AssociateChannel",
+        "notifications:DeleteEventRule",
+        "notifications:DeleteNotificationConfiguration",
+        "notifications:DisassociateChannel",
+        "notifications:TagResource",
+        "notifications:UntagResource",
+        "notifications:UpdateEventRule",
+        "notifications:UpdateNotificationConfiguration",
+        "resource-explorer-2:DeleteIndex",
+        "resource-explorer-2:DeleteView",
+        "resource-explorer-2:TagResource",
+        "resource-explorer-2:UntagResource",
+        "resource-explorer-2:UpdateIndexType",
+        "resource-explorer-2:UpdateView"
+    ]
+}

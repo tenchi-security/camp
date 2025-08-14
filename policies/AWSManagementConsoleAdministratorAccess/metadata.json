@@ -1,0 +1,12 @@
+{
+    "PolicyName": "AWSManagementConsoleAdministratorAccess",
+    "PolicyId": "ANPAZKAPJZG4FJDPMMCIQ",
+    "Arn": "arn:aws:iam::aws:policy/job-function/AWSManagementConsoleAdministratorAccess",
+    "Path": "/job-function/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2025-08-14T21:19:07+00:00",
+    "UpdateDate": "2025-08-14T21:19:07+00:00"
+}
