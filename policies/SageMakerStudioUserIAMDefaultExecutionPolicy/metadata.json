@@ -1,0 +1,12 @@
+{
+    "PolicyName": "SageMakerStudioUserIAMDefaultExecutionPolicy",
+    "PolicyId": "ANPAZKAPJZG4BV3PMY4IB",
+    "Arn": "arn:aws:iam::aws:policy/SageMakerStudioUserIAMDefaultExecutionPolicy",
+    "Path": "/",
+    "DefaultVersionId": "v1",
+    "AttachmentCount": 0,
+    "PermissionsBoundaryUsageCount": 0,
+    "IsAttachable": true,
+    "CreateDate": "2025-08-18T17:19:07+00:00",
+    "UpdateDate": "2025-08-18T17:19:07+00:00"
+}
