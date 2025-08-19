@@ -1,0 +1,20 @@
+{
+    "ServiceWildcard": [
+        "datazone"
+    ],
+    "ServicesAffected": [
+        "datazone"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "datazone:BatchDeleteLinkedTypes",
+        "datazone:BatchPutLinkedTypes",
+        "datazone:DeleteDomain",
+        "datazone:TagResource",
+        "datazone:UntagResource",
+        "datazone:UpdateDomain"
+    ]
+}

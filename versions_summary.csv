@@ -1744,6 +1744,7 @@
 "AWSSecurityIncidentResponseTriageServiceRolePolicy","v1",False,"2024-12-01T16:36:07+00:00",0,2,0,0,0,0,5
 "AWSSecurityIncidentResponseTriageServiceRolePolicy","v2",True,"2025-06-02T18:22:06+00:00",0,3,0,0,0,0,7
 "AWSElementalMediaPackageV2FullAccess","v1",True,"2023-07-25T20:29:37+00:00",1,0,0,0,0,0,0
+"SageMakerStudioAdminIAMConsolePolicy","v1",True,"2025-08-18T22:49:07+00:00",1,1,0,0,0,0,6
 "ReadOnlyAccess","v122",False,"2024-11-19T16:06:06+00:00",0,9,0,0,4,9,4
 "ReadOnlyAccess","v83",False,"2022-02-16T20:46:04+00:00",0,9,0,0,4,9,4
 "ReadOnlyAccess","v51",False,"2019-06-26T21:54:17+00:00",0,9,0,1,4,11,5
@@ -2514,6 +2515,7 @@
 "AmazonSageMakerModelGovernanceUseAccess","v3",True,"2024-06-04T21:48:12+00:00",0,1,0,0,0,0,9
 "AmazonSageMakerModelGovernanceUseAccess","v1",False,"2022-11-30T08:58:19+00:00",0,1,0,0,0,0,4
 "AmazonSageMakerModelGovernanceUseAccess","v2",False,"2023-07-17T22:31:07+00:00",0,1,0,0,0,0,9
+"SageMakerStudioUserIAMConsolePolicy","v1",True,"2025-08-18T22:49:07+00:00",0,0,0,0,0,0,0
 "AmazonRedshiftQueryEditorV2ReadSharing","v3",False,"2022-06-15T10:16:40+00:00",0,1,0,0,0,0,16
 "AmazonRedshiftQueryEditorV2ReadSharing","v4",False,"2022-08-31T04:02:10+00:00",0,1,0,0,0,0,16
 "AmazonRedshiftQueryEditorV2ReadSharing","v5",False,"2022-10-17T17:29:34+00:00",0,1,0,0,0,0,16
