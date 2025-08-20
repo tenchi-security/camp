@@ -567,9 +567,10 @@
 "AmazonWorkLinkServiceRolePolicy","v2",True,"2020-02-07T20:48:49+00:00",0,2,0,2,0,0,7
 "SageMakerStudioDomainExecutionRolePolicy","v3",False,"2025-03-26T18:52:05+00:00",0,0,0,0,0,0,0
 "SageMakerStudioDomainExecutionRolePolicy","v4",False,"2025-06-17T20:52:07+00:00",0,0,0,0,0,0,0
-"SageMakerStudioDomainExecutionRolePolicy","v5",True,"2025-08-06T22:49:07+00:00",0,0,0,0,0,0,0
+"SageMakerStudioDomainExecutionRolePolicy","v5",False,"2025-08-06T22:49:07+00:00",0,0,0,0,0,0,0
 "SageMakerStudioDomainExecutionRolePolicy","v1",False,"2024-11-20T21:56:55+00:00",0,0,0,0,0,0,0
 "SageMakerStudioDomainExecutionRolePolicy","v2",False,"2025-01-14T21:22:06+00:00",0,0,0,0,0,0,0
+"SageMakerStudioDomainExecutionRolePolicy","v6",True,"2025-08-20T17:34:07+00:00",0,0,0,0,0,0,0
 "EC2FastLaunchServiceRolePolicy","v3",True,"2025-07-18T00:37:06+00:00",0,2,0,1,0,0,2
 "EC2FastLaunchServiceRolePolicy","v1",False,"2022-01-10T13:08:21+00:00",0,1,0,1,0,0,1
 "EC2FastLaunchServiceRolePolicy","v2",False,"2025-05-14T17:07:07+00:00",0,2,0,1,0,0,2
