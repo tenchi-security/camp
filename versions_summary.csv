@@ -1411,8 +1411,9 @@
 "AWSBillingReadOnlyAccess","v3",False,"2023-06-28T19:56:01+00:00",0,0,0,0,0,0,0
 "AWSBillingReadOnlyAccess","v4",False,"2023-07-26T18:05:19+00:00",0,0,0,0,0,0,0
 "AWSBillingReadOnlyAccess","v5",False,"2024-01-17T18:15:35+00:00",0,0,0,0,0,0,0
-"AWSBillingReadOnlyAccess","v11",True,"2025-07-10T21:07:07+00:00",0,0,0,0,0,0,0
+"AWSBillingReadOnlyAccess","v11",False,"2025-07-10T21:07:07+00:00",0,0,0,0,0,0,0
 "AWSBillingReadOnlyAccess","v1",False,"2020-08-27T20:08:51+00:00",0,0,0,0,0,0,0
+"AWSBillingReadOnlyAccess","v12",True,"2025-08-21T21:34:07+00:00",0,0,0,0,0,0,0
 "AWSBillingReadOnlyAccess","v2",False,"2023-03-08T17:48:14+00:00",0,0,0,0,0,0,0
 "AWSBillingReadOnlyAccess","v10",False,"2025-03-12T18:07:07+00:00",0,0,0,0,0,0,0
 "AWSBillingReadOnlyAccess","v6",False,"2024-05-21T19:58:07+00:00",0,0,0,0,0,0,0
@@ -2674,7 +2675,8 @@
 "IAMAccessAdvisorReadOnly","v1",True,"2019-06-21T19:33:45+00:00",0,0,0,0,0,0,0
 "AWSPartnerCentralOpportunityManagement","v1",False,"2024-11-14T19:09:05+00:00",0,0,0,0,0,0,0
 "AWSPartnerCentralOpportunityManagement","v2",True,"2024-12-04T23:06:07+00:00",0,1,0,0,0,0,7
-"AmazonSageMakerHyperPodObservabilityAdminAccess","v1",True,"2025-07-10T14:37:07+00:00",0,0,0,0,0,0,0
+"AmazonSageMakerHyperPodObservabilityAdminAccess","v1",False,"2025-07-10T14:37:07+00:00",0,0,0,0,0,0,0
+"AmazonSageMakerHyperPodObservabilityAdminAccess","v2",True,"2025-08-21T21:19:07+00:00",0,0,0,0,0,0,0
 "AWSCloudShellFullAccess","v1",True,"2020-12-15T18:07:44+00:00",1,1,0,0,0,0,7
 "AmazonOpenSearchServerlessServiceRolePolicy","v1",False,"2022-11-24T19:50:12+00:00",0,0,0,0,0,0,0
 "AmazonOpenSearchServerlessServiceRolePolicy","v2",True,"2024-07-25T21:19:30+00:00",0,0,0,0,0,0,0
