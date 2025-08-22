@@ -61,7 +61,8 @@
 "AWSLambdaRole","v1",True,"2015-02-06T18:41:28+00:00",0,1,0,0,0,0,1
 "AWSZonalAutoshiftPracticeRunSLRPolicy","v1",False,"2023-11-29T17:34:54+00:00",0,1,0,0,0,0,3
 "AWSZonalAutoshiftPracticeRunSLRPolicy","v2",True,"2025-06-30T17:07:07+00:00",0,1,0,0,0,0,3
-"AmazonAuroraDSQLConsoleFullAccess","v3",True,"2025-05-21T21:22:07+00:00",0,3,0,1,0,0,13
+"AmazonAuroraDSQLConsoleFullAccess","v3",False,"2025-05-21T21:22:07+00:00",0,3,0,1,0,0,13
+"AmazonAuroraDSQLConsoleFullAccess","v4",True,"2025-08-22T19:19:07+00:00",0,3,0,1,0,0,13
 "AmazonAuroraDSQLConsoleFullAccess","v1",False,"2024-12-03T15:36:07+00:00",0,1,0,1,0,0,1
 "AmazonAuroraDSQLConsoleFullAccess","v2",False,"2025-05-14T19:37:06+00:00",0,2,0,1,0,0,10
 "ROSAKubeControllerPolicy","v3",False,"2023-10-16T18:17:05+00:00",0,1,0,0,0,0,21
@@ -703,7 +704,8 @@
 "SupportUser","v7",False,"2022-07-25T22:45:38+00:00",1,1,0,0,0,1,1
 "AWSApplicationAutoscalingSageMakerEndpointPolicy","v1",False,"2018-02-06T19:58:21+00:00",0,2,0,0,0,0,3
 "AWSApplicationAutoscalingSageMakerEndpointPolicy","v2",True,"2023-11-13T18:52:34+00:00",0,1,0,0,0,0,1
-"AmazonAuroraDSQLFullAccess","v3",True,"2025-05-21T21:22:07+00:00",0,3,0,1,0,0,13
+"AmazonAuroraDSQLFullAccess","v3",False,"2025-05-21T21:22:07+00:00",0,3,0,1,0,0,13
+"AmazonAuroraDSQLFullAccess","v4",True,"2025-08-22T19:04:07+00:00",0,3,0,1,0,0,13
 "AmazonAuroraDSQLFullAccess","v1",False,"2024-12-03T15:36:07+00:00",0,1,0,1,0,0,1
 "AmazonAuroraDSQLFullAccess","v2",False,"2025-05-14T19:37:06+00:00",0,2,0,1,0,0,10
 "AmazonTimestreamFullAccess","v1",False,"2020-09-30T21:47:14+00:00",1,2,0,1,0,0,10

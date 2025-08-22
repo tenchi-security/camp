@@ -1,0 +1,29 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "dsql",
+        "iam",
+        "kms"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [
+        "iam:CreateServiceLinkedRole"
+    ],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "dsql:CreateCluster",
+        "dsql:DbConnect",
+        "dsql:DbConnectAdmin",
+        "dsql:DeleteCluster",
+        "dsql:TagResource",
+        "dsql:UntagResource",
+        "dsql:UpdateCluster",
+        "iam:CreateServiceLinkedRole",
+        "kms:Decrypt",
+        "kms:Encrypt",
+        "kms:GenerateDataKey",
+        "kms:ReEncryptFrom",
+        "kms:ReEncryptTo"
+    ]
+}
