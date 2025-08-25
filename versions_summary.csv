@@ -3466,7 +3466,8 @@
 "AmazonOpenSearchDashboardsServiceRolePolicy","v1",True,"2023-12-22T19:38:16+00:00",0,0,0,0,0,0,0
 "AWSDeepRacerDefaultMultiUserAccess","v1",True,"2021-10-28T01:27:13+00:00",0,1,0,0,0,0,16
 "AmazonRoute53AutoNamingFullAccess","v1",True,"2018-01-18T18:40:41+00:00",1,2,0,0,0,0,11
-"AWSSystemsManagerJustInTimeAccessServicePolicy","v1",True,"2025-04-21T20:07:07+00:00",0,0,0,0,0,0,0
+"AWSSystemsManagerJustInTimeAccessServicePolicy","v1",False,"2025-04-21T20:07:07+00:00",0,0,0,0,0,0,0
+"AWSSystemsManagerJustInTimeAccessServicePolicy","v2",True,"2025-08-25T20:49:06+00:00",0,0,0,0,0,0,0
 "AWSBugBustPlayerAccess","v1",True,"2021-06-24T07:15:00+00:00",0,0,0,0,0,0,0
 "AmazonEFSCSIDriverPolicy","v1",True,"2023-07-25T20:10:04+00:00",0,1,0,0,0,0,3
 "AmazonKinesisReadOnlyAccess","v1",True,"2015-02-06T18:40:30+00:00",0,0,0,0,0,0,0
