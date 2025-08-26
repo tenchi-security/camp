@@ -4119,8 +4119,9 @@
 "AmazonEKSComputePolicy","v1",False,"2024-11-01T21:46:52+00:00",0,2,0,1,0,0,5
 "AmazonEKSComputePolicy","v2",False,"2024-11-07T21:21:18+00:00",0,2,0,1,0,0,5
 "AmazonWorkSpacesSelfServiceAccess","v1",True,"2019-06-27T19:22:52+00:00",0,1,0,0,0,0,3
+"AmazonWorkSpacesThinClientFullAccess","v3",True,"2025-08-26T17:34:07+00:00",1,1,0,0,0,0,8
 "AmazonWorkSpacesThinClientFullAccess","v1",False,"2024-08-09T07:25:24+00:00",1,1,0,0,0,0,8
-"AmazonWorkSpacesThinClientFullAccess","v2",True,"2025-01-09T16:52:06+00:00",1,1,0,0,0,0,8
+"AmazonWorkSpacesThinClientFullAccess","v2",False,"2025-01-09T16:52:06+00:00",1,1,0,0,0,0,8
 "AWSGlueConsoleSageMakerNotebookFullAccess","v3",True,"2021-07-15T15:24:19+00:00",1,2,1,2,0,0,48
 "AWSGlueConsoleSageMakerNotebookFullAccess","v1",False,"2018-10-05T17:52:35+00:00",1,2,1,2,0,0,48
 "AWSGlueConsoleSageMakerNotebookFullAccess","v2",False,"2019-09-26T17:14:11+00:00",1,2,1,2,0,0,48
