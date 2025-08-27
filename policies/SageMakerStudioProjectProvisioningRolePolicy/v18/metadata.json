@@ -1,6 +1,6 @@
 {
     "VersionId": "v18",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2025-08-13T23:49:07+00:00",
     "PolicyName": "SageMakerStudioProjectProvisioningRolePolicy"
 }
