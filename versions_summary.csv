@@ -654,7 +654,8 @@
 "AmazonEKSServiceRolePolicy","v1",False,"2020-02-21T20:10:47+00:00",0,1,0,1,0,0,5
 "AmazonEKSServiceRolePolicy","v2",False,"2020-05-27T19:30:19+00:00",0,1,0,1,0,0,6
 "AmazonEKSServiceRolePolicy","v6",False,"2025-02-26T21:37:06+00:00",0,3,0,1,0,0,18
-"AmazonEKSServiceRolePolicy","v8",True,"2025-06-20T21:07:07+00:00",0,3,0,1,0,0,18
+"AmazonEKSServiceRolePolicy","v9",True,"2025-08-26T22:49:07+00:00",0,3,0,1,0,0,18
+"AmazonEKSServiceRolePolicy","v8",False,"2025-06-20T21:07:07+00:00",0,3,0,1,0,0,18
 "AmazonEKSServiceRolePolicy","v7",False,"2025-04-14T20:52:07+00:00",0,3,0,1,0,0,18
 "AWSIoTFullAccess","v1",False,"2015-10-08T15:19:49+00:00",1,1,0,6,0,0,98
 "AWSIoTFullAccess","v2",True,"2022-05-19T21:39:11+00:00",2,1,0,6,0,0,109
