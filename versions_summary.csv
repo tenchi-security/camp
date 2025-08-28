@@ -3230,6 +3230,7 @@
 "AmazonDataZoneFullUserAccess","v5",False,"2024-03-12T23:47:37+00:00",0,0,0,0,0,0,0
 "AmazonDataZoneFullUserAccess","v4",False,"2023-11-28T12:52:10+00:00",0,0,0,0,0,0,0
 "AmazonDataZoneFullUserAccess","v2",False,"2023-09-26T04:10:01+00:00",0,0,0,0,0,0,0
+"AWSTransformApplicationDeploymentPolicy","v1",True,"2025-08-28T06:34:07+00:00",0,0,0,0,0,0,0
 "AmazonOpenSearchIngestionServiceRolePolicy","v1",True,"2022-11-18T16:49:50+00:00",0,0,0,0,0,0,0
 "AmazonDataZoneBedrockModelManagementPolicy","v1",True,"2024-11-12T22:14:20+00:00",0,0,0,0,0,0,0
 "SageMakerStudioProjectRoleMachineLearningPolicy","v1",False,"2024-11-20T21:55:27+00:00",0,1,0,0,0,0,48
