@@ -1,0 +1,6 @@
+{
+    "VersionId": "v2",
+    "IsDefaultVersion": true,
+    "CreateDate": "2025-08-28T18:19:07+00:00",
+    "PolicyName": "AmazonOpenSearchIngestionServiceRolePolicy"
+}
