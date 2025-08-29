@@ -1609,7 +1609,8 @@
 "AmazonBraketFullAccess","v5",False,"2022-03-31T19:03:33+00:00",1,2,0,0,0,1,4
 "AmazonBraketFullAccess","v4",False,"2021-11-28T05:31:50+00:00",1,2,0,0,0,1,4
 "AmazonBraketFullAccess","v2",False,"2021-02-18T07:48:38+00:00",1,1,0,0,0,0,4
-"AWSServiceRoleForAWSTransform","v1",True,"2025-05-15T13:37:07+00:00",0,0,0,0,0,0,0
+"AWSServiceRoleForAWSTransform","v1",False,"2025-05-15T13:37:07+00:00",0,0,0,0,0,0,0
+"AWSServiceRoleForAWSTransform","v2",True,"2025-08-29T17:49:08+00:00",0,0,0,0,0,0,0
 "AWSCodeDeployReadOnlyAccess","v1",False,"2015-05-19T18:21:32+00:00",0,0,0,0,0,0,0
 "AWSCodeDeployReadOnlyAccess","v3",False,"2020-04-02T16:20:09+00:00",0,0,0,0,0,0,0
 "AWSCodeDeployReadOnlyAccess","v4",True,"2024-12-16T20:07:07+00:00",0,0,0,0,0,0,0
