@@ -3435,7 +3435,8 @@
 "AmazonAppStreamServiceAccess","v4",False,"2018-08-13T18:19:51+00:00",0,1,0,0,0,0,4
 "AmazonAppStreamServiceAccess","v2",False,"2017-05-03T17:00:59+00:00",0,1,0,0,0,0,4
 "AWSUserNotificationsServiceLinkedRolePolicy","v1",False,"2023-04-19T13:28:34+00:00",0,0,0,0,0,0,0
-"AWSUserNotificationsServiceLinkedRolePolicy","v2",True,"2025-01-14T23:37:06+00:00",0,0,0,0,0,0,0
+"AWSUserNotificationsServiceLinkedRolePolicy","v3",True,"2025-09-02T20:49:07+00:00",0,1,0,0,0,0,3
+"AWSUserNotificationsServiceLinkedRolePolicy","v2",False,"2025-01-14T23:37:06+00:00",0,0,0,0,0,0,0
 "AmazonChimeSDKMessagingServiceRolePolicy","v1",True,"2023-03-03T01:43:49+00:00",0,1,0,0,0,0,1
 "AmazonRDSPerformanceInsightsFullAccess","v1",False,"2023-08-15T23:41:34+00:00",0,0,0,0,0,0,0
 "AmazonRDSPerformanceInsightsFullAccess","v2",True,"2023-10-23T21:14:27+00:00",0,0,0,0,0,0,0
@@ -4372,7 +4373,7 @@
 "ReadOnlyAccess","v37",False,"2018-07-30T17:48:23+00:00",0,9,0,1,4,11,7
 "ReadOnlyAccess","v112",False,"2024-04-17T21:17:05+00:00",0,9,0,0,4,9,4
 "ReadOnlyAccess","v38",False,"2018-08-13T19:15:42+00:00",0,9,0,1,4,11,7
-"ReadOnlyAccess","v131",True,"2025-07-24T15:07:06+00:00",0,10,0,1,4,9,5
+"ReadOnlyAccess","v131",False,"2025-07-24T15:07:06+00:00",0,10,0,1,4,9,5
 "ReadOnlyAccess","v96",False,"2023-02-10T22:36:36+00:00",0,9,0,0,4,9,4
 "ReadOnlyAccess","v7",False,"2015-12-21T20:07:32+00:00",0,1,0,0,1,0,1
 "ReadOnlyAccess","v14",False,"2016-06-02T18:28:57+00:00",0,2,0,0,1,1,1
@@ -4417,6 +4418,7 @@
 "ReadOnlyAccess","v103",False,"2023-07-10T17:02:45+00:00",0,9,0,0,4,9,4
 "ReadOnlyAccess","v68",False,"2020-10-07T22:09:23+00:00",0,9,0,0,4,10,5
 "ReadOnlyAccess","v63",False,"2020-03-09T23:45:01+00:00",0,9,0,0,4,11,5
+"ReadOnlyAccess","v132",True,"2025-09-02T21:49:07+00:00",0,10,0,1,4,9,5
 "ReadOnlyAccess","v6",False,"2015-11-02T23:13:14+00:00",0,1,0,0,1,0,1
 "ReadOnlyAccess","v15",False,"2016-06-20T21:12:28+00:00",0,2,0,0,1,1,1
 "ReadOnlyAccess","v79",False,"2021-09-08T19:43:26+00:00",0,10,0,0,4,9,5

@@ -1,0 +1,15 @@
+{
+    "ServiceWildcard": [],
+    "ServicesAffected": [
+        "notifications"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "notifications:DeleteEventRule",
+        "notifications:DeleteNotificationConfiguration",
+        "notifications:UpdateEventRule"
+    ]
+}
