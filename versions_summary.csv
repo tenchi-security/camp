@@ -2690,6 +2690,7 @@
 "AmazonEC2ContainerServiceEventsRole","v3",True,"2023-03-06T22:25:12+00:00",0,2,0,1,0,0,3
 "AmazonEC2ContainerServiceEventsRole","v2",False,"2018-05-22T19:13:11+00:00",0,2,0,1,0,0,2
 "EC2InstanceConnect","v1",True,"2019-06-27T18:53:34+00:00",0,1,0,0,0,0,1
+"ViewOnlyAccess","v26",True,"2025-09-03T16:34:07+00:00",0,0,0,0,0,0,0
 "ViewOnlyAccess","v1",False,"2016-11-10T17:20:15+00:00",0,0,0,0,0,0,0
 "ViewOnlyAccess","v10",False,"2020-08-18T22:51:43+00:00",0,0,0,0,0,0,0
 "ViewOnlyAccess","v16",False,"2023-01-05T20:51:00+00:00",0,0,0,0,0,0,0
@@ -2704,7 +2705,7 @@
 "ViewOnlyAccess","v9",False,"2020-03-09T23:53:28+00:00",0,0,0,0,0,0,0
 "ViewOnlyAccess","v12",False,"2021-12-21T02:53:03+00:00",0,0,0,0,0,0,0
 "ViewOnlyAccess","v11",False,"2021-06-11T19:27:03+00:00",0,0,0,0,0,0,0
-"ViewOnlyAccess","v25",True,"2025-05-28T16:22:06+00:00",0,0,0,0,0,0,0
+"ViewOnlyAccess","v25",False,"2025-05-28T16:22:06+00:00",0,0,0,0,0,0,0
 "ViewOnlyAccess","v17",False,"2023-03-06T15:59:28+00:00",0,0,0,0,0,0,0
 "ViewOnlyAccess","v6",False,"2018-09-12T21:57:01+00:00",0,0,0,0,0,0,0
 "ViewOnlyAccess","v15",False,"2022-05-06T21:01:44+00:00",0,0,0,0,0,0,0
