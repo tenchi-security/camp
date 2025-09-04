@@ -846,7 +846,8 @@
 "AWSCertificateManagerPrivateCAPrivilegedUser","v2",True,"2025-01-22T19:52:05+00:00",0,0,0,0,0,0,0
 "AmazonKendraReadOnlyAccess","v1",False,"2019-12-03T16:13:45+00:00",0,0,0,0,0,0,0
 "AmazonKendraReadOnlyAccess","v2",True,"2021-05-27T17:01:20+00:00",0,0,0,0,0,0,0
-"SageMakerStudioQueryExecutionRolePolicy","v1",True,"2025-01-31T19:52:07+00:00",0,0,0,0,0,0,0
+"SageMakerStudioQueryExecutionRolePolicy","v1",False,"2025-01-31T19:52:07+00:00",0,0,0,0,0,0,0
+"SageMakerStudioQueryExecutionRolePolicy","v2",True,"2025-09-04T17:49:08+00:00",0,0,0,0,0,0,0
 "AWSManagementConsoleAdministratorAccess","v1",True,"2025-08-14T21:19:07+00:00",0,3,0,0,0,0,21
 "AmazonSageMakerCanvasFullAccess","v1",False,"2022-09-09T00:44:25+00:00",0,4,0,0,0,1,3
 "AmazonSageMakerCanvasFullAccess","v10",False,"2024-07-09T23:10:27+00:00",0,4,0,0,0,1,3
