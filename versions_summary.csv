@@ -4537,6 +4537,7 @@
 "LightsailExportAccess","v2",True,"2022-01-15T01:45:33+00:00",0,1,0,0,0,0,2
 "AWSResourceExplorerServiceRolePolicy","v1",False,"2022-10-25T20:35:29+00:00",0,0,0,0,0,0,0
 "AWSResourceExplorerServiceRolePolicy","v10",False,"2024-11-14T17:22:13+00:00",0,0,0,0,0,0,0
+"AWSResourceExplorerServiceRolePolicy","v16",True,"2025-09-04T01:04:07+00:00",0,1,0,0,0,0,2
 "AWSResourceExplorerServiceRolePolicy","v8",False,"2024-08-19T15:51:19+00:00",0,0,0,0,0,0,0
 "AWSResourceExplorerServiceRolePolicy","v3",False,"2023-01-26T14:43:30+00:00",0,0,0,0,0,0,0
 "AWSResourceExplorerServiceRolePolicy","v7",False,"2023-12-20T13:58:52+00:00",0,0,0,0,0,0,0
@@ -4545,7 +4546,7 @@
 "AWSResourceExplorerServiceRolePolicy","v12",False,"2025-02-21T17:52:06+00:00",0,0,0,0,0,0,0
 "AWSResourceExplorerServiceRolePolicy","v11",False,"2025-01-15T17:37:06+00:00",0,0,0,0,0,0,0
 "AWSResourceExplorerServiceRolePolicy","v6",False,"2023-11-07T17:07:44+00:00",0,0,0,0,0,0,0
-"AWSResourceExplorerServiceRolePolicy","v15",True,"2025-07-23T15:22:07+00:00",0,1,0,0,0,0,2
+"AWSResourceExplorerServiceRolePolicy","v15",False,"2025-07-23T15:22:07+00:00",0,1,0,0,0,0,2
 "AWSResourceExplorerServiceRolePolicy","v5",False,"2023-10-17T15:07:03+00:00",0,0,0,0,0,0,0
 "AWSResourceExplorerServiceRolePolicy","v13",False,"2025-03-25T14:22:06+00:00",0,0,0,0,0,0,0
 "AWSResourceExplorerServiceRolePolicy","v4",False,"2023-08-01T19:33:28+00:00",0,0,0,0,0,0,0
