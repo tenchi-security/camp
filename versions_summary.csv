@@ -714,7 +714,8 @@
 "AWSCertificateManagerReadOnly","v2",False,"2016-04-21T15:08:16+00:00",0,0,0,0,0,0,0
 "AmazonTimestreamConsoleFullAccess","v1",False,"2020-09-30T21:47:18+00:00",1,2,0,1,0,0,10
 "AmazonTimestreamConsoleFullAccess","v3",False,"2021-11-26T23:43:50+00:00",1,2,0,1,0,0,10
-"AmazonTimestreamConsoleFullAccess","v5",True,"2025-06-17T13:37:06+00:00",1,1,0,0,0,0,16
+"AmazonTimestreamConsoleFullAccess","v6",True,"2025-09-04T15:04:08+00:00",1,1,0,0,0,0,16
+"AmazonTimestreamConsoleFullAccess","v5",False,"2025-06-17T13:37:06+00:00",1,1,0,0,0,0,16
 "AmazonTimestreamConsoleFullAccess","v4",False,"2022-02-01T21:37:31+00:00",1,2,0,1,0,0,10
 "AmazonTimestreamConsoleFullAccess","v2",False,"2021-05-20T00:48:09+00:00",1,2,0,1,0,0,10
 "AWSCloudHSMFullAccess","v1",True,"2015-02-06T18:39:51+00:00",1,1,0,0,0,0,9

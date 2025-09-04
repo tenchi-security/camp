@@ -1,6 +1,6 @@
 {
     "VersionId": "v5",
-    "IsDefaultVersion": true,
+    "IsDefaultVersion": false,
     "CreateDate": "2025-06-17T13:37:06+00:00",
     "PolicyName": "AmazonTimestreamConsoleFullAccess"
 }
