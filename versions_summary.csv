@@ -2479,7 +2479,7 @@
 "AWSMigrationHubRefactorSpacesServiceRolePolicy","v1",False,"2021-11-29T06:50:15+00:00",0,3,0,3,0,0,15
 "AWSMigrationHubRefactorSpacesServiceRolePolicy","v3",True,"2023-07-20T15:57:53+00:00",0,3,0,3,0,0,16
 "AWSMigrationHubRefactorSpacesServiceRolePolicy","v2",False,"2022-10-28T18:39:20+00:00",0,3,0,3,0,0,16
-"SecurityAudit","v54",True,"2025-07-24T15:07:07+00:00",0,1,0,3,0,0,3
+"SecurityAudit","v54",False,"2025-07-24T15:07:07+00:00",0,1,0,3,0,0,3
 "SecurityAudit","v26",False,"2019-03-22T16:38:42+00:00",0,1,0,2,0,0,2
 "SecurityAudit","v27",False,"2019-04-29T18:33:52+00:00",0,1,0,2,0,0,2
 "SecurityAudit","v1",False,"2015-02-06T18:41:01+00:00",0,0,0,0,0,0,0
@@ -2496,6 +2496,7 @@
 "SecurityAudit","v41",False,"2023-12-14T21:45:16+00:00",0,1,0,3,0,0,3
 "SecurityAudit","v3",False,"2015-06-15T22:13:40+00:00",0,0,0,0,0,0,0
 "SecurityAudit","v52",False,"2025-07-02T18:37:08+00:00",0,1,0,3,0,0,3
+"SecurityAudit","v55",True,"2025-09-05T18:04:08+00:00",0,1,0,3,0,0,3
 "SecurityAudit","v20",False,"2018-07-30T18:30:09+00:00",0,0,0,0,0,0,0
 "SecurityAudit","v43",False,"2024-10-07T18:27:28+00:00",0,1,0,3,0,0,3
 "SecurityAudit","v46",False,"2024-11-19T17:51:06+00:00",0,1,0,3,0,0,3
