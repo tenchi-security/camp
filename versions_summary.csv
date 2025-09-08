@@ -3242,11 +3242,12 @@
 "AmazonOpenSearchIngestionServiceRolePolicy","v2",True,"2025-08-28T18:19:07+00:00",0,0,0,0,0,0,0
 "AmazonDataZoneBedrockModelManagementPolicy","v1",True,"2024-11-12T22:14:20+00:00",0,0,0,0,0,0,0
 "SageMakerStudioProjectRoleMachineLearningPolicy","v1",False,"2024-11-20T21:55:27+00:00",0,1,0,0,0,0,48
-"SageMakerStudioProjectRoleMachineLearningPolicy","v10",True,"2025-07-22T20:07:08+00:00",0,3,0,2,0,0,58
+"SageMakerStudioProjectRoleMachineLearningPolicy","v10",False,"2025-07-22T20:07:08+00:00",0,3,0,2,0,0,58
 "SageMakerStudioProjectRoleMachineLearningPolicy","v8",False,"2025-04-14T21:52:06+00:00",0,1,0,0,0,0,49
 "SageMakerStudioProjectRoleMachineLearningPolicy","v3",False,"2024-11-26T05:21:05+00:00",0,1,0,0,0,0,48
 "SageMakerStudioProjectRoleMachineLearningPolicy","v7",False,"2025-02-27T00:22:05+00:00",0,1,0,0,0,0,49
 "SageMakerStudioProjectRoleMachineLearningPolicy","v9",False,"2025-07-14T22:07:08+00:00",0,3,0,2,0,0,58
+"SageMakerStudioProjectRoleMachineLearningPolicy","v11",True,"2025-09-08T18:34:08+00:00",0,3,0,2,0,0,58
 "SageMakerStudioProjectRoleMachineLearningPolicy","v6",False,"2025-02-13T23:07:06+00:00",0,1,0,0,0,0,49
 "SageMakerStudioProjectRoleMachineLearningPolicy","v5",False,"2025-02-12T18:07:07+00:00",0,1,0,0,0,0,49
 "SageMakerStudioProjectRoleMachineLearningPolicy","v4",False,"2024-11-27T06:21:07+00:00",0,1,0,0,0,0,49
