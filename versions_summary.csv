@@ -1764,7 +1764,8 @@
 "CloudWatchLogsReadOnlyAccess","v5",False,"2023-06-06T17:16:08+00:00",0,0,0,0,0,0,0
 "CloudWatchLogsReadOnlyAccess","v4",False,"2019-01-14T19:32:45+00:00",0,0,0,0,0,0,0
 "CloudWatchLogsReadOnlyAccess","v2",False,"2015-12-03T19:59:32+00:00",0,0,0,0,0,0,0
-"MultiPartyApprovalReadOnlyAccess","v1",True,"2025-06-18T20:07:07+00:00",0,0,0,0,0,0,0
+"MultiPartyApprovalReadOnlyAccess","v1",False,"2025-06-18T20:07:07+00:00",0,0,0,0,0,0,0
+"MultiPartyApprovalReadOnlyAccess","v2",True,"2025-09-08T17:04:08+00:00",0,1,0,0,0,0,1
 "KafkaServiceRolePolicy","v1",False,"2018-11-15T23:31:48+00:00",0,1,0,1,0,0,5
 "KafkaServiceRolePolicy","v3",False,"2020-08-26T20:40:53+00:00",0,2,0,3,0,0,7
 "KafkaServiceRolePolicy","v4",True,"2023-04-28T00:39:35+00:00",0,2,0,3,0,0,7
@@ -2045,7 +2046,8 @@
 "ROSAImageRegistryOperatorPolicy","v4",True,"2025-05-19T18:22:06+00:00",0,0,0,0,0,0,0
 "ROSAImageRegistryOperatorPolicy","v2",False,"2023-12-12T19:53:12+00:00",0,0,0,0,0,0,0
 "AmazonSageMakerQuickSightVPCPolicy","v1",True,"2025-06-03T17:37:06+00:00",0,0,0,0,0,0,0
-"MultiPartyApprovalFullAccess","v1",True,"2025-06-18T20:22:07+00:00",1,1,0,0,0,0,5
+"MultiPartyApprovalFullAccess","v1",False,"2025-06-18T20:22:07+00:00",1,1,0,0,0,0,5
+"MultiPartyApprovalFullAccess","v2",True,"2025-09-08T17:04:06+00:00",1,2,0,0,0,0,6
 "AmazonECSInfrastructureRolePolicyForVolumes","v1",False,"2024-01-10T22:56:41+00:00",0,0,0,0,0,0,0
 "AmazonECSInfrastructureRolePolicyForVolumes","v3",True,"2025-05-28T20:52:05+00:00",0,0,0,0,0,0,0
 "AmazonECSInfrastructureRolePolicyForVolumes","v2",False,"2024-10-10T18:56:53+00:00",0,0,0,0,0,0,0

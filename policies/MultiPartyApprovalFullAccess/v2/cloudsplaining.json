@@ -1,0 +1,21 @@
+{
+    "ServiceWildcard": [
+        "mpa"
+    ],
+    "ServicesAffected": [
+        "kms",
+        "sso"
+    ],
+    "PrivilegeEscalation": [],
+    "ResourceExposure": [],
+    "DataExfiltration": [],
+    "CredentialsExposure": [],
+    "InfrastructureModification": [
+        "kms:Decrypt",
+        "sso:DeleteApplication",
+        "sso:PutApplicationAccessScope",
+        "sso:PutApplicationAssignmentConfiguration",
+        "sso:PutApplicationAuthenticationMethod",
+        "sso:PutApplicationGrant"
+    ]
+}
